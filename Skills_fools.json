@@ -1,0 +1,130 @@
+{
+  "dataList": [
+    {
+      "id": 899901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gimme Permen.",
+          "desc": "Prioritaskan target dengan [CandyForCharon]\n[EndSkill] Jika target tidak memiliki [CandyForCharon], beri [CandyForCharon]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [CandyForCharon], target menjadi Stagger giliran berikutnya."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 899902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "No Permen.",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 899903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "You...",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 899904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "... Kkomi's angry.",
+          "desc": "[BeforeAttack] Peroleh Atk Weight setara dengan number of musuh dengan [CandyForCharon]\n[WhenUse] Peroleh Clash Power setara dengan jumlah dari musuh dengan [CandyForCharon]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 899905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vroom-Vroom",
+          "desc": "[WhenUse] Peroleh Clash Power setara dengan jumlah dari Identitas dengan [CandyForCharon]\nBeri +10% damage untuk setiap Identitas dengan [CandyForCharon] (maks 100%)",
+          "coinlist": [
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 899906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "You hit Kkomi.",
+          "desc": "[WhenUse] Peroleh 2 [ParryingResultUp] dan 2 [Agility] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

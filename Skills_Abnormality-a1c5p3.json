@@ -1,0 +1,1950 @@
+{
+  "dataList": [
+    {
+      "id": 810001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Semua Shall Scatter",
+          "desc": "Prioritaskan musuh dengan Marked",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri SP damage sebanyak jumlah dari lit Candles"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri SP damage sebanyak jumlah dari lit Candles"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Longing...",
+          "desc": "Prioritaskan musuh dengan Marked",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Wrath Fragility giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [Combustion], beri 4 Burn"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Wrath Fragility giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [Combustion], beri 4 Burn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "9:2",
+          "desc": "Snuffs out semua Candles giliran berikutnya.\nSetelah hitting target dengan [AaCePcBa], target kehilangan tambahan 5% of its maks HP.\n[DefeatDuel] Beri 10 Burn. Beri target dengan Marked giliran berikutnya.\n[EndBattle] Semua Candles pulihkan ke maks HP.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Target's maks HP berkurang sebanyak 10%."
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 Burn dan +2 Burn Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Target's maks HP berkurang sebanyak 10%."
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 Burn dan +2 Burn Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "6:5",
+          "desc": "[CantDuel][CantChangeTarget]\nTerima damage in target's place. Get staggered giliran berikutnya.\nInflict Marked pada musuh acak tanpa [AaCePcBa].\n[EndBattle] Semua Candles pulihkan ke maks HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Maks HP unit ini berkurang sebanyak 10%."
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 Burn pada diri sendiri"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Maks HP unit ini berkurang sebanyak 10%."
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 Burn pada diri sendiri"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Semua Shall be Revealed",
+          "desc": "[CantDuel]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Wrath Fragility"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Semua Shall Burn",
+          "desc": "[CantDuel]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [Combustion], beri 3 Burn."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sparked Flame",
+          "desc": "Prioritaskan target dengan [AaCePcBa]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 Burn dan +2 Burn Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "So That It Will Burn",
+          "desc": "[StartBattle] Peroleh 20 Perisai\nSnuff out the lights giliran berikutnya ketika out of Perisai",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Burn dan +1 Burn Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Toxic Fluid",
+          "desc": "[StartBattle] Konsumsi 1 Green Slime",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Racun"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Racun"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Corrosive Fluid",
+          "desc": "[StartBattle] Konsumsi 1 Green Slime",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri Defense Level Down sebanyak [Racun] pada target"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Larva"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri Defense Level Down sebanyak [Racun] pada target"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Larva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Paralytic Fluid",
+          "desc": "[StartBattle] Konsumsi 1 Green Slime",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [Racun], beri 1 Paralyze"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Larva"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [Racun], beri 1 Paralyze"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Larva"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Devouring Fluid",
+          "desc": "[StartBattle] Konsumsi 2 Green Slime\n[WhenUse] Beri 3 Larva",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 Racun"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 Paralyze giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 Racun"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 Paralyze giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Effervescent Green Slime",
+          "desc": "[StartBattle] Peroleh Atk Weight sebanyak [AaCePcBh]\n[StartBattle] Peroleh 10 [AaCePcBh]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 Racun"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kehilangan 7 SP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Larva"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 Paralyze dan 3 Defense Level Down giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Predation",
+          "desc": "[CantDuel][CantChangeTarget]\nTarget Green Slime primarily\nDefeats Green Slime upon menyerang",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[TargetKill] Peroleh 3 [AaCePcBh]."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810107,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Overflowing Racun",
+          "desc": "[OnSucceedEvade] Beri 5 Racun",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Headbutt",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 Sinking"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pound",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Sinking Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Sinking Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Press",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Sinking Count jika target memiliki [AaCePcBb]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Sinking Count jika target memiliki [AaCePcBb]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Blind Obsession",
+          "desc": "[DefeatDuel] Unit ini's Fluorescence Bagian kehilangan 34% dari Maks HP.\n[DefeatDuel] Peroleh 1 Blind Obsession",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Sinking Count"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 4 Sinking"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Sinking Count"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 4 Sinking"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 Sinking"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 4 Sinking"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Sinking Deluge"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Crashing Siltcurrent",
+          "desc": "[CantDuel][StartBattle] Alters the environment",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Sinking dan +2 Sinking Count"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Peroleh -2 SP Loss Efficiency giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Sinking dan +2 Sinking Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810206,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wayward Blind Obsession",
+          "desc": "[CantDuel][CantChangeTarget] Target destroyed Flotsam\n[EndSkill] Fluorescence Bagian kehilangan 34% dari Maks HP.\n[EndBattle] Peroleh 1 Blind Obsession.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Destroys target."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810207,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sweep",
+          "desc": "[EndBattle] Create Flotsam",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 Sinking"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Sinking Count jika target memiliki [AaCePcBb]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 Sinking"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Sinking Count jika target memiliki [AaCePcBb]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810208,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wriggle",
+          "desc": "[StartBattle] Habiskan semua Blind Obsession\n[StartBattle] Destroy semua Flotsam dan destroyed Flotsam",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 Sinking"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stab",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 4 Bleed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tear Up Wound",
+          "desc": "[WinDuel] Pulihkan 5 SP.\nBeri +5% damage per [Laceration] pada target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Bleed"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Bleed"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Bleed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Protect the Town!",
+          "desc": "[WhenUse] Peroleh 5 Poise",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +1 Poise Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 4 SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +1 Poise Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 4 SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +1 Poise Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 4 SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +1 Poise Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 4 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tangling Javelin",
+          "desc": "[WhenUse] Peroleh 5 Poise dan +2 Poise Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri Tangle"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Bind giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guard",
+          "desc": "Ketika attacked selama unit ini memiliki Perisai, peroleh 1 Level Offense Up giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Quick Jabs",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri +2 Bleed Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri +1 Bleed Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Carve Wound",
+          "desc": "[WinDuel] Pulihkan 5 SP.\nBeri +5% damage per [Laceration] pada target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Bleed Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Bleed Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Bleed Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Bleed Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Protect the Town!",
+          "desc": "[WhenUse] Peroleh 5 Poise",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +1 Poise Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 4 SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +1 Poise Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 4 SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +1 Poise Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 4 SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +1 Poise Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 4 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Capturing Javelin",
+          "desc": "[WhenUse] Peroleh 5 Poise dan +2 Poise Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri Capture"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Bind giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 811105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Menghindar",
+          "desc": "[OnSucceedEvade] Peroleh 1 Level Offense Up giliran berikutnya (Maks 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Starting Hunt",
+          "desc": "[StartBattle] Summon 4 kawan giliran berikutnya\n[WhenUse] Beri Prey Mark giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Harpooning",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Piercing Harpoon",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Level Offense Down"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Bind giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 Bleed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nafas Dalam",
+          "desc": "[StartBattle] Peroleh 10 Poise dan +10 Poise Count.\nCritical Hits do not konsumsi Poise Count dengan Skill ini.\nAkhir Giliran: Peroleh [PlusCoinValueUp] giliran berikutnya sebanyak jumlah dari surviving other kawan.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Counter",
+          "desc": "Critical Hits do not konsumsi Poise Count dengan Skill ini.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Bleed Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810306,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stalk Prey",
+          "desc": "+30% Damage pada Serangan Critical",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Bleed"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Bleed"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Naikkan target's first Batas Stagger sebanyak 50% dari damage yang diberikan"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 Bleed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810307,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cut Throat",
+          "desc": "Skill ini tidak mengonsumsi Poise Count upon Critical Hit.\nBeri +5% damage untuk setiap [Laceration] pada target\n[WhenUse] Stagger pada Akhir Giliran jika unit ini tidak memiliki Poise pada diri sendiri.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "+50% Damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Stagger target giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810308,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Deep Breathing",
+          "desc": "[StartBattle] Peroleh 3 Poise dan +5 Poise Count.\nUntuk giliran ini, peroleh Final Power setara dengan Potency Poise pada diri sendiri.\nUntuk giliran ini, kehilangan 1 Poise Count ketika attacked.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810309,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "To Survive",
+          "desc": "+30% Damage pada Serangan Critical",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan \"Inti\" dan Bagian HP sebanyak 50% dari damage yang diberikan"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan \"Inti\" dan Bagian HP sebanyak 50% dari damage yang diberikan"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan \"Inti\" dan Bagian HP sebanyak 50% dari damage yang diberikan"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810310,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Must... Protect",
+          "desc": "[TurnStartBattle] Upon menggunakan Skill ini, jika unit ini memiliki lebih dari 0 Assist Barrier, aktifkan Assist Defense.\n[StartBattle] Peroleh 10% dari maks HP sebagai Assist Barrier.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Persistent Harpoon",
+          "desc": "Final Power +1 ketika menyerang target yang sama as Starbuck",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan \"Inti\" dan Bagian HP sebanyak 50% dari damage yang diberikan"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri Tangle"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan \"Inti\" dan Bagian HP sebanyak 50% dari damage yang diberikan"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810312,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Must Finish Hunt...",
+          "desc": "Critical Hits do not konsumsi Poise Count dengan Skill ini.\nBeri +5% damage per [Laceration] pada target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "+50% Damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Stagger target giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Impale",
+          "desc": "[WhenUse] Peroleh +3 Poise Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Bleed Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Bleed Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Bleed Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Piercing Thrust",
+          "desc": "[WhenUse] Peroleh 5 Poise",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Fragile giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Defense Level Down giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gunakan ulang Coin ini sekali (Maks 3)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I Follow Orders...",
+          "desc": "[TurnStartBattle] Jika Queequeg has lebih dari 0 Assist Barrier, aktifkan Assist Attack",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Bleed Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ambush",
+          "desc": "Beri +50% damage dengan Critical Hit\nBeri +5% damage per [Laceration] pada target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Bleed Count"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Naikkan target's first Batas Stagger sebanyak 50% dari damage yang diberikan"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fearful Sigh",
+          "desc": "[WhenUse] Peroleh +6 Poise Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Bleed Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Bleed Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Bleed Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810406,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Determined Harpoon",
+          "desc": "Final Power +2 ketika menyerang target yang sama as Queequeg",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri Capture"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 Defense Level Down giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Fragile giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Gunakan ulang Coin ini sekali (Maks 3)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810407,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "To Escape...",
+          "desc": "Beri +100% damage dengan Critical Hit\nBeri +5% damage per [Laceration] pada target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Bleed Count"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Naikkan target's first Batas Stagger sebanyak 50% dari damage yang diberikan"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Obey My Orders",
+          "desc": "[WhenUse] Pulihkan 10 SP untuk self dan 1 other kawan dengan the least SP ",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "To Me!",
+          "desc": "[StartBattle] Order Queequeg to aktifkan Assist Defense giliran berikutnya. Order is canceled ketika unit ini kena Stagger.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Track Them to the End!",
+          "desc": "[StartBattle] Order Starbuck to aktifkan Assist Attack giliran berikutnya. Order is canceled ketika unit ini kena Stagger.\n[WhenUse] Beri 1 Prey Mark giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Veteran's Harpoon",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Bleed"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Bleed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Burning Harpoon",
+          "desc": "Final Power +1 untuk setiap efek negatif pada target utama (Maks 5)\nBeri +5% damage per [Laceration] pada target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Bleed"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Bleed"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri Burn sebanyak Bleed pada target"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Foolishness!",
+          "desc": "[WhenUse] Pulihkan 5 SP\n[OnSucceedEvade] Target kehilangan 5 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810507,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Exhale!",
+          "desc": "[WhenUse] Beri 1 Prey Mark giliran berikutnya\n[WinDuel] Peroleh 4 Poise",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 Poise to 2 other kawan.\nJika tidak ada other kawan, peroleh 2 Poise Count saja."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810508,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Be Fearless!",
+          "desc": "[WhenUse] Pulihkan 10 SP pada diri sendiri. 1 other kawan dengan the highest SP kehilangan 10 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Burn Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Paralyze ke kawan acak lain giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Burn Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Paralyze ke kawan acak lain giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Burn Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Paralyze ke kawan acak lain giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810509,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tempering of Death",
+          "desc": "[WhenUse] Beri Undefiable Command menjadi 1 kawan dengan the lowest SP\n[DefeatDuel] Naikkan Batas Stagger sebanyak 20 untuk 1 kawan dengan the lowest SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Fragile"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Strike Me Down!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Bleed"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Bleed Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Bleed"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Bleed Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stab to Kill",
+          "desc": "Target unit dengan the least Maks HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 Level Offense Down"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Bleed Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Undying Soul",
+          "desc": "Gunakan ulang Menghindar upon Menghindar failure (Hingga 2 kali)\n[OnDefeatEvade] Kehilangan 2 Pip's Ego",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Murky Innocence",
+          "desc": "[DefeatDuel] Peroleh 2 Defense Power Down. Kehilangan 10 SP pada diri sendiri",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 Pallid Noise"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Paralyze"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 Pallid Noise"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Bind giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Weight of Guilt",
+          "desc": "Target 3 unit dengan the least Maks HP\n[StartBattle] Peroleh Base Power +2 dan Atk Weight +1 untuk setiap 5 Pip's Ego\n[WhenUse] Kehilangan 3 Pip's Ego",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Pallid Noise"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Naikkan Batas Stagger sebanyak 30 "
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Target kehilangan 10 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "사용하지않는스킬(번역x)",
+          "desc": "",
+          "coinlist": [
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810607,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Swathed Fear",
+          "desc": "[WhenUse] Beri 1 Prey Mark giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 Pallid Noise"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Bleed dan +4 Bleed Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810608,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Punctured Weakness",
+          "desc": "[WhenUse] Beri 1 Prey Mark giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 Pallid Noise"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Level Offense Down giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810609,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Echoing Cry",
+          "desc": "Beri +5% damage untuk setiap 1 Bleed pada target\nJika target tidak memiliki Prey Mark, Coin Power +1\n[DefeatDuel] Kehilangan 5 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Bleed"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 SP damage on 3 musuh acak"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Bleed"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 SP damage on 3 musuh acak"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Bleed"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 SP damage on 3 musuh acak"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Bleed"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 SP damage on 3 musuh acak"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Bleed"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 SP damage on 3 musuh acak"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gunakan Ulang Coin terakhir sekali untuk setiap 10 Starbuck's Ego"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810610,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Clouded Path",
+          "desc": "[WhenUse] Beri 1 Prey Mark giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Damage Down"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Bleed Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 Pallid Noise"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 Bleed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bleached Atonement",
+          "desc": "[WhenUse] Kehilangan 5 Queequeg's Ego\n[WinDuel] Peroleh 6 Defense Level Up\n[DefeatDuel] Kehilangan 5 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Pallid Noise"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Stagger target"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810612,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Insidious Pallidification",
+          "desc": "[StartBattle] Peroleh 10% dari Maks HP as Perisai. Untuk setiap Queequeg's Ego, peroleh tambahan 0.5% dari Maks HP as tambahan Perisai.\nKetika attacked while Shielded, penyerang kehilangan 5 SP\nKetika attacked, gunakan Skill ini sekali untuk setiap 10 Queequeg's Ego",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Bleed"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Bleed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 810007,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Scorn Not the Prophecy",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Combustion] dan 2 [Combustion] Count pada target"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

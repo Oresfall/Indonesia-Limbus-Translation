@@ -1,0 +1,29 @@
+{
+  "dataList": [
+    {
+      "id": 815101,
+      "name": "Resistansi Dosa",
+      "desc": "Kecuali unit ini kena Stagger atau \"Tubuh\" Rusak, terima 50% kurang damage [Combustion]."
+    },
+    {
+      "id": 815201,
+      "name": "Resistansi Dosa",
+      "desc": "Kecuali unit ini kena Stagger atau \"Tubuh\" Rusak, terima 50% kurang damage [Sinking]."
+    },
+    {
+      "id": 815301,
+      "name": "Sarung Pedang Kebencian",
+      "desc": "Peroleh [Grudge] pada Awal Giliran jika 'Untuk Ambil Tulang Mereka' ada pada Skill Slot. Hapus [Grudge] pada Akhir Giliran"
+    },
+    {
+      "id": 815402,
+      "name": "Tarian Pedang",
+      "desc": "Pada 20% HP, peroleh pola baru.\nPada 20%- HP, starting giliran berikutnya, peroleh 20 [Grudge] setiap giliran. [Grudge] tidak dapat kadaluarsa"
+    },
+    {
+      "id": 815403,
+      "name": "Pertumbuhan Kebencian",
+      "desc": "Ketika menerima Sinking damage, peroleh 1 Defense Level Down giliran berikutnya. (5 kali per giliran)"
+    }
+  ]
+}

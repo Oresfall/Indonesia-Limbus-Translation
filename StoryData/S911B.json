@@ -1,0 +1,587 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Tim Riset LCE Sektor Penyiaran Entrance",
+      "model": "싱클레어",
+      "content": "Sepertinya lewat sini."
+    },
+    {
+      "id": 1,
+      "model": "이스마엘",
+      "content": "Hmm. Hanya area ini yang lampunya menyala... Tertulis \"Sektor Penyiaran.\""
+    },
+    {
+      "id": 2,
+      "model": "로쟈",
+      "content": "Bisa seseorang katakan padaku... apakah datang ke sini keputusan yang tepat?"
+    },
+    {
+      "id": 3,
+      "model": "뫼르소",
+      "content": "Semua rute lainnya terblokir kecuali rute yang menuju ke sektor ini."
+    },
+    {
+      "id": 4,
+      "model": "그레고르",
+      "content": "Sepertinya kita memang akan berakhir di sini... bagaimanapun caranya."
+    },
+    {
+      "id": 5,
+      "model": "단테",
+      "content": "<Sulit untuk melihat apapun saat segelap ini...>"
+    },
+    {
+      "id": 6,
+      "model": "이스마엘",
+      "content": "Karena sebagian besar listrik mati, pintunya seharusnya tidak terkunci."
+    },
+    {
+      "id": 7,
+      "model": "에즈라",
+      "teller": "Pengeras Suara",
+      "title": "Sektor Penyiaran",
+      "content": "Berhenti."
+    },
+    {
+      "id": 8,
+      "model": "에즈라",
+      "teller": "Pengeras Suara",
+      "title": "Sektor Penyiaran",
+      "content": "Melangkah lebih dekat lagi... dan kamu memaksa kami bertindak!"
+    },
+    {
+      "id": 9,
+      "content": "Suara yang familiar datang dari pengeras suara, memberi peringatan tajam."
+    },
+    {
+      "id": 10,
+      "model": "에즈라",
+      "teller": "Pengeras Suara",
+      "title": "Sektor Penyiaran",
+      "content": "Seluruh area ini dipasangi ranjau darat keamanan. Bahkan jika kamu entah bagaimana berhasil melewati ladang ranjau itu, kamu harus menghadapi sisanya dari kami. Aku memperingatkanmu—setiap orang dari kami di sini siap bertempur!"
+    },
+    {
+      "id": 11,
+      "model": "에즈라",
+      "teller": "Pengeras Suara",
+      "title": "Sektor Penyiaran",
+      "content": "Dan jika kamu pikir kau lebih kuat dari kami, kami memiliki perangkat penghancur diri. Bom yang diisi dengan... gerigi super-mini... serpihan..."
+    },
+    {
+      "id": 12,
+      "model": "에즈라",
+      "teller": "Pengeras Suara",
+      "title": "Sektor Penyiaran",
+      "content": "Eh bentar deh—ini seharusnya tulisannya apa? \"Me... bo...\"? Apa-apaan? Dan kupikir tulisan tanganku udah jelek!"
+    },
+    {
+      "id": 13,
+      "model": "마튼",
+      "teller": "Pengeras Suara",
+      "title": "Sektor Penyiaran",
+      "content": "Oh. Ini... \"Melempar bom ini akan mengakibatkan ledakan yang mencakup zona radius 100 meter dari titik detonasi...\""
+    },
+    {
+      "id": 14,
+      "model": "에즈라",
+      "teller": "Pengeras Suara",
+      "title": "Sektor Penyiaran",
+      "content": "Hei! Itu pelanggaran Tabu, tahu? Setidaknya cobalah untuk membuat sesuatu yang meyakinkan!"
+    },
+    {
+      "id": 15,
+      "model": "에즈라",
+      "teller": "Pengeras Suara",
+      "title": "Sektor Penyiaran",
+      "content": "A-apa pun itu! Berbalik dan pergilah sekarang atau kami akan menguburmu semua bersama kami di bawah fasilitas ini!"
+    },
+    {
+      "id": 16,
+      "model": "싱클레어",
+      "content": "Kami bisa mendengar semuanya, lho..."
+    },
+    {
+      "id": 17,
+      "model": "파우스트",
+      "content": "Sangat mungkin bahwa bom itu hanyalah gertakan. Bom apa pun yang termasuk dalam kategori bahan peledak... harus \"ditanam\" pada objek atau permukaan sesuai aturan yang ditetapkan oleh <ruby=Sang Kepala>The Head</ruby>."
+    },
+    {
+      "id": 18,
+      "model": "이상",
+      "content": "Mm. Dan bualan tentang ledakan itu tidak masuk akal. Radius selebar itu... pastinya akan melanggar banyak larangan dan batasan."
+    },
+    {
+      "id": 19,
+      "model": "에즈라",
+      "teller": "Pengeras Suara",
+      "title": "Sektor Penyiaran",
+      "content": ".... Tentu, tapi aku tidak menggertak soal ranjau darat itu. Maju satu langkah lagi... dan sambaran listrik berlebih akan memanggang kalian."
+    },
+    {
+      "id": 20,
+      "content": "Saat suara di balik mikrofon mulai semakin kesal, suaranya juga menjadi semakin familiar. Aku cukup yakin pernah mendengarnya di suatu tempat sebelumnya..."
+    },
+    {
+      "id": 21,
+      "model": "그레고르",
+      "content": "Menurut Alyssa, Hohenheim seharusnya ada di sekitar sini."
+    },
+    {
+      "id": 22,
+      "model": "호엔하임",
+      "teller": "Pengeras Suara",
+      "title": "Sektor Penyiaran",
+      "content": "Tunggu. Apa anda baru saja menyebut \"Alyssa?\""
+    },
+    {
+      "id": 23,
+      "model": "파우스트",
+      "content": "Suara itu... Sepertinya kita tidak salah."
+    },
+    {
+      "id": 24,
+      "content": "Sekarang, aku benar-benar mengenali suara *ini*."
+    },
+    {
+      "id": 25,
+      "model": "호엔하임",
+      "teller": "Suara yang Tidak Ramah",
+      "title": "???",
+      "content": "Suara yang lebih memilih tidak kusambut itu memberitahuku..."
+    },
+    {
+      "id": 26,
+      "model": "호엔하임",
+      "teller": "Suara yang Tidak Ramah",
+      "title": "???",
+      "content": "Bahwa individu-individu ini boleh dibiarkan lewat."
+    },
+    {
+      "id": 27,
+      "model": "파우스트",
+      "content": "Suara yang lebih memilih tidak disambut oleh Faust memberitahu Faust bahwa individu-individu ini boleh didekati."
+    },
+    {
+      "id": 28,
+      "content": "Suara debuman berat, lalu..."
+    },
+    {
+      "id": 29,
+      "content": "Pintu Sektor Penyiaran perlahan terbuka, tapi sebelum kami bisa melihat dengan jelas orang-orang yang bersembunyi di dalam..."
+    },
+    {
+      "id": 30,
+      "place": "Tim Riset LCE Sektor Penyiaran",
+      "model": "에즈라",
+      "teller": "???",
+      "title": "???",
+      "content": "Apa...?! Kalian! Kalian harusnya bilang dari awal dong kalo itu kalian!"
+    },
+    {
+      "id": 31,
+      "model": "에즈라",
+      "content": "Masih ingat aku?"
+    },
+    {
+      "id": 32,
+      "model": "싱클레어",
+      "content": "Oh! Itu Nona Ezra!"
+    },
+    {
+      "id": 33,
+      "content": "Kami berhadapan muka dengan Ezra, yang sebelumnya telah melakukan panggilan video kepada kami dengan segudang informasi tentang <ruby=Iblis Darah>Bloodfiends</ruby> sebelum misi kami di La Manchaland."
+    },
+    {
+      "id": 34,
+      "model": "에즈라",
+      "content": "Kudengar kalian menyelamatkan situasi di La Manchaland!"
+    },
+    {
+      "id": 35,
+      "model": "에즈라",
+      "content": "Dan itu semua berkat diriku, aku yakin. Jadi, maukah kalian memberitahuku siapa <ruby=Pendosa>Sinner</ruby> Luar Biasa di tim kalian?"
+    },
+    {
+      "id": 36,
+      "model": "싱클레어",
+      "content": "Hah? Apa? Oh... Yah, itu..."
+    },
+    {
+      "id": 37,
+      "model": "모제스2",
+      "content": "Kenapa kita tidak lewati basa-basi untuk saat ini, Ezra."
+    },
+    {
+      "id": 38,
+      "content": "Orang berikutnya yang muncul adalah Moses."
+    },
+    {
+      "id": 39,
+      "content": "Aku juga melihatnya di panggilan video itu... Ketua Tim di LCD, jika ingatanku tidak salah."
+    },
+    {
+      "id": 40,
+      "model": "이스마엘",
+      "content": "... Apa kamu yang mengancam kami dengan omong kosong tentang bom itu, Ezra?"
+    },
+    {
+      "id": 41,
+      "model": "에즈라",
+      "content": "Maksudku, pilihan apa lagi yang kumiliki? Kami mulai percaya bahwa kami adalah satu-satunya penyintas di sini, dan kemudian... bam! Selusin langkah kaki bergegas masuk ke sektor ini entah dari mana... Kami bahkan tidak bisa memeriksa siapa kalian karena layarnya rusak semua."
+    },
+    {
+      "id": 42,
+      "content": "Ezra menunjuk ke arah layar pengawasan yang kosong di Sektor Penyiaran dengan dagunya."
+    },
+    {
+      "id": 43,
+      "model": "에즈라",
+      "content": "Sebagai informasi, Tuan Jenius di sana sedang mencoba memperbaiki kamera keamanan. Katanya itu akan memakan waktu karena pemadaman listrik, sih..."
+    },
+    {
+      "id": 44,
+      "model": "호엔하임",
+      "content": "Aku tidak menyangka jalan kita akan bersilangan lagi untuk sesuatu yang baik, tapi aku tentu tidak pernah membayangkan itu akan terjadi seperti ini."
+    },
+    {
+      "id": 45,
+      "content": "Di bawah deretan monitor yang ditunjuk Ezra, kami menemukan Hohenheim—terlihat lebih layu dari yang kami ingat—yang memberi kami anggukan samar yang tidak ramah saat dia mengutak-atik kabel listrik."
+    },
+    {
+      "id": 46,
+      "model": "마튼",
+      "content": "Halo. Aku lega melihat tidak ada yang terluka di antara kalian."
+    },
+    {
+      "id": 47,
+      "content": "Marton melangkah maju dan menawarkan sapaan yang Hohenheim pilih untuk dilewatkan."
+    },
+    {
+      "id": 48,
+      "model": "호엔하임",
+      "content": "Bagaimanapun, kau bilang Alyssa yang memberitahumu lokasi kami? Hmm. Jika dia tidak bersamamu, dia pasti terluka parah atau sudah mati."
+    },
+    {
+      "id": 49,
+      "model": "이스마엘",
+      "content": "Uh... Dia terluka parah, ya. Tapi kami sedang mencari cara untuk membantunya."
+    },
+    {
+      "id": 50,
+      "content": "Ishmael menatap Hohenheim dengan pucat seolah dia terkejut dengan kepastian dinginnya mengenai nasib bawahannya sendiri."
+    },
+    {
+      "id": 51,
+      "model": "호엔하임",
+      "content": "\"Mencari,\" hmm? Kalian bicara seolah-olah sedang bermain permainan berburu harta karun."
+    },
+    {
+      "id": 52,
+      "model": "호엔하임",
+      "content": "Mungkin akan lebih baik untuk mengakhiri penderitaannya saat itu juga."
+    },
+    {
+      "id": 53,
+      "model": "히스클리프",
+      "content": "Apa...? Belum pernah lihat cara kami menangani sesuatu? Dia masih punya kesempatan. Jangan cepat nyerah gitu aja."
+    },
+    {
+      "id": 54,
+      "model": "마튼",
+      "content": "Tolong jangan salah paham. Beberapa penyerang ini... Mereka sepertinya menikmati menyiksa korban mereka. Itulah yang membuat bos kami gelisah..."
+    },
+    {
+      "id": 55,
+      "model": "마튼",
+      "content": "Bos dan aku berada di dekat laboratorium saat serangan dimulai. Tidak banyak karyawan di sekitar, dan Sektor Penyiaran kebetulan berada di dekatnya."
+    },
+    {
+      "id": 56,
+      "model": "마튼",
+      "content": "Mungkin itulah satu-satunya alasan kami bisa menemukan perlindungan di sini dengan selamat."
+    },
+    {
+      "id": 57,
+      "model": "돈키호테",
+      "content": "... Sungguh, nak Alyssa pasti akan bertahan dengan tabah."
+    },
+    {
+      "id": 58,
+      "model": "돈키호테",
+      "content": "Hamba telah bersumpah untuk kembali dan menyelamatkannya dari kematian."
+    },
+    {
+      "id": 59,
+      "model": "마튼",
+      "content": "... Terima kasih. Aku yakin Alyssa... berpegang teguh pada janji kalian."
+    },
+    {
+      "id": 60,
+      "model": "에즈라",
+      "content": "Um, maaf mengganggu momen mengharukan ini... tapi jika kalian di sini, <ruby=Fixer Warna>Color Fixer</ruby> itu seharusnya sedang dalam perjalanan juga, kan?!"
+    },
+    {
+      "id": 61,
+      "model": "에즈라",
+      "content": "Di mana dia sekarang? Aku bertanya-tanya apakah dia sudah pergi mencari para penyerang itu..."
+    },
+    {
+      "id": 62,
+      "model": "모제스2",
+      "content": "... Ezra."
+    },
+    {
+      "id": 63,
+      "content": "Moses, yang sejak tadi menatap Outis, mengalihkan pandangannya ke arah Ezra."
+    },
+    {
+      "id": 64,
+      "model": "에즈라",
+      "content": "Ketua Tim! Jika kita bisa berkumpul kembali dengan <ruby=Sang Merah Netra>The Red Gaze</ruby>, kurasa kita akan punya peluang bertarung yang lebih dari cukup bahkan tanpa lebah kecil kita!"
+    },
+    {
+      "id": 65,
+      "model": "모제스2",
+      "content": "Ya. Tapi... sepertinya <ruby=Sang Merah Netra>The Red Gaze</ruby> tidak ada di sini bersama mereka."
+    },
+    {
+      "id": 66,
+      "model": "모제스2",
+      "content": "Sekadar melihat ekspresi wajah mereka sudah cukup untuk mengonfirmasinya."
+    },
+    {
+      "id": 67,
+      "model": "에즈라",
+      "content": "Apaaa?! Kalian terus ngapain di sini tanpa dia?!"
+    },
+    {
+      "id": 68,
+      "content": "Ezra langsung terlihat masam begitu menyadari bahwa Vergilius tidak bersama kami; suaranya menerjang kami seperti suara seorang tuan rumah yang berteriak pada tamu tak diundang yang masuk ke rumahnya."
+    },
+    {
+      "id": 69,
+      "model": "이스마엘",
+      "content": "Bukannya... Bukannya kami datang ke sini sendiri karena kami mau..."
+    },
+    {
+      "id": 70,
+      "model": "그레고르",
+      "content": "Pemandu kami tertahan oleh penyerang... Ryōshū bilang dia dipanggil \"Thumb Nursefather\"... dari <ruby=Rumah Laba-laba>House of Spiders</ruby>..."
+    },
+    {
+      "id": 71,
+      "model": "모제스2",
+      "content": "Dan mungkin musuh yang tangguh juga... sama seperti mereka yang menyerang fasilitas ini."
+    },
+    {
+      "id": 72,
+      "model": "오티스",
+      "content": "... Kemampuan bertarung musuh kita tidak boleh diremehkan."
+    },
+    {
+      "id": 73,
+      "model": "모제스2",
+      "content": "Bagaimana dia dibandingkan dengan Euryalos dari Unit Argos?"
+    },
+    {
+      "id": 74,
+      "model": "오티스",
+      "content": "Hmm... Sekitar level yang sama, menurut saya..."
+    },
+    {
+      "id": 75,
+      "model": "오티스",
+      "content": "Tunggu. Anda... Jika anda tahu nama-nama itu, itu berarti..."
+    },
+    {
+      "id": 76,
+      "content": "Moses tidak membalas Outis. Sebaliknya, dia memejamkan mata, tampak tenggelam dalam lamunan singkat..."
+    },
+    {
+      "id": 77,
+      "content": "... dan segera kembali ke topik yang sedang dibahas seolah-olah dia sudah selesai menyortir pikirannya."
+    },
+    {
+      "id": 78,
+      "model": "모제스3",
+      "content": "... Charon—apa dia disandera?"
+    },
+    {
+      "id": 79,
+      "model": "싱클레어",
+      "content": "Hah? Bagaimana kamu tahu...?"
+    },
+    {
+      "id": 80,
+      "model": "모제스3",
+      "content": "Kau menyebutkan penyerang dalam bentuk tunggal. Mungkin hanya salah ucap, tapi aku curiga itu hanya satu musuh jika bukan jumlah kecil."
+    },
+    {
+      "id": 81,
+      "model": "모제스3",
+      "content": "Selain itu... Meskipun datang ke sini tanpa pengemudi bus, tidak satu pun dari kalian tampak yakin bahwa <ruby=Sang Merah Netra>The Red Gaze</ruby> akan mampu mengalahkan penyerang itu dengan cepat dan bergabung dengan kalian."
+    },
+    {
+      "id": 82,
+      "model": "오티스",
+      "content": "……."
+    },
+    {
+      "id": 83,
+      "model": "에즈라",
+      "content": "Serahkan pada Ketua Tim kita! Hanya satu lirikan cukup baginya untuk mengetahui semuanya."
+    },
+    {
+      "id": 84,
+      "model": "에즈라",
+      "content": "Oiya, apa kalian kebetulan bertemu siapa pun dalam perjalanan ke sini?"
+    },
+    {
+      "id": 85,
+      "model": "이스마엘",
+      "content": "Hanya beberapa peccatula dan manikin... Tunggu sebentar. Kenapa bukan kami yang mengajukan pertanyaan?"
+    },
+    {
+      "id": 86,
+      "content": "Ishmael nyaris berhasil merebut kendali percakapan di tengah rentetan pertanyaan itu."
+    },
+    {
+      "id": 87,
+      "model": "이스마엘",
+      "content": "Kalian berdua dari LCD. Apa yang kalian lakukan di sini di Markas Besar tempat LCE berada?"
+    },
+    {
+      "id": 88,
+      "model": "에즈라",
+      "content": "Yah, soal itu..."
+    },
+    {
+      "id": 89,
+      "model": "에즈라",
+      "content": "LCE seharusnya membuat laporan kemajuan penting hari ini."
+    },
+    {
+      "id": 90,
+      "model": "에즈라",
+      "content": "Rupanya, itu presentasi yang *saaaangat* penting juga! Kami telah menerima segudang pengingat tentang betapa wajibnya acara itu... Benar kan, Ketua Tim? Rasanya semua orang mengabaikan betapa *saaaangat* sibuknya departemen kami!"
+    },
+    {
+      "id": 91,
+      "model": "호엔하임",
+      "content": "Maaf meminjam kata-katamu, tapi ini memang presentasi yang *saaaangat* penting."
+    },
+    {
+      "id": 92,
+      "model": "에즈라",
+      "content": "Ya, untukmu mungkin. Tapi departemenku juga *saaaangat* *saaaangat*..."
+    },
+    {
+      "id": 93,
+      "model": "단테",
+      "content": "<Tunggu... Kurasa bukan itu inti masalahnya saat ini...>"
+    },
+    {
+      "id": 94,
+      "model": "모제스2",
+      "content": "Presentasi itu tidak terjadi. Dengan demikian, kami tidak dapat menilai kepentingannya saat ini."
+    },
+    {
+      "id": 95,
+      "model": "모제스2",
+      "content": "Apa pun masalahnya, acara itulah yang mengharuskan kami anggota LCD hadir di sini di Departemen LCE."
+    },
+    {
+      "id": 96,
+      "model": "모제스2",
+      "content": "Dan ada satu hal lagi... Izinkan saya memperkenalkan tambahan terbaru untuk LCD."
+    },
+    {
+      "id": 97,
+      "model": "에즈라",
+      "content": "Ya, tim kami telah bertambah besar! Rasakan itu!"
+    },
+    {
+      "id": 98,
+      "model": "모제스2",
+      "content": "Aku diberitahu kalian sudah pernah bertemu sebelumnya."
+    },
+    {
+      "id": 99,
+      "content": "Siluet familiar melangkah maju dari sisi seberang—seseorang yang tidak kami duga akan kami temui di tempat seperti ini."
+    },
+    {
+      "id": 100,
+      "model": "LCD앵두",
+      "content": "Aku menyesal bahwa kita harus selalu bertemu di tengah kesulitan seperti ini. Aku harap kalian baik-baik saja?"
+    },
+    {
+      "id": 101,
+      "model": "홍루",
+      "content": "Nona Aeng-du! Sudah terlalu lama."
+    },
+    {
+      "id": 102,
+      "model": "홍루",
+      "content": "Apakah Tuan <ruby=Kim Bertopi Bambu>Bamboo-hatted Kim</ruby>... masih dalam pemulihan?"
+    },
+    {
+      "id": 103,
+      "model": "LCD앵두",
+      "content": "Mm. Daging mentorku... sudah lama sembuh, tapi butuh waktu sampai pikirannya mendapatkan kembali ketenangannya yang dulu. Berapa pun lamanya menunggu, harus kutanggung..."
+    },
+    {
+      "id": 104,
+      "model": "LCD앵두",
+      "content": "Aku yakin dia akan pulih pada waktunya. Sampai saat itu, dalam diam aku akan menebus pelanggaran yang telah kulakukan..."
+    },
+    {
+      "id": 105,
+      "content": "... Aeng-du tampak merujuk pada bagaimana dia menusuk <ruby=Kim Bertopi Bambu>Bamboo-hatted Kim</ruby> dengan pedangnya di bawah pengaruh Distorsi Monolit."
+    },
+    {
+      "id": 106,
+      "model": "싱클레어",
+      "content": "Tetap saja, aku senang kau tampak menyesuaikan diri dengan baik dengan kehidupan di LCD."
+    },
+    {
+      "id": 107,
+      "content": "Sinclair menangkap bayangan yang melintas di wajah Aeng-du dan dengan cepat melangkah maju untuk mencairkan suasana."
+    },
+    {
+      "id": 108,
+      "model": "LCD앵두",
+      "content": "Aku ingin bilang aku diterima, tapi aku sangat bersyukur bagaimanapun juga. Mentorku dan aku tidak punya tempat lagi untuk disebut rumah..."
+    },
+    {
+      "id": 109,
+      "model": "LCD앵두",
+      "content": "Tapi suatu hari nanti... kami akan..."
+    },
+    {
+      "id": 110,
+      "model": "LCD앵두",
+      "content": "... kembali ke S Corp. bersama-sama."
+    },
+    {
+      "id": 111,
+      "model": "이스마엘",
+      "content": "Sepertinya dia juga berusaha sebaik mungkin untuk menyesuaikan diri."
+    },
+    {
+      "id": 112,
+      "model": "그레고르",
+      "content": "Selalu sulit untuk menetap di mana pun kau memulai."
+    },
+    {
+      "id": 113,
+      "model": "모제스2",
+      "content": "Sekarang setelah kita semua saling mengenal..."
+    },
+    {
+      "id": 114,
+      "model": "모제스2",
+      "content": "Mari kita beralih ke masalah yang ada."
+    }
+  ]
+}

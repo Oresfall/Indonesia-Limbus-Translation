@@ -1,0 +1,984 @@
+{
+    "dataList": [
+        {
+            "id": 9008801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sow Fear",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail] Beri 2 SP damage"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail] Beri 2 SP damage"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Engrave Horror",
+                    "desc": "[WinDuel] Beri 10 SP damage ke target; unit ini memulihkan 10 HP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 Bind giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008803,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Reap Horror",
+                    "desc": "Jika target’s SP di bawah 20, pulihkan 20% lebih HP dari this attack",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail] Beri 3 SP damage"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Pulihkan sebanyak 30% dari damage yang diberikan"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail] Beri 3 SP damage"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Pulihkan sebanyak 30% dari damage yang diberikan"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Paralyze Mind",
+                    "desc": "Jika SP target di bawah -15, beri +50% damage",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Paralyze giliran berikutnya"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Paralyze giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "-... - ..-",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 Sinking"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 Sinking"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "-- ... -.-",
+                    "desc": "[WinDuel] Beri 1 Pallid Noise",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 Sinking"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri +3 Sinking Count"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008903,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "...- .",
+                    "desc": "Final Power +1 untuk setiap surviving Pallidified kawan (not counting unit ini)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Pulihkan sebanyak 40% dari damage yang diberikan"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Copy one of the buffs currently applied to target. Peroleh the copied buff giliran berikutnya.\n(Limited to: Attack Power Up, Haste, Damage Up, dan <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protection</link></u></color>)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Pulihkan sebanyak 40% dari damage yang diberikan"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "..-. .",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +2 Sinking Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +2 Sinking Count"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "..-. . --",
+                    "desc": "[WinDuel] Beri 1 Pallid Noise",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +2 Sinking Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 2 Sinking"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": ".-.. -",
+                    "desc": "[WinDuel] Beri 1 SP damage ke target untuk setiap surviving Pallidified kawan (not counting unit ini)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Pulihkan sebanyak 40% dari damage yang diberikan"
+                                },
+                                {
+                                    "desc": "Copy one of the buffs currently applied to target. Peroleh the copied buff giliran berikutnya.\n(Limited to: Attack Power Up, Haste, Damage Up, dan <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protection</link></u></color>)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Pulihkan sebanyak 40% dari damage yang diberikan"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "-... .…",
+                    "desc": "Jika target memiliki <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</link></u></color>, the HP pulihkan efek also memberi menjadi 1 other Pallidified kawan dengan the lowest SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Pulihkan sebanyak 30% dari damage yang diberikan"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 1 Sinking"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Pulihkan sebanyak 30% dari damage yang diberikan"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 1 Sinking"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": ".--- .",
+                    "desc": "Jika target memiliki <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</link></u></color>, the HP pulihkan efek also memberi menjadi 1 other Pallidified kawan dengan the lowest SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Pulihkan sebanyak 50% dari damage yang diberikan"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Pallid Noise"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "-. .…",
+                    "desc": "[WhenUse] Jika target memiliki <sprite name=\"AaCePbBa\"><color=#e30000><u><link=\"AaCePbBa\">Pallid Noise</link></u></color>, semua other Pallidified kawan pulihkan 30 HP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Copy one of the buffs currently applied to target. Peroleh the copied buff giliran berikutnya.\n(Limited to: Attack Power Up, Haste, Damage Up, dan <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protection</link></u></color>)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Pulihkan 20 HP pada diri sendiri"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "-- . -.-",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 Tremor"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 Tremor"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "-... .-",
+                    "desc": "[WhenUse] Beri 1 Protection menjadi 1 other acak kawan giliran berikutnya. Jika kawan is a Pallidified kawan, beri 1 tambahan Protection.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +4 Tremor Count"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "-.-. ..-",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Aktifkan Tremor Burst"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Kurangi Tremor Count sebanyak 2"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 Pallid Noise"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 10 Rupture dan +4 Rupture Count"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": ".--. .",
+                    "desc": "[StartBattle] Peroleh 1 Protection untuk setiap 2 Pallidified kawan (not counting unit ini)\nKetika attacked selama unit ini memiliki Perisai, beri 1 Tremor to penyerang",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "..-. .",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Defense Level Down"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": ".-.. .",
+                    "desc": "[WhenUse] Beri 1 Damage Up menjadi 1 other acak Pallidified kawan giliran berikutnya",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Paralyze"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 1 Pallid Noise"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": ".-.. .-",
+                    "desc": "[WhenUse] Beri 1 Damage Up menjadi 1 acak Pallidified kawan giliran berikutnya",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Defense Level Down"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 Pallid Noise"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Defense Level Down"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009401,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "--. . ...-",
+                    "desc": "Jika target memiliki <sprite name=\"AaCePbBa\"><color=#e30000><u><link=\"AaCePbBa\">Pallid Noise</link></u></color>, beri 1 SP damage ke target untuk setiap other kawan yang bertahan hidup",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +2 Bleed Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 3 Bleed"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009402,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "...- …",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 Pallid Noise"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +3 Bleed Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 Bleed"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009403,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": ".--. .... -",
+                    "desc": "[WinDuel] Beri 1 Pallid Noise",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 4 Bleed giliran berikutnya"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Fragile giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009404,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "-.- -",
+                    "desc": "Ketika attacked selama unit ini memiliki Perisai, beri 1 Pallid Noise to target\n[EndBattle] Jika unit ini memiliki Perisai, peroleh 3 Poise giliran berikutnya",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009501,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": ".--. -",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Bind giliran berikutnya"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Bleed"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009502,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": ".-.. - ..-",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 Paralyze giliran berikutnya"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Bleed"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Damage Down giliran berikutnya"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Bleed"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009503,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "-- .... -",
+                    "desc": "[WhenUse] Peroleh 1 Protection untuk setiap kawan yang bertahan hidup. (Maks 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Peroleh 2 Protection"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 1 Pallid Noise"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Peroleh 2 Protection giliran berikutnya"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 4 Bleed giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009504,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "-.- ..",
+                    "desc": "[WhenUse] Peroleh 2 Protection\nKetika attacked selama unit ini memiliki Perisai, beri 1 Pallid Noise to target\n[EndBattle] Pulihkan HP sebanyak x2 of the remaining Perisai HP.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Right in the Solar Plexus",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 1 Paralyze giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "We Remember!",
+                    "desc": "[DefeatDuel] Peroleh 1 Damage Up giliran berikutnya",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Bind giliran berikutnya"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri tambahan damage tetap setara dengan jumlah dari the Middle kawan killed during this wave"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009603,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Menghancurkan Tengkorak",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 1 Attack Power Down giliran berikutnya"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Paralyze giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009604,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ready to Write",
+                    "desc": "[EndBattle] Jika unit ini memiliki Perisai, peroleh 1 Attack Power Up giliran berikutnya",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009605,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pembalasan",
+                    "desc": "[DefeatDuel] Peroleh 1 Damage Up giliran berikutnya",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Paralyze giliran berikutnya"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail] Naikkan Batas Stagger sebanyak 8"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009606,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Multifold Retribution",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Naikkan Batas Stagger sebanyak 30"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 20 damage HP tetap"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 3 Paralyze giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Right in the Solar Plexus",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 1 Paralyze giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Write Their Sins!",
+                    "desc": "[DefeatDuel] Peroleh 1 Damage Up giliran berikutnya",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Damage Down giliran berikutnya"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri tambahan damage tetap setara dengan jumlah dari the Middle kawan killed during this wave"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009703,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Skull Bursting",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 1 Plus Coin Drop giliran berikutnya"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 Plus Coin Drop giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ready to Write",
+                    "desc": "Jika unit ini's Perisai is fully depleted, peroleh 1 Attack Power Up giliran berikutnya",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009705,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pembalasan",
+                    "desc": "[DefeatDuel] Peroleh 1 Damage Up giliran berikutnya",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Paralyze giliran berikutnya"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackTail] Naikkan Batas Stagger sebanyak 8"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009706,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Multifold Retribution",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Naikkan Batas Stagger sebanyak 30"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 20 damage HP tetap"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 Paralyze giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

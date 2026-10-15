@@ -1,0 +1,373 @@
+{
+  "dataList": [
+    {
+      "id": 9102701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gigit",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Assault",
+          "desc": "Jika target memiliki 6+ [Sinking], Clash Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Sinking] dan +2 Count [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hantaman Bawah",
+          "desc": "Jika target memiliki 6+ [Sinking], Clash Power +1\n[StartBattle] Pada 33%- HP, ubah semua Coin pada Skill ini menjadi [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 3 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ripping Mutilation",
+          "desc": "Jika target memiliki 6+ [Sinking], Clash Power +1\n[StartBattle] Pada 33%- HP, ubah Coin terakhir on Skill ini menjadi [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [NervousImpairment]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Incision of Life",
+          "desc": "Final Power +1 untuk setiap 6 [Sinking] pada target (maks 3)\n[StartBattle] Pada 50%- HP, ubah semua Coin pada Skill ini menjadi [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [NervousImpairment]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Frenzy",
+          "desc": "Final Power +1 untuk setiap 6 [Sinking] pada target (maks 3)\n[StartBattle] Pada 50%- HP, ubah semua Coin pada Skill ini menjadi [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [NervousImpairment]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 3 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [NervousImpairment]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 6 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Reap Nutrisi",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [NervousImpairment]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9103001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lacerating Gigit",
+          "desc": "Final Power +1 untuk setiap 6 [Sinking] pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [NervousImpairment]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri +2 Count [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9103002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Persistent Devouring",
+          "desc": "Final Power +1 untuk setiap 6 [Sinking] pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [NervousImpairment]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [NervousImpairment]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri +3 Count [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9103101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Puncturing of Life",
+          "desc": "Final Power +1 untuk setiap 6 [Sinking] pada target utama (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [NervousImpairment]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri +2 Count [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [NervousImpairment]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 3 [Sinking] dan +2 Count [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9103102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Discharge",
+          "desc": "Final Power +1 untuk setiap 6 [Sinking] pada target utama (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri +1 Count [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [NervousImpairment]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri +1 Count [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [NervousImpairment]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [Sinking] dan +3 Count [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

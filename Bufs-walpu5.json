@@ -1,0 +1,39 @@
+{
+  "dataList": [
+    {
+      "id": "Smoke",
+      "name": "Smoke",
+      "desc": "- Maks Potency: 10\n- Count Maks: 5\n- Pada 9+ Potency, Final Power +1\n- Terima +5% damage untuk setiap Potency\n- Kehilangan 1 Count pada Akhir Giliran",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Church_LowMorale",
+      "name": "The Church",
+      "desc": "- Moral Rendah\n- Peroleh 1 tambahan Smoke atau Smoke Count when memperoleh them\n- Awal Giliran: peroleh 3 Fragility, 2 Damage Up, dan 1 Defense Power Up",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Church_Panic",
+      "name": "The Church",
+      "desc": "- Panik\n- Peroleh 2 tambahan Smoke atau Smoke Count when memperoleh them\n- Awal Giliran: peroleh 3 Fragility, 4 Damage Up, dan 2 Defense Power Up",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MeatGearForce",
+      "name": "Meat Gear: Coercion",
+      "desc": "- HP tidak dapat turun di bawah 1 HP during the Combat Phase.\n- Unit ini mati jika it has 1 HP pada Akhir Giliran.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AllSetForShooting",
+      "name": "Ready to Fire",
+      "desc": "- Skill Slot +1\n- Modify Skill pool: Peroleh 1 gunakan of Skill 3, but kehilangan 1 gunakan of Skill 1\n- Beri +10% damage untuk setiap Ammo Skill Base Attack spends\n- Skill Attack yang memperoleh Ammo beri +10% damage untuk setiap Magic Bullet (memberi whichever yang memiliki the highest damage peroleh)\n- Saat Membunuh dengan Skill: pulihkan 25 SP for 2 kawan(termasuk diri sendiri) dengan least SP; +2 E.G.O resources for the Affinity of Skill that yang kalah target; +1 E.G.O resource untuk semua other Affinities",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

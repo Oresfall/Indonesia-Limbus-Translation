@@ -1,0 +1,52 @@
+{
+    "dataList": [
+        {
+            "id": 9021501,
+            "name": "Now's Our Chance",
+            "desc": "Untuk a giliran, jika unit ini reduced target's [BurstPoison] turun hingga 0 Stack, peroleh 1 [PenetrateDamageUp] giliran berikutnya (maks 2)",
+            "summary": ""
+        },
+        {
+            "id": 9021502,
+            "name": "Snake Venom",
+            "desc": "Jika target memiliki [BurstPoison], beri +2.5% damage untuk setiap [SnakeStance] pada diri sendiri (maks 7.5%)",
+            "summary": ""
+        },
+        {
+            "id": 9102301,
+            "name": "I See Your Weakness",
+            "desc": "Ketika memakai an [WideAreaRampage] attack, ketika menyerang target yang sama, beri +20% damage dan beri +1 lebih [Burst] Potency atau Count",
+            "summary": ""
+        },
+        {
+            "id": 9102302,
+            "name": "I Spy an Opportunity",
+            "desc": "Untuk a giliran, jika unit ini reduced target's [BurstPoison] turun hingga 0 Stack, peroleh 1 [PenetrateDamageUp] giliran berikutnya (maks 2)",
+            "summary": ""
+        },
+        {
+            "id": 9102303,
+            "name": "Snake Deathvenom",
+            "desc": "Jika target memiliki [BurstPoison], beri +5% damage untuk setiap [SnakeStance] pada diri sendiri (maks 15%)",
+            "summary": ""
+        },
+        {
+            "id": 9102601,
+            "name": "Determination",
+            "desc": "Ketika pulih dari Stagger, peroleh 1 [Enhancement]",
+            "summary": ""
+        },
+        {
+            "id": 9102602,
+            "name": "Fruits of Education",
+            "desc": "Sesaat memasuki the Stage, peroleh [StudyStatSinclair] berdasarkan the sum of Zhi, Yong, dan Ren diperoleh dari classes",
+            "summary": ""
+        },
+        {
+            "id": 9102603,
+            "name": "Jika I lend my ear to the inner self...",
+            "desc": "Awal Giliran: jika unit ini kena Stagger, pulih dari Stagger; lalu, peroleh [StudySignSinclair] (sekali per Pertempuran)\n- Every Skill used setelah this activates menjadi Unbreakable Coin",
+            "summary": ""
+        }
+    ]
+}

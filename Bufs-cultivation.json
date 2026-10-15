@@ -1,0 +1,151 @@
+{
+  "dataList": [
+    {
+      "id": "LegStrengthHorse",
+      "name": "Strider【Wu】",
+      "desc": "- Stack Maks: 3\n- Akhir Giliran: peroleh 2 Haste dan (Stack x 2) Defense Level Up giliran berikutnya\n- Saat Serang dengan Skill, beri tambahan Tremor Potency setara dengan Stack (maks 6 per giliran)",
+      "summary": ""
+    },
+    {
+      "id": "ConcussionWei",
+      "name": "Concussion",
+      "desc": "- Stack Maks: 3\n- Ketika diserang, terima +30% damage untuk setiap Stack (maks 90%)\n- Multiply jumlah dari Batas Stagger raised sebanyak Tremor Burst dan Rupture damage yang diberikan terhadap unit ini sebanyak 1.5 (dibulatkan ke bawah)\n- Pada Stack Maks, konsumsi semua dari it pada Akhir Giliran dan enter forced Stagger state giliran berikutnya",
+      "summary": ""
+    },
+    {
+      "id": "SweptAwayWei",
+      "name": "Galestruck",
+      "desc": "- Stack Maks: 10\n- Gandakan jumlah dari Batas Stagger raised on unit ini akibat Tremor Burst\n- Reduced sebanyak 1 pada Akhir Giliran",
+      "summary": ""
+    },
+    {
+      "id": "ReboundWei",
+      "name": "Recoiling",
+      "desc": "- Stack Maks: 5",
+      "summary": "",
+      "flavor": "Triggered Tremor Burst terhadap the wrong target. Every action has an equal dan opposite reaction, setelah semua."
+    },
+    {
+      "id": "SipOfAlcoholJin",
+      "name": "Swig (眞)",
+      "desc": "- Stack Maks: 5\n- Akhir Giliran: peroleh (Stack x 2) Poise Potency giliran berikutnya\n- Akhir Giliran: peroleh (Stack / 2) Haste giliran berikutnya (dibulatkan ke bawah)\n- Akhir Giliran: at 3+ Stack, pulihkan 1.5% HP (both \"Inti\" & Bagian)",
+      "summary": ""
+    },
+    {
+      "id": "DrunkBlood",
+      "name": "Bloodpour (血注)",
+      "desc": "- Stack Maks: 5\n- Bleed Unik\n- Ketika melempar Coin attack, terima damage tetap sebanyak efek’s Stack.",
+      "summary": ""
+    },
+    {
+      "id": "DrunkAwakening",
+      "name": "Mental Awakening",
+      "desc": "- Stack Maks: 1\n- As long as unit ini memiliki efek ini, peroleh 4 Final Power dan terima +30% damage\n- Saat Serang with a Coin that memberi Bleed Potency: beri +2 tambahan Bleed Saat Serang (maks 10 per giliran)\n- Jika unit ini memiliki Poise, beri +50% damage",
+      "summary": ""
+    },
+    {
+      "id": "RunawayHorseWei_LowMorale",
+      "name": "Unbridled Steed",
+      "desc": "- Moral Rendah\n- Awal Giliran: Peroleh 2 Offense Level Up dan 1 Fragile",
+      "summary": ""
+    },
+    {
+      "id": "RunawayHorseWei_Panic",
+      "name": "Unbridled Steed",
+      "desc": "- Panik\n- Peroleh 1 Maks Speed, 2 Offense Level Up, dan 2 Fragile",
+      "summary": ""
+    },
+    {
+      "id": "DrunkDrifter_LowMorale",
+      "name": "Night Drifter of the Drunken Palm",
+      "desc": "- Moral Rendah\n- Terima +10% damage dari Jia Xichun; beri +30% damage with Counterattacks",
+      "summary": ""
+    },
+    {
+      "id": "DrunkDrifter_Panic",
+      "name": "Night Drifter of the Drunken Palm",
+      "desc": "- Panik\n- Final Power +1; terima +20% damage dari Jia Xichun; beri +50% damage with Counterattacks",
+      "summary": ""
+    },
+    {
+      "id": "DarkBeastSnake_LowMorale",
+      "name": "Shadow Arm",
+      "desc": "- Moral Rendah\n- Clash Power -1; terima -10% damage",
+      "summary": ""
+    },
+    {
+      "id": "DarkBeastSnake_Panic",
+      "name": "Shadow Arm",
+      "desc": "- Panik\n- Clash Power -2; terima -20% damage",
+      "summary": ""
+    },
+    {
+      "id": "NightDrifterGuilty",
+      "name": "Faint Guilt",
+      "desc": "- Offense Level -15\n- Defense Level -15",
+      "summary": ""
+    },
+    {
+      "id": "StudyStatSinclair",
+      "name": "Thrashing to Hatch",
+      "desc": "- Perkuat efek berdasarkan the sum of Zhi, Yong, dan Ren diperoleh dari classes",
+      "summary": ""
+    },
+    {
+      "id": "StudyStatSinclair_A",
+      "name": "Thrashing to Hatch Ⅰ",
+      "desc": "- Pulihkan 3 SP setiap giliran\n- Peroleh 1 Min & Maks Speed\n- Peroleh 2 Offense Levels\n- Peroleh 2 Defense Levels",
+      "summary": ""
+    },
+    {
+      "id": "StudyStatSinclair_B",
+      "name": "Thrashing to Hatch ⅠⅠ",
+      "desc": "- Pulihkan 5 SP setiap giliran\n- Peroleh 1 Min & Maks Speed\n- Peroleh 1 Attack Power Up dan 1 Protection setiap giliran\n- Peroleh 2 Offense Levels\n- Peroleh 2 Defense Levels",
+      "summary": ""
+    },
+    {
+      "id": "StudyStatSinclair_C",
+      "name": "Thrashing to Hatch ⅠⅠⅠ",
+      "desc": "- Pulihkan 5 SP setiap giliran\n- Peroleh 1 Min & Maks Speed; peroleh 1 Attack Power Up dan 1 Protection setiap giliran\n- Base Skill peroleh 1 Clash Power\n- Peroleh 3 Offense Levels\n- Peroleh 3 Defense Levels",
+      "summary": ""
+    },
+    {
+      "id": "StudyStatSinclair_D",
+      "name": "Thrashing to Hatch ⅠⅤ",
+      "desc": "- Pulihkan 10 SP setiap giliran\n- Peroleh 1 Min & Maks Speed; peroleh 1 Attack Power Up dan 1 Protection setiap giliran\n- Base Skill peroleh 1 Clash Power\n- Peroleh 4 Offense Levels\n- Peroleh 4 Defense Levels",
+      "summary": ""
+    },
+    {
+      "id": "StudyStatSinclair_E",
+      "name": "Thrashing to Hatch Ⅴ",
+      "desc": "- Pulihkan 15 SP setiap giliran\n- Peroleh 2 Min & Maks Speed; peroleh 1 Attack Power Up dan 1 Protection setiap giliran\n- Base Skill peroleh 1 Clash Power\n- Base Skill peroleh 1 Coin Power\n- Peroleh 5 Offense Levels\n- Peroleh 5 Defense Levels",
+      "summary": ""
+    },
+    {
+      "id": "StudySignSinclair",
+      "name": "A Sign",
+      "desc": "- Pulihkan 30 SP giliran berikutnya\n- Akhir Giliran: Kadaluarsa",
+      "summary": "",
+      "flavor": "One who seeks to be born must first destroy a world."
+    },
+    {
+      "id": "CrazyWei",
+      "name": "Berserking",
+      "desc": "- Lose 15 Offense Level\n- Lose 15 Defense Level\n\n- Akhir Giliran: tidak memperoleh Defense Level dari Strider【Wu】; saja, peroleh Offense Level Up setara dengan Strider【Wu】 Stack",
+      "summary": "",
+      "flavor": "\"I'll trample anyone who dares to hurt my lady... I'll trample them to kematian... \""
+    },
+    {
+      "id": "SnakePoisonJinWeak",
+      "name": "Snake Venom",
+      "desc": "- Offense Level -1\n- Defense Level -1",
+      "summary": ""
+    },
+    {
+      "id": "SnakePoisonJin",
+      "name": "Spreading Snake Venom",
+      "desc": "- Offense Level -7\n- Defense Level -7\nTerima 1% HP damage dengan setiap Clash",
+      "summary": ""
+    }
+  ]
+}

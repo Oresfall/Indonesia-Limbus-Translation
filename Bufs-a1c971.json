@@ -1,0 +1,25 @@
+{
+  "dataList": [
+    {
+      "id": "Bloodthirst",
+      "name": "Rindu Akan Darah",
+      "desc": "- Base Level Offense -35\n- Base Defense Level -35",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ObservedPerson",
+      "name": "Subjek yang Diamati",
+      "desc": "- Stack Maks: 30\n- Awal Giliran: peroleh 3 Stack (starting dari the giliran setelah unit ini diperoleh efek ini)\n- Peroleh 1 Stack setiap kali unit ini menerima atau beri damage dengan Skill Attack efek terhadap Distorted Hohenheim\n- Terima +(Stack x 4)% damage dari musuh\n- Beri +(Stack x 2)% damage, but Saat Serang, terima (Stack / 2)% of the damage yang diberikan sebagai HP damage (tidak bisa be Stagger dari efek ini)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodthirstHard",
+      "name": "Rindu Akan Darah",
+      "desc": "- Base Level Offense -25\n- Base Defense Level -25",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

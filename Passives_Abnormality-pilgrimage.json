@@ -1,0 +1,92 @@
+{
+  "dataList": [
+    {
+      "id": 128801,
+      "name": "Berjuang",
+      "desc": "Awal Pertempuran: peroleh 8 [Protection]\n- Awal Pertempuran: jika unit ini memiliki Moral Rendah, halve jumlah dari [Protection] diperoleh\n- Awal Pertempuran: jika unit ini kena Stagger atau Panicked, it tidak memperoleh [Protection]"
+    },
+    {
+      "id": 128802,
+      "name": "Roar of the Rogue Waves",
+      "desc": "Ketika diserang, beri 1 [ColdAirDOQ] terhadap penyerang (sekali per Skill)"
+    },
+    {
+      "id": 128803,
+      "name": "Overlook of Semua-life",
+      "desc": "Ketika the Pasif \"Fate's Favored Child\" triggers, aktifkan berikut:\n- Akhir Giliran: peroleh 1 [Binding] giliran berikutnya\n- Ketika diserang, beri 1 [ColdAirDOQ] terhadap target (sekali per Skill)"
+    },
+    {
+      "id": 128804,
+      "name": "Adversary of the Tides",
+      "desc": "Ketika menyerang target dengan [FreezingDOQ], beri +175% damage"
+    },
+    {
+      "id": 128805,
+      "name": "Fate's Favored Child",
+      "desc": "Ketika unit ini menerima damage yang membawa HP mereka turun hingga 0, batalkan damage tersebut; lalu, unit ini is healed back to 100% HP dan SP, dan peroleh pola baru (sekali per Pertempuran)"
+    },
+    {
+      "id": 128806,
+      "name": "Rage Terhadap the Waves",
+      "desc": "Awal Giliran: peroleh 1 [AttackUp] untuk setiap musuh dengan [ColdAirDOQ]"
+    },
+    {
+      "id": 128807,
+      "name": "Galloping Rocinante",
+      "desc": "Awal Giliran: jika terdapat 6+ musuh dengan [ColdAirDOQ], peroleh 2 [ParryingResultUp]"
+    },
+    {
+      "id": 128808,
+      "name": "The Knight's Delusion",
+      "desc": "Awal Pertempuran: peroleh [WeakenDOQ]"
+    },
+    {
+      "id": 129101,
+      "name": "Nervous Impairment",
+      "desc": "Skill unit ini beri +1% damage untuk setiap 1 [NervousImpairment] pada target"
+    },
+    {
+      "id": 129102,
+      "name": "Seaborn",
+      "desc": "Awal Pertempuran: peroleh 5 [SeaTerrorCell]\nInstead of [AttackDown] dan [DefenseDown] efek of [SeaTerrorCell], peroleh [AttackUp] dan [DefenseUp]"
+    },
+    {
+      "id": 129104,
+      "name": "Call of the Bloodkin",
+      "desc": "Akhir Giliran: jika terdapat 2 atau lebih sedikit kawan yang hidup, konsumsi 10 SP pada diri sendiri to summon 2 \"Shell Sea Runner\" unit to the battlefield\n\nAkhir Giliran: jika [NetherseaBrandUnit] exists in this Stage, beri 2 [Enhancement] giliran berikutnya untuk semua Sea Terror unit\n- Beri 1 [AttackUp] juga untuk setiap Stage of [NetherseaBrandUnit]",
+      "summary": "Jika there is [NetherseaBrandUnit] di medan tempur, beri offensive buff giliran berikutnya untuk semua Sea Terror unit"
+    },
+    {
+      "id": 129701,
+      "name": "Phototaxic Procession",
+      "desc": "Terima -90% damage dari [Combustion], [Laceration], [Vibration], [Burst], [Sinking]\nAwal Giliran: peroleh 10 [Protection]\n\nAkhir Giliran: konsumsi [AbyssalVitality] to summon Sea Terror horde\n- Jika terdapat lebih sedikit than 3 Shell Sea Runners atau Deep Sea Sliders on the battlefield, secara acak summon either of those unit hingga terdapat a sum of 3 of them giliran berikutnya dan konsumsi (# of summoned unit x 4) [AbyssalVitality]\n- Jika Nethersea Founder isn't on the battlefield, konsumsi 8 [AbyssalVitality] to summon it giliran berikutnya\n- Jika Nethersea Spewer isn't on the battlefield, konsumsi 12 [AbyssalVitality] to summon it giliran berikutnya\n- Jika Basin Sea Reaper isn't on the battlefield, konsumsi 20 [AbyssalVitality] to summon it giliran berikutnya",
+      "summary": "Terima damage lebih sedikit dari [Combustion], [Laceration], [Vibration], [Burst], dan [Sinking]"
+    },
+    {
+      "id": 129702,
+      "name": "Ego of Responsibility",
+      "desc": "Every time a Sea Terror unit ini summoned terbunuh, terima damage HP tetap setara dengan unit's maks HP"
+    },
+    {
+      "id": 129703,
+      "name": "Adrift Compassion",
+      "desc": "Pada 50%- HP, immediately ends combat phase dan peroleh pola baru\n- Nonaktifkan Phototaxic Procession Passive\n- Peroleh 100 [AbyssalVitality]\n- Ketika memperoleh Pasif ini, atau ketika pulih dari Stagger, peroleh Perisai setara dengan jumlah dari HP lost (sekali per giliran)\n- Ketika memperoleh Perisai, aktifkan the efek of [IndelibleGoodwill]\n\nAwal Giliran:\n- Beri 5 [NervousImpairment] untuk semua musuh dengan kurang dari 15 [NervousImpairment]\n- Peroleh [Vulnerable] setara dengan double jumlah dari kali (\"Before the compassion they believe in kehilangan its worth.\") was used during Pertempuran ini. (maks 6)\n\nSetelah memperoleh pola baru: kurangi Skill unit ini Slots sebanyak jumlah dari Stagger musuh setiap giliran (by 6 maks; tidak memberi to giliran ketika unit ini menggunakan a powerful Skill)",
+      "summary": "Ketika mengonsumsi [AbyssalVitality], pulihkan SP"
+    },
+    {
+      "id": 129704,
+      "name": "Nethersea Brand Utopia",
+      "desc": "Ketika on top of [NetherseaBrandUnit]: peroleh Final Power +3 dan Coin Power +3, dan double jumlah dari [NervousImpairment] diberikan Saat Menyerang"
+    },
+    {
+      "id": 129705,
+      "name": "Coaxing Kins",
+      "desc": "Ketika hitting a Basin Sea Reaper dengan Skill unit ini, ubah it dari [WaitingforCommandMod] to [ParticipationMod]"
+    },
+    {
+      "id": 129103,
+      "name": "Cell Membrane",
+      "desc": "Jika unit ini memiliki remaining Perisai setelah terkena serangan, beri 2 [Sinking] terhadap target"
+    }
+  ]
+}

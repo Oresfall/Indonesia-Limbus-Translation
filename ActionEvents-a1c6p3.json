@@ -1,0 +1,34 @@
+{
+    "dataList": [
+        {
+            "id": 817301,
+            "name": "",
+            "subDesc": "",
+            "desc": "\"Bisakah kamu mendengarku? Bisa dengarkan suaraku?!\"\n\nAku tiba-tiba menyadari bahwa sebuah suara asing bergema langsung di dalam kepalaku.\n\n\"<Apakah ini... apakah suara ini datang langsung melalui Golden Bough...?>\"\n\n\"... Kamu mendengar itu juga, Kepala Jam?\"\n\nAku berbalik untuk melihat Heathcliff. Dia tampak kelelahan akibat pertempuran yang berkepanjangan, baik secara fisik maupun batin.\n\nGolden Bough yang sempat menancap di dadanya sudah lama dilepaskan...\n\n... namun pengaruhnya seolah masih tertinggal karena suatu alasan.\n\n\"Catherine...?\"\n\nHeathcliff berbisik.",
+            "options": [
+                {
+                    "message": "Dengarkan lebih dekat.",
+                    "messageDesc": "",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 817303,
+            "name": "",
+            "subDesc": "",
+            "desc": "Kepalaku dipenuhi oleh suara itu sekali lagi.\n\n\"Aku seharusnya tidak pernah memanggil Catherine ke sini...\"\n\n\"Kupikir... Heathcliff tidak akan pernah menderita lagi jika setiap Catherine tidak lagi ada...\"\n\n\"... Tapi seharusnya aku tahu bahwa Heathcliff akan memikirkan hal yang sama persis...!\"\n\nAku bisa merasakan kesedihannya yang begitu menyayat hati.\n\n\"... Ah... Aku seharusnya tidak melarikan diri. Aku seharusnya berbicara dengannya alih-alih pergi menjauh.\"\n\nHeathcliff benar. Setiap kata yang tak terucap, setiap diskusi yang tak terbagi hanya membuat hati mereka semakin menjauh satu sama lain... sampai kata-kata mereka mulai berjalan sejajar, tidak pernah bertemu.\n\n\"Seandainya saja aku bisa kembali...\"\n\n\"Apa benar-benar tidak ada jalan keluar dari jebakan yang wanita itu pasang untuk kita...?\"",
+            "options": [
+                {
+                    "message": "Heathcliff berteriak.",
+                    "messageDesc": "",
+                    "result": [
+                        ""
+                    ]
+                }
+            ]
+        }
+    ]
+}

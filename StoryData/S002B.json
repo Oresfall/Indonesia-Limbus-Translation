@@ -1,0 +1,956 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "content": "Aku mendengar raungan binatang buas dari suatu tempat."
+    },
+    {
+      "id": 1,
+      "content": "Ia menangis tanpa henti. Apakah ia meratap karena lapar? Ataukah..."
+    },
+    {
+      "id": 2,
+      "place": "Di dalam Mephistopheles",
+      "teller": "???",
+      "title": "???",
+      "content": "Mereka mulai gelisah. Apa mereka sudah bangun?"
+    },
+    {
+      "id": 3,
+      "teller": "???",
+      "title": "???",
+      "content": "Akhirnya bangun juga. Aku akan sedikit kecewa kalau kamu mati mendahului kami."
+    },
+    {
+      "id": 4,
+      "model": "카론",
+      "content": "Pagi yang menyegarkan. Ini Charon si Sopir Bis."
+    },
+    {
+      "id": 5,
+      "model": "눈이붉은자",
+      "teller": "Pria dengan Mata Merah",
+      "title": "???",
+      "content": "Ini bukan pagi, tapi kurasa ini bisa dibilang menyegarkan. Bagaimana perasaanmu, Dante?"
+    },
+    {
+      "id": 6,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Aku",
+      "content": "<Yah, aku...>"
+    },
+    {
+      "id": 7,
+      "model": "눈이붉은자",
+      "teller": "Pria dengan Mata Merah",
+      "title": "???",
+      "content": "Berdetak-detik seperti jam... Haah, kendala bahasa ini bakal cukup merepotkan."
+    },
+    {
+      "id": 8,
+      "model": "베르길리우스",
+      "content": "Anda bisa memanggil saya Vergilius. Jika anda bisa mendengar saya, Dante, berikan saya tanda."
+    },
+    {
+      "id": 9,
+      "content": "Aku memberinya anggukan cepat. Dia tidak tampak seperti musuh."
+    },
+    {
+      "id": 10,
+      "model": "베르길리우스",
+      "content": "Bagus. Setidaknya pendengaran anda berfungsi. Waktunya mengemudi, Charon."
+    },
+    {
+      "id": 11,
+      "model": "카론",
+      "content": "Sekarang berangkat. Brum-brum."
+    },
+    {
+      "id": 12,
+      "content": "Terdengar deru berat dan getaran, seolah-olah bergema dari dasar rawa yang dalam."
+    },
+    {
+      "id": 13,
+      "content": "Saat itulah aku menyadari bahwa aku berada di atas bis."
+    },
+    {
+      "id": 14,
+      "content": "Sebuah bis... aku tidak yakin kalau aku pernah menaiki kendaraan seperti ini di masa lalu."
+    },
+    {
+      "id": 15,
+      "model": "베르길리우스",
+      "content": "Apakah anda ingat siapa dirimu sebenarnya?"
+    },
+    {
+      "id": 16,
+      "content": "Aku menggelengkan kepala untuk mengatakan tidak. Aku baru saja teringat bahwa kepalaku sekarang adalah semacam mekanisme yang berdentang."
+    },
+    {
+      "id": 17,
+      "model": "베르길리우스",
+      "content": "Saya rasa anda menginginkan ingatan anda kembali, bukan?"
+    },
+    {
+      "id": 18,
+      "content": "Aku mengangguk. Aku benar-benar merasa seperti orang bodoh."
+    },
+    {
+      "id": 19,
+      "model": "베르길리우스",
+      "content": "Lancar sekali. Apa yang menghalangi kalian semua untuk mengadopsi komunikasi berbasis isyarat ini?"
+    },
+    {
+      "id": 20,
+      "model": "베르길리우스",
+      "content": "Bagaimana menurut anda, Nona Faust?"
+    },
+    {
+      "id": 21,
+      "model": "파우스트",
+      "content": "Faust akan menolaknya dengan hormat."
+    },
+    {
+      "id": 22,
+      "model": "파우스트",
+      "content": "Saya ragu kita akan memiliki kebebasan untuk menggunakan bagian tubuh kita untuk sebagian besar waktu."
+    },
+    {
+      "id": 23,
+      "content": "Dialah yang berbicara kepadaku di hutan tadi."
+    },
+    {
+      "id": 24,
+      "content": "Rambut peraknya, berkilau bahkan tanpa sinar matahari, memancarkan aura yang cukup misterius."
+    },
+    {
+      "id": 25,
+      "model": "파우스트",
+      "content": "Dante."
+    },
+    {
+      "id": 26,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Aku",
+      "content": "<Dante?>"
+    },
+    {
+      "id": 27,
+      "content": "Kalau dipikir-pikir, pria mata merah itu juga memanggilku begitu."
+    },
+    {
+      "id": 28,
+      "model": "파우스트",
+      "content": "Dante adalah namamu. Amnesia itu pasti memengaruhimu dengan cukup parah."
+    },
+    {
+      "id": 29,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Aku",
+      "content": "<Sepertinya begitu... Itu sama sekali tidak terdengar familier.>"
+    },
+    {
+      "id": 30,
+      "model": "파우스트",
+      "content": "Kamu akan terbiasa seiring berjalannya waktu."
+    },
+    {
+      "id": 31,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Aku",
+      "content": "<Tunggu... Kamu bisa mengerti aku?>"
+    },
+    {
+      "id": 32,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Aku",
+      "content": "<Kelompok yang menyerangku tadi—dan si Vergie atau siapa pun namanya—sepertinya tidak mendengar apa pun dariku selain suara detikan.>"
+    },
+    {
+      "id": 33,
+      "model": "파우스트",
+      "content": "Faust bisa mendengar apa yang ingin kamu ucapkan."
+    },
+    {
+      "id": 34,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Aku",
+      "content": "<Kamu beneran bisa...? Tapi bagaimana caranya? Aku bahkan tidak punya mulut sungguhan.>"
+    },
+    {
+      "id": 35,
+      "model": "파우스트",
+      "content": "Asumsi masa lalu pastilah salah satu efek samping yang muncul seiring dengan penggantian kepalamu."
+    },
+    {
+      "id": 36,
+      "model": "파우스트",
+      "content": "Sangat anakhronistis untuk berpikir bahwa organ vokal seperti pita suara atau lidah diperlukan bagi seseorang untuk berkomunikasi."
+    },
+    {
+      "id": 37,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Aku",
+      "content": "<Anakhronistis... Benar. Tidak pernah terpikirkan sebelumnya.>"
+    },
+    {
+      "id": 38,
+      "model": "파우스트",
+      "content": "... Kamu bisa membatasi penerima kata-katamu pada satu orang, atau memilih untuk berbicara kepada semua orang sekaligus."
+    },
+    {
+      "id": 39,
+      "model": "파우스트",
+      "content": "Ah, sedikit klarifikasi: cakupan \"semua orang\" terbatas pada para <ruby=Pendosa>Sinners</ruby>."
+    },
+    {
+      "id": 40,
+      "model": "프롤로그단테2",
+      "teller": "Dante",
+      "title": "Aku",
+      "content": "< <ruby=Pendosa>Sinners</ruby>? >"
+    },
+    {
+      "id": 41,
+      "model": "파우스트",
+      "content": "Orang-orang yang duduk di belakangmu..."
+    },
+    {
+      "id": 42,
+      "model": "파우스트",
+      "content": "Orang-orang yang sama yang bertarung untukmu sampai beberapa saat yang lalu."
+    },
+    {
+      "id": 43,
+      "teller": "???",
+      "title": "???",
+      "content": "Oooh! Jadi dikau adalah kepingan terakhir yang melengkapi jajaran perjalanan kita! Betapa aku telah mendambakan momen ini!"
+    },
+    {
+      "id": 44,
+      "teller": "???",
+      "title": "???",
+      "content": "Hei, sobat, kepala lama-mu kamu jual dimana?"
+    },
+    {
+      "id": 45,
+      "teller": "???",
+      "title": "???",
+      "content": "Jadi itu kamu. Makasih sudah menyatukan kembali tulang punggungku. Apa kamu dulunya seorang ahli bedah atau semacamnya di <ruby=Sarang>Nest</ruby>?"
+    },
+    {
+      "id": 46,
+      "model": "베르길리우스",
+      "content": "Tutup mulut kalian. Tidak ada yang lebih tidak menyenangkan daripada mendengar kebisingan yang tidak berguna."
+    },
+    {
+      "id": 47,
+      "model": "베르길리우스",
+      "content": "Sekarang, perkenalan singkat perlu dilakukan."
+    },
+    {
+      "id": 48,
+      "model": "베르길리우스",
+      "content": "Saya akan memberikan waktu bagi kalian untuk memperkenalkan diri, dimulai dari yang duduk di paling depan. Bicara."
+    },
+    {
+      "id": 49,
+      "model": "그레고르",
+      "content": "Kenapa selalu yang di depan yang harus duluan... Aku sudah lelah harus terus memimpin."
+    },
+    {
+      "id": 50,
+      "model": "그레고르",
+      "content": "Kudengar kamu bakal jadi bos kami, atau... ya, manajer kami."
+    },
+    {
+      "id": 51,
+      "model": "단테",
+      "content": "<Manajer?>"
+    },
+    {
+      "id": 52,
+      "model": "그레고르",
+      "content": "Yap, karena itu aku penasaran untuk bertemu, dan..."
+    },
+    {
+      "id": 53,
+      "model": "그레고르",
+      "content": "Uh... Hmm, tsk. Selalu sulit untuk memilih kata-kata yang tepat."
+    },
+    {
+      "id": 54,
+      "model": "그레고르",
+      "content": "Entah apa yang kamu lakukan dengan kepala lamamu, tapi kurasa setiap orang punya ceritanya masing-masing."
+    },
+    {
+      "id": 55,
+      "model": "그레고르",
+      "content": "Aku Gregor. Kita berjuang bersama di sini, Rekan Manajer."
+    },
+    {
+      "id": 56
+    },
+    {
+      "id": 57,
+      "model": "로쟈",
+      "content": "Greg! Mereka itu bukan cuma sekadar \"rekan\" atau \"sobat\" lho~ Kamu sedang bicara dengan orang yang bakal bikin kita kaya raya tujuh turunan!"
+    },
+    {
+      "id": 58,
+      "model": "그레고르",
+      "content": "Greg...?"
+    },
+    {
+      "id": 59,
+      "model": "단테",
+      "content": "<Kaya raya? Apa maksudnya?>"
+    },
+    {
+      "id": 60,
+      "model": "로쟈",
+      "content": "Hmm, kamu kupanggil... Dante! Santai ya kalau kita panggil nama aja. Kamu juga boleh panggil aku Rodya kok~"
+    },
+    {
+      "id": 61
+    },
+    {
+      "id": 62,
+      "model": "로쟈",
+      "content": "Aku rasa ada... yah, alasan yang bagus kenapa kamu jadi manajer kami."
+    },
+    {
+      "id": 63,
+      "model": "로쟈",
+      "content": "Aku yakin kamu dulunya orang penting kan di <ruby=Sarang>Nest</ruby>? Begitu kebiasaan lamamu mulai balik, kita bakal makin dekat deh sama tumpukan uang... Fuhu..."
+    },
+    {
+      "id": 64,
+      "content": "... Dia benar-benar seorang ekstrovert, aku akui itu."
+    },
+    {
+      "id": 65,
+      "model": "로쟈",
+      "content": "Ya ampun, lihat deh aku malah ngomong terus. Hei, Nak! Sekarang giliranmu!"
+    },
+    {
+      "id": 66,
+      "model": "싱클레어",
+      "content": "Halo..."
+    },
+    {
+      "id": 67,
+      "model": "로쟈",
+      "content": "Duh, ngebosenin banget~ Gitu doang?"
+    },
+    {
+      "id": 68,
+      "model": "싱클레어",
+      "content": "Oh! Sinclair... Itu namaku."
+    },
+    {
+      "id": 69
+    },
+    {
+      "id": 70,
+      "content": "Anak laki-laki ini terlihat sangat gelisah; apakah dia bergabung dengan perusahaan ini atas kemauannya sendiri?"
+    },
+    {
+      "id": 71,
+      "model": "싱클레어",
+      "content": "... A—Apa ada hal lain yang perlu aku katakan? Ini pekerjaan korporat pertamaku..."
+    },
+    {
+      "id": 72,
+      "model": "로쟈",
+      "content": "Yah, kamu bakal belajar banyak hal kok di hari-hari mendatang."
+    },
+    {
+      "id": 73,
+      "model": "로쟈",
+      "content": "Sip kalau gitu, gimana kalau kamu selanjutnya, sobat kutubuku!"
+    },
+    {
+      "id": 74,
+      "model": "이상",
+      "content": "Aku Yi Sang."
+    },
+    {
+      "id": 75
+    },
+    {
+      "id": 76,
+      "model": "단테",
+      "content": "<... Cuma itu?>"
+    },
+    {
+      "id": 77,
+      "model": "이상",
+      "content": "Mhm. Tanpa bumbu-bumbu."
+    },
+    {
+      "id": 78,
+      "content": "Aku menunggunya untuk melihat apakah dia sedang melucu atau semacamnya..."
+    },
+    {
+      "id": 79,
+      "content": "Tapi dia hanya menatap kosong ke luar jendela, tidak tertarik."
+    },
+    {
+      "id": 80,
+      "model": "이스마엘",
+      "content": "Haaa... Aku tidak percaya dengan kalian semua. Bukankah perkenalan yang layak adalah langkah pertama untuk berbaur di masyarakat?"
+    },
+    {
+      "id": 81,
+      "model": "이스마엘",
+      "content": "Panggil aku Ishmael, jika kamu berkenan."
+    },
+    {
+      "id": 82
+    },
+    {
+      "id": 83,
+      "model": "이스마엘",
+      "content": "Aku dengar kamu menyatukan kembali tubuh kami dari potongan-potongan. Aku menantikan kerja sama denganmu."
+    },
+    {
+      "id": 84,
+      "content": "Dia memberikan bungkuk sopan sebelum kembali ke tempat duduknya."
+    },
+    {
+      "id": 85,
+      "content": "Untuk seseorang yang menekankan agar tidak menjadi orang aneh, dia tidak terasa seperti tipe orang yang paling ramah."
+    },
+    {
+      "id": 86,
+      "model": "후디히스",
+      "content": "Sori kalau gue ngecewain, soalnya gue nggak peduli amat sama yang namanya berbaur."
+    },
+    {
+      "id": 87,
+      "model": "후디히스",
+      "content": "Nama gue Heathcliff. Dulu gue penghancur profesional—buat properti atau orang, sama aja."
+    },
+    {
+      "id": 88
+    },
+    {
+      "id": 89,
+      "model": "후디히스",
+      "content": "Bukan atas perintah siapa pun ya, inget itu. Gue cuma ngelakuin itu ke bajingan yang bikin gue kesel."
+    },
+    {
+      "id": 90,
+      "model": "후디히스",
+      "content": "Jadi jaga sikap lo."
+    },
+    {
+      "id": 91,
+      "model": "후디히스",
+      "content": "Gue alergi sama orang-orang sok tahu yang mikir mereka bisa merintah-merintah gue."
+    },
+    {
+      "id": 92,
+      "content": "Aku rasa aku belum melakukan apa pun yang memberikan kesan seperti itu."
+    },
+    {
+      "id": 93,
+      "model": "돈키호테",
+      "content": "Akhirnya, tiba giliranku untuk berbicara! Aku adalah Don Quixote!"
+    },
+    {
+      "id": 94
+    },
+    {
+      "id": 95,
+      "model": "돈키호테",
+      "content": "Aku adalah seorang Fixer yang akan berlari demi impian berdampingan dengan dikau. Sungguh sebuah kehormatan."
+    },
+    {
+      "id": 96,
+      "model": "단테",
+      "content": "<Seorang Fixer...? Itu pasti istilah yang dulu aku ketahui...>"
+    },
+    {
+      "id": 97,
+      "model": "돈키호테",
+      "content": "Apakah dikau ingin tahu apa itu Fixer? Aku bisa menjawab pertanyaanmu! Fixer adalah para pelindung <ruby=Kota>The City</ruby>!"
+    },
+    {
+      "id": 98,
+      "model": "돈키호테",
+      "content": "Ah! Barangkali engkau kesulitan untuk mengingat <ruby=Kota>The City</ruby>! Itu adalah—"
+    },
+    {
+      "id": 99,
+      "model": "베르길리우스",
+      "content": "Saya rasa saya sudah bilang ini untuk perkenalan singkat."
+    },
+    {
+      "id": 100,
+      "model": "돈키호테",
+      "content": "Ngh..."
+    },
+    {
+      "id": 101,
+      "model": "베르길리우스",
+      "content": "Jangan buat aku mengatakannya dua kali. Selanjutnya."
+    },
+    {
+      "id": 102,
+      "model": "홍루",
+      "content": "Namaku Hong Lu. Aku harap kita bisa berteman baik."
+    },
+    {
+      "id": 103
+    },
+    {
+      "id": 104,
+      "model": "홍루",
+      "content": "Wah, dan lihat dirimu! Bukankah kepalamu itu sangat menarik? Model yang populer belakangan ini, ya?"
+    },
+    {
+      "id": 105,
+      "model": "단테",
+      "content": "<Bukan, ini bukan jenis yang...>"
+    },
+    {
+      "id": 106,
+      "model": "홍루",
+      "content": "Tapi itu bukan seleraku sih."
+    },
+    {
+      "id": 107,
+      "model": "후디히스",
+      "content": "... Apa-apaan sih sikap lo itu?"
+    },
+    {
+      "id": 108,
+      "content": "Heathcliff terlihat seperti akan mengayunkan pemukulnya sebentar lagi..."
+    },
+    {
+      "id": 109,
+      "content": "Tapi ketika dia menyadari tatapan merah tertuju padanya, dia mendengus dan duduk kembali."
+    },
+    {
+      "id": 110,
+      "model": "료슈",
+      "content": "Ryōshū."
+    },
+    {
+      "id": 111
+    },
+    {
+      "id": 112,
+      "model": "료슈",
+      "content": "Shūatu kehormatan bertemu."
+    },
+    {
+      "id": 113,
+      "model": "료슈",
+      "content": "... Pfft."
+    },
+    {
+      "id": 114,
+      "content": "Di bagian mana aku seharusnya tertawa?"
+    },
+    {
+      "id": 115,
+      "model": "뫼르소",
+      "content": "Meursault. Silahkan panggil demikian."
+    },
+    {
+      "id": 116
+    },
+    {
+      "id": 117,
+      "model": "단테",
+      "content": "<Kamu sopan juga.>"
+    },
+    {
+      "id": 118,
+      "model": "뫼르소",
+      "content": "Ini bukan hal istimewa. Saya hanya bersikap normal."
+    },
+    {
+      "id": 119,
+      "model": "단테",
+      "content": "<Aku hampir tersentuh. <ruby=Terima kasih>Merci</ruby>.>"
+    },
+    {
+      "id": 120,
+      "model": "뫼르소",
+      "content": "Ya."
+    },
+    {
+      "id": 121,
+      "content": "Rasanya seolah-olah ada sesuatu yang sangat salah dengannya, tapi aku tidak tahu apa."
+    },
+    {
+      "id": 122,
+      "model": "오티스",
+      "content": "......"
+    },
+    {
+      "id": 123,
+      "content": "Cara dia memperhatikanku dari atas ke bawah sedikit mengintimidasi."
+    },
+    {
+      "id": 124,
+      "model": "오티스",
+      "content": "Saya..."
+    },
+    {
+      "id": 125,
+      "content": "Aku merasa hampir terpaksa untuk membungkuk padanya, tapi dia menghentikanku dengan gerakan tangannya."
+    },
+    {
+      "id": 126,
+      "model": "오티스",
+      "content": "Tolong, saya tidak akan pernah membiarkan manajer saya merunduk di hadapan saya."
+    },
+    {
+      "id": 127,
+      "model": "오티스",
+      "content": "Nama saya Outis. Saya ingin meminta maaf atas kekasaran saya sebelumnya."
+    },
+    {
+      "id": 128
+    },
+    {
+      "id": 129,
+      "model": "단테",
+      "content": "<Kekasaran...?>"
+    },
+    {
+      "id": 130,
+      "model": "오티스",
+      "content": "Haha, oh, sudahlah. Kedermawanan anda membuat saya rendah hati."
+    },
+    {
+      "id": 131,
+      "model": "오티스",
+      "content": "Saya tahu pada pandangan pertama bahwa anda memiliki apa yang diperlukan untuk memimpin kami."
+    },
+    {
+      "id": 132,
+      "model": "단테",
+      "content": "<Uh... Apa?>"
+    },
+    {
+      "id": 133,
+      "model": "오티스",
+      "content": "Meskipun kebanyakan manusia menyebabkan kebisingan dan gesekan sebagai hasil dari konfrontasi..."
+    },
+    {
+      "id": 134,
+      "model": "오티스",
+      "content": "... beberapa orang mampu meraup keuntungan bersama dari pertemuan tatap muka."
+    },
+    {
+      "id": 135,
+      "model": "오티스",
+      "content": "Sama seperti seseorang yang mencari batu asah yang kokoh untuk menajamkan bilah pedang mereka sebaik mungkin."
+    },
+    {
+      "id": 136,
+      "model": "오티스",
+      "content": "Dan pedang saya adalah milik anda untuk digunakan, Manajer Eksekutif. Saya akan melayani anda dengan pengabdian yang tak tertandingi."
+    },
+    {
+      "id": 137,
+      "model": "단테",
+      "content": "<I-itu melegakan... Terima kasih.>"
+    },
+    {
+      "id": 138,
+      "content": "Aku memberinya anggukan setuju, meskipun aku tidak mengerti apa yang dia maksud dengan \"kekasaran\"-nya itu."
+    },
+    {
+      "id": 139,
+      "model": "이스마엘",
+      "content": "Aku kagum dengan kemampuanmu untuk menjilat dengan begitu penuh semangat sesaat setelah memanggil mereka \"makhluk menyedihkan\"."
+    },
+    {
+      "id": 140,
+      "content": "... Ah, begitu."
+    },
+    {
+      "id": 141,
+      "model": "파우스트",
+      "content": "Sepertinya saya yang terakhir. Panggil saja Faust."
+    },
+    {
+      "id": 142
+    },
+    {
+      "id": 143,
+      "model": "파우스트",
+      "content": "Seorang jenius yang mana kamu beruntung bisa bertemu dengannya meski hanya sekali seumur hidup."
+    },
+    {
+      "id": 144,
+      "model": "단테",
+      "content": "<Mmh...>"
+    },
+    {
+      "id": 145,
+      "model": "파우스트",
+      "content": "Reaksimu menunjukkan bahwa kamu tidak yakin, Dante."
+    },
+    {
+      "id": 146,
+      "model": "파우스트",
+      "content": "Yah, tidak apa-apa. Kamu akan mengetahuinya seiring berjalannya waktu."
+    },
+    {
+      "id": 147,
+      "model": "단테",
+      "content": "<Mengetahui apa...?>"
+    },
+    {
+      "id": 148,
+      "model": "파우스트",
+      "content": "Bahwa Faust memang memiliki pikiran yang cerdas dan cemerlang."
+    },
+    {
+      "id": 149,
+      "model": "파우스트",
+      "content": "Ketika sebuah pohon tumbang, fakta bahwa suara yang diakibatkan tidak dapat dijadikan kebenaran ketika pengamat lain gagal untuk mengenalinya."
+    },
+    {
+      "id": 150,
+      "model": "단테",
+      "content": "<Oke...>"
+    },
+    {
+      "id": 151,
+      "model": "베르길리우스",
+      "content": "Cukup salam-salamannya."
+    },
+    {
+      "id": 152,
+      "model": "베르길리우스",
+      "content": "Dante, biarkan saya menjelaskan cakupan pekerjaan anda."
+    },
+    {
+      "id": 153,
+      "model": "단테",
+      "content": "<Maksudmu... sebagai manajer?>"
+    },
+    {
+      "id": 154,
+      "model": "파우스트",
+      "content": "Mereka bertanya apakah anda akan menjelaskan deskripsi pekerjaan seorang manajer."
+    },
+    {
+      "id": 155,
+      "content": "Kalau dipikir-pikir, pria dengan mata merah itu tidak bisa mendengarku, tidak seperti para <ruby=Pendosa>Sinners</ruby>."
+    },
+    {
+      "id": 156,
+      "model": "베르길리우스",
+      "content": "Benar sekali, Manajer Eksekutif Dante. Anda akan memulai perjalanan ke <ruby=Neraka>Inferno</ruby> bersama 12 <ruby=Pendosa>Sinners</ruby> yang baru saja memperkenalkan diri."
+    },
+    {
+      "id": 157,
+      "model": "단테",
+      "content": "<Inferno...? Kenapa aku harus pergi ke neraka?>"
+    },
+    {
+      "id": 158,
+      "model": "파우스트",
+      "content": "Mereka bertanya kenapa mereka perlu pergi ke Inferno."
+    },
+    {
+      "id": 159,
+      "model": "베르길리우스",
+      "content": "Hmm... Karena harta karun menanti di ujung jalan. Apakah itu cukup?"
+    },
+    {
+      "id": 160,
+      "model": "단테",
+      "content": "<Aku tidak... Maksudmu aku dulunya pemburu harta karun atau semacamnya?>"
+    },
+    {
+      "id": 161,
+      "model": "파우스트",
+      "content": "Mereka sepertinya tidak bisa memahami anda sama sekali."
+    },
+    {
+      "id": 162,
+      "model": "베르길리우스",
+      "content": "Saya tidak meminta pemahaman anda, Dante. Ini juga bukan pertanyaan tentang persetujuan anda."
+    },
+    {
+      "id": 163,
+      "model": "베르길리우스",
+      "content": "Anda harus mendengarkan saya jika ingin mendapatkan kembali ingatan dan kepala asli anda."
+    },
+    {
+      "id": 164,
+      "model": "단테",
+      "content": "<Maksudku... Aku memang menginginkannya kembali, tapi...>"
+    },
+    {
+      "id": 165,
+      "model": "파우스트",
+      "content": "Mereka bimbang."
+    },
+    {
+      "id": 166,
+      "model": "베르길리우스",
+      "content": "Nona Faust, apa yang akan kita lakukan jika Dante terus menolak untuk bekerja sama? Ini bukan skenario yang kita antisipasi."
+    },
+    {
+      "id": 167,
+      "model": "파우스트",
+      "content": "Mustahil. Faust mengantisipasi setiap kemungkinan."
+    },
+    {
+      "id": 168,
+      "model": "파우스트",
+      "content": "Dante, setelah kamu menyelesaikan semua misimu..."
+    },
+    {
+      "id": 169,
+      "model": "파우스트",
+      "content": "Kamu akan bisa mengukir Aspect tersebut."
+    },
+    {
+      "id": 170,
+      "model": "파우스트",
+      "content": "Faust bisa menjanjikan itu kepadamu."
+    },
+    {
+      "id": 171,
+      "content": "Aspect. Sebuah kata yang menusuk pikiranku. Meskipun ingatanku hilang, insting dasarku merespons kuat terhadap hal itu."
+    },
+    {
+      "id": 172,
+      "content": "Dan dipandu oleh insting tersebut, aku membuat pilihanku..."
+    },
+    {
+      "id": 173,
+      "model": "파우스트",
+      "content": "Lihat? Mereka mengangguk sekarang."
+    },
+    {
+      "id": 174,
+      "model": "베르길리우스",
+      "content": "Bagus. Kalau begitu kita bisa lanjut."
+    },
+    {
+      "id": 175,
+      "model": "베르길리우스",
+      "content": "Ngomong-ngomong, Charon, kenapa bisnya tidak jalan? Apa kau ketiduran?"
+    },
+    {
+      "id": 176,
+      "model": "카론",
+      "content": "Sopir bis cuma tidur di tempat istirahat, Verg."
+    },
+    {
+      "id": 177,
+      "model": "카론",
+      "content": "Orang-orang aneh berkeliaran di depan Mephi."
+    },
+    {
+      "id": 178,
+      "model": "베르길리우스",
+      "content": "Sudah kubilang, Charon. Jika ada sesuatu yang terjadi dengan bis ini, kau harus segera memberi tahu saya."
+    },
+    {
+      "id": 179,
+      "model": "단테",
+      "content": "<Mephi? Siapa itu?>"
+    },
+    {
+      "id": 180,
+      "model": "파우스트",
+      "content": "Mephistopheles. Nama bis ini dan mesin yang menjalankannya."
+    },
+    {
+      "id": 181,
+      "model": "파우스트",
+      "content": "... dan mahakarya hati Faust."
+    },
+    {
+      "id": 182,
+      "model": "베르길리우스",
+      "content": "Perahu tambang yang paling cocok untuk membawa kita melintasi Inferno."
+    },
+    {
+      "id": 183,
+      "model": "베르길리우스",
+      "content": "Tidakkah anda setuju, Dante?"
+    },
+    {
+      "id": 184,
+      "content": "Aku tidak yakin apa maksudnya, jadi aku memalingkan muka untuk melihat ke luar jendela alih-alih memberinya jawaban."
+    },
+    {
+      "id": 185,
+      "model": "베르길리우스",
+      "content": "Sepertinya mereka hanyalah gerombolan <ruby=Tikus>Rats</ruby> kotor lainnya yang hidup di <ruby=Belakangan>Backstreets</ruby>."
+    },
+    {
+      "id": 186,
+      "model": "베르길리우스",
+      "content": "Ini waktu yang tepat, Dante. Mereka seharusnya menjadi target yang sempurna untuk melatih komando anda."
+    },
+    {
+      "id": 187,
+      "model": "파우스트",
+      "content": "Dante, Faust melewatkan banyak detail selama pertempuran pertama kita."
+    },
+    {
+      "id": 188,
+      "model": "파우스트",
+      "content": "Lagipula, kita sedang kekurangan waktu waktu itu."
+    },
+    {
+      "id": 189,
+      "model": "파우스트",
+      "content": "Namun, tanpa peningkatan pada kehebatan strategismu, hanya kekalahan dan pembantaian yang menanti di jalan kita."
+    },
+    {
+      "id": 190,
+      "model": "파우스트",
+      "content": "Dan pada gilirannya, kamu harus menanggung rasa sakit yang sia-sia berulang kali untuk menghidupkan kami kembali."
+    },
+    {
+      "id": 191,
+      "model": "단테",
+      "content": "<Rasa sakit... untuk menghidupkan kalian? Maksudmu, apa yang terjadi tadi itu...>"
+    },
+    {
+      "id": 192,
+      "model": "파우스트",
+      "content": "Ya, kami hidup kembali karena kamu \"memutar balik waktu\"."
+    },
+    {
+      "id": 193,
+      "model": "베르길리우스",
+      "content": "Pemaparan itu sepertinya tidak mendesak untuk saat ini, Nona Faust."
+    },
+    {
+      "id": 194,
+      "model": "베르길리우스",
+      "content": "Simpan obrolannya untuk nanti. Para <ruby=Pendosa>Sinners</ruby>, turun dari bis."
+    },
+    {
+      "id": 195,
+      "model": "파우스트",
+      "content": "... Izinkan Faust menjelaskan lebih lanjut tentang elemen-elemen pertempuran."
+    }
+  ]
+}

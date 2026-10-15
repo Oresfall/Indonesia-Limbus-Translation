@@ -1,0 +1,124 @@
+{
+    "dataList": [
+      {
+        "id": "get_10716_1",
+        "desc": "Identity Acquisition",
+        "dlg": "... Tapi dia yang mau nampung gue, ngasih gue tempat tinggal. Ngasih gue makan. Ngajarin gue... gaya tarung pedang yang gila parah ini—gembel jalanan kayak gue yang harusnya gak bakal punya kesempatan buat pelajarin.\nGua tau itu. Sialan, gua tau banget, tapi... apa bakal gini terus sisa hidup gua?"
+      },
+      {
+        "id": "lobby_morning_10716_1",
+        "desc": "Morning Greeting",
+        "dlg": "Dia lagi pules banget di dalem, kan? Yahh... Kayaknya gak bakal bangun sampe 4 jam ke depan—efek nenggak berbotol-botol miras emang gitu. Gue kudu beresin semuanya cepet-cepet, terus mungkin masih sempet bikin sandwhich daging buat ngebantu begadangnya dia...\n*haah* Ngapain sih gue? Kemarin aja gue digebukin gara-gara bikin sandwich yang \"gagal\"... Gak usah nyari penyakit lah, gak ada gunanya juga."
+      },
+      {
+        "id": "lobby_noon_10716_1",
+        "desc": "Afternoon Greeting",
+        "dlg": "Dia ke mana dah? Harusnya jam segini dia bilang mau mulai sesi latihan... Apa dia lagi ada tugas dari divisi pusat terhormat itu?\n... Tau ah, ga usah kebanyakan mikir. Mending standby aja nunggu dia balik, kayak yang disuruh..."
+      },
+      {
+        "id": "lobby_night_10716_1",
+        "desc": "Evening Greeting",
+        "dlg": "Yaelah, matari udah mau tenggelam aja...? Fiks bakal digebukin kayak anjing nih gue sama Master gara-gara balik telat... *haah*"
+      },
+      {
+        "id": "smalltalk_10716_1",
+        "desc": "Chatter #1",
+        "dlg": "Gak ngaruh mau gue cuma imitasi murah doang. Lagian gue ngelatih Gaya Palermitan ini bukan biar makin kuat.\nKalau Master nyuruh gue menggonggong, ya gue ngonggong. Dia nyuruh gue gigit, ya gue gigit dan gak bakal gua lepas sebelum dia yang nyuruh... Gini nih hidup gue. Cukup jadi anjing buruan aja."
+      },
+      {
+        "id": "smalltalk_10716_2",
+        "desc": "Chatter #2",
+        "dlg": "Master hobi banget nyecer gue soal \"Tiket,\" soal gimana dia selalu jadi murid yang lebih pinter dari gua... Tapi teknik yang si cewek Tiket itu ajarin ke Sinclair—itu mah bukan Gaya Palermitan-nya Master sama sekali. Ada urusan apa sih sebenernya?\n... Yah, bukan hak gue buat nyari tau, kan? Gue cuma perlu niru gayanya si Yoshihide yang kabur itu. Bener, lakuin aja apa yang disuruh... persis kayak yang disuruh."
+      },
+      {
+        "id": "smalltalk_10716_3",
+        "desc": "Chatter #3",
+        "dlg": "Gue udah dapet nama perusahaan yang kerja sama bareng Yoshihide, plus daftar Kantor Fixer yang mereka bayar. Tapi maaf Master—ada yang aneh. Intelnya terlalu detail buat harga yang gue bayar demi dapetin ini. Bisa jadi mereka sengaja ngebocorin ini biar kita tau kalau—\n<color=#923838>Terus kenapa? Mereka aja yang teledor, kita untung ini! Kamu ga usah ngeluh soal \"firasat\" atau apalah tai anjing itu. Diem, latihan terus sana kayak yang ku suruh.</color>\nDimengerti, Master."
+      },
+      {
+        "id": "smalltalk_10716_4",
+        "desc": "Post-Uptie Chat 1",
+        "dlg": "Di antara para murid... Ishmael udah mati, Sinclair berkhianat, dan sekarang... cuma sisa Nona Don Quixote sama Faust. Kalau gue mau kabur dari sini, atau ngebunuh dia.... sekarang momen paling pas.\nSabar, jangan sekarang. Kayaknya bakal ada kesempatan yang lebih bagus setelah kita nahan serangan nanti. Ya, dia bakal bener-bener lengah pas itu. Untuk sekarang, fokus bantuin Master dulu..."
+      },
+      {
+        "id": "smalltalk_10716_5",
+        "desc": "Post-Uptie Chat 2",
+        "dlg": "Digebukin, dihina, direndahin... semuanya bisa gue tahan. Gue cuma perlu ngelewatin itu semua kayak biasanya, biarin aja berlalu.\nTapi tetep aja, gue mutusin buat ngebunuh master gue karena... karena akhirnya gue sadar sesuatu. Kalau siksaan dia itu... gak bakal pernah selesai."
+      },
+      {
+        "id": "neglect_10716_1",
+        "desc": "Idle",
+        "dlg": "Mungkin gua bisa bunuh dia sekarang. Kayaknya ini kesempatan gua."
+      },
+      {
+        "id": "gacksung_10716_1",
+        "desc": "Uptying",
+        "dlg": "Kalau duel satu lawan satu, Gaya Palermitan gue jelas menang."
+      },
+      {
+        "id": "formation_10716_1",
+        "desc": "Deployment",
+        "dlg": "Sesuai aturan pertarungan yang terhormat... Maju satu-satu, bajingan."
+      },
+      {
+        "id": "battleentry_10716_1",
+        "desc": "Stage Entry",
+        "dlg": "Sumpah demi apapun, selesai pertempuran ini, gue bakal..."
+      },
+      {
+        "id": "battle_select_10716_1",
+        "desc": "Viewed in Battle",
+        "dlg": "<i>Pas ngadepin lawan yang lebih kuat, kunci dan alihin arah serangannya... Pas kalah jumlah, rendahin kuda-kuda dan...</i>"
+      },
+      {
+        "id": "battle_endcommand_10716_1",
+        "desc": "Commencing Attack",
+        "dlg": "Liat baik-baik tebasan pedang gua dan biarkan itu mengingatkanmu kembali."
+      },
+      {
+        "id": "battle_enemy_break_10716_1",
+        "desc": "Enemy Stagger",
+        "dlg": "Benar, kudu tetep fokus sama peran gue."
+      },
+      {
+        "id": "battle_break_10716_1",
+        "desc": "Staggered",
+        "dlg": "*haah*"
+      },
+      {
+        "id": "battle_kill_10716_1",
+        "desc": "Enemy Killed",
+        "dlg": "Dan ulangi lagi apa yang udah pernah terjadi."
+      },
+      {
+        "id": "battle_dead_10716_1",
+        "desc": "Death",
+        "dlg": "Semua karena... gua... belum sempurna..."
+      },
+      {
+        "id": "choice_success_p_10716_2",
+        "desc": "Cek Berhasil",
+        "dlg": "Udah kelar, sesuai yang lu perintahin ke gue."
+      },
+      {
+        "id": "choice_fail_n_10716_1",
+        "desc": "Cek Gagal",
+        "dlg": "... Maaf sebesar-besarnya, Master."
+      },
+      {
+        "id": "battle_clear_10716_1",
+        "desc": "Victory Cry",
+        "dlg": "*haah* Kan udah gue bilang? Gaya lain gak bakal bisa ngejar seberapa cepet akselerasi Gaya Palermitan pas lagi duel.\nGue udah ngulangin tiap kuda-kuda seribu kali—bahkan kalau belum cukup, sepuluh ribu kali. Gue gak bakal kalah... apalagi sama <i>lu</i>."
+      },
+      {
+        "id": "battle_clear_ex_10716_1",
+        "desc": "Extra Conditions Fulfilled",
+        "dlg": "... Pengkhianat kayak gue emang gak pantes disebut manusia, kan? Ya jelas lah kagak. Gue ini apa coba kalau bukan monster gak tahu diri yang nusuk penyelamatnya dari belakang?\nTapi lu gak bakal dendam sama gue gara-gara ini, kan, Master? Lagian lu emang orang brengsek yang pantes mati."
+      },
+      {
+        "id": "battle_defeat_10716_1",
+        "desc": "Defeat Wail",
+        "dlg": "Harusnya minimal gue sempet nusuk dia sekali sebelum gue mati konyol gini..."
+      }
+    ]
+}

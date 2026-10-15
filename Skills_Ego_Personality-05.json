@@ -1,0 +1,1414 @@
+{
+  "dataList": [
+    {
+      "id": 2050511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Regret",
+          "abName": "Forsaken Murderer",
+          "desc": "[BeforeAttack] Hilangkan 1 acak removable efek negatif applied pada diri sendiri",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Vibration]; Beri (Wrath A-Reson. /3) tambahan Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Regret",
+          "abName": "Forsaken Murderer",
+          "desc": "[BeforeAttack] Hilangkan 1 acak removable efek negatif applied pada diri sendiri",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Vibration]; Beri (Wrath A-Reson. /3) tambahan Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]\nJika target tidak memiliki a Batas Stagger upon [VibrationExplosion],\nBeri Wrath Damage by (6 + 2x(Wrath A-Reson.))% of the final Batas Stagger raised"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Regret",
+          "abName": "Forsaken Murderer",
+          "desc": "[BeforeAttack] Hilangkan 2 acak removable negative effects applied pada diri sendiri",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Vibration]; Beri (Wrath A-Reson. /3) tambahan Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]\nJika target tidak memiliki a Batas Stagger upon [VibrationExplosion],\nBeri Wrath Damage by (12 + 3x(Wrath A-Reson.))% of the final Batas Stagger raised."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Regret",
+          "abName": "Forsaken Murderer",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Jika unit ini memiliki negative status effect, Atk Weight +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion].\nAmount of Batas Stagger raised by [VibrationExplosion] increases by 30% of [Vibration] pada target.\nReduce Count [Vibration] by 1"
+                },
+                {
+                  "desc": "[EndSkill] Peroleh 3 [Binding] dan 1 [HitResultUp] giliran berikutnya."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Regret",
+          "abName": "Forsaken Murderer",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Jika unit ini memiliki negative status effect, Atk Weight +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]\nAmount of Batas Stagger raised by [VibrationExplosion] increases by 40% of [Vibration] pada target.\nJika target tidak memiliki a Batas Stagger upon [VibrationExplosion],\nBeri Wrath Damage by (6 + 2x(Wrath A-Reson.))% of the final Batas Stagger raised\nReduce Count [Vibration] by 1"
+                },
+                {
+                  "desc": "[EndSkill] Peroleh 3 [Binding] dan 1 [HitResultUp] giliran berikutnya."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Regret",
+          "abName": "Forsaken Murderer",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Jika unit ini memiliki negative status effect, Atk Weight +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]\nAmount of Batas Stagger raised by [VibrationExplosion] increases by 50% of [Vibration] pada target.\nJika target tidak memiliki a Batas Stagger upon [VibrationExplosion],\nBeri Wrath Damage by (12 + 3x(Wrath A-Reson.))% of the final Batas Stagger raised\nReduce Count [Vibration] by 1"
+                },
+                {
+                  "desc": "[EndSkill] Peroleh 3 [Binding] dan 1 [HitResultUp] giliran berikutnya."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Electric Screaming",
+          "abName": "Dreaming Electric Sheep",
+          "desc": "[BeforeAttack] Peroleh +8 Count [Charge]\n[EndSkill] Beri +8 Count [Charge] to 1 other kawan yang memiliki the least Count [Charge]\n- Number of affected kawan grows by (Reson. Envy tertinggi - 2) (maks 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Electric Screaming",
+          "abName": "Dreaming Electric Sheep",
+          "desc": "[BeforeAttack] Peroleh +8 Count [Charge]\n[EndSkill] Beri +8 Count [Charge] to 1 other kawan yang memiliki the least Count [Charge]\n- Number of affected kawan grows by (Reson. Envy tertinggi - 2) (maks 4)\n- Pada 4+ (Reson. Envy tertinggi), beri 1 [VioletDamageUp] pada diri sendiri dan semua affected kawan",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Electric Screaming",
+          "abName": "Dreaming Electric Sheep",
+          "desc": "[BeforeAttack] Peroleh +12 Count [Charge]\n[EndSkill] Beri +8 Count [Charge] to 1 other kawan yang memiliki the least Count [Charge]\n- Number of affected kawan grows by (Reson. Envy tertinggi - 2) (maks <style=\"highlight\">5</style>)\n- Pada 4+ (Reson. Envy tertinggi), beri 1 [VioletDamageUp] pada diri sendiri dan semua affected kawan\n<style=\"highlight\">- Pada 6+ (Reson. Envy tertinggi), beri 1 [VioletDamageUp] pada diri sendiri dan semua affected kawan</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Electric Screaming",
+          "abName": "Dreaming Electric Sheep",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh Atk Weight setara dengan (Reson. Envy tertinggi - 2) (maks 2)\n[BeforeAttack] Jika unit ini memiliki 10+ Count [Charge], spend hingga 20 Count [Charge]; beri +2% damage untuk setiap Count [Charge] terkonsumsi (maks 40%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Paralysis]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Electric Screaming",
+          "abName": "Dreaming Electric Sheep",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh Atk Weight setara dengan (Reson. Envy tertinggi - 2) (maks <style=\"highlight\">3</style>)\n[BeforeAttack] Jika unit ini memiliki 10+ Count [Charge], spend hingga 20 Count [Charge]; beri +<style=\"highlight\">2.5</style>% damage untuk setiap Count [Charge] terkonsumsi (maks <style=\"highlight\">50</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Paralysis]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Electric Screaming",
+          "abName": "Dreaming Electric Sheep",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh Atk Weight setara dengan (Reson. Envy tertinggi - 2) (maks 3)\n<style=\"highlight\">[BeforeAttack] Pada 10+ Count [Charge], beri efek yang diberikan dari 'Saat Serang' dua kali</style>\n[BeforeAttack] Jika unit ini memiliki 10+ Count [Charge], spend hingga 20 Count [Charge]; beri +<style=\"highlight\">3</style>% damage untuk setiap Count [Charge] terkonsumsi (maks <style=\"highlight\">60</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Paralysis]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Yearning - Mircalla",
+          "abName": "Four-hundred Roses",
+          "desc": "[EndSkill] Untuk 3 giliran, kehilangan 10 SP pada Akhir Giliran",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Beri +2 [RoseWedge] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [RoseWedge] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Aktifkan [Laceration] pada target sekali (target kehilangan 1 [Laceration] Count)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Yearning - Mircalla",
+          "abName": "Four-hundred Roses",
+          "desc": "<style=\"highlight\">Jika target memiliki 6+ [Laceration], Coin Power +1</style>\n[EndSkill] Untuk 3 giliran, kehilangan 10 SP pada Akhir Giliran",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Pada 4+ Reson. tertinggi, aktifkan [Laceration] pada target sekali (target kehilangan 1 [Laceration] Count)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Pada 4+ Reson. tertinggi, aktifkan [Laceration] pada target sekali (target kehilangan 1 [Laceration] Count)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Beri +2 [RoseWedge] Count<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [RoseWedge] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Aktifkan target's [Laceration] <style=\"highlight\">(1 + (Reson. tertinggi/2)) times. (3 times maks; target kehilangan [Laceration] Count setara dengan jumlah dari times it was activated)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Yearning - Mircalla",
+          "abName": "Four-hundred Roses",
+          "desc": "<style=\"highlight\">Coin Power +1 untuk setiap 6 [Laceration] pada target (maks 2)</style>\n[EndSkill] Untuk 3 giliran, kehilangan 10 SP pada Akhir Giliran",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 4+ Reson. tertinggi, aktifkan [Laceration] pada target sekali (target kehilangan 1 [Laceration] Count)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 4+ Reson. tertinggi, aktifkan [Laceration] pada target sekali (target kehilangan 1 [Laceration] Count)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Beri +2 [RoseWedge] Count<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +<style=\"highlight\">2</style> [RoseWedge] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Aktifkan target's [Laceration] (1 + (Reson. tertinggi/2)) times. (3 times maks; target kehilangan [Laceration] Count setara dengan jumlah dari times it was activated)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EnemyKill] Ketika dealing excess damage past musuh's remaining HP, beri the excess damage as fixed damage between semua musuh. (min 1)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Yearning - Mircalla",
+          "abName": "Four-hundred Roses",
+          "desc": "[CantIdentify]\nTarget secara acak\n[WhenUse] Konsumsi hingga 10% of unit ini's maks HP dan beri (HP terkonsumsi / 2) damage ke semua musuh dan kawan\n- Pada kurang dari 50% of unit ini's maks HP, beri dan aktifkan 5 [Laceration] pada semua kawan sekali saja (kehilangan 1 [Laceration] Count). Pulihkan HP setara dengan the amount of [Laceration] damage dealt ke kawan",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration] pada diri sendiri dan target"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration] pada diri sendiri dan target"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Beri +2 [RoseWedge] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [RoseWedge] Count"
+                },
+                {
+                  "desc": "- Jika target tidak memiliki [RoseWedge], beri 4 tambahan [RoseWedge] Potency"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Aktifkan [Laceration] pada target sekali (target kehilangan 1 [Laceration] Count)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Yearning - Mircalla",
+          "abName": "Four-hundred Roses",
+          "desc": "[CantIdentify]\nTarget secara acak\n<style=\"highlight\">Pada 6+ ([Laceration] pada diri sendiri + [Laceration] pada target), Coin Power +1</style>\n[WhenUse] Konsumsi hingga 10% of unit ini's maks HP dan beri (HP terkonsumsi / 2) damage ke semua musuh dan kawan\n- Pada kurang dari 50% of unit ini's maks HP, beri dan aktifkan 5 [Laceration] pada semua kawan sekali saja (kehilangan 1 [Laceration] Count). Pulihkan HP setara dengan the amount of [Laceration] damage dealt ke kawan",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">3</style> [Laceration] pada diri sendiri dan target"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">3</style> [Laceration] pada diri sendiri dan target"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Beri +2 [RoseWedge] Count<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [RoseWedge] Count<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Jika target tidak memiliki [RoseWedge], beri 4 tambahan [RoseWedge] Potency<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Aktifkan target's [Laceration] <style=\"highlight\">(1 + (Reson. tertinggi/2)) times. (3 times maks; target kehilangan [Laceration] Count setara dengan jumlah dari times it was activated)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Yearning - Mircalla",
+          "abName": "Four-hundred Roses",
+          "desc": "[CantIdentify]\nTarget secara acak\nCoin Power +1 untuk setiap 6 ([Laceration] pada diri sendiri + [Laceration] pada target) <style=\"highlight\">(maks 3)</style>\n[WhenUse] Konsumsi hingga 10% of unit ini's maks HP dan beri (HP terkonsumsi / 2) damage ke semua musuh dan kawan\n- Pada kurang dari 50% of unit ini's maks HP, beri dan aktifkan 5 [Laceration] pada semua kawan saja (kehilangan 1 [Laceration] Count). Pulihkan HP setara dengan the amount of [Laceration] damage dealt ke kawan",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration] pada diri sendiri dan target<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Aktifkan [Laceration] pada diri sendiri dan target sekali (both kehilangan 1 [Laceration] Count)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration] pada diri sendiri dan target<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Aktifkan [Laceration] pada diri sendiri dan target sekali (both kehilangan 1 [Laceration] Count)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Beri +2 [RoseWedge] Count<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +<style=\"highlight\">2</style> [RoseWedge] Count"
+                },
+                {
+                  "desc": "- Jika target tidak memiliki [RoseWedge], beri 4 tambahan [RoseWedge] Potency<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Aktifkan target's [Laceration] (1 + (Reson. tertinggi/2)) times. (3 times maks; target kehilangan [Laceration] Count setara dengan jumlah dari times it was activated)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EnemyKill] Ketika dealing excess damage past musuh's remaining HP, beri the excess damage as fixed damage between semua musuh. (min 1)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Crushbound Past",
+          "abName": "Steam Transport Machine",
+          "desc": "[EndSkill] Untuk 3 giliran, kehilangan 10 SP pada Akhir Giliran\n[EndSkill] Ketika activating odd-numbered (Sloth Reson.) in odd-numbered giliran, atau when activating even-numbered (Sloth Reson.) in even-numbered giliran, pulihkan 10 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +(Sloth Reson. / 2) Count [Vibration] (maks 3)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika it's target utama, aktifkan [FusionVibration] menjadi target's current [Vibration] type"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnStartCoin] Coin ini beri +1% damage untuk setiap [Vibration] pada target utama (maks 50%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnStartCoin] Coin ini beri +1% damage untuk setiap ([Vibration] + Count [Vibration]) pada target utama (maks 100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika this Coin's effects raised the damage dealt by +100% atau lebih, aktifkan [VibrationExplosion] 2 kali; lalu, kurangi Count [Vibration] target sebanyak 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Crushbound Past",
+          "abName": "Steam Transport Machine",
+          "desc": "<style=\"highlight\">[BeforeAttack] Jika target utama memiliki 30+ ([Vibration] + Count [Vibration]), peroleh +1 Atk Weight</style>\n[EndSkill] Untuk 3 giliran, kehilangan 10 SP pada Akhir Giliran\n[EndSkill] Ketika activating odd-numbered (Sloth Reson.) in odd-numbered giliran, atau when activating even-numbered (Sloth Reson.) in even-numbered giliran, pulihkan 10 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +(Sloth Reson. / 2) Count [Vibration] (maks 3)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika it's target utama, aktifkan [FusionVibration] menjadi target's current [Vibration] type<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnStartCoin] Coin ini beri +1% damage untuk setiap [Vibration] pada target utama (maks 50%)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnStartCoin] Coin ini beri +1% damage untuk setiap ([Vibration] + Count [Vibration]) pada target utama (maks 100%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika this Coin's effects raised the damage dealt by +100% atau lebih, aktifkan [VibrationExplosion] 2 kali; lalu, kurangi Count [Vibration] target sebanyak 2<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Crushbound Past",
+          "abName": "Steam Transport Machine",
+          "desc": "[BeforeAttack] Jika target utama memiliki 30+ ([Vibration] + Count [Vibration]), peroleh +1 Atk Weight\n<style=\"highlight\">- Pada 100+, peroleh +3 Atk Weight saja</style>\n<style=\"highlight\">[BeforeAttack] Untuk setiap 2 Reson. tertinggi, beri 1 [Vibration] terhadap semua targets unit ini attacks (maks 3)</style>\n[EndSkill] Untuk 3 giliran, kehilangan 10 SP pada Akhir Giliran\n<style=\"highlight\">[EndSkill] Pulihkan ([AccumulatedPastSinner] x 2)% HP</style>\n[EndSkill] Ketika activating odd-numbered (Sloth Reson.) in odd-numbered giliran, atau when activating even-numbered (Sloth Reson.) in even-numbered giliran, pulihkan 10 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +(Sloth Reson. / 2) Count [Vibration] (maks 3)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika it's target utama, aktifkan [FusionVibration] menjadi target's current [Vibration] type<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Vibration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnStartCoin] Coin ini beri +1% damage untuk setiap [Vibration] pada target utama (maks 50%)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnStartCoin] Coin ini beri +1% damage untuk setiap ([Vibration] + Count [Vibration]) pada target utama (maks 100%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Jika this Coin's effects raised the damage dealt by +50% atau lebih, aktifkan [VibrationExplosion] sekali.</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika this Coin's effects raised the damage dealt by +100% atau lebih, aktifkan [VibrationExplosion] 2 kali; lalu, kurangi Count [Vibration] target sebanyak 2<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Crushbound Past",
+          "abName": "Steam Transport Machine",
+          "desc": "[CantIdentify]\nTarget secara acak\nBeri +10% damage untuk setiap Reson. tertinggi (maks 100%)\n- Jika the Reson. tertinggi was a Sloth Reson., beri +20% damage untuk setiap Reson. tertinggi saja (maks 100%)\n[BeforeAttack] Ketika activating even-numbered (Sloth Reson.) in odd-numbered giliran, atau when activating odd-numbered (Sloth Reson.) in even-numbered giliran, beri +12% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnStartCoin] Coin ini beri +1% damage untuk setiap ([Vibration] + Count [Vibration]) pada target utama (maks 100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Vibration] dan +2 Count [Vibration] "
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +(Sloth Reson.) Count [Vibration] (maks 6)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika it's target utama, aktifkan [FusionVibration] menjadi target's current [Vibration] type"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion] 2 kali; lalu, kurangi Count [Vibration] target sebanyak 2"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika this Coin's effects raised the damage dealt by +100% atau lebih, aktifkan [VibrationExplosion] 2 kali; lalu, kurangi Count [Vibration] target sebanyak 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Crushbound Past",
+          "abName": "Steam Transport Machine",
+          "desc": "[CantIdentify]\nTarget secara acak\nBeri +10% damage untuk setiap Reson. tertinggi (maks 100%)\n- Jika the Reson. tertinggi was a Sloth Reson., beri +20% damage untuk setiap Reson. tertinggi saja (maks 100%)\n<style=\"highlight\">[BeforeAttack] Jika target utama memiliki 30+ ([Vibration] + Count [Vibration]), peroleh +2 Atk Weight</style>\n[BeforeAttack] Ketika activating even-numbered (Sloth Reson.) in odd-numbered giliran, atau when activating odd-numbered (Sloth Reson.) in even-numbered giliran, beri +12% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnStartCoin] Coin ini beri +1% damage untuk setiap ([Vibration] + Count [Vibration]) pada target utama (maks 100%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Vibration] dan +2 Count [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +(Sloth Reson.) Count [Vibration] (maks 6)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika it's target utama, aktifkan [FusionVibration] menjadi target's current [Vibration] type<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion] 2 kali; lalu, kurangi Count [Vibration] target sebanyak 2<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika this Coin's effects raised the damage dealt by +100% atau lebih, aktifkan [VibrationExplosion] 2 kali; lalu, kurangi Count [Vibration] target sebanyak 2<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Crushbound Past",
+          "abName": "Steam Transport Machine",
+          "desc": "[CantIdentify]\nTarget secara acak\nBeri +10% damage untuk setiap Reson. tertinggi (maks 100%)\n- Jika the Reson. tertinggi was a Sloth Reson., beri +20% damage untuk setiap Reson. tertinggi saja (maks 100%)\n[BeforeAttack] Jika target utama memiliki 30+ ([Vibration] + Count [Vibration]), peroleh +2 Atk Weight\n[BeforeAttack] Ketika activating even-numbered (Sloth Reson.) in odd-numbered giliran, atau when activating odd-numbered (Sloth Reson.) in even-numbered giliran, beri +12% damage\n<style=\"highlight\">[EndSkill] Pulihkan ([AccumulatedPastSinner] x 3)% HP</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnStartCoin] Coin ini beri <style=\"highlight\">+2%</style> damage untuk setiap ([Vibration] pada target utama + Count [Vibration] pada target utama) (maks 100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Vibration] dan +2 Count [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +(Sloth Reson.) Count [Vibration] (maks 6)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika it's target utama, aktifkan [FusionVibration] menjadi target's current [Vibration] type<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion] 2 kali; lalu, kurangi Count [Vibration] target sebanyak 2<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika this Coin's effects raised the damage dealt by +100% atau lebih, aktifkan [VibrationExplosion] 2 kali; lalu, kurangi Count [Vibration] target sebanyak 2<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Shadow-vested Bladesinger [着影揮刀]",
+          "abName": "Geseundae",
+          "desc": "Ketika digunakan pertama kalinya pada Pertempuran, konsumsi 15 lebih sedikit SP\n- Jika Mentor Blade Lineage Meursault menggunakan Skill ini, juga konsumsi lebih sedikit E.G.O resource Wrath, Pride, dan Envy\n\nClash Power +1 dan beri +6% damage untuk setiap 4 [Breath] pada diri sendiri (maks 4, maks 12% masing-masing)\n\nJika unit ini memperoleh [AlcoholKimPersonal] selama Pertarungan ini, beri +60% damage terhadap target utama\n- Mentor Blade Lineage Meursault beri +120% damage terhadap target utama saja\n\n[BeforeAttack] Peroleh +(Reson. tertinggi / 2) Atk Weight (maks 2, dibulatkan ke bawah)\n[BeforeAttack] (3 + Reson. tertinggi) kawan dengan urutan Penempatan terawal memperoleh +4 Count [Breath]\n[EndSkill] 4 Identitas Blade Lineage kawan lainnya yang memiliki SP terendah pulihkan 10 SP\n[EndSkill] Peroleh 4 [AlcoholKimPersonal] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Shadow-vested Bladesinger [着影揮刀]",
+          "abName": "Geseundae",
+          "desc": "Ketika digunakan pertama kalinya pada Pertempuran, konsumsi 15 lebih sedikit SP\n- Jika Mentor Blade Lineage Meursault menggunakan Skill ini, juga konsumsi lebih sedikit E.G.O resource Wrath, Pride, dan Envy\n\nClash Power +1 dan beri +6% damage untuk setiap 4 [Breath] pada diri sendiri (maks <style=\"highlight\">6</style>, maks <style=\"highlight\">24</style>% masing-masing)\n\nJika unit ini memperoleh [AlcoholKimPersonal] selama Pertarungan ini, beri +<style=\"highlight\">80</style>% damage terhadap target utama\n- Mentor Blade Lineage Meursault beri +<style=\"highlight\">160</style>% damage terhadap target utama saja\n\n[BeforeAttack] Peroleh +(Reson. tertinggi / 2) Atk Weight (maks 2, dibulatkan ke bawah)\n[BeforeAttack] (3 + Reson. tertinggi) kawan dengan urutan Penempatan terawal memperoleh +4 Count [Breath]\n[EndSkill] 4 Identitas Blade Lineage kawan lainnya yang memiliki SP terendah pulihkan 10 SP\n[EndSkill] Peroleh 4 [AlcoholKimPersonal] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Shadow-vested Bladesinger [着影揮刀]",
+          "abName": "Geseundae",
+          "desc": "Ketika digunakan pertama kalinya pada Pertempuran, konsumsi 15 lebih sedikit SP\n- Jika Mentor Blade Lineage Meursault menggunakan Skill ini, juga konsumsi lebih sedikit E.G.O resource Wrath, Pride, dan Envy\n\nClash Power +1 dan beri +6% damage untuk setiap 4 [Breath] pada diri sendiri (maks <style=\"highlight\">8</style>, maks <style=\"highlight\">30</style>% masing-masing)\n\nJika unit ini memperoleh [AlcoholKimPersonal] selama Pertarungan ini, beri +<style=\"highlight\">100</style>% damage terhadap target utama\n- Mentor Blade Lineage Meursault beri +<style=\"highlight\">200</style>% damage terhadap target utama saja\n\n[BeforeAttack] Peroleh +(Reson. tertinggi / 2) Atk Weight (maks 2, dibulatkan ke bawah)\n[BeforeAttack] (3 + Reson. tertinggi) kawan dengan urutan Penempatan terawal memperoleh +4 Count [Breath]\n[EndSkill] 4 Identitas Blade Lineage kawan lainnya yang memiliki SP terendah pulihkan 10 SP\n[EndSkill] Peroleh 4 [AlcoholKimPersonal] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Shadow-vested Bladesinger [着影揮刀]",
+          "abName": "Geseundae",
+          "desc": "[CantIdentify]\nTarget secara acak\n\nClash Power +2 dan beri +6% damage untuk setiap 4 [Breath] pada diri sendiri (maks 8, maks 12% masing-masing)\n\nJika unit ini memperoleh [AlcoholKimPersonal] selama Pertarungan ini, beri +60% damage terhadap target utama\n- Mentor Blade Lineage Meursault beri +120% damage terhadap target utama\n\n[BeforeAttack] Base Power -2 untuk setiap Coin Retak (maks -8)\n[BeforeAttack] Semua musuh dan kawan peroleh +4 Count [Breath], 1 [SlashDamageUp] dan 1 [SlashTakeDamageUp]\n\n[EndSkill] 4 Identitas Blade Lineage kawan lainnya yang memiliki SP terendah pulihkan 10 SP\n[EndSkill] Peroleh 4 [AlcoholKimPersonal] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Coin terakhir memperoleh Final Power +2 (sekali per Coin)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Coin terakhir memperoleh Final Power +2 (sekali per Coin)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Coin terakhir memperoleh Final Power +2 (sekali per Coin)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Shadow-vested Bladesinger [着影揮刀]",
+          "abName": "Geseundae",
+          "desc": "[CantIdentify]\nTarget secara acak\n\nClash Power +2 dan beri +6% damage untuk setiap 4 [Breath] pada diri sendiri (maks <style=\"highlight\">12</style>, maks <style=\"highlight\">24</style>% masing-masing)\n\nJika unit ini memperoleh [AlcoholKimPersonal] selama Pertarungan ini, beri +<style=\"highlight\">80</style>% damage terhadap target utama\n- Mentor Blade Lineage Meursault beri +<style=\"highlight\">160</style>% damage terhadap target utama\n\n[BeforeAttack] Base Power -2 untuk setiap Coin Retak (maks -8)\n[BeforeAttack] Semua musuh dan kawan peroleh +4 Count [Breath], 1 [SlashDamageUp] dan 1 [SlashTakeDamageUp]\n\n[EndSkill] 4 Identitas Blade Lineage kawan lainnya yang memiliki SP terendah pulihkan 10 SP\n[EndSkill] Peroleh 4 [AlcoholKimPersonal] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Coin terakhir memperoleh Final Power +2 (sekali per Coin)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Coin terakhir memperoleh Final Power +2 (sekali per Coin)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Coin terakhir memperoleh Final Power +2 (sekali per Coin)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Shadow-vested Bladesinger [着影揮刀]",
+          "abName": "Geseundae",
+          "desc": "[CantIdentify]\nTarget secara acak\n\nClash Power +2 dan beri +6% damage untuk setiap 4 [Breath] pada diri sendiri (maks <style=\"highlight\">16</style>, maks <style=\"highlight\">30</style>% masing-masing)\n\nJika unit ini memperoleh [AlcoholKimPersonal] selama Pertarungan ini, beri +<style=\"highlight\">100</style>% damage terhadap target utama\n- Mentor Blade Lineage Meursault beri +<style=\"highlight\">200</style>% damage terhadap target utama\n\n[BeforeAttack] Base Power -2 untuk setiap Coin Retak (maks -8)\n[BeforeAttack] Semua musuh dan kawan peroleh +4 Count [Breath], 1 [SlashDamageUp] dan 1 [SlashTakeDamageUp]\n\n[EndSkill] 4 Identitas Blade Lineage kawan lainnya yang memiliki SP terendah pulihkan 10 SP\n[EndSkill] Peroleh 4 [AlcoholKimPersonal] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Coin terakhir memperoleh Final Power +2 (sekali per Coin)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Coin terakhir memperoleh Final Power +2 (sekali per Coin)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Coin terakhir memperoleh Final Power +2 (sekali per Coin)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2051011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kekosongan",
+          "abName": "Manusia Hampa",
+          "desc": "Jika target dikalahkan sebelum Skill selesai, prioritaskan target lain dengan HP terendah (untuk Pertemuan Terfokus, Bagian)\n\nClash Power +1 untuk setiap 4 (Potency [Breath] + Count [Charge]) pada diri sendiri (maks 5)\nClash Power +2 untuk setiap [BulletHole] pada diri sendiri\n\n[BeforeAttack] Peroleh +3 Count [Breath] dan +5 Count [Charge]\n[BeforeAttack] Konsumsi 3(5 - [BulletHole] pada diri sendiri) SP untuk peroleh hingga maks [BulletHole]\n\n[EndSkill] Peroleh 2 [BlackWingHole]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Coin ini hanya menyerang target utama"
+                },
+                {
+                  "desc": "Habiskan 1 [BulletHole]"
+                },
+                {
+                  "desc": "Beri +10% damage pada Serangan Critical"
+                },
+                {
+                  "desc": "Jika ini Coin pertama:\n- Beri +(Count [Charge] x 5)% damage (maks 100%)\n- Beri +(Potency [Breath] x Count)% damage pada Serangan Critical (maks 100%)\n- Untuk Coin ini, ubah Resist. Pierce target menjadi Fatal"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Sinking]"
+                },
+                {
+                  "desc": "[EndCoin] Pada 1+ [BulletHole], Gunakan ulang Coin ini (4 kali per Skill)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Beri +30% damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Kekosongan",
+          "abName": "Manusia Hampa",
+          "desc": "Jika target dikalahkan sebelum Skill selesai, prioritaskan target lain dengan HP terendah (untuk Pertemuan Terfokus, Bagian)\n\nClash Power +1 untuk setiap 4 (Potency [Breath] + Count [Charge]) pada diri sendiri (maks <style=\"highlight\">7</style>)\nClash Power +2 untuk setiap [BulletHole] pada diri sendiri\n\n[BeforeAttack] Peroleh +3 Count [Breath] dan +5 Count [Charge]\n[BeforeAttack] Konsumsi 3(5 - [BulletHole] pada diri sendiri) SP untuk peroleh hingga maks [BulletHole]\n\n[EndSkill] Peroleh 2 [BlackWingHole]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Coin ini hanya menyerang target utama<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Habiskan 1 [BulletHole]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Beri <style=\"highlight\">+15%</style> damage pada Serangan Critical"
+                },
+                {
+                  "desc": "Jika ini Coin pertama:\n- Beri +(Count [Charge] x 5)% damage (maks 100%)\n- Beri +(Potency [Breath] x Count)% damage pada Serangan Critical (maks 100%)\n- Untuk Coin ini, ubah Resist. Pierce target menjadi Fatal<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Coin Power Final +1</style>"
+                },
+                {
+                  "desc": "[EndCoin] Pada 1+ [BulletHole], Gunakan ulang Coin ini (4 kali per Skill)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Beri <style=\"highlight\">+50%</style> damage pada Serangan Critical"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnStartCoin] Ketika hanya menyerang 1 target, beri +50% damage (di Pertemuan Terfokus, Inti)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Kekosongan",
+          "abName": "Manusia Hampa",
+          "desc": "Jika target dikalahkan sebelum Skill selesai, prioritaskan target lain dengan HP terendah (untuk Pertemuan Terfokus, Bagian)\n\nClash Power +1 untuk setiap 4 (Potency [Breath] + Count [Charge]) pada diri sendiri (maks <style=\"highlight\">10</style>)\nClash Power +2 untuk setiap [BulletHole] pada diri sendiri\n\n[BeforeAttack] Peroleh +3 Count [Breath] dan +5 Count [Charge]\n[BeforeAttack] Konsumsi 3(5 - [BulletHole] pada diri sendiri) SP untuk peroleh hingga maks [BulletHole]\n\n[EndSkill] Peroleh 2 [BlackWingHole]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Coin ini hanya menyerang target utama<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Habiskan 1 [BulletHole]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Beri <style=\"highlight\">+20%</style> damage pada Serangan Critical"
+                },
+                {
+                  "desc": "Jika ini Coin pertama:\n- Beri +(Count [Charge] x 5)% damage (maks 100%)\n- Beri +(Potency [Breath] x Count)% damage pada Serangan Critical (maks 100%)\n- Untuk Coin ini, ubah Resist. Pierce target menjadi Fatal<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Beri 1 [PenetrateTakeDamageUp] (sekali per Skill)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Coin Power Final +1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndCoin] Pada 1+ [BulletHole], Gunakan ulang Coin ini (4 kali per Skill)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Beri +50% damage pada Serangan Critical<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Ketika hanya menyerang 1 target, beri +<style=\"highlight\">100</style>% damage (di Pertemuan Terfokus, Inti)"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnStartCoin] Coin Power +1 untuk setiap 4 Count [Charge] (maks 5)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2051021,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kekosongan",
+          "abName": "Manusia Hampa",
+          "desc": "[CantIdentify]\nTarget secara acak\nSkill ini tidak mengaktifkan Skill Defense (termasuk Skill Defense yang dapat di Clash)\nClash Power +1 untuk setiap 4 (Potency [Breath] + Count [Charge]) pada diri sendiri (maks 5)\n[BeforeAttack] Jika unit ini tidak memiliki [BulletHole], peroleh 1 [BulletHole]\n[BeforeAttack] Base Power -2 untuk setiap Coin Retak (maks -4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnStartCoin] Peroleh 5 [BlackWingHole]"
+                },
+                {
+                  "desc": "[OnStartCoin] Peroleh +5 Count [Charge]"
+                },
+                {
+                  "desc": "[OnStartCoin] Peroleh 5 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Coin ini memiliki peluang ([BulletHole] pada diri sendiri x 20)% untuk mendapat Ekor tak peduli dengan SP unit ini"
+                },
+                {
+                  "desc": "[CoinHead]\n- Coin ini tidak menyerang"
+                },
+                {
+                  "desc": "- [EndCoin] Peroleh 5 [Breath]"
+                },
+                {
+                  "desc": "- [EndCoin] Peroleh +3 Count [Breath]"
+                },
+                {
+                  "desc": "- [EndCoin] Peroleh 2 [BulletHole]"
+                },
+                {
+                  "desc": "- [EndCoin] Kembalikan setengah dari Bahan E.G.O yang dikonsumsi Skill ini (dibulatkan ke bawah)"
+                },
+                {
+                  "desc": "[CoinTail]\n- Beri +(Count [Charge] x 3)% damage (maks 60%)"
+                },
+                {
+                  "desc": "- Beri +70% damage pada Serangan Critical"
+                },
+                {
+                  "desc": "- [OnSucceedAttack] Beri Pierce damage setara dengan 10% dari damage akhir Coin ini"
+                },
+                {
+                  "desc": "- [EndCoin] Konsumsi semua [BulletHole] pada diri sendiri"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Kekosongan",
+          "abName": "Manusia Hampa",
+          "desc": "[CantIdentify]\nTarget secara acak\nSkill ini tidak mengaktifkan Skill Defense (termasuk Skill Defense yang dapat di Clash)\nClash Power +1 untuk setiap 4 (Potency [Breath] + Count [Charge]) pada diri sendiri (maks <style=\"highlight\">7</style>)\n\n<style=\"highlight\">[BeforeAttack] Ketika hanya menyerang 1 target, beri +100% damage (di Pertemuan Terfokus, Inti)</style>\n[BeforeAttack] Jika unit ini tidak memiliki [BulletHole], peroleh 1 [BulletHole]\n[BeforeAttack] Base Power -2 untuk setiap Coin Retak (maks -4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Peroleh 5 [BlackWingHole]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Peroleh +5 Count [Charge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Peroleh 5 [Breath]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Coin ini memiliki peluang ([BulletHole] pada diri sendiri x 20)% untuk mendapat Ekor tak peduli dengan SP unit ini<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CoinHead]\n- Coin ini tidak menyerang<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] Peroleh 5 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] Peroleh +3 Count [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] Peroleh 2 [BulletHole]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] Kembalikan setengah dari Bahan E.G.O yang dikonsumsi Skill ini (dibulatkan ke bawah)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CoinTail]\n- Beri +(Count [Charge] x <style=\"highlight\">4)% damage (maks 80%)</style>"
+                },
+                {
+                  "desc": "- Beri <style=\"highlight\">+100%</style> damage pada Serangan Critical"
+                },
+                {
+                  "desc": "- [OnSucceedAttack] Beri Pierce damage setara dengan <style=\"highlight\">15</style>% dari damage akhir Coin ini"
+                },
+                {
+                  "desc": "- [EndCoin] Konsumsi semua [BulletHole] pada diri sendiri<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Kekosongan",
+          "abName": "Manusia Hampa",
+          "desc": "[CantIdentify]\nTarget secara acak\nSkill ini tidak mengaktifkan Skill Defense (termasuk Skill Defense yang dapat di Clash)\nClash Power +1 untuk setiap 4 (Potency [Breath] + Count [Charge]) pada diri sendiri (maks <style=\"highlight\">10</style>)\n\n[BeforeAttack] Ketika hanya menyerang 1 target, beri +<style=\"highlight\">200</style>% damage (di Pertemuan Terfokus, Inti)\n<style=\"highlight\">[BeforeAttack] Peroleh Final Power +([BulletHole] pada diri sendiri)</style>\n[BeforeAttack] Jika unit ini tidak memiliki [BulletHole], peroleh 1 [BulletHole]\n[BeforeAttack] Base Power -2 untuk setiap Coin Retak (maks -4)\n<style=\"highlight\">[EnemyKill] Pulihkan 5 SP</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Peroleh 5 [BlackWingHole]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Peroleh +5 Count [Charge]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Peroleh 5 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Beri 1 [Binding] giliran berikutnya</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Coin ini memiliki peluang ([BulletHole] pada diri sendiri x 20)% untuk mendapat Ekor tak peduli dengan SP unit ini<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CoinHead]\n- Coin ini tidak menyerang<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] Peroleh 5 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] Peroleh +3 Count [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">- [EndCoin] Hilangan 1 efek negatif acak yang dapat dihilangkan pada diri sendiri</style>"
+                },
+                {
+                  "desc": "- [EndCoin] Peroleh 2 [BulletHole]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- [EndCoin] Kembalikan setengah dari Bahan E.G.O yang dikonsumsi Skill ini (dibulatkan ke bawah)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CoinTail]\n- Beri +(Count [Charge] x <style=\"highlight\">5)% damage (maks 100%)</style>"
+                },
+                {
+                  "desc": "- Beri +<style=\"highlight\">130</style>% damage pada Serangan Critical"
+                },
+                {
+                  "desc": "- [OnSucceedAttack] Beri Pierce damage setara dengan <style=\"highlight\">20</style>% dari damage akhir Coin ini"
+                },
+                {
+                  "desc": "<style=\"highlight\">- [EnemyKill] Pulihkan 5% HP</style>"
+                },
+                {
+                  "desc": "- [EndCoin] Konsumsi semua [BulletHole] pada diri sendiri<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Sinking]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

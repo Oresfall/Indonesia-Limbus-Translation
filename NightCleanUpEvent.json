@@ -1,0 +1,52 @@
+{
+  "dataList": [
+    {
+      "id": "night_clean_up_stage_button_default",
+      "content": "Tahapan"
+    },
+    {
+      "id": "night_clean_up_stage_button_locked",
+      "content": "Selesaikan 7.5-14 untuk Membuka"
+    },
+    {
+      "id": "night_clean_up_storybutton_default",
+      "content": "ke Teater"
+    },
+    {
+      "id": "night_clean_up_storybutton_start",
+      "content": "<size=75%>Lihat Cerita Tahapan event pertama \nuntuk Membuka</size>"
+    },
+    {
+      "id": "night_clean_up_stage_button_end_event",
+      "content": "Event Ditutup"
+    },
+    {
+      "id": "night_clean_up_bonus_popup_title",
+      "content": "Unit Bonus Event"
+    },
+    {
+      "id": "night_clean_up_bonusUIDesc",
+      "content": "Saat periode event, menggunakan Identitas tersebut pada tim akan\nmemberi tambahan dari <color=#625aff>[Sweeper Fuel Cylinder]</color> yang didapatkan.\nKamu bisa mendapatkan maksimum tambahan <color=#625aff>120%</color> dari currency event yang didapatkan."
+    },
+    {
+      "id": "night_clean_up_scrap_guide_title",
+      "content": "Panduan Currency Event"
+    },
+    {
+      "id": "night_clean_up_scrap_guide_desc",
+      "content": "Kamu dapat memperoleh <color=#625aff>[Sweeper Fuel Cylinder]</color> dari pertama-kali menyelesaikan Tahapan Event/Cerita Utama, atau dengan menyelesaikan Mirror Dungeon.\nKamu juga memiliki sedikit peluang untuk memperoleh <color=#625aff>[Sweeper Fuel Tank]</color> dari proses tersebut.\n\n<color=#625aff>[Sweeper Fuel Tank]</color> akan langsung diubah menjadi 20 <color=#625aff>[Sweeper Fuel Cylinder]</color> setelah didapatkan."
+    },
+    {
+      "id": "nightcleanup_reward_popup_desc",
+      "content": "Peroleh <color=#e50000>[Sweeper Fuel Cylinder]</color> dengan metode berikut:\nMenyelesaikan Tahapan Event, menyelesaikan Mirror Dungeon\ndan menyelesaikan Tahapan Cerita Utama untuk pertama kalinya.\n\nIn the <color=#e50000>[Pertukaran Hadiah]</color> window, you can purchase various rewards\nby spending <color=#e50000>[Sweeper Fuel Cylinder]</color> you have collected."
+    },
+    {
+      "id": "nightCleanUp_reward_popup_num_of_owned_items",
+      "content": "Barang Dimiliki"
+    },
+    {
+      "id": "night_clean_up_rewardShopButton",
+      "content": "Pertukaran Hadiah"
+    }
+  ]
+}

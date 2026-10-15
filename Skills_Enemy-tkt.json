@@ -1,0 +1,851 @@
+{
+  "dataList": [
+    {
+      "id": 9014001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Away With You",
+          "desc": "[WhenUse] Peroleh +2 [Vibration] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh [Vibration] Count setara dengan [Vibration] Count pada target"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Vibration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Peroleh +2 [Vibration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "My Secret Weapon",
+          "desc": "[WhenUse] Peroleh +2 [Vibration] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Vibration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Vibration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Vibration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Vibration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Filthy Watch Chains!",
+          "desc": "Clash Power +1 untuk setiap 5 [Vibration] Count pada diri sendiri (maks 2)\n[WhenUse] Aktifkan [Switch_Vibration] to ubah [Vibration] pada diri sendiri to [VibrationDistribution]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri [Vibration] Count setara dengan [Vibration] Count pada diri sendiri"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi [Vibration] Count target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guard",
+          "desc": "[StartBattle] Peroleh 2 x ([Vibration] Count pada diri sendiri) Perisai HP (maks 20)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Outta My Way",
+          "desc": "[WhenUse] Peroleh +2 [Vibration] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh [Vibration] setara dengan [Vibration] pada target"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Peroleh +2 [Vibration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'm Pretty Good, You Know",
+          "desc": "[WhenUse] Peroleh +2 [Vibration] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vile Watch Chains!",
+          "desc": "Clash Power +1 untuk setiap 5 [Vibration] Count pada diri sendiri (maks 2)\n[WhenUse] Aktifkan [Switch_Vibration] to ubah [Vibration] pada diri sendiri to [VibrationDistribution]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh [Vibration] setara dengan [Vibration] pada target"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi [Vibration] Count target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guard",
+          "desc": "[StartBattle] Peroleh 2 x ([Vibration] Count pada diri sendiri) Perisai HP (maks 20)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Have You No Shame?",
+          "desc": "[WhenUse] Peroleh +1 [Vibration] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I See, You Have No Shame",
+          "desc": "[WhenUse] Peroleh +1 [Vibration] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bisa You Protect Them?",
+          "desc": "[WhenUse] Peroleh +1 [Vibration] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pada 10+ [Vibration] Count pada diri sendiri, aktifkan [VibrationExplosion]; lalu, kurangi [Vibration] Count target sebanyak 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 15+ [Vibration] Potency, aktifkan [VibrationExplosion]; lalu, kurangi [Vibration] Count target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Can't Pakai That Weapon Now",
+          "desc": "[WhenUse] Peroleh +2 [Vibration] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [Switch_Vibration] menjadi [VibrationCollapse]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ready Untuk A Beating?",
+          "desc": "Prioritaskan target dengan [VibrationCollapse]\n[WhenUse] Beri [Vibration] Count setara dengan [Vibration] Count pada diri sendiri untuk semua other kawan\n[WhenUse] Aktifkan [Switch_Vibration] pada semua kawan(termasuk unit ini) to ubah their [Vibration] to [VibrationDistribution]",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [FusionVibration] menjadi [VibrationEcho]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guard",
+          "desc": "[StartBattle] Peroleh 3 x ([Vibration] Count pada diri sendiri) Perisai HP (maks 30)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101707,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Untuk the Greater Good",
+          "desc": "[CantDuel]\n[StartBattle] Draw semua other kawan' [Vibration] Count ke diri sendiri; [Vibration] pada semua kawan kadaluarsa\n[StartBattle] Peroleh 1 [AttackUp] untuk setiap 3 [Vibration] Count pada diri sendiri\n[WhenUse] Peroleh 9 [Vibration] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 10% bonus Sloth damage untuk setiap [Vibration] Count pada diri sendiri"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +4 [Vibration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 10% bonus Sloth damage untuk setiap [Vibration] Count pada diri sendiri"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Konsumsi 3 [Vibration] Count pada diri sendiri, dan aktifkan [VibrationExplosion]; lalu, kurangi [Vibration] Count target sebanyak 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Konsumsi 3 [Vibration] Count pada diri sendiri, dan aktifkan [VibrationExplosion]; lalu, kurangi [Vibration] Count target sebanyak 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Konsumsi 3 [Vibration] Count pada diri sendiri, dan aktifkan [VibrationExplosion]; lalu, kurangi [Vibration] Count target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Collection Stop-dan-search",
+          "desc": "[WhenUse] Peroleh +1 [Vibration] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 4+ [Vibration] Count, beri 1 [InterlockingTime]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 4+ [Vibration] Count, beri 1 [InterlockingTime]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +1 [Vibration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Please Stop.",
+          "desc": "[WhenUse] Peroleh +2 [Vibration] Count\n[WhenUse] Pada 4+ [Vibration] Count, Clash Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Paralysis] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 4+ [Vibration] Count, beri 8 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 [Vibration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 4+ [Vibration] Count, beri 8 [Vibration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Enforcing Collections.",
+          "desc": "[WhenUse] Clash Power +1 untuk setiap 5 [Vibration] Count pada diri sendiri (maks 2)\n[WhenUse] Pada 5+ [Vibration] Count, beri +10% damage untuk setiap [Vibration] Count. (maks 100%)\n[EndSkill] Konsumsi semua [Vibration] Count pada diri sendiri",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 [Vibration] Count giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 8+ [Vibration], beri 1 [InterlockingTime]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 4+ [Vibration] Count, beri 8 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 [Vibration] Count giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 4+ [Vibration] Count, beri 1 [InterlockingTime]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 4+ [Vibration] Count, beri 5 [Vibration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pada 7+ [Vibration] Count, beri 1 [InterlockingTime]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 4+ [Vibration] Count, aktifkan [Switch_Vibration] menjadi [VibrationChain]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Borrow Time",
+          "desc": "[StartBattle] Konsumsi 5 [Vibration] Count dan peroleh +3 [TimeRentalTwo] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Prepare To Collect",
+          "desc": "[WhenUse] Peroleh +2 [Vibration] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pada 3+ [Vibration] Count, beri 3 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Peroleh +1 [Vibration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "T Corp. Accelerated Amputator",
+          "desc": "[WhenUse] Peroleh +2 [Vibration] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vulnerable] giliran berikutnya"
+                },
+                {
+                  "desc": "Beri 2 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 [Vibration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vulnerable] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Your Timepiece, Jika You Will.",
+          "desc": "[WhenUse] Pada 5+ [Vibration] Count, Clash Power +1\n[WhenUse] Peroleh +2 [Vibration] Count\n[WinDuel] Konsumsi 3 [Vibration] Count pada diri sendiri dan peroleh +1 [TimeRentalTwo] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vulnerable] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Attack Power Down giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 5+ [Vibration] Count, aktifkan [Switch_Vibration] menjadi [VibrationChain]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Enforcing Collections.",
+          "desc": "[WhenUse] Peroleh +3 [Vibration] Count\n[WhenUse] Base Power +1 untuk setiap 4 [Vibration] Count pada diri sendiri (maks 3)\n[WinDuel] Konsumsi 5 [Vibration] Count pada diri sendiri dan peroleh +3 [TimeRentalTwo] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Konsumsi 1 [Vibration] Count pada diri sendiri untuk beri 1 Fragile"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Konsumsi 1 [Vibration] Count pada diri sendiri untuk beri +3 [Vibration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Konsumsi 1 [Vibration] Count pada diri sendiri untuk beri 8 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Konsumsi 2 [Vibration] Count pada diri sendiri to aktifkan [VibrationExplosion]; lalu, reuse this Coin (1 kali maks)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Konsumsi 5 [Vibration] Count pada diri sendiri untuk beri 2 [TimeAccumulation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Borrow Time",
+          "desc": "[StartBattle] Konsumsi 4 [Vibration] Count dan peroleh +3 [TimeRentalTwo] Count\n[StartBattle] Peroleh +2 [Vibration] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Prepare To Collect",
+          "desc": "[WhenUse] Peroleh +2 [Vibration] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pada 3+ [Vibration] Count, beri 3 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Peroleh +1 [Vibration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "T Corp. Time Snare",
+          "desc": "[WhenUse] Peroleh +2 [Vibration] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Konsumsi 1 [Vibration] Count pada diri sendiri untuk beri 2 [Paralysis] giliran berikutnya. Beri 2 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 [Vibration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Konsumsi 1 [Vibration] Count pada diri sendiri untuk beri 2 [Paralysis] giliran berikutnya. Beri 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stand Still.",
+          "desc": "[WhenUse] Pada 5+ [Vibration] Count, Clash Power +1\n[WhenUse] Peroleh +2 [Vibration] Count\n[WinDuel] Konsumsi 3 [Vibration] Count pada diri sendiri dan peroleh +1 [TimeRentalTwo] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Konsumsi 2 [Vibration] Count pada diri sendiri untuk beri 2 [Binding] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Konsumsi 2 [Vibration] Count pada diri sendiri untuk beri 2 [ParryingResultDown] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Enforcing Collections.",
+          "desc": "[WhenUse] Peroleh +3 [Vibration] Count\n[WhenUse] Base Power +1 untuk setiap 4 [Vibration] Count pada diri sendiri (maks 3)\n[WinDuel] Konsumsi 5 [Vibration] Count pada diri sendiri dan peroleh +3 [TimeRentalTwo] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Konsumsi 1 [Vibration] Count pada diri sendiri untuk beri 1 Fragile"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Konsumsi 1 [Vibration] Count pada diri sendiri untuk beri +3 [Vibration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Konsumsi 1 [Vibration] Count pada diri sendiri untuk beri 8 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Konsumsi 2 [Vibration] Count pada diri sendiri to aktifkan [VibrationExplosion]; lalu, reuse this Coin (1 kali maks)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Konsumsi 5 [Vibration] Count pada diri sendiri untuk beri 2 [TimeAccumulation]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Borrow Time",
+          "desc": "[StartBattle] Konsumsi 4 [Vibration] Count dan peroleh +3 [TimeRentalTwo] Count\n[StartBattle] Peroleh +2 [Vibration] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

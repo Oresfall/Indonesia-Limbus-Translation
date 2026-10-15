@@ -1,0 +1,84 @@
+{
+  "dataList": [
+    {
+      "id": 850101,
+      "name": "Reminisced Augmentation",
+      "desc": "Pada the start of the giliran, jika saat kurang dari 50% HP, pulihkan 20% dari Maks HP."
+    },
+    {
+      "id": 851001,
+      "name": "Gloomy Noises",
+      "desc": "Setelah losing a clash, peroleh 1 Fragile."
+    },
+    {
+      "id": 851002,
+      "name": "Blue Resin",
+      "desc": "Ketika an Eye Bagian breaks, musuh dengan the least SP kehilangan 35 SP."
+    },
+    {
+      "id": 851003,
+      "name": "Septic Weakness",
+      "desc": "Pada the start of the giliran, peroleh 3 Fragile jika Bagian rusak."
+    },
+    {
+      "id": 851901,
+      "name": "Initiating Town Tour",
+      "desc": "Pada the start of the giliran, jika Count Charge berada pada 10+, ubah behavior."
+    },
+    {
+      "id": 852001,
+      "name": "Damage Detected!",
+      "desc": "Ketika unit ini dikalahkan, Kqe-1j-23 menerima 100 damage dan menjadi Stagger giliran berikutnya.\nIt lalu kehilangan arm-related skills for the rest of the battle."
+    },
+    {
+      "id": 852101,
+      "name": "Overload",
+      "desc": "Pada the start of the giliran, jika di bawah 60 HP, enter a powered-up state."
+    },
+    {
+      "id": 852301,
+      "name": "Berlebihan HP Bullet",
+      "desc": "Pada the start of the giliran, peroleh 2 Damage Up dan 2 Fragile."
+    },
+    {
+      "id": 852701,
+      "name": "Dhyāna",
+      "desc": "Pada the start of the giliran, jika kawan is present, peroleh 10 Protection."
+    },
+    {
+      "id": 852702,
+      "name": "ANIKSHANA",
+      "desc": "NOT FOR SEEING OR LOOKING AT"
+    },
+    {
+      "id": 852703,
+      "name": "Putaran Karma",
+      "desc": "Semua unit transfer 10 of Karma mereka ke target setelah serangan sukses.\n(5 lebih Karma is transferred per jumlah Clash.)\nKarma tidak dapat di transfer ke My Form Empties selama ada kawannya yang masih hidup."
+    },
+    {
+      "id": 852704,
+      "name": "Anatman",
+      "desc": "Pada the start of the giliran, jika the Mūrti rusak, beri 30 Karma dan 3 Fragile ke kawan acak lain, lalu enter a mode of Anatman (Non-Self).\nDuring this state, the Abnormality’s behavior changes, dan semua its attacks target unit indiscriminately."
+    },
+    {
+      "id": 852705,
+      "name": "Nirmāna",
+      "desc": "Ketika the Mūrti recovers, its Maks HP increases sebanyak 20%."
+    },
+    {
+      "id": 852706,
+      "name": "THREE WISE TEXTS",
+      "desc": "SEE OF NO TEXT HERE\nHEAR OF NO TEXT HERE\nSPEAK OF NO TEXT HERE"
+    },
+    {
+      "id": 852707,
+      "name": "Bhaishajya",
+      "desc": "Pada the start of the giliran, fully pulih HP."
+    },
+    {
+      "id": 852102,
+      "name": "HP Ampule Injection",
+      "desc": "Awal Giliran: Jika HP unit ini is not at full, pulihkan 25% HP (maks 3 kali; pulih dari Stagger jika unit ini kena Stagger)"
+    }
+  ]
+}

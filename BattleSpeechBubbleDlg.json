@@ -1,0 +1,3649 @@
+{
+  "dataList": [
+    {
+      "id": "battle_speechbubble_cromer_1",
+      "desc": "말풍선 특수 대사_크로머",
+      "dlg": "Aah... Mungkinkah... Kamu...\nSinclairku...?"
+    },
+    {
+      "id": "battle_speechbubble_10808_1",
+      "desc": "말풍선 특수 대사_피쿼드호 선장 이스마엘",
+      "dlg": "All my fault, you say...? What fault?\nI daresay it's all thanks to me."
+    },
+    {
+      "id": "battle_speechbubble_10408_1",
+      "desc": "말풍선 특수 대사_에드가 가문 치프 버틀러 료슈",
+      "dlg": "S.K.B\nKau gagal menjadi Kepala Pelayan yang layak."
+    },
+    {
+      "id": "battle_react_10710_1",
+      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+      "dlg": "Sambutan yang sangat menyedihkan!"
+    },
+    {
+      "id": "battle_react_10710_2",
+      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+      "dlg": "... Akan kucungkil\nmata hina-mu."
+    },
+    {
+      "id": "battle_react_10710_3",
+      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+      "dlg": "Masih gagal untuk mengerti?\nKalau kamu... tidak lebih dari mangsa!"
+    },
+    {
+      "id": "battle_react_10710_4",
+      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+      "dlg": "Sudah jadi anjing kampungan ya?\nOh, tidakkah ini mengingatkanmu saat\nhari aku menggantikanmu?! HAHAHAHA!"
+    },
+    {
+      "id": "battle_react_10710_5",
+      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+      "dlg": "Hmph, beraninya kalian budak\nmesin cuci melempar pisau padaku?"
+    },
+    {
+      "id": "battle_react_10710_6",
+      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+      "dlg": "Catherine...?! Ini aku, Heathcliff...!\nKumohon, datang kehadapanku sekali lagi!!!"
+    },
+    {
+      "id": "battle_react_10710_7",
+      "desc": "말풍선 특수 대사_와일드헌트 히스클리프",
+      "dlg": "Tidak peduli Heathcliff macam apa dirimu ini!\nAku akan memiliki semua Catherine!!!"
+    },
+    {
+      "id": "battle_react_10310_10",
+      "desc": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
+      "dlg": "... You gave up your dream for the Family? \nYou, who preached about your\ndream with every breath...?"
+    },
+    {
+      "id": "battle_react_10310_11",
+      "desc": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
+      "dlg": "No... she is not like my sister."
+    },
+    {
+      "id": "battle_react_10310_12",
+      "desc": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
+      "dlg": "You dare raise your blade against a higher Kindred? \nPunishment for your filial impiety awaits. \n... And for me as well, I suppose..."
+    },
+    {
+      "id": "battle_react_10310_13",
+      "desc": "말풍선 특수 대사_라만차랜드 실장 돈키호테",
+      "dlg": "Those wounds... the Priest of this world\nmust be just as haunted by guilt."
+    },
+    {
+      "id": "battle_1137_FirstKill",
+      "desc": "말풍선 특수 대사_가치우_첫킬",
+      "dlg": "I expect you to fight to your deaths in this\ncrucial struggle, reversible as they may be."
+    },
+    {
+      "id": "8SV-015",
+      "desc": "가치우사용 시 대사 ",
+      "dlg": "Unearth it."
+    },
+    {
+      "id": "8SV-016",
+      "desc": "가치우홍루 강제 타겟팅 1",
+      "dlg": "It must lie there still, shrouded it may be."
+    },
+    {
+      "id": "8SV-017",
+      "desc": "가치우홍루 강제 타겟팅 2",
+      "dlg": "Shall it remain buried still?"
+    },
+    {
+      "id": "8SV-018",
+      "desc": "가치우홍루 강제 타겟팅 합 패배",
+      "dlg": "Demonstrate to me your will."
+    },
+    {
+      "id": "8SV-019",
+      "desc": "가치우홍루 강제 타겟팅 합 승리",
+      "dlg": "The mass of pain within your heart... is difficult to untangle."
+    },
+    {
+      "id": "8SV-020",
+      "desc": "가치우광역기 사용시",
+      "dlg": "Is it your companions who hold your tongue?\nThen... perhaps they must be shaken afore\nyou are to speak your truth."
+    },
+    {
+      "id": "8SV-021",
+      "desc": "가치우광역기  합 패배 후 다음턴",
+      "dlg": "Do not fear the futility. There will be time for that once you have spoken your mind."
+    },
+    {
+      "id": "8SV-022",
+      "desc": "가치우대상 처치시",
+      "dlg": "Rest awhile... until the clock turns."
+    },
+    {
+      "id": "8SV-023",
+      "desc": "가치우묘 부리기",
+      "dlg": "Cut them Down, Mao."
+    },
+    {
+      "id": "8SV-024",
+      "desc": "가치우자로 소환",
+      "dlg": "Heed Me, Zilu."
+    },
+    {
+      "id": "8SV-025",
+      "desc": "뇌횡",
+      "dlg": "Huh... y'all ain't setengah bad!\nKeep makin' it worth my bullet fees!"
+    },
+    {
+      "id": "8SV-026",
+      "desc": "뇌횡사용 시: 탄환 충분 - 강력한 스킬",
+      "dlg": "Eyes up here, boys!\nDon'tcha go losin' yer heads now!"
+    },
+    {
+      "id": "8SV-027",
+      "desc": "뇌횡사용 시: 탄환 부족 - 강력한 스킬",
+      "dlg": "Hwell, what's this? Manageable so far?"
+    },
+    {
+      "id": "8SV-028",
+      "desc": "뇌횡턴 시작 : 매우 강력한 스킬",
+      "dlg": "I'maboutta drop somethin' big on y'all!\nDon't let it kill y'all now dan spoil the fun!"
+    },
+    {
+      "id": "8SV-029",
+      "desc": "뇌횡합 승리 : 매우 강력한 스킬",
+      "dlg": "Aw heck, don't tell me\ny'all are tuckered out already!"
+    },
+    {
+      "id": "8SV-030",
+      "desc": "뇌횡턴 시작 : [체력 n% 이하]에 버프 획득",
+      "dlg": "That's more like it.\nY'all are firin' me up!"
+    },
+    {
+      "id": "8SV-031",
+      "desc": "뇌횡사용 시 : [체력 n% 이하] 필살기(",
+      "dlg": "Y'all don't go on huntin' tigers without preparin'\nyerselves to get chomped 'tween one of them jaws!"
+    },
+    {
+      "id": "8SV-032",
+      "desc": "뇌횡턴 시작 : [체력 n% 이하]에 버프 변경",
+      "dlg": "Can't leave a dance unfinished.\nAin't that right?"
+    },
+    {
+      "id": "8SV-034",
+      "desc": "가환E.G.O 침식률 n 이상",
+      "dlg": "Can't waste any more time on these...\n... sickening, revolting insects."
+    },
+    {
+      "id": "8SV-035",
+      "desc": "가환홍루메인타겟",
+      "dlg": "Don’t pretend you’ve changed.\nYou’re still the same trash you were back then... scum!"
+    },
+    {
+      "id": "8SV-036",
+      "desc": "가환경멸나선모드",
+      "dlg": "... Is this also the E.G.O's power?"
+    },
+    {
+      "id": "8SV-037",
+      "desc": "가환광역기사용시",
+      "dlg": "Behold! This contempt!\nIt rains down upon the disgusting filth!"
+    },
+    {
+      "id": "8SV-038",
+      "desc": "가환전투시작 : n인이상이 자신을 타겟",
+      "dlg": "Foolishness."
+    },
+    {
+      "id": "8SV-039",
+      "desc": "구보E.G.O 침식률 10 이상",
+      "dlg": "You have taken a glimpse of yesterday's spring.\nA memory rarely availed to even myself."
+    },
+    {
+      "id": "8SV-040",
+      "desc": "구보난사 패턴 진입",
+      "dlg": "Do not let your past ties ruin your judgment.\nIt makes me want to blast them all away."
+    },
+    {
+      "id": "8SV-041",
+      "desc": "구보아군 살해 패턴 진입",
+      "dlg": "Sacrifices are necessary\nin pursuit of the greater cause."
+    },
+    {
+      "id": "8SV-042",
+      "desc": "구보체력 n% 미만 / 경멸 나선 모드 감상",
+      "dlg": "... Whew. That worked."
+    },
+    {
+      "id": "8SV-051",
+      "desc": "가모사용 시 : 홍루 가두기",
+      "dlg": "Fulfill your worth!"
+    },
+    {
+      "id": "8SV-052",
+      "desc": "가모사용 시 : 홍루 가두기 실패",
+      "dlg": "You dare!"
+    },
+    {
+      "id": "8SV-053",
+      "desc": "가모턴 시작 : 보옥 생성",
+      "dlg": "Oh, revered Xianren! Shi Miyin brought the gem back!\nThe pretty gem that'll make Hongyuan all beautiful again…!"
+    },
+    {
+      "id": "8SV-054",
+      "desc": "가모턴 시작 : 보옥 파괴",
+      "dlg": "Blasphemous transgressors!\nOutsiders shall not covet the treasure of Daguanyuan!"
+    },
+    {
+      "id": "8SV-055",
+      "desc": "가모사용 시 : 버프 받기",
+      "dlg": "You favor me, don't you?\nI knew you would, dear Xianhuang Worm!"
+    },
+    {
+      "id": "8SV-056",
+      "desc": "가모가마 체력 0",
+      "dlg": "NO!!!!!!"
+    },
+    {
+      "id": "8SV-057",
+      "desc": "가모사용 시 : 어르신 나무 소환",
+      "dlg": "All the wisdom of Hongyuan...\nGive it to me, give it to Miyin...!"
+    },
+    {
+      "id": "8SV-058",
+      "desc": "가모사용 시 : 어르신 나무 흡수",
+      "dlg": "Be one with the fathomless history of Hongyuan!"
+    },
+    {
+      "id": "8SV-059",
+      "desc": "가모턴 시작 : 지고한 불사 흐트러짐 실패",
+      "dlg": "We have transcended the yoke of life dan death...\nThus, Hongyuan shall shine for all eternity as well!"
+    },
+    {
+      "id": "8SV-060",
+      "desc": "가모턴 시작 : 지고한 불사 흐트러짐",
+      "dlg": "Ahh... What a shameful failure of duties this is..."
+    },
+    {
+      "id": "8SV-061",
+      "desc": "가모사용 시 : 강한 광역기",
+      "dlg": "You will obey us!"
+    },
+    {
+      "id": "6SV-018-02",
+      "desc": "증오의 여왕 피격",
+      "dlg": "Ow...!"
+    },
+    {
+      "id": "6SV-019-003",
+      "desc": "증오의 여왕 타격",
+      "dlg": "With Love!"
+    },
+    {
+      "id": "6SV-019-004",
+      "desc": "증오의 여왕 타격",
+      "dlg": "In the Name of Justice!"
+    },
+    {
+      "id": "6SV-020-001",
+      "desc": "증오의 여왕 타격",
+      "dlg": "Arcana Beats!"
+    },
+    {
+      "id": "6SV-020-001-01",
+      "desc": "증오의 여왕 타격",
+      "dlg": "Arcana Beats~!"
+    },
+    {
+      "id": "6SV-020-002",
+      "desc": "증오의 여왕 타격",
+      "dlg": "Disappear~"
+    },
+    {
+      "id": "6SV-021",
+      "desc": "증오의 여왕 첫 등장",
+      "dlg": "In the name of Love dan Justice~ Here comes Magical Girl!"
+    },
+    {
+      "id": "6SV-022",
+      "desc": "절망의 기사 첫 흐트러짐 이후 검 소환 패턴에 진입했을 때",
+      "dlg": "So you’ve been dikonsumsi too, senpai… Can this cycle really not be stopped?"
+    },
+    {
+      "id": "6SV-023",
+      "desc": "아르카나 슬레이브 차징 시작 시",
+      "dlg": "Heed me, thou that are more azure than justice dan more crimson than love…"
+    },
+    {
+      "id": "6SV-024",
+      "desc": "아르카나 슬레이브 차징 중",
+      "dlg": "In the name of those buried in destiny, I shall make this oath to the light."
+    },
+    {
+      "id": "6SV-025",
+      "desc": "아르카나 슬레이브 차징 중",
+      "dlg": "Mark the hateful beings who stand before us;\nlet your strength merge with mine, \nso that we may deliver the power of love to all!"
+    },
+    {
+      "id": "6SV-026",
+      "desc": "아르카나 슬레이브 발사 스킬 사용",
+      "dlg": "<i>ARCANA SLAVE!</i>"
+    },
+    {
+      "id": "6SV-027",
+      "desc": "제압 완료 후 퇴각 대사",
+      "dlg": "You've... been suppressing it as much as you could..."
+    },
+    {
+      "id": "6SV-028",
+      "desc": "완전 제압 X, 아르카나 슬레이브 발사 후",
+      "dlg": "Huff, puff, puff... Did... did we get her?!"
+    },
+    {
+      "id": "6SV-029",
+      "desc": "빈사 퇴각",
+      "dlg": "I swore I would... protect everyone... to the end…"
+    },
+    {
+      "id": "6SV-001_1",
+      "desc": "시간살인마 피격1",
+      "dlg": "Ow, that hurts!"
+    },
+    {
+      "id": "6SV-001_2",
+      "desc": "시간살인마 피격2",
+      "dlg": "\"Couldn't you have dodged that, you oaf?!\""
+    },
+    {
+      "id": "6SV-001_3-03",
+      "desc": "시간살인마 피격4",
+      "dlg": "Oh!\n\"Blimey...\""
+    },
+    {
+      "id": "6SV-002_2",
+      "desc": "시간살인마 공격1",
+      "dlg": "We'll rip you up."
+    },
+    {
+      "id": "6SV-002_3",
+      "desc": "시간살인마 공격3",
+      "dlg": "You were going to kill that time anyway."
+    },
+    {
+      "id": "6SV-003_1",
+      "desc": "시간살인마 첫 등장",
+      "dlg": "We can't rip their time...?\n\"You bloody fool!\"\n\"We've been had!\""
+    },
+    {
+      "id": "6SV-004_1",
+      "desc": "시간살인마 재 등장",
+      "dlg": "We reap the dying hours.\n\"You've plenty o' time! Give it!\"\n\"Let's sever 500... no, 2000 hours.\"\n\"Get a grip, you muppet!\""
+    },
+    {
+      "id": "6SV-005_1",
+      "desc": "시간살인마 2페이즈",
+      "dlg": "\"Damn... let's end this.\"\n\"You're taking too much time from us...!\"\nThe benefits will outweigh the costs. Calm down."
+    },
+    {
+      "id": "6SV-006_1",
+      "desc": "시간살인마 시간 살인 시간 사용전",
+      "dlg": "We have no choice but to pakai it.\n\"Make sure your arithmetics are correct. Equal hours from everyone!\""
+    },
+    {
+      "id": "6SV-007",
+      "desc": "시간살인마 시간 살인 시간 사용",
+      "dlg": "We'll... cut you up."
+    },
+    {
+      "id": "6SV-008",
+      "desc": "시간살인마 시간 살인 시간 사용후",
+      "dlg": "Shut— Shut up! We're infighting...! This is a waste of time!"
+    },
+    {
+      "id": "battle_react_noVoice_10613_1",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_사화정",
+      "dlg": "I don't recall this candidate... Hm, all kinds of sorry churls seem to vie for the seat of the Hierarch in this place they call a mirror world."
+    },
+    {
+      "id": "battle_react_noVoice_10613_2",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_왕청산",
+      "dlg": "This is no place for something so insignificant as family. You, who are causeless dan hollow of vision toward Hongyuan, do not belong here."
+    },
+    {
+      "id": "battle_react_noVoice_10613_3",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_사사정",
+      "dlg": "Benighted is this fool. One need not coerce others to lay down their lives, for the pursuit of a great cause naturally begets those who would gladly brave death itself."
+    },
+    {
+      "id": "battle_react_noVoice_10613_4",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_설반",
+      "dlg": "For all that disinclination toward violence, you seem to have a passing talent for it nonetheless. Even a pathetic craven becomes... a madman when swept up by the flow."
+    },
+    {
+      "id": "battle_react_noVoice_10613_5",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_사이화",
+      "dlg": "Behold the fool, the jester; he hollers empty skyward boasts, yet heaven remains just as unreachable."
+    },
+    {
+      "id": "battle_react_10613_6",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_가모1페",
+      "dlg": "Ha... ha ha! I shall always welcome another opportunity to cut down these ancient demons who have been seduced by immortality!"
+    },
+    {
+      "id": "battle_react_10613_7",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_가모2페",
+      "dlg": "Keep twisting in that filth, Shi Miyin... It'll only enhance the taste of happiness, wrath, sorrow, dan joy when I cleave into you!"
+    },
+    {
+      "id": "battle_react_10613_8",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_가치우1페",
+      "dlg": "I never thought I'd ever see you in Hongyuan again, big brother... Fuhu, so in this world, you managed to survive. You seem to be carving out your own path much like myself."
+    },
+    {
+      "id": "battle_react_10613_9",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_가치우3페",
+      "dlg": "Phew... okay, fine. Then...\nAs the Lord of Hongyuan, I hereby grant you audience."
+    },
+    {
+      "id": "battle_react_10613_10",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_가환",
+      "dlg": "Avenging Jia Huan shouldn't affect you this much now, should it...? Ketika did this revolting display of belated melodrama replace your advocacy for the cold dan calculating pragmatism you had discussed before me?"
+    },
+    {
+      "id": "battle_react_10613_701",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_가모 보옥탈출",
+      "dlg": "Never did I let this sickening cradle imprison me, dan that will not change today! Never!"
+    },
+    {
+      "id": "battle_react_10613_901",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_가치우_문답1스택",
+      "dlg": "Fascinating. Why was I not told that such interesting dialogues could be had with him in this world?"
+    },
+    {
+      "id": "battle_react_10613_902",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_가치우_문답2스택",
+      "dlg": "You assert that education of humanity dan propriety is what cleanses the years of fell deeds? The first step seems to have eluded you: absolutely pulverize the fell deeds. Only lalu shall humanity dan propriety have any significance."
+    },
+    {
+      "id": "battle_react_10613_903",
+      "desc": "말풍선 특수 대사_홍원 군주 홍루_가치우_문답3스택",
+      "dlg": "Evil must be mercilessly wrested from their roots(除惡務盡 斬草除根). The path I have chosen as the Lord of Hongyuan is a path unburdened by the need to seek understanding from others. Thus, big brother—no, Jia Qiu, this dialogue has met an impasse."
+    },
+    {
+      "id": "battle_eE_10415_1",
+      "desc": "이스터 - 메인(상) - 루치오 조우 시",
+      "dlg": "Akan kupotong dirimu agar kau tidak berani untuk meniru lagi."
+    },
+    {
+      "id": "battle_eE_10415_2",
+      "desc": "이스터 - 메인(상) - 렌 조우 시",
+      "dlg": "Siapa... kamu? Aku tidak ingat siapapun sepertimu di House of Spiders."
+    },
+    {
+      "id": "battle_eE_10415_3",
+      "desc": "이스터 - 메인(상) - 알비나 조우 시",
+      "dlg": "... Setidaknya baju besi itu menyembunyikan pandangan menjijikanmu dariku."
+    },
+    {
+      "id": "battle_eE_10415_4",
+      "desc": "이스터 - 메인(중) - 소라 조우 시",
+      "dlg": "Mungkin bunyi bip menjengkelkan itu akan terdiam setelah aku memotongmu menjadi benda tak berbentuk dan membuang sisa tubuhmu ke dalam selokan yang terbengkalai."
+    },
+    {
+      "id": "battle_eE_10415_5",
+      "desc": "이스터 - 메인(중) - 소지 아비 1차 조우 시",
+      "dlg": "... Tempat ini juga, memiliki hal sepertiku?"
+    },
+    {
+      "id": "battle_eE_10415_6",
+      "desc": "이스터 - 메인(하) - 소지 아비 2차 조우 시",
+      "dlg": "Aku bisa melihat setiap alur waktu yang menjerat keberadaanmu."
+    },
+    {
+      "id": "battle_eE_10415_7",
+      "desc": "이스터 - 메인(하) - 소지 아비 3차 조우 시",
+      "dlg": "Selagi aku menghapus diriku, kuharap kamu dapat menghapus dirimu sendiri."
+    },
+    {
+      "id": "battle_eE_10415_8",
+      "desc": "이스터 - 메인(하) - 아라야 조우 시",
+      "dlg": "Kasihan... Kau melihat langit yang tidak pernah ingin kau lihat dan mulai berharap."
+    },
+    {
+      "id": "battle_eE_10415_9",
+      "desc": "이스터 - 메인(하) - 아라야 2페이즈 시작",
+      "dlg": "Kau mungkin membicarakannya berulang kali, tapi dia tetap tidak akan ingat."
+    },
+    {
+      "id": "battle_eE_10415_10",
+      "desc": "이스터 - 메인(하) - 아라야 2페이즈 2턴",
+      "dlg": "Dia tak akan kembali bahkan ketika bunga yang sama itu layu."
+    },
+    {
+      "id": "battle_eE_10415_11",
+      "desc": "이스터 - 메인(하) - 아라야 2페이즈 3턴",
+      "dlg": "Dan tiada satu haripun berlalu tanpa dirimu yang ingin menangis."
+    },
+    {
+      "id": "battle_eE_10415_12",
+      "desc": "이스터 - 메인(하) - 아라야 2페이즈 4턴 (측은지심을 느끼고 있어야 함 / 연민이 있어야 한다)",
+      "dlg": "Ya. Potong mereka semua di sini dan sekarang. Setiap helai benang."
+    },
+    {
+      "id": "battle_eE_10415_13",
+      "desc": "이스터 - 메인(하) - 뤼엔 조우 시",
+      "dlg": "Suara mengerikan itu... adalah kau. Kaulah  yang harus kuputus dari sini."
+    },
+    {
+      "id": "battle_eE_10415_14",
+      "desc": "이스터 - 메인(하) - 뤼엔 퓨리오소 장착 시 (1페이즈)",
+      "dlg": "Kau pasti ingin hari ini datang. Ataukah, sesuai keinginan tuhanmu itu?"
+    },
+    {
+      "id": "battle_eE_10415_15",
+      "desc": "이스터 - 메인(하) - 뤼엔 퓨리오소 장착 시 (2페이즈)",
+      "dlg": "Bukan aku yang pantas masuk neraka. Itu adalah kau."
+    },
+    {
+      "id": "battle_eE_10415_16",
+      "desc": "이스터 - 메인(하) - 뤼엔 최종 연출 턴",
+      "dlg": "Aku <i>bisa</i> memotongnya.\nSebelum beban benang yang menjerat, mencekik ini menghancurkanku sampai mati... Aku akan mengangkat pedang ini... dan memotong semuanya!"
+    },
+    {
+      "id": "battle_eE_10415_17",
+      "desc": "이스터 - 거던(히든) - 발렌치나 조우 시",
+      "dlg": "Kau tidak pantas memintaku untuk penjelasan. Aku memotongmu karena aku ingin, persis seperti dulu kau yang menendangku karena ingin melepas amarah."
+    },
+    {
+      "id": "battle_eE_10415_18",
+      "desc": "이스터 - 거던(히든) - 뤼엔 조우 시",
+      "dlg": "Aku lebih suka jika kematianmu tidak sesuai perintah tuhanmu itu. Tidak akan kubiarkan kau bersenang atas kebahagiaanku."
+    },
+    {
+      "id": "battle_eE_10415_19",
+      "desc": "이스터 - 거던(히든) - 마티아스 조우 시",
+      "dlg": "Relik, rantai, kumpulan mainan tak berguna, dan hidupmu... Akan kutemukan mereka semua dan kuhancurkan."
+    },
+    {
+      "id": "battle_eE_10415_20",
+      "desc": "이스터 - 거던(히든) - 칼리스토 조우 시",
+      "dlg": "Akankah kau bahagia setelah pedang itu memotongmu, mengetahui bahwa hasil karyamu hampir jadi? Atau kau akan menyesal tidak akan bisa melihat hasil akhirnya?"
+    },
+    {
+      "id": "battle_eE_10415_21",
+      "desc": "이스터 - 거던(히든) - 소라 조우 시",
+      "dlg": "Bunyi bip menyebalkan itu... Tidak heran Arayashiki memotongmu berkeping-keping."
+    },
+    {
+      "id": "battle_eE_10415_22",
+      "desc": "이스터 - 거던(히든) - 렌 조우 시",
+      "dlg": "... Orang asing dengan wujud familier. Tapi bagaimana? Benang kita tidak pernah terikat."
+    },
+    {
+      "id": "battle_s3_10402_1",
+      "desc": "",
+      "dlg": "I'll cut you down."
+    },
+    {
+      "id": "battle_s2_10403_1_2",
+      "desc": "",
+      "dlg": "It's over."
+    },
+    {
+      "id": "battle_s2_10603_1_3",
+      "desc": "",
+      "dlg": "It's fun~"
+    },
+    {
+      "id": "battle_s2_10804_1",
+      "desc": "",
+      "dlg": "Target confirmed."
+    },
+    {
+      "id": "battle_s3_10804_1_2",
+      "desc": "",
+      "dlg": "Kill confirmed."
+    },
+    {
+      "id": "battle_s3_10903_1_2",
+      "desc": "",
+      "dlg": "Breaching!"
+    },
+    {
+      "id": "battle_s2_11004_1_1",
+      "desc": "",
+      "dlg": "Now, now~"
+    },
+    {
+      "id": "battle_s2_11103_1",
+      "desc": "",
+      "dlg": "Attack!"
+    },
+    {
+      "id": "battle_s3_10504_1_2",
+      "desc": "",
+      "dlg": "Silence."
+    },
+    {
+      "id": "battle_s3_10504_1_2",
+      "desc": "",
+      "dlg": "Silence."
+    },
+    {
+      "id": "battle_s3_10204_1_2",
+      "desc": "",
+      "dlg": "Pierce through!"
+    },
+    {
+      "id": "battle_s3_11104_1",
+      "desc": "",
+      "dlg": "As predicted."
+    },
+    {
+      "id": "battle_s3_11104_1-01",
+      "desc": "",
+      "dlg": "As predicted!"
+    },
+    {
+      "id": "battle_s3_10404_1_1",
+      "desc": "",
+      "dlg": "Y.\n<size=50%>(You're.)</size>"
+    },
+    {
+      "id": "battle_s3_10404_1_2",
+      "desc": "",
+      "dlg": "Y.A.\n<size=50%>(You're a.)</size>"
+    },
+    {
+      "id": "battle_s3_10404_1_3",
+      "desc": "",
+      "dlg": "Y.A.T.T\n<size=50%>(You're a tastebud-tickiling.)</size>"
+    },
+    {
+      "id": "battle_s3_10404_1_4",
+      "desc": "",
+      "dlg": "Y.A.T.T.A.\n<size=50%>(You're a tastebud-tickiling attraction.)</size>"
+    },
+    {
+      "id": "battle_s3_11005_1_1",
+      "desc": "",
+      "dlg": "That filth..."
+    },
+    {
+      "id": "battle_s3_11005_1_2",
+      "desc": "",
+      "dlg": "I'll purge it off you!"
+    },
+    {
+      "id": "battle_s3_11005_1_2-03",
+      "desc": "",
+      "dlg": "I'll strip it off clean."
+    },
+    {
+      "id": "battle_s3_10905_1_2",
+      "desc": "",
+      "dlg": "Get caught...!"
+    },
+    {
+      "id": "battle_s3_10705_1_1",
+      "desc": "",
+      "dlg": "Spread Out!"
+    },
+    {
+      "id": "battle_s3_11205_1_1-01",
+      "desc": "",
+      "dlg": "Alright~!"
+    },
+    {
+      "id": "battle_s3_10104_1_4",
+      "desc": "",
+      "dlg": "Bloom."
+    },
+    {
+      "id": "battle_s3_11006_1_2-03",
+      "desc": "",
+      "dlg": "Like this!"
+    },
+    {
+      "id": "battle_s3_10806_1_5",
+      "desc": "",
+      "dlg": "Hmph, you've got ash on me."
+    },
+    {
+      "id": "battle_s3_10506_1_1",
+      "desc": "",
+      "dlg": "Piercing through!"
+    },
+    {
+      "id": "battle_s3_10305_1_3",
+      "desc": "",
+      "dlg": "Rest now."
+    },
+    {
+      "id": "battle_s3_10807_1_2",
+      "desc": "",
+      "dlg": "Get crushed!"
+    },
+    {
+      "id": "battle_s3_11206_1_1_03_1",
+      "desc": "",
+      "dlg": "That's enough!"
+    },
+    {
+      "id": "battle_s3_10206_1_1",
+      "desc": "",
+      "dlg": "The observation..."
+    },
+    {
+      "id": "battle_s3_10206_1_2",
+      "desc": "",
+      "dlg": "... is over."
+    },
+    {
+      "id": "battle_s3_10907_1_1",
+      "desc": "1Need to test",
+      "dlg": "Gah! Get it now?"
+    },
+    {
+      "id": "battle_s3_10207_1_4-01",
+      "desc": "",
+      "dlg": "Suppression complete."
+    },
+    {
+      "id": "battle_s3_10106_1_3",
+      "desc": "",
+      "dlg": "In an instant."
+    },
+    {
+      "id": "battle_s3_11207_1_01",
+      "desc": "",
+      "dlg": "Shall I take one arm?"
+    },
+    {
+      "id": "battle_s3_10306_1_1",
+      "desc": "",
+      "dlg": "Cross that one off."
+    },
+    {
+      "id": "battle_s3_10707_1",
+      "desc": "",
+      "dlg": "Heart, Stopped."
+    },
+    {
+      "id": "battle_s3_11008_1-02",
+      "desc": "",
+      "dlg": "Already, reached."
+    },
+    {
+      "id": "battle_s2_11107_1_1-01",
+      "desc": "",
+      "dlg": "One bullet chambered."
+    },
+    {
+      "id": "battle_s3_11107_1_2",
+      "desc": "",
+      "dlg": "Fire."
+    },
+    {
+      "id": "battle_s3_11107_1_2-01",
+      "desc": "",
+      "dlg": "Fire!"
+    },
+    {
+      "id": "battle_s3_10608_1_1-01",
+      "desc": "",
+      "dlg": "Directly!"
+    },
+    {
+      "id": "battle_s3_10608_1_1-02",
+      "desc": "",
+      "dlg": "I...!"
+    },
+    {
+      "id": "battle_s3_10608_1_1-03",
+      "desc": "",
+      "dlg": "I...!"
+    },
+    {
+      "id": "battle_s3_10608_1_1",
+      "desc": "",
+      "dlg": "I...!"
+    },
+    {
+      "id": "battle_s3_10608_1_3",
+      "desc": "",
+      "dlg": "I'll unlock it for you~"
+    },
+    {
+      "id": "battle_s3_10608_1_3-01",
+      "desc": "",
+      "dlg": "I will unlock you myself!"
+    },
+    {
+      "id": "battle_s3_10608_1_3-02",
+      "desc": "",
+      "dlg": "I will unlock you myself!"
+    },
+    {
+      "id": "battle_s3_10608_1_3-03",
+      "desc": "",
+      "dlg": "I will unlock you myself!"
+    },
+    {
+      "id": "battle_special_10808_2",
+      "desc": "",
+      "dlg": "Sailors! Protect me."
+    },
+    {
+      "id": "battle_special_10808_1-03",
+      "desc": "",
+      "dlg": "Track them down!"
+    },
+    {
+      "id": "battle_s3_10808_1_1-01",
+      "desc": "",
+      "dlg": "This harpoon...!"
+    },
+    {
+      "id": "battle_s3_10808_1_2",
+      "desc": "",
+      "dlg": "Contains deadly obssession!"
+    },
+    {
+      "id": "battle_s3_10808_1_3-01",
+      "desc": "",
+      "dlg": "Heh, Within it."
+    },
+    {
+      "id": "battle_s3_10808_1_2-01",
+      "desc": "",
+      "dlg": "The fatal determination!"
+    },
+    {
+      "id": "battle_s3_10808_1_3-01",
+      "desc": "",
+      "dlg": "Heh, Within it."
+    },
+    {
+      "id": "battle_s3_10808_1_3",
+      "desc": "",
+      "dlg": "Within it..."
+    },
+    {
+      "id": "battle_s3_10208_1_1",
+      "desc": "",
+      "dlg": "Some are beautiful..."
+    },
+    {
+      "id": "battle_s3_10208_1_3",
+      "desc": "",
+      "dlg": "... some are not."
+    },
+    {
+      "id": "battle_s3_10508_1_1-01",
+      "desc": "",
+      "dlg": "Yield my flesh!"
+    },
+    {
+      "id": "battle_s3_10508_1_1-02",
+      "desc": "",
+      "dlg": "Yield my flesh..."
+    },
+    {
+      "id": "battle_s3_10508_1_4",
+      "desc": "",
+      "dlg": "To claim their bones!"
+    },
+    {
+      "id": "battle_s3_10508_1_4-03",
+      "desc": "",
+      "dlg": "To claim their bones."
+    },
+    {
+      "id": "battle_s3_10908_1_2",
+      "desc": "",
+      "dlg": "You wont even realize you've been pierced, will you?"
+    },
+    {
+      "id": "battle_s3_10708_1_1",
+      "desc": "",
+      "dlg": "It is a legitimate pakai of force by the Öufi."
+    },
+    {
+      "id": "battle_s3_11108_1_2-1",
+      "desc": "",
+      "dlg": "I'll clean up..."
+    },
+    {
+      "id": "battle_s3_11108_1_2-01",
+      "desc": "",
+      "dlg": "... all the filth."
+    },
+    {
+      "id": "battle_s3_11209_1",
+      "desc": "",
+      "dlg": "This must be..."
+    },
+    {
+      "id": "battle_s3_10408_1_1_4",
+      "desc": "",
+      "dlg": "I'll guide you to an eternal sleep."
+    },
+    {
+      "id": "battle_special_10408_1",
+      "desc": "",
+      "dlg": "What the hell...\nYou little wild bastard...!"
+    },
+    {
+      "id": "battle_s3_11009_1_1",
+      "desc": "",
+      "dlg": "I'll carve this stigma..."
+    },
+    {
+      "id": "battle_s3_11009_1_2",
+      "desc": "",
+      "dlg": "… into you!"
+    },
+    {
+      "id": "battle_s3_11009_2_1",
+      "desc": "",
+      "dlg": "With this passion..."
+    },
+    {
+      "id": "battle_s3_11009_2_2",
+      "desc": "",
+      "dlg": "… Burn."
+    },
+    {
+      "id": "battle_special_11009_2",
+      "desc": "",
+      "dlg": "This time... I'll definitely put an end to this!"
+    },
+    {
+      "id": "battle_special_11009_1",
+      "desc": "",
+      "dlg": "Jika sorrow has become my indelible stigma, then...\nI choose to rise with it instead!"
+    },
+    {
+      "id": "battle_s3_10109_1_4-7",
+      "desc": "",
+      "dlg": "A passing grade."
+    },
+    {
+      "id": "battle_s3_11109_1_2-01",
+      "desc": "",
+      "dlg": "Not bad."
+    },
+    {
+      "id": "battle_s3_11109_1_2-02",
+      "desc": "",
+      "dlg": "Not bad."
+    },
+    {
+      "id": "battle_s3_10609_1_3_4",
+      "desc": "",
+      "dlg": "It can do this too..."
+    },
+    {
+      "id": "battle_s0_10309_1",
+      "desc": "",
+      "dlg": "Enforcing time collection."
+    },
+    {
+      "id": "battle_s3_10309_1_3-02",
+      "desc": "",
+      "dlg": "Accelerate!"
+    },
+    {
+      "id": "battle_s3_10510_1",
+      "desc": "",
+      "dlg": "Ketika facing knowledge..."
+    },
+    {
+      "id": "battle_s3_10510_1-01",
+      "desc": "",
+      "dlg": "Be humble!"
+    },
+    {
+      "id": "battle_s3_11110_1_4",
+      "desc": "",
+      "dlg": "Ripping dimension!"
+    },
+    {
+      "id": "battle_s3_10210_1_txt",
+      "desc": "",
+      "dlg": "Maximum output."
+    },
+    {
+      "id": "battle_s2_10710_1_1_txt-01",
+      "desc": "",
+      "dlg": "Akan kurobek tubuhmu."
+    },
+    {
+      "id": "battle_s2_10710_ride_1",
+      "desc": "",
+      "dlg": "Serang mereka semua!\nWahai Dullahan!"
+    },
+    {
+      "id": "battle_s3_10710_1_1_txt",
+      "desc": "",
+      "dlg": "Tetaplah terkubur dalam penyesalanmu!"
+    },
+    {
+      "id": "battle_s3_10710_1_1_txt-01",
+      "desc": "",
+      "dlg": "Tetaplah terkubur dalam penyesalanmu."
+    },
+    {
+      "id": "battle_s3_10710_ride_4",
+      "desc": "",
+      "dlg": "Lenyaplah bersama badai!"
+    },
+    {
+      "id": "battle_s3_10710_ride_1",
+      "desc": "",
+      "dlg": "Lenyaplah bersama badai."
+    },
+    {
+      "id": "battle_s3_10710_large_2",
+      "desc": "",
+      "dlg": "Bahkan jika aku tidak bisa mengurungmu..."
+    },
+    {
+      "id": "battle_s3_10710_large_3",
+      "desc": "",
+      "dlg": "Aku sendiri yang akan mengukir penyesalanmu!"
+    },
+    {
+      "id": "battle_s3_10710_down_1",
+      "desc": "",
+      "dlg": "Sendirian... Haruskah aku menanganinya sendiri?"
+    },
+    {
+      "id": "battle_s3_10110_1_txt",
+      "desc": "",
+      "dlg": "Selamat tinggal."
+    },
+    {
+      "id": "battle_s3_10410_1_txt",
+      "desc": "",
+      "dlg": "Eat it all up!"
+    },
+    {
+      "id": "battle_s3_10410_1_txt-01",
+      "desc": "",
+      "dlg": "It's time! Skull face, Spider head!"
+    },
+    {
+      "id": "battle_s3_10910_1_1-01",
+      "desc": "",
+      "dlg": "Polu! Back me up a bit!\n[Output increase request acknowledged.]"
+    },
+    {
+      "id": "battle_special_10910_1",
+      "desc": "",
+      "dlg": "Hah, for now, I'm falling back.\nIf I keep using the bag, I’ll end up dead."
+    },
+    {
+      "id": "battle_special_10910_3",
+      "desc": "",
+      "dlg": "Phew, at least I've got a chance."
+    },
+    {
+      "id": "battle_s3_10810_1_4-01",
+      "desc": "",
+      "dlg": "The best defense!"
+    },
+    {
+      "id": "battle_s3_10511_1_1",
+      "desc": "",
+      "dlg": "This is the decisive moment."
+    },
+    {
+      "id": "battle_s4_11010_3-02",
+      "desc": "",
+      "dlg": "Greatsword... Guard!"
+    },
+    {
+      "id": "battle_s3_11111_1_1-01",
+      "desc": "",
+      "dlg": "Look forward to it."
+    },
+    {
+      "id": "battle_s3_11111_1_1-03",
+      "desc": "",
+      "dlg": "Look forward to it."
+    },
+    {
+      "id": "battle_s3_11210_1",
+      "desc": "",
+      "dlg": "Urgh... Blood... Blood!"
+    },
+    {
+      "id": "battle_s3_11210_1-03",
+      "desc": "",
+      "dlg": "Hngh...? Blood...? Blood!!"
+    },
+    {
+      "id": "battle_s3_11210_1-02",
+      "desc": "",
+      "dlg": "Oh...! Blood!! Blood!!!"
+    },
+    {
+      "id": "battle_s3_10911_1_6",
+      "desc": "",
+      "dlg": "Mari mulai babak finalnya."
+    },
+    {
+      "id": "battle_s3_11011_1_4",
+      "desc": "",
+      "dlg": "Jika you dont move!"
+    },
+    {
+      "id": "battle_s3_11011_1_4-1",
+      "desc": "",
+      "dlg": "You'll get hurt."
+    },
+    {
+      "id": "battle_special_11011_1",
+      "desc": "",
+      "dlg": "W-wait a moment! Iet's rest for a bit."
+    },
+    {
+      "id": "battle_special_11011_2",
+      "desc": "",
+      "dlg": "This shouldn't be too late, right?"
+    },
+    {
+      "id": "battle_s2_10310_1_3",
+      "desc": "",
+      "dlg": "Tunduklah."
+    },
+    {
+      "id": "battle_s3_10310_1_3-01",
+      "desc": "",
+      "dlg": "Tertusuklah!"
+    },
+    {
+      "id": "battle_s3_10310_1_3",
+      "desc": "",
+      "dlg": "You shall be impaled!"
+    },
+    {
+      "id": "battle_s3_10611_1-01",
+      "desc": "",
+      "dlg": "A full-stop..."
+    },
+    {
+      "id": "battle_s3_10611_1-02-1",
+      "desc": "",
+      "dlg": "... to your life!"
+    },
+    {
+      "id": "battle_s3_10611_1-01-1",
+      "desc": "",
+      "dlg": "... to your life."
+    },
+    {
+      "id": "battle_special_10611_2_2",
+      "desc": "",
+      "dlg": "Terima care of them.\n<i>Okay, I see 'em</i> ///\n<i>Alright, Target confirmed.</i>"
+    },
+    {
+      "id": "battle_special_10611_2_1-01",
+      "desc": "",
+      "dlg": "Finish them off.\n<i>Okay, I see 'em.</i> ///\n<i>Move aside!</i>"
+    },
+    {
+      "id": "battle_special_10611_1_1",
+      "desc": "",
+      "dlg": "Heathcliff, now!"
+    },
+    {
+      "id": "battle_special_10611_1_2",
+      "desc": "",
+      "dlg": "Line of sight is clear."
+    },
+    {
+      "id": "battle_special_10611_1_3",
+      "desc": "",
+      "dlg": "This way, you can shoot, right?"
+    },
+    {
+      "id": "battle_special_10611_3",
+      "desc": "",
+      "dlg": "Okay, I've got this~"
+    },
+    {
+      "id": "battle_special_10611_3-01",
+      "desc": "",
+      "dlg": "Okay, I've got this."
+    },
+    {
+      "id": "battle_s3_10711_1_1",
+      "desc": "",
+      "dlg": "Goin' for the bullseye."
+    },
+    {
+      "id": "battle_special_10711_1_1",
+      "desc": "",
+      "dlg": "Line of sight secured... Shooting."
+    },
+    {
+      "id": "battle_special_10711_1_2",
+      "desc": "",
+      "dlg": "Hong Lu, providing support."
+    },
+    {
+      "id": "battle_special_10711_3_1-01",
+      "desc": "",
+      "dlg": "Lindungi aku!"
+    },
+    {
+      "id": "battle_special_10711_3_2",
+      "desc": "",
+      "dlg": "I'll leave it to you, Hong Lu!"
+    },
+    {
+      "id": "battle_special_10711_4_1",
+      "desc": "",
+      "dlg": "Tsk. I'm leaving first..."
+    },
+    {
+      "id": "battle_special_10711_5_1",
+      "desc": "",
+      "dlg": "Alright... Mag' change complete."
+    },
+    {
+      "id": "battle_special_10711_5_2",
+      "desc": "",
+      "dlg": "Sniper repositioning complete."
+    },
+    {
+      "id": "battle_s3_10211_1_1",
+      "desc": "",
+      "dlg": "Uncontrollably..."
+    },
+    {
+      "id": "battle_s3_10211_0-1",
+      "desc": "",
+      "dlg": "Burn."
+    },
+    {
+      "id": "battle_s3_10211_0",
+      "desc": "",
+      "dlg": "Uncontrollably..."
+    },
+    {
+      "id": "battle_s3_10211_1_2-01",
+      "desc": "",
+      "dlg": "Burn."
+    },
+    {
+      "id": "battle_s3_10211_1_1-02",
+      "desc": "",
+      "dlg": "Uncontrollably..."
+    },
+    {
+      "id": "battle_s3_10211_1_2-02",
+      "desc": "",
+      "dlg": "Burn!"
+    },
+    {
+      "id": "battle_s3_10211_1_3-02",
+      "desc": "",
+      "dlg": "Into the..."
+    },
+    {
+      "id": "battle_s3_10211_1_4-02",
+      "desc": "",
+      "dlg": "... flickering flames!"
+    },
+    {
+      "id": "battle_s3_10712_1_4",
+      "desc": "",
+      "dlg": "Your neck's wide open!"
+    },
+    {
+      "id": "battle_special_10712_1",
+      "desc": "",
+      "dlg": "You messed with our family?!"
+    },
+    {
+      "id": "battle_special_10712_2",
+      "desc": "",
+      "dlg": "Hah... these bastards really want to die!"
+    },
+    {
+      "id": "battle_s3_10811_1_1-01",
+      "desc": "",
+      "dlg": "4th Form..."
+    },
+    {
+      "id": "battle_s3_10811_1_3-02",
+      "desc": "",
+      "dlg": "... Ink Over."
+    },
+    {
+      "id": "battle_special_10811_1",
+      "desc": "",
+      "dlg": "Go out dan fight. I'll take care of the back."
+    },
+    {
+      "id": "battle_s3_10112_1_1-03",
+      "desc": "",
+      "dlg": "In the end..."
+    },
+    {
+      "id": "battle_s3_10112_1_3-02",
+      "desc": "",
+      "dlg": "They shall burn completely...!"
+    },
+    {
+      "id": "battle_s3_11211_1_3-02",
+      "desc": "",
+      "dlg": "<i>HYAAAAAAAAAAAAAAAAAAH!!!</i>"
+    },
+    {
+      "id": "battle_s3_11211_1_3-05",
+      "desc": "",
+      "dlg": "Para bajingan ini!"
+    },
+    {
+      "id": "battle_s3_11211_1_3",
+      "desc": "",
+      "dlg": "<i>RAAAAAAAAAAAAGGGGHHHH!!!</i>"
+    },
+    {
+      "id": "battle_s3_11211_1_3-03",
+      "desc": "",
+      "dlg": "Para bajingan ini!"
+    },
+    {
+      "id": "battle_s3_11211_1_3-01",
+      "desc": "",
+      "dlg": "<i>YRRAAAAAAAAAAAAAAAGH!!!</i>"
+    },
+    {
+      "id": "battle_s3_11211_1_3-04",
+      "desc": "",
+      "dlg": "Para bajingan ini!"
+    },
+    {
+      "id": "battle_s3_10411_1_4-04",
+      "desc": "",
+      "dlg": "Potong nafas mereka."
+    },
+    {
+      "id": "battle_s3_11112_1_3-01",
+      "desc": "",
+      "dlg": "Lenyap dalam bayangan."
+    },
+    {
+      "id": "battle_s3_11012_1_3-02",
+      "desc": "",
+      "dlg": "Does that sting?"
+    },
+    {
+      "id": "battle_s3_10612_1",
+      "desc": "",
+      "dlg": "Urgh... Jika you don't want to get caught up in it, lalu move!"
+    },
+    {
+      "id": "battle_s3_10912_1_3",
+      "desc": "",
+      "dlg": "This distance is just enough for me…\nMight be a bit far for you, though!"
+    },
+    {
+      "id": "battle_s3_11212_1_3",
+      "desc": "",
+      "dlg": "I don’t think that’s the right direction."
+    },
+    {
+      "id": "battle_s3_10212_1_2",
+      "desc": "",
+      "dlg": "Potong melalui celah mereka…"
+    },
+    {
+      "id": "battle_s3_10212_1_2-01",
+      "desc": "",
+      "dlg": "Secara langsung."
+    },
+    {
+      "id": "battle_s3_10812_1_001",
+      "desc": "",
+      "dlg": "A fleeting life…"
+    },
+    {
+      "id": "battle_s3_10812_1_003",
+      "desc": "",
+      "dlg": "Simply snuffed out like a flame."
+    },
+    {
+      "id": "battle_s3_10812_1_001",
+      "desc": "",
+      "dlg": "A fleeting life…"
+    },
+    {
+      "id": "battle_s3_10812_1_003",
+      "desc": "",
+      "dlg": "Simply snuffed out like a flame."
+    },
+    {
+      "id": "battle_s3_10512_1_2-02",
+      "desc": "",
+      "dlg": "Kekuatan Penuh...!"
+    },
+    {
+      "id": "battle_s3_10512_1_2-03",
+      "desc": "",
+      "dlg": "Kekuatan Penuh..."
+    },
+    {
+      "id": "battle_s4_10512_1",
+      "desc": "",
+      "dlg": "Kamu sepadan dengan harga amunisiku."
+    },
+    {
+      "id": "battle_s4_10512_2",
+      "desc": "",
+      "dlg": "Akan kuhadapi kamu dengan semua yang kumiliki."
+    },
+    {
+      "id": "battle_s3_10512_1_2-01",
+      "desc": "",
+      "dlg": "Kekuatan Penuh!!"
+    },
+    {
+      "id": "battle_s3_11013_1_1",
+      "desc": "",
+      "dlg": "Firepower... propulsion!"
+    },
+    {
+      "id": "battle_s0_11013_1",
+      "desc": "",
+      "dlg": "Ammunition! I shall supply it for you."
+    },
+    {
+      "id": "battle_s3_10113_1_3",
+      "desc": "",
+      "dlg": "I shall fire dan pierce you as you are."
+    },
+    {
+      "id": "battle_s2_10312_1_2-02",
+      "desc": "",
+      "dlg": "Dengan Cinta!"
+    },
+    {
+      "id": "battle_s2_10312_1_3",
+      "desc": "",
+      "dlg": "Dengan Nama Keadilan!"
+    },
+    {
+      "id": "battle_s3_10312_1_4",
+      "desc": "",
+      "dlg": "Arcana Beats!"
+    },
+    {
+      "id": "battle_s3_10312_1_3",
+      "desc": "",
+      "dlg": "<i>ARCANA SLAVE!</i>"
+    },
+    {
+      "id": "battle_s2_hysteric_10312_1_2",
+      "desc": "",
+      "dlg": "Cinta dan Keadilan... Hah."
+    },
+    {
+      "id": "battle_s3_hysteric_10312_1_4",
+      "desc": "",
+      "dlg": "Haah... Arcana Beats."
+    },
+    {
+      "id": "battle_s3_hysteric_10312_1_3-02",
+      "desc": "",
+      "dlg": "Musnahlah...!"
+    },
+    {
+      "id": "battle_s2_10913_1_1",
+      "desc": "",
+      "dlg": "Agar aku bisa melindungi…"
+    },
+    {
+      "id": "battle_s2_10913_1_1-01",
+      "desc": "",
+      "dlg": "Agar aku bisa melindungi…!"
+    },
+    {
+      "id": "battle_s3_10913_1_1",
+      "desc": "",
+      "dlg": "Lalu..."
+    },
+    {
+      "id": "battle_s3_10913_1_3",
+      "desc": "",
+      "dlg": "Biarkan ketiadaan tersisa."
+    },
+    {
+      "id": "battle_s2_11113_1_2",
+      "desc": "",
+      "dlg": "Accelerate."
+    },
+    {
+      "id": "battle_s2_11113_1_2-01",
+      "desc": "",
+      "dlg": "Accelerate."
+    },
+    {
+      "id": "battle_s3_11113_1_1",
+      "desc": "",
+      "dlg": "With maximum activation..."
+    },
+    {
+      "id": "battle_s3_11113_1_2",
+      "desc": "",
+      "dlg": "Executing!"
+    },
+    {
+      "id": "battle_s3-1_10613_1_1",
+      "desc": "battle_s3-1_10613_1_1",
+      "dlg": "I'll personally sever your neck."
+    },
+    {
+      "id": "battle_s3-2_10613_1_6-01",
+      "desc": "battle_s3-2_10613_1_6-01",
+      "dlg": "Kirimkan para Kelinci."
+    },
+    {
+      "id": "battle_s3-2_10613_1_8-01",
+      "desc": "battle_s3-2_10613_1_8-01",
+      "dlg": "Gigitlah para Ular."
+    },
+    {
+      "id": "battle_s3-2_10613_1_9-01",
+      "desc": "battle_s3-2_10613_1_9-01",
+      "dlg": "Hentakanlah para Kuda."
+    },
+    {
+      "id": "battle_s3-2_10613_1_12-01",
+      "desc": "battle_s3-2_10613_1_12-01",
+      "dlg": "Cakarlah, Ayam Pejantan."
+    },
+    {
+      "id": "battle_s3-2_10613_1_10-01",
+      "desc": "battle_s3-2_10613_1_10-01",
+      "dlg": "Serbulah para Domba."
+    },
+    {
+      "id": "battle_s3-2_10613_1_6-02",
+      "desc": "battle_s3-2_10613_1_6-02",
+      "dlg": "Kelinci..."
+    },
+    {
+      "id": "battle_s3-2_10613_1_8-02",
+      "desc": "battle_s3-2_10613_1_8-02",
+      "dlg": "Ular..."
+    },
+    {
+      "id": "battle_s3-2_10613_1_9-02",
+      "desc": "battle_s3-2_10613_1_9-02",
+      "dlg": "Kuda..."
+    },
+    {
+      "id": "battle_s3-2_10613_1_12-02",
+      "desc": "battle_s3-2_10613_1_12-02",
+      "dlg": "Ayam Pejantan..."
+    },
+    {
+      "id": "battle_s3-2_10613_1_10-02",
+      "desc": "battle_s3-2_10613_1_10-02",
+      "dlg": "Domba..."
+    },
+    {
+      "id": "battle_s3-2_10613_1_6",
+      "desc": "battle_s3-2_10613_1_6",
+      "dlg": "Mao..."
+    },
+    {
+      "id": "battle_s3-2_10613_1_8",
+      "desc": "battle_s3-2_10613_1_8",
+      "dlg": "Si..."
+    },
+    {
+      "id": "battle_s3-2_10613_1_9",
+      "desc": "battle_s3-2_10613_1_9",
+      "dlg": "Wu..."
+    },
+    {
+      "id": "battle_s3-2_10613_1_12",
+      "desc": "battle_s3-2_10613_1_12",
+      "dlg": "You..."
+    },
+    {
+      "id": "battle_s3-2_10613_1_10",
+      "desc": "battle_s3-2_10613_1_10",
+      "dlg": "Wei..."
+    },
+    {
+      "id": "battle_s3-2_10613_1_2",
+      "desc": "battle_s3-2_10613_1_2",
+      "dlg": "Beast."
+    },
+    {
+      "id": "battle_s3-2_10613_1_1",
+      "desc": "battle_s3-2_10613_1_1",
+      "dlg": "Bersihkan jalannya."
+    },
+    {
+      "id": "battle_s3-2_10613_1_2-02",
+      "desc": "battle_s3-2_10613_1_2-02",
+      "dlg": "Bersihkan jalannya!"
+    },
+    {
+      "id": "battle_s2_10613_1_1",
+      "desc": "battle_s2_10613_1_1",
+      "dlg": "Akan kutunjukkan caranya..."
+    },
+    {
+      "id": "battle_s2_10613_1_5",
+      "desc": "battle_s2_10613_1_5",
+      "dlg": "Bagaimana Daguanyuan...\nsudah terhabisi."
+    },
+    {
+      "id": "battle_s3_10114_1_1",
+      "desc": "",
+      "dlg": "Overcome one..."
+    },
+    {
+      "id": "battle_s3_10114_1_2",
+      "desc": "",
+      "dlg": "Overcome two!"
+    },
+    {
+      "id": "battle_s3_10114_1_3",
+      "desc": "",
+      "dlg": "Break through dan\ncast them aside!"
+    },
+    {
+      "id": "battle_s3_10114_1_1-01",
+      "desc": "",
+      "dlg": "Overcome one..."
+    },
+    {
+      "id": "battle_s3_10114_1_2-01",
+      "desc": "",
+      "dlg": "Overcome three!"
+    },
+    {
+      "id": "battle_s3_10114_1_3-01",
+      "desc": "",
+      "dlg": "Overcome countless more!"
+    },
+    {
+      "id": "battle_s3_10114_1_4",
+      "desc": "",
+      "dlg": "Break through dan cast them aside without limit!"
+    },
+    {
+      "id": "battle_special_10114_1",
+      "desc": "",
+      "dlg": "Hah, it is Yi Sang.\nThough my appearance is odd, I am still as I should be. It is me.\nI am the guard who pursued the young Miss’s ideals alongside her, Yi Sang."
+    },
+    {
+      "id": "battle_special_10114_2",
+      "desc": "",
+      "dlg": "Run ahead of me. Jika it’s you, my lady,\nthen you are surely capable of doing so."
+    },
+    {
+      "id": "battle_special_10114_3",
+      "desc": "",
+      "dlg": "I've endured it all."
+    },
+    {
+      "id": "battle_special_10114_4",
+      "desc": "",
+      "dlg": "Layer upon layer of gates…\nI shall break through them!"
+    },
+    {
+      "id": "battle_s3_11014_1_6-02",
+      "desc": "",
+      "dlg": "Bloodflame Blade Ignite!"
+    },
+    {
+      "id": "battle_s3_11014_1_5",
+      "desc": "",
+      "dlg": "More!"
+    },
+    {
+      "id": "battle_s3_11014_1_7-01",
+      "desc": "",
+      "dlg": "More, more, more! Haha!"
+    },
+    {
+      "id": "battle_s3_11014_1_3",
+      "desc": "",
+      "dlg": "Strike relentlessly!"
+    },
+    {
+      "id": "battle_s3_11014_1_4-01",
+      "desc": "",
+      "dlg": "Bloodflame Blade Ignite."
+    },
+    {
+      "id": "battle_special_10412_4_A",
+      "desc": "",
+      "dlg": "Blood will splatter."
+    },
+    {
+      "id": "battle_s3_10412_1_1",
+      "desc": "",
+      "dlg": "Lurking within awe..."
+    },
+    {
+      "id": "battle_s3_10412_1_4",
+      "desc": "",
+      "dlg": "Crimson Red Contempt."
+    },
+    {
+      "id": "battle_s3_10412_1_4-01",
+      "desc": "",
+      "dlg": "... The crimson Contempt."
+    },
+    {
+      "id": "battle_special_10412_1",
+      "desc": "",
+      "dlg": "So it’s this one this time?\nHeh. I’ll cut in too."
+    },
+    {
+      "id": "battle_special_10412_2",
+      "desc": "",
+      "dlg": "It'd be quite the art to let your bullet strike me..."
+    },
+    {
+      "id": "battle_special_10412_2-01",
+      "desc": "",
+      "dlg": "But... this is hardly the right time for us to leave our final masterpiece."
+    },
+    {
+      "id": "battle_special_10412_3",
+      "desc": "",
+      "dlg": "Getting struck by your bullet like this... is quite an art."
+    },
+    {
+      "id": "battle_special_10412_4_B",
+      "desc": "",
+      "dlg": "Don't get blinded by this gaze."
+    },
+    {
+      "id": "battle_s3_10311_1_3-04",
+      "desc": "",
+      "dlg": "'Tis the finisher!"
+    },
+    {
+      "id": "battle_s3_10311_1_3",
+      "desc": "",
+      "dlg": "Finish!"
+    },
+    {
+      "id": "battle_s3_10311_1_3-03",
+      "desc": "",
+      "dlg": "'Tis the finisher!"
+    },
+    {
+      "id": "battle_s3_10311_1_3-02",
+      "desc": "",
+      "dlg": "'Tis the finisher!"
+    },
+    {
+      "id": "battle_s3_10311_1_3-01",
+      "desc": "",
+      "dlg": "'Tis the finisher!"
+    },
+    {
+      "id": "battle_s3_10213_1_4",
+      "desc": "",
+      "dlg": "This time, I'll cut you down."
+    },
+    {
+      "id": "battle_s3_10213_1_4-01",
+      "desc": "",
+      "dlg": "This time, they will be cloven."
+    },
+    {
+      "id": "battle_s3_10213_1_4-02",
+      "desc": "",
+      "dlg": "This time, they will be cloven."
+    },
+    {
+      "id": "battle_special_10213_1",
+      "desc": "",
+      "dlg": "It will hit the target without fail."
+    },
+    {
+      "id": "battle_special_10213_3",
+      "desc": "",
+      "dlg": "One shot, one kill."
+    },
+    {
+      "id": "battle_s3_10513_1_4",
+      "desc": "",
+      "dlg": "Ah...\nThe highlight of the Parade.\nThis is...  the Overture’s Finale."
+    },
+    {
+      "id": "battle_special_10513_1",
+      "desc": "",
+      "dlg": "I bestow upon you the King’s protection."
+    },
+    {
+      "id": "battle_special_10513_2",
+      "desc": "",
+      "dlg": "Ouvertüre...!"
+    },
+    {
+      "id": "battle_special_10513_3",
+      "desc": "",
+      "dlg": "I hear the sound of fireworks...\nHas the time come?"
+    },
+    {
+      "id": "battle_special_10513_4",
+      "desc": "",
+      "dlg": "Warm blood... seeping in."
+    },
+    {
+      "id": "battle_special_10513_5",
+      "desc": "",
+      "dlg": "Oh Mother! I've longed to march together like this again!"
+    },
+    {
+      "id": "battle_s3_10713_1_1",
+      "desc": "",
+      "dlg": "Fully charged!"
+    },
+    {
+      "id": "battle_s3_10713_1_5",
+      "desc": "",
+      "dlg": "I'll split you in two!"
+    },
+    {
+      "id": "battle_special_10713_1",
+      "desc": "",
+      "dlg": "Come at me! Jika you’re confident."
+    },
+    {
+      "id": "battle_s3_10813_1_1",
+      "desc": "",
+      "dlg": "Bunga..."
+    },
+    {
+      "id": "battle_s3_10813_1_4",
+      "desc": "",
+      "dlg": "Sakura!"
+    },
+    {
+      "id": "battle_special_10813_1",
+      "desc": "",
+      "dlg": "Hah... Ampas deh. Berikutnya."
+    },
+    {
+      "id": "battle_special_10813_2",
+      "desc": "",
+      "dlg": "Sankō!"
+    },
+    {
+      "id": "battle_special_10813_3",
+      "desc": "",
+      "dlg": "Tsk. Hujan."
+    },
+    {
+      "id": "battle_special_10813_3-01",
+      "desc": "",
+      "dlg": "Ameshikō!"
+    },
+    {
+      "id": "battle_special_10813_4",
+      "desc": "",
+      "dlg": "Bangau, Bunga."
+    },
+    {
+      "id": "battle_special_10813_5",
+      "desc": "",
+      "dlg": "Cherry Blossom."
+    },
+    {
+      "id": "battle_special_10813_6",
+      "desc": "",
+      "dlg": "Bulan dan Hujan..."
+    },
+    {
+      "id": "battle_special_10813_7",
+      "desc": "",
+      "dlg": "Gōkō!"
+    },
+    {
+      "id": "battle_s3_11213_1_4",
+      "desc": "",
+      "dlg": "You're full of openings...!"
+    },
+    {
+      "id": "battle_s3_11213_1_4-01",
+      "desc": "",
+      "dlg": "You were full of openings."
+    },
+    {
+      "id": "battle_s3_11213_1_5",
+      "desc": "",
+      "dlg": "Stiletto!"
+    },
+    {
+      "id": "battle_s3_11213_1_5-01",
+      "desc": "",
+      "dlg": "Stiletto!"
+    },
+    {
+      "id": "battle_special_11213_1",
+      "desc": "",
+      "dlg": "Is your stance broken?"
+    },
+    {
+      "id": "battle_special_11213_1-01",
+      "desc": "",
+      "dlg": "You're open."
+    },
+    {
+      "id": "battle_special_11213_2",
+      "desc": "",
+      "dlg": "Be thankful for mercy."
+    },
+    {
+      "id": "battle_special_11213_3",
+      "desc": "",
+      "dlg": "Eye!"
+    },
+    {
+      "id": "battle_special_11213_4",
+      "desc": "",
+      "dlg": "Throat!"
+    },
+    {
+      "id": "battle_special_11213_5",
+      "desc": "",
+      "dlg": "Heart!"
+    },
+    {
+      "id": "battle_special_11213_7",
+      "desc": "",
+      "dlg": "That gap of yours..."
+    },
+    {
+      "id": "battle_special_11213_8",
+      "desc": "",
+      "dlg": "... I’ll pierce through it."
+    },
+    {
+      "id": "battle_s3_10313_1_4",
+      "desc": "",
+      "dlg": "Aaaagh...! Shatter!!"
+    },
+    {
+      "id": "battle_s3_10714_1_1",
+      "desc": "",
+      "dlg": "Bloodtalons...! Conflagrate!"
+    },
+    {
+      "id": "battle_special_10714_1",
+      "desc": "1UnknownVL-Stilllooking",
+      "dlg": "Thought my damn neck was gonna snap from holding back...\nHeh. Kill ’em all!!"
+    },
+    {
+      "id": "battle_special_10714_2",
+      "desc": "",
+      "dlg": "Bloodtalons, conflagrate (血爪炎化)!"
+    },
+    {
+      "id": "battle_special_10714_2-01",
+      "desc": "",
+      "dlg": "<i>Hahahahahahaha!!</i>"
+    },
+    {
+      "id": "battle_special_10714_2-02",
+      "desc": "",
+      "dlg": "<i>Rooster’s Rampaging Blades Under the Ensanguined Heaven(血天下雞舞亂刀])!!</i>"
+    },
+    {
+      "id": "battle_special_10714_3",
+      "desc": "",
+      "dlg": "Flame Rooster's Death Defiance\n(炎鳥不死戦)... Heh!\nYou really thought I was gonna kick it...\nHuh?!"
+    },
+    {
+      "id": "battle_s3_10413_1_3",
+      "desc": "",
+      "dlg": "Tread the Air, Brandish the Spear (踏空槍揮)."
+    },
+    {
+      "id": "battle_s3_10413_1_3-01",
+      "desc": "",
+      "dlg": "Tread the Air, Brandish the Spear (踏空槍揮)."
+    },
+    {
+      "id": "battle_s3_10413_1_3-02",
+      "desc": "",
+      "dlg": "Shadow of the Sky-Stepping Spear(踏空槍零)."
+    },
+    {
+      "id": "battle_s3_10413_1_3-03",
+      "desc": "",
+      "dlg": "Tread the Air, Brandish the Spear (踏空槍揮)."
+    },
+    {
+      "id": "battle_special_10413_1",
+      "desc": "",
+      "dlg": "Get behind me."
+    },
+    {
+      "id": "battle_special_10413_1-01",
+      "desc": "",
+      "dlg": "Get behind me."
+    },
+    {
+      "id": "battle_special_10413_1-02",
+      "desc": "",
+      "dlg": "Whirlwind(廻風)!"
+    },
+    {
+      "id": "battle_special_10413_1-03",
+      "desc": "",
+      "dlg": "Whirlwind (回風)!"
+    },
+    {
+      "id": "battle_special_10413_2",
+      "desc": "",
+      "dlg": "The Lord of Hongyuan?\nHeh, is that so?\nIf that’s the case… lalu this time…\nFor sure..."
+    },
+    {
+      "id": "battle_special_10413_3",
+      "desc": "",
+      "dlg": "I won't let you die."
+    },
+    {
+      "id": "battle_s3_10914_1_4",
+      "desc": "",
+      "dlg": "Ahaha… aren’t the fireworks pretty?"
+    },
+    {
+      "id": "battle_s3_11114_1_1-01-1",
+      "desc": "",
+      "dlg": "Tembak!"
+    },
+    {
+      "id": "battle_s3_11114_1_4",
+      "desc": "",
+      "dlg": "Barring entry. Fire!"
+    },
+    {
+      "id": "battle_s3_11114_1_4-01",
+      "desc": "3스",
+      "dlg": "Hentikan langkah mereka..."
+    },
+    {
+      "id": "battle_s3_11114_1_4-02",
+      "desc": "",
+      "dlg": "Barring entry. Fire!"
+    },
+    {
+      "id": "battle_s3_11114_1_4-03",
+      "desc": "",
+      "dlg": "Barring entry. Fire!"
+    },
+    {
+      "id": "battle_special_11114_1",
+      "desc": "",
+      "dlg": "Bala bantuan di sini!"
+    },
+    {
+      "id": "battle_special_11114_2",
+      "desc": "",
+      "dlg": "Visi taktis dipasang! Melalui Mata Udjat…"
+    },
+    {
+      "id": "battle_special_11114_3",
+      "desc": "",
+      "dlg": "Dikalahkan dengan sukses."
+    },
+    {
+      "id": "battle_special_11114_4",
+      "desc": "",
+      "dlg": "Reloading."
+    },
+    {
+      "id": "battle_s3_10214_1_4",
+      "desc": "",
+      "dlg": "Terpenuhi."
+    },
+    {
+      "id": "battle_s3_10214_1_4-01",
+      "desc": "",
+      "dlg": "Terpenuhi."
+    },
+    {
+      "id": "battle_s3_10214_1_4-02",
+      "desc": "",
+      "dlg": "Terpenuhi."
+    },
+    {
+      "id": "battle_s3_10214_1_4-03",
+      "desc": "",
+      "dlg": "Terpenuhi."
+    },
+    {
+      "id": "battle_s3_10214_1_4-04",
+      "desc": "",
+      "dlg": "Terpenuhi."
+    },
+    {
+      "id": "battle_special_10214_1",
+      "desc": "",
+      "dlg": "Aku bertindak sesuai perintah Prescript."
+    },
+    {
+      "id": "battle_special_10214_2",
+      "desc": "",
+      "dlg": "Bahkan tanpa melihatnya langsung… Saya masih dapat merasakannya."
+    },
+    {
+      "id": "battle_special_10214_3",
+      "desc": "",
+      "dlg": "Entah saya mati atau hidup, inilah Keyakinan dari Prescript. Aku tidak takut akan itu."
+    },
+    {
+      "id": "battle_special_10214_4",
+      "desc": "",
+      "dlg": "Sesuai perintah Prescript."
+    },
+    {
+      "id": "battle_special_10214_5",
+      "desc": "",
+      "dlg": "Inilah Keyakinan dari Prescript… Saya tidak akan menahan keraguan."
+    },
+    {
+      "id": "battle_s3_10314_1_4",
+      "desc": "",
+      "dlg": "<i><color=#50acff>*bip*</color></i> Kamu bukan orang baik."
+    },
+    {
+      "id": "battle_special_10314_1",
+      "desc": "",
+      "dlg": "Prescript tahu yang harus dilakukan."
+    },
+    {
+      "id": "battle_special_10314_2",
+      "desc": "",
+      "dlg": "Preordained!"
+    },
+    {
+      "id": "battle_special_10314_2-01",
+      "desc": "",
+      "dlg": "Absolut."
+    },
+    {
+      "id": "battle_special_10314_3",
+      "desc": "",
+      "dlg": "Memilih. Membuka. Lampaui."
+    },
+    {
+      "id": "battle_special_10314_4",
+      "desc": "",
+      "dlg": "Lupakan masa depan seperti kamu akan melupakan masa lalu."
+    },
+    {
+      "id": "battle_special_10314_5",
+      "desc": "",
+      "dlg": "Keyakinan itu… akan terbuka!"
+    },
+    {
+      "id": "battle_special_10314_6",
+      "desc": "",
+      "dlg": "Eksekusi komplit."
+    },
+    {
+      "id": "battle_special_10314_7",
+      "desc": "",
+      "dlg": "Kematian yang diharapkan."
+    },
+    {
+      "id": "battle_s3_10814_1_1",
+      "desc": "",
+      "dlg": "Ini tempat yang bagus buat ulti, kan?"
+    },
+    {
+      "id": "battle_s3_10814_1_1-01",
+      "desc": "",
+      "dlg": "Ult time, right?"
+    },
+    {
+      "id": "battle_s3_10814_1_2",
+      "desc": "",
+      "dlg": "Terima skill ultimateku! Hantaman Violet~ Penghancur!!!"
+    },
+    {
+      "id": "battle_s3_10814_1_3",
+      "desc": "",
+      "dlg": "Agh! Kayaknya bukan... Penghancur... dahlah!"
+    },
+    {
+      "id": "battle_special_10814_1",
+      "desc": "",
+      "dlg": "Dari tatapanmu... Aku tahu kok kalau mama itu keren..."
+    },
+    {
+      "id": "battle_special_10814_2",
+      "desc": "",
+      "dlg": "Tidak sebagus punya mama sih... tapi aku masih bisa nebas dan membakar bersamaan, tau?"
+    },
+    {
+      "id": "battle_special_10814_3",
+      "desc": "",
+      "dlg": "Batas amarah… maksimum."
+    },
+    {
+      "id": "battle_special_10814_4",
+      "desc": "",
+      "dlg": "Oh? Hari ini tinggal di House of Spider? Jadi... kamu pernah lihat 'The Cloudburst Blade' yang pernah kukasih tahu itu? Eh, t-tunggu! jangan kabur!"
+    },
+    {
+      "id": "battle_special_10814_5",
+      "desc": "",
+      "dlg": "Tau deh, mama yang terbaik~!"
+    },
+    {
+      "id": "battle_s2_10814_1_1-02",
+      "desc": "",
+      "dlg": "Satu."
+    },
+    {
+      "id": "battle_s2_10814_1_1-03",
+      "desc": "",
+      "dlg": "One!"
+    },
+    {
+      "id": "battle_s2_10814_1_1-04",
+      "desc": "",
+      "dlg": "One!"
+    },
+    {
+      "id": "battle_s2_10814_1_1-05",
+      "desc": "",
+      "dlg": "One!"
+    },
+    {
+      "id": "battle_s2_10814_1_1-06",
+      "desc": "",
+      "dlg": "One!"
+    },
+    {
+      "id": "battle_s2_10814_1_1-07",
+      "desc": "",
+      "dlg": "One!"
+    },
+    {
+      "id": "battle_s2_10814_1_2-02",
+      "desc": "",
+      "dlg": "Dua."
+    },
+    {
+      "id": "battle_s2_10814_1_2-03",
+      "desc": "",
+      "dlg": "Two!"
+    },
+    {
+      "id": "battle_s2_10814_1_2-04",
+      "desc": "",
+      "dlg": "Two!"
+    },
+    {
+      "id": "battle_s2_10814_1_2-05",
+      "desc": "",
+      "dlg": "Two!"
+    },
+    {
+      "id": "battle_s2_10814_1_2-06",
+      "desc": "",
+      "dlg": "Two!"
+    },
+    {
+      "id": "battle_s2_10814_1_2-07",
+      "desc": "",
+      "dlg": "Two!"
+    },
+    {
+      "id": "battle_s2_10814_1_3",
+      "desc": "",
+      "dlg": "Tiga!"
+    },
+    {
+      "id": "battle_s2_10814_1_3-01",
+      "desc": "",
+      "dlg": "Three!"
+    },
+    {
+      "id": "battle_s2_10814_1_3-02",
+      "desc": "",
+      "dlg": "Three!"
+    },
+    {
+      "id": "battle_s2_10814_1_3-03",
+      "desc": "",
+      "dlg": "Three!"
+    },
+    {
+      "id": "battle_s3_11214_1_5",
+      "desc": "",
+      "dlg": "Mari terangi jalan di depan, sehingga aku dapat melihat nyawa yang harus kuselamatkan."
+    },
+    {
+      "id": "battle_s3_11214_1_6",
+      "desc": "",
+      "dlg": "Aku melihatnya dengan jelas… siapa yang harus kuselamatkan!"
+    },
+    {
+      "id": "battle_special_11214_1",
+      "desc": "",
+      "dlg": "Datang kemari… Akan kujaga dirimu tetap aman."
+    },
+    {
+      "id": "battle_s2_11015_1_4",
+      "desc": "",
+      "dlg": "Jalan pedang, diamankan."
+    },
+    {
+      "id": "battle_s2_11015_1_4-01",
+      "desc": "",
+      "dlg": "Jalan pedang, diamankan."
+    },
+    {
+      "id": "battle_s2_11015_1_4-02",
+      "desc": "",
+      "dlg": "Jalan pedang, diamankan."
+    },
+    {
+      "id": "battle_s2_11015_1_6",
+      "desc": "",
+      "dlg": "Twinslash(二連)."
+    },
+    {
+      "id": "battle_s2_11015_1_6-01",
+      "desc": "",
+      "dlg": "Twinslash(二連)."
+    },
+    {
+      "id": "battle_s2_11015_1_6-02",
+      "desc": "",
+      "dlg": "Twinslash(二連)."
+    },
+    {
+      "id": "battle_s2_11015_1_7",
+      "desc": "",
+      "dlg": "Tripleslash(三連), Eksekusi."
+    },
+    {
+      "id": "battle_s2_11015_1_7-01",
+      "desc": "",
+      "dlg": "Tripleslash(三連), Eksekusi."
+    },
+    {
+      "id": "battle_s2_11015_1_7-02",
+      "desc": "",
+      "dlg": "Tripleslash(三連), Eksekusi."
+    },
+    {
+      "id": "battle_s3_11015_1_5",
+      "desc": "",
+      "dlg": "Diamkan semua suara dan nafas…"
+    },
+    {
+      "id": "battle_s3_11015_1_6",
+      "desc": "",
+      "dlg": "Memotong menembus celah kelemahan dalam sekejap…"
+    },
+    {
+      "id": "battle_s3_11015_1_7",
+      "desc": "",
+      "dlg": "Lihatlah, bilah pemotong dan penghancur, dalam sekejap."
+    },
+    {
+      "id": "battle_s3_11015_1_8",
+      "desc": "",
+      "dlg": "Akhirnya, tibalah bulan purnama."
+    },
+    {
+      "id": "battle_s3_10115_1_6",
+      "desc": "",
+      "dlg": "<i><color=#50acff>*bip*</color></i> Hah... ombaknya mulai berdatangan."
+    },
+    {
+      "id": "battle_special_10115_1",
+      "desc": "",
+      "dlg": "Satu."
+    },
+    {
+      "id": "battle_special_10115_2",
+      "desc": "",
+      "dlg": "Dua."
+    },
+    {
+      "id": "battle_special_10115_3",
+      "desc": "",
+      "dlg": "Tiga."
+    },
+    {
+      "id": "battle_special_10115_4",
+      "desc": "",
+      "dlg": "Empat."
+    },
+    {
+      "id": "battle_special_10115_5",
+      "desc": "",
+      "dlg": "Lima."
+    },
+    {
+      "id": "battle_special_10115_6",
+      "desc": "",
+      "dlg": "Enam."
+    },
+    {
+      "id": "battle_special_10115_7",
+      "desc": "",
+      "dlg": "Tujuh. Tersisa dua."
+    },
+    {
+      "id": "battle_special_10115_8",
+      "desc": "",
+      "dlg": "Delapan. Satu lagi."
+    },
+    {
+      "id": "battle_special_10115_9",
+      "desc": "",
+      "dlg": "Sembilan. Tereksekusi."
+    },
+    {
+      "id": "battle_special_10115_10",
+      "desc": "",
+      "dlg": "Mengarungi sungai mimpi, menemukan diri di antah berantah. (無我夢中)"
+    },
+    {
+      "id": "battle_special_10115_11",
+      "desc": "",
+      "dlg": "Seperti api Naraka Avīci dan Raurava. (阿鼻叫喚)"
+    },
+    {
+      "id": "battle_special_10115_12",
+      "desc": "",
+      "dlg": "Terputus dan tercabik hingga mereka tak dapat melawan balik. (支離滅裂)"
+    },
+    {
+      "id": "battle_special_10115_13",
+      "desc": "",
+      "dlg": "Jangan bersedih di momen akhirmu. Karena kamu telah di pilih."
+    },
+    {
+      "id": "battle_special_10115_14-1",
+      "desc": "",
+      "dlg": "Haha… Kuharap putri kesayanganku, juga, akan mengingat luka ini."
+    },
+    {
+      "id": "battle_special_10115_14-2",
+      "desc": "",
+      "dlg": "Haha… Akankah putri kesayanganku mengingat luka ini…"
+    },
+    {
+      "id": "battle_special_10115_15-1",
+      "desc": "",
+      "dlg": "Akan ku replika hati penuh amarah."
+    },
+    {
+      "id": "battle_special_10115_15-2",
+      "desc": "",
+      "dlg": "Replikasi selesai."
+    },
+    {
+      "id": "battle_special_10115_16-1",
+      "desc": "",
+      "dlg": "<i><color=#50acff>*bip*</color></i> Keyakinan dari Hermes."
+    },
+    {
+      "id": "battle_special_10115_16-2",
+      "desc": "",
+      "dlg": "Penuh amarah, melalui semuanya."
+    },
+    {
+      "id": "battle_special_10115_17",
+      "desc": "",
+      "dlg": "Ah… Don Quixote. Benar, jika anda melakukan sebaik mungkin… Saya akan memujimu."
+    },
+    {
+      "id": "battle_s3_10514_1_1",
+      "desc": "",
+      "dlg": "Kilau Debu, Tes lapangan sukses."
+    },
+    {
+      "id": "battle_special_10514_1",
+      "desc": "",
+      "dlg": "Reload."
+    },
+    {
+      "id": "battle_special_10514_2",
+      "desc": "",
+      "dlg": "... Ammo habis."
+    },
+    {
+      "id": "battle_special_10514_3",
+      "desc": "",
+      "dlg": "... Objektifnya untuk menjaga koloni."
+    },
+    {
+      "id": "battle_special_10514_4",
+      "desc": "",
+      "dlg": "Tembakan ganda."
+    },
+    {
+      "id": "battle_special_10514_5",
+      "desc": "",
+      "dlg": "Akurasi tidak diperlukan."
+    },
+    {
+      "id": "battle_special_10514_6-1",
+      "desc": "",
+      "dlg": "Target dikonfirmasi."
+    },
+    {
+      "id": "battle_special_10514_6-2",
+      "desc": "",
+      "dlg": "Peluru jarum."
+    },
+    {
+      "id": "battle_special_10514_6-3",
+      "desc": "",
+      "dlg": "Tembakan sarang."
+    },
+    {
+      "id": "battle_special_10514_6-4",
+      "desc": "",
+      "dlg": "Peluru sebar, Tes lapangan sukses."
+    },
+    {
+      "id": "battle_special_10514_6-5",
+      "desc": "",
+      "dlg": "Peluru bakar, Tes lapangan sukses."
+    },
+    {
+      "id": "battle_special_10514_7",
+      "desc": "",
+      "dlg": "Hm, sisa peluru dipulihkan."
+    },
+    {
+      "id": "battle_s3_10414_1_2",
+      "desc": "",
+      "dlg": "Kembalilah ke tempat asalmu lahir."
+    },
+    {
+      "id": "battle_special_10414_1-1",
+      "desc": "",
+      "dlg": "Tembakan beruntun!"
+    },
+    {
+      "id": "battle_special_10414_1-1-01",
+      "desc": "",
+      "dlg": "Tembakan beruntun."
+    },
+    {
+      "id": "battle_special_10414_1-2",
+      "desc": "",
+      "dlg": "Berondongan!"
+    },
+    {
+      "id": "battle_special_10414_1-2-01",
+      "desc": "",
+      "dlg": "Berondongan."
+    },
+    {
+      "id": "battle_special_10414_1-3",
+      "desc": "",
+      "dlg": "Kau lengah."
+    },
+    {
+      "id": "battle_special_10414_1-4",
+      "desc": "",
+      "dlg": "Dor. Dor."
+    },
+    {
+      "id": "battle_special_10414_2",
+      "desc": "",
+      "dlg": "Segala yang muncul pasti akan berakhir (是生滅法). Semakin lama bertahan, semakin tidak berharganya."
+    },
+    {
+      "id": "battle_special_10414_3",
+      "desc": "",
+      "dlg": "*bersiul* Waktunya menembak."
+    },
+    {
+      "id": "battle_special_10414_4",
+      "desc": "",
+      "dlg": "Kembalilah ke kuburan... bersama segala keinginan hidup itu."
+    },
+    {
+      "id": "battle_s3_11215_1_3",
+      "desc": "",
+      "dlg": "Standard-duty battery, temporary discharge!"
+    },
+    {
+      "id": "battle_special_11215_1",
+      "desc": "",
+      "dlg": "Changing output mode!"
+    },
+    {
+      "id": "battle_special_11215_1-01",
+      "desc": "",
+      "dlg": "Whew… it’s been nicely fried."
+    },
+    {
+      "id": "battle_special_11215_2",
+      "desc": "",
+      "dlg": "I'll provide you support."
+    },
+    {
+      "id": "battle_special_11215_3",
+      "desc": "",
+      "dlg": "Transfer sequence activated."
+    },
+    {
+      "id": "battle_special_11215_4",
+      "desc": "",
+      "dlg": "Self-charge, activate."
+    },
+    {
+      "id": "battle_s3_400025_1",
+      "desc": "",
+      "dlg": "Iss ideal..."
+    },
+    {
+      "id": "battle_s3_400026_1",
+      "desc": "",
+      "dlg": "Ah, I muss impwove my balance."
+    },
+    {
+      "id": "battle_s3_400027_1",
+      "desc": "",
+      "dlg": "<i>Hyaaaaaaah!!</i>"
+    },
+    {
+      "id": "battle_s3_400028_1",
+      "desc": "",
+      "dlg": "N. S.\n<size=50%>(Neck. Snapped.)</size>"
+    },
+    {
+      "id": "battle_s3_400029_1",
+      "desc": "",
+      "dlg": "Mizan—plas."
+    },
+    {
+      "id": "battle_s3_400030_1",
+      "desc": "",
+      "dlg": "Not weally my taste~"
+    },
+    {
+      "id": "battle_s3_400031_1",
+      "desc": "",
+      "dlg": "Dye!!"
+    },
+    {
+      "id": "battle_s3_400032_1",
+      "desc": "",
+      "dlg": "Gimme da ingwedients!"
+    },
+    {
+      "id": "battle_s3_400033_1",
+      "desc": "",
+      "dlg": "Uugh... da lower limb is yucky!"
+    },
+    {
+      "id": "battle_s3_400034_1",
+      "desc": "",
+      "dlg": "C’mewe!"
+    },
+    {
+      "id": "battle_s3_400035_1",
+      "desc": "",
+      "dlg": "Pwease look at me…\nExecutive Teach!"
+    },
+    {
+      "id": "battle_s3_400036_1",
+      "desc": "",
+      "dlg": "It's not... buggy!"
+    },
+    {
+      "id": "battle_s2_10215_1_1",
+      "desc": "",
+      "dlg": "Saya akan mengambil bahan ini."
+    },
+    {
+      "id": "battle_s3_10215_1_1",
+      "desc": "",
+      "dlg": "Tulang saya sebagai bingkai, daging saya sebagai isian—seni eksterior."
+    },
+    {
+      "id": "battle_special_10215_1",
+      "desc": "",
+      "dlg": "Saya rasa saya harus menunjukkan kepada anda seni eksterior."
+    },
+    {
+      "id": "battle_special_10215_2",
+      "desc": "",
+      "dlg": "Saya tidak menyukai tindakan vandalisme."
+    },
+    {
+      "id": "battle_special_10215_3",
+      "desc": "",
+      "dlg": "Anda selalu berhasil membangkitkan inspirasi Saya."
+    },
+    {
+      "id": "battle_s3_10614_1_2",
+      "desc": "",
+      "dlg": "Apakah anda mendengarnya? Harmoni merdu dari sepasang humerus dan 24 tulang rusuk...! Melodi Tibia!"
+    },
+    {
+      "id": "battle_special_10614_1",
+      "desc": "",
+      "dlg": "Saya tidak bisa membiarkan penonton menyaksikan pemandangan yang menyedihkan seperti ini."
+    },
+    {
+      "id": "battle_special_10614_1-01",
+      "desc": "",
+      "dlg": "Saya tidak bisa membiarkan penonton menyaksikan pemandangan yang menyedihkan seperti ini."
+    },
+    {
+      "id": "battle_special_10614_2",
+      "desc": "",
+      "dlg": "Vandalisme dilarang!"
+    },
+    {
+      "id": "battle_special_10614_3",
+      "desc": "",
+      "dlg": "Faust. Waktunya untuk memamerkan seni Korporisme."
+    },
+    {
+      "id": "battle_special_10614_4",
+      "desc": "",
+      "dlg": "Galeri sudah ditutup, pemirsa..."
+    },
+    {
+      "id": "battle_special_10614_4-01",
+      "desc": "",
+      "dlg": "Galeri sudah ditutup, pemirsa..."
+    },
+    {
+      "id": "battle_special_10614_4-1",
+      "desc": "",
+      "dlg": "Semuanya. Selamat tinggal!"
+    },
+    {
+      "id": "battle_special_10614_4-01-1",
+      "desc": "",
+      "dlg": "Semuanya. Selamat tinggal!"
+    },
+    {
+      "id": "battle_special_10614_4-02",
+      "desc": "",
+      "dlg": "Galeri sudah ditutup, pemirsa..."
+    },
+    {
+      "id": "battle_special_10614_4-02-1",
+      "desc": "",
+      "dlg": "Semuanya! Selamat tinggal."
+    },
+    {
+      "id": "battle_special_10614_4-03",
+      "desc": "",
+      "dlg": "Galeri sudah ditutup, pemirsa..."
+    },
+    {
+      "id": "battle_special_10614_4-03-1",
+      "desc": "",
+      "dlg": "Semuanya! Selamat tinggal."
+    },
+    {
+      "id": "battle_special_10614_5",
+      "desc": "",
+      "dlg": "Sayang sekali. Saya berharap luka yang tertinggal padanya akan menyublimasikannya menjadi maha karya..."
+    },
+    {
+      "id": "battle_special_10614_6",
+      "desc": "",
+      "dlg": "Ah...! Seni yang luar biasa...!"
+    },
+    {
+      "id": "battle_special_10614_7",
+      "desc": "",
+      "dlg": "Dari sana... Tolong perhatikan...!"
+    },
+    {
+      "id": "battle_s3_10515_1_2",
+      "desc": "",
+      "dlg": "Jauh lebih dalam ke arah yang lebih buas..."
+    },
+    {
+      "id": "battle_special_10515_1",
+      "desc": "",
+      "dlg": "... dengan sentuhan akhir dari sebuah intensitas."
+    },
+    {
+      "id": "battle_special_10515_3",
+      "desc": "",
+      "dlg": "Hmm. Bekas luka berbentuk cakar...\nItu cocok untukmu."
+    },
+    {
+      "id": "battle_special_10515_4",
+      "desc": "",
+      "dlg": "Terima kasih atas inspirasinya."
+    },
+    {
+      "id": "battle_s3_10915_1_1",
+      "desc": "",
+      "dlg": "Seni yang kurang matang..."
+    },
+    {
+      "id": "battle_s3_10915_1_5",
+      "desc": "",
+      "dlg": "... hanya bisa dikerjakan ulang dengan cara menggigitnya!"
+    },
+    {
+      "id": "battle_special_10915_1_1",
+      "desc": "",
+      "dlg": "Saraf. Penyelarasan!"
+    },
+    {
+      "id": "battle_special_10915_1_2",
+      "desc": "",
+      "dlg": "<i>Ahahahahahaha!</i>"
+    },
+    {
+      "id": "battle_special_10915_1_3",
+      "desc": "",
+      "dlg": "Dengan ganas!"
+    },
+    {
+      "id": "battle_special_10915_2_1",
+      "desc": "",
+      "dlg": "Bolehkah aku melihatnya sedikit?"
+    },
+    {
+      "id": "battle_special_10915_2_2",
+      "desc": "",
+      "dlg": "Intensitasnya agak mengecewakan...?"
+    },
+    {
+      "id": "battle_special_10915_2_3",
+      "desc": "",
+      "dlg": "Boleh juga, menurutku..."
+    },
+    {
+      "id": "battle_special_10915_3",
+      "desc": "",
+      "dlg": "Hasil sulaman berhargaku...\nAkan kutunjukkan padamu secara spesial!"
+    },
+    {
+      "id": "battle_special_10915_4",
+      "desc": "",
+      "dlg": "Impasto."
+    },
+    {
+      "id": "battle_special_10915_5",
+      "desc": "",
+      "dlg": "Oke~ Sekian kesan-kesanku."
+    },
+    {
+      "id": "battle_s3_10715_1_5",
+      "desc": "",
+      "dlg": "Gua kasih oleh-oleh penuh penderitaan!"
+    },
+    {
+      "id": "battle_s3_10715_1_5-01",
+      "desc": "",
+      "dlg": "Gua kasih oleh-oleh penuh penderitaan!"
+    },
+    {
+      "id": "battle_s3_10715_1_5-02",
+      "desc": "",
+      "dlg": "Gua kasih oleh-oleh penuh penderitaan!"
+    },
+    {
+      "id": "battle_special_10715_1_1",
+      "desc": "",
+      "dlg": "Cukup main-mainnya."
+    },
+    {
+      "id": "battle_special_10715_1_2",
+      "desc": "",
+      "dlg": "Setel musiknya lebih keras!"
+    },
+    {
+      "id": "battle_special_10715_2",
+      "desc": "",
+      "dlg": "Hah!"
+    },
+    {
+      "id": "battle_special_10715_2_1",
+      "desc": "",
+      "dlg": "Pemusnahan komplit nan..."
+    },
+    {
+      "id": "battle_special_10715_2_2",
+      "desc": "",
+      "dlg": "Totaal!!"
+    },
+    {
+      "id": "battle_special_10715_3_1",
+      "desc": "",
+      "dlg": "Tch. Dasar lu pengecut..."
+    },
+    {
+      "id": "battle_special_10715_3_2",
+      "desc": "",
+      "dlg": "Minggir dari hadapan gua!"
+    },
+    {
+      "id": "battle_special_10715_3_3",
+      "desc": "",
+      "dlg": "Tantang gua kalo berani!"
+    },
+    {
+      "id": "battle_special_10715_4",
+      "desc": "",
+      "dlg": "Hukuman untuk semua pihak dan orang di sekitar pada saat tindak kejahatanmu... adalah pemusnahan komplit nan total."
+    },
+    {
+      "id": "battle_special_10415_1",
+      "desc": "",
+      "dlg": "Apa akhirnya aku sudah memutus mereka sepenuhnya...?"
+    },
+    {
+      "id": "battle_special_10415_1_2",
+      "desc": "",
+      "dlg": "Putus."
+    },
+    {
+      "id": "battle_special_10415_2",
+      "desc": "",
+      "dlg": "... Gigih, bukan?"
+    },
+    {
+      "id": "battle_special_10415_4",
+      "desc": "",
+      "dlg": "Kau tahu itu, bukan? Tidak berguna untuk memprediksi gerakanku."
+    },
+    {
+      "id": "battle_special_10415_5",
+      "desc": "",
+      "dlg": "Aku lelah dan muak denganmu dan gaya Palermitanmu itu—bawa bersamamu ke neraka!"
+    },
+    {
+      "id": "battle_special_10415_6",
+      "desc": "",
+      "dlg": "Kuperingatkan, akan sangat panas. Panas seperti neraka!"
+    },
+    {
+      "id": "battle_special_10415_7",
+      "desc": "",
+      "dlg": "Apa kau mendengarnya? Deru setiap momen hidupku berteriak ingin membunuhmu!!"
+    },
+    {
+      "id": "battle_special_10415_8",
+      "desc": "",
+      "dlg": "Dan begitulah, hingga momen ini terbakar habis... maka itu akan terputus."
+    },
+    {
+      "id": "battle_special_10415_9",
+      "desc": "",
+      "dlg": "Dan perburuan akan segera berakhir!"
+    },
+    {
+      "id": "battle_special_10415_9_1",
+      "desc": "",
+      "dlg": "Prediksi tidaklah berguna..."
+    },
+    {
+      "id": "battle_special_10415_9_2",
+      "desc": "",
+      "dlg": "Bullseye!"
+    },
+    {
+      "id": "battle_special_10415_9_3",
+      "desc": "",
+      "dlg": "Semuanya. Sayonara."
+    },
+    {
+      "id": "battle_special_10415_10",
+      "desc": "",
+      "dlg": "Dengan sesak telah kutahan.\nDengan putus asa sudah kurindukan.\nDi luar segalanya, aku telah mengutuk."
+    },
+    {
+      "id": "battle_special_10415_11",
+      "desc": "",
+      "dlg": "Apa yang tersisa untuk kudendam... hanyalah kebencian yang menyiksa."
+    },
+    {
+      "id": "battle_s3_10415_1",
+      "desc": "",
+      "dlg": "Akan kuhapus semua... terus kupotong hingga nafasku terbakar habis."
+    },
+    {
+      "id": "battle_s3_11115_1_1",
+      "desc": "",
+      "dlg": "Mainan ini..."
+    },
+    {
+      "id": "battle_s3_11115_1_2",
+      "desc": "",
+      "dlg": "... sudah tidak..."
+    },
+    {
+      "id": "battle_s3_11115_1_3",
+      "desc": "",
+      "dlg": "... menyenangkan!"
+    },
+    {
+      "id": "battle_special_11115_1",
+      "desc": "",
+      "dlg": "Sini lo."
+    },
+    {
+      "id": "battle_special_11115_2_2",
+      "desc": "",
+      "dlg": "Kuperingatkan, bakalan panas."
+    },
+    {
+      "id": "battle_special_11115_2_3",
+      "desc": "",
+      "dlg": "Panas kayak neraka!"
+    },
+    {
+      "id": "battle_special_11115_3",
+      "desc": "",
+      "dlg": "Hah! Bullseye!"
+    },
+    {
+      "id": "battle_special_11115_4",
+      "desc": "",
+      "dlg": "Cukup menghibur!\nWaktunya membuka satu lapisan!"
+    },
+    {
+      "id": "battle_special_11115_5",
+      "desc": "",
+      "dlg": "Hahaha! Menarik!"
+    },
+    {
+      "id": "battle_special_11115_6",
+      "desc": "",
+      "dlg": "Perhatikan ini!"
+    },
+    {
+      "id": "battle_special_11115_7",
+      "desc": "",
+      "dlg": "Hah. Ga perlu kutulis di buku. Sudah jelas hukumannya kematian!"
+    },
+    {
+      "id": "battle_special_11115_8",
+      "desc": "",
+      "dlg": "Mantap! Lu jago juga, nak!"
+    },
+    {
+      "id": "battle_special_11115_9",
+      "desc": "",
+      "dlg": "Ingat, nak?"
+    },
+    {
+      "id": "battle_special_11115_9_01",
+      "desc": "",
+      "dlg": "We're <i>family</i>. A little sacrifice ain't a thing between us!"
+    },
+    {
+      "id": "battle_special_11115_10_2-03",
+      "desc": "",
+      "dlg": "Ini semua untuk keluarga!"
+    },
+    {
+      "id": "battle_s2_10310_1_3-01",
+      "desc": "",
+      "dlg": "Kau akan membungkuk."
+    },
+    {
+      "id": "battle_s3_10310_1_3",
+      "desc": "",
+      "dlg": "Tertusuklah dirimu!"
+    },
+    {
+      "id": "battle_react_10310_1-1",
+      "desc": "",
+      "dlg": "Darah mengalir..."
+    },
+    {
+      "id": "battle_react_10310_1-1",
+      "desc": "",
+      "dlg": "Darah mengalir..."
+    },
+    {
+      "id": "battle_react_10310_1-1",
+      "desc": "",
+      "dlg": "Darah mengalir..."
+    },
+    {
+      "id": "battle_react_10310_2",
+      "desc": "",
+      "dlg": "Dalam hal membuat senjata, aku telah melampaui ayahku."
+    },
+    {
+      "id": "battle_react_10310_3-4",
+      "desc": "",
+      "dlg": "Varian Sancho\nSeni Hardblood ke-6..."
+    },
+    {
+      "id": "battle_react_10310_3-4-1",
+      "desc": "",
+      "dlg": "Cabik-cabik!"
+    },
+    {
+      "id": "battle_react_10310_4-4",
+      "desc": "",
+      "dlg": "Varian Sancho\nSeni Hardblood ke-8..."
+    },
+    {
+      "id": "battle_react_10310_4-4-1",
+      "desc": "",
+      "dlg": "Memotong!"
+    },
+    {
+      "id": "battle_react_10310_5-2",
+      "desc": "",
+      "dlg": "Keturunan Sancho\nSeni Hardblood...\n<i>La Sangre.</i>"
+    },
+    {
+      "id": "battle_react_10310_5-2-1",
+      "desc": "",
+      "dlg": "Waktunya untuk mengakhiri ini."
+    },
+    {
+      "id": "battle_react_10310_6-4",
+      "desc": "",
+      "dlg": "Seni Hardblood ke-15..."
+    },
+    {
+      "id": "battle_react_10310_6-4-1",
+      "desc": "",
+      "dlg": "Membangun menuju babak final!"
+    },
+    {
+      "id": "battle_react_10310_7",
+      "desc": "",
+      "dlg": "Dengan senjata kalian...\nAku akan memimpin pertempuran berdarah ini hingga kemenangan."
+    },
+    {
+      "id": "battle_react_10310_8-1",
+      "desc": "",
+      "dlg": "Tukang Cukur... Kuserahkan sisa Keluarga kepadamu."
+    },
+    {
+      "id": "battle_react_10310_8-2",
+      "desc": "",
+      "dlg": "Pendeta... Kuserahkan sisa Keluarga kepadamu."
+    },
+    {
+      "id": "battle_react_10310_8-3",
+      "desc": "",
+      "dlg": "Satu-satunya saudaraku... Kuserahkan sisa Keluarga kepadamu."
+    },
+    {
+      "id": "battle_react_10310_9",
+      "desc": "",
+      "dlg": "Fokuslah pada perjamuan di depan matamu."
+    },
+    {
+      "id": "battle_add_10710_1",
+      "desc": "",
+      "dlg": "Dullahan!\nWaktunya berkuda menuju kematian!"
+    },
+    {
+      "id": "battle_add_10710_2",
+      "desc": "",
+      "dlg": "Tidak ada ketenangan yang menantimu."
+    },
+    {
+      "id": "battle_add_10710_3",
+      "desc": "",
+      "dlg": "Kamu pasti merasa sakit hati... maka merataplah sekeras mungkin!\nHingga suara badai ini tenggelam!"
+    },
+    {
+      "id": "battle_s3_10710_large_2",
+      "desc": "",
+      "dlg": "Bahkan jika aku tidak bisa mengurungmu..."
+    },
+    {
+      "id": "battle_s3_10710_large_3",
+      "desc": "",
+      "dlg": "Aku sendiri yang akan mengukir penyesalanmu!"
+    },
+    {
+      "id": "battle_s3_10710_ride_1",
+      "desc": "",
+      "dlg": "Lenyaplah bersama badai."
+    },
+    {
+      "id": "battle_special_10613_1",
+      "desc": "",
+      "dlg": "Para Heishou! Buatkan jalanku!"
+    },
+    {
+      "id": "battle_turn_start_10613_1",
+      "desc": "battle_turn_start_10613_1",
+      "dlg": "Aku memerintahkan dua belas pasukan, Jangan biarkan sesuatu masih hidup di hadapanmu."
+    },
+    {
+      "id": "battle_return_10613_1",
+      "desc": "battle_return_10613_1",
+      "dlg": "Maju dan kalahkan para musuh, tunjukan kemampuanmu."
+    },
+    {
+      "id": "battle_order_attack_10613_1",
+      "desc": "battle_order_attack_10613_1",
+      "dlg": "Cari para hama itu!"
+    },
+    {
+      "id": "battle_turn_end_10613_1",
+      "desc": "battle_turn_end_10613_1",
+      "dlg": "Mundur. Hidupmu masih berguna untuk misi berikutnya."
+    },
+    {
+      "id": "battle_order_defense_10613_1",
+      "desc": "battle_order_defense_10613_1",
+      "dlg": "Lindungi Hongyuan sesuai perintah."
+    },
+    {
+      "id": "battle_noneready_10613_1",
+      "desc": "battle_noneready_10613_1",
+      "dlg": "Tidak ada jalan lain."
+    },
+    {
+      "id": "battle_noneready_10613_1",
+      "desc": "battle_noneready_10613_1",
+      "dlg": "Tidak ada jalan lain."
+    },
+    {
+      "id": "battle_nonedead_10613_1",
+      "desc": "battle_nonedead_10613_1",
+      "dlg": "Aku tidak akan kalah... ke darah kotor ini!"
+    },
+    {
+      "id": "battle_nonedead_10613_1-01",
+      "desc": "battle_nonedead_10613_1-01",
+      "dlg": "Bagaimanapun yang terjadi,\nPenguasa tidak akan mati."
+    },
+    {
+      "id": "battle_undead_10613_1",
+      "desc": "battle_undead_10613_1",
+      "dlg": "Penguasa tidak akan mati."
+    },
+    {
+      "id": "battle_undead_10613_1-01",
+      "desc": "battle_undead_10613_1-01",
+      "dlg": "Untuk memenuhi tujuanku... Kematian... akan kucurangi lagi!"
+    },
+    {
+      "id": "battle_s3_10815_1_1-01",
+      "desc": "",
+      "dlg": "Demonfire Spinecleaver (鬼火腰擊)."
+    },
+    {
+      "id": "battle_s3_10815_1_1-02",
+      "desc": "",
+      "dlg": "Demonfire Spinecleaver (鬼火腰擊)."
+    },
+    {
+      "id": "battle_s3_10815_1_2-02",
+      "desc": "",
+      "dlg": "Mengganti Posisi—Langkah Ketiga."
+    },
+    {
+      "id": "battle_s3_10815_1_2-02",
+      "desc": "",
+      "dlg": "Langkah Ketiga."
+    },
+    {
+      "id": "battle_s3_10815_1_3-01",
+      "desc": "",
+      "dlg": "Setarakan Keseimbangan (相戰)."
+    },
+    {
+      "id": "battle_s3_10815_1_3-02",
+      "desc": "",
+      "dlg": "Setarakan Keseimbangan (相戰)."
+    },
+    {
+      "id": "battle_s3_10815_1_4-01",
+      "desc": "",
+      "dlg": "Lucent Rippling Flame (淸潾火)!"
+    },
+    {
+      "id": "battle_s3_10815_1_4-03",
+      "desc": "",
+      "dlg": "Lucent Rippling Flame (淸潾火)!"
+    },
+    {
+      "id": "battle_s3_10815_1_5",
+      "desc": "",
+      "dlg": "Demonfire Spinecleaver (鬼火腰擊). Mengganti Posisi—Langkah Ketiga."
+    },
+    {
+      "id": "battle_special_10815_1",
+      "desc": "",
+      "dlg": "Aku tidak dapat melihat ke masa lalu. Aku hanya akan mengangkat pedangku dan mengukir kisah yang akan datang."
+    },
+    {
+      "id": "battle_special_10815_2",
+      "desc": "",
+      "dlg": "Aku telah memperhatikan bidak batu di papan."
+    },
+    {
+      "id": "battle_special_10815_3_1",
+      "desc": "",
+      "dlg": "Yield My Flesh!"
+    },
+    {
+      "id": "battle_special_10815_3_2",
+      "desc": "",
+      "dlg": "To Claim Their Bones!"
+    },
+    {
+      "id": "battle_s3_10615_1_1",
+      "desc": "==== Start of Hong S Corp ====",
+      "dlg": "Jangan buat ini lebih sulit untuk dirimu sendiri!"
+    },
+    {
+      "id": "battle_s3_10615_1_3-03",
+      "desc": "",
+      "dlg": "Menyerahlah pada Ikatan Ohra!"
+    },
+    {
+      "id": "battle_select_30501_1",
+      "desc": "=== Start of Kimsault Dripped ===",
+      "dlg": "Tiada matahari yang terbit tanpa bayangan.\nMaka kegelapan ini, akan kuterima."
+    },
+    {
+      "id": "battle_endcommand_30501_1",
+      "desc": "",
+      "dlg": "... Akan kutebas mereka... sebelum diriku menghilang."
+    },
+    {
+      "id": "battle_s3_30501_1",
+      "desc": "",
+      "dlg": "Meski terangnya cemerlang rembulan..."
+    },
+    {
+      "id": "battle_s3_30501_2",
+      "desc": "",
+      "dlg": "Kilauan cahayanya akan memudar seiring munculnya bulan purnama!"
+    },
+    {
+      "id": "battle_break_30501_1",
+      "desc": "",
+      "dlg": "Tangan bayangan... meriak ke arahku."
+    },
+    {
+      "id": "battle_kill_30501_1",
+      "desc": "",
+      "dlg": "Penggal."
+    },
+    {
+      "id": "battle_dead_30501_1",
+      "desc": "",
+      "dlg": "Tiada satu tanganpun... akan membuat kegelapan ini sirna..."
+    },
+    {
+      "id": "battle_special_10916_1",
+      "desc": "=== Start of Thumb Rodion / Valenrodya / Valenrodion ===",
+      "dlg": "Apa, kesusahan ya buat menyerangku?"
+    },
+    {
+      "id": "battle_special_10916_1_2",
+      "desc": "",
+      "dlg": "Kau lambat sekali."
+    },
+    {
+      "id": "battle_special_10916_1_3",
+      "desc": "",
+      "dlg": "Dah kulihat tipu dayamu dari dulu~"
+    },
+    {
+      "id": "battle_special_10916_1_4",
+      "desc": "",
+      "dlg": "Aku membacamu seperti buku terbuka."
+    },
+    {
+      "id": "battle_special_10916_1_5",
+      "desc": "",
+      "dlg": "Dah kubilang. Kau terlalu lambat!"
+    },
+    {
+      "id": "battle_special_10916_2",
+      "desc": "",
+      "dlg": "... Cih. Sudah kepanasan ya?"
+    },
+    {
+      "id": "battle_special_10916_3",
+      "desc": "",
+      "dlg": "Hah! Giliranku, dasar bajingan."
+    },
+    {
+      "id": "battle_special_10916_4",
+      "desc": "",
+      "dlg": "Buku Teks. Emangnya aku minta hal yang sulit hah?"
+    },
+    {
+      "id": "battle_special_10916_5",
+      "desc": "",
+      "dlg": "Aku muak dan lelah dengan Yoshihide, dasar jalang bajingan—dan kau, juga! Persetan kalian semua!"
+    },
+    {
+      "id": "battle_special_10916_5_2",
+      "desc": "",
+      "dlg": "Ya, Aku benci kalian semua! Famiglia sialan dan setiap diri kalian!"
+    },
+    {
+      "id": "battle_special_10916_6",
+      "desc": "",
+      "dlg": "Siapa berikutnya? Heh... Kita semua tahu bagaimana ini berakhir."
+    },
+    {
+      "id": "battle_special_10916_7",
+      "desc": "",
+      "dlg": "Ga sudi aku mati di tempat sialan ini."
+    },
+    {
+      "id": "battle_special_10916_8",
+      "desc": "",
+      "dlg": "Hah. Sudah kutebak. Idiot... Bahkan gitu aja ga bisa nahan..."
+    },
+    {
+      "id": "battle_special_10916_9",
+      "desc": "",
+      "dlg": "Incar jantungnya! Jantungnya!"
+    },
+    {
+      "id": "battle_s2_10916_1_3",
+      "desc": "",
+      "dlg": "Pengalihan akan membunuh dan melenyapkanmu sepenuhnya!"
+    },
+    {
+      "id": "battle_s3_10916_1_1",
+      "desc": "",
+      "dlg": "Hahahahaha!"
+    },
+    {
+      "id": "battle_s3_10916_1_1-01",
+      "desc": "",
+      "dlg": "Dan perburuan akan segera berakhir."
+    },
+    {
+      "id": "battle_s3_10916_1_1-02",
+      "desc": "",
+      "dlg": "Kucincang kalian semua!"
+    },
+    {
+      "id": "battle_special_10716_1",
+      "desc": "",
+      "dlg": "Hanya lu dan gua sekarang. Sebuah duel..."
+    },
+    {
+      "id": "battle_special_10716_2",
+      "desc": "",
+      "dlg": "... Lu ga bakal ngelewatin gua."
+    },
+    {
+      "id": "battle_special_10716_4",
+      "desc": "",
+      "dlg": "Musuh dikalahkan. Lu ga bisa ngelakuin itu dua kali ke gue."
+    },
+    {
+      "id": "battle_s3_10716_1_1",
+      "desc": "",
+      "dlg": "Gua tunjukkan perkiraan sudut dan kecepatan yang mendekati serangan lu"
+    },
+    {
+      "id": "battle_s3_10716_1_1-02",
+      "desc": "",
+      "dlg": "Il Cacciatore!"
+    },
+    {
+      "id": "battle_s3_10716_1_2",
+      "desc": "",
+      "dlg": "Saksikan demonstrasi dari teknik pembongkar Palermitan."
+    },
+    {
+      "id": "battle_s3_10716_1_2-01",
+      "desc": "",
+      "dlg": "Sezionatura di Cervo!"
+    },
+    {
+      "id": "battle_s3_10716_1_2-02",
+      "desc": "",
+      "dlg": "Terdemonstrasikan."
+    },
+    {
+      "id": "battle_special_11009_3",
+      "desc": "",
+      "dlg": "Jika aku bisa membuat seonbaeku, masterku, senang... Jika itu berarti pada akhirnya, kita akan berbagi kegembiraan bersama... tidak ada yang akan membuatku takut untuk melarikan diri."
+    },
+    {
+      "id": "battle_special_11009_4",
+      "desc": "",
+      "dlg": "Tidak peduli jika itu melelehkan sayapku dan menyeretku ke bawah... Tak akan kubiarkan matahari ini terbenam, dan biarkan itu terbakar, <i>terbakar!</i>"
+    },
+    {
+      "id": "battle_special_11009_5",
+      "desc": "",
+      "dlg": "Aku menolak menjadi junior tercela yang tenggelam dalam rawa keputusasaan tanpa mengambil langkah lain, Seonbae. Aku tahu kamu percaya padaku… Karena itu yang harus kulakukan…!"
+    },
+    {
+      "id": "battle_special_11009_6",
+      "desc": "",
+      "dlg": "Penderitaan ini sulit untuk ditahan... tapi aku akan menahannya. Tidak peduli berapa kali aku terjatuh, aku akan bangkit kembali. Aku berjanji, Master, aku akan meraih kekuatan yang layak untuk fajarmu... jadi aku tidak akan pernah kehilangan siapapun lagi!"
+    },
+    {
+      "id": "battle_special_11009_7",
+      "desc": "",
+      "dlg": "... Aku harus terbang tinggi. Keluar dari cangkang yang menghalangi jalanku ini—Akan kuhancurkan seluruhnya dan terbang ke tempat yang lebih tinggi."
+    },
+    {
+      "id": "battle_special_11009_8",
+      "desc": "",
+      "dlg": "Jangan biarkan api merah ini, cahaya yang menyinariku, padam—mengamuklah, terbakarlah."
+    },
+    {
+      "id": "battle_special_11009_9",
+      "desc": "",
+      "dlg": "Biarkan cahaya api merah ini menyala...! Teruslah mengamuk, terbakarlah!"
+    },
+    {
+      "id": "battle_special_11009_10",
+      "desc": "",
+      "dlg": "Untuk duka diriku... Tangisan ini, terbakarlah, untukku!"
+    },
+    {
+      "id": "battle_special_10216_1",
+      "desc": "",
+      "dlg": "Biarkan saya bantu."
+    },
+    {
+      "id": "battle_special_10216_2",
+      "desc": "",
+      "dlg": "Melanjutkan pembakaran yang tersisa."
+    },
+    {
+      "id": "battle_special_10216_3",
+      "desc": "",
+      "dlg": "Kerja bagus. Saya akan memberi anda dukungan."
+    },
+    {
+      "id": "battle_special_10216_4",
+      "desc": "",
+      "dlg": "Serahkan sisanya pada saya."
+    },
+    {
+      "id": "battle_special_10216_5",
+      "desc": "",
+      "dlg": "Seperti kupu-kupu membentangkan sayapnya."
+    },
+    {
+      "id": "battle_special_10216_6",
+      "desc": "",
+      "dlg": "Pelepasan reaktif. Membagi target menjadi potongan."
+    },
+    {
+      "id": "battle_s3_10216_1_3-03",
+      "desc": "",
+      "dlg": "Seperti kupu-kupu mengepakkan sayapnya."
+    },
+    {
+      "id": "battle_special_11216_2",
+      "desc": "필립 싱클레어가 탈출장치로 후퇴",
+      "dlg": "Ya, keputusan bagus... Lebih baik kalau kamu tetap bertahan."
+    },
+    {
+      "id": "battle_special_11216_3",
+      "desc": "유나 파우스트의 공격에 호응하여 추가공격",
+      "dlg": "Heh... Itu kebanggaan Office kita."
+    },
+    {
+      "id": "battle_special_11216_4_4",
+      "desc": "3-2 스킬 대사",
+      "dlg": "Matahari akan segera terbit."
+    },
+    {
+      "id": "battle_special_11216_5",
+      "desc": "원호방어 발동",
+      "dlg": "Hey! Serahkan hal ini ke seniormu, paham?"
+    },
+    {
+      "id": "battle_special_11216_6",
+      "desc": "유나 파우스트 사망 후 턴 시작 시",
+      "dlg": "Terimakasih untuk bantuannya, Frau Faust. Istirahatlah—Office kita akan baik-baik saja."
+    },
+    {
+      "id": "battle_special_11216_7",
+      "desc": "필립 싱클레어 사망 후 턴 시작 시",
+      "dlg": "... Jadi begitu. Masih terlalu dini untuk anak itu."
+    },
+    {
+      "id": "battle_s2_11216_1_6",
+      "desc": "2스킬 대사",
+      "dlg": "Dengan cahaya matahari terbenam."
+    },
+    {
+      "id": "battle_s3_11216_1_1",
+      "desc": "3스킬 대사",
+      "dlg": "... Pada retakan fajar..."
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+    "dataList": [
+        {
+            "id": 814701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stab",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Bleed. Jika target memiliki Bleed, beri +1 Bleed Count"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 814702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tekanan Bawah",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +2 Bleed Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Bleed"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 814703,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pain",
+                    "desc": "Prioritaskan musuh dengan Bleed",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Jika target memiliki Bleed, beri 10% dari damage yang diberikan as bonus damage"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Jika target memiliki Bleed, beri 10% dari damage yang diberikan as bonus damage"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri Bleed sebanyak Bleed pada target"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 814704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Bertahan",
+                    "desc": "Jika unit ini memiliki Perisai HP, beri 2 Bleed giliran berikutnya Saat Serang",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 814801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stab",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 Bleed. Jika target memiliki Bleed, beri +2 Bleed Count"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 814802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tekanan Bawah",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +2 Bleed Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 5 Bleed"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 814803,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pain",
+                    "desc": "Prioritaskan target dengan Bleed\nKetika unit ini defeats target dengan attack, musuh dengan the lowest SP kehilangan 10 SP.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Jika target memiliki Bleed, beri 10% dari damage yang diberikan as bonus damage"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Target kehilangan (Bleed pada target) SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Jika target memiliki Bleed, beri 10% dari damage yang diberikan as bonus damage"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Target kehilangan (Bleed pada target) SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri Bleed sebanyak Bleed pada target"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 814804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Menghindar",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 814901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stab",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 Bleed. Jika target memiliki Bleed, beri +2 Bleed Count"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 814902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tekanan Bawah",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +3 Bleed Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 5 Bleed"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 814903,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pain",
+                    "desc": "Prioritaskan target dengan Bleed\nKetika unit ini defeats target dengan attack, musuh dengan the lowest SP kehilangan 10 SP.\nKetika unit ini defeats target dengan attack, reuse Skill pada target lain.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Jika target memiliki Bleed, beri 20% dari damage yang diberikan as bonus damage"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Target kehilangan (Bleed pada target) SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Jika target memiliki Bleed, beri 20% dari damage yang diberikan as bonus damage"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Target kehilangan (Bleed pada target) SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri Bleed sebanyak Bleed pada target"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Jika target memiliki 10+ Bleed, Gunakan ulang Coin ini sekali"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 814904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Counter",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 815001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stab",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 4 Bleed. Jika target memiliki Bleed, beri +2 Bleed Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri +2 Bleed Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 Bleed"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri +2 Bleed Count"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 815002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tekanan Bawah",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +3 Bleed Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 5 Bleed"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 5 Bleed"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 815003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pain",
+                    "desc": "Prioritaskan target dengan Bleed\nKetika unit ini defeats target dengan attack, musuh dengan the lowest SP kehilangan 15 SP.\nKetika unit ini defeats target dengan attack, reuse Skill pada target lain.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Jika target memiliki Bleed, beri 20% dari damage yang diberikan as bonus damage"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Target kehilangan (Bleed pada target/2) SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Jika target memiliki Bleed, beri 20% dari damage yang diberikan as bonus damage"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Target kehilangan (Bleed pada target/2) SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Jika target memiliki Bleed, beri 20% dari damage yang diberikan as bonus damage"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Target kehilangan (Bleed pada target/2) SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri Bleed sebanyak Bleed pada target"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Jika target memiliki 7+ Bleed, Gunakan ulang Coin ini sekali"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 815004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Counter",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        }
+    ]
+}

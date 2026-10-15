@@ -1,0 +1,631 @@
+{
+  "dataList": [
+    {
+      "id": 800101,
+      "name": "An Apple’s Twilight",
+      "desc": "Ketika the Fruit telah dihancurkan, semua parts are diberikan dengan 2 Fragile.\nThe Fruit regenerates setelah 1 giliran.",
+      "summary": "Ketika the Fruit telah dihancurkan, beri 2 Fragile untuk semua parts"
+    },
+    {
+      "id": 800102,
+      "name": "NOT FOR DISPLAY1",
+      "desc": "Setelah bagian \"kepala\" regenerates sekali, bringing bagian \"kepala\"’s HP to 50% initiates a choice prompt."
+    },
+    {
+      "id": 800103,
+      "name": "NOT FOR DISPLAY2",
+      "desc": "Pada the start of Giliran 3, a choice prompt where you can hilangkan the Green Stem efek is initiated."
+    },
+    {
+      "id": 800104,
+      "name": "Akar Pengikat",
+      "desc": "Pada the start of the giliran, beri 1 Bind pada semua musuh.\nIni bertahan hingga \"Akar\" have been broken.",
+      "summary": "Beri 1 Bind pada semua musuh hingga Roots telah rusak"
+    },
+    {
+      "id": 800105,
+      "name": "Satu Akar Tunggal",
+      "desc": "The \"Akar\" peroleh 2 Attack Power Up untuk setiap intact Arm."
+    },
+    {
+      "id": 800201,
+      "name": "Let the Blood Festival Flow",
+      "desc": "The battle proceeds to the next phase setelah semua the Clay Dolls are dikalahkan."
+    },
+    {
+      "id": 800202,
+      "name": "DON'T LET THE KIDS READ THIS",
+      "desc": "Pada the start of giliran 2 in phase 2, choice prompt 1 is initiated."
+    },
+    {
+      "id": 800203,
+      "name": "Let the Fire Festival Ignite",
+      "desc": "Jika both Lengan are destroyed atau the main body’s HP is brought to 70%, the battle proceeds to the next phase."
+    },
+    {
+      "id": 800204,
+      "name": "Frenzy",
+      "desc": "During Phase 3\nPada the start of the giliran, beri 3 Burn pada semua musuh."
+    },
+    {
+      "id": 800205,
+      "name": "NOT FOR DISPLAY",
+      "desc": "Ketika HP is brought to 60%, choice prompt 2 is initiated."
+    },
+    {
+      "id": 800206,
+      "name": "Let the Star Festival Fall",
+      "desc": "Ketika HP is brought to 25%, the battle proceeds to the next phase."
+    },
+    {
+      "id": 800207,
+      "name": "NOT FOR DISPLAY",
+      "desc": "Pada the start of giliran 2 in phase 4, choice prompt 3 is initiated."
+    },
+    {
+      "id": 800301,
+      "name": "Idolatry",
+      "desc": "Tidak die at 0 HP; saja, remains on the stage sebagai immobile dan untargetable unit.\nSuppressed ketika the Doomsday Calendar is suppressed."
+    },
+    {
+      "id": 800801,
+      "name": "Cracked Gold",
+      "desc": "Heals HP setiap giliran berdasarkan jumlah dari Golden Sheen."
+    },
+    {
+      "id": 800901,
+      "name": "",
+      "desc": ""
+    },
+    {
+      "id": 800902,
+      "name": "Frail \"Inti\"",
+      "desc": "Ketika the Head telah dihancurkan, semua parts are diberikan dengan Immobilize giliran berikutnya.\nThe Head regenerates setelah 1 giliran."
+    },
+    {
+      "id": 800903,
+      "name": "Rotting Apple",
+      "desc": "Setelah the body telah dihancurkan, semua parts are diberikan dengan 2 Attack Power Down setiap giliran."
+    },
+    {
+      "id": 800904,
+      "name": "NOT FOR DISPLAY",
+      "desc": "NOT FOR DISPLAY"
+    },
+    {
+      "id": 801001,
+      "name": "Upgrade Factory at Work",
+      "desc": "Ketika unit ini dikalahkan, it revives the giliran berikutnya dan peroleh 1 Surgery."
+    },
+    {
+      "id": 801002,
+      "name": "You Must Menjadi Strong",
+      "desc": "Pada the start of the giliran, peroleh 1 Protection."
+    },
+    {
+      "id": 801201,
+      "name": "You Must Menjadi Strong",
+      "desc": "Pada the start of the giliran, peroleh 2 Protection."
+    },
+    {
+      "id": 801301,
+      "name": "Wavering Desires",
+      "desc": "Selama Keinginan, unit peroleh 2 Fragile dan 10 Bind, peroleh 1 skill slot, dan changes behavior."
+    },
+    {
+      "id": 801302,
+      "name": "Ensnaring Desires",
+      "desc": "The unit menjadi Keinginan setiap kali it kehilangan 30% of its HP."
+    },
+    {
+      "id": 801904,
+      "name": "Shuddering Terror",
+      "desc": "Peroleh 1 Protection untuk setiap kawan that died this wave. (Maks 5.)"
+    },
+    {
+      "id": 802401,
+      "name": "Pulsating Lengan",
+      "desc": "Pada the start of the giliran, peroleh Attack Power Up dan Protection sebanyak dari Count of Insting."
+    },
+    {
+      "id": 802402,
+      "name": "Damaged Lengan",
+      "desc": "Kehilangan 1 Insting whenever unit menerima damage dari attacks."
+    },
+    {
+      "id": 802403,
+      "name": "Regenerating Shell",
+      "desc": "Pada akhir giliran, jika unit didn’t terima any damage dari attacks during the giliran, pulihkan 5% HP dan peroleh 1 Insting."
+    },
+    {
+      "id": 802404,
+      "name": "Frantic Eyes",
+      "desc": "Behavior depends on the Count of Insting.\nUses agresif skills at +4 Insting, dan menjadi defensive at 3 atau less."
+    },
+    {
+      "id": 802501,
+      "name": "Amplified Aggression",
+      "desc": "Ketika diserang, peroleh 1 Insting.\nJika unit has +4 Insting at akhir giliran, enter a state of Frenzy."
+    },
+    {
+      "id": 802502,
+      "name": "Frenzy",
+      "desc": "In the Frenzy state, unit peroleh 3 Attack Power Up dan 3 Fragile, changes behavior, dan tidak memperoleh Insting dari being attacked."
+    },
+    {
+      "id": 802503,
+      "name": "Shimmering Rage",
+      "desc": "Pada kurang dari 50% HP, enters Frenzy setiap giliran."
+    },
+    {
+      "id": 802701,
+      "name": "Amplified Aggression",
+      "desc": "Ketika diserang, peroleh 1 Insting.\nJika unit has +4 Insting at akhir giliran, enter a state of Frenzy."
+    },
+    {
+      "id": 802702,
+      "name": "Frenzy",
+      "desc": "In the Frenzy state, unit peroleh 3 Attack Power Up dan 3 Fragile, changes behavior, dan tidak memperoleh Insting dari being attacked."
+    },
+    {
+      "id": 802801,
+      "name": "Rotting Skin",
+      "desc": "Pada the start of the giliran, jika saat kurang dari 50% HP, beri 3 Racun ketika attacked."
+    },
+    {
+      "id": 802802,
+      "name": "Molt",
+      "desc": "Setelah this part rusak, jika the other arm is not broken pada end of berikut giliran, this part regenerates dengan the same HP as it."
+    },
+    {
+      "id": 802803,
+      "name": "Pained Writhing",
+      "desc": "Ketika both arms telah rusak, unit peroleh 5 Fragile dan memberi 10 Racun pada semua musuh setiap giliran."
+    },
+    {
+      "id": 802804,
+      "name": "Wriggling Insting",
+      "desc": "Behavior depends on the Count of Insting.\nUses agresif skills at +4 Insting, dan menjadi defensive at 0."
+    },
+    {
+      "id": 803302,
+      "name": "Severed Arm",
+      "desc": "Ketika the arm rusak, unit peroleh 5 Fragile setiap giliran."
+    },
+    {
+      "id": 802901,
+      "name": "Fearsome Whistles",
+      "desc": "Jika you have collected kurang dari 3 of A Sign, Sinclair is diberikan dengan 1 Bind dan Paralyze setiap giliran."
+    },
+    {
+      "id": 802902,
+      "name": "Courage to Triumph Fear",
+      "desc": "Jika you have collected 3 atau lebih of A Sign, Sinclair peroleh 1 Attack Power Up dan 2 Protection setiap giliran."
+    },
+    {
+      "id": 802903,
+      "name": "You Must Accept the Pain!",
+      "desc": "Pada the start of the giliran, jika the unbroken part memiliki BLeed atau Burn, pulihkan 15% dari Maks HP dan peroleh 3 Attack Power Up.\nThe pemulihan dan status efek diperoleh are decreased berdasarkan jumlah dari A Sign, turun hingga 0."
+    },
+    {
+      "id": 802904,
+      "name": "Bliss of Execution",
+      "desc": "Setelah mengalahkan musuh, peroleh 2 Haste dan 5 Damage Up giliran berikutnya."
+    },
+    {
+      "id": 803001,
+      "name": "Overflowing Ecstasy",
+      "desc": "Starting dengan Giliran 3, menjadi Ecstatic setiap 2 giliran."
+    },
+    {
+      "id": 803002,
+      "name": "Blooming Purity",
+      "desc": "Jika Kromer’s main body is brought to 50% HP, she peroleh Purity for the remaining giliran."
+    },
+    {
+      "id": 803003,
+      "name": "Flawless Flesh",
+      "desc": "Ketika the arm rusak, the part is diberikan dengan 2 Attack Power Down."
+    },
+    {
+      "id": 803101,
+      "name": "Kantung Darah",
+      "desc": "Wrath Resistance increases.\nGloom Resistance decreases."
+    },
+    {
+      "id": 803102,
+      "name": "Fluid Sac",
+      "desc": "Selama status Fluid Sac aktif, \"Inti\" memulihkan (20 * Fluid Sac Count) HP."
+    },
+    {
+      "id": 803103,
+      "name": "Boiling Blood",
+      "desc": "Jika the body rusak while Kantung Darah aktif, semua musuh terima 20 damage tetap."
+    },
+    {
+      "id": 803201,
+      "name": "Lightning Rod",
+      "desc": "Ketika the Telephone Pole diserang, beri 2 Shock pada penyerang giliran ini.\nPada 5+ Lightning, semua Parts will beri 3 Shock pada penyerang, starting giliran berikutnya.\n(Lasts hingga Lightning reaches 0.)\nKetika diserang sebanyak a Sloth attack, jumlah dari Shock diberikan is halved. (Rounded up.)"
+    },
+    {
+      "id": 803202,
+      "name": "Lightning",
+      "desc": "Selama the telephone pole isn’t broken, peroleh 1 Lightning setelah attack.\nKetikaever the telephone pole diserang, kehilangan 1 Lightning."
+    },
+    {
+      "id": 803203,
+      "name": "Breaking Pieces",
+      "desc": "Ketika the telephone pole kena Stagger atau Broken, kehilangan semua Lightning.\nSemua attacks of Alleyway Watchdog will lalu be canceled untuk giliran ini."
+    },
+    {
+      "id": 803401,
+      "name": "Bongy Chicken Struts",
+      "desc": "Pada akhir giliran, beri 3 SP damage ke a musuh acak."
+    },
+    {
+      "id": 803701,
+      "name": "Bongy Chicken Beefs Up",
+      "desc": "Pada akhir giliran, beri 2 Damage Up dan 2 Protection ke semua kawan giliran berikutnya."
+    },
+    {
+      "id": 803901,
+      "name": "Vigorous Volaille",
+      "desc": "Pada akhir giliran, pulihkan 5 HP untuk setiap Raw Chicken in battle."
+    },
+    {
+      "id": 803902,
+      "name": "Gloomy Gallus",
+      "desc": "Pada akhir giliran, beri 5 SP damage ke semua musuh untuk setiap Raw Chicken in battle."
+    },
+    {
+      "id": 803903,
+      "name": "Fragile Fowl",
+      "desc": "Ketika a Bagian breaks, peroleh 1 Fragile setiap giliran untuk setiap Raw Chicken that died sebelum Bagian was broken."
+    },
+    {
+      "id": 803904,
+      "name": "Powerful Poussin",
+      "desc": "Jika Bagian isn’t broken, peroleh 1 Damage Up untuk setiap living Raw Chicken."
+    },
+    {
+      "id": 804101,
+      "name": "Expanding Sorrow",
+      "desc": "Pada akhir giliran, jika unit has 3+ Unresolved Sorrow, generates a head giliran berikutnya dan changes behavior."
+    },
+    {
+      "id": 804102,
+      "name": "Inconsolable Sorrow",
+      "desc": "Pada akhir giliran, jika unit has 3+ Unresolved Sorrow dan bagian \"kepala\" rusak, menjadi staggered giliran berikutnya."
+    },
+    {
+      "id": 804103,
+      "name": "Diterima sebanyak the Horns",
+      "desc": "Ketika bagian \"kepala\" is staggered, semua parts menjadi staggered giliran berikutnya."
+    },
+    {
+      "id": 804104,
+      "name": "Downed sebanyak the Horns",
+      "desc": "Ketika bagian \"kepala\" rusak, semua parts menjadi staggered giliran berikutnya. Afterwards, semua parts have 3 Attack Power Down for the duration of the battle."
+    },
+    {
+      "id": 804501,
+      "name": "Saraf Hidup",
+      "desc": "Saat mati, semua Skill dibatalkan untuk giliran ini.\nDoubles currently owned Self-charge."
+    },
+    {
+      "id": 804502,
+      "name": "Motioning Nerves",
+      "desc": "Setelah dying, attack skills spend 1 Self-charge.\nAttacks musuh hingga Self-charge runs out."
+    },
+    {
+      "id": 804503,
+      "name": "Kegigihan Abadi",
+      "desc": "Setiap 5 giliran, peroleh Perisai setara dengan HP \"Kepala\"."
+    },
+    {
+      "id": 804504,
+      "name": "Kegigihan Terhentikan",
+      "desc": "Setelah menggunakan 'Menggulung', jika Perisai habis, spend Self-charge.\nSemua bagian menjadi staggered giliran berikutnya."
+    },
+    {
+      "id": 804601,
+      "name": "Broken Umbrella",
+      "desc": "Setelah the back rusak, peroleh 3 Fragile setiap giliran. Beri +2 Rupture."
+    },
+    {
+      "id": 804602,
+      "name": "Ragged Umbrella",
+      "desc": "Setelah bagian \"kepala\" umbrella rusak, peroleh 5 Level Offense Down setiap giliran. Beri +2 Sinking."
+    },
+    {
+      "id": 804603,
+      "name": "Last Struggle",
+      "desc": "Pada 15% HP, unit's Speed is fixed at 1, dan peroleh 1 Attack Power Down.\nNewly spawned Old Umbrellas have 30% lebih HP. Uses 'Cries Seeking Something' setiap giliran."
+    },
+    {
+      "id": 804701,
+      "name": "Spreading Ember",
+      "desc": "Pada akhir giliran, jika unit ini memiliki Burn, beri the same amount ke semua unit dengan Jeratan Jimat Terkutuk giliran berikutnya"
+    },
+    {
+      "id": 804702,
+      "name": "Broken Means",
+      "desc": "Ketika the arm rusak, it beri -20% damage"
+    },
+    {
+      "id": 804801,
+      "name": "Booze Makes You Hicc!",
+      "desc": "Setelah menggunakan 'I'll Have This!' pada musuh dengan 5+ Mabuk dan successfully landing the attack, menjadi staggered."
+    },
+    {
+      "id": 804802,
+      "name": "Stimulating Smell, Isn't It?",
+      "desc": "A mysterious smell dari within boosts the spirit.\nA acak Sinner peroleh 5 Morale Boost saat dimulainya wave."
+    },
+    {
+      "id": 805201,
+      "name": "Old dan Abandoned",
+      "desc": "Ketika unit ini dikalahkan, Sinner that dikalahkan it peroleh 2 Haste giliran berikutnya.\nSemua bagian of Drifting Fox are diberikan dengan 2 Bind dan 1 Serpihan Payung."
+    },
+    {
+      "id": 804301,
+      "name": "Perilous Mind",
+      "desc": "Pada the akhir dari giliran, kehilangan 10 SP."
+    },
+    {
+      "id": 804302,
+      "name": "Perilous Heart",
+      "desc": "Selama in low morale, peroleh 2 Attack Power Up dan 3 Bind."
+    },
+    {
+      "id": 804303,
+      "name": "Faltering Heart",
+      "desc": "In panic, menjadi staggered."
+    },
+    {
+      "id": 804304,
+      "name": "Determination",
+      "desc": "Ketika pulih dari panic, fully pulihkan SP, dan peroleh 2 Haste dan 2 Attack Power Up."
+    },
+    {
+      "id": 804305,
+      "name": "Lobotomy E.G.O",
+      "desc": "Starts the battle dengan 1200 Perisai HP"
+    },
+    {
+      "id": 805301,
+      "name": "Walled Heart",
+      "desc": "Ketika unit ini rusak, Dongbaek is diberikan dengan +5 Sinking Count, dan semua Sinner kehilangan 2 Sinking Count; semua Sinner peroleh 1 Protection dan 2 Attack Power Up giliran berikutnya."
+    },
+    {
+      "id": 804401,
+      "name": "Into Full Bloom",
+      "desc": "Pada the start of Giliran 5, spawn 4 Soon-to-bloom Flowers dengan 3 Growing"
+    },
+    {
+      "id": 804402,
+      "name": "Flowering Mind",
+      "desc": "Ketika HP turun to 50%, proceeds to the next phase. HP tidak dapat go di bawah 50% hingga the phase changes."
+    },
+    {
+      "id": 804403,
+      "name": "Dueling",
+      "desc": "Ketika HP falls di bawah 50%, uses a special skill to target 1 unit, lalu menjadi imun terhadap Stagger dan Panik for the next 2 giliran.\nJika Yi Sang has 'Dueling', Dongbaek peroleh 1 Attack Power Up.\nJika Yi Sang wins the duel, semua kawan peroleh 3 Damage Up giliran berikutnya.\nJika Dongbaek wins the duel, Dongbaek memulihkan seluruh SP."
+    },
+    {
+      "id": 804404,
+      "name": "Cost of Blooming",
+      "desc": "Jika 'Magnificent Spring Breeze' kehilangan in a clash, kehilangan 10 SP"
+    },
+    {
+      "id": 805401,
+      "name": "Growing Flower",
+      "desc": "Spawns dengan 1 Growing"
+    },
+    {
+      "id": 804901,
+      "name": "나오면 안되는 텍스트 (번역 x)",
+      "desc": "나오면 안되는 텍스트 (번역 x)"
+    },
+    {
+      "id": 804902,
+      "name": "나오면 안되는 텍스트 (번역 x)",
+      "desc": "나오면 안되는 텍스트 (번역 x)"
+    },
+    {
+      "id": 804903,
+      "name": "Self Destruction",
+      "desc": "Semua skills target indiscriminately. With setiap skill used, unit ini kehilangan 2% dari Maks HP."
+    },
+    {
+      "id": 804904,
+      "name": "Self Salvation",
+      "desc": "HP pemulihan efek pulihkan dua kali as much."
+    },
+    {
+      "id": 805601,
+      "name": "Radiant Vanity",
+      "desc": "Selama unit ini is present, Dongrang peroleh 1 Protection dan 1 Attack Power Up pada start of setiap giliran."
+    },
+    {
+      "id": 805602,
+      "name": "Earnest Accomplishment",
+      "desc": "Selama unit ini memiliki Earnest Accomplishment, efek berikut beri:\n- Bisa hanya be dikalahkan dengan Dongrang's attacks.\n- Jika a Sinner turun HP unit ini menjadi 1, Sinner memulihkan HP, dan unit ini peroleh Empty Honor.\n- Jika Dongrang defeats unit ini, Dongrang memulihkan HP dan powers up giliran berikutnya."
+    },
+    {
+      "id": 805603,
+      "name": "Empty Honor",
+      "desc": "Selama unit ini memiliki Empty Honor, efek berikut beri:\n- Bisa hanya be dikalahkan dengan Dongrang's attacks.\n- Jika Dongrang defeats unit ini, Dongrang kehilangan HP, peroleh 1 Emptiness, dan is weakened giliran berikutnya"
+    },
+    {
+      "id": 805701,
+      "name": "Borne Fruition",
+      "desc": "The unit that dikalahkan unit ini memulihkan sebanyak 5% dari Maks HP, dan peroleh 1 Haste dan 1 Attack Power Up giliran berikutnya"
+    },
+    {
+      "id": 805001,
+      "name": "Toward the Ideal",
+      "desc": "Ketika the HP is brought to 85% dan 50% dari Maks HP, masing-masing, spawns 2 Trees of Desires dan changes behavior."
+    },
+    {
+      "id": 806001,
+      "name": "Radiant Desire",
+      "desc": "Selama unit ini is present, Dongrang peroleh 1 Damage Up dan 1 Protection pada start of setiap giliran."
+    },
+    {
+      "id": 805004,
+      "name": "Price of Neglect",
+      "desc": "Jika 'Time of Harvest' kehilangan in a clash, kehilangan 5 SP"
+    },
+    {
+      "id": 805005,
+      "name": "Bitter Smile",
+      "desc": "Ketika in panic, peroleh 2 Protection dan reset SP ke 0 saat dimulainya giliran berikutnya."
+    },
+    {
+      "id": 805006,
+      "name": "Inefficient Judgement",
+      "desc": "Ketika pulih dari stagger, peroleh 1 Attack Power Up."
+    },
+    {
+      "id": 805007,
+      "name": "Exhausting Endeavor",
+      "desc": "Setelah menggunakan the skill Please Be My Nutrient 3 kali, menjadi staggered giliran berikutnya."
+    },
+    {
+      "id": 805002,
+      "name": "Toward the Ideal",
+      "desc": "Ketika the HP is brought to 85% dari Maks HP, spawns 2 Trees of Desires dan changes behavior."
+    },
+    {
+      "id": 805003,
+      "name": "Toward the Ideal",
+      "desc": "Ketika the HP is brought to 50% dari Maks HP, spawns 2 Trees of Desires dan changes behavior."
+    },
+    {
+      "id": 805801,
+      "name": "Fairy Lure",
+      "desc": "Ketika the fairy is attacked, hanya that part kehilangan HP."
+    },
+    {
+      "id": 805802,
+      "name": "Exposed Base",
+      "desc": "Ketika the fairy part rusak, the roots can be attacked giliran berikutnya.\nSemua bagian peroleh 1 Attack Power Up, 2 Bind, dan 3 Fragile giliran berikutnya."
+    },
+    {
+      "id": 805803,
+      "name": "Spare Lure",
+      "desc": "The fairy regenerates the giliran setelah the roots are exposed. (One time hanya)\nSetelah the roots are exposed 3 kali atau destroyed, unit is enraged."
+    },
+    {
+      "id": 805804,
+      "name": "Discovered Weakness",
+      "desc": "Jika the fairy has Tremor, it menerima damage sebanyak its Potency at akhir giliran. (Maks 20)"
+    },
+    {
+      "id": 805805,
+      "name": "Connected Weakness",
+      "desc": "Jika the part has Burn, it menerima damage lebih berdasarkan its Potency. (Maks +15%)"
+    },
+    {
+      "id": 805901,
+      "name": "Manufactured Respite",
+      "desc": "Jika the giant clover is present, unit ini memulihkan 30 HP at akhir giliran."
+    },
+    {
+      "id": 805902,
+      "name": "Lost Means",
+      "desc": "Ketika the arm rusak, unit peroleh 2 Attack Power Down setiap giliran."
+    },
+    {
+      "id": 805903,
+      "name": "Damaged Shade",
+      "desc": "Ketika bagian \"kepala\" rusak, unit peroleh 4 Defense Level Down dan 1 Fragile setiap giliran."
+    },
+    {
+      "id": 806201,
+      "name": "Contaminating Leaf",
+      "desc": "Pada the start of the giliran, beri 1 HP Healing Boost dan 1 Attack Power Up ke Fairy-Long-Legs."
+    },
+    {
+      "id": 80620101,
+      "name": "Contaminating Leaf",
+      "desc": "Pada the start of the giliran, beri 1 HP Healing Boost dan 1 Attack Power Up ke Fairy-Long-Legs."
+    },
+    {
+      "id": 826301,
+      "name": "Momentary Satiation",
+      "desc": "Akhir Giliran: Jika kawan dengan [PreparedMeat] berada pada 1 HP, kill kawan; lalu, semua Parts peroleh 5 [Vulnerable], [Reduction], dan [Disarming]."
+    },
+    {
+      "id": 826302,
+      "name": "Ravening Lapar",
+      "desc": "Awal Giliran: Jika terdapat kawan yang hidup at 25%- HP, kill semua kawan.\nPulihkan (# dari kawan killed x 5)% of maks \"Inti\" HP.\nAkhir Giliran: Jika tidak ada kawan yang hidup, peroleh 20 [Enhancement] giliran berikutnya."
+    },
+    {
+      "id": 826303,
+      "name": "Torn Arm",
+      "desc": "Ketika an Arm rusak, \"Tubuh\" peroleh 5 Bleed pada setiap Awal Giliran."
+    },
+    {
+      "id": 826304,
+      "name": "Invitation to a Meal",
+      "desc": "Akhir Giliran: Semua Sinner pulihkan 10 SP, dan peroleh +1 E.G.O resource untuk semua Affinities"
+    },
+    {
+      "id": 826501,
+      "name": "Empty Belly",
+      "desc": "Akhir Giliran: Jika kawan dengan [PreparedMeat] kena Stagger, kill kawan."
+    },
+    {
+      "id": 826502,
+      "name": "Bottomless Lapar",
+      "desc": "Setelah defeating kawan, pulihkan 20 \"Inti\" HP; lalu, peroleh 1 [Vulnerable] giliran berikutnya."
+    },
+    {
+      "id": 826503,
+      "name": "Lapar",
+      "desc": "Akhir Giliran: Jika unit ini failed to defeat kawan dengan Prepared Meat, peroleh 1 [Lapar]. Pada 75%- HP, peroleh 2. Pada 50%- HP, peroleh 3.\nAwal Giliran: Jika unit ini dikalahkan kawan dengan Prepared Meat, kehilangan 1 [Lapar]."
+    },
+    {
+      "id": 826504,
+      "name": "Momentary Satiation",
+      "desc": "Akhir Giliran: Pada 0 [Lapar], peroleh (kawan dikalahkan giliran ini x 3) [AttackDown] dan [DefenseDown]."
+    },
+    {
+      "id": 826505,
+      "name": "Ravening Lapar",
+      "desc": "Akhir Giliran: Pada 4 [Lapar], peroleh a stronger pattern."
+    },
+    {
+      "id": 811801,
+      "name": "Returning Masa Lalu",
+      "desc": "Jika at 50+ [AccumulatedPastMirror], dan jika \"Inti\"'s HP is kurang dari atau setara dengan 80%, \"Inti\" peroleh 200 HP sebanyak spending 50 [AccumulatedPastMirror] pada Akhir Giliran"
+    },
+    {
+      "id": 811802,
+      "name": "Misplaced Masa Lalu",
+      "desc": "Ketika the body rusak, habiskan semua Accumulated Masa Lalu.\nKetika the body rusak, semua Attack Types dan Affinities menjadi ineffective(0.5) terhadap the body starting giliran berikutnya hingga the end of this encounter."
+    },
+    {
+      "id": 811808,
+      "name": "Metronome",
+      "desc": "Jika the [AccumulatedPastMirror] adalah angka ganjil, peroleh 3 [Vulnerable] dan [AttackDmgUp]\nJika it adalah even number, peroleh 3 [Protection] dan [AttackDmgDown]"
+    },
+    {
+      "id": 826401,
+      "name": "Care",
+      "desc": "Awal Giliran: Pulihkan 15% dari maks HP"
+    },
+    {
+      "id": 826402,
+      "name": "Keep It Fresh",
+      "desc": "HP tidak turun di bawah 1"
+    },
+    {
+      "id": 124501,
+      "name": "The Queen's Defenders",
+      "desc": "Ketika unit ini gets attacked, terima -70% Skill damage, dan transfer that Skill's damage ke a acak kawan.\n(Prioritaskan kawan dengan [PreparedMeat]; tidak mengaktifkan jika tidak ada kawan; damage ini tidak dapat kill the affected kawan)"
+    }
+  ]
+}

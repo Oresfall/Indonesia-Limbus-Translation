@@ -1,0 +1,625 @@
+{
+  "dataList": [
+    {
+      "id": 2010111,
+      "name": "Silence",
+      "desc": "Ketika hit: Next giliran, peroleh 3 [Binding] dan beri +20% damage when attacking with an Attack Type atau Affinity target is Weak atau Fatal terhadap (sekali per giliran)"
+    },
+    {
+      "id": 2010211,
+      "name": "Ember",
+      "desc": "Pada Menang Clash, beri (Wrath A-Reson. / 2) [Combustion] (sekali per Skill)"
+    },
+    {
+      "id": 2010311,
+      "name": "Dol Hareubang",
+      "desc": "Peroleh 3 [HitTakeDamageDown] dan [AmberTakeDamageDown] setiap giliran"
+    },
+    {
+      "id": 2020111,
+      "name": "Ennui",
+      "desc": "Jika musuh terkena Stagger during serangan unit ini, beri +2 [MentalSystemResultIncrease_Typo] giliran berikutnya on kawan yang memiliki the least SP (3 kali per giliran)"
+    },
+    {
+      "id": 2020211,
+      "name": "Liquid Veil",
+      "desc": "Awal Giliran: Beri 2 [Protection] ke kawan yang memiliki the least HP (termasuk unit ini)"
+    },
+    {
+      "id": 2020311,
+      "name": "It Hurts!",
+      "desc": "Beri +10% damage untuk setiap type of efek negatif on unit ini (maks 50%)"
+    },
+    {
+      "id": 2030111,
+      "name": "Immoderate Passion",
+      "desc": "Saat Serang, jika target memiliki [Laceration], pulihkan 3 HP"
+    },
+    {
+      "id": 2030211,
+      "name": "Wave of Depression",
+      "desc": "The target of the rightmost Skill on the Dashboard loses (2 x Gloom A-Reson.) SP at the Skill's Akhir Serangan (targets that are Non-SP Units terima Gloom damage saja)"
+    },
+    {
+      "id": 2040111,
+      "name": "Art",
+      "desc": "Beri dan terima +5% damage untuk setiap musuh unit ini defeated last giliran"
+    },
+    {
+      "id": 2040211,
+      "name": "4th Match Flame",
+      "desc": "Every 4th Skill unit ini uses memperoleh Final Power +4 dan memberikan 4 [Combustion] Saat Serang"
+    },
+    {
+      "id": 2040212,
+      "name": "4th Match Flame",
+      "desc": "Every 4th Skill unit ini uses memperoleh Final Power +4 dan memberikan 4 [Combustion] Saat Serang\n- Jika Skill tersebut is a Wrath Skill, beri +([Combustion] Potency pada semua target / 2)% tambahan damage (maks 20%)\n- Jika Skill tersebut adalah E.G.O Skill, beri efek berikut at Coin Start of the first Coin:\n· Jika the said Coin is a Plus Coin, pulihkan 10 SP\n· Jika the said Coin is a Minus Coin, lose 15 SP (efek ini tidak bisa kurangi SP unit ini di bawah -40)",
+      "summary": "Every 4th Skill used is enhanced"
+    },
+    {
+      "id": 2050111,
+      "name": "Refusal to Judge",
+      "desc": "Awal Pertarungan: Peroleh 3 [Protection] jika unit ini is targeted by 3 atau lebih Skill"
+    },
+    {
+      "id": 2050211,
+      "name": "Augmentasi Akhir",
+      "desc": "Jika the E.G.O Skill <Screwloose Wallop> is used when unit ini ada pada kurang dari 25% HP, unit ini memperoleh 3 [Enhancement], [Endurance], dan [Agility] setiap giliran, but mati in 3 giliran"
+    },
+    {
+      "id": 2050311,
+      "name": "Revelation dari Above",
+      "desc": "Setelah menang Clash with the leftmost Skill on the Dashboard, beri 1 [Enhancement] atau [Endurance] to a acak kawan giliran berikutnya"
+    },
+    {
+      "id": 2060111,
+      "name": "Ripple",
+      "desc": "Awal Pertarungan: Pulihkan (unit ini's highest A-Reson.) SP for kawan yang memiliki the least SP, mengecualikan kawan yang Panik"
+    },
+    {
+      "id": 2060211,
+      "name": "Binding Ribbons",
+      "desc": "Beri (Lust A-Reson. / 4) [ScarletTakeDamageUp] giliran berikutnya pada target of the leftmost Skill on the Dashboard at the Skill's Akhir Serangan"
+    },
+    {
+      "id": 2070111,
+      "name": "Vying Spirit",
+      "desc": "Ketika another kawan defeats musuh, peroleh 1 [Enhancement] dan 1 [Agility] at the next Awal Giliran (maks 3)"
+    },
+    {
+      "id": 2070211,
+      "name": "Roar",
+      "desc": "On Enemy Kill, peroleh +(the giliran's A-Reson. Envy / 2) Count [Charge]"
+    },
+    {
+      "id": 2080111,
+      "name": "Paksaan",
+      "desc": "Di dalam Clash:\n- Jika win rate is Favored atau above, Clash Power +2\n- Jika win rate is Struggling atau di bawah, Clash Power -2"
+    },
+    {
+      "id": 2080211,
+      "name": "Pink Ribbons",
+      "desc": "Pada Menang Clash, beri 1 [PinkRibbon_Ishmael]"
+    },
+    {
+      "id": 2080311,
+      "name": "Shower of Fire",
+      "desc": "On hit, jika target memiliki [Combustion], beri 1 [Combustion] on 3 musuh acak"
+    },
+    {
+      "id": 2090111,
+      "name": "Severance",
+      "desc": "+1 [MentalSystemResultIncrease_Typo], -1 [MentalSystemResultDecrease_Typo]"
+    },
+    {
+      "id": 2090211,
+      "name": "Spark of Flame",
+      "desc": "Setelah defeating musuh yang memiliki [Combustion], pulihkan (Wrath A-Reson.)% HP"
+    },
+    {
+      "id": 2090311,
+      "name": "Coldness",
+      "desc": "On hit, jika target memiliki 5+ [Sinking], beri 1 [Binding] dan [Reduction] giliran berikutnya\n(3 kali per unit)"
+    },
+    {
+      "id": 2100111,
+      "name": "Unstable",
+      "desc": "Jika a Coin hits with a different side dari the previous Coin of the same Skill, kehilangan 5 SP dan peroleh 1 [AttackDmgUp] giliran ini (3 kali per giliran)"
+    },
+    {
+      "id": 2100211,
+      "name": "Live Offering",
+      "desc": "Setelah defeating musuh with an attack atau counter skill, peroleh 5 E.G.O resources of that skill’s Affinity."
+    },
+    {
+      "id": 2110111,
+      "name": "Tactical Perfection",
+      "desc": "Peroleh 1 [AttackDmgUp] giliran berikutnya jika unit ini isn't hit during a giliran. Peroleh 1 lebih banyak [AttackDmgUp] with setiap consecutive giliran unit ini isn't hit (maks 3)"
+    },
+    {
+      "id": 2110211,
+      "name": "Stem of Distrust",
+      "desc": "Peroleh 1 [PenetrateDamageUp] setiap giliran\nHeads Hit: Beri 1 [Binding] dan +1 [Burst] Count giliran berikutnya"
+    },
+    {
+      "id": 2110311,
+      "name": "Emptying",
+      "desc": "Peroleh 1 [ScarletDamageUp] setiap giliran\nPeroleh 1 lebih banyak when unit ini memiliki kurang dari 0 SP"
+    },
+    {
+      "id": 2120111,
+      "name": "Uncontrolled Morph",
+      "desc": "Awal Giliran: Pada kurang dari 25% HP, pulihkan 15 HP dan peroleh 2 [Protection]\nKetika the above effect activates, beri +2 [MentalSystemResultDecrease_Typo] on 1 acak other kawan dan 1 acak enemy"
+    },
+    {
+      "id": 2120211,
+      "name": "Belatung",
+      "desc": "Saat Serang, beri 5 [Muckworm] with a (Gluttony A-Reson. x 8)% peluang"
+    },
+    {
+      "id": 2120311,
+      "name": "Nutrient Absorption",
+      "desc": "Setelah defeating musuh yang memiliki [Burst], pulihkan (Gluttony A-Reson.)% HP."
+    },
+    {
+      "id": 2030311,
+      "name": "Haphazard Discharge",
+      "desc": "Awal Pertarungan: A acak kawan yang memiliki [Charge] memperoleh +(A-Reson. Envy / 2) Count [Charge]"
+    },
+    {
+      "id": 2020411,
+      "name": "Adaptive Release",
+      "desc": "Jika unit ini memiliki [Charge], beri +2% damage untuk setiap Count [Charge].\nSkills konsumsi -2 Count [Charge]."
+    },
+    {
+      "id": 2030411,
+      "name": "Cauldron of Gorging",
+      "desc": "Awal Giliran: Ubah 2 acak non-Lust E.G.O resources menjadi 1 Lust resource"
+    },
+    {
+      "id": 2100311,
+      "name": "Stew Spewage",
+      "desc": "On Tails Hit, beri 1 [Combustion] jika target is musuh"
+    },
+    {
+      "id": 2010411,
+      "name": "Rambling Man",
+      "desc": "Awal Giliran: Jika unit ini menerima no damage last giliran, peroleh +4 Count [Charge].\nSaat Menyerang terhadap musuh that memiliki slower Speed, beri +1 [Burst] Count (3 kali per giliran)."
+    },
+    {
+      "id": 2060311,
+      "name": "Entangled Phenomena Restoration",
+      "desc": "Saat Serang terhadap musuh yang memiliki negative status effects, peroleh +1 Count [Charge] (4 kali per giliran).\nKetika HP jatuh ke nilai 0, konsumsi semua Count [Charge] dan pulihkan HP berdasarkan Stack terkonsumsi (sekali per Pertarungan; maks 25% HP)"
+    },
+    {
+      "id": 2050411,
+      "name": "Untempered Agitation",
+      "desc": "Awal Pertarungan: Jika unit ini is targeted by 2 atau lebih Skill, unit ini’s Skill peroleh +1 Base Power; Ketika diserang, beri 1 [Combustion] on penyerang (5 kali per giliran)"
+    },
+    {
+      "id": 2080411,
+      "name": "Slaying Amid Cheers",
+      "desc": "Ketika attacking a target yang memiliki kurang dari 30% HP, Wrath Skill beri +20% damage"
+    },
+    {
+      "id": 2110411,
+      "name": "Breath of the Hunt",
+      "desc": "Setelah a clash, peroleh 2 [Breath]\nKetika staggered, peroleh 2 [Protection]; when recovering dari stagger, peroleh 5 [Breath]"
+    },
+    {
+      "id": 2070311,
+      "name": "Temperamental Discharge",
+      "desc": "Ketika hit, konsumsi 1 Count [Charge] to pulihkan 2.5% HP\nPada kurang dari 40% HP, peroleh +1 Count [Charge] before activating the healing effect (can peroleh hingga 10 Count [Charge] per giliran)"
+    },
+    {
+      "id": 2120411,
+      "name": "Alternating Discharge",
+      "desc": "Pada Coin Kepala, konsumsi 2 Count [Charge] to beri +1 Count [Charge] on the [Charge]-possessing kawan yang memiliki the lowest Count [Charge]"
+    },
+    {
+      "id": 2010511,
+      "name": "Ray of Sun Setelah Rain",
+      "desc": "Awal Giliran: Semua kawan pulihkan 3 SP"
+    },
+    {
+      "id": 2040311,
+      "name": "Spider's Webs",
+      "desc": "Pada Menang Clash, beri 1 [Binding] giliran berikutnya (3 kali per giliran)"
+    },
+    {
+      "id": 2040411,
+      "name": "Predator",
+      "desc": "Jika unit ini healed lebih banyak than 10% of its Maks HP giliran ini, peroleh 1 [Enhancement] giliran berikutnya."
+    },
+    {
+      "id": 2040511,
+      "name": "Opened Can",
+      "desc": "Saat Serang, jika target memiliki 5+ [Sinking], beri 1 [Disarming]. (5 kali per giliran)"
+    },
+    {
+      "id": 2060411,
+      "name": "Seagull Squawking Of The Distant Seas",
+      "desc": "Ketika musuh dikalahkan, kawan yang memiliki the least SP memulihkan 1 SP\nKetikaever musuh dikalahkan, the amount of SP healed increases by 2 (maks 9)\nThe amount above is reset at the start of a new wave"
+    },
+    {
+      "id": 2100411,
+      "name": "Fairy Lure",
+      "desc": "Setelah defeating musuh that main-targets unit ini at Awal Pertarungan, pulihkan (3 + (Gluttony A-Reson.))% HP"
+    },
+    {
+      "id": 2070411,
+      "name": "Dhyāna",
+      "desc": "Naikkan Maks HP setara dengan 15% of this Identitas's base Maks HP when recovering dari Stagger.\nThen, pulihkan 15% of current Maks HP. Jika unit ini memiliki kurang dari 30% of its current Maks HP, pulihkan 25% of current Maks HP saja (3 kali per Pertemuan. Pada Pertemuan End, revert to base Maks HP. Current HP value will be adjusted to reflect the HP percentage at the time of Pertemuan End)"
+    },
+    {
+      "id": 2050511,
+      "name": "Bound Wrath",
+      "desc": "Base Power -1 dan Coin Power +2 to the leftmost Skill on unit ini's Dashboard\nMulai Giliran: Pada 4- Speed, Peroleh 1 [HitResultUp]"
+    },
+    {
+      "id": 2020511,
+      "name": "Flamebrand",
+      "desc": "Pada Coin Kepala with a Lust affinity Skill, beri 1 [Combustion] pada target (6 kali per giliran)"
+    },
+    {
+      "id": 2060511,
+      "name": "Green Slime",
+      "desc": "Jika struck at kurang dari 50% HP, beri 1 [Burst] on penyerang. (Activates (Highest Gluttony A-Reson) kali per giliran)"
+    },
+    {
+      "id": 2040611,
+      "name": "Dream Devouring",
+      "desc": "Saat Crit with a Pride affinity Skill, peroleh 1 Count [Breath] (3 kali per giliran)"
+    },
+    {
+      "id": 2080511,
+      "name": "Temeritous Voyage",
+      "desc": "Pada the end of the giliran, beri 5 [Sinking] to 1 other kawan with HP terendah; Beri 1 [Agility] dan 3 [AttackUp] giliran berikutnya"
+    },
+    {
+      "id": 2090411,
+      "name": "Sticky Filth",
+      "desc": "Pada Coin Kepala with a Pierce Skill, beri 1 [Binding] (2 kali per giliran)"
+    },
+    {
+      "id": 2100511,
+      "name": "Prophecy of Ruin",
+      "desc": "Pada Coin Kepala with a Lust affinity Skill, lower unit ini dan the SP target sebanyak 4.\n(Tidak work terhadap targets that are Non-SP Units)\nPeroleh 5 Lust E.G.O resources On Kill with a Lust affinity Skill"
+    },
+    {
+      "id": 2090511,
+      "name": "Sentencing dari Above",
+      "desc": "Whenever musuh terkena Stagger, kawan with the least HP percentage memulihkan 4% of their Maks HP. (Once per giliran)"
+    },
+    {
+      "id": 2070511,
+      "name": "Infinite Hatred",
+      "desc": "Ketika unit ini memiliki status effect atau efek negatif, dan jika target utama atau penyerang memiliki positive effect:\n- Beri +1 lebih [Combustion], [Laceration], [Vibration], [Burst], dan [Sinking] Potency to self dan musuh dengan Skill effects atau Coin effects\n- Peroleh +1 lebih [Breath] dan Count [Charge] dengan Skill effects atau Coin effects"
+    },
+    {
+      "id": 2110511,
+      "name": "Fair Presents",
+      "desc": "Ketika applying positive effects to other kawan dengan Skill effects atau Coin effects, secara acak select one of efek berikut: [Combustion], [Laceration], [Vibration], [Burst], atau [Sinking].\nThen, beri 1 Potency of the selected effect to 1 acak enemy. (Activates 5 kali per Giliran. Can be applied hingga 5 kali per enemy. Untuk abnormalities, applied to a acak Bagian.)"
+    },
+    {
+      "id": 2030511,
+      "name": "Fallen Stone Pagoda",
+      "desc": "Peroleh 2 [Breath] dan +2 Count [Breath] when defeating musuh yang memiliki [Laceration] (3 kali per giliran)"
+    },
+    {
+      "id": 2120511,
+      "name": "Crown of Roses",
+      "desc": "Awal Giliran: Beri 2 [Burst] Potency on a acak enemy(In Focused Encounters, semua parts)\nKetika activating Absolute Resonance, beri 2 [Burst] Potency pada semua musuh at Awal Pertarungan"
+    },
+    {
+      "id": 2120611,
+      "name": "Jika I Could Go Back...",
+      "desc": "Akhir Serangan: Jika target dikalahkan after serangan unit ini, peroleh 1 bahan E.G.O for the least-owned bahan E.G.O.\nPeroleh 1 tambahan bahan E.G.O untuk setiap 5 ([Sinking] Potency + Count) (maks 3)\n(Jika terdapat 2 atau lebih \"least-owned bahan E.G.O\", select 1 dari those Affinities at acak untuk peroleh an bahan E.G.O)"
+    },
+    {
+      "id": 2010611,
+      "name": "Fractured Yesterday",
+      "desc": "Jika target memiliki 6+ [Sinking] Potency, Clash Power +1\nJika target memiliki 4+ Count [Sinking], Clash Power +1"
+    },
+    {
+      "id": 2030611,
+      "name": "Tempestuous Screaming",
+      "desc": "Jika target dikalahkan at unit ini's Slash atau Envy Affinity Skill End, peroleh 1 [Enhancement] giliran berikutnya (sekali per giliran)"
+    },
+    {
+      "id": 2050611,
+      "name": "Overloading Cables",
+      "desc": "Awal Pertarungan: Pada 4+ Reson., peroleh 2 [AttackUp] dan 2 [DefenseUp].\nJika the Reson. was an Reson. Envy, beri the above effects to the 2 unit adjacent to unit ini on the Dashboard juga"
+    },
+    {
+      "id": 2070611,
+      "name": "Chains of Binding",
+      "desc": "- Awal Pertarungan: Pada 4+ Reson. tertinggi that includes unit ini's Skill, beri 3 [AttackUp] dan 3 [DefenseUp] to self dan semua kawan who were a part of that Reson.\n- Jika the said Reson. was an A-Reson., beri 2 tambahan [AttackUp] dan [DefenseUp]"
+    },
+    {
+      "id": 2110611,
+      "name": "Grand Welcome",
+      "desc": "Akhir Serangan: Jika target unit ini attacked terkena Stagger atau defeated, peroleh +1 Pride bahan E.G.O dan +1 bahan E.G.O untuk 1 other acak Affinity (3 kali per giliran)"
+    },
+    {
+      "id": 2080611,
+      "name": "Gluttony",
+      "desc": "Jika target utama menerima damage HP giliran ini dan isn't at maks HP at Skill Use:\nSaat Menyerang,\n- Ketika unit ini ada pada maks HP, beri +5~+10% damage.\n- Ketika unit ini isn't at maks HP, pulihkan 2~5 HP. \n(7 kali per giliran)",
+      "summary": "Jika target isn't at maks HP, beri lebih banyak damage Saat Serang atau pulihkan HP Saat Serang"
+    },
+    {
+      "id": 2090611,
+      "name": "Obsession",
+      "desc": "This unit's leftmost Skill on the Dashboard memberikan double the [Laceration] Potency (sekali per giliran)",
+      "summary": "Skill ini Memberikan x2 [Laceration] Potency"
+    },
+    {
+      "id": 2060611,
+      "name": "Gloominess",
+      "desc": "Ketika unit ini menggunakan Skill untuk aktifkan [VibrationExplosion] pada musuh, beri 1 [AttackDown] dan 2 [DefenseDown] pada musuh giliran berikutnya. (3 kali per giliran, termasuk E.G.O Skill)",
+      "summary": "Ketika mengaktifkan [VibrationExplosion], beri 1 [AttackDown] dan 2 [DefenseDown] giliran berikutnya"
+    },
+    {
+      "id": 2100611,
+      "name": "Tear Film",
+      "desc": "Awal Giliran: Jika unit ini memiliki Perisai, peroleh 1 [Protection]\nJika unit ini is under [ShieldManagerCryingToad]'s effect, peroleh 1 tambahan [Protection]",
+      "summary": "Jika unit ini memiliki Perisai, peroleh 1 [Protection]\nJika [ShieldManagerCryingToad] is active, peroleh 1 [Protection]"
+    },
+    {
+      "id": 2020611,
+      "name": "Running Time",
+      "desc": "Ketika unit ini menggunakan Skill untuk aktifkan [VibrationExplosion] pada musuh, peroleh 1 [Agility] giliran berikutnya. (4 kali per giliran, termasuk E.G.O Skill)",
+      "summary": "Ketika menggunakan a Skill to aktifkan [VibrationExplosion] pada musuh, peroleh 1 [Agility] giliran berikutnya. (4 kali per giliran, termasuk E.G.O Skill)"
+    },
+    {
+      "id": 2040711,
+      "name": "Mark of the Tatapan",
+      "desc": "Whenever unit ini uses a base Attack Skill terhadap musuh, peroleh 1 tambahan bahan E.G.O for a acak, least-owned Affinity that doesn't correspond to the Affinity of the Attack Skill used (2 kali per giliran)"
+    },
+    {
+      "id": 2070711,
+      "name": "Crushed Pendant",
+      "desc": "Awal Pertarungan: Pada 3+ Reson. tertinggi, peroleh 3 [Breath]."
+    },
+    {
+      "id": 2110711,
+      "name": "Rambling Man",
+      "desc": "Maks Count [Charge] +5\nSkills that konsumsi Count [Charge] beri +2% damage untuk setiap ([Charge] - 1) (maks 10%)",
+      "summary": "Skill that konsumsi Count [Charge] beri lebih banyak damage"
+    },
+    {
+      "id": 2120711,
+      "name": "Lament",
+      "desc": "Akhir Giliran: jika unit ini memiliki efek negatif, peroleh 1 [Enhancement] giliran berikutnya\nKetika menyerang targets that are either in Panic atau in E.G.O Corrosion: beri +15% damage",
+      "summary": ""
+    },
+    {
+      "id": 2080711,
+      "name": "Interloper Reception",
+      "desc": "Jika target memiliki [UninvitedGuestPersonality] atau any of the Panic Type changing effects, Clash Power +1.\nSaat Menyerang terhadap the said target, pulihkan 1 kawan with the least SP for 5 SP. (sekali per giliran)"
+    },
+    {
+      "id": 2020711,
+      "name": "Sprawling Lasso",
+      "desc": "Akhir Serangan: Jika target terkena Stagger atau defeated, beri +1 [Burst] Count terhadap 2 musuh acak (sekali per giliran; tidak bisa stack; in Focused Encounters, terhadap 2 acak Parts)",
+      "summary": "Akhir Serangan: Jika target terkena Stagger atau defeated, beri +1 [Burst] Count terhadap 2 musuh acak"
+    },
+    {
+      "id": 2060711,
+      "name": "Time to Hunt",
+      "desc": "Jika musuh atau an kawan is killed akibat [Burst] atau [Laceration] damage, beri 2 [Snare] terhadap a acak enemy, dan peroleh 1 [Agility] giliran berikutnya (sekali per giliran)"
+    },
+    {
+      "id": 2030711,
+      "name": "Spiring Crimson Blossom",
+      "desc": "Every time 10+ [Laceration] damage occurs, pulihkan 1 SP pada diri sendiri (10 per giliran)"
+    },
+    {
+      "id": 2090711,
+      "name": "Iron Stake terhadap the Heart",
+      "desc": "Ketika memberikan [Laceration] atau 'Unique Bleed' terhadap musuh with Skill Serangan Dasar, beri 1 [DefenseDown] (sekali per giliran)\n- Jika target memiliki [Laceration] atau 'Unique Bleed', beri tambahan 2 [Laceration] (sekali per giliran)\n\nJika an kawan, termasuk unit ini, takes direct HP damage dari musuh, beri 1 [Curse] terhadap target enemy (2 kali per giliran)",
+      "summary": ""
+    },
+    {
+      "id": 2100711,
+      "name": "Grimy Hide",
+      "desc": "Awal Pertarungan: jika unit ini memiliki efek negatif, peroleh 1 [ParryingResultUp] dan 1 [Endurance]\n- Peroleh 1 [Protection] untuk setiap 3 efek negatif pada diri sendiri (maks 2)"
+    },
+    {
+      "id": 2050711,
+      "name": "Bloodthirsty Banquet",
+      "desc": "Ketika unit ini memberikan atau takes [Laceration] damage, pulihkan HP setara dengan the [Laceration] damage (maks 10 per giliran)\n- Ketika activating a Skill/Coin effect that memberikan [Laceration], jika target memiliki [RoseWedge], beri 1 [Laceration] terhadap target. (2 kali per giliran)"
+    },
+    {
+      "id": 2010711,
+      "name": "Next",
+      "desc": "Akhir Serangan: Jika target is killed, peroleh +2 Count [Breath] (2 kali per giliran)"
+    },
+    {
+      "id": 2070811,
+      "name": "Broken Bell",
+      "desc": "Beri [Vulnerable] giliran ini pada musuh who were hit by [VibrationExplosion] dari Skill, Coin, atau Passive effects.\n- Tidak stack with E.G.O Gifts that beri [Vulnerable] upon mengaktifkan [VibrationExplosion]. (Jika the said E.G.O Gifts have been enhanced, subtract nilai efek ini dari the final value before memberikan it.)",
+      "summary": "Beri 1 [Vulnerable] upon mengaktifkan [VibrationExplosion] "
+    },
+    {
+      "id": 2080811,
+      "name": "A Tatapan in the Shadows",
+      "desc": "Allies peroleh +1 lebih Count [Vibration] dari Skill atau Coin effects (2 kali per giliran)\n- Jika kawan's target is in terkena Stagger, Low Morale, atau Panic states, peroleh +2 lebih banyak saja\n- Effect does not stack with E.G.O Gifts of an identical effect."
+    },
+    {
+      "id": 2120811,
+      "name": "Insomniac Night",
+      "desc": "Awal Pertarungan: terhadap semua musuh, beri 1 [AttackDown] atau 1 [DefenseDown] to semua musuh (# of musuh in terkena Stagger, Low Morale, atau Panic states) times. (2 kali per giliran)\n- Effect does not stack with E.G.O Gifts with the same effect."
+    },
+    {
+      "id": 2110811,
+      "name": "Seven Bullets",
+      "desc": "- Saat Serang with Skill Serangan Dasar: beri ([FreischutzShotCount] / 3) [Combustion] (3 kali per giliran)\n- Untuk Lobotomy E.G.O::Magic Bullet[TabExplain] Outis Identitas, beri ([FreischutzShotCount]) [Combustion] saja (3 kali per giliran)\n- Jika target memiliki 30+ [Combustion], beri 1 [DarkFlame] saja of the above effect (2 kali per giliran)"
+    },
+    {
+      "id": 2040811,
+      "name": "Breath",
+      "desc": "Next Awal Giliran after menggunakan this E.G.O Skill: peroleh 1 [NebulizerInhale] (sekali per giliran)\n- Jika Skill ini defeated musuh, peroleh tambahan [NebulizerInhale] setara dengan jumlah dari targets defeated\n- Jika Skill ini defeated kawan, peroleh (targets defeated x 2) tambahan [NebulizerInhale]\n- This value Stack over this Pertemuan's duration"
+    },
+    {
+      "id": 2020811,
+      "name": "Breath",
+      "desc": "Next Awal Giliran after menggunakan this E.G.O Skill: peroleh 1 [NebulizerExhale] (sekali per giliran)\n- This value Stack throughout Pertemuan\n\nAwal Pertarungan: peroleh 1 [NebulizerExhale] tiap kali unit ini applies 10 Count [Breath] to kawan yang memiliki [NebulizerExhale] effects\n\nAkhir Giliran: starting dari kawan with HP terendah percentages, pulihkan ([NebulizerExhale] Stack)% HP for (Reson. tertinggi) kawan (maks 6)\n- Jika the unit receiving healing has 20+ Potency [Breath], aktifkan healing 1 lebih banyak time"
+    },
+    {
+      "id": 2090811,
+      "name": "Blazing Amusement",
+      "desc": "Ketika a target yang memiliki 10+ [Combustion] Count dikalahkan, beri the [Combustion] Count pada target between semua musuh dan pulihkan 8 SP pada diri sendiri (in Focused Encounters, between semua Parts; 3 maks per target, 2 kali per giliran)\n- Pada maks SP, pulihkan 5 SP untuk 1 kawan yang memiliki the least SP saja"
+    },
+    {
+      "id": 2030811,
+      "name": "Enfeebling Talisman",
+      "desc": "Saat Serang with unit ini's Skill: jika target either has 15+ [Burst], atau jika unit ini dealt a Critical Hit, beri 1 [DefenseDown] (maks 6)\n- Ketika this Passive activates, its effects do not stack with the effects of E.G.O Gift \"Old Wooden Doll\"."
+    },
+    {
+      "id": 2080911,
+      "name": "Reversal Death by Gu Racun",
+      "desc": "Whenever unit ini memberikan [Sinking] Potency, Count [Sinking], atau 'Sinking Unik' menggunakan its Attack Skill, peroleh 1 [AttackUp] giliran berikutnya (maks 2)\n- Pada 3+ A-Reson., with the same conditionals, peroleh 1 [AttackUp] giliran berikutnya saja (maks 3)"
+    },
+    {
+      "id": 2060811,
+      "name": "Crying Tears",
+      "desc": "Jika target dikalahkan after unit ini's Attack atau Counter Skill:\n- Peroleh 2 [Agility] giliran berikutnya (sekali per giliran)\n- To semua kawan, termasuk unit ini: giliran berikutnya, beri 1 DMG Naik to the Damage Type & Affinity of the Skill used to aktifkan efek ini (sekali per giliran)\n- Beri 1 [Reduction] to semua musuh giliran berikutnya (sekali per giliran)\n\nKetika unit ini mati:\n- Beri 1 [ShamrockDamageUp] dan [PenetrateDamageUp] to semua kawan giliran berikutnya (sekali per giliran)\n- Beri 1 [Reduction] to semua musuh giliran berikutnya (sekali per giliran)"
+    },
+    {
+      "id": 2100811,
+      "name": "Crying Tears",
+      "desc": "- Akhir Giliran: Jika unit ini had efek negatif atau lost its HP atau SP, pulihkan 5 SP.\n- Jika unit ini atau an kawan dikalahkan, beri 1 [Vulnerable] to semua musuh giliran berikutnya (sekali per giliran)"
+    },
+    {
+      "id": 2030911,
+      "name": "Arcana Aptitude Circuit",
+      "desc": "Peroleh 1 [Charge] tiap kali unit ini konsumsi 10 cumulative Count [Charge]\n- Jika unit ini already memperoleh [Charge] by consuming Count [Charge] pada diri sendiri, efek ini does not stack with that effect\n- This unit's Skill Serangan Dasar that konsumsi Count [Charge]: beri +5% damage untuk setiap [Charge] pada diri sendiri (maks 25%)\n\nJika unit ini is Lobotomy E.G.O::In the Name of Love dan Hate Don Quixote, peroleh 1 tambahan Skill 3 gunakan"
+    },
+    {
+      "id": 2050811,
+      "name": "Metronome",
+      "desc": "Awal Giliran: in odd-numbered giliran, peroleh 1 [AttackDmgUp]; in even-numbered giliran, peroleh 1 [Protection]\n- Tidak stack with the Metronome E.G.O Gift. (Jika the said E.G.O Gift ada pada an enhanced state, its effect subtracts the values memperoleh dari efek ini)\n- Tidak affect the instances of its effect applied to other kawan\n\nKetika menggunakan E.G.O Skill, peroleh 1 [AccumulatedPastSinner] giliran berikutnya (sekali per Pertarungan)\n- Peroleh 1 [AccumulatedPastSinner] at setiap subsequent Akhir Giliran"
+    },
+    {
+      "id": 2020911,
+      "name": "Doctor",
+      "desc": "Awal Giliran: pulihkan self dan 1 kawan with HP terendah percentage by ([CuredFilm] Stack)% of unit ini's maks HP\n- Jika unit ini ada pada maks HP, pulihkan 2 other kawan with HP terendah percentages saja\n- Jika the pulihkan-receiving unit are at 25% atau lower HP, atau are terkena Stagger, multiply efek ini's healing by 1.5\n\nAkhir Giliran: jika the last E.G.O Skill Faust used during this Pertemuan was Command : Meltdown, lose only 1 Stack of [CuredFilm] pada Akhir Giliran saja\n- Efek ini activates in the same giliran the E.G.O Skill is used",
+      "summary": "Awal Giliran: pulihkan self dan 1 kawan with HP terendah percentage"
+    },
+    {
+      "id": 2060911,
+      "name": "So is Writ, an Ode to Wine",
+      "desc": "Akhir Giliran: among the E.G.O resources terkonsumsi untuk menggunakan To Remain Oneself Hong Lu(Sloth, Gloom, Pride), peroleh 1 bahan E.G.O of the least-owned Affinity.\n\nBeri +1% damage untuk setiap [Cianjing] atau [SeniorCianjing] Stack yang hilang atau terkonsumsi in this Pertemuan (maks 15%)",
+      "summary": "Akhir Giliran: peroleh E.G.O resources\nBeri lebih banyak damage berdasarkan how much Thunderer atau Higher Thunderer was lost atau terkonsumsi"
+    },
+    {
+      "id": 2081011,
+      "name": "Abyssal Dance",
+      "desc": "- Awal Pertarungan: jika there is just a single enemy, unit ini's leftmost Attack Skill on the Dashboard memperoleh Clash Power +1, dan memberikan +11.5% damage on Hit setelah Menang Clash (termasuk E.G.O Skill)\n- Untuk the giliran in which unit ini Returned atau Substituted in: Min & Maks Speed +1, Clash Power +1"
+    },
+    {
+      "id": 2120911,
+      "name": "Wanderer",
+      "desc": "Peroleh [MlynarWaiting] when meeting one of the following conditions:\n- Peroleh 1 untuk setiap 3 HP damage taken\n- Peroleh 1 untuk setiap 5 Perisai HP damage taken\n- Peroleh 10 per terkena Stagger kawan when other kawan menjadi terkena Stagger\n- Peroleh 20 per dead kawan when other kawan are killed\n\nMulai Giliran: jika unit ini terkena Stagger karena damage, dan jika unit ini memiliki 40+ [MlynarWaiting], fix semua of unit ini's Resistance values to 2 untuk giliran tersebut dan pulih dari Stagger (sekali per Pertarungan; mengecualikan Stagger paksa)"
+    },
+    {
+      "id": 2110911,
+      "name": "Loser's Penalty: Voodoo",
+      "desc": "Pada Menang Clash, beri 4 Envy damage ke target\n- Pada kurang dari 33% HP, atau jika target memiliki kurang dari 33% HP, beri 1 [ResultReduction] giliran berikutnya (sekali per giliran)\n- This Passive's effect does not beri [ResultReduction] in the same giliran the E.G.O Gift <noparse>Voodoo Doll</noparse> activated",
+      "summary": "Clash Win: Beri Envy damage\nJika kondisi terpenuhi, beri [ResultReduction] giliran berikutnya"
+    },
+    {
+      "id": 2070911,
+      "name": "Circuit Wiring",
+      "desc": "Saat Serang with Skill that beri [Combustion] Potency atau 'Burn Unik[TabExplain]', atau Saat Serang with Envy Skill: Beri tambahan [Combustion] Potency pada target sebanyak setengah dari the Skill's total Coin (rounded up; maks 3 kali per giliran)"
+    },
+    {
+      "id": 2010811,
+      "name": "Skyweaving",
+      "desc": "Jika target memiliki [ThreeMirrorpartYiSang], beri +1 lebih [Combustion] Potency dan [Sinking] Potency with unit ini's Skill Serangan Dasar (hingga a total of 8 tambahan Potency per giliran)\nFor setiap enemy killed akibat damage [Combustion], peroleh a \"DMG Naik\" giliran berikutnya for a acak Attack Type (3 per giliran; randomized for each instance)",
+      "summary": "Memberikan lebih banyak [Combustion] dan [Sinking] Potency to musuh with [ThreeMirrorpartYiSang]\nFor setiap enemy killed by damage [Combustion], peroleh DMG Naik for a acak Attack Type"
+    },
+    {
+      "id": 2040911,
+      "name": "Sanzu [三途]",
+      "desc": "Setelah menggunakan an Attack Skill, jika musuh terkena Stagger atau defeated, peroleh 1 [CriticalDamageUp] giliran berikutnya (3 kali per giliran)",
+      "summary": ""
+    },
+    {
+      "id": 2100911,
+      "name": "That... was Indeed a Rhythm",
+      "desc": "Awal Giliran: Peroleh 2 [ThatIsRhythm]\n\nOn Target Kill: This unit memulihkan 5% HP dan 5 SP (sekali per giliran)\n- Jika target was killed by E.G.O Skill - Harmony, double the amount efek ini memulihkan\n\nAkhir Giliran: Jika unit ini kehilangan SP giliran ini, pulihkan (4 + sum of [Combustion] dan [Laceration] pada semua musuh / 10) SP (maks 10; dibulatkan ke bawah)"
+    },
+    {
+      "id": 2021011,
+      "name": "Unsnuffed Embers",
+      "desc": "Efek ini triggers immediately after menggunakan E.G.O Skill\n\nFor setiap 10 [Combustion] pada diri sendiri, increase [Combustion] Potency inflicted pada musuh with unit ini's efek Skill Serangan Dasar dan Coin effects by 1 (maks 2, mengecualikan 'Burn Unik')\n\nKetika unit ini uses 'A.B.S Maks Attunement 【Degraded Corrosion】'  Skill, unit ini does not die at the Skill's Akhir Serangan; saja, pulihkan 40% HP dan peroleh 2 [HitDamageUp] dan 1 [CrimsonDamageUp] giliran berikutnya (sekali per Pertarungan)"
+    },
+    {
+      "id": 2090911,
+      "name": "What Distinguishes Moths dari Butterflies",
+      "desc": "Jika Skill paling kiri unit ini Serangan Dasar on the Dashboard is a Wrath atau a Lust Skill, at Akhir Serangan, beri 30% of the damage dealt terhadap target utama with that Skill as its corresponding Affinity damage ke a acak enemy (maks 30 damage; untuk Pertarungan Terfokus, a Bagian)\n\nJika unit ini dealt the maximum possible damage with the above effect, peroleh 1 Affinity DMG Naik for the corresponding Affinity giliran berikutnya, dan disable the above effect dari mengaktifkan for 2 giliran"
+    },
+    {
+      "id": 2010212,
+      "name": "Ember",
+      "desc": "<style=\"highlight\">Saat Pakai of a Wrath Skill atau a Skill that memberikan [Combustion] Potency atau Count: Pada 6+ total sum of [Combustion] pada semua target, Clash Power +1</style>\n\nOn Clash Win, beri (Wrath <style=\"highlight\">Reson. x 2</style>) [Combustion] <style=\"highlight\">pada target utama</style> (<style=\"highlight\">maks 8</style> per Skill)",
+      "summary": "Peroleh Clash Power\nKetika kondisi terpenuhi, beri [Combustion]"
+    },
+    {
+      "id": 2050911,
+      "name": "Butiran Minuman Keras di Titik Bilah",
+      "desc": "[AlwaysUseEGOPassive2050911]\n\nSaat Menyerang dengan Base Skill, beri 2 [Laceration] pada target (sekali per Skill)\n\nIdentitas ini termasuk sebagai Identitas yang memberi [Laceration] dan [Breath]\n- Skill Dasar Identitas ini dihitung sebagai Skill that beri [Laceration] dan [Breath]\n\n[WhenUseEGOPassive]\n\nKetika seorang kawan dikalahkan, peroleh 1 [AlcoholKimPersonal] giliran berikutnya\n- Jika kawan yang dikalahkan berada dalam Blade Lineage, peroleh 2 [AlcoholKimPersonal] saja\n\nMulai Giliran: Jika unit ini memiliki [AlcoholKimPersonal], masuki status [GhostKimPersonal]\n- Mentor Blade Lineage Meursault juga memperoleh [RootSoupKimPersonal] ketika efek di atas diaktifkan\n\nMulai Giliran: Jika unit ini tidak memiliki [AlcoholKimPersonal], efek berikut akan kadaluarsa - [GhostKimPersonal], [GrudgePersonal], dan [RootSoupKimPersonal]\n\nKetika unit ini memiliki [AlcoholKimPersonal]: Ketika unit ini menerima damage yang membawa HP-nya ke 0, pulihkan ([AlcoholKimPersonal] Stack x 25)% HP; lalu, [AlcoholKimPersonal] kadaluarsa (sekali per Pertarungan; efek ini aktif setelah Pasif Identitas dengan efek yang sama)\n- Ketika Stagger, pulih dari Stagger (mengecualikan Stagger paksa)",
+      "summary": "Peroleh [AlcoholKimPersonal]"
+    },
+    {
+      "id": 2010911,
+      "name": "Kupu-KupuBersayapLayuMemakan\nGetahKemiskinanDiEmbunanNafas",
+      "desc": "Jika target memiliki [SinkingWhite], Clash Power +1\n\nSaat Serang terhadap target yang memiliki 15+ ([Sinking] + kedua [SinkingWhite]), beri 1 [SinkingWhite](Yang Hidup) dan 1 [SinkingWhite](Yang Berpulang) (sekali per giliran; untuk Pertemuan Terfokus, Bagian)\n\n[AlwaysUseEGOPassive2010911]\n\nSaat Serang, Base Skills beri 2 [Vibration] pada target (sekali per Skill)\n\nIdentitas ini dihitung sebagai \"Identitas yang memberi [Vibration] dan [Sinking]\"\n- Skill Dasar Identitas ini dihitung sebagai \"Skill yang memberi [Vibration] dan [Sinking]\"\n\n\n[WhenUseEGOPassive2010911]\n\nBatas maksimum +10 untuk jumlah dari [BulletLament] Potency dan Count\nSetelah me-[ReloadLament], pulihkan 10 SP dan [Discard] 1 Skill Serangan Dasar dari tingkat terendah di semua Skill Slot unit ini (kecuali \"Selamat Tinggal, Kesedihan Dalam Dirimu\") (2 kali per giliran)\nAkhir Giliran: Jika unit ini memiliki Skill Defense yang dipakai giliran ini, pulihkan 10 SP\nAkhir Giliran: Ketika Stagger, pulih dari Stagger, lalu [ReloadLament] (sekali per Pertemuan; mengecualikan Stagger paksa)",
+      "summary": "Peroleh Clash Power dan beri [SinkingWhite]"
+    },
+    {
+      "id": 2031011,
+      "name": "Sekarang Giliranmu Untuk Menelan Jarum!",
+      "desc": "Skill Envy beri +10% damage\n- Skill tersebut beri +1% damage lebih untuk setiap 1 Reson. Envy (maks 7%)\n\nAwal Giliran: Peroleh [AttackUp] setara (damage HP kumulatif yang diterima unit ini selama Pertemuan (termasuk damage Perisai) / 20) (maks 3)\n\nAwal Pertarungan: Pada A-Reson. Envy, beri 1 [NiddleEGO] ke semua musuh (di Pertemuan Terfokus, semua Bagian)"
+    },
+    {
+      "id": 2030412,
+      "name": "Cauldron of Gorging",
+      "desc": "Awal Giliran: Convert <style=\"highlight\">1</style> random non-Lust E.G.O resource into 1 Lust E.G.O resource\n<style=\"highlight\">- At 20+ Lust E.G.O resource, efek ini does not activate and unit ini gains 1 [ScarletResultUp] instead\n\nLust Base Skills beri +1% damage untuk setiap Lust Resource owned Before Attack (maks 10%)</style>"
+    },
+    {
+      "id": 2100312,
+      "name": "Stew Spewage",
+      "desc": "On Tails Hit, beri 1 [Combustion] if target is an enemy\n\n<style=\"highlight\">When using Base Attack Skills that beri [Combustion] Potency or Count against enemies,\n\n- For Plus Coin Skills:\n· At lower than 40 SP, pulihkan 4 SP\n· At 40 or higher SP, beri +10% damage\n\n- For Minus Coin Skills:\n· At higher than -25 SP, lose 4 SP (efek ini cannot reduce unit ini's SP below -40)\n· At -25 or lower SP, beri +10% damage</style>"
+    },
+    {
+      "id": 2121011,
+      "name": "Processing Transfer Reg",
+      "desc": "At 3+ Reson. tertinggi: On Hit using a Skill, inflict 1 [Binding] giliran berikutnya on the main target (sekali per giliran)\n\nAt 3+ Potency [Charge], the following Base Skills beri +10% damage:\n- Base Skills that gain or consume Count [Charge]\n- Base Skills that inflict [Combustion] Potency or Count on the enemy"
+    },
+    {
+      "id": 2061011,
+      "name": "Kota Dimana Siapapun Tak Bisa Menyakiti",
+      "desc": "Maks Count [Charge] +5\n\nSkill 3 (kecuali Skill E.G.O) yang mengonsumsi Count [Charge] atau [Charge] Unik beri +10% damage\n\nAkhir Giliran: Jika unit ini tidak diserang giliran ini, pulihkan 4 SP\n- Jika unit ini memiliki 2+ Skill Serang Dasar dengan Coin Negatif, Kehilangan 4 SP saja (efek ini tidak dapat mengurangi SP unit ini di bawah -40)"
+    },
+    {
+      "id": 2091011,
+      "name": "Schismatic Stereognosis",
+      "desc": "Ketika unit ini memperoleh Potency atau Count [Breath], peroleh +1 Count [Breath] (2 kali per giliran)\n\nJika unit ini adalah [PersonalityBreath] atau [PersonalityVibration], Skill Dasar yang memiliki 1 Atk Weight atau [WideAreaRampage] beri +10% damage\n\nPada Akhir Serangan, jika target terkena Stagger atau dikalahkan, secara acak beri 1/3 dari Potency [Vibration] pada target diantara musuh lainnya pada giliran berikutnya (dibulatkan ke atas; untuk Pertemuan Terfokus, Bagian)\n - Efek ini tidak menumpuk dengan efek dari E.G.O Gift \"Mirror Tactile Synaesthesia\""
+    },
+    {
+      "id": 2021111,
+      "name": "Le Trou de Vidange",
+      "desc": "Jika unit ini memiliki 5 [BulletHole], tidak menggunakan Bahan E.G.O ketika menggunakan Skill E.G.O \"Kekosongan\" (baik Kebangkitan dan Korosi)\n\nAwal Giliran: Peroleh 1 [BulletHole] dan 1 [BlackWingHole]\n\nKetika kawan mengalahkan musuh, kawan tersebut memulihkan 5 SP dan memperoleh 1 [Enhancement] giliran berikutnya (sekali per giliran)\n\nBatas maks Count [Charge] +5\n\nJika unit ini memperoleh Count [Charge] melebihi batas maks Count [Charge], unit ini secara acak peroleh Potency atau Count [Breath] setara dengan Count [Charge] berlebih yang diperoleh (maks 6 Count [Charge] diubah per giliran)",
+      "flavor": "Bukanlah penetrasi yang membuat sebuah lubang; melainkan kekosongan.\nLubang tersebut ingin diisi, namun sebaliknya, hal-hal hanya pernah keluar dari dalamnya."
+    },
+    {
+      "id": 2051011,
+      "name": "L'Hémorragie interne",
+      "desc": "[AlwaysUseEGOPassive]\nJika unit ini memiliki 5 [BulletHole], tidak menggunakan Bahan E.G.O ketika menggunakan Skill E.G.O \"Kekosongan\" (baik Kebangkitan dan Korosi)\n\nAwal Giliran: Peroleh 1 [BulletHole]\n\n[WhenUseEGOPassive]\nAwal Giliran: Peroleh 1 [BlackWingHole]\n\nPulihkan 5 SP setiap kali unit ini mengonsumsi atau kehilangan 3 [Bullet] kumulatif, dan peroleh 1 [ResultEnhancement] giliran berikutnya (termasuk [Bullet] Unik; hingga 9 [Bullet] per giliran)",
+      "flavor": "Tatapan lain memaku padaku, membuat sebuah lubang yang darinya banyak menumpah ruah.\nPelepasannya kemudian ditempa menjadi peluru yang melubangi dirimu."
+    }
+  ]
+}

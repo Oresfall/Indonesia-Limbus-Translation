@@ -1,0 +1,94 @@
+{
+  "dataList": [
+    {
+      "id": "RedEyeFirst",
+      "name": "Red Eyes",
+      "desc": "- Base efek Coin Skill beri +1 tambahan Bleed\n- Maks Value : 20\n- Charge Unik (fixed Potency)\n- Resource yang digunakan sebanyak certain Skill for efek tambahan\n- Enhances the buff Stage berdasarkan Value\n· Stage 1 (1~7) : Red Eyes\n· Stage 2 (8~15) : Red Eyes - Alert\n· Stage 3 (16~20) : Red Eyes - Devouring\n- The jumlah dari tambahan bleed inflicted sebanyak the first line of this buff is setara dengan the buff enhancement Stage (maks 3)",
+      "summary": ""
+    },
+    {
+      "id": "RedEyeSecond",
+      "name": "Red Eyes - Alert",
+      "desc": "- Base efek Coin Skill beri +2 tambahan Bleed\n- Maks Value : 20\n- Charge Unik (fixed Potency)\n- Resource yang digunakan sebanyak certain Skill for efek tambahan\n- Enhances the buff Stage berdasarkan Value\n· Stage 1 (1~7) : Red Eyes\n· Stage 2 (8~15) : Red Eyes - Alert\n· Stage 3 (16~20) : Red Eyes - Devouring\n- The jumlah dari tambahan bleed inflicted sebanyak the first line of this buff is setara dengan the buff enhancement Stage (maks 3)",
+      "summary": ""
+    },
+    {
+      "id": "RedEyeThird",
+      "name": "Red Eyes - Devouring",
+      "desc": "- Base efek Coin Skill beri +3 tambahan Bleed\n- Maks Value : 20\n- Charge Unik (fixed Potency)\n- Resource yang digunakan sebanyak certain Skill for efek tambahan\n- Enhances the buff Stage berdasarkan Value\n· Stage 1 (1~7) : Red Eyes\n· Stage 2 (8~15) : Red Eyes - Alert\n· Stage 3 (16~20) : Red Eyes - Devouring\n- The jumlah dari tambahan bleed inflicted sebanyak the first line of this buff is setara dengan the buff enhancement Stage (maks 3)",
+      "summary": ""
+    },
+    {
+      "id": "PenanceFirst",
+      "name": "Penitence",
+      "desc": "- Pulihkan 2 SP Saat Serang with Base Skill Coin yang memperoleh Penitence\n- Maks Value : 20\n- Charge Unik (fixed Potency)\n- Awal Giliran: peroleh (Penitence)% dari maks HP sebagai Perisai\n- Resource yang digunakan sebanyak certain Skill for efek tambahan\n- Enhances the buff Stage berdasarkan Value\n· Stage 1 (1~7) : Penitence\n· Stage 2 (8~15) : Penitence - Periphery\n· Stage 3 (16~20) : Penitence - Confession\n- The jumlah dari SP healed sebanyak the first line of this buff is berdasarkan the enhancement Stage (enhancement Stage x 2)",
+      "summary": ""
+    },
+    {
+      "id": "PenanceSecond",
+      "name": "Penitence - Periphery",
+      "desc": "- Pulihkan 4 SP Saat Serang with Base Skill Coin yang memperoleh Penitence\n- Maks Value : 20\n- Charge Unik (fixed Potency)\n- Awal Giliran: peroleh (Penitence)% dari maks HP sebagai Perisai\n- Resource yang digunakan sebanyak certain Skill for efek tambahan\n- Enhances the buff Stage berdasarkan Value\n· Stage 1 (1~7) : Penitence\n· Stage 2 (8~15) : Penitence - Periphery\n· Stage 3 (16~20) : Penitence - Confession\n- The jumlah dari SP healed sebanyak the first line of this buff is berdasarkan the enhancement Stage (enhancement Stage x 2)",
+      "summary": ""
+    },
+    {
+      "id": "PenanceThird",
+      "name": "Penitence - Confession",
+      "desc": "- Pulihkan 6 SP Saat Serang with Base Skill Coin yang memperoleh Penitence\n- Maks Value : 20\n- Charge Unik (fixed Potency)\n- Awal Giliran: peroleh (Penitence)% dari maks HP sebagai Perisai\n- Resource yang digunakan sebanyak certain Skill for efek tambahan\n- Enhances the buff Stage berdasarkan Value\n· Stage 1 (1~7) : Penitence\n· Stage 2 (8~15) : Penitence - Periphery\n· Stage 3 (16~20) : Penitence - Confession\n- The jumlah dari SP healed sebanyak the first line of this buff is berdasarkan the enhancement Stage (enhancement Stage x 2)",
+      "summary": ""
+    },
+    {
+      "id": "Emptiness",
+      "name": "Only Ashes Remain",
+      "desc": "- Tidak dapat jaga Red Eyes & Penitence\n- Ketika memperoleh Red Eyes with Base efek Skill, pulihkan self dan 1 kawan dengan lowest HP percentage sebanyak (Red Eyes diperoleh)% dari maks HP unit ini (2 kali per giliran)\n- Ketika memperoleh Penitence with Base efek Skill, pulihkan self dan 1 kawan dengan least SP sebanyak ((Penitence diperoleh)/2) SP (2 kali per giliran)\n- Akhir Giliran: efek ini kadaluarsa",
+      "summary": ""
+    },
+    {
+      "id": "SinkingWhite",
+      "name": "Butterfly",
+      "desc": "- Sinking Unik\n- NIlai Dasar: 0, Maks Value: 15\n- Ketika diserang, the penyerang pulihkan {2} SP.\n- Ketika diserang, dan jika SP unit ini kurang dari 0, terima {3} Gloom damage.\n- Akhir Giliran: Reset Yang Berpulang dari efek ini menjadi 0; peroleh Sinking setara dengan Yang Hidup(Potency) dan ubah Yang Hidup menjadi Yang Berpulang(Count).\n- Efek ini kadaluarsa when both Yang Hidup dan Yang Berpulang mencapai 0.",
+      "summary": ""
+    },
+    {
+      "id": "SinkingBlack",
+      "name": "!!!OUDATED EFFECT!!!",
+      "desc": "",
+      "summary": ""
+    },
+    {
+      "id": "BulletLament",
+      "name": "Yang Hidup & Yang Berpulang",
+      "desc": "- Ammo Unik\n- Potency + Count = Maks 20\n- Consumed for certain Skill.\n- Ketika dikonsumsi, secara acak selected antara Yang Hidup(Potency) atau Yang Berpulang(Count).\n- Beberapa serangan gagal jika kekurangan Ammo.",
+      "summary": ""
+    },
+    {
+      "id": "TrainTeamCaptain",
+      "name": "Training Team Captain",
+      "desc": "Skill Slot +1\nModify Skill pool: Peroleh 1 gunakan of Skill 3, but kehilangan 1 gunakan of Skill 1\nAwal Giliran: pulihkan 15 SP\nIncrease the jumlah dari Burn, Bleed, Rupture, Sinking, atau Tremor inflicted sebanyak +1 (termasuk 'Unique Status Effects')\nIncrease the jumlah dari Poise atau Charge(termasuk 'Charge Unik') diperoleh sebanyak +1\nPada Kill, Peroleh +2 E.G.O resource to the Affinity of Skill that yang kalah musuh; peroleh +1 E.G.O resource to rest of the Affinities",
+      "summary": ""
+    },
+    {
+      "id": "VioletUnderstand",
+      "name": "Understanding",
+      "desc": "- Beri +5% damage per Stack\n- Terima +5% damage per Stack\n(maks value : 5)",
+      "summary": ""
+    },
+    {
+      "id": "MentalCrack",
+      "name": "Mental Fracture",
+      "desc": "SP Loss Efficiency +1 per Stack (maks 5)\nExpires when it reaches 5 Stack, dan terima 10 SP damage\nLose 1 Stack per giliran",
+      "summary": ""
+    },
+    {
+      "id": "ImpendingCollapse",
+      "name": "Imminent Decay",
+      "desc": "Akhir Giliran: Kehilangan 1 Stack\nAwal Giliran: Pada 1- Stack, gunakan a special Skill",
+      "summary": ""
+    },
+    {
+      "id": "ReloadLament",
+      "name": "Reload",
+      "desc": "- Konsumsi (30 - (Yang Hidup + Yang Berpulang))/2 SP. (dibulatkan ke bawah)\n- Reset both Yang Hidup dan Yang Berpulang values pada diri sendiri menjadi 0, dan peroleh the maks value of their sum berdasarkan the probabilities listed in the Passive 'ISeeTheDyingButterfly.'\n- On Reload, peroleh setidaknya 1 of Yang Hidup dan Yang Berpulang.",
+      "summary": ""
+    }
+  ]
+}

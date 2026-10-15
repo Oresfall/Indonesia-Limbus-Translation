@@ -1,0 +1,343 @@
+{
+  "dataList": [
+    {
+      "id": 142201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Expression of Primary Colors",
+          "desc": "Final Power +1 untuk setiap 6 ([Laceration] + [Sinking]) pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [EagleClawWound]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [EagleClawWound]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 142202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vehement Overpainting",
+          "desc": "Final Power +1 untuk setiap 6 ([Laceration] + [Sinking]) pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [BearClawWound]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [BearClawWound]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 142203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Le Fauvisme - Déchaînement Primal",
+          "desc": "Final Power +1 untuk setiap 6 ([Laceration] + [Sinking]) pada target (maks 3)\n[DefeatDuel]\n- Damage dari Skill ini tidak men-Stagger target\n- Saat Menyerang, tidak mengaktifkan [Sinking] efek pada target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration] dan +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [BearClawWound]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Sinking] dan +2 Count [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [EagleClawWound]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Beri 1 [BoldBrushstrokes]</u></b></mark></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 142204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Critique",
+          "desc": "[CantChangeTarget]\n[WhenUse]\n- Clash Power +2 <color=#ff6000><mark=#ff000040><b><u>untuk setiap tipe efek negatif</u></b></mark></color> pada target (maks 12)\n- <color=#ff6000><mark=#ff000040><b><u>Jika target memiliki [IntenseColors], </u></b></mark></color>Clash Power +6 dan beri +100% damage\n· <color=#ff6000><mark=#ff000040><b><u>Jika target menggunakan Skill Defense</u></b></mark></color> while having [IntenseColors], Clash Power +6 dan beri -90% damage saja\n[DefeatDuel]\n- Damage dari Skill ini tidak men-Stagger target\n- Saat Menyerang, tidak mengaktifkan [Sinking] efek pada target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gunakan ulang Coin ini (maks 2 kali)\n- Saat Menyerang setelah kalah Clash, Gunakan ulang Coin ini (maks sekali saja)\n- Tidak aktif jika target menggunakan Skill Defense"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration] dan +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Sinking] dan +2 Count [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 142301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Embellish dengan Primary Colors",
+          "desc": "Final Power +1 untuk setiap 6 ([Laceration] + [Sinking]) pada target (maks 2)\n[DefeatDuel]\n- Damage dari Skill ini tidak men-Stagger target\n- Saat Menyerang, tidak mengaktifkan [Sinking] efek pada target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [EagleClawWound]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 3 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [EagleClawWound]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 142302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Impassioned Overpainting",
+          "desc": "Final Power +1 untuk setiap 6 ([Laceration] + [Sinking]) pada target (maks 3)\n[DefeatDuel]\n- Damage dari Skill ini tidak men-Stagger target\n- Saat Menyerang, tidak mengaktifkan [Sinking] efek pada target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [BearClawWound]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [BearClawWound]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 142303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Le Fauvisme - Déchaînement Brutal",
+          "desc": "Final Power +1 untuk setiap 6 ([Laceration] + [Sinking]) pada target (maks 4)\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Jika target memiliki 3+ tipe dari efek negatif,</u></b></mark></color> ubah semua Coin pada Skill ini menjadi [SuperCoin]\n[DefeatDuel]\n- Beri -75% damage\n- Damage dari Skill ini tidak men-Stagger target\n- Saat Menyerang, tidak mengaktifkan [Sinking] efek pada target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [BearClawWound]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [EagleClawWound]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Beri 1 [BoldBrushstrokes]</u></b></mark></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 142304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The Thrill of Inspiration",
+          "desc": "Dapat Clash dengan Skill ini tanpa peduli dengan Speed\n[WhenUse] Final Power +1 dan beri +10% damage <color=#ff6000><mark=#ff000040><b><u>untuk setiap tipe efek negatif</u></b></mark></color> pada target utama (maks 6 dan 60% masing-masing)\n[WinDuel]\n- Beri +10% damage <color=#ff6000><mark=#ff000040><b><u>untuk setiap tipe efek negatif</u></b></mark></color> on setiap target (maks 60% terhadap setiap target)\n[DefeatDuel]\n- Beri -75% damage\n- Beri 2/3 less Stack of [BearClawWound] dan [EagleClawWound] dengan efek Skill ini (rounded up)\n- Damage dari Skill ini tidak men-Stagger target\n- Saat Menyerang, tidak mengaktifkan [Sinking] efek pada target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 3 [Laceration] dan +3 [Laceration] Count"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 3 [Sinking] dan +3 Count [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Beri 9 [BearClawWound]</u></b></mark></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Beri 9 [EagleClawWound]</u></b></mark></color>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Beri 1 [BoldBrushstrokes]</u></b></mark></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 142305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Burst Forth the Pulsing Crimson under Your Skin.",
+          "desc": "[WideAreaRampage]\nPrioritaskan target yang memiliki [IntenseColors]\nSkill ini tidak mengaktifkan Skill Defense (mengecualikan Clashable Guard)\nBisa Clash dengan Skill ini tidak peduli dengan Speed\n[WhenUse]\n- Final Power +1 <color=#ff6000><mark=#ff000040><b><u>untuk setiap tipe efek negatif</u></b></mark></color> pada target utama (maks 6)\n- <color=#ff6000><mark=#ff000040><b><u>Jika target utama memiliki [IntenseColors],</u></b></mark></color> Clash Power +6\n- <color=#ff6000><mark=#ff000040><b><u>Jika target memiliki [IntenseColors],</u></b></mark></color> beri +100% damage (terhadap setiap target separately)\n· <color=#ff6000><mark=#ff000040><b><u>Jika target menggunakan Skill Defense</u></b></mark></color> while having [IntenseColors], beri -90% damage saja\n[WinDuel]\n- Beri +10% damage <color=#ff6000><mark=#ff000040><b><u>untuk setiap tipe efek negatif pada target</u></b></mark></color> (maks 60%, terhadap setiap target separately)\n[DefeatDuel]\n- Peroleh 5 [AttackDmgDown] dan 5 [Paralysis]\n- Damage dari Skill ini tidak men-Stagger target\n- Saat Menyerang, tidak mengaktifkan [Sinking] efek pada target\n[EndSkill] Akhiri giliran ini",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri +3 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 3 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri +3 Count [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>Coin ini hits semua target</u></b></mark></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

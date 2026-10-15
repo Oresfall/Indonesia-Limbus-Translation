@@ -1,0 +1,183 @@
+{
+  "dataList": [
+    {
+      "id": 40000301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "With Love!",
+          "desc": "[WhenUse] Base Power +1 untuk setiap 5 ([Burst] + [Sinking]) pada target (maks 2)\n[WhenUse] Peroleh +10 [PowerOfLoveAndJustice]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "In the Name of Justice!",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 7 ([Burst] + [Sinking]) pada target (maks 2)\n[WhenUse] Peroleh +10 [PowerOfLoveAndJustice] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 10+ ([Burst] + [Sinking]), beri 1 [Binding] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Arcana Beats",
+          "desc": "Mainly target 'The Knight of Despair'\nSub-target kawan dengan the most [ColdBlackTear]\n- Jika terdapat none, sub-target kawan dengan HP paling sedikit\nInflicts 0 damage dan tidak mengaktifkan the efek of [Sinking] dan [ColdBlackTear] terhadap kawan\n\n[WinDuel] Hapus 1 [ColdBlackTear] dari the sub-targeted kawan",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target is musuh, Beri 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target kawan, pulihkan 5 HP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target is musuh, Beri 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target kawan, pulihkan 5 HP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target is musuh, Beri 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target kawan, pulihkan 5 HP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Looks Like I'll Have to Use This Power!",
+          "desc": "[StartBattle] Peroleh 1 [ChasingArcana]\n[StartBattle] Peroleh 50 Perisai\n[StartBattle] Peroleh 20 [Aggro] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chanting - Arcana Slave",
+          "desc": "[StartBattle] Peroleh 50 Perisai\n[StartBattle] Peroleh 20 [Aggro] giliran berikutnya\n[EndBattle] Pada 0 Perisai HP, Retreats",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000306,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "ARCANA SLAVE",
+          "desc": "[CantDuel]\nDoes not beri damage terhadap Sword of a Forgotten Knight\nEnds Giliran ketika hitting musuh dengan [WornOutKnight]\n[EndBattle] Peroleh [UsedTooMuchPower]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kurangi HP target to (100 - ([CollapsedPride] Stack x 33))%"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000307,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "ARCANA SLAVE",
+          "desc": "[CantDuel]\nDeals damage hanya dengan efek Coin\nDoes not beri damage terhadap Heart-breaking Sword, Heart-tearing Sword, dan Heart-piercing Sword\nEnds Giliran ketika hitting musuh yang memiliki [WornOutKnight] dan 600- HP\n[EndBattle] Peroleh [UsedTooMuchPower]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri ([CollapsedPride] x 200) damage tetap"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000308,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Looks Like I'll Have to Use This Power!",
+          "desc": "[StartBattle] Peroleh 1 [ChasingArcanahard]\n[StartBattle] Peroleh 50 Perisai\n[StartBattle] Peroleh 20 [Aggro] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

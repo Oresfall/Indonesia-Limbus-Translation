@@ -1,0 +1,650 @@
+{
+  "dataList": [
+    {
+      "id": 40000101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Crimson Strike",
+          "desc": "[WhenUse] Jika target memiliki 5+ tipe dari efek negatif, Clash Power +1\n[WhenUse] Base Power +1 untuk setiap 3 [Burst] pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Peroleh 1 [AttackUp] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Peroleh 1 [AttackUp] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Crimson Strike Second Form - Rupture (破)",
+          "desc": "[WhenUse] Jika target memiliki 5+ tipe dari efek negatif, Clash Power +1\n[WhenUse] Base Power +1 untuk setiap 3 [Burst] pada target (maks 2)\n[WhenUse] Coin Power +1 untuk setiap 6 [Burst] pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Peroleh 1 [AttackUp] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Peroleh 1 [AttackUp] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Crimson Strike Third Form - Might (强)",
+          "desc": "[WhenUse] Jika target memiliki 5+ tipe dari efek negatif, Clash Power +2\n[WhenUse] Base Power +1 untuk setiap 3 [Burst] pada target (maks 2)\n[WhenUse] Coin Power +1 untuk setiap 6 [Burst] pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst] dan +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Peroleh 1 [AttackUp] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst] dan +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Peroleh 1 [AttackUp] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Crimson Strike Fourth Form - Binding (束)",
+          "desc": "[WhenUse] Jika target memiliki 5+ tipe dari efek negatif, Clash Power +2\n[WhenUse] Base Power +1 untuk setiap 3 [Burst] pada target (maks 2)\n[WhenUse] Coin Power +1 untuk setiap 6 [Burst] pada target (maks 2)\n[WhenUse] Peroleh 3 [Agility] giliran berikutnya (sekali per giliran)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst] dan +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Peroleh 1 [AttackUp] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst] dan +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Peroleh 1 [AttackUp] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Binding] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "name": "Crimson Strike Fifth Form - March (進)",
+          "desc": "[WhenUse] Jika target memiliki 5+ tipe dari efek negatif, Clash Power +2\n[WhenUse] Base Power +1 untuk setiap 3 [Burst] pada target (maks 2)\n[WhenUse] Coin Power +1 untuk setiap 6 [Burst] pada target (maks 2)\n[WhenUse] Peroleh 3 [Agility] giliran berikutnya (sekali per giliran)\n[WhenUse] Peroleh 3 [Breath] aind +2 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst] dan +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Peroleh 1 [AttackUp] giliran berikutnya"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst] dan +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Peroleh 1 [AttackUp] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Binding]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gunakan ulang Coin ini (2 kali maks)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Crimson Phoenix",
+          "desc": "[WhenUse] Jika target memiliki 5+ tipe dari efek negatif, Coin Power +1\n[WhenUse] Coin Power +1 untuk setiap 6 [Burst] pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [DefenseDown]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 3 [AttackUp] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +1 Count [Breath]. Peroleh [Breath] setara dengan [Burst] pada target (maks 5)"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Peroleh 3 [Breath] giliran berikutnya. Peroleh Count [Breath] setara dengan [Burst] Count pada target giliran berikutnya (maks 2)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Beri +50% Damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[CriticalEnemyTargetKillFail] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[CriticalEnemyTargetKill] Peroleh 3 [AttackUp] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Crimson Phoenix Second Form - Rupture (破)",
+          "desc": "[WhenUse] Jika target memiliki 4+ tipe dari efek negatif, Coin Power +1\n[WhenUse] Coin Power +1 untuk setiap 6 [Burst] pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [DefenseDown]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 3 [AttackUp] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +1 Count [Breath]. Peroleh [Breath] setara dengan [Burst] pada target (maks 5)"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Peroleh 3 [Breath] giliran berikutnya. Peroleh Count [Breath] setara dengan [Burst] Count pada target giliran berikutnya (maks 2)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Beri +50% Damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[CriticalEnemyTargetKillFail] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[CriticalEnemyTargetKill] Peroleh 3 [AttackUp] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Crimson Phoenix Third Form - Blaze (炎)",
+          "desc": "[WhenUse] Jika target memiliki 4+ tipe dari efek negatif, Coin Power +1\n[WhenUse] Coin Power +1 untuk setiap 6 [Burst] pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Combustion] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [DefenseDown]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Combustion] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 3 [AttackUp] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh [Breath] setara dengan ([Burst] + [Combustion]) pada target (maks 10)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh Count [Breath] setara dengan ([Burst] Count + [Combustion] Count) pada target (maks 5)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Beri +50% Damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[CriticalEnemyTargetKillFail] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[CriticalEnemyTargetKill] Peroleh 3 [AttackUp] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Crimson Phoenix Fourth Form - Qi (氣)",
+          "desc": "[WhenUse] Jika target memiliki 4+ tipe dari efek negatif, Coin Power +1\n[WhenUse] Coin Power +1 untuk setiap 3 [Burst] pada target (maks 2)\n[WhenUse] Peroleh 3 [Breath] dan +2 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Combustion] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [DefenseDown]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 3 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Combustion] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 3 [AttackUp] giliran berikutnya"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 3 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh [Breath] setara dengan ([Burst] + [Combustion]) pada target (maks 10)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh Count [Breath] setara dengan ([Burst] Count + [Combustion] Count) pada target (maks 5)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 2 [Vulnerable]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Beri +50% Damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[CriticalEnemyTargetKillFail] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[CriticalEnemyTargetKill] Peroleh 3 [AttackUp] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "name": "Crimson Phoenix Fifth Form - Wings (翼)",
+          "desc": "[WhenUse] Jika target memiliki 4+ tipe dari efek negatif, Coin Power +1\n[WhenUse] Coin Power +1 untuk setiap 3 [Burst] pada target (maks 2)\n[WhenUse] Peroleh 3 [Breath] dan +2 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Combustion] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [DefenseDown]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 3 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Combustion] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 3 [AttackUp] giliran berikutnya"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 3 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh [Breath] setara dengan ([Burst] + [Combustion]) pada target (maks 10)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh Count [Breath] setara dengan ([Burst] Count + [Combustion] Count) pada target (maks 5)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 2 [Vulnerable]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Beri +50% Damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[CriticalEnemyTargetKillFail] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[CriticalEnemyTargetKill] Peroleh 3 [AttackUp] giliran berikutnya"
+                },
+                {
+                  "desc": "[CriticalEnemyTargetKillFail] Use Crimson Cleave terhadap target"
+                },
+                {
+                  "desc": "[CriticalEnemyTargetKill] Use Crimson Cleave terhadap a musuh acak"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Crimson Spring",
+          "desc": "[BeforeAttack] Peroleh +1 Atk Weight untuk setiap 4 tipe dari efek negatif pada target (maks 2)\n[WhenUse] Jika target memiliki 5+ tipe dari efek negatif, Base Power +5\n[WhenUse] Jika target memiliki 15+ ([Burst] + [Burst] Count), Coin Power +5\n[WinDuel] Beri +2 [Burst] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 7 Bleed"
+                },
+                {
+                  "desc": "Beri +200% Damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri +3 Bleed Count"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Peroleh 2 [Breath] dan +1 Count [Breath]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Crimson Spring Second Form - Passion (熱)",
+          "desc": "[BeforeAttack] Peroleh +1 Atk Weight untuk setiap 3 tipe dari efek negatif pada target (maks 2)\n[WhenUse] Jika target memiliki 5+ tipe dari efek negatif, Base Power +5\n[WhenUse] Coin Power +1 untuk setiap 3 ([Burst] + [Burst] Count pada target) (maks 5)\n[WinDuel] Beri +2 [Burst] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 7 Bleed"
+                },
+                {
+                  "desc": "Beri +200% Damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri +3 Bleed Count"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Peroleh 2 [Breath] dan +1 Count [Breath]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Crimson Spring Third Form - Decapitation (斬)",
+          "desc": "[BeforeAttack] Peroleh +1 Atk Weight untuk setiap 3 tipe dari efek negatif pada target (maks 2)\n[WhenUse] Jika target memiliki 5+ tipe dari efek negatif, Base Power +5\n[WhenUse] Coin Power +1 untuk setiap 3 ([Burst] + [Burst] Count pada target) (maks 5)\n[WinDuel] Beri +2 [Burst] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Bleed"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri +2 Bleed Count"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Peroleh 2 [Breath] dan +1 Count [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 7 Bleed"
+                },
+                {
+                  "desc": "Beri +200% Damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri +3 Bleed Count"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Peroleh 2 [Breath] dan +1 Count [Breath]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Crimson Spring Fourth Form - Flow (巡)",
+          "desc": "[BeforeAttack] Peroleh +1 Atk Weight untuk setiap 3 tipe dari efek negatif pada target (maks 2)\n[WhenUse] Jika target memiliki 5+ tipe dari efek negatif, Base Power +5\n[WhenUse] Coin Power +1 untuk setiap 3 ([Burst] + [Burst] Count pada target) (maks 5)\n[WinDuel] Beri +2 [Burst] Count\n[WhenUse] Peroleh 5 [Breath] dan +2 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Bleed"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri +2 Bleed Count"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Peroleh 2 [Breath] dan +1 Count [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 7 Bleed"
+                },
+                {
+                  "desc": "Beri +200% Damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri +3 Bleed Count"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Peroleh 2 [Breath] dan +1 Count [Breath]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 5,
+          "name": "Crimson Spring Fifth Form - 花 (Blossom)",
+          "desc": "[BeforeAttack] Peroleh +1 Atk Weight untuk setiap 3 tipe dari efek negatif pada target (maks 2)\n[WhenUse] Jika target memiliki 5+ tipe dari efek negatif, Base Power +5\n[WhenUse] Coin Power +1 untuk setiap 3 ([Burst] + [Burst] Count pada target) (maks 5)\n[WinDuel] Beri +2 [Burst] Count\n[WhenUse] Peroleh 5 [Breath] dan +2 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Bleed"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri +2 Bleed Count"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Peroleh 2 [Breath] dan +1 Count [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 7 Bleed"
+                },
+                {
+                  "desc": "Beri +200% Damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri +3 Bleed Count"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Peroleh 2 [Breath] dan +1 Count [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +10% damage untuk setiap tipe efek negatif pada target (maks 50%)"
+                },
+                {
+                  "desc": "Beri +50% Damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 3 [Agility] giliran berikutnya (sekali per giliran)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Adept Evasion",
+          "desc": "[OnSucceedEvade] Peroleh 1 [Breath] giliran berikutnya. (3 kali per Skill)"
+        },
+        {
+          "level": 2,
+          "name": "Adept Evasion",
+          "desc": "[OnSucceedEvade] Peroleh 3 [Breath] giliran berikutnya. (2 kali per Skill)"
+        },
+        {
+          "level": 3,
+          "name": "Adept Evasion",
+          "desc": "[WhenUse] Base Power +2 untuk setiap 2 tipe dari efek negatif pada target (maks 10)\n[OnSucceedEvade] Peroleh 3 [Breath] giliran berikutnya. (2 kali per Skill)"
+        },
+        {
+          "level": 4,
+          "name": "Adept Evasion - Redirected Counter",
+          "desc": "[WhenUse] Base Power +2 untuk setiap 2 tipe dari efek negatif pada target (maks 10)\n[OnSucceedEvade] Peroleh 3 [Breath] giliran berikutnya. (2 kali per Skill)\n[OnSucceedEvade] Use Crimson Cleave (sekali per giliran)"
+        }
+      ]
+    }
+  ]
+}

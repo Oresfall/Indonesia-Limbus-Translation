@@ -1,0 +1,783 @@
+{
+  "dataList": [
+    {
+      "id": 2040511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 Sinking"
+                },
+                {
+                  "desc": "[EnemyKill] Peroleh 3 E.G.O resources of a acak Affinity currently owned"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 Sinking"
+                },
+                {
+                  "desc": "[EnemyKill] Peroleh 3 E.G.O resources of a acak Affinity currently owned; Semua kawan pulihkan 3 SP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 Sinking"
+                },
+                {
+                  "desc": "[EnemyKill] Peroleh 3 E.G.O resources of a acak Affinity currently owned; Semua kawan pulihkan 3 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 Sinking"
+                },
+                {
+                  "desc": "[EndSkill] Semua kawan peroleh +1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">E.G.O Resource Amp</color></link></u>."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 Sinking"
+                },
+                {
+                  "desc": "[EndSkill] Semua kawan peroleh +1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">E.G.O Resource Amp</color></link></u>."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 Sinking"
+                },
+                {
+                  "desc": "[EndSkill] Semua kawan peroleh +1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">E.G.O Resource Amp</color></link></u>., beri 1 Haste giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Blind Obsession",
+          "abName": "Dream-Devouring Siltcurrent",
+          "desc": "[BeforeAttack] Peroleh 4 Poise",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count Charge"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Peroleh +2 Count Charge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Blind Obsession",
+          "abName": "Dream-Devouring Siltcurrent",
+          "desc": "[BeforeAttack] Peroleh 4 Poise\n[EndSkill] Peroleh 2 Poise untuk setiap unit defeated by Skill ini",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count Charge"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Peroleh +2 Count Charge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Blind Obsession",
+          "abName": "Dream-Devouring Siltcurrent",
+          "desc": "[BeforeAttack] Peroleh 4 Poise\n[EndSkill] Peroleh 2 Poise untuk setiap unit defeated by Skill ini",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count Charge"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Peroleh +2 Count Charge"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Blind Obsession",
+          "abName": "Dream-Devouring Siltcurrent",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh 4 Poise. Konsumsi 2 Count Charge untuk peroleh 1 Poise (Maks 10)\n[EndSkill] Peroleh +4 Count Charge untuk setiap unit defeated by Skill ini",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +1 Poise Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Blind Obsession",
+          "abName": "Dream-Devouring Siltcurrent",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh 4 Poise. Konsumsi 2 Count Charge untuk peroleh 1 Poise (Maks 10)\n[EndSkill] Peroleh +4 Count Charge untuk setiap unit defeated by Skill ini",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +1 Poise Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Blind Obsession",
+          "abName": "Dream-Devouring Siltcurrent",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh 4 Poise. Konsumsi 2 Count Charge untuk peroleh 1 Poise (Maks 10)\n[EndSkill] Peroleh +4 Count Charge untuk setiap unit defeated by Skill ini",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +1 Poise Count"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Pada 10+ [Breath], peroleh +30% Critical Damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Contempt, Awe",
+          "abName": "Spiral of Contempt",
+          "desc": "[BeforeAttack] Peroleh (Reson. tertinggi) Atk Weight (maks 2)\n[BeforeAttack] Peroleh (Reson. tertinggi + 1) [GazePersonality] (maks 7)\n[EndSkill] Untuk 2 giliran, kehilangan 10 SP pada Akhir Giliran",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Evenly beri 10 [Laceration] between semua targets"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Contempt, Awe",
+          "abName": "Spiral of Contempt",
+          "desc": "[BeforeAttack] Peroleh (Reson. tertinggi) Atk Weight (maks <style=\"highlight\">4</style>)\n[BeforeAttack] Peroleh (Reson. tertinggi + 1) [GazePersonality] (maks 7)\n[EndSkill] Untuk 2 giliran, kehilangan 10 SP pada Akhir Giliran",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Evenly beri <style=\"highlight\">15</style> [Laceration] between semua targets"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Contempt, Awe",
+          "abName": "Spiral of Contempt",
+          "desc": "[BeforeAttack] Peroleh (Reson. tertinggi) Atk Weight (maks <style=\"highlight\">6</style>)\n[BeforeAttack] Peroleh (Reson. tertinggi + 1) [GazePersonality] <style=\"highlight\">giliran ini dan giliran berikutnya</style> (maks 7)\n<style=\"highlight\">[EndSkill] Jika Skill ini was part of a Lust Reson., peroleh 1 E.G.O resource in Affinities corresponding to each of unit ini's Attack Skill</style>\n[EndSkill] Untuk 2 giliran, kehilangan 10 SP pada Akhir Giliran",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Evenly beri 15 [Laceration] between semua targets<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Contempt, Awe",
+          "abName": "Spiral of Contempt",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh 7 [GazePersonality]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [Laceration], beri +([Laceration] pada target + [Laceration] Count pada target)% damage (maks 20%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri (1 + (Reson. tertinggi x 1.5)) [Laceration] (maks 10, dibulatkan ke bawah)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Contempt, Awe",
+          "abName": "Spiral of Contempt",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh 7 [GazePersonality]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [Laceration], beri +([Laceration] pada target + [Laceration] Count pada target)% damage (maks <style=\"highlight\">40%</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">(3 + (Reson. tertinggi x 2))</style> [Laceration] (maks <style=\"highlight\">15</style>, dibulatkan ke bawah)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +<style=\"highlight\">3</style> [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Contempt, Awe",
+          "abName": "Spiral of Contempt",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh 7 [GazePersonality]\n<style=\"highlight\">[EndSkill] Jika Skill ini was a part of a Lust Reson., peroleh 1 E.G.O resource in Affinities corresponding to each of unit ini's Attack Skill</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [Laceration], beri +([Laceration] pada target + [Laceration] Count pada target)% damage (maks <style=\"highlight\">60%</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">(10 + (Reson. tertinggi x 2.5))</style> [Laceration] (maks <style=\"highlight\">25</style>, dibulatkan ke bawah)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +<style=\"highlight\">5</style> [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thoracalgia",
+          "abName": "Sleeping Bag of a Bygone Day",
+          "desc": "[BeforeAttack] Peroleh (Reson. tertinggi) [Breath] (maks 4)\n- Pada 15+ [Breath], peroleh Final Power +(Reson. tertinggi) saja (maks 4)\n[BeforeAttack] Peroleh (Reson. tertinggi / 2) Count [Breath] (maks 2)\n- Pada 5+ Count [Breath], peroleh Coin Power +(Reson. tertinggi / 2) saja (maks 2)\n[TargetKill] Peroleh 1 [HoldingBreath] giliran berikutnya (2 kali per giliran)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [HoldingBreath] (sekali per giliran)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Thoracalgia",
+          "abName": "Sleeping Bag of a Bygone Day",
+          "desc": "[BeforeAttack] Peroleh (Reson. tertinggi) [Breath] (maks <style=\"highlight\">6</style>)\n- Pada 15+ [Breath], peroleh Final Power +(Reson. tertinggi) saja (maks <style=\"highlight\">6</style>)\n[BeforeAttack] Peroleh (Reson. tertinggi / 2) Count [Breath] (maks 2)\n- Pada 5+ Count [Breath], peroleh Coin Power +(Reson. tertinggi / 2) saja (maks 2)\n[TargetKill] Peroleh <style=\"highlight\">2</style> [HoldingBreath] giliran berikutnya (<style=\"highlight\">4</style> kali per giliran)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">Beri +(Potency [Breath] + Count)% damage pada Serangan Critical (maks 20%)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [HoldingBreath] (sekali per giliran)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Thoracalgia",
+          "abName": "Sleeping Bag of a Bygone Day",
+          "desc": "[BeforeAttack] Peroleh (Reson. tertinggi) [Breath] (maks 6)\n- Pada 15+ [Breath], peroleh Final Power +(Reson. tertinggi) saja (maks 6)\n[BeforeAttack] Peroleh (Reson. tertinggi / 2) Count [Breath] (maks <style=\"highlight\">3</style>)\n- Pada 5+ Count [Breath], peroleh Coin Power +(Reson. tertinggi / 2) saja (maks <style=\"highlight\">3</style>)\n[TargetKill] Peroleh 2 [HoldingBreath] giliran berikutnya (<style=\"highlight\">6</style> kali per giliran)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Beri +(Potency [Breath] + Count)% damage pada Serangan Critical (maks <style=\"highlight\">40%</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh <style=\"highlight\">4</style> [HoldingBreath] (sekali per giliran)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thoracalgia",
+          "abName": "Sleeping Bag of a Bygone Day",
+          "desc": "[CantIdentify]\nPrioritizes targets with the least HP (memprioritaskan kawan)\nJika seorang kawan is one of Skill ini's targets, beri +30% damage\n\n[BeforeAttack] Pada kurang dari 15 [Breath], konsumsi 10% HP untuk peroleh 5 [Breath] dan +5 Count [Breath]\n- Cannot be terkena Stagger atau defeated akibat efek ini\n\n[EndSkill] Jika target dikalahkan, peroleh 2 [HoldingBreath] giliran berikutnya. (sekali per giliran) Jika target tersebut was seorang kawan, aktifkan hal berikut juga:\n- Allies that are made to participate atau are Substituted menjadi this Pertemuan akibat the defeated kawan peroleh 2 [Breath] dan +2 Count [Breath]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 4 [HoldingBreath] (sekali per giliran)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Thoracalgia",
+          "abName": "Sleeping Bag of a Bygone Day",
+          "desc": "[CantIdentify]\nPrioritizes targets with the least HP (memprioritaskan kawan)\nJika seorang kawan is one of Skill ini's targets, beri +30% damage\n\n[BeforeAttack] Pada kurang dari 15 [Breath], konsumsi 10% HP untuk peroleh 5 [Breath] dan +5 Count [Breath]\n- Cannot be terkena Stagger atau defeated akibat efek ini\n<style=\"highlight\">- Peroleh 1 [Breath] untuk setiap kawan targeted by Skill ini (maks 2)</style>\n\n[EndSkill] Jika target dikalahkan, peroleh 2 [HoldingBreath] giliran berikutnya. (sekali per giliran) Jika target tersebut was seorang kawan, aktifkan hal berikut juga:\n- Allies that are made to participate atau are Substituted menjadi this Pertemuan akibat the defeated kawan peroleh <style=\"highlight\">4</style> [Breath] dan +2 Count [Breath]\n<style=\"highlight\">- Recover setengah dari SP digunakan oleh Skill ini</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">Beri +(Potency [Breath] + Count)% damage pada Serangan Critical (maks 20%)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 4 [HoldingBreath] (sekali per giliran)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Thoracalgia",
+          "abName": "Sleeping Bag of a Bygone Day",
+          "desc": "[CantIdentify]\nPrioritizes targets with the least HP (memprioritaskan kawan)\nJika seorang kawan is one of Skill ini's targets, beri +30% damage\n\n[BeforeAttack] Pada kurang dari 15 [Breath], konsumsi 10% HP untuk peroleh 5 [Breath] dan +5 Count [Breath]\n- Cannot be terkena Stagger atau defeated akibat efek ini\n- Peroleh <style=\"highlight\">2</style> [Breath] untuk setiap kawan targeted by Skill ini (maks <style=\"highlight\">4</style>)\n\n[EndSkill] Jika target dikalahkan, peroleh 3 [HoldingBreath] giliran berikutnya. (sekali per giliran) Jika target tersebut was seorang kawan, aktifkan hal berikut juga:\n- Allies that are made to participate atau are Substituted menjadi this Pertemuan akibat the defeated kawan peroleh 4 [Breath] dan +<style=\"highlight\">4</style> Count [Breath]\n<style=\"highlight\">- Recover SP digunakan oleh Skill ini dan regain 1 dari setiap E.G.O resources terkonsumsi</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Beri +(Potency [Breath] + Count)% damage pada Serangan Critical (maks <style=\"highlight\">40%</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh <style=\"highlight\">7</style> [HoldingBreath] (sekali per giliran)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Great Trichiliocosm [三千大世界]",
+          "abName": "Butterfly of Entangled Lives [羅生蝶]",
+          "desc": "[BeforeAttack] Peroleh (Reson. tertinggi) [Breath] (maks 7)\n\n[EndSkill] Peroleh 1 [RyoshuEGOPF]\n[EndSkill] Lose 10 SP pada Akhir Giliran for 3 giliran",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Beri +30% Damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[OnStartCoin] Konsumsi semua [RyoshuEGOPF] pada diri sendiri dan beri +1% damage untuk setiap 5 [RyoshuEGOPF] terkonsumsi (maks 100%)",
+                  "summary": "[OnStartCoin] Beri lebih banyak damage berdasarkan [RyoshuEGOPF]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Great Trichiliocosm [三千大世界]",
+          "abName": "Butterfly of Entangled Lives [羅生蝶]",
+          "desc": "[BeforeAttack] Peroleh (Reson. tertinggi) [Breath] (maks 7)\n<style=\"highlight\">[BeforeAttack] Peroleh +2 Count [Breath]</style>\n\n[EndSkill] Peroleh 1 [RyoshuEGOPF]\n[EndSkill] Lose 10 SP pada Akhir Giliran for 3 giliran",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Beri 1 [Binding] giliran berikutnya</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Coin Power +3 for Coin terakhir (sekali per Skill)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "+30% Damage pada Serangan Critical<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnStartCoin] Beri +1% damage untuk setiap 10 ([Combustion] Potency + [Laceration] Potency) pada semua target (maks 30%)</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnStartCoin] Coin Power +1 untuk setiap 10 ([Combustion] Count + [Laceration] Count) pada semua target (maks 3)</style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Konsumsi semua [RyoshuEGOPF] pada diri sendiri dan beri +1% damage untuk setiap 5 [RyoshuEGOPF] terkonsumsi (maks 100%)\n- Ketika menyerang hanya a single target, the damage modifying effect above is applied at 1.5x its value (di Pertemuan Terfokus, Inti dan its connected Parts dihitung sebagai a single target)",
+                  "summary": "<style=\"highlight\">[OnStartCoin] Beri lebih banyak damage berdasarkan [RyoshuEGOPF]</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Great Trichiliocosm [三千大世界]",
+          "abName": "Butterfly of Entangled Lives [羅生蝶]",
+          "desc": "[BeforeAttack] Peroleh (Reson. tertinggi) [Breath] (maks 7)\n[BeforeAttack] Peroleh <style=\"highlight\">+3</style> Count [Breath]\n\n[EndSkill] Peroleh 1 [RyoshuEGOPF]\n[EndSkill] Lose 10 SP pada Akhir Giliran for 3 giliran",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Binding] giliran berikutnya<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Coin Power <style=\"highlight\">+5</style> for Coin terakhir (sekali per Skill)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "+30% Damage pada Serangan Critical<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Beri +1% damage untuk setiap 10 ([Combustion] Potency + [Laceration] Potency) pada semua target <style=\"highlight\">(maks 50%)</style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Coin Power +1 untuk setiap 10 ([Combustion] Count + [Laceration] Count) pada semua target <style=\"highlight\">(maks 5)</style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Konsumsi semua [RyoshuEGOPF] pada diri sendiri dan beri +1% damage untuk setiap 5 [RyoshuEGOPF] terkonsumsi <style=\"highlight\">(maks 198%)</style>\n- Ketika menyerang hanya a single target, the damage modifying effect above is applied at <style=\"highlight\">2x</style> its value (di Pertemuan Terfokus, Inti dan its connected Parts dihitung sebagai a single target)",
+                  "summary": "[OnStartCoin] Beri lebih banyak damage berdasarkan [RyoshuEGOPF]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Great Trichiliocosm [三千大世界]",
+          "abName": "Butterfly of Entangled Lives [羅生蝶]",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Konsumsi a maximum of 20 surplus [Breath] past 20 [Breath] pada diri sendiri, dan untuk setiap [Breath] terkonsumsi, pulihkan 1% of maks HP (min 1 HP) dan beri +1% damage dengan Skill ini\n[BeforeAttack] Peroleh +3 Count [Breath]\n[BeforeAttack] Pada 999 [RyoshuEGOPF], Base Power +1\n[BeforeAttack] Base Power -3 untuk setiap Coin Retak (maks -9)\n\n[EndSkill] Peroleh 10 [RyoshuEGOPF]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Beri +30% Damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[OnStartCoin] Konsumsi semua [RyoshuEGOPF] pada diri sendiri dan beri +1% damage untuk setiap 5 [RyoshuEGOPF] terkonsumsi (maks 100%)",
+                  "summary": "[OnStartCoin] Beri lebih banyak damage berdasarkan [RyoshuEGOPF]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Great Trichiliocosm [三千大世界]",
+          "abName": "Butterfly of Entangled Lives [羅生蝶]",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Konsumsi a maximum of 20 surplus [Breath] past 20 [Breath] pada diri sendiri, dan untuk setiap [Breath] terkonsumsi, pulihkan 1% of maks HP (min 1 HP) dan beri +1% damage dengan Skill ini\n[BeforeAttack] Peroleh +3 Count [Breath]\n[BeforeAttack] Pada 999 [RyoshuEGOPF], Base Power <style=\"highlight\">+2</style>\n[BeforeAttack] Base Power -3 untuk setiap Coin Retak (maks -9)\n\n[EndSkill] Peroleh <style=\"highlight\">20</style> [RyoshuEGOPF]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Beri 1 [Binding] giliran berikutnya</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Beri +30% damage with Coin terakhir (sekali per Skill)</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "+30% Damage pada Serangan Critical<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnStartCoin] Beri +1% damage untuk setiap 10 ([Combustion] Potency + [Laceration] Potency) pada semua target (maks 30%)</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnStartCoin] Final Power +1 untuk setiap 10 ([Combustion] Count + [Laceration] Count) pada semua target (maks 3)</style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Konsumsi semua [RyoshuEGOPF] pada diri sendiri dan beri +1% damage untuk setiap 5 [RyoshuEGOPF] terkonsumsi (maks 100%)\n<style=\"highlight\">- Ketika menyerang hanya a single target, the damage modifying effect above is applied at 1.5x its value (di Pertemuan Terfokus, Inti dan its connected Parts dihitung sebagai a single target)</style>",
+                  "summary": "[OnStartCoin] Beri lebih banyak damage berdasarkan [RyoshuEGOPF]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Great Trichiliocosm [三千大世界]",
+          "abName": "Butterfly of Entangled Lives [羅生蝶]",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Konsumsi a maximum of 20 surplus [Breath] past 20 [Breath] pada diri sendiri, dan untuk setiap [Breath] terkonsumsi, pulihkan 1% of maks HP (min 1 HP) dan beri +1% damage dengan Skill ini\n[BeforeAttack] Peroleh <style=\"highlight\">+5</style> Count [Breath]\n[BeforeAttack] Pada 999 [RyoshuEGOPF], Base Power <style=\"highlight\">+3</style>\n[BeforeAttack] Base Power -3 untuk setiap Coin Retak (maks -9)\n\n[EndSkill] Peroleh <style=\"highlight\">33</style> [RyoshuEGOPF]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Binding] giliran berikutnya<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri <style=\"highlight\">+50%</style> damage with Coin terakhir (sekali per Skill)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "+30% Damage pada Serangan Critical<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Beri +1% damage untuk setiap 10 ([Combustion] Potency + [Laceration] Potency) pada semua target <style=\"highlight\">(maks 50%)</style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Final Power +1 untuk setiap 10 ([Combustion] Count + [Laceration] Count) pada semua target <style=\"highlight\">(maks 5)</style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Konsumsi semua [RyoshuEGOPF] pada diri sendiri dan beri <style=\"highlight\">+1.25%</style> damage untuk setiap 5 [RyoshuEGOPF] terkonsumsi <style=\"highlight\">(maks 248%)</style>\n- Ketika menyerang hanya a single target, the damage modifying effect above is applied at <style=\"highlight\">2x</style> its value (di Pertemuan Terfokus, Inti dan its connected Parts dihitung sebagai a single target)",
+                  "summary": "[OnStartCoin] Beri lebih banyak damage berdasarkan [RyoshuEGOPF]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

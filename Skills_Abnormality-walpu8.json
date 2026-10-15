@@ -1,0 +1,313 @@
+{
+  "dataList": [
+    {
+      "id": 136601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pounce",
+          "desc": "Prioritaskan target dengan the highest HP percentage\n[WhenUse] Jika target memiliki 4+ [Laceration], Base Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 136602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gnawing Gobble",
+          "desc": "Prioritaskan target dengan the highest HP percentage\n[WhenUse] Jika target memiliki 4+ [Laceration], Base Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [Laceration], Beri 2 [PenetrateResistDown] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 136603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Orange-flavored Bubble Supplement",
+          "desc": "Prioritaskan target dengan the highest HP percentage\n[WhenUse] Jika target memiliki 4+ [Laceration], Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 136604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Add a Note of Bubbly Flavor",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 4 [Laceration] pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [Laceration], Beri 2 [PenetrateResistDown] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 136605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Herd Migration",
+          "desc": "[OnSucceedEvade] Beri 2 [Binding] giliran berikutnya\n[EndBattle] [RunHallway] kadaluarsa; lalu, aktifkan [NextHallway]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 136901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chomping Gobble",
+          "desc": "Prioritaskan target dengan Speed paling lambat\n[WhenUse] Jika target memiliki 4+ [Laceration], Base Power +1\n[BeforeAttack] Base Power -1 untuk setiap Coin Retak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration] dan +3 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 136902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Filling a Medium-sized Orange Bubble",
+          "desc": "Prioritaskan target dengan Speed paling lambat\n[WhenUse] Jika target memiliki 4+ [Laceration], Coin Power +1\n[BeforeAttack] Base Power -1 untuk setiap Coin Retak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vulnerable] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 136903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "More Potent, More Plentiful",
+          "desc": "Prioritaskan target dengan Speed paling lambat\n[WhenUse] Coin Power +1 untuk setiap 3 [Laceration] pada target (maks 2)\n[BeforeAttack] Base Power -1 untuk setiap Coin Retak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +4 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [PenetrateResistDown] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 136904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Feed Consumption for BongBong Procreation",
+          "desc": "Prioritaskan target dengan Speed paling lambat\n[WhenUse] Coin Power +1 untuk setiap 3 [Laceration] pada target (maks 2)\n[BeforeAttack] Base Power -1 untuk setiap Coin Retak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 136905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Herd Migration",
+          "desc": "[CanDuelGuard]\n[EndBattle] [RunHallway] kadaluarsa; lalu, aktifkan [NextHallway] for 'self' dan 'The Perfect Food summoned sebanyak self'",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

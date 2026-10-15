@@ -1,0 +1,1923 @@
+{
+  "dataList": [
+    {
+      "id": 837801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "This Unforgivable Sin...",
+          "desc": "[WhenUse] Peroleh 20 [Laceration] dan +1 [Laceration] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The Deserved Penance...",
+          "desc": "[WhenUse] Peroleh 20 [Laceration] dan +1 [Laceration] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Did you think about blood today?",
+          "desc": "[WhenUse] Peroleh 10 [Laceration]\n[WhenUse] Konsumsi hingga 30 [BloodDinner]: pulihkan \"Inti\" dan Bagian dari kawan dengan HP paling sedikit sebanyak ([BloodDinner] yang dikonsumsi x 2). (excludes self; dibulatkan ke bawah)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [WornHeart] dan [BloodyHand]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Are you still thinking about blood?",
+          "desc": "[WhenUse] Peroleh 10 [Laceration]\n[WhenUse] Konsumsi hingga 20 [BloodDinner]: pulihkan self dan kawan(\"Inti\" dan Bagian) dengan HP paling sedikit sebanyak ([BloodDinner] yang dikonsumsi x 2).\n- Jika tidak ada remaining kawan, double the pemulihan pada diri sendiri",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 50%+ HP, aktifkan [Laceration] pada diri sendiri. Kehilangan 1 [Laceration] Count pada diri sendiri"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 3 [WornHeart] dan [BloodyHand]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 10 [WornHeart], peroleh 3 tambahan [BloodyHand] dan peroleh 1 [AttackUp] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "More, lebih blood...!",
+          "desc": "[WhenUse] Konsumsi hingga 50 [BloodDinner] dan peroleh 1 [BloodyHand] untuk setiap 10 [BloodDinner] yang dikonsumsi\n[WhenUse] Peroleh 10 [Laceration]\n[WhenUse] Peroleh 3 [BloodyHand]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [BloodyHand] untuk setiap 5 [Laceration] pada target (maks 5)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837806,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "How Bountiful...",
+          "desc": "[WhenUse] Jika target memiliki 6+ [Laceration], Coin Power +1\n[WhenUse] Konsumsi hingga 30 [BloodDinner]: peroleh Coin Power +1 untuk setiap 10 [BloodDinner] yang dikonsumsi (efek kadaluarsa setelah Coin pertama attack)\n[DefeatDuel] Peroleh 1 [Vulnerable] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan HP setara dengan damage yang diberikan (Maks 30)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika Skill ini yang dikonsumsi 30 [BloodDinner], dan jika unit ini berada pada 30+ [BloodyHand_3rd], Gunakan ulang Coin ini sekali"
+                },
+                {
+                  "desc": "- Jika unit ini failed to konsumsi [BloodDinner] dengan Skill ini, peroleh 20 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837807,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sacrifice for the Family",
+          "desc": "[StartBattle] Pada 50%+ HP, aktifkan [Laceration] pada diri sendiri (maks 3 kali; kurangi Bleed Count setiap kali it diaktifkan; tidak dapat Stagger dari damage ini)\n[StartBattle] Semua kawan pulihkan 5 SP (termasuk diri sendiri)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837808,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Blood...",
+          "desc": "[WhenUse] Jika target memiliki 6+ [Laceration], beri +20% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Expression of Love",
+          "desc": "Prioritaskan target dengan the least number dari efek negatif\n[WhenUse] Jika target tidak memiliki any efek negatif, gunakan 'Rough Expression of Love' giliran berikutnya\n\n[WhenUse] Jika target memiliki lebih efek negatif than [FaintMemory] pada diri sendiri, gunakan 'A Sad Embrace' giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [AffectionTeddy]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Beri 2 [Vulnerable] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Clawing",
+          "desc": "Prioritaskan target dengan the least number dari efek negatif\n[WinDuel] Beri 3 [AffectionTeddy] giliran berikutnya\n[DefeatDuel] Beri 1 [AffectionTeddy] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Violent Clawing",
+          "desc": "Prioritaskan target dengan the least number dari efek negatif\n[WinDuel] Beri 3 [AffectionTeddy] giliran berikutnya\n[DefeatDuel] Beri 1 [AffectionTeddy] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Curse]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Timid Expression of Love",
+          "desc": "[DuelCounter]\n[WhenUse] Beri 2 [Disarming] giliran berikutnya\n[WhenUse] Beri 1 [Curse]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [AffectionTeddy], konsumsi [AffectionTeddy] dan beri [Curse] dan [NailPersonality] setara dengan nilainya of [AffectionTeddy] yang dikonsumsi (konsumsi hingga 4)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 4+ [Curse], konsumsi 4 [Curse] pada target dan beri 1 [CursePackage]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rough Expression of Love",
+          "desc": "[CantChangeTarget]\nTarget target unit ini Clashed dengan 'Expression of Love' giliran sebelumnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Jika target tidak memiliki any efek negatif, beri +100% damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Curse]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Beri 6 [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "A Sad Embrace",
+          "desc": "[CantChangeTarget]\nTarget target unit ini Clashed dengan 'Expression of Love' giliran sebelumnya\nFix the damage yang diberikan terhadap that target menjadi 0\n[StartBattle] Peroleh 2 [Vulnerable] hingga giliran berikutnya\n[EndBattle] Masuk Stagger state",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Memulihkan sepenuhnya SP target"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837907,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "An Old, Nostalgic Embrace",
+          "desc": "[DefeatDuel] Beri hanya half damage terhadap musuh dengan Skill ini",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Curse]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [NailPersonality]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Konsumsi semua [AffectionTeddy] pada target\n- Jika unit ini won the Clash, naikkan Batas Stagger target sebanyak ([AffectionTeddy] yang dikonsumsi x 10)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tekanan Bawah",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration] dan +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Keinginan Tertusuk",
+          "desc": "[WhenUse] Jika target memiliki 4+ [Laceration], Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Keinginan Ditekan",
+          "desc": "[WhenUse] Jika target memiliki 4+ [Laceration], Base Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[WinDuelAttack] Beri [Laceration] Count setara dengan [Laceration] Count target lost during the Clash"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [ScarletTakeDamageUp] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guard",
+          "desc": "[WhenUse] Perisai HP +10 untuk setiap 4 [Laceration] pada target (maks 30)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Menggiling",
+          "desc": "[WhenUse] Peroleh +2 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 3 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 3 [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 1 [Vulnerable] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Crush",
+          "desc": "[WhenUse] Peroleh 5 [Breath]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [IndigoTakeDamageUp] giliran berikutnya"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 1 [Vulnerable] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hantaman Kesombongan",
+          "desc": "[WhenUse] Pada 5+ [Breath], Coin Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 4 [Breath] dan +3 Count [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri +100% damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Counter",
+          "desc": "[WhenUse] Pada 6+ [Breath], Coin Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count [Breath] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Topple",
+          "desc": "[WhenUse] Konsumsi 10 [BloodDinner]: peroleh 1 [BloodArmor]\n[WhenUse] Coin Power +1 untuk setiap 10 [BloodArmor] (maks 2)\n[WhenUse] Coin Power +1 untuk setiap 15 [Laceration] pada diri sendiri (maks 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wound",
+          "desc": "[WhenUse] Konsumsi hingga 20 [BloodDinner]: peroleh 1 [BloodArmor] untuk setiap 10 [BloodDinner] yang dikonsumsi\n[WhenUse] Coin Power +1 untuk setiap 10 [BloodArmor] (maks 2)\n[WhenUse] Coin Power +1 untuk setiap 15 [Laceration] pada diri sendiri (maks 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sanguine Joy",
+          "desc": "[WhenUse] Konsumsi 4 [BloodArmor] to pulihkan 10 SP\n[WhenUse] Konsumsi 10 [BloodDinner] untuk peroleh 1 [BloodArmor] dan pulihkan 10 SP\n- Jika unit ini failed to konsumsi [BloodDinner], peroleh 3 [Laceration].",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +10% damage untuk setiap [Laceration] pada target (maks 100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration] dan +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ecstasy of Blood",
+          "desc": "Dapat Clash dengan Skill ini tanpa peduli dengan Speed\n[StartBattle] Jika terdapat musuh dengan [Laceration], aktifkan [Laceration] pada semua musuh. Semua musuh kehilangan 2 [Laceration] Count\n[WhenUse] Jika efek ini did not aktifkan at Awal Pertempuran, peroleh 30 [Laceration].\n[WinDuel] Konsumsi hingga 40 [BloodDinner]: untuk setiap 10 [BloodDinner] yang dikonsumsi, peroleh 1 [BloodArmor] dan beri +25% damage (maks 100%)\n- Jika unit ini failed to konsumsi [BloodDinner], peroleh 5 [Laceration], dan aktifkan [Laceration] immediately. Kehilangan 2 [Laceration] Count\n[EndSkill] Ends giliran ini",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration] dan +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration] dan +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Don Quixote Hardblood Arts 4 - Sundering",
+          "desc": "[WhenUse] Jika target memiliki 6+ [Laceration], Coin Power +1\n[WinDuel] With Skill ini, beri +20% damage dengan setiap Stage of [BloodArmor] (maks 60%)\n[DefeatDuel] Konsumsi 4 [BloodArmor] untuk peroleh 20 Perisai HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Don Quixote Hardblood Arts 11 - Impaling",
+          "desc": "[WhenUse] Base Power +1 untuk setiap 3 [Laceration] pada target (maks 3)\n[WinDuel] With Skill ini, beri +20% damage dengan setiap Stage of [BloodArmor] (maks 60%)\n[DefeatDuel] Konsumsi 4 [BloodArmor] untuk peroleh 20 Perisai HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [Laceration] pada target setara dengan its Count. Use up target's [Laceration] Count turun hingga 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838007,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Don Quixote Hardblood Arts 2 - Hardblood",
+          "desc": "Dapat Clash dengan Skill ini tanpa peduli dengan Speed\n[StartBattle] Konsumsi 200 [BloodDinner], peroleh 500 Perisai HP, 5 [BloodArmor], dan 1 [SwirlingBlood]\n- Jika unit ini doesn't have enough [BloodDinner], peroleh 50 [Laceration], dan aktifkan [Laceration] immediately. Kehilangan 2 [Laceration] Count. Peroleh 500 Perisai HP dan 1 [SwirlingBlood] (damage ini tidak dapat kurangi HP unit ini menjadi 1)\n[WinDuel] Peroleh 200 Perisai HP\n[DefeatDuel] Peroleh 3 [Vulnerable] as long as Perisai diperoleh karena Skill ini aktif\n[DefeatDuel] Beri -50% damage, dan the damage dari Skill ini tidak men-Stagger target\n[EndSkill] Ends giliran ini",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration] dan +3 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838008,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Variant Don Quixote Style: Sancho Arts 4 - Track",
+          "desc": "Prioritaskan target dengan the most [Laceration]\n[BeforeAttack] Jika target is the one dengan the most [Laceration], peroleh Atk Weight +2 dan Clash Power +3\n[WhenUse] Konsumsi hingga 30 [BloodDinner]: peroleh 1 [BloodArmor] dan Coin Power +1 untuk setiap 15 [BloodDinner] yang dikonsumsi (maks 2)\n- Jika unit ini failed to konsumsi [BloodDinner], peroleh 10 [Laceration], dan aktifkan [Laceration] immediately. Kehilangan 2 [Laceration] Count\n[EndSkill] Menambah [BloodDinner] setara dengan the damage Skill ini dealt",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 8 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Binding] giliran berikutnya\n- Jika Skill ini yang dikonsumsi 30 [BloodDinner], beri 2 tambahan [Binding]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838009,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Variant Don Quixote Style: Sancho Arts 3 - Ambush",
+          "desc": "Prioritaskan target dengan the most [Laceration]\n[BeforeAttack] Jika target is the one dengan the most [Laceration], peroleh Atk Weight +2 dan Clash Power +3\n[WhenUse] Konsumsi hingga 50 [BloodDinner]: peroleh 1 [BloodArmor] dan Base Power +1 untuk setiap 10 [BloodDinner] yang dikonsumsi (maks 5)\n- Jika unit ini failed to konsumsi [BloodDinner], peroleh 10 [Laceration], dan aktifkan [Laceration] immediately. Kehilangan 1 [Laceration] Count\n[EndSkill] Menambah [BloodDinner] setara dengan the damage Skill ini dealt",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Paralysis] giliran berikutnya\n- Jika Skill ini yang dikonsumsi 50 [BloodDinner], beri 2 tambahan [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838010,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Variant Don Quixote Style: Sancho Arts 2 - La Sangre",
+          "desc": "Dapat Clash dengan Skill ini tanpa peduli dengan Speed\n[WhenUse] Konsumsi 50 [BloodDinner] untuk beri 1 [Paralysis] terhadap target dan self\n[WhenUse] Konsumsi 100 [BloodDinner] untuk peroleh Clash Power +5\n- Jika there isn't enough [BloodDinner], konsumsi 100 HP dari unit ini untuk peroleh Clash Power +5\n[EndSkill] Ends giliran ini",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 8 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Pulihkan sebanyak damage yang diberikan"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "La Aventura Ha Terminado",
+          "desc": "[WhenUse] Konsumsi (45 - current SP) [BloodDinner] to pulihkan hingga 45 SP\n- Jika there isn't enough [BloodDinner], konsumsi hingga (45 - current SP) HP to pulihkan hingga 45 SP (damage ini tidak dapat lower HP unit ini di bawah 1)\n- Peroleh Perisai HP setara dengan the remaining [BloodDinner] (maks 100)\n[WinDuel] Beri 10 [Laceration]\n[DefeatDuel] Konsumsi 100 [BloodDinner]\n[EndSkill] Menambah [BloodDinner] setara dengan the damage yang diberikan",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +10% damage untuk setiap [Laceration] pada target (maks 200%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +10% damage untuk setiap [BloodDinner] (maks 100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration] dan +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 839401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Keeehhhhnnhhh",
+          "desc": "[WhenUse] Peroleh 3 [DefenseUp]\n[DefeatDuel] Peroleh 3 [DefenseUp]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [DefenseUp] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [DefenseUp] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 839402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Knnhgh nhhnnh",
+          "desc": "[WinDuel] Beri 1 [Binding] giliran berikutnya\n[WhenUse] Base Power +1 untuk setiap 4 [DefenseUp] pada diri sendiri (maks 2)\n[WhenUse] Peroleh 3 [DefenseUp]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [DefenseUp] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [DefenseUp] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [DefenseUp] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 839403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Knngghh",
+          "desc": "[StartBattle] Beri 3 [DefenseUp] menjadi 1 kawan, termasuk unit ini, dengan HP paling sedikit percentage\n[WhenUse] Base Power +1 untuk setiap 5 [DefenseUp] pada diri sendiri (maks 4)",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh Level Offense Up setara dengan [DefenseUp] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 839404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Knnh",
+          "desc": "[StartBattle] Peroleh 2 x ([DefenseUp] pada diri sendiri) Perisai HP (maks 20, 2 kali per giliran)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Spiked Whip",
+          "desc": "[WhenUse] Jika target memiliki 6+ [Burst], Clash Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Whip Crack",
+          "desc": "[WhenUse] Jika target memiliki 6+ [Burst], Coin Power +1\n[WinDuel] Beri +2 [Burst] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki kurang dari 5 [Burst] Count, beri +2 [Burst] Count\n- Pada 5+ [Burst] Count, beri 2 [Burst] saja"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki kurang dari 5 [Burst] Count, beri +2 [Burst] Count\n- Pada 5+ [Burst] Count, beri 2 [Burst] saja"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Strangling Crown of Thorns",
+          "desc": "Prioritaskan target dengan the lowest SP\n[WhenUse] Jika target memiliki 0- SP, Clash Power +3\n[WhenUse] Coin Power +1 untuk setiap 4 [Burst] pada target (maks 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 SP damage\n- Jika target memiliki 0- SP, beri 20 SP damage saja"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Withdraw Whip",
+          "desc": "Prioritaskan target dengan [ThornNoose]\nJika target tidak memiliki [ThornNoose], beri -50% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [ThornNoose], beri 2 [Burst]\n- Jika target memiliki 10+ [Burst], beri +2 [Burst] Count saja"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [ThornNoose], beri 2 [Burst]\n- Jika target memiliki 10+ [Burst], beri +2 [Burst] Count saja"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [ThornNoose], beri 2 [Burst]\n- Jika target memiliki 10+ [Burst], beri +2 [Burst] Count saja"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [ThornNoose], beri +50% damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Barbed Lasso",
+          "desc": "[WhenUse] Jika Speed unit ini lebih cepat daripada target, Clash Power +5\n[WhenUse] Coin Power +1 untuk setiap 4 [Burst] pada target (maks 2)\n[WhenUse] Peroleh Base Power sebanyak jumlah dari target dengan [ThornNoose]",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Burst] dan +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target kena Stagger atau has [ThornNoose], beri +30% damage"
+                },
+                {
+                  "desc": "[EnemyKill] Beri ([Burst] Count pada target x 2) [Burst] terhadap semua musuh (maks 10)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Whip Wreath",
+          "desc": "[StartBattle] Peroleh (number of musuh dengan [ThornNoose])% dari HP as Perisai",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837607,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Snaring Lasso",
+          "desc": "[StartBattle] Jika terdapat 3- musuh dengan [ThornNoose], beri 1 [ThornNoose]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thorns",
+          "desc": "[CantChangeTarget]\nPrioritaskan target dengan Barbed Lasso",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Burst] dan +2 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 839601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gracefully...",
+          "desc": "[WhenUse] Jika target memiliki 6+ [Laceration], Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 839001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The Infinite Parade",
+          "desc": "[CantDuel]\nJika target menggunakan Skill Defense, beri -100% damage\n[WhenUse] Hasilkan 1 Gondola giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 839002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The Eternal Festival",
+          "desc": "[CantDuel]\nJika target menggunakan Skill Defense, beri -100% damage\n[WhenUse] Hasilkan 4 Gondola giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 840301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "LETMEOUT!!!LETMEOUT!!!",
+          "desc": "Uses a self-detonating Skill giliran berikutnya.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 840302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "IT'S ABOUT TO BLOW!!!!!",
+          "desc": "[CantDuel]\n[StartBattle] Peroleh 3 Fragile",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] Beri 10 Lust damage terhadap target, lalu kadaluarsa"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 840303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The Fanfare!",
+          "desc": "[CantDuel]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin] Beri 10 Lust damage terhadap target, lalu mati."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Burning Thirst",
+          "desc": "[WhenUse] Base Power +1 untuk setiap 5 [Laceration] pada target (maks 3)\n[WhenUse] Konsumsi hingga 30 [BloodDinner]: peroleh 1 [RegainedStrength] untuk setiap 10 [BloodDinner] yang dikonsumsi\n[DefeatDuel] Kehilangan 3 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Be Impaled",
+          "desc": "[WhenUse] Konsumsi hingga 40 [BloodDinner]: peroleh 1 [RegainedStrength] dan pulihkan 3 SP untuk setiap 10 [BloodDinner] yang dikonsumsi\n\n[DefeatDuel] Kehilangan 3 SP\n[DefeatDuel] Konsumsi 3 [RegainedStrength]. Peroleh 3 [DefenseDown] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri Lust damage setara dengan 20% dari maks HP target"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri Lust damage setara dengan 20% dari maks HP target"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Don Quixote Hardblood Arts 2 - Stake",
+          "desc": "Attack target dengan the most [Laceration]\n[WhenUse] Coin Power +1 untuk setiap 5 [Laceration] pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri Lust damage setara dengan ([Laceration] Potency x Count)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hardblood Wedge",
+          "desc": "[StartBattle] Peroleh Atk Weight +1 untuk setiap 3 [RegainedStrength] pada diri sendiri (maks 2)\n[EndSkill] Konsumsi 3 [RegainedStrength]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Beri 3 [Burst]"
+                },
+                {
+                  "desc": "[DefeatDuelAttack] Konsumsi 1 [RegainedStrength]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[WinDuelAttack] Beri 3 [Burst]"
+                },
+                {
+                  "desc": "[DefeatDuelAttack] Konsumsi 1 [RegainedStrength]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Desire for Blood",
+          "desc": "[WhenUse] Konsumsi hingga 40 [BloodDinner]: peroleh 1 [RegainedStrength] untuk setiap 10 [BloodDinner] yang dikonsumsi",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Moment of Bloodfeast",
+          "desc": "[CantIdentify]\n[WhenUse] Konsumsi hingga 300 [BloodDinner]: peroleh 1 [RegainedStrength] dan pulihkan 3 SP untuk setiap 10 [BloodDinner] yang dikonsumsi\n[WhenUse] Jika unit ini yang dikonsumsi [BloodDinner], pulihkan 30 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841007,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Don Quixote Hardblood Arts 4 - Sundering",
+          "desc": "Tidak dapat Stagger hingga he uses Skill ini.\n[WhenUse] Konsumsi hingga 100 [BloodDinner]: peroleh 1 [RegainedStrength] dan pulihkan 15 SP untuk setiap 10 [BloodDinner] yang dikonsumsi\n[WhenUse] Clash Power +1 untuk setiap [BloodDinner_Accumulation] sebanyak unit ini (maks 15)\n[DefeatDuel] Beri -50% damage, dan the damage dari Skill ini tidak men-Stagger target.\n[EndSkill] Untuk giliran ini dan giliran berikutnya, peroleh [AttackDown] dan [DefenseDown] setara dengan the Clash Power diperoleh dengan Skill ini. (maks 15)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 8 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Konsumsi 2 [RegainedStrength]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841008,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Don Quixote Hardblood Arts 14: Mantle",
+          "desc": "[DuelGuard]\n[WinDuel] Beri 4 [Laceration] dan [Burst]\n[DefeatDuel] Konsumsi 2 [RegainedStrength]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841009,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Frail, So Frail",
+          "desc": "[DuelCounter]\nBase Power +1 untuk setiap 10 [RegainedStrength]\nCoin Power +1 untuk setiap 5 [Laceration] pada target (maks 2)\n[DefeatDuel] Kehilangan 3 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration] dan +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration] dan +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841010,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bloody-Merry-Go-Round",
+          "desc": "[CantDuel]\n[WhenUse] Hasilkan Coagulated Dream giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Be Impaled",
+          "desc": "[DefeatDuel] Kehilangan 3 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Target menjadi staggered, lalu menjadi [Penetration] giliran berikutnya"
+                },
+                {
+                  "desc": "[EndCoin] Target kehilangan 25 [Laceration] Potency. Peroleh [Laceration] dan increase [BloodDinner] setara dengan that value"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841012,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ascendant Don Quixote Hardblood Arts - The Sphere",
+          "desc": "Tidak dapat Stagger hingga he uses Skill ini.\nBeri damage lebih setara dengan [BloodDinner_Common_Accumulation]. (maks 300%)\n[WhenUse] Pulihkan 30 SP\n[WhenUse] Clash Power +1 untuk setiap 10 [RegainedStrength]\n[EndSkill] Konsumsi semua [RegainedStrength]. Peroleh 5 [Vulnerable] giliran ini dan giliran berikutnya. Peroleh 2 [Binding] giliran berikutnya.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ksssh",
+          "desc": "[WhenUse] Beri [DuelDeclaration_Camille]\n[WhenUse] Peroleh 5 [Breath]\n[WinDuel] Peroleh +2 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hnnnhhhhhh",
+          "desc": "[WhenUse] Peroleh 2 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 7+ Speed, beri 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 3 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 7+ Speed, beri 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kihh",
+          "desc": "[WhenUse] Pada 7+ [Breath], Coin Power +2\n[WinDuel] Peroleh +2 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 3 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 7+ Speed, beri 3 [Burst] Count"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] +50% Damage pada Serangan Critical"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ksssh",
+          "desc": "[WhenUse] Jika Speed unit ini lebih cepat daripada target, Coin Power +1 (Coin Power +1 untuk setiap 2 perbedaan Speed; maks 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +4 Count [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 7+ Speed, beri 3 [Burst] dan +1 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 5 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 7+ Speed, beri 3 [Burst] dan +1 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 5 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 7+ Speed, beri 3 [Burst] dan +1 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] +100% Damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +5% damage untuk setiap [Burst] pada target (Maks 50%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Knnh",
+          "desc": "[WinDuel] Beri damage lebih berdasarkan number of Clashes (+10% damage untuk setiap Clash, maks 50%)\n[WinDuel] Peroleh 2 [Agility] giliran berikutnya\n[DefeatDuel] Peroleh 2 [Binding] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vulnerable] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Knhhh",
+          "desc": "[OnSucceedEvade] Peroleh 1 [Agility] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841013,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ascendant Don Quixote Hardblood Arts - La Sangre",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 841301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Shining Memories of the Adventure",
+          "desc": "[StartBattle] Beri 1 [ParryingResultUp] dan 1 [AttackDmgUp] to Sinner acak\n[StartBattle] Beri 1 [Vulnerable] terhadap both Don Quixote dan his Coagulated Dream",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

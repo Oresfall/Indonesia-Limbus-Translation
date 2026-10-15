@@ -1,0 +1,69 @@
+{
+  "dataList": [
+    {
+      "id": 122301,
+      "name": "The Knight of Despair",
+      "desc": "Terima -50% damage dari [Combustion], [Laceration], [Vibration], [Burst], dan [Sinking] (dibulatkan ke bawah)\nJika unit ini hits dengan a Cracked [SuperCoin], it tidak mengaktifkan target's [Sinking] efek (tidak mengonsumsi Count either)"
+    },
+    {
+      "id": 122302,
+      "name": "River of Helpless Tears",
+      "desc": "Awal Giliran: jika none of the swords di medan tempur have [HelplessTear], beri [HelplessTear] menjadi 1 acak sword (sekali per giliran; tidak mengaktifkan jika a sword has [HelplessTear])"
+    },
+    {
+      "id": 122303,
+      "name": "Hollow Pride",
+      "desc": "Akhir Giliran setelah getting Stagger untuk pertama kalinya: jika terdapat Sinner dengan 5+ [ColdBlackTear], uses an AoE Skill giliran berikutnya\nAkhir Giliran setelah getting Stagger untuk pertama kalinya: jika semua Sinner have [ColdBlackTear], peroleh [SignOfDespair] giliran berikutnya"
+    },
+    {
+      "id": 122304,
+      "name": "Shared Sorrow",
+      "desc": "Ketika Stagger untuk pertama kalinya, pulih dari Stagger giliran berikutnya; lalu, peroleh 10 [Protection] dan 500 Perisai setiap giliran\nSummon a Forgotten Knight's Sword giliran berikutnya"
+    },
+    {
+      "id": 122305,
+      "name": "Weathered Knight",
+      "desc": "Every time a sword pierces unit ini, peroleh 1 [CollapsedPride], dan [Protection] diperoleh setiap giliran berkurang sebanyak 3 while Perisai HP diperoleh setiap giliran berkurang sebanyak 100\nPada 3 [CollapsedPride], unit ini no longer peroleh [Protection] dan Perisai setiap giliran, dan saja menjadi Stagger giliran berikutnya dan peroleh [WornOutKnight]"
+    },
+    {
+      "id": 122306,
+      "name": "One Last Justice",
+      "desc": "Ketika unit ini diserang sebanyak ARCANA[TabExplain] SLAVE while it has [WornOutKnight]: tidak kehilangan HP di bawah 5%, dan kills itself pada Akhir Giliran"
+    },
+    {
+      "id": 122307,
+      "name": "Shared Sorrow",
+      "desc": "Ketika Stagger untuk pertama kalinya, pulih dari Stagger giliran berikutnya; lalu, peroleh 10 [Protection] dan 500 Perisai setiap giliran\nSummon Heart-breaking Sword, Heart-tearing Sword, dan Heart-piercing Sword giliran berikutnya"
+    },
+    {
+      "id": 122308,
+      "name": "One Last Justice",
+      "desc": "Ketika unit ini diserang sebanyak ARCANA[TabExplain] SLAVE while it has [WornOutKnight] dan kurang dari 600 HP: tidak kehilangan HP di bawah 5%, dan kills itself pada Akhir Giliran"
+    },
+    {
+      "id": 122401,
+      "name": "Despair-piercing Sword",
+      "desc": "Jika a sword dengan [HelplessTear] reaches 0 HP, it stabs the Knight of Despair[TabExplain]"
+    },
+    {
+      "id": 122402,
+      "name": "Sword of a Forgotten Knight",
+      "desc": "Jika unit ini hits dengan a Cracked [SuperCoin], it tidak mengaktifkan target's [Sinking] efek"
+    },
+    {
+      "id": 122403,
+      "name": "The Sword Points Toward Those Who Could Not be Protected",
+      "desc": "Jika jika terdapat musuh dengan [ChasingArcana], prioritaskan that unit"
+    },
+    {
+      "id": 122404,
+      "name": "Respite",
+      "desc": "HP unit ini tidak turun di bawah 1 ketika it tidak memiliki [HelplessTear]\nAkhir Giliran: jika HP unit ini turun menjadi 1 ketika it tidak memiliki [HelplessTear], memulihkan back to full HP"
+    },
+    {
+      "id": 122405,
+      "name": "Despair-piercing Sword",
+      "desc": "Jika a sword dengan [HelplessTear] reaches 0 HP, it stabs the Knight of Despair[TabExplain]; lalu, transfers its Fatal Resistance value menjadi 1 other acak Sword giliran berikutnya"
+    }
+  ]
+}

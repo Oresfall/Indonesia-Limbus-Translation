@@ -1,0 +1,89 @@
+{
+  "dataList": [
+    {
+      "id": 124701,
+      "name": "Former Heishou - Wu Adept",
+      "desc": "Awal Pertempuran: reset SP unit ini to -15 dan peroleh 3 [LegStrengthHorse] dan 1 [CrazyWei]\nTerima -50% damage dari [Combustion], [Laceration], [Vibration], [Burst], dan [Sinking] (dibulatkan ke bawah)\n\nJika unit ini hits dengan a Cracked [SuperCoin], it tidak mengaktifkan target's [Burst] efek (tidak mengonsumsi Count either)\n\nBeri +50% damage terhadap Stagger musuh"
+    },
+    {
+      "id": 124702,
+      "name": "I will trample... dan crush you to mulch",
+      "desc": "Jika unit ini memiliki [LegStrengthHorse], beri 1 [ConcussionWei] terhadap target utama ketika unit ini triggers [VibrationExplosion] terhadap target utama"
+    },
+    {
+      "id": 124703,
+      "name": "Soul Lost in Daylight (魂飛中天)",
+      "desc": "Jika unit ini memiliki [LegStrengthHorse], peroleh 1 [ReboundWei] ketika hitting dengan Skill that triggers [VibrationExplosion] terhadap target tanpa [Vibration] (tidak memperoleh any [ReboundWei] jika its Stack is sudah maxed)\n\nAkhir Giliran: jika unit ini's [ReboundWei] Stack is maxed, konsumsi semua dari it; lalu, kehilangan 1 [LegStrengthHorse] giliran berikutnya"
+    },
+    {
+      "id": 124704,
+      "name": "I'll scrape setiap filthy scale off your skin...",
+      "desc": "Awal Giliran: peroleh 1 [AttackUp] untuk setiap 2 Speed unit ini memiliki (maks 2)\nPada 5+ Speed, peroleh 1 [SlashDamageUp] dan 1 [HitDamageUp] juga"
+    },
+    {
+      "id": 124705,
+      "name": "Intrepid trespasser...!",
+      "desc": "Saat Kalah Clash: jika target's Coin was a Plus Coin, target memulihkan 5 SP; jika target's Coin was a Minus Coin, target kehilangan 5 SP (tidak mengaktifkan jika SP target berada pada -40 atau less). Lalu, beri 2 E.G.O resource to the Affinity of Skill target used (3 kali per giliran)\n- Jika Skill's Affinity was Wrath atau Gluttony, beri 2 E.G.O resource of the least-owned Affinities juga"
+    },
+    {
+      "id": 127201,
+      "name": "Damage Diterima",
+      "desc": "Ketika menerima damage selama fase pertarungan: +20% damage untuk giliran ini\nDuring the combat phase: Saat Kalah Clash, terima +15% damage dari Skill"
+    },
+    {
+      "id": 127202,
+      "name": "Plastered Training",
+      "desc": "Beri +2% damage untuk setiap 1% HP yang hilang pada diri sendiri (maks 100%)"
+    },
+    {
+      "id": 127203,
+      "name": "I've got nothing to fear dengan a bottle of wine sebanyak my side",
+      "desc": "Awal Giliran: at maks [SipOfAlcoholJin] Stack, konsumsi 2 of its Stack dan peroleh [DrunkAwakening]"
+    },
+    {
+      "id": 127204,
+      "name": "Night Drifter of the Drunken Palm",
+      "desc": "Awal Pertempuran: reset SP unit ini to 10\nTerima -50% damage dari [Combustion], [Laceration], [Vibration], [Burst], dan [Sinking] (dibulatkan ke bawah)\n\nTerima -30% damage dari Sinner\n\nJika unit ini diperoleh 2 atau lebih [SipOfAlcoholJin] giliran sebelumnya, pulihkan 5 SP untuk setiap 10% HP yang hilang pada Awal Giliran (maks 40)\n\nKetika entering a new phase, jika unit ini kena Stagger, pulih dari Stagger"
+    },
+    {
+      "id": 127205,
+      "name": "River of Blooddrops (血滴成河)",
+      "desc": "Aktifkan jika setidaknya 1 musuh has 10+ [Laceration] pada Akhir Giliran\nAgainst musuh dengan [Laceration], beri 1 [DrunkBlood] untuk setiap 5 [Laceration] they have (3 kali per musuh)"
+    },
+    {
+      "id": 124801,
+      "name": "Sparring Complete",
+      "desc": "Ends Pertempuran ketika HP unit ini turun di bawah 20%"
+    },
+    {
+      "id": 124901,
+      "name": "Reversed Circuitry",
+      "desc": "Awal Giliran: saat kurang dari 10 [Charge] Count, konsumsi 5% HP pada diri sendiri untuk peroleh +5 [Charge] Count\nAkhir Giliran: at 15+ [Charge] Count, konsumsi 5 [Charge] Count to pulihkan 5% HP pada diri sendiri"
+    },
+    {
+      "id": 125001,
+      "name": "Slightly Relieved Burdens",
+      "desc": "Awal Giliran: pulihkan 5 SP\nAwal Giliran: at 20+ SP, peroleh 1 [Enhancement]"
+    },
+    {
+      "id": 125002,
+      "name": "Burden of Responsibility",
+      "desc": "Jika HP unit ini turun di bawah 50% atau less di Pertempuran ini, starting dari the giliran berikutnya, peroleh 2 [AttackDmgUp] setiap giliran"
+    },
+    {
+      "id": 125101,
+      "name": "Rule sebanyak Fear",
+      "desc": "Jika target memiliki kurang dari 0 SP: beri even damage lebih the further SP target is dari 0 (+3% damage per 1 SP)"
+    },
+    {
+      "id": 125102,
+      "name": "It's going to be so much fun, hmm?",
+      "desc": "Peroleh 1 [AttackUp] dan 1 [DefenseUp] setiap kali any target peroleh efek negatif"
+    },
+    {
+      "id": 125103,
+      "name": "Twisted Determination",
+      "desc": "Saat Menang Clash, pulihkan 5 SP\nPada Kalah Clash, peroleh 1 [Enhancement]"
+    }
+  ]
+}

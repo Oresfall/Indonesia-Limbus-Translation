@@ -1,0 +1,258 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Koridor Nursefather Ring",
+      "model": "파우스트",
+      "content": "Ini baru pintu pertama, dan rintangannya sudah melampaui tingkat yang diperkirakan."
+    },
+    {
+      "id": 1,
+      "model": "뉴키라",
+      "content": "Sumpah dah, kukira aku dah mati di sana..."
+    },
+    {
+      "id": 2,
+      "model": "호엔하임",
+      "content": "Peristiwa seperti ini... *haah*... tidak akan sering terjadi. Semua tadi hanyalah keberuntungan."
+    },
+    {
+      "id": 3,
+      "model": "뉴키라",
+      "content": "Jika kamu mendengarkanku dan memilih pintu yang lain, kita tidak akan babak belur seperti itu sejak awal."
+    },
+    {
+      "id": 4,
+      "model": "뉴키라",
+      "content": "Maksudku, mengapa repot-repot menyeretku ke dalam hal ini jika kamu tidak akan memercayai aku? Orang-orang aneh..."
+    },
+    {
+      "id": 5,
+      "model": "료슈",
+      "content": "Kita akan membuka semuanya pada akhirnya. S.S."
+    },
+    {
+      "id": 6,
+      "model": "뉴키라",
+      "content": "S.S.? Apa itu?"
+    },
+    {
+      "id": 7,
+      "model": "료슈2",
+      "content": "Sama saja."
+    },
+    {
+      "id": 8,
+      "model": "뉴키라",
+      "content": "Sekali lagi, mengapa menyingkatnya seperti itu? Katakan saja \"ya iyalah\" atau semacamnya. Atau eja saja seluruhnya dan katakan itu sudah diantisipasi."
+    },
+    {
+      "id": 9,
+      "model": "료슈",
+      "content": "Itu \"S.D.\""
+    },
+    {
+      "id": 10,
+      "model": "뉴키라",
+      "content": "...?"
+    },
+    {
+      "id": 11,
+      "model": "앨런",
+      "content": "Kerja bagus, semuanya. Wayfarer memang memiliki tim yang didedikasikan untuk tugas semacam ini... tapi tingkat kematiannya cukup tinggi. Sejujurnya, aku sudah mempersiapkan diri untuk kemungkinan terburuk."
+    },
+    {
+      "id": 12,
+      "model": "앨런",
+      "content": "Peluang menyelesaikan pintu pertama dari suatu ekspedisi tanpa ada korban jiwa berada di bawah 15%. Ini, dari segala tolok ukur, terhitung sebagai ekspedisi yang sempurna."
+    },
+    {
+      "id": 13,
+      "content": "Mengetuk-ngetuk perangkatnya, Alan berbicara kepada kami dengan senyuman ramah. Dia tampak sangat berbeda dari orang yang sama yang telah memperlakukan Kira dengan kasar dengan tinju ke wajahnya."
+    },
+    {
+      "id": 14,
+      "model": "단테",
+      "content": "<Orang-orang Fauvis itu tidak akan bisa menyeberang lagi dengan pintu yang terkunci sepenuhnya, bukan?>"
+    },
+    {
+      "id": 15,
+      "model": "파우스트",
+      "content": "Hal tersebut... tidak dapat ditegaskan dengan pasti."
+    },
+    {
+      "id": 16,
+      "model": "단테",
+      "content": "<... Bisa jadi mereka terus berdatangan?>"
+    },
+    {
+      "id": 17,
+      "model": "료슈",
+      "content": "Koridor dan <ruby=Pintu Belakang>Backdoors</ruby> selalu menjadi wilayah Ring, Jam."
+    },
+    {
+      "id": 18,
+      "model": "료슈",
+      "content": "Dan binatang-binatang Fauvis itu... telah bertahan sebagai faksi yang sudah lama berdiri di dalam Ring."
+    },
+    {
+      "id": 19,
+      "model": "앨런",
+      "content": "Jika mereka memiliki sejarah sebanyak itu..."
+    },
+    {
+      "id": 20,
+      "model": "앨런",
+      "content": "Mereka pasti tahu banyak <ruby=Pintu Belakang>Backdoors</ruby>—baik titik asal maupun titik tujuannya."
+    },
+    {
+      "id": 21,
+      "content": "Alan memperjelas apa yang sedang diisyaratkan oleh Ryōshū."
+    },
+    {
+      "id": 22,
+      "model": "파우스트",
+      "content": "Ya. Dibandingkan dengan mereka, kita kekurangan pengetahuan yang cukup mengenai rute alternatif, yang membuatnya sulit untuk mencegah infiltrasi."
+    },
+    {
+      "id": 23,
+      "model": "호엔하임",
+      "content": "Hm. Tidak perlu terlalu mencemaskan hal itu."
+    },
+    {
+      "id": 24,
+      "model": "호엔하임",
+      "content": "Bahkan jika itu masalahnya, kecil kemungkinan mereka akan bergerak ke <ruby=Rumah Laba-laba>House of Spiders</ruby> dalam waktu dekat."
+    },
+    {
+      "id": 25,
+      "model": "뉴키라",
+      "content": "Eh? Padahal mereka selalu bisa bergegas untuk melakukan serangan mendadak."
+    },
+    {
+      "id": 26,
+      "model": "호엔하임",
+      "content": "Bahkan Maestro Fauvis itu tampaknya kekurangan informasi yang jelas mengenai peristiwa yang terjadi di <ruby=Rumah Laba-laba>House of Spiders</ruby>."
+    },
+    {
+      "id": 27,
+      "model": "호엔하임",
+      "content": "Jika demikian, maka dapat disimpulkan bahwa mereka akan membutuhkan waktu untuk menilai dan merundingkan situasinya."
+    },
+    {
+      "id": 28,
+      "model": "돈키호테",
+      "content": "Situasinya...?"
+    },
+    {
+      "id": 29,
+      "model": "파우스트",
+      "content": "Cakupan logis dari kekhawatiran mereka adalah mengidentifikasi organisasi yang telah mengamankan <ruby=Rumah Laba-laba>House of Spiders</ruby>, kemungkinan adanya perangkap tambahan di balik <ruby=Pintu Belakang>Backdoors</ruby>, dan sejenisnya."
+    },
+    {
+      "id": 30,
+      "model": "앨런",
+      "content": "Setelah semua prosedur terkait <ruby=Pintu Belakang>Backdoors</ruby> yang terikat dengan <ruby=Rumah Laba-laba>House of Spiders</ruby> selesai, kerangka kerja keamanan yang dihasilkan seharusnya dapat mengantisipasi dan memblokir setiap upaya infiltrasi."
+    },
+    {
+      "id": 31,
+      "model": "단테",
+      "content": "<Operasi ini lebih penting daripada yang kukira...>"
+    },
+    {
+      "id": 32,
+      "model": "료슈2",
+      "content": "*huff*"
+    },
+    {
+      "id": 33,
+      "model": "료슈",
+      "content": "Di samping itu, Kenapa aku tidak bisa mencabut bilahnya?"
+    },
+    {
+      "id": 34,
+      "model": "료슈",
+      "content": "Masalah di sarung pedang baru ini?"
+    },
+    {
+      "id": 35,
+      "content": "Ryōshū mengangkat pedang bersarung itu dengan kerutan kesal..."
+    },
+    {
+      "id": 36,
+      "content": "... dan saat itulah aku merasakan getaran samar—bilah pedangnya berkedut sedikit saja."
+    },
+    {
+      "id": 37,
+      "model": "돈키호테",
+      "content": "G-getaran yang amat samar itu... Sungguh terlihat oleh semua orang, bukan...?"
+    },
+    {
+      "id": 38,
+      "model": "뉴키라",
+      "content": "Sial, aku juga melihatnya... Apa pedang itu kesurupan atau semacamnya?"
+    },
+    {
+      "id": 39,
+      "content": "... Sepertinya bukan aku satu-satunya yang melihat pedang itu berkedut seolah-olah sama sekali tidak senang dengan cara Ryōshū membicarakan sarung pedangnya."
+    },
+    {
+      "id": 40,
+      "model": "료슈",
+      "content": "……."
+    },
+    {
+      "id": 41,
+      "content": "Tatapan Ryōshū yang tertuju pada pedang itu perlahan beralih ke arah <ruby=Pintu Belakang>Backdoors</ruby>."
+    },
+    {
+      "id": 42,
+      "content": "Mungkinkah... melihat sarung pedang itu membawa kembali beberapa ingatan tentang Araya?"
+    },
+    {
+      "id": 43,
+      "model": "단테",
+      "content": "<Ryōshū... Apa kamu—>"
+    },
+    {
+      "id": 44,
+      "model": "료슈",
+      "content": "Apakah P.K.?"
+    },
+    {
+      "id": 45,
+      "model": "료슈",
+      "content": "Bilah iblis? Pedang Sihir? Yang mana?"
+    },
+    {
+      "id": 46,
+      "model": "단테",
+      "content": "<…….>"
+    },
+    {
+      "id": 47,
+      "model": "단테",
+      "content": "<Itu... mungkin bukan salah satu dari keduanya. juga bukan pedang kutukan.>"
+    },
+    {
+      "id": 48,
+      "model": "호엔하임",
+      "content": "Hmm. Ini memberikan kesempatan yang baik untuk melakukan pemeriksaan lain terhadap pedang itu. Permisi sebentar, Ketua Tim Alan."
+    },
+    {
+      "id": 49,
+      "model": "앨런",
+      "content": "Silakan saja. Serangan barusan merusak beberapa perangkat, jadi kami harus melakukan beberapa pemeliharaan sebelum melanjutkan. Ada banyak pekerjaan lain yang bisa kulakukan selagi kamu pergi juga."
+    },
+    {
+      "id": 50,
+      "model": "돈키호테",
+      "content": "Apakah kita akan kembali ke Fasilitas Penelitian Markas Besar, kalau begitu?"
+    },
+    {
+      "id": 51,
+      "model": "호엔하임",
+      "content": "Tidak, itu tidak perlu. Ada fasilitas di sini yang seharusnya terbukti lebih dari cukup."
+    }
+  ]
+}

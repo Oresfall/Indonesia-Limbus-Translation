@@ -1,0 +1,407 @@
+{
+  "dataList": [
+    {
+      "id": 837101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Allez",
+          "desc": "[WhenUse] Beri [DuelDeclaration_Camille]\n[WhenUse] Peroleh 5 [Breath]\n[WinDuel] Peroleh +2 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Coup Droit",
+          "desc": "[WhenUse] Peroleh 2 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 7+ Speed, beri 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 3 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 7+ Speed, beri 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fente",
+          "desc": "[WhenUse] Pada 7+ [Breath], Coin Power +2\n[WinDuel] Peroleh +2 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 3 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 7+ Speed, beri 3 [Burst] Count"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] +50% Damage pada Serangan Critical"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Salut",
+          "desc": "[WhenUse] Jika Speed unit ini lebih cepat daripada target, Coin Power +1 (Coin Power +1 untuk setiap 2 perbedaan Speed; maks 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +4 Count [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 7+ Speed, beri 3 [Burst] dan +1 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 5 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 7+ Speed, beri 3 [Burst] dan +1 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 5 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 7+ Speed, beri 3 [Burst] dan +1 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] +100% Damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +5% damage untuk setiap [Burst] pada target (Maks 50%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Parry",
+          "desc": "[WinDuel] Beri damage lebih berdasarkan number of Clashes (+10% damage untuk setiap Clash, maks 50%)\n[WinDuel] Peroleh 2 [Agility] giliran berikutnya\n[DefeatDuel] Peroleh 2 [Binding] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vulnerable] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Défensive",
+          "desc": "[OnSucceedEvade] Peroleh 1 [Agility] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'll Cut You Up Semua Pretty!",
+          "desc": "[WhenUse] Jika target memiliki 6+ [Laceration], Clash Power +1\n[WhenUse] Coin Power +1 untuk setiap 5 [Laceration] pada diri sendiri (maks 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Gunakan Ulang Coin ([BloodScissor] Stage - 1) kali (maks 2)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Even Sharper",
+          "desc": "[WhenUse] Konsumsi hingga 20 [BloodDinner]; peroleh 1 [BloodScissor] dan pulihkan 3 SP untuk setiap 10 [BloodDinner] yang dikonsumsi\n- Jika unit ini failed to konsumsi [BloodDinner] dengan Skill ini, peroleh 30 [Laceration]\n[WhenUse] Jika target memiliki 6+ [Laceration], Clash Power +1\n[WhenUse] Coin Power +1 untuk setiap 5 [Laceration] pada diri sendiri (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "SNIP!!",
+          "desc": "[WhenUse] Konsumsi hingga 30 [BloodDinner]; peroleh 1 [BloodScissor] dan pulihkan 3 SP untuk setiap 10 [BloodDinner] yang dikonsumsi\n[WhenUse] Jika target memiliki [LineCutting], Clash Power +5\nPulihkan 5 SP on setiap hit terhadap [LineCutting]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'll Cut You Up Too!",
+          "desc": "[BeforeAttack] Atk Weight +1 untuk setiap Stage of [BloodScissor] (maks 2)\n[WhenUse] Konsumsi hingga 30 [BloodDinner]; peroleh 1 [BloodScissor] dan pulihkan 3 SP untuk setiap 10 [BloodDinner] yang dikonsumsi\n[WhenUse] Jika target memiliki 6+ [Laceration], Clash Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [BloodScissorScars] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 5 [Laceration] dan +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Now, It's Your Giliran",
+          "desc": "[WhenUse] Jika target memiliki 6+ [Laceration], Coin Power +1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [BloodScissorScars] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [LineCutting] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837206,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'll Cut You Together!",
+          "desc": "[BeforeAttack] Atk Weight +1 untuk setiap Stage of [BloodScissor]\n[WhenUse] Konsumsi hingga 100 [BloodDinner]; peroleh 1 [BloodScissor] dan pulihkan 3 SP untuk setiap 10 [BloodDinner] yang dikonsumsi\n[WhenUse] Jika target memiliki 6+ [Laceration], Clash Power +2\n[EndSkill] Konsumsi 10 [BloodScissor]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count"
+                },
+                {
+                  "desc": "[WinDuelAttack] Aktifkan target's [Laceration] (maks 10). Target kehilangan [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Aktifkan target's [Laceration] (maks 10). Target kehilangan [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Aktifkan target's [Laceration] (maks 10). Target kehilangan [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +40% damage untuk setiap [BloodScissor] Stage (maks 120%)"
+                },
+                {
+                  "desc": "[EnemyKill] Jika this Coin efek killed target, pulihkan sebanyak 50% dari damage yang diberikan terhadap the killed target."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837207,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "How Discourteous!",
+          "desc": "[DuelCounter]\n[WhenUse] Clash Power +1 untuk setiap [BloodScissor] Stage (maks 3)\n[WhenUse] Coin Power +1 untuk setiap 5 [Laceration] pada diri sendiri (maks 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration] dan +4 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 837208,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I Don't Need Ugly Things!!",
+          "desc": "[CantChangeTarget]\nPrioritaskan target dengan HP paling sedikit percentage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target berada pada 30%- HP, kill target"
+                },
+                {
+                  "desc": "[EnemyKill] Menambah [BloodDinner] sebanyak 30% dari maks HP musuh yang dikalahkan"
+                },
+                {
+                  "desc": "[EnemyKill] peroleh 4 [Vulnerable] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

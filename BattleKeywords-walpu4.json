@@ -1,0 +1,94 @@
+{
+  "dataList": [
+    {
+      "id": "RedEyeFirst",
+      "name": "Mata Merah",
+      "desc": "- Base efek Coin Skill beri +1 lebih Bleed\n- Maks Value : 20\n- Charge Unik (Potency tetap)\n- Resource yang digunakan oleh Skill tertentu for tambahan efek\n- Enhances the buff berdasarkan Value\n· Tingkat 1 (1~7) : Mata Merah\n· Tingkat 2 (8~15) : Mata Merah - Alert\n· Tingkat 3 (16~20) : Mata Merah - Devouring\n- The jumlah dari tambahan bleed diberikan sebanyak the first line of this buff is setara dengan the buff enhancement Stage (maks 3)",
+      "summary": ""
+    },
+    {
+      "id": "RedEyeSecond",
+      "name": "Mata Merah - Alert",
+      "desc": "- Base efek Coin Skill beri +2 lebih Bleed\n- Maks Value : 20\n- Charge Unik (Potency tetap)\n- Resource yang digunakan oleh Skill tertentu for tambahan efek\n- Enhances the buff berdasarkan Value\n· Tingkat 1 (1~7) : Mata Merah\n· Tingkat 2 (8~15) : Mata Merah - Alert\n· Tingkat 3 (16~20) : Mata Merah - Devouring\n- The jumlah dari tambahan bleed diberikan sebanyak the first line of this buff is setara dengan the buff enhancement Stage (maks 3)",
+      "summary": ""
+    },
+    {
+      "id": "RedEyeThird",
+      "name": "Mata Merah - Devouring",
+      "desc": "- Base efek Coin Skill beri +3 lebih Bleed\n- Maks Value : 20\n- Charge Unik (Potency tetap)\n- Resource yang digunakan oleh Skill tertentu for tambahan efek\n- Enhances the buff berdasarkan Value\n· Tingkat 1 (1~7) : Mata Merah\n· Tingkat 2 (8~15) : Mata Merah - Alert\n· Tingkat 3 (16~20) : Mata Merah - Devouring\n- The jumlah dari tambahan bleed diberikan sebanyak the first line of this buff is setara dengan the buff enhancement Stage (maks 3)",
+      "summary": ""
+    },
+    {
+      "id": "PenanceFirst",
+      "name": "Penitence",
+      "desc": "- Pulihkan 2 SP Saat Menyerang dengan Base Skill Coin yang memperoleh Penitence\n- Maks Value : 20\n- Charge Unik (Potency tetap)\n- Awal Giliran: peroleh (Penitence)% dari maks HP sebagai Perisai\n- Resource yang digunakan oleh Skill tertentu for tambahan efek\n- Enhances the buff Stage berdasarkan Value\n· Tingkat 1 (1~7) : Penitence\n· Tingkat 2 (8~15) : Penitence - Periphery\n· Tingkat 3 (16~20) : Penitence - Confession\n- The jumlah dari SP healed sebanyak the first line of this buff is berdasarkan the enhancement Stage (enhancement Stage x 2)",
+      "summary": ""
+    },
+    {
+      "id": "PenanceSecond",
+      "name": "Penitence - Periphery",
+      "desc": "- Pulihkan 4 SP Saat Menyerang dengan Base Skill Coin yang memperoleh Penitence\n- Maks Value : 20\n- Charge Unik (Potency tetap)\n- Awal Giliran: peroleh (Penitence)% dari maks HP sebagai Perisai\n- Resource yang digunakan oleh Skill tertentu for tambahan efek\n- Enhances the buff Stage berdasarkan Value\n· Tingkat 1 (1~7) : Penitence\n· Tingkat 2 (8~15) : Penitence - Periphery\n· Tingkat 3 (16~20) : Penitence - Confession\n- The jumlah dari SP healed sebanyak the first line of this buff is berdasarkan the enhancement Stage (enhancement Stage x 2)",
+      "summary": ""
+    },
+    {
+      "id": "PenanceThird",
+      "name": "Penitence - Confession",
+      "desc": "- Pulihkan 6 SP Saat Menyerang dengan Base Skill Coin yang memperoleh Penitence\n- Maks Value : 20\n- Charge Unik (Potency tetap)\n- Awal Giliran: peroleh (Penitence)% dari maks HP sebagai Perisai\n- Resource yang digunakan oleh Skill tertentu for tambahan efek\n- Enhances the buff Stage berdasarkan Value\n· Tingkat 1 (1~7) : Penitence\n· Tingkat 2 (8~15) : Penitence - Periphery\n· Tingkat 3 (16~20) : Penitence - Confession\n- The jumlah dari SP healed sebanyak the first line of this buff is berdasarkan the enhancement Stage (enhancement Stage x 2)",
+      "summary": ""
+    },
+    {
+      "id": "Emptiness",
+      "name": "Only Ashes Remain",
+      "desc": "- Tidak dapat jaga Mata Merah & Penitence\n- Ketika memperoleh Mata Merah dengan Base efek Skill, pulihkan self dan 1 kawan dengan HP terendah percentage sebanyak (Mata Merah diperoleh)% dari HP maks unit ini (2 kali per giliran)\n- Ketika memperoleh Penitence dengan Base efek Skill, pulihkan self dan 1 kawan dengan the least SP sebanyak ((Penitence diperoleh)/2) SP (2 kali per giliran)\n- Akhir Giliran: efek ini kadaluarsa",
+      "summary": ""
+    },
+    {
+      "id": "SinkingWhite",
+      "name": "Kupu-Kupu",
+      "desc": "- Sinking Unik\n- NIlai Dasar: 0, Maks Value: 15\n- Potency dan Count dari efek ini masing-masing disebut \"Yang Hidup\" dan \"Yang Berpulang\".\n- Ketika diserang, penyerang memulihkan (Yang Hidup/4) SP. (min 1; dibulatkan ke bawah)\n- Ketika diserang, dan jika SP unit ini kurang dari 0, terima (Sinking Potency/5) Gloom damage untuk setiap nilai dari Yang Berpulang. (maks Gloom damage 30; dibulatkan ke bawah; beri setengah damage ke target tanpa SP.)\n- Akhir Giliran: Reset Yang Berpulang dari efek ini menjadi 0; lalu, peroleh Sinking setara dengan Yang Hidup dan ubah Yang Hidup menjadi Yang Berpulang.\n- Tidak ada efek eksternal yang dapat menaikkan jumlah dari Butterfly diberikan. Efek \"Beri tambahan Sinking\" memberi tambahan Sinking daripada tambahan Butterfly.\n- Efek ini kadaluarsa ketika kedua Yang Hidup dan Yang Berpulang mencapai 0.",
+      "summary": ""
+    },
+    {
+      "id": "SinkingBlack",
+      "name": "!!!OUDATED EFFECT!!!",
+      "desc": "",
+      "summary": ""
+    },
+    {
+      "id": "BulletLament",
+      "name": "Yang Hidup & Yang Berpulang",
+      "desc": "- Ammo Unik\n- Jumlah dari Potency dan Count terbatas pada 20.\n- Dikonsumsi untuk Skill tertentu.\n- Baik Yang Hidup(Potency) atau Yang Berpulang(Count) yang akan dikonsumsi ditentukan secara acak\n- Beberapa serangan akan dibatalkan jika unit ini kehabisan ammo.",
+      "summary": ""
+    },
+    {
+      "id": "TrainTeamCaptain",
+      "name": "Training Team Captain",
+      "desc": "Skill Slot +1\nModify Skill pool: Peroleh 1 gunakan of Skill 3, but kehilangan 1 gunakan of Skill 1\nAwal Giliran: pulihkan 15 SP\nIncrease jumlah dari Burn, Bleed, Rupture, Sinking, atau Tremor diberikan sebanyak +1 (termasuk 'Unique Status Effects')\nIncrease jumlah dari Poise atau Charge(termasuk 'Charge Unik') diperoleh sebanyak +1\nSaat Bunuh, Peroleh +2 E.G.O resource to the Affinity of Skill that dikalahkan musuh; peroleh +1 E.G.O resource to rest of the Affinities",
+      "summary": ""
+    },
+    {
+      "id": "VioletUnderstand",
+      "name": "Understanding",
+      "desc": "- Beri +5% damage per Stack\n- Terima +5% damage per Stack\n(maks value : 5)",
+      "summary": ""
+    },
+    {
+      "id": "MentalCrack",
+      "name": "Mental Fracture",
+      "desc": "SP Loss Efficiency +1 per Stack (maks 5)\nExpires ketika it reaches 5 Stack, dan terima 10 SP damage\nLose 1 Stack per giliran",
+      "summary": ""
+    },
+    {
+      "id": "ImpendingCollapse",
+      "name": "Imminent Decay",
+      "desc": "Akhir Giliran: Kehilangan 1 Stack\nAwal Giliran: Pada 1- Stack, gunakan a special Skill",
+      "summary": ""
+    },
+    {
+      "id": "ReloadLament",
+      "name": "Reload",
+      "desc": "- Efek berlaku untuk Yang Hidup & Yang Berpulang(Ammo Unik)\n- Konsumsi (30 - (Yang Hidup + Yang Berpulang))/2 SP. (dibulatkan ke bawah)\n- Reset kedua nilai Yang Hidup dan Yang Berpulang pada diri sendiri menjadi 0, dan peroleh nilai maks dari jumlah mereka berdasarkan probabilitas yang tertera dalam Pasif 'KuLihatKupuKupuSekarat.'\n- Saat Reload, peroleh setidaknya 1 dari Yang Hidup dan Yang Berpulang.",
+      "summary": ""
+    }
+  ]
+}

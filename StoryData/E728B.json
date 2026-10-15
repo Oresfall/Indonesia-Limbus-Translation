@@ -1,0 +1,839 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Backstreets dari District 8, Reruntuhan Kezhan",
+      "model": "단테",
+      "content": "<…….>"
+    },
+    {
+      "id": 1,
+      "content": "Keadaan tidak tampak membaik."
+    },
+    {
+      "id": 2,
+      "content": "Aku bisa merasakan secara insting bahwa mereka... berbeda dari siapa pun atau apa pun yang pernah kami hadapi di Hongyuan sejauh ini."
+    },
+    {
+      "id": 3,
+      "model": "자공",
+      "teller": "???",
+      "title": "???",
+      "content": "Aku... rasa tuan kami tidak membiarkan mereka hidup hanya agar kami bisa membantai mereka."
+    },
+    {
+      "id": 4,
+      "model": "자공",
+      "teller": "???",
+      "title": "???",
+      "content": "Hm, kalau begitu mungkin sudah sepatutnya aku memperkenalkan diri, karena itu adalah etika yang umum dilakukan."
+    },
+    {
+      "id": 5,
+      "model": "자공",
+      "teller": "Zigong",
+      "title": "Keluarga Jia?",
+      "content": "Panggil aku Zigong; aku hanyalah seorang murid rendahan dari ajaran tuanku, master Qiu."
+    },
+    {
+      "id": 6,
+      "content": "\"Tuanku\", \"master Qiu\"... entah bagaimana, aku teringat akan diskusi yang ditolak Qingtao untuk diselesaikan."
+    },
+    {
+      "id": 7,
+      "place": "<ruby=Belakangan>Backstreets</ruby> dari <ruby=Distrik>District</ruby> 8, Pintu Masuk",
+      "teller": "Suara Nyanyian",
+      "title": "???",
+      "content": "Sebab saat yang jauh datang, di antara pintu terbakar, sesosok bintang akan jatuh tersesat~"
+    },
+    {
+      "id": 8,
+      "model": "경도",
+      "content": "Mengenai lagu itu... itu adalah lagu yang menjadi cukup populer di <ruby=Belakangan>Backstreets</ruby> dalam beberapa bulan terakhir."
+    },
+    {
+      "id": 9,
+      "model": "경도",
+      "content": "Ahem. Ini bukan tempat untuk mendiskusikan hal-hal seperti itu. Aku akan menceritakan kisahnya di tempat yang lebih tepat nanti, jika kita menemukannya."
+    },
+    {
+      "id": 10,
+      "place": "Backstreets dari District 8, Reruntuhan Kezhan",
+      "model": "단테",
+      "content": "<... Namaku Dante. Aku manajer mereka.>"
+    },
+    {
+      "id": 11,
+      "content": "Aku memutuskan untuk angkat bicara, berjuang menembus tekanan yang ada."
+    },
+    {
+      "id": 12,
+      "content": "Secara insting aku tahu bahwa kami *harus* mencari tahu sebanyak mungkin tentang pria tadi."
+    },
+    {
+      "id": 13,
+      "model": "파우스트다침",
+      "content": "Mereka memperkenalkan diri sebagai Manajer Dante."
+    },
+    {
+      "id": 14,
+      "model": "자공",
+      "teller": "Zigong",
+      "title": "Keluarga Jia?",
+      "content": "... Begitu rupanya. Kejujuran anda sangat dihargai."
+    },
+    {
+      "id": 15,
+      "model": "자공",
+      "teller": "Zigong",
+      "title": "Keluarga Jia?",
+      "content": "Zilu, tarik mundur Mao. Sepertinya kita tidak perlu bersitegang dengan mereka saat ini."
+    },
+    {
+      "id": 16,
+      "model": "자로",
+      "title": "Pasukan Heishou - Cabang Mao",
+      "content": "Baiklah."
+    },
+    {
+      "id": 17,
+      "content": "Sepertinya mereka memiliki pemikiran yang sama tentang kami."
+    },
+    {
+      "id": 18,
+      "model": "자공",
+      "teller": "Zigong",
+      "title": "Keluarga Jia?",
+      "content": "Nah, apakah itu sudah cukup sebagai bukti niat kami untuk melakukan diskusi singkat?"
+    },
+    {
+      "id": 19,
+      "model": "자공",
+      "teller": "Zigong",
+      "title": "Keluarga Jia?",
+      "content": "Membahas beberapa hal dengan anda untuk menandai akhir yang sopan dari pertemuan ini seharusnya bermanfaat bagi kita, demi prospek masa depan kita. Jadi... tanyalah sesuka hati, seperti yang biasa orang katakan."
+    },
+    {
+      "id": 20,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Jadi..."
+    },
+    {
+      "id": 21,
+      "content": "Saat itulah Jia Xichun melangkah maju, setelah sebelumnya mundur dari kehadiran yang mendominasi itu."
+    },
+    {
+      "id": 22,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "... Jadi itu maksud dari lagu-lagu mencurigakan yang aku dengar di <ruby=Belakangan>Backstreets</ruby>. Itu tentang kalian, kan?"
+    },
+    {
+      "id": 23,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Jadi, apakah lirik-lirik itu... benar?"
+    },
+    {
+      "id": 24,
+      "model": "자공",
+      "teller": "Zigong",
+      "title": "Keluarga Jia?",
+      "content": "Ahh. Jadi itu yang ingin anda ketahui."
+    },
+    {
+      "id": 25,
+      "model": "자공",
+      "teller": "Zigong",
+      "title": "Keluarga Jia?",
+      "content": "Xichun dari keluarga Jia... dikatakan bahwa anda memiliki bakat dalam retorika, namun berjalan di jalan yang diselimuti oleh kekhawatiran dan kecemasan."
+    },
+    {
+      "id": 26,
+      "model": "자공",
+      "teller": "Zigong",
+      "title": "Keluarga Jia?",
+      "content": "Sungguh, ketidakberartian anda menghalangi jalanmu dalam keagungan."
+    },
+    {
+      "id": 27,
+      "model": "웨이",
+      "title": "Keluarga Jia",
+      "content": "…!"
+    },
+    {
+      "id": 28,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Wei. Jangan bicara mewakiliku."
+    },
+    {
+      "id": 29,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Aku akan menjadi orang pertama yang membantah jika... aku pikir dia salah."
+    },
+    {
+      "id": 30,
+      "model": "웨이",
+      "title": "Keluarga Jia",
+      "content": "... Baik, Nona."
+    },
+    {
+      "id": 31,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Shi Yihua... kamu yang mengirim dia untuk mengejar kami... kan?"
+    },
+    {
+      "id": 32,
+      "model": "자공",
+      "teller": "Zigong",
+      "title": "Keluarga Jia?",
+      "content": "Hm... nyaris, tapi tidak tepat. Dia adalah agen dari keluarga Shi, dikirim untuk memata-matai tindakan tuanku."
+    },
+    {
+      "id": 33,
+      "model": "자공",
+      "teller": "Zigong",
+      "title": "Keluarga Jia?",
+      "content": "Kami telah memberinya kendali atas Pasukan Heishou, karena kami menganggap perilakunya dangkal, dan melihat sebuah sarana untuk mempelajari lebih lanjut tentang intrik keluarga Shi..."
+    },
+    {
+      "id": 34,
+      "model": "자공",
+      "teller": "Zigong",
+      "title": "Keluarga Jia?",
+      "content": "Namun tampaknya, setelah diberikan kekuasaan, bocah itu salah mengira dirinya sebagai pria dengan kemampuan untuk mewakili keluarga Shi."
+    },
+    {
+      "id": 35,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "... Jadi, kamu memanfaatkannya."
+    },
+    {
+      "id": 36,
+      "model": "자공",
+      "teller": "Zigong",
+      "title": "Keluarga Jia?",
+      "content": "Sama seperti dia yang berusaha memanfaatkan kami."
+    },
+    {
+      "id": 37,
+      "model": "자공",
+      "teller": "Zigong",
+      "title": "Keluarga Jia?",
+      "content": "Meskipun strateginya cukup dangkal dibandingkan dengan strategi kami sendiri."
+    },
+    {
+      "id": 38,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "... Terus, sekarang gimana?"
+    },
+    {
+      "id": 39,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Aku nggak rasa... kamu... berniat membunuh kami, kan?"
+    },
+    {
+      "id": 40,
+      "model": "자공",
+      "teller": "Zigong",
+      "title": "Keluarga Jia?",
+      "content": "Sekarang tidak ada apa-apa."
+    },
+    {
+      "id": 41,
+      "model": "자공",
+      "teller": "Zigong",
+      "title": "Keluarga Jia?",
+      "content": "Lakukan apa pun yang ingin anda capai di sini."
+    },
+    {
+      "id": 42,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Kamu membiarkan dua saingan tuanmu pergi begitu saja...?"
+    },
+    {
+      "id": 43,
+      "model": "자공",
+      "teller": "Zigong",
+      "title": "Keluarga Jia?",
+      "content": "Hal yang aneh untuk dikatakan. Sejauh mataku memandang, aku... gagal melihat adanya 'saingan' di sini."
+    },
+    {
+      "id": 44,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "……."
+    },
+    {
+      "id": 45,
+      "model": "단테",
+      "content": "<... Kalau begitu...>"
+    },
+    {
+      "id": 46,
+      "model": "자공",
+      "teller": "Zigong",
+      "title": "Keluarga Jia?",
+      "content": "…?"
+    },
+    {
+      "id": 47,
+      "model": "단테",
+      "content": "<Kenapa kamu memerintahkan Yihua untuk menyerang kami? Kamu bilang sendiri, kami bahkan bukan sainganmu...>"
+    },
+    {
+      "id": 48,
+      "model": "파우스트다침",
+      "content": "Manajer bertanya mengapa anda memerintahkan Yihua untuk melakukan serangan ini terhadap Limbus Company."
+    },
+    {
+      "id": 49,
+      "model": "자공",
+      "teller": "Zigong",
+      "title": "Keluarga Jia?",
+      "content": "... Mereka takut, namun mereka berusaha mendapatkan pemahaman melalui rasa takut itu."
+    },
+    {
+      "id": 50,
+      "model": "자공",
+      "teller": "Zigong",
+      "title": "Keluarga Jia?",
+      "content": "Namun, mereka tetap kekurangan kecerdasan tertentu..."
+    },
+    {
+      "id": 51,
+      "model": "자공",
+      "teller": "Zigong",
+      "title": "Keluarga Jia?",
+      "content": "Tuanku selalu berkata bahwa jika seseorang tidak belajar apa-apa dari sebuah kesulitan, maka diskusi apa pun dengan mereka tidak akan membuahkan hasil."
+    },
+    {
+      "id": 52,
+      "content": "Bukannya memberiku jawaban langsung, Zigong malah meninggalkanku dengan komentar yang membingungkan sebelum dia melewati kami."
+    },
+    {
+      "id": 53,
+      "model": "자공",
+      "teller": "Zigong",
+      "title": "Keluarga Jia?",
+      "content": "Aku sudah memberikan kesopanan yang cukup; ini adalah waktu yang tepat bagi kami untuk pergi."
+    },
+    {
+      "id": 54,
+      "model": "자공",
+      "teller": "Zigong",
+      "title": "Keluarga Jia?",
+      "content": "Sekarang... tetaplah berada di dalam batas-batas anda, sebagaimana anda telah berada di sana sejauh ini."
+    },
+    {
+      "id": 55,
+      "model": "자공",
+      "teller": "Zigong",
+      "title": "Keluarga Jia?",
+      "content": "Aku akan sangat membenci percikan tinta aneh yang merusak lukisan agung ini."
+    },
+    {
+      "id": 6,
+      "content": "Dengan itu, Zigong berjalan ke dalam bayang-bayang yang menyelimuti hutan bangunan."
+    },
+    {
+      "id": 57,
+      "content": "Zilu dan Heishou yang tak terhitung jumlahnya... juga menghilang bersama mereka."
+    },
+    {
+      "id": 58,
+      "model": "오티스다침",
+      "content": "... A... akhirnya..."
+    },
+    {
+      "id": 59,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Haah..."
+    },
+    {
+      "id": 60,
+      "content": "Aku menoleh tepat saat Outis tumbang, sementara sisa <ruby=Pendosa>Sinners</ruby> lainnya terbaring mati atau nyaris tidak bisa bertahan hidup."
+    },
+    {
+      "id": 61,
+      "content": "Dan di sana ada Jia Xichun, yang juga jatuh terduduk di lantai, dan Wei, yang sedang merawat luka-lukanya."
+    },
+    {
+      "id": 62,
+      "content": "Dan aku, yang... entah bagaimana, selamat melewati semua itu tanpa dipenggal."
+    },
+    {
+      "id": 63,
+      "content": "Dan malam yang membuat kami berkali-kali hampir mati itu pun berakhir."
+    },
+    {
+      "id": 64,
+      "content": "Malam pun berganti pagi..."
+    },
+    {
+      "id": 65,
+      "place": "<ruby=Belakangan>Backstreets</ruby> dari <ruby=Distrik>District</ruby> 8",
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "... Ya, dan itulah kira-kira semua yang terjadi."
+    },
+    {
+      "id": 66,
+      "model": "홍루",
+      "content": "Kakak Qiu itu...? Begitu rupanya."
+    },
+    {
+      "id": 67,
+      "content": "Setelah hari terang, kami memutuskan untuk berjalan-jalan sebentar di luar untuk sedikit pulih dari kelelahan semalam."
+    },
+    {
+      "id": 68,
+      "content": "Itu juga untuk menentukan langkah kami selanjutnya dari sini, dan kami juga harus memutuskan apakah kami ingin melakukan perjalanan bersama Jia Xichun, yang memiliki tujuan yang sama dengan kami."
+    },
+    {
+      "id": 69,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Halo? Kamu lupa cara berekspresi khawatir atau gimana?"
+    },
+    {
+      "id": 70,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Kok bisa kamu mempertahankan wajah datar yang menyebalkan itu sepanjang percakapan?"
+    },
+    {
+      "id": 71,
+      "model": "홍루",
+      "content": "Haha, tentu saja tidak."
+    },
+    {
+      "id": 72,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Kerahasiaan khas keluarga Jia, ya? Selalu menyembunyikan sesuatu... dan aku yakin kamu juga begitu."
+    },
+    {
+      "id": 73,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Kalau iya, mending kamu keluarin sekarang. Aku nggak punya waktu buat jalan santai bareng calon musuhku."
+    },
+    {
+      "id": 74,
+      "model": "홍루",
+      "content": "Xichun, seperti yang selalu aku katakan, kursi Hierarki Keluarga tidak—"
+    },
+    {
+      "id": 75,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "... Baiklah. Meskipun kamu berbohong, aku tahu kamu toh belum menyiapkan apa pun buat tugasmu."
+    },
+    {
+      "id": 76,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "... Hm. Ganti topik..."
+    },
+    {
+      "id": 77,
+      "content": "Jia Xichun, yang sedang mengobrol dengan Hong Lu, perlahan melambatkan langkahnya hingga berjalan tepat di sampingku seolah-olah dia sedang menjalankan langkah-langkah dari sebuah rencana."
+    },
+    {
+      "id": 78,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Kamu yang memimpin faksi kakakku, kan? Soal apa yang ingin aku bicarakan denganmu tadi..."
+    },
+    {
+      "id": 79,
+      "model": "단테",
+      "content": "<Sepertinya begitu...? Untuk saat ini, kurasa iya.>"
+    },
+    {
+      "id": 80,
+      "content": "Tadi? Oh, apakah ini soal percakapan kita di kezhan kemarin...?"
+    },
+    {
+      "id": 81,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Ugh, Kakak. Tolong translasinya."
+    },
+    {
+      "id": 82,
+      "model": "홍루",
+      "content": "Haha, tentu saja. Dante, tanpa ragu, adalah manajer kami."
+    },
+    {
+      "id": 83,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Bagus. Kalau begitu, biar aku kasih satu usul."
+    },
+    {
+      "id": 84,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Jadilah faksiku selama durasi evaluasi Hierarki Keluarga. Bantu aku."
+    },
+    {
+      "id": 85,
+      "model": "단테",
+      "content": "<... Apa?>"
+    },
+    {
+      "id": 86,
+      "content": "Itu anu... apa kita boleh melakukan itu?"
+    },
+    {
+      "id": 87,
+      "model": "히스클리프",
+      "content": "... Emang kita boleh ngelakuin itu?"
+    },
+    {
+      "id": 88,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Kenapa nggak?"
+    },
+    {
+      "id": 89,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Kalian berhasil menahan bahkan para <ruby=Penyapu>Sweepers</ruby>. Itu berarti kalian memimpin kekuatan yang hebat."
+    },
+    {
+      "id": 90,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Lagipula, kalian toh tetap menuju ke rumah utama keluarga, kan? Kalian cuma nggak tahu harus berbuat apa begitu sampai di sana."
+    },
+    {
+      "id": 91,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Dan soal persaingan... yah, kakakku toh nggak peduli sama semuanya."
+    },
+    {
+      "id": 92,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Jadi kenapa nggak gabung sama aku aja? Bantu aku jadi Hierarki Keluarga."
+    },
+    {
+      "id": 93,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Aku nggak kayak kakak-kakak kita yang lain. Aku selalu bayar utangku, entah itu buat bantuan atau dendam. Kalau kalian nggak percaya, aku bersedia buat perjanjian tertu—"
+    },
+    {
+      "id": 94,
+      "model": "단테",
+      "content": "<Apakah kita boleh melakukannya, Faust?>"
+    },
+    {
+      "id": 95,
+      "model": "파우스트",
+      "content": "… Hm."
+    },
+    {
+      "id": 96,
+      "model": "파우스트",
+      "content": "... Faust menganggap rencana Jia Xichun—setidaknya penjelasannya—cukup sempurna."
+    },
+    {
+      "id": 97,
+      "model": "파우스트",
+      "content": "Memiliki sekutu seperti itu di puncak sebuah <ruby=Sayap>Wing</ruby> akan menjadi keuntungan besar bagi Limbus Company juga."
+    },
+    {
+      "id": 98,
+      "model": "단테",
+      "content": "<Kurasa begitu...>"
+    },
+    {
+      "id": 99,
+      "model": "단테",
+      "content": "<... Kalau begitu aku tidak melihat alasan untuk menolak tawarannya.>"
+    },
+    {
+      "id": 100,
+      "content": "Hong Lu, yang sedari tadi mendengarkan percakapan kami, merangkum diskusi tersebut menjadi penjelasan yang lebih jelas dan menyampaikannya kepada Jia Xichun."
+    },
+    {
+      "id": 101,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Heh, sempurna."
+    },
+    {
+      "id": 102,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Dikatakan bahwa pembentukan aliansi semacam itu harus dibarengi dengan perjamuan besar untuk menandai kesempatan tersebut dan memperkuat koalisi yang akan datang."
+    },
+    {
+      "id": 103,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Perjamuannya aku yang traktir. Begitu kita mendekati zona pusat, ayo cari kezhan yang bagus buat bahas rencana masa depan kita bareng-bareng."
+    },
+    {
+      "id": 104,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Kamu Dante... kan? Ayo kita buat ini berhasil."
+    },
+    {
+      "id": 105,
+      "model": "단테",
+      "content": "<Uhm, ayo.>"
+    },
+    {
+      "id": 106,
+      "content": "Aku masih bingung dengan putaran peristiwa ini, tapi Jia Xichun mengulurkan tangan untuk berjabat tangan dengan kesungguhan sedemikian rupa sehingga aku mendapati diriku hampir tertarik untuk membalas jabat tangannya."
+    },
+    {
+      "id": 107,
+      "content": "Kalau dipikir-pikir... ini pertama kalinya kita mendapatkan sekutu yang tidak dipilih secara khusus oleh perusahaan, ya?"
+    },
+    {
+      "id": 108,
+      "content": "... Yah, kalau memang begitu..."
+    },
+    {
+      "id": 109,
+      "content": "... Aku sangat berharap kita bisa punya setidaknya satu sekutu yang tidak berakhir mengenaskan."
+    },
+    {
+      "id": 110,
+      "content": "Setelah perjamuan..."
+    },
+    {
+      "id": 111,
+      "content": "Kami berjalan keluar dari kezhan dan mendapati Mephistopheles sudah menunggu kami di tengah jalan."
+    },
+    {
+      "id": 112,
+      "model": "그레고르",
+      "content": "Wah... aku tidak pernah terpikirkan, tapi sekarang karena busnya cuma berdiri begini di tengah jalan... benar-benar mencolok, ya?"
+    },
+    {
+      "id": 113,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Ini... kendaraan biasa kalian?"
+    },
+    {
+      "id": 114,
+      "model": "뉴소드",
+      "content": "... Senang melihat kalian semua aman."
+    },
+    {
+      "id": 115,
+      "content": "Saude dan Pilot berjalan keluar dari dalam bus."
+    },
+    {
+      "id": 116,
+      "model": "그레고르",
+      "content": "Tentu saja... jadi, apakah kalian sudah membereskan 'urusan' itu?"
+    },
+    {
+      "id": 117,
+      "model": "오티스",
+      "content": "Saya memiliki beberapa hal mendesak lainnya untuk dibicarakan. Dengarkan baik-baik. Apakah anda memiliki *sedikit gambaran* betapa banyak masalah yang ditimbulkan oleh 'koneksi' kecil bawahan anda—"
+    },
+    {
+      "id": 118,
+      "model": "뉴소드",
+      "content": "... Ya. Nona Faust sudah memberikan laporan kepadaku."
+    },
+    {
+      "id": 119,
+      "model": "뉴소드",
+      "content": "Pilot."
+    },
+    {
+      "id": 120,
+      "model": "뉴파일럿",
+      "content": "Aduduh... Baik, Bu!"
+    },
+    {
+      "id": 121,
+      "content": "Dilihat dari caranya melangkah maju dengan canggung... dia mungkin sudah mendapat teguran keras dari Saude."
+    },
+    {
+      "id": 122,
+      "model": "뉴파일럿",
+      "content": "Benar-benar mohon maaf soal itu, kalian semua..."
+    },
+    {
+      "id": 123,
+      "model": "뉴파일럿",
+      "content": "Aku baru pernah jadi bagian dari misi pemusnahan, nggak pernah di urusan spionase begini, jadi..."
+    },
+    {
+      "id": 124,
+      "model": "뉴소드",
+      "content": "Pilot. Apa yang aku katakan tentang mencampur alasan ke dalam permintaan maaf?"
+    },
+    {
+      "id": 125,
+      "model": "뉴파일럿",
+      "content": "Ahh, ahhh!!! Lupain yang aku bilang barusan! Benar-benar minta maaf, serius!"
+    },
+    {
+      "id": 126,
+      "model": "뉴파일럿",
+      "content": "Orang bernama Qingtao ini mendekatiku dan membujukku buat ikut sama rencananya itu!"
+    },
+    {
+      "id": 127,
+      "model": "뉴파일럿",
+      "content": "Jadinya aku terlalu sok tahu daripada senior-seniorku!"
+    },
+    {
+      "id": 128,
+      "model": "뉴소드",
+      "content": "... Aku juga minta maaf. Aku lupa kalau dia masih orang baru dalam urusan ini. Tentu saja dia rentan melakukan kesalahan-kesalahan seperti ini."
+    },
+    {
+      "id": 129,
+      "model": "뉴소드",
+      "content": "Sepertinya kita berdua bakal sama-sama nulis surat buat jelasin kegagalan kita, ya..."
+    },
+    {
+      "id": 130,
+      "model": "단테",
+      "content": "<Kalian berdua akan dihukum karena ini...?>"
+    },
+    {
+      "id": 131,
+      "model": "파우스트",
+      "content": "Tindakan disipliner kemungkinan besar tidak akan menjadi sesuatu yang signifikan. Tim LCB keluar tanpa cedera, mempertimbangkan segalanya. Namun, kemungkinan besar mereka harus bekerja selama setengah tahun tanpa gaji."
+    },
+    {
+      "id": 132,
+      "model": "뉴소드",
+      "content": "Aku bakal anggap ini sebuah kemenangan kalau yang kita dapet cuma pemotongan gaji."
+    },
+    {
+      "id": 133,
+      "model": "뉴파일럿",
+      "content": "L-lain kali! Aku janji!"
+    },
+    {
+      "id": 134,
+      "model": "뉴파일럿",
+      "content": "Lain kali, aku bakal bener-bener jago dalam pekerjaan ini... Aku bakal jadi seseorang yang bener-bener bisa bantu kalian... nngh, *hiks*..."
+    },
+    {
+      "id": 135,
+      "model": "뉴소드",
+      "content": "Tentu saja, Pilot. Kamu *memang* harus begitu."
+    },
+    {
+      "id": 136,
+      "model": "뉴소드",
+      "content": "Bahkan, kamu nggak akan punya pilihan selain jadi anggota tim yang berkontribusi setelah aku selesai berurusan denganmu. Mari kita benar-benar serius melakukannya, ya?"
+    },
+    {
+      "id": 137,
+      "model": "뉴파일럿",
+      "content": "Ahh..."
+    },
+    {
+      "id": 138,
+      "model": "뉴소드",
+      "content": "Nggak ada yang bakal mati atau dipecat di bawah pengawasanku selama aku jadi manajer mereka. Aku bakal pastikan itu."
+    },
+    {
+      "id": 139,
+      "model": "싱클레어",
+      "content": "……."
+    },
+    {
+      "id": 140,
+      "model": "단테",
+      "content": "<... Ya.>"
+    },
+    {
+      "id": 141,
+      "model": "로쟈",
+      "content": "Ohh! Bener! Hampir aja lupa mau bilang, Saude. Ini ada urusan bisnis yang penting banget... Ke depannya, kita bakal—"
+    },
+    {
+      "id": 142,
+      "model": "뉴소드",
+      "content": "Oh, iya. Aku baru mau mengungkit itu cepat atau lambat. Kami baru saja mendapatkan perintah dari LCA."
+    },
+    {
+      "id": 143,
+      "content": "Saude mengeluarkan sebuah perangkat kecil dari saku bajunya..."
+    },
+    {
+      "id": 144,
+      "content": "... dan mulai membacakan isinya."
+    },
+    {
+      "id": 145,
+      "model": "뉴소드",
+      "content": "Setibanya di zona pusat H Corp., LCB akan berpartisipasi dalam Evaluasi Hierarki Keluarga dengan seorang kandidat."
+    },
+    {
+      "id": 146,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Hmph, emang itu rencana kita. Sekarang, faksi Tim Bus ini bakal jadi—"
+    },
+    {
+      "id": 147,
+      "model": "뉴소드",
+      "content": "LCB akan mengajukan <ruby=Pendosa>Sinner</ruby> berikut sebagai kandidat pilihan mereka."
+    },
+    {
+      "id": 148,
+      "model": "뉴소드",
+      "content": "<ruby=Pendosa>Sinner</ruby> ke-6, Hong Lu."
+    },
+    {
+      "id": 149,
+      "model": "단테",
+      "content": "<... Apa?>"
+    },
+    {
+      "id": 150,
+      "place": -1,
+      "content": "- SELESAI -"
+    },
+    {
+      "id": 151,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "<b>... Apaaa?!</b>"
+    },
+    {
+      "id": 152,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "K-kamu nggak bisa ngelakuin itu, apa-apaan!"
+    },
+    {
+      "id": 153,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Kamu! Kalian semua! Bakal aku bikin kalian muntahin semua yang baru aja kalian makan, dasar brengsek!"
+    }
+  ]
+}

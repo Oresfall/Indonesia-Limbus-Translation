@@ -1,0 +1,685 @@
+{
+    "dataList": [
+        {
+            "id": 108001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stoneshower",
+                    "desc": "[WhenUse] Jika target memiliki 5+ [Vibration], Base Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 8 [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +3 Count [Vibration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Gather Stones",
+                    "desc": "[WinDuel] Jika target memiliki [Vibration], Base Power +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 8 [Vibration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu kurangi Count [Vibration] target sebanyak 1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Rising Sloth",
+                    "desc": "[WhenUse] Coin Power +1 untuk setiap 3 [Vibration] pada target (maks 3)\n[WinDuel] Skill ini peroleh Atk Weight +1 untuk setiap 5 [Vibration] pada target (maks 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Aktifkan [Switch_Vibration] menjadi [VibrationEcho]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion] sekali untuk setiap Count [Vibration] pada target (maks 2); lalu kurangi Count [Vibration] target sebanyak 2"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +4 Count [Vibration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guard",
+                    "desc": "Beri 2 [Vibration] terhadap the Penyerang ketika diserang selama ada remaining Perisai HP\n[WhenUse] Peroleh 3 Protection",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Decay Collission",
+                    "desc": "[WhenUse] Jika target memiliki 5+ [Sinking], Coin Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [Sinking] dan +2 Count [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Torrent",
+                    "desc": "[WhenUse] Jika target memiliki [Sinking], Base Power +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 8 [Sinking] dan +2 Count [Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 4 [Sinking] dan +2 Count [Sinking] terhadap 2 acak target"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Cascading Gloom",
+                    "desc": "[WhenUse] Coin Power +1 untuk setiap 3 [Sinking] pada target (maks 3)\n[WinDuel] Skill ini peroleh Atk Weight +1 untuk setiap 5 [Sinking] pada target (maks 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 5 [Sinking] dan +4 Count [Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Next Coin Power +1 untuk setiap 3 [Sinking] pada target (3 kali maks)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Cause [SinkingSurge]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Menghindar",
+                    "desc": "[OnSucceedEvade] Target kehilangan 5 SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 107901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Topple",
+                    "desc": "[WhenUse] Konsumsi 20 [BloodDinner]: peroleh 1 [BloodArmor] untuk setiap 10 [BloodDinner] yang dikonsumsi\n[WhenUse] Coin Power +1 untuk setiap 10 [BloodArmor] (maks 2)\n[WhenUse] Coin Power +1 untuk setiap 15 [Laceration] pada diri sendiri (maks 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 5 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 5 [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 107902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Wound",
+                    "desc": "[WhenUse] Konsumsi 20 [BloodDinner]: peroleh 1 [BloodArmor] untuk setiap 10 [BloodDinner] yang dikonsumsi\n[WhenUse] Coin Power +1 untuk setiap 10 [BloodArmor] (maks 2)\n[WhenUse] Coin Power +1 untuk setiap 15 [Laceration] pada diri sendiri (maks 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 107903,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Don Quixote Hardblood Arts 4 - Sundering",
+                    "desc": "[WhenUse] Jika target memiliki 6+ [Laceration], Coin Power +1\n[WinDuel] With Skill ini, beri +20% damage dengan setiap Stage of [BloodArmor] (maks 60%)\n[DefeatDuel] Konsumsi 4 [BloodArmor]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 5 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 5 [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 107904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Don Quixote Hardblood Arts 11 - Impaling",
+                    "desc": "[WhenUse] Untuk setiap 3 [Laceration] pada target, Base Power +1 (maks 3)\n[WinDuel] With Skill ini, beri +20% damage dengan setiap Stage of [BloodArmor] (maks 60%)\n[DefeatDuel] Konsumsi 4 [BloodArmor]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Aktifkan [Laceration] pada target setara dengan its Count. Use up target's [Laceration] Count turun hingga 1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 107905,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Variant Don Quixote Style: Sancho Arts 4 - Track",
+                    "desc": "Prioritaskan target dengan the most [Laceration]\n[BeforeAttack] Atk Weight +1 untuk setiap 10 [BloodArmor] pada diri sendiri (maks 3)\n[WhenUse] Clash Power +1 untuk setiap 5 [Laceration] pada target (maks 3)\n[WhenUse] Konsumsi hingga 30 [BloodDinner]: peroleh 1 [BloodArmor] dan Coin Power +1 untuk setiap 15 [BloodDinner] yang dikonsumsi (maks 2)\n- Jika unit ini failed to konsumsi [BloodDinner], peroleh 10 [Laceration], dan aktifkan [Laceration] immediately. Kehilangan 1 [Laceration] Count\n[EndSkill] Menambah [BloodDinner] setara dengan the damage Skill ini dealt",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 8 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 [Binding] giliran berikutnya\n- Jika Skill ini yang dikonsumsi 30 [BloodDinner], beri 2 tambahan [Binding]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 107906,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Variant Don Quixote Style: Sancho Arts 3 - Ambush",
+                    "desc": "Prioritaskan target dengan the most [Laceration]\n[BeforeAttack] Atk Weight +1 untuk setiap 10 [BloodArmor] pada diri sendiri (maks 2)\n[WhenUse] Clash Power +1 untuk setiap 5 [Laceration] pada target (maks 3)\n[WhenUse] Konsumsi hingga 30 [BloodDinner]: peroleh 1 [BloodArmor] dan Coin Power +1 untuk setiap 15 [BloodDinner] yang dikonsumsi (maks 2)\n- Jika unit ini failed to konsumsi [BloodDinner], peroleh 10 [Laceration], dan aktifkan [Laceration] immediately. Kehilangan 1 [Laceration] Count\n[EndSkill] Menambah [BloodDinner] setara dengan the damage Skill ini dealt",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 [Paralysis] giliran berikutnya\n- Jika Skill ini yang dikonsumsi 50 [BloodDinner], beri 2 tambahan [Paralysis]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 107907,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Don Quixote Hardblood Arts 2 - Hardblood",
+                    "desc": "Dapat Clash dengan Skill ini tanpa peduli dengan Speed\n[StartBattle] Peroleh 1 [SwirlingBlood]\n[StartBattle] Konsumsi 100 [BloodDinner]; peroleh 1 [BloodArmor] dan 20 Perisai HP untuk setiap 10 [BloodDinner] yang dikonsumsi\n- Jika unit ini doesn't have enough [BloodDinner], peroleh 50 [Laceration], dan aktifkan immediately. Kehilangan 2 [Laceration] Count. Peroleh 200 Perisai HP (damage ini tidak dapat kurangi HP unit ini menjadi 0)\n[DefeatDuel] As long as Perisai HP dari Skill ini remains, peroleh 3 [Vulnerable]\n[DefeatDuel] Skill ini beri -50% damage\n[EndSkill] End Combat Phase",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 5 [Laceration] dan +3 [Laceration] Count"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 107908,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "La Aventura Ha Terminado",
+                    "desc": "Beri +10% damage untuk setiap [Laceration] pada target (maks 200%)\nBeri +10% damage untuk setiap 3 [BloodArmor] (maks 100%)\n[StartBattle] Konsumsi (45 - current SP) [BloodDinner] dan pulihkan hingga 45 SP\n- Jika there isn't enough [BloodDinner], peroleh 20 [Laceration] dan pulihkan hingga 45 SP\n- Peroleh Perisai HP setara dengan remaining [BloodDinner] (maks 100)\n[WinDuel] Beri 10 [Laceration]\n[EndSkill] Menambah [BloodDinner] sebanyak HP damage yang diberikan terhadap target\n[EndSkill] Jika target dikalahkan, increase [BloodDinner] sebanyak target's maks HP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Beri 10 [Laceration] dan +3 [Laceration] Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 5 [Laceration] dan +3 [Laceration] Count untuk semua musuh kecuali for target"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 107909,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "La Aventura Ha Terminado...",
+                    "desc": "Beri +40% damage untuk setiap 10 (sum of [Laceration] pada semua target]) (maks 200%)\nBeri +10% damage untuk setiap cumulative [BloodDinner] unit ini yang dikonsumsi (maks 100%)\n[StartBattle] Konsumsi (45 - current SP) [BloodDinner] dan pulihkan hingga 45 SP\n- Jika there isn't enough [BloodDinner], peroleh 20 [Laceration] dan pulihkan hingga 45 SP\n- Peroleh Perisai HP setara dengan remaining [BloodDinner] (maks 100)\n[WinDuel] Beri 10 [Laceration]\n[EndSkill] Menambah [BloodDinner] sebanyak HP damage yang diberikan terhadap target\n[EndSkill] Jika target dikalahkan, increase [BloodDinner] sebanyak target's maks HP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Beri 10 [Laceration] dan +3 [Laceration] Count"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Compression",
+                    "desc": "[WhenUse] Final Power +1 untuk setiap 5 Potency [Breath] pada diri sendiri (maks 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Potency [Vibration]"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Beri 3 Potency [Vibration] dan +2 Count [Vibration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Dismantle",
+                    "desc": "[WhenUse] Final Power +1 untuk setiap 3 Potency [Breath] pada diri sendiri (maks 5)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 Potency [Vibration]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack] Beri +3 Count [Vibration]"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Aktifkan [VibrationExplosion]. Ketika [VibrationExplosion] is triggered pada target, lalu kurangi Count [Vibration] target sebanyak 1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Conduct Analysis",
+                    "desc": "[WhenUse] Pada 10+ Potency [Breath], konsumsi Potency [Breath] untuk peroleh +2 Final Power untuk setiap 3 Potency [Breath] yang dikonsumsi (maks 4). Konsumsi 3 tambahan [Breath] untuk setiap Final Power diperoleh karena efek ini",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Jika target memiliki 5+ Count [Vibration], aktifkan [VibrationExplosion]. Ketika [VibrationExplosion] is triggered pada target, lalu kurangi Count [Vibration] target sebanyak 1"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack] Beri 5 Potency [Vibration] dan +3 Count [Vibration]"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Aktifkan [VibrationExplosion] dua kali. Ketika [VibrationExplosion] is triggered pada target, lalu kurangi Count [Vibration] target sebanyak 1 (nullify 1 instance of Count [Vibration] reduction jika unit ini won the Clash)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Aktifkan Extinction Sequence",
+                    "desc": "[WhenUse] Konsumsi setengah dari Potency [Breath] dan Count pada diri sendiri\n- Peroleh (sum of yang dikonsumsi Potency [Breath] dan Count / 2) Final Power (maks 20)\n- Beri +(sum of yang dikonsumsi Potency [Breath] dan Count x 2)% damage (maks 50%)\n- +(sum of yang dikonsumsi Potency [Breath] dan Count x 4)% damage pada Serangan Critical (maks 100%)\n[DefeatDuel] Kurangi remaining Count [Breath] sebanyak half",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Jika user menerima no HP damage giliran sebelumnya, guarantee a Crit"
+                                },
+                                {
+                                    "desc": "Jika user menerima damage HP giliran sebelumnya, tidak dapat Crit; saja, beri -80% damage"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Aktifkan [VibrationExplosion] thrice. Ketika [VibrationExplosion] is triggered pada target, lalu kurangi Count [Vibration] target sebanyak 3 (maks 9 Count [Vibration] reduction)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 108205,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Contemplation",
+                    "desc": "[WhenUse] Final Power +1 for Potency [Breath] pada diri sendiri (maks 5)\n[WhenUse] Peroleh 4 Potency [Breath]\n- Jika unit ini memiliki Perisai, peroleh +2 Count [Breath] juga",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 137801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Compression",
+                    "desc": "[WhenUse] Final Power +1 untuk setiap 5 Potency [Breath] pada diri sendiri (maks 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Potency [Vibration]"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Beri 3 Potency [Vibration] dan +2 Count [Vibration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 137802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Dismantle",
+                    "desc": "[WhenUse] Final Power +1 untuk setiap 3 Potency [Breath] pada diri sendiri (maks 5)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] Jika target memiliki 20+ [ObservedPerson], ubah semua Coin pada Skill ini menjadi [SuperCoin]</u></b></mark></color>",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 Potency [Vibration]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack] Beri +3 Count [Vibration]"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Aktifkan [VibrationExplosion]; lalu kurangi Count [Vibration] target sebanyak 1"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 137803,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Conduct Analysis",
+                    "desc": "[WhenUse] Pada 10+ Potency [Breath], konsumsi Potency [Breath] untuk peroleh +2 Final Power untuk setiap 3 Potency [Breath] yang dikonsumsi (maks 4)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Jika target memiliki 5+ Count [Vibration], aktifkan [VibrationExplosion]; lalu kurangi Count [Vibration] target sebanyak 1"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack] Beri 5 Potency [Vibration] dan +3 Count [Vibration]"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Aktifkan [VibrationExplosion] dua kali; lalu kurangi Count [Vibration] target sebanyak 2"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 137804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Aktifkan Extinction Sequence",
+                    "desc": "[WhenUse] Konsumsi setengah dari Potency [Breath] dan Count pada diri sendiri\n- Peroleh (sum of yang dikonsumsi Potency [Breath] dan Count / 2) Final Power (maks 20)\n- Beri +(sum of yang dikonsumsi Potency [Breath] dan Count x 2)% damage (maks 50%)\n- +(sum of yang dikonsumsi Potency [Breath] dan Count x 4)% damage pada Serangan Critical (maks 100%)\n[DefeatDuel] Kurangi remaining Count [Breath] sebanyak half",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Jika user menerima no HP damage giliran sebelumnya, guarantee a Crit"
+                                },
+                                {
+                                    "desc": "Jika user menerima damage HP giliran sebelumnya, tidak dapat Crit; saja, beri -80% damage"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Aktifkan [VibrationExplosion] thrice; lalu kurangi Count [Vibration] target sebanyak 3"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 137805,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Contemplation",
+                    "desc": "[CanDuelGuard]\n[WhenUse] Final Power +1 untuk setiap 3 Potency [Breath] pada diri sendiri (maks 5)\n[WhenUse] Peroleh 4 Potency [Breath]\n- Jika unit ini memiliki Perisai, peroleh +2 Count [Breath] juga",
+                    "coindescs": [
+                        {
+                            "desc": "[SuperCoin]"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

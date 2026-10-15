@@ -1,0 +1,479 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "model": "아나운서",
+      "teller": "Penyiar",
+      "title": "Departemen LCE",
+      "content": "Tiba di Departemen LCE."
+    },
+    {
+      "id": 1,
+      "place": "Tim Riset LCE\nSektor Lab.",
+      "model": "히스클리프",
+      "content": "Woi... Apaan ini..."
+    },
+    {
+      "id": 2,
+      "content": "Pemandangan yang menyambut kami sama sekali tidak seperti yang kami ingat dari kunjungan terakhir untuk <ruby=pemeriksaan rutin>regular check-up</ruby>."
+    },
+    {
+      "id": 3,
+      "model": "오티스",
+      "content": "... Kita terlambat."
+    },
+    {
+      "id": 4,
+      "model": "그레고르",
+      "content": "Kupikir bala bantuan HQ akan menahan mereka... atau setidaknya, kita akan masuk ke medan pertempuran..."
+    },
+    {
+      "id": 5,
+      "content": "... Tapi tidak ada yang tersisa, apalagi yang melarikan diri."
+    },
+    {
+      "id": 6,
+      "content": "Yang bisa kami lihat hanyalah tubuh-tubuh yang terkulai di lantai, memenuhi koridor dalam ketiadaan."
+    },
+    {
+      "id": 7,
+      "model": "이스마엘",
+      "content": "Ini... Ini sungguh mengerikan... Aku tidak pernah menyangka kapal ini akan karam seburuk ini..."
+    },
+    {
+      "id": 8,
+      "model": "이스마엘",
+      "content": "Faust, apa kamu tahu berapa banyak staf LCE yang siap tempur?"
+    },
+    {
+      "id": 9,
+      "model": "파우스트",
+      "content": "LCE... cenderung lebih sering menghadapi uji coba tempur dan eksperimen dibandingkan departemen yang berfokus pada penelitian lainnya. Sebagian besar karyawannya diharuskan telah menyelesaikan pelatihan dasar terkait hal tersebut."
+    },
+    {
+      "id": 10,
+      "model": "파우스트",
+      "content": "Mengenai perlengkapan E.G.O... Meskipun proses penelitian dan ekstraksi saat ini mungkin cukup canggih untuk melihat hasil yang cukup signifikan dalam pertempuran,"
+    },
+    {
+      "id": 11,
+      "model": "파우스트",
+      "content": "tampaknya mereka tidak diperlengkapi dengan baik untuk menangani penyergapan yang sudah direncanakan seperti ini."
+    },
+    {
+      "id": 12,
+      "model": "료슈",
+      "content": "Mustahil para kutu buku lab itu bisa berbuat apa-apa di pertarungan nyata, apalagi melawan <ruby=Laba-laba>The Spiders</ruby> yang sedang berkeliaran."
+    },
+    {
+      "id": 13,
+      "place": -1,
+      "content": "Kenangan itu kembali membanjiri—para peneliti mencatat hasil <ruby=pemeriksaan putin>regular check-up</ruby> kami di atas tumpukan kertas, dan Hohenheim, dengan mata yang sayu dan lelah, membolak-balik berkas."
+    },
+    {
+      "id": 14,
+      "content": "Kami hampir belum sempat mengucapkan selamat tinggal ketika dia mengumpulkan staf lab yang kelelahan, yang sudah pusing karena tingkat stres yang tinggi, untuk mengawasi eksperimen lain yang sedang berlangsung."
+    },
+    {
+      "id": 15,
+      "place": "Tim Riset LCE\nSektor Lab.",
+      "model": "단테",
+      "content": "<Meursault. Jika kamu kebetulan melihat siapa pun yang... terlihat seperti Hohenheim... segera beri tahu aku.>"
+    },
+    {
+      "id": 16,
+      "model": "뫼르소",
+      "content": "... Mm."
+    },
+    {
+      "id": 17,
+      "model": "뫼르소",
+      "content": "Saya telah mengidentifikasi tiga mayat dalam berbagai kondisi yang membuat pengenalan langsung menjadi sulit. Namun, perawakan dan pakaian mereka membuat sangat kecil kemungkinan salah satunya adalah Hohenheim."
+    },
+    {
+      "id": 18,
+      "model": "그레고르",
+      "content": "Dilihat dari kondisinya... mereka mungkin bahkan tidak sempat memberikan perlawanan yang berarti sebelum terbunuh."
+    },
+    {
+      "id": 19,
+      "content": "Dengan tatapan muram di matanya, Gregor memeriksa tubuh-tubuh yang berserakan di lantai."
+    },
+    {
+      "id": 20,
+      "model": "뫼르소",
+      "content": "Dari 32 mayat, 26 menunjukkan trauma fisik yang identik."
+    },
+    {
+      "id": 21,
+      "model": "단테",
+      "content": "<Identik...?>"
+    },
+    {
+      "id": 22,
+      "model": "뫼르소",
+      "content": "Setiap dari mereka memiliki lubang berbentuk spiral di tengah dada, tepat di atas jantung. Penyebab kematian mereka tampaknya adalah jenis senjata \"spiral\" yang sama yang mereka pegang di tangan, Manajer."
+    },
+    {
+      "id": 23,
+      "model": "싱클레어",
+      "content": "Spiral ini... Kurasa mereka mencabutnya sendiri... tapi mengapa..."
+    },
+    {
+      "id": 24,
+      "model": "료슈",
+      "content": "......."
+    },
+    {
+      "id": 25,
+      "model": "료슈",
+      "content": "... Lunak."
+    },
+    {
+      "id": 26,
+      "content": "Ryōshū menunduk, memperhatikan telapak tangannya dengan tenang."
+    },
+    {
+      "id": 27,
+      "content": "Dari kata-kata samar dan raut wajahnya yang kontemplatif,"
+    },
+    {
+      "id": 28,
+      "content": "aku bisa dengan mudah menebak bahwa dia sedang menyusuri bayang-bayang masa lalunya..."
+    },
+    {
+      "id": 29,
+      "content": "... menyentuh objek tak kasatmata dengan telapak tangannya dan merasakan teksturnya, mencari sesuatu yang seharusnya ada di tangannya."
+    },
+    {
+      "id": 30,
+      "content": "Dan aku sudah cukup berpengalaman untuk tahu bahwa kami akan mengunjungi masa lalunya bersama-sama."
+    },
+    {
+      "id": 31,
+      "content": "Namun..."
+    },
+    {
+      "id": 32,
+      "model": "단테",
+      "content": "<... Hah?>"
+    },
+    {
+      "id": 33,
+      "content": "Apa yang kusaksikan benar-benar berbeda dari ingatan para <ruby=Pendosa>Sinners</ruby> lain yang pernah kulihat sejauh ini."
+    },
+    {
+      "id": 34,
+      "place": -1,
+      "content": "Penglihatan yang kulihat benar-benar terpecah-pecah...."
+    },
+    {
+      "id": 35,
+      "content": "... seolah-olah sebilah pisau telah memotong ingatannya menjadi berkeping-keping."
+    },
+    {
+      "id": 36,
+      "model": "과거료슈2",
+      "teller": "???",
+      "title": "???",
+      "content": "......."
+    },
+    {
+      "id": 37,
+      "content": "Di dalam ingatan Ryōshū, sesuatu memang ada di telapak tangannya. Namun..."
+    },
+    {
+      "id": 38,
+      "content": "Aku bahkan tidak bisa membedakan apakah warnanya lebih mendekati hitam atau putih."
+    },
+    {
+      "id": 39,
+      "content": "Apakah itu sejenis makanan? Senjata, atau sesuatu yang sama sekali berbeda?"
+    },
+    {
+      "id": 40,
+      "content": "Bahkan ekspresi yang terlintas di wajahnya saat melihatnya dan kata-kata yang terucap dari bibirnya pada saat itu luput dariku."
+    },
+    {
+      "id": 41,
+      "model": "소지아비",
+      "teller": "???",
+      "title": "???",
+      "content": "......."
+    },
+    {
+      "id": 42,
+      "content": "Namun satu hal yang pasti kulihat..."
+    },
+    {
+      "id": 43,
+      "content": "... adalah bahwa orang yang kemungkinan besar memberikannya padanya..."
+    },
+    {
+      "id": 44,
+      "content": "... sedang mengembuskan kepulan asap yang berputar ke udara,"
+    },
+    {
+      "id": 45,
+      "content": "memperhatikan reaksi Ryōshū dengan santai."
+    },
+    {
+      "id": 46,
+      "place": "Tim Riset LCE\nSektor Lab.",
+      "model": "단테",
+      "content": "<.......>"
+    },
+    {
+      "id": 47,
+      "content": "Aku menatap kembali pemandangan samar dari ingatan Ryōshū yang melintas di depan mataku."
+    },
+    {
+      "id": 48,
+      "model": "료슈",
+      "content": "......."
+    },
+    {
+      "id": 49,
+      "model": "단테",
+      "content": "<Ryōshū? Apakah ada sesuatu yang kamu ingat?>"
+    },
+    {
+      "id": 50,
+      "model": "료슈",
+      "content": "... \"Saru.\""
+    },
+    {
+      "id": 51,
+      "model": "료슈",
+      "content": "Hanya nama itu yang kuingat."
+    },
+    {
+      "id": 52,
+      "model": "단테",
+      "content": "<Maksudmu...>"
+    },
+    {
+      "id": 53,
+      "model": "료슈",
+      "content": "Seperti yang kau lihat, Jam, pikiranku telah dipotong hingga hancur berkeping-keping."
+    },
+    {
+      "id": 54,
+      "model": "료슈",
+      "content": "Urutan dan bentuknya... Semuanya kusut."
+    },
+    {
+      "id": 55,
+      "model": "료슈",
+      "content": "Tidak ada yang bisa kujelaskan tentang ingatanku."
+    },
+    {
+      "id": 56,
+      "model": "오티스",
+      "content": "Sepertinya kita sudah memahami inti situasinya. Skenario terburuk di sini adalah..."
+    },
+    {
+      "id": 57,
+      "model": "오티스",
+      "content": "... kegaduhan dari luar yang terjadi sementara <ruby=Abnormalitas>Abnormalities</ruby>, Distorsi, dan Peccatula menembus penahanan sekaligus."
+    },
+    {
+      "id": 58,
+      "model": "로쟈",
+      "content": "Waduh. Situasi itu benar-benar tidak ingin kupikirkan... Kita harus melawan penyusup *dan* segala jenis monster yang terlepas!"
+    },
+    {
+      "id": 59,
+      "model": "오티스",
+      "content": "Tepat sekali. Itu merangkum keadaan kita saat ini."
+    },
+    {
+      "id": 60,
+      "model": "로쟈",
+      "content": "... Benar..."
+    },
+    {
+      "id": 61,
+      "content": "Outis tidak membuang waktu untuk menyampaikan kesimpulan yang akan mematahkan semangat semua orang."
+    },
+    {
+      "id": 62,
+      "model": "오티스",
+      "content": "Mari kita mulai dari awal."
+    },
+    {
+      "id": 63,
+      "model": "오티스",
+      "content": "Pertama, Departemen LCE diserang oleh sekelompok musuh tak dikenal 2 jam yang lalu."
+    },
+    {
+      "id": 64,
+      "model": "오티스",
+      "content": "Senjata yang digunakan untuk membantai para peneliti... tidak seragam. Para korban tampaknya dibunuh dengan berbagai macam senjata."
+    },
+    {
+      "id": 65,
+      "model": "료슈",
+      "content": "......."
+    },
+    {
+      "id": 66,
+      "place": -1,
+      "model": "검지아비상",
+      "teller": "???",
+      "title": "???",
+      "content": "Putriku tersayang."
+    },
+    {
+      "id": 67,
+      "model": "검지아비상",
+      "teller": "???",
+      "title": "???",
+      "content": "Lihat aku. Saat menggunakan senjata lurus yang meninggalkan busur jangkauan terjauh..."
+    },
+    {
+      "id": 68,
+      "model": "검지아비상",
+      "teller": "???",
+      "title": "???",
+      "content": "Lihat aku. Saat menggunakan senjata yang membunuh dengan sayatan terkecil..."
+    },
+    {
+      "id": 69,
+      "model": "검지아비상",
+      "teller": "???",
+      "title": "???",
+      "content": "Lihat aku. Saat menggunakan senjata fleksibel yang menghancurkan apa pun yang bersentuhan dengannya..."
+    },
+    {
+      "id": 70,
+      "place": "Tim Riset LCE\nSektor Lab.",
+      "model": "료슈",
+      "content": "......."
+    },
+    {
+      "id": 71,
+      "model": "료슈",
+      "content": "Kacau balau, persis seperti bajingan itu."
+    },
+    {
+      "id": 72,
+      "model": "그레고르",
+      "content": "Sulit mengetahui senjata apa yang digunakan di sini... Sial."
+    },
+    {
+      "id": 73,
+      "content": "Ryōshū menyibakkan rambutnya, mengernyitkan alis karena kesal."
+    },
+    {
+      "id": 74,
+      "model": "오티스",
+      "content": "... Bisa dibilang si pembunuh mahir menggunakan setidaknya tiga jenis senjata yang berbeda."
+    },
+    {
+      "id": 75,
+      "model": "오티스",
+      "content": "Melanjutkan..."
+    },
+    {
+      "id": 76,
+      "model": "오티스",
+      "content": "Ini adalah serangan mendadak yang dilakukan tanpa penundaan sedikit pun, dan LCE tidak punya waktu bahkan untuk merencanakan serangan balik. Bisa dibilang, ini adalah pembantaian."
+    },
+    {
+      "id": 77,
+      "model": "오티스",
+      "content": "Nah, ada sesuatu yang menuntut perhatian kita."
+    },
+    {
+      "id": 78,
+      "model": "오티스",
+      "content": "Tampaknya para penyerang membuka unit penahanan <ruby=Abnormalitas>Abnormalities</ruby>... hanya *setelah* mereka memastikan bahwa serangan mendadak tersebut telah berhasil dilakukan."
+    },
+    {
+      "id": 79,
+      "model": "이스마엘",
+      "content": "... Pasti ada udang di balik batu."
+    },
+    {
+      "id": 80,
+      "model": "이스마엘",
+      "content": "Maksudku... bukankah harusnya sebaliknya?"
+    },
+    {
+      "id": 81,
+      "model": "이스마엘",
+      "content": "Buka unit penahanan terlebih dahulu, biarkan monster-monster itu melampiaskan malapetaka ke seluruh fasilitas... lalu masuk saat kekacauan terjadi dan habisi mereka yang tersisa. Itu akan menjadi tindakan yang lebih mudah."
+    },
+    {
+      "id": 82,
+      "model": "오티스",
+      "content": "Tepat sekali. Strategi musuh sangat tidak biasa."
+    },
+    {
+      "id": 83,
+      "model": "오티스",
+      "content": "Mengenai alasan mereka melakukan tindakan yang tidak biasa seperti itu, ada dua penjelasan yang masuk akal."
+    },
+    {
+      "id": 84,
+      "model": "오티스",
+      "content": "Pertama, musuh mungkin terdiri dari para petarung yang cukup terampil untuk tidak memerlukan taktik pengalihan."
+    },
+    {
+      "id": 85,
+      "model": "싱클레어",
+      "content": "Maksudmu mungkin ada lebih banyak lagi... yang sekuat wanita di truk yang menculik Charon...?"
+    },
+    {
+      "id": 86,
+      "model": "오티스",
+      "content": "Mm. Kedua..."
+    },
+    {
+      "id": 87,
+      "model": "오티스",
+      "content": "Bahwa musuh mungkin sengaja melepaskan <ruby=Abnormalitas>Abnormalities</ruby> dari kandang sebagai tindakan lanjutan."
+    },
+    {
+      "id": 88,
+      "model": "돈키호테",
+      "content": "Tindakan lanjutan...? Apakah beliau menyiratkan bahwa para penjahat itu berusaha menyamarkan serangan keji mereka?!"
+    },
+    {
+      "id": 89,
+      "model": "오티스",
+      "content": "Tidak, kemungkinan untuk menutupi jejak hampir tidak ada. Kecuali mereka memiliki pengetahuan presisi tentang <ruby=Abnormalitas>Abnormalities</ruby> pemulung yang bisa melahap mayat sampai bersih, musuh tidak akan pernah meninggalkan luka yang dapat diidentifikasi pada para korban."
+    },
+    {
+      "id": 90,
+      "model": "오티스",
+      "content": "Lebih masuk akal jika tujuan mereka adalah untuk menunda bala bantuan utama HQ dan mencegah mereka tiba di lokasi tepat waktu seperti kita."
+    },
+    {
+      "id": 91,
+      "model": "이스마엘",
+      "content": "Taktik penundaan... begitu ya. Mungkin mereka mencari sesuatu?"
+    },
+    {
+      "id": 92,
+      "model": "오티스",
+      "content": "Mungkin. Mereka pasti memiliki tujuan khusus saat mereka menerobos masuk."
+    },
+    {
+      "id": 93,
+      "model": "홍루",
+      "content": "Yang berarti apa pun yang mereka cari... seharusnya ada di suatu tempat di sini."
+    },
+    {
+      "id": 94,
+      "model": "홍루",
+      "content": "Sesuatu yang sulit dipahami dan tersembunyi dengan sangat baik sehingga mereka harus mengalihkan perhatian kita hanya untuk mengulur waktu."
+    },
+    {
+      "id": 95,
+      "model": "그레고르",
+      "content": "... Kalau begitu, kita harus bergegas."
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "dataList": [
+    {
+      "id": "BearClawWound",
+      "name": "Mauled Color [Rouge]",
+      "desc": "- Stack Maks: 9\n- Ketika diserang, peroleh 1 Potency Bleed untuk setiap 3 Stack (sekali per giliran)\n- Akhir Giliran: Peroleh 1 Defense Level Down giliran berikutnya untuk setiap 4 Stack (maks 2)\n- Akhir Giliran: Kehilangan 1 Stack",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "'Some say that the Ring's paint is made dari the same base material as Augmentation Tattoos—they are both nigh-indelible pigments that terima considerable effort to erase, let alone bleach.'"
+    },
+    {
+      "id": "EagleClawWound",
+      "name": "Mauled Color [Bleu]",
+      "desc": "- Stack Maks: 9\n- Ketika diserang, peroleh 1 Sinking Potency untuk setiap 3 Stack (sekali per giliran)\n- Akhir Giliran: Pada 5+ Stack, kehilangan 5 SP\n- Akhir Giliran: Kehilangan 1 Stack",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "'Jika the Middle uses their tattoos for self-augmentation, does that make the Ring's tattoos lebih brands that, ketika forcibly applied, weaken their musuh?'"
+    },
+    {
+      "id": "BoldBrushstrokes",
+      "name": "Touche Hardie",
+      "desc": "- Selama unit ini memiliki efek ini, double jumlah dari HP dan SP damage unit ini menerima dari Bleed dan Sinking\n- Akhir Giliran: Kehilangan 1 Stack\n- Stack Maks: 1",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Wolven claws, lynx claws... dan even those of turtles, so minuscule yet intricately arranged... What a bold expression.\""
+    },
+    {
+      "id": "IntenseColors",
+      "name": "Palette Vibrante",
+      "desc": "- Terima +(Stack x 5)% damage dari The Ring-faction unit\n· Jika penyerang is in The Ring School of Fauvism faction, terima +(Stack x 10)% damage saja\n- Awal Pertempuran: Peroleh (Stack +1) Bleed, Sinking, Bleed Count, dan Sinking Count\n- Akhir Pertempuran: Efek ini kadaluarsa. Setengahkan Mauled Color [Rouge] dan Mauled Color [Bleu] Stack pada unit ini (dibulatkan ke bawah)\n- Stack Maks: 4",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "FaubismWolfMask",
+      "name": "Le Fauvisme - Masque de Loup",
+      "desc": "- Min & Maks Speed +1\n- Beri +1 lebih Bleed dan Sinking Potency dengan Skill\n- Sebelum menyerang, jika target tidak memiliki Sinking, beri +2 Sinking Count (sekali per Sinner per giliran)\n- Sebelum Terkena Serangan, jika target tidak memiliki Bleed, beri +2 Bleed Count (sekali per Sinner per giliran)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"One might ask: What even distinguishes les Fauves dari factions such as Heishous, R Corp. Packs, dan lebih that incorporate beasts menjadi their identities?\"\n\n\"A reasonable query, of that there is no doubt; to that I say we are distinguished sebanyak the transcendence of beastliness menjadi artistic costumery, while the Heishous have mindlessly jammed it menjadi their anatomies, disregarding their aesthetic qualities.\""
+    },
+    {
+      "id": "FaubismWolfMaskBlooded",
+      "name": "Le Fauvisme - Masque de Loup Ensanglanté",
+      "desc": "- Beri +20% damage; ubah semua Coin menjadi Unbreakable Coin\n- Min & Maks Speed +1\n- Beri +1 lebih dari efek negatif berikut dengan Skill\n· Potency Bleed dan Count\n· Sinking Potency dan Count\n- Sebelum menyerang, jika target tidak memiliki Sinking, beri +2 Sinking Count (3 kali per Sinner per giliran)\n- Sebelum Terkena Serangan, jika target tidak memiliki Bleed, beri +2 Bleed Count (3 kali per Sinner per giliran)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "One tidak dapat simply awaken the power of one's inner ferity sebanyak donning a beastly mask.\nThe interior of setiap headgear worn sebanyak these artists is lined dengan a mat of needles dipped in the Fauvist paint, which is injected menjadi the body upon equipment. \n\nThus is the paint of the Ring—dan these artists, tidak peduli dengan their School, are semua bound untuk menggunakan it."
+    },
+    {
+      "id": "PanicChangeLock",
+      "name": "Fixed Panik",
+      "desc": "Tipe Panik unit ini tidak dapat ubah ketika diberikan dengan an efek that changes Panik Types. Instead, unit ini is diberikan dengan an efek that is diberikan terhadap target tanpa SP.",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "Fauvism_Lowmorale",
+      "name": "Faltering Inspiration",
+      "desc": "- Jika target memiliki Mauled Color, beri +10% damage\n- Peroleh 1 Fragile",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Fauvism_Panic",
+      "name": "Faltering Inspiration",
+      "desc": "- Jika target memiliki Mauled Color, beri +20% damage\n- Peroleh 2 Fragile",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FauvismDocent_Lowmorale",
+      "name": "Coloriage Impulsif",
+      "desc": "- Moral Rendah\n- Beri +2.5% damage untuk setiap tipe efek negatif pada target (maks 15%)\n- Peroleh 1 Fragile",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FauvismDocent_Panic",
+      "name": "Coloriage Impulsif",
+      "desc": "- Panik\n- Beri +5% damage untuk setiap tipe efek negatif pada target (maks 30%)\n- Peroleh 2 Fragile",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IndexPrescriptEnemy_0",
+      "name": "Prescript: [Slip Kertas] I",
+      "desc": "Attack dan hit a Sinner.\n\n- Awal Giliran: Pada 0~2 Berkah dari Prescript, peroleh efek ini\n- Maksimum stack Berkah dari Prescript yang didapatkan dengan Prescript ini dibatasi hingga 3",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescript diberikan dengan cara apapun, media pengiriman ditentukan layaknya nubuat ilahi. Mereka yang menerimanya tidak memiliki kuasa atas bagaimana Prescript tiba."
+    },
+    {
+      "id": "IndexPrescriptEnemy_1",
+      "name": "Prescript: [Slip Kertas] II",
+      "desc": "Serang Target Prescript.\n\n- Awal Giliran: Pada 3~5 Berkah dari Prescript, peroleh efek ini\n- Maksimum stack Berkah dari Prescript yang didapatkan dengan Prescript ini dibatasi hingga 6",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescript diberikan dengan cara apapun, media pengiriman ditentukan layaknya nubuat ilahi. Mereka yang menerimanya tidak memiliki kuasa atas bagaimana Prescript tiba."
+    },
+    {
+      "id": "IndexPrescriptEnemy_2",
+      "name": "Prescript: [Slip Kertas] III",
+      "desc": "Stagger atau bunuh Sinner acak, either sebanyak you atau your kawan.\n\n- Awal Giliran: Pada 6~8 Berkah dari Prescript, peroleh efek ini\n- Maksimum stack Berkah dari Prescript yang didapatkan dengan Prescript ini dibatasi hingga 9",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescript diberikan dengan cara apapun, media pengiriman ditentukan layaknya nubuat ilahi. Mereka yang menerimanya tidak memiliki kuasa atas bagaimana Prescript tiba."
+    },
+    {
+      "id": "IndexPrescriptEnemy_3",
+      "name": "Prescript: [Slip Kertas] IV",
+      "desc": "Kalahkan semua musuh sebelum Prescript berikutnya tiba.\n\n- Awal Giliran: Pada 9 Berkah dari Prescript, peroleh efek ini",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescript diberikan dengan cara apapun, media pengiriman ditentukan layaknya nubuat ilahi. Mereka yang menerimanya tidak memiliki kuasa atas bagaimana Prescript tiba."
+    },
+    {
+      "id": "KarmaOfIndexEnemy",
+      "name": "Konsekuensi Karma",
+      "desc": "- Awal Giliran:\n· Peroleh 1 Defense Level Down untuk setiap 10 Stack\n· Peroleh 1 Fragile untuk setiap 20 Stack\n- Stack Maks: 100",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Terima Prescript itu dan lakukan perintahyna. Pelaksanaannya terukir sebagai karma, ditarik ke dalam siklus tanpa henti yang berputar kembali ke tangan pelaksananya."
+    },
+    {
+      "id": "ResentmentSpiderDaughterTwo",
+      "name": "<s>The Middle</s> - Grudge",
+      "desc": "- Stack Maks: 10\n- Berkurang ketika memakai Skill tertentu\n- Untuk setiap Stack, Level Offense +1, Defense Level -2, dan Counter Skill beri +5% damage\n- Pada Stack Maks, terima +20% damage",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ReinforcedTattooSpiderDaughterTwo",
+      "name": "<s>The Middle Styled</s> Augmentation Tattoos",
+      "desc": "- Stack Maks: 3\n- Beri +10% Blunt dan Envy damage",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HeatingWireOnSpiderTwo",
+      "name": "Bilah Termal MENYALA",
+      "desc": "Saat Menyerang dengan Coin Skill Bilah Termal: Additionally beri Potency Burn dan Count setara dengan Potency Bleed dan Count diberikan",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "dataList": [
+    {
+      "id": "AccumulatedPastSinner",
+      "name": "Accumulated Masa Lalu",
+      "desc": "- Stack Maks: 12\n- Awal Giliran: peroleh 1 Clash Power Up dan 1 Level Offense Up untuk setiap 3 Stack",
+      "summary": ""
+    },
+    {
+      "id": "OutisNoHat",
+      "name": "Violent Collections",
+      "desc": "- Jika unit ini memiliki Haste, peroleh +1 lebih Tremor Count dari its Base Skill\n- Jika Speed unit ini lebih cepat daripada target, beri +(perbedaan Speed x 3)% damage (maks 15%)",
+      "summary": ""
+    }
+  ]
+}

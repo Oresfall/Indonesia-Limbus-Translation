@@ -1,0 +1,148 @@
+{
+  "dataList": [
+    {
+      "id": "NetherseaBrand",
+      "name": "Nethersea Brand",
+      "desc": "Nethersea Brand expands toward the Pendosa with each passing giliran.\n- Stage 1 : Sea Terror territory\n- Stage 2 : 2 frontmost Pendosa\n- Stage 3 : 5 frontmost Pendosa\n- Stage 4 : Semua Pendosa",
+      "summary": "The Nethersea Brand expands with each giliran"
+    },
+    {
+      "id": "NetherseaBrandUnit",
+      "name": "Nethersea Brand",
+      "desc": "- Pendosa on top of Nethersea Brand: pada Akhir Giliran, terima damage tetap setara dengan 5% HP dan peroleh 3 Nervous Impairment\n- Greatly increases the Nervous Impairment Stack Sea Terrors on top of Nethersea Brand beri terhadap Pendosa\n- Nethersea Brand's influence expands toward Pendosa territory with each passing giliran\n· Stage 1 : Sea Terror territory\n· Stage 2 : Mempengaruh 2 frontmost Pendosa\n· Stage 3 : Mempengaruh 5 frontmost Pendosa\n· Stage 4 : Mempengaruh semua Pendosa",
+      "summary": "Allies on top of Nethersea Brand menerima damage tetap dan peroleh Nervous Impairment.\nGreatly increase jumlah dari Nervous Impairment inflicted terhadap kawan sebanyak musuh on top of Nethersea Brand"
+    },
+    {
+      "id": "SeaTerrorCell",
+      "name": "Sea Terror Assimilation",
+      "desc": "- Stack Maks : 5\n- Peroleh 1 Stack pada Awal Giliran\n- Peroleh 1 Offense Level Down dan 1 Defense Level Down per Stack\n- Akhir Giliran: jika an allied Pendosa memiliki 5 Stack dari efek ini, it Escapes Battlefield.\n- Ketika an allied Pendosa memiliki Skill Defense equipped while it has efek ini, they Escape Battlefield at Awal Pertempuran",
+      "summary": "Gains Offense Level Down dan Defense Level Down berdasarkan the Stack"
+    },
+    {
+      "id": "NervousImpairment",
+      "name": "Nervous Impairment",
+      "desc": "- Stack Maks : 30\n- Pada 30 Stack, menjadi Stagger; lalu, terima damage tetap setara dengan 25% dari maks HP unit ini, dan hilangkan efek ini",
+      "summary": "Menjadi Stagger dan terima significant HP damage"
+    },
+    {
+      "id": "WaitingforCommandMod",
+      "name": "Standby State",
+      "desc": "- Ketika in Standby State, unit ini tidak dapat gunakan Skill Attack hingga it menerima damage",
+      "summary": "Ketika in Standby State, unit ini tidak dapat gunakan Skill Attack hingga it menerima damage"
+    },
+    {
+      "id": "ParticipationMod",
+      "name": "Combat-Ready State",
+      "desc": "- Setelah menerima damage, unit ini memiliki begun untuk menggunakan its Skill Attack.\n- Awal Giliran while in Combat-Ready State:\n· Beri 3 Nervous Impairment ke semua musuh\n· Min & Maks Speed +3\n· Peroleh 1 Offense Level Up untuk setiap 10% HP yang hilang (maks 8)\n- Akhir Giliran while in Combat-Ready State: terima damage tetap setara dengan 10% HP",
+      "summary": "Setelah menerima damage, unit ini begins untuk menggunakan its Skill Attack"
+    },
+    {
+      "id": "AbyssalVitality",
+      "name": "Abyssal Vitality",
+      "desc": "- Stack Maks : 100\n- Consumed when menggunakan Skill tertentu\n- Every time efek ini is dikonsumsi, Pulihkan SP pada diri sendiri sebanyak the amount dikonsumsi",
+      "summary": "Consumed when menggunakan Skill tertentu\n- Every time efek ini is dikonsumsi, Pulihkan SP"
+    },
+    {
+      "id": "IndelibleGoodwill",
+      "name": "Indelible Compassion",
+      "desc": "- This unit tidak dapat lose Perisai pada Akhir Giliran (unless removed sebanyak damage atau certain efek)\n- Ketika the Perisai breaks akibat terkena serangan, menjadi Stagger dan peroleh 5 Fragile hingga giliran berikutnya\n- Ketika becoming Stagger akibat raised Stagger threshold, peroleh 5 Fragile hingga giliran berikutnya\n- Fragile diperoleh akibat this buff's efek do not stack\n- Perisai HP can stack, however; when efek ini aktif, the shield HP tidak bisa be tambahan than 50% of the Shielded unit's maks HP\n- Efek ini dihitung sebagai a 'Perisai Management' efek. (replaced when memperoleh a different Perisai Management efek)",
+      "summary": "Tidak lose Perisai pada Akhir Giliran\nKetika the Perisai breaks, menjadi very fragile"
+    },
+    {
+      "id": "ColdAirDOQ",
+      "name": "Cold",
+      "desc": "- Stack Maks: 3\n- Kehilangan 1 Speed untuk setiap Cold Stack\n- Jika unit ini memiliki 3 Stack setelah Akhir Skill: terima 20 Gloom damage dan 20 SP damage; lalu, peroleh 1 Frozen giliran ini dan giliran berikutnya.\n- Cold Stack kadaluarsa setelah semua efek are diaktifkan\n- Akhir Giliran: jika unit ini did not attack The Last Knight, kadaluarsa",
+      "summary": ""
+    },
+    {
+      "id": "FreezingDOQ",
+      "name": "Frozen",
+      "desc": "- Unique Cold\n- Tidak dapat bertindak untuk giliran ini\n- Certain Skill activations menjadi nullified at 1 HP",
+      "summary": ""
+    },
+    {
+      "id": "BloodborneDOQ",
+      "name": "The Knight's Corpus",
+      "desc": "Terima +80% damage",
+      "summary": ""
+    },
+    {
+      "id": "WeakenDOQ",
+      "name": "Misery dan Calamity",
+      "desc": "- Offense Level -??\n- Defense Level -??",
+      "summary": ""
+    },
+    {
+      "id": "DOQ_LowMorale",
+      "name": "Hive Mind",
+      "desc": "Semua Resistances ubah to 'Normal'",
+      "summary": "Semua Resistances ubah to 'Normal'"
+    },
+    {
+      "id": "DOQ_Panic",
+      "name": "Hive Mind",
+      "desc": "Semua Resistances ubah to 'Normal'\nDouble jumlah dari Burn, Bleed, Tremor, dan Rupture Potency diperoleh due ke efek Skill",
+      "summary": "Semua Resistances ubah to 'Normal'\nDouble jumlah dari Burn, Bleed, Tremor, dan Rupture Potency diperoleh due ke efek Skill"
+    },
+    {
+      "id": "CallOfSea_LowMorale",
+      "name": "Call of the Bloodkin",
+      "desc": "Akhir Giliran: konsumsi 3% HP to beri 1 Attack Power Up dan 1 Fragile ke semua kawan, termasuk unit ini, giliran berikutnya",
+      "summary": "Konsumsi HP to beri Attack Power Up dan Fragile ke kawan"
+    },
+    {
+      "id": "CallOfSea_Panic",
+      "name": "Call of the Bloodkin",
+      "desc": "Akhir Giliran: konsumsi 5% HP dan peroleh 1 Fragile to beri 1 Attack Power Up dan 1 Fragile ke semua kawan, termasuk unit ini, giliran berikutnya",
+      "summary": "Konsumsi HP to beri Attack Power Up dan Fragile ke kawan"
+    },
+    {
+      "id": "BitOfEmotion",
+      "name": "Emotional Connection",
+      "desc": "- Saat Serang terhadap musuh: (50 / # dari Coin)% peluang untuk memperoleh 1 E.G.O resource corresponding to the used Skill's Affinity\n- Ketika musuh mati setelah an unit kawan's Skill attack ends, peroleh 2 least-owned E.G.O Resources\n- In an Pertempuran, peroleh 1 E.G.O resource dari setiap Affinity dikonsumsi when menggunakan berikut E.G.O Skill (2 dari setiap when menggunakan Overclocked Skill)\n· To Remain Oneself Hong Lu\n· Command : Meltdown Faust\n· Unbrilliant Glory Gregor\n· Tidal Elegy Ishmael",
+      "summary": "Saat Serang, atau on enemyt kematian, peroleh E.G.O Resources\nKetika menggunakan certain E.G.O Skill, peroleh E.G.O Resources"
+    },
+    {
+      "id": "WildernessSurvivalModule",
+      "name": "Little Handy - Wilderness Survival Module",
+      "desc": "- Maks HP +20%. Pulihkan +40% tambahan dari Skill, Passives, dan buff efek",
+      "summary": "Peroleh maks HP dan pulihkan tambahan"
+    },
+    {
+      "id": "HousekeepingAssistantModule",
+      "name": "Little Handy - Housekeeping Assistant Module",
+      "desc": "- Ketika activating the Hand of the Saint, it activates again sekali giliran berikutnya\n- Awal Giliran: peroleh Offense Level Up dan Defense Level Up setara dengan jumlah dari kali Nethersea Brand was removed sebanyak menggunakan the Hand of the Saint during Pertempuran ini (maks 4 each)",
+      "summary": "Ketika activating the Hand of the Saint, it activates again sekali giliran berikutnya\nAwal Giliran: peroleh Offense Level Up dan Defense Level Up setara dengan jumlah dari kali Nethersea Brand was removed"
+    },
+    {
+      "id": "IncrementalMotionFirmware",
+      "name": "Little Handy - Incremental Motion Firmware",
+      "desc": "- Hapus 1 Stagger threshold tertinggi dari setiap unit kawan\n- Ketika Stagger, immediately pulih dari Stagger at awal dari giliran berikutnya (sekali)",
+      "summary": "Hapus one Batas Stagger\nKetika Stagger, immediately pulih giliran berikutnya"
+    },
+    {
+      "id": "MiniDecontaminationKit",
+      "name": "Little Handy - Mini Decontamination Kit",
+      "desc": "- Nethersea Brand no longer memberi Nervous Impairment atau beri damage ke kawan",
+      "summary": "Nethersea Brand no longer memberi Nervous Impairment atau beri damage ke kawan"
+    },
+    {
+      "id": "ExternalUpgradeModule",
+      "name": "Little Handy - External Upgrade Module",
+      "desc": "- Untuk 3 giliran setelah memperoleh efek ini: peroleh 2 Power Up dan 2 Damage Up at the start dari setiap giliran (Substituting unit earn it pada giliran they Substitute in)",
+      "summary": "Untuk 3 giliran setelah memperoleh efek ini: peroleh Power Up dan Damage Up"
+    },
+    {
+      "id": "DesireToSave_LowMorale",
+      "name": "Heart of Compassion",
+      "desc": "- Beri +(Nervous Impairment pada target / 2)% damage (maks 15%)\n- Awal Giliran: peroleh 1 Damage Up dan 2 Fragile",
+      "summary": "Beri tambahan damage berdasarkan Nervous Impairment pada target"
+    },
+    {
+      "id": "DesireToSave_Panic",
+      "name": "Heart of Compassion",
+      "desc": "- Beri +(Nervous Impairment pada target)% damage (maks 30%)\n- Awal Giliran: peroleh 2 Damage Up dan 3 Fragile",
+      "summary": "Beri tambahan damage berdasarkan Nervous Impairment pada target"
+    }
+  ]
+}

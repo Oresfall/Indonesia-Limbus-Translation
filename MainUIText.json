@@ -1,0 +1,2020 @@
+{
+  "dataList": [
+    {
+      "id": "mainui_main_button0",
+      "content": "Window"
+    },
+    {
+      "id": "mainui_main_button1",
+      "content": "Sinners"
+    },
+    {
+      "id": "mainui_main_button2",
+      "content": "Teater"
+    },
+    {
+      "id": "mainui_main_button3",
+      "content": "Drive"
+    },
+    {
+      "id": "mainui_main_button4",
+      "content": "Ekstrak"
+    },
+    {
+      "id": "mainui_main_button5",
+      "content": "Dispense"
+    },
+    {
+      "id": "mainui_main_exp",
+      "content": "EXP"
+    },
+    {
+      "id": "mainui_main_stamina",
+      "content": "Stamina"
+    },
+    {
+      "id": "mainui_main_enkephalin",
+      "content": "Enkephalin"
+    },
+    {
+      "id": "mainui_main_madness",
+      "content": "Lunacy"
+    },
+    {
+      "id": "mainui_battleselection_everydungeon",
+      "content": "Mirror Dungeons"
+    },
+    {
+      "id": "mainui_stageinfo_recommendlevel",
+      "content": "Kesulitan"
+    },
+    {
+      "id": "mainui_stageinfo_enemyinfo",
+      "content": "Info Musuh"
+    },
+    {
+      "id": "mainui_stageinfo_exclearcondition",
+      "content": "Objektif EX"
+    },
+    {
+      "id": "mainui_stageinfo_statinfo",
+      "content": "Status"
+    },
+    {
+      "id": "mainui_stageinfo_resistinfo",
+      "content": "Resistansi"
+    },
+    {
+      "id": "mainui_stageinfo_enterbutton",
+      "content": "Masuk"
+    },
+    {
+      "id": "mainui_stageinfo_dungeonclear",
+      "content": "Objektif Utama"
+    },
+    {
+      "id": "mainui_Sinners_battleannouncer",
+      "content": "Announcer"
+    },
+    {
+      "id": "mainui_Sinners_dante",
+      "content": "Dante"
+    },
+    {
+      "id": "mainui_Sinners_decklist",
+      "content": "DECK LIST"
+    },
+    {
+      "id": "mainui_Sinners_deck",
+      "content": "Deck"
+    },
+    {
+      "id": "mainui_Sinners_passive",
+      "content": "PASSIVES"
+    },
+    {
+      "id": "mainui_Sinners_egoresource",
+      "content": "AFFINITIES"
+    },
+    {
+      "id": "mainui_Sinners_participant",
+      "content": "Pilih Peserta"
+    },
+    {
+      "id": "mainui_Sinners_startbattle",
+      "content": "To Battle!"
+    },
+    {
+      "id": "mainui_common_personality",
+      "content": "Identities"
+    },
+    {
+      "id": "mainui_common_filter",
+      "content": "Filter"
+    },
+    {
+      "id": "mainui_common_state",
+      "content": "Sekarang"
+    },
+    {
+      "id": "mainui_common_sort",
+      "content": "Sortir"
+    },
+    {
+      "id": "mainui_Sinners_unequipego",
+      "content": "Tidak Terpakai"
+    },
+    {
+      "id": "mainui_skip_desc",
+      "content": "Anda yakin ingin melewati?"
+    },
+    {
+      "id": "mainui_battleresult_reward",
+      "content": "Hadiah"
+    },
+    {
+      "id": "mainui_battleresult_exclearreward",
+      "content": "Hadiah EX"
+    },
+    {
+      "id": "mainui_battleresult_statistics",
+      "content": "Stats"
+    },
+    {
+      "id": "mainui_ok",
+      "content": "Konfirm"
+    },
+    {
+      "id": "mainui_battleresult_victory",
+      "content": "Victory"
+    },
+    {
+      "id": "mainui_battleresult_defeat",
+      "content": "Defeat"
+    },
+    {
+      "id": "mainui_battleresult_return",
+      "content": "Return"
+    },
+    {
+      "id": "mainui_battleresult_hint",
+      "content": "Hint"
+    },
+    {
+      "id": "mainui_page",
+      "content": "Hal. {0}"
+    },
+    {
+      "id": "mainui_cancel",
+      "content": "Batal"
+    },
+    {
+      "id": "mainui_select",
+      "content": "Pilih"
+    },
+    {
+      "id": "mainui_select_finished",
+      "content": "Finalisasi"
+    },
+    {
+      "id": "mainui_grade",
+      "content": "Babak {0}"
+    },
+    {
+      "id": "mainui_floor",
+      "content": "Lantai {0}"
+    },
+    {
+      "id": "mainui_main_enkephalin_Box",
+      "content": "Kotak Enkephalin"
+    },
+    {
+      "id": "mainui_main_own_count",
+      "content": "Dimiliki"
+    },
+    {
+      "id": "mainui_mirror_entrance_entry",
+      "content": "Anda ingin memasuki {0}?"
+    },
+    {
+      "id": "mainui_mirror_entrance_progressing",
+      "content": "{0} sedang berlangsung."
+    },
+    {
+      "id": "mainui_mirror_entrance_re_entry",
+      "content": "Memasuki ulang dungeon?"
+    },
+    {
+      "id": "mainui_mirror_entrance_quit",
+      "content": "Berhenti menjelajah dungeon?"
+    },
+    {
+      "id": "mainui_mirror_entrance_quit_former",
+      "content": "Hilangkan progress eksplorasi sebelumnya?"
+    },
+    {
+      "id": "mainui_mirror_entrance_warning",
+      "content": "※ Modul Enkephalin yang digunakan tidak akan dikembalikan."
+    },
+    {
+      "id": "mainui_proress",
+      "content": "Lanjutkan"
+    },
+    {
+      "id": "mainui_stop",
+      "content": "Berhenti"
+    },
+    {
+      "id": "mainui_next",
+      "content": "Berikutnya"
+    },
+    {
+      "id": "mainui_ego_list",
+      "content": "Daftar E.G.O "
+    },
+    {
+      "id": "mainui_personality_list",
+      "content": "Daftar Identity"
+    },
+    {
+      "id": "mainui_acquired_reward",
+      "content": "Hadiah Diperoleh"
+    },
+    {
+      "id": "mainui_dungeon_finished",
+      "content": "Jeda Eksplorasi"
+    },
+    {
+      "id": "mainui_category",
+      "content": "Legenda"
+    },
+    {
+      "id": "mainui_stats_hp",
+      "content": "HP"
+    },
+    {
+      "id": "mainui_stats_speed",
+      "content": "SPD"
+    },
+    {
+      "id": "mainui_stats_defense",
+      "content": "Defense Level"
+    },
+    {
+      "id": "mainui_upgrade",
+      "content": "Power-up"
+    },
+    {
+      "id": "mainui_mirror_select_ego",
+      "content": "Ke E.G.O"
+    },
+    {
+      "id": "mainui_mirror_opening",
+      "content": "Telah Dibuka"
+    },
+    {
+      "id": "mainui_simulation",
+      "content": "Simulasi"
+    },
+    {
+      "id": "mainui_untill",
+      "content": "Kadaluarsa"
+    },
+    {
+      "id": "mainui_free",
+      "content": "Gratis"
+    },
+    {
+      "id": "mainui_paid",
+      "content": "Paid"
+    },
+    {
+      "id": "mainui_support",
+      "content": "Support"
+    },
+    {
+      "id": "mainui_gacha_rateinfo",
+      "content": "Probabilitas"
+    },
+    {
+      "id": "mainui_gacha_history",
+      "content": "Riwayat Ekstraksi"
+    },
+    {
+      "id": "mainui_gacha_daliynotice",
+      "content": "Reset tiap hari pada {0}:00"
+    },
+    {
+      "id": "mainui_gacha_alreadyusedgacha",
+      "content": "Kuota Harian Habis"
+    },
+    {
+      "id": "mainui_gacha_extract1",
+      "content": "Ekstrak 1"
+    },
+    {
+      "id": "mainui_gacha_extract10",
+      "content": "Ekstrak 10"
+    },
+    {
+      "id": "mainui_open_battlepass",
+      "content": "Battle Pass telah terbuka!"
+    },
+    {
+      "id": "mainui_grade_without_space",
+      "content": "Langkah {0}"
+    },
+    {
+      "id": "mainui_type",
+      "content": "Tipe"
+    },
+    {
+      "id": "mainui_level_unit",
+      "content": "{0}★"
+    },
+    {
+      "id": "mainui_Change_lobby_illust",
+      "content": "Ubah Seni Lobby"
+    },
+    {
+      "id": "mainui_lobby_illust_acquisition_method",
+      "content": "To Unlock:"
+    },
+    {
+      "id": "mainui_networkingerror_content",
+      "content": "Jaringan tidak stabil.\nDimohon untuk cek jaringan Internet anda."
+    },
+    {
+      "id": "mainui_networkingerror_close",
+      "content": "Tutup"
+    },
+    {
+      "id": "mainui_networkingerror_retry",
+      "content": "Ulangi"
+    },
+    {
+      "id": "mainui_event_notice",
+      "content": "Notif Event "
+    },
+    {
+      "id": "mainui_system_notice",
+      "content": "Notif Sistem"
+    },
+    {
+      "id": "mainui_team",
+      "content": "Team"
+    },
+    {
+      "id": "mainui_cost",
+      "content": "Cost"
+    },
+    {
+      "id": "mainui_dungeon_progress_rate",
+      "content": "Progress Dungeon "
+    },
+    {
+      "id": "mainui_guaranteed_reward",
+      "content": "Hadiah"
+    },
+    {
+      "id": "mainui_select_reward",
+      "content": "Hadiah Opsional"
+    },
+    {
+      "id": "mainui_battle_pass_exp",
+      "content": "Battle Pass XP"
+    },
+    {
+      "id": "mainui_enforce_ticket",
+      "content": "Upgrade Tickets"
+    },
+    {
+      "id": "mainui_reward_random_box",
+      "content": "Peti Egoshard"
+    },
+    {
+      "id": "mainui_reward_select_box",
+      "content": "Peti Egoshard Dinominasikan"
+    },
+    {
+      "id": "mainui_manaUsage",
+      "content": "Biaya Sanity"
+    },
+    {
+      "id": "mainui_abnormality_analysis_level",
+      "content": "Tier Sekarang"
+    },
+    {
+      "id": "mainui_analysis",
+      "content": "Threadspin"
+    },
+    {
+      "id": "mainui_abnormality_analysis",
+      "content": "Threadspinning"
+    },
+    {
+      "id": "mainui_receive",
+      "content": "Ambil"
+    },
+    {
+      "id": "mainui_dungeon_finished_reward",
+      "content": "Hadiah Eksplorasi"
+    },
+    {
+      "id": "mainui_passive",
+      "content": "Passives"
+    },
+    {
+      "id": "mainui_support_passive",
+      "content": "Support"
+    },
+    {
+      "id": "mainui_synchronization",
+      "content": "Uptie"
+    },
+    {
+      "id": "mainui_personality_synchronization_level",
+      "content": "Uptie Tier"
+    },
+    {
+      "id": "mainui_owned",
+      "content": "Dimiliki"
+    },
+    {
+      "id": "mainui_growth_level_limited",
+      "content": "Tidak dapat dipakai pada Lv. {0}+"
+    },
+    {
+      "id": "mainui_stats_attack",
+      "content": "ATK"
+    },
+    {
+      "id": "mainui_mailbox_receive_all",
+      "content": "Ambil Semua"
+    },
+    {
+      "id": "mainui_mailbox_receive_history",
+      "content": "Riwayat"
+    },
+    {
+      "id": "mainui_remain_days",
+      "content": "sisa {0}h"
+    },
+    {
+      "id": "mainui_mail_remains_count",
+      "content": "Inbox"
+    },
+    {
+      "id": "mainui_mail_warning",
+      "content": "※ Kapasitas maksimum adalah 100; Surat kadaluarsa akan <color=#990000>dihapus</color>."
+    },
+    {
+      "id": "mainui_mail_warning2",
+      "content": "※ Barang yang diambil di mailbox dapat dikenakan pembatasan pembatalan."
+    },
+    {
+      "id": "main_information",
+      "content": "Info"
+    },
+    {
+      "id": "main_until",
+      "content": "Kadaluarsa"
+    },
+    {
+      "id": "mainui_synchronization_grade",
+      "content": "Uptie Tier"
+    },
+    {
+      "id": "mainui_organization",
+      "content": "TEAMS"
+    },
+    {
+      "id": "story_ui_log_popup",
+      "content": "Log"
+    },
+    {
+      "id": "mail_box_attachments",
+      "content": "Content"
+    },
+    {
+      "id": "mail_box_unseal_result",
+      "content": "Parsel Diterima"
+    },
+    {
+      "id": "item_use_result",
+      "content": "Barang Diperoleh"
+    },
+    {
+      "id": "giving_up_story_dungeon_title",
+      "content": "Forfeit Story Dungeon"
+    },
+    {
+      "id": "giving_up_story_dungeon_content",
+      "content": "You’re currently exploring Episode {0}’s Story Dungeon.\nForfeit your progress dan enter a new dungeon?"
+    },
+    {
+      "id": "mainui_all",
+      "content": "Semua"
+    },
+    {
+      "id": "mainui_opened",
+      "content": "Terbuka"
+    },
+    {
+      "id": "mainui_not_opened",
+      "content": "Terkunci"
+    },
+    {
+      "id": "mainui_buy",
+      "content": "Konfirm"
+    },
+    {
+      "id": "mainui_use",
+      "content": "Pakai"
+    },
+    {
+      "id": "mainui_consume",
+      "content": "Consumable"
+    },
+    {
+      "id": "mainui_currencies",
+      "content": "Currency"
+    },
+    {
+      "id": "mainui_inventory",
+      "content": "Inventory"
+    },
+    {
+      "id": "mainui_awaken_requirement_amount",
+      "content": "Kebutuhan Currency"
+    },
+    {
+      "id": "mainui_passive_skill_addition",
+      "content": "Passives Terbuka"
+    },
+    {
+      "id": "mainui_ego_awaken_skill_reinforcement",
+      "content": "E.G.O Awakening Ditingkatkan"
+    },
+    {
+      "id": "mainui_ego_erosion_skill_reinforcement",
+      "content": "E.G.O Corrosion Ditingkatkan"
+    },
+    {
+      "id": "mainui_lack_of_material_amount",
+      "content": "Thread tidak cukup."
+    },
+    {
+      "id": "mainui_move",
+      "content": "Go"
+    },
+    {
+      "id": "mainui_move_to_twine_store",
+      "content": "Shard::Pertukaran Thread"
+    },
+    {
+      "id": "mainui_move_to_twine_store_question",
+      "content": "Thread tidak cukup.\nPergi ke Shard::Pertukaran Thread?"
+    },
+    {
+      "id": "mainui_confirm_of_purchased_twine",
+      "content": "Ubah ke {0} Thread?"
+    },
+    {
+      "id": "mainui_result_of_purchased_twine",
+      "content": "Mendapat {0} Thread."
+    },
+    {
+      "id": "mainui_personality_awaken_completion",
+      "content": "Identity Uptied"
+    },
+    {
+      "id": "mainui_ego_awaken_completion",
+      "content": "E.G.O Threadspun"
+    },
+    {
+      "id": "mainui_new_skill_acquisition",
+      "content": "Skill Baru: [{0}]"
+    },
+    {
+      "id": "mainui_new_passive_skill_acquisition",
+      "content": "Passive Baru: [{0}]"
+    },
+    {
+      "id": "mainui_new_battle_passive_acquisition",
+      "content": "Combat Passive Baru: [{0}]"
+    },
+    {
+      "id": "mainui_new_support_passive_acquisition",
+      "content": "Support Passive Baru: [{0}]"
+    },
+    {
+      "id": "mainui_skill_reinforcement",
+      "content": "Skill Ditingkatkan: [{0}]"
+    },
+    {
+      "id": "mainui_unlock_personality_story",
+      "content": "Kisah dari [{0}] Terbuka"
+    },
+    {
+      "id": "mainui_ego_awaken_skill_name_reinforcement",
+      "content": "E.G.O Awakening [{0}] Ditingkatkan"
+    },
+    {
+      "id": "mainui_ego_erosion_skill_name_reinforcement",
+      "content": "E.G.O Corrosion [{0}] Ditingkatkan"
+    },
+    {
+      "id": "mainui_specific_level_achievement",
+      "content": "Capai Lv. {0}"
+    },
+    {
+      "id": "mainui_personality_awaken_level_up_condition",
+      "content": "Kebutuhan Uptie Tier {0}"
+    },
+    {
+      "id": "mainui_battle_passsive_addition",
+      "content": "Combat Passives Terbuka"
+    },
+    {
+      "id": "mainui_support_passsive_addition",
+      "content": "Support Passives Terbuka"
+    },
+    {
+      "id": "mainui_check_purchase",
+      "content": "Konfirm Pembelian"
+    },
+    {
+      "id": "mainui_acquire_banner",
+      "content": "Banner Didapatkan"
+    },
+    {
+      "id": "mainui_purchase_complete",
+      "content": "Terbeli"
+    },
+    {
+      "id": "mainui_activation",
+      "content": "ACTIVATED"
+    },
+    {
+      "id": "mainui_ask_purchase_enkephalin",
+      "content": "Enkephalin Tidak Cukup.\nApakah anda ingin mengisi ulang Enkephalin?"
+    },
+    {
+      "id": "mainui_ask_purchase_enkephalin_box",
+      "content": "Anda tidak memiliki cukup Kotak Enkephalin.\nApakah anda ingin membelinya?"
+    },
+    {
+      "id": "mainui_rewatching-stage-story",
+      "content": "Ulangi Cerita"
+    },
+    {
+      "id": "mainui_before_battle",
+      "content": "Pra-pertempuran"
+    },
+    {
+      "id": "mainui_after_battle",
+      "content": "Pasca-pertempuran"
+    },
+    {
+      "id": "mainui_story",
+      "content": "Cerita"
+    },
+    {
+      "id": "Get_Reward",
+      "content": "Hadiah Didapatkan"
+    },
+    {
+      "id": "mainui_user_exp",
+      "content": "EXP Manajer"
+    },
+    {
+      "id": "mainui_chapter_progress",
+      "content": "Progress"
+    },
+    {
+      "id": "mainui_ex_clear_progress",
+      "content": "EX Selesai"
+    },
+    {
+      "id": "mainui_notice_spend_free_lunacy_first",
+      "content": "※ Free Lunacy digunakan dahulu."
+    },
+    {
+      "id": "mainui_notice_require_lunacy",
+      "content": "※ Tidak cukup Lunacy."
+    },
+    {
+      "id": "mainui_progress_of_spend",
+      "content": "Habiskan {0} untuk melanjutkan {1}?"
+    },
+    {
+      "id": "game_setting",
+      "content": "Konfig"
+    },
+    {
+      "id": "level",
+      "content": "Level"
+    },
+    {
+      "id": "name",
+      "content": "Nama"
+    },
+    {
+      "id": "order_of_acquisition",
+      "content": "Terkini"
+    },
+    {
+      "id": "tolerance",
+      "content": "Toleransi"
+    },
+    {
+      "id": "outstanding_staff",
+      "content": "Most Valued Employee"
+    },
+    {
+      "id": "total_damage_contribution",
+      "content": "Damage Terkontribusi"
+    },
+    {
+      "id": "deal_damage",
+      "content": "Memberi"
+    },
+    {
+      "id": "taken_damage",
+      "content": "Menerima"
+    },
+    {
+      "id": "user_level_up_notice",
+      "content": "Level Manajer Bertambah!"
+    },
+    {
+      "id": "increase_maxium_enkephalin",
+      "content": "Kapasitas Enkephalin naik!"
+    },
+    {
+      "id": "recharge_enkephalin_notice",
+      "content": "Enkephalin telah terisi ulang."
+    },
+    {
+      "id": "gacha_extract_multiple",
+      "content": "Ekstrak {0}"
+    },
+    {
+      "id": "number_of_times",
+      "content": "Kali"
+    },
+    {
+      "id": "number_of_remain_extract_times",
+      "content": "Ektraksi Tersisa"
+    },
+    {
+      "id": "notice_of_remain_extract_chance",
+      "content": "3★ Identity atau E.G.O dijamin dalam {0} Ekstraksi"
+    },
+    {
+      "id": "mainui_settings",
+      "content": "Settings"
+    },
+    {
+      "id": "mainui_environment_settings",
+      "content": "Settings"
+    },
+    {
+      "id": "mainui_back",
+      "content": "Kembali"
+    },
+    {
+      "id": "mainui_quit_game",
+      "content": "Keluar Game"
+    },
+    {
+      "id": "mainui_acquisition",
+      "content": "Dimiliki"
+    },
+    {
+      "id": "mainui_not_acquisition",
+      "content": "Tidak Dimiliki"
+    },
+    {
+      "id": "mainui_no_record",
+      "content": "Catatan Akuisi Kosong"
+    },
+    {
+      "id": "resume",
+      "content": "Lanjutkan"
+    },
+    {
+      "id": "mainui_entering",
+      "content": "Masuk"
+    },
+    {
+      "id": "mainui_open_after_clear",
+      "content": "Selesaikan Ch. {0} untuk Membuka"
+    },
+    {
+      "id": "mainui_organization_sharp",
+      "content": "Team #{0}"
+    },
+    {
+      "id": "mainui_participant_count",
+      "content": "Edit Team"
+    },
+    {
+      "id": "mainui_edit",
+      "content": "Edit"
+    },
+    {
+      "id": "mainui_unlock_condition_by_personality_awaken_level",
+      "content": "Terbuka pada Tier {0}"
+    },
+    {
+      "id": "skill_growth_value",
+      "content": "Pertumbuhan"
+    },
+    {
+      "id": "gacha_history_notice",
+      "content": "※ Hingga {1} kasus selama {0} hari terakhir ditampilkan."
+    },
+    {
+      "id": "gacha_history_empty",
+      "content": "Catatan ekstraksi kosong."
+    },
+    {
+      "id": "own",
+      "content": "Dimiliki"
+    },
+    {
+      "id": "gacha_category",
+      "content": "Kategori"
+    },
+    {
+      "id": "gacha_time",
+      "content": "Tanggal"
+    },
+    {
+      "id": "used_currencies",
+      "content": "Currency Digunakan"
+    },
+    {
+      "id": "mainui_ask_purchase_enkephalin_module",
+      "content": "Anda tidak memiliki cukup Modul Enkephalin.\nIngin merakit beberapa?"
+    },
+    {
+      "id": "list",
+      "content": "Daftar"
+    },
+    {
+      "id": "rank",
+      "content": "Kelangkaan"
+    },
+    {
+      "id": "probability",
+      "content": "Kemungkinan"
+    },
+    {
+      "id": "gacha_rate_label",
+      "content": "Probabilitas Ekstraksi"
+    },
+    {
+      "id": "gacha_rate_title_ten1",
+      "content": "[10 Ektraksi (1-9)]: Peluang sama dengan [1 Ektraksi]"
+    },
+    {
+      "id": "gacha_rate_title_ten2",
+      "content": "[10 Ektraksi (ke-10)]"
+    },
+    {
+      "id": "gacha_rate_info_intro1",
+      "content": "Sesuai dengan 「Pedoman Pembatasan Sukarela Asosiasi Industri Game Korea」, tarif terperinci untuk barang berbasis peluang diungkapkan di sini.\n\nPeluang individual dibulatkan dari angka kelima setelah titik desimal. Jumlah sebenarnya diterapkan sebagai 100%."
+    },
+    {
+      "id": "gacha_rate_info_intro2",
+      "content": "Dalam [10 Ekstraksi], setidaknya 1 Identity dengan kelangkaan 2★ atau lebih dapat diektraksi.\n\nTabel untuk Ekstraksi ke-10 adalah sebagai berikut:"
+    },
+    {
+      "id": "gacha_rate_info_ego1",
+      "content": "Berikut adalah daftar Identity dan E.G.O yang dapat anda peroleh sesuai dengan peluang yang disebutkan di atas.\n\nDaftar ini dapat berubah pada season tertentu; perubahan mendatang pada tabel hadiah akan diumumkan sebelumnya."
+    },
+    {
+      "id": "gacha_rate_info_ego2",
+      "content": "<b>E.G.O diekstraksi secara non-berulang; E.G.O yang diperoleh melalui cara apa pun, termasuk Ekstraksi, Dispenser, dan penukaran dari kotak surat, akan dikecualikan dari tabel Ekstraksi.</b>\n\nSelama masih ada E.G.O yang tersisa dalam tabel hasil yang mungkin, peluang untuk mengekstrak E.G.O dalam Ekstraksi tidak berubah. Oleh karena itu, peluang untuk memperoleh E.G.O tertentu akan meningkat seiring dengan semakin banyaknya ekstraksi yang dilakukan.</b>"
+    },
+    {
+      "id": "gacha_rate_info_complete1",
+      "content": "Jika tidak ada E.G.O yang tersisa di tabel karena pengguna telah memperoleh semuanya, peluang untuk [1 Ekstraksi] dan [10 Ekstraksi] akan berubah sesuai dengan hal berikut:"
+    },
+    {
+      "id": "gacha_rate_info_complete2",
+      "content": "Dalam Target Ekstraksi, Identity dan E.G.O tertentu memiliki tingkat ekstraksi yang lebih tinggi.\n\nTarget Identity menyumbang 50% dari probabilitas untuk kelangkaan masing-masing; tingkat tersebut dibagi rata di antara mereka.\n\n50% probabilitas lainnya didistribusikan secara merata di antara Identity yang tidak ditargetkan dalam tabel."
+    },
+    {
+      "id": "gacha_rate_info_complete3",
+      "content": "Hal yang sama berlaku untuk Target E.G.O.\n\nPerubahan probabilitas untuk Target Ekstraksi tidak mempengaruhi peluang munculnya item dengan tipe dan kelangkaan tertentu."
+    },
+    {
+      "id": "gacha_rate_info_piece1",
+      "content": "★ Egoshards\nSaat anda mengekstrak Identity atau E.G.O yang sudah anda miliki, anda akan mendapatkan Egoshard dari karakter tersebut, jumlahnya tergantung pada jenis dan kelangkaan item tersebut."
+    },
+    {
+      "id": "gacha_rate_info_piece2",
+      "content": "Egoshard hanya dapat digunakan untuk jangka waktu tertentu. Ketika tanggal kedaluwarsa tiba, 50% dari Egoshard yang dimiliki akan dibawa ke season berikutnya.\n\nEgoshard yang tersisa akan dikonversi menjadi Thread."
+    },
+    {
+      "id": "gacha_rate_info_piece3",
+      "content": "Hal yang sama berlaku untuk Peti Egoshard.\n\nPemain akan diberi tahu tentang perubahan season yang akan datang dan berakhirnya Egoshard dan Peti Egoshard beberapa waktu sebelum tanggal kedaluwarsa."
+    },
+    {
+      "id": "personality_preview_notice",
+      "content": "Stat Identity pada level dan tier Uptie maksimum akan ditampilkan di sini."
+    },
+    {
+      "id": "ego_preview_notice",
+      "content": "E.G.O ditampilkan pada tier maksimal di sini."
+    },
+    {
+      "id": "season_1",
+      "content": "Season 1"
+    },
+    {
+      "id": "commonly",
+      "content": "Reguler"
+    },
+    {
+      "id": "notice_external_website",
+      "content": "Beralih ke situs web eksternal."
+    },
+    {
+      "id": "pass_level",
+      "content": "Level Pass "
+    },
+    {
+      "id": "normal_reward",
+      "content": "Hadiah Reguler"
+    },
+    {
+      "id": "limbus_pass_reward",
+      "content": "Hadiah Limbus Pass"
+    },
+    {
+      "id": "loading_battlehint",
+      "content": "Tips Combat "
+    },
+    {
+      "id": "status_up",
+      "content": "Stats Bertambah"
+    },
+    {
+      "id": "active_skill_acquired",
+      "content": "Skills Didapatkan"
+    },
+    {
+      "id": "active_skill_reinforcement",
+      "content": "Skills Ditingkatkan"
+    },
+    {
+      "id": "progress_ego_gacksung",
+      "content": "Progress\nThreadspin"
+    },
+    {
+      "id": "skill_with_index",
+      "content": "Skill {0}"
+    },
+    {
+      "id": "mail_date",
+      "content": "Tanggal"
+    },
+    {
+      "id": "mail_sender",
+      "content": "Pengirim"
+    },
+    {
+      "id": "mail_history_notice",
+      "content": "※ Hingga {0} barang yang diklaim akan ditampilkan."
+    },
+    {
+      "id": "cant_receive_mail_all_tilte",
+      "content": "Tidak Dapat Klaim"
+    },
+    {
+      "id": "cant_receive_mail_all_main",
+      "content": "Tidak ada surat yang tersedia untuk diklaim dengan “Klaim Semua”"
+    },
+    {
+      "id": "attached_item",
+      "content": "Tertera"
+    },
+    {
+      "id": "inventory_category_all",
+      "content": "Semua"
+    },
+    {
+      "id": "inventory_category_normal",
+      "content": "Normal"
+    },
+    {
+      "id": "inventory_category_consumable",
+      "content": "Consumables"
+    },
+    {
+      "id": "inventory_category_pieces",
+      "content": "Egoshards"
+    },
+    {
+      "id": "enkephalin_injection_complete",
+      "content": "Enkephalin Terisi"
+    },
+    {
+      "id": "purchase_impossible",
+      "content": "Tidak Dapat Dibeli"
+    },
+    {
+      "id": "notice_not_enough_pieces",
+      "content": "※ Egoshards Tidak Cukup."
+    },
+    {
+      "id": "buy_personaliy",
+      "content": "Beli Identity"
+    },
+    {
+      "id": "buy_ego",
+      "content": "Beli E.G.O"
+    },
+    {
+      "id": "not_enough_pieces",
+      "content": "Egoshards Tidak Cukup"
+    },
+    {
+      "id": "basis",
+      "content": "Basic"
+    },
+    {
+      "id": "skip_tutorial",
+      "content": "Lewati Tutorial"
+    },
+    {
+      "id": "skip_tutorial_description",
+      "content": "Apa anda yakin untuk melewati tutorial?"
+    },
+    {
+      "id": "min_speed_upgrade",
+      "content": "Min. SPD Up"
+    },
+    {
+      "id": "max_speed_upgrade",
+      "content": "Maks. SPD Up"
+    },
+    {
+      "id": "min_max_speed_upgrade",
+      "content": "Min. dan Maks. SPD Up"
+    },
+    {
+      "id": "mailbox",
+      "content": "Mailbox"
+    },
+    {
+      "id": "remain_days_label",
+      "content": "Batas"
+    },
+    {
+      "id": "extract_again",
+      "content": "Ektrak Lagi"
+    },
+    {
+      "id": "ego_gift",
+      "content": "E.G.O Gifts"
+    },
+    {
+      "id": "classification",
+      "content": "Kategori"
+    },
+    {
+      "id": "quantity",
+      "content": "Kuantitas"
+    },
+    {
+      "id": "appearance_probability",
+      "content": "Peluang"
+    },
+    {
+      "id": "Individual_appearance_probability",
+      "content": "Peluang Individu"
+    },
+    {
+      "id": "notice_sold_out",
+      "content": "Stok Habis"
+    },
+    {
+      "id": "select_piece",
+      "content": "Pilih Egoshard"
+    },
+    {
+      "id": "mail_item_warning",
+      "content": "※ Pengembalian mungkin dibatasi setelah barang tersebut ditukarkan."
+    },
+    {
+      "id": "mainui_unlock_condition_by_ego_awaken_level",
+      "content": "Terbuka pada Tier {0}"
+    },
+    {
+      "id": "empty_mailbox_notice",
+      "content": "Penyimpanan kosong."
+    },
+    {
+      "id": "gacha_rate_detail",
+      "content": "Rincian Peluang"
+    },
+    {
+      "id": "gacha_alarm_title",
+      "content": "Lanjutkan Ekstraksi"
+    },
+    {
+      "id": "clear_specific_stage",
+      "content": "Selesaikan {0}"
+    },
+    {
+      "id": "clear_main_chapter_stage",
+      "content": "Selesaikan Ch. {0}"
+    },
+    {
+      "id": "ingredients",
+      "content": "Barang"
+    },
+    {
+      "id": "remote_download_return_title",
+      "content": "Download baru telah diterima.\nKembali ke layar utama."
+    },
+    {
+      "id": "battle_skip",
+      "content": "Lewati"
+    },
+    {
+      "id": "ask_battle_skip",
+      "content": "Anda yakin untuk melewati pertempuran?"
+    },
+    {
+      "id": "notice_consumption_multiples",
+      "content": "{0} butuh x {1}"
+    },
+    {
+      "id": "notice_additional_rewards",
+      "content": "Peroleh Hadiah Tambahan {0}"
+    },
+    {
+      "id": "gacha_notice_exclude_ego",
+      "content": "Ektrasi banner ini tidak termasuk E.G.O."
+    },
+    {
+      "id": "gacha_notice_single_season",
+      "content": "Identity 2★ dan 3★ di banner ektraksi ini bagian dari Season {0}."
+    },
+    {
+      "id": "error_and_return_to_main",
+      "content": "Terjadi kesalahan.\nKembali ke layar utama."
+    },
+    {
+      "id": "to_window",
+      "content": "Ke Window"
+    },
+    {
+      "id": "completion",
+      "content": "Complete"
+    },
+    {
+      "id": "event_in_progress",
+      "content": "Event Buka"
+    },
+    {
+      "id": "end_of_event",
+      "content": "Event Tutup"
+    },
+    {
+      "id": "gacha_rate_info_intro1_1a",
+      "content": "Peluang untuk Ektraksi sekali adalah sebagai berikut."
+    },
+    {
+      "id": "gacha_rate_info_intro1_1b",
+      "content": "Tabel untuk satu penggunaan {0} adalah sebagai berikut."
+    },
+    {
+      "id": "gacha_rate_info_intro1_1c",
+      "content": "Ketika anda menggunakan {0}, anda dapat memilih satu currency dari pilihan berikut."
+    },
+    {
+      "id": "package_info_detail1",
+      "content": "Setelah anda memilih currency, tabel untuk memperoleh berbagai set currency lain dengan menggunakan {0} adalah sebagai berikut."
+    },
+    {
+      "id": "package_info_detail2",
+      "content": "※ “{0}” pada tabel bagian bawah terdapat contoh pemilihan salah satu currency dari tabel di atas."
+    },
+    {
+      "id": "acquired_quantity",
+      "content": "Jumlah"
+    },
+    {
+      "id": "name_of_currencies",
+      "content": "Currency"
+    },
+    {
+      "id": "package_info_title",
+      "content": "Rincian Peluang Kemunculan Currency"
+    },
+    {
+      "id": "used_once",
+      "content": "Sekali Pakai"
+    },
+    {
+      "id": "probability_details",
+      "content": "Probabilitas"
+    },
+    {
+      "id": "be_in_use",
+      "content": "Digunakan"
+    },
+    {
+      "id": "season_information",
+      "content": "Panduan Season"
+    },
+    {
+      "id": "announcer_selection_description",
+      "content": "※ Jika anda memilih 2 atau lebih Announcer sekaligus, dialog yang akan diputar akan dipilih secara acak. (Hingga 10)"
+    },
+    {
+      "id": "panic_type",
+      "content": "Tipe Panic"
+    },
+    {
+      "id": "mental_strength",
+      "content": "Sanity"
+    },
+    {
+      "id": "mental_increase_condition",
+      "content": "Faktor dasar peningkat Sanity"
+    },
+    {
+      "id": "mental_decrease_condition",
+      "content": "Faktor dasar pengurang Sanity"
+    },
+    {
+      "id": "mental_low_morale_effect",
+      "content": "Efek Low Morale"
+    },
+    {
+      "id": "mental_panic_effect",
+      "content": "Efek Panic"
+    },
+    {
+      "id": "open_scheduled_date_month_day",
+      "content": "Pembukaan {0}B {1}H (Bulan/Hari)"
+    },
+    {
+      "id": "mainui_acquire_user_ticker_deco",
+      "content": "Barang diperoleh"
+    },
+    {
+      "id": "last_battlepass_season_level",
+      "content": "Level Pass"
+    },
+    {
+      "id": "season_end_notification",
+      "content": "Pemberitahuan Akhir Season"
+    },
+    {
+      "id": "season_start_notification",
+      "content": "Pemberitahuan Awal Season"
+    },
+    {
+      "id": "new_story_appeared_by_new_season",
+      "content": "Konten Main Story baru"
+    },
+    {
+      "id": "collection_rate",
+      "content": "Peluang Koleksi"
+    },
+    {
+      "id": "season_n_personality",
+      "content": "Identity Season {0}"
+    },
+    {
+      "id": "season_n_ego",
+      "content": "E.G.O Season {0}"
+    },
+    {
+      "id": "season_n",
+      "content": "Season {0}"
+    },
+    {
+      "id": "new_season_former_piece_to_current_piece_desc",
+      "content": "Sebagian dari Egoshard yang anda miliki akan dibawa ke season saat ini."
+    },
+    {
+      "id": "new_season_former_piece_to_thread_desc",
+      "content": "Egoshard yang tidak dibawa akan diubah menjadi Thread."
+    },
+    {
+      "id": "new_season_former_box_to_current_box_desc",
+      "content": "Sebagian dari Peti Egoshard (acak & nominasi) yang dimiliki akan dibawa ke season saat ini."
+    },
+    {
+      "id": "new_season_former_box_to_thread_box",
+      "content": "Peti Egoshard yang tidak dibawa akan diubah menjadi Peti Thread."
+    },
+    {
+      "id": "new_pass_appeared",
+      "content": "Pass Baru Tersedia"
+    },
+    {
+      "id": "get_not_acquired_rewards",
+      "content": "Hadiah Tidak Diklaim Terkirimkan"
+    },
+    {
+      "id": "items_changed_by_season_changed_desc",
+      "content": "Currency dari season sebelumnya akan diubah menjadi season sekarang."
+    },
+    {
+      "id": "exchange",
+      "content": "Pertukaran"
+    },
+    {
+      "id": "notice_of_pity_system",
+      "content": "Selama banner berlangsung, anda dapat memperoleh ‘Yisang’ [Ideality] berdasarkan jumlah ekstraksi yang telah anda lakukan.\nSetelah mengumpulkan sejumlah tertentu, anda dapat menukarkannya dengan 3★ Identity atau E.G.O yang diwakili pada banner tersebut.\n\n※ Ideality tidak dibagi antar banner; Ideality di setiap banner dianggap sebagai currency tersendiri.\n※ Setelah banner berakhir, Ideality yang tersisa akan dikonversi menjadi Thread."
+    },
+    {
+      "id": "twine_store",
+      "content": "Shard::Pertukaran Thread"
+    },
+    {
+      "id": "pass",
+      "content": "Pass"
+    },
+    {
+      "id": "event",
+      "content": "Event"
+    },
+    {
+      "id": "notice_of_pity_point_expiration",
+      "content": "{1} Yisang [Ideality] dari {0} telah dikonversi menjadi Thread."
+    },
+    {
+      "id": "notice_of_pity_point_progress_or_not",
+      "content": "Habiskan 200 Yisang [Ideality] dan lakukan pertukaran ini?"
+    },
+    {
+      "id": "notice_of_pity_point_progress_or_not_already_have",
+      "content": "Anda telah memiliki Identity ini. Tukar 200 Yisang [Ideality] untuk 50 Identity Shard Sinner ini?"
+    },
+    {
+      "id": "open_date_description_month_day_time_zone",
+      "content": "Terbuka setelah Update {0}/{1} ({2})"
+    },
+    {
+      "id": "open_date_description_month_day_time_zone_date",
+      "content": "{0}/{1} ({2})"
+    },
+    {
+      "id": "open_date_description_month_day_time_zone_desc",
+      "content": "Terbuka setelah Update"
+    },
+    {
+      "id": "enkephalin_desc",
+      "content": "Digunakan untuk memasuki Babak."
+    },
+    {
+      "id": "not_exchangeable",
+      "content": "Tidak Dapat Ditukar"
+    },
+    {
+      "id": "ego_already_have",
+      "content": "E.G.O Telah Dimiliki"
+    },
+    {
+      "id": "shortage_number_of_extractions",
+      "content": "Ektraksi yang Dilakukan Tidak Cukup"
+    },
+    {
+      "id": "lack_of_formation_participation",
+      "content": "Pada pertempuran ini, <color=#990000>hingga {0}</color> Sinners dapat berpartisipasi dalam pertempuran."
+    },
+    {
+      "id": "tutorial_formation_participation_add_title",
+      "content": "Peserta Lainnya"
+    },
+    {
+      "id": "tutorial_formation_participation_add_desc",
+      "content": "Babak tertentu memungkinkan lebih banyak Sinners untuk berpartisipasi dalam pertempuran. Dalam hal ini, area 'Edit Team' akan berkedip."
+    },
+    {
+      "id": "could_not_select_friend_support_in_this_dungeon",
+      "content": "Anda tidak diperbolehkan membawa {0} Support Identity untuk dungeon ini."
+    },
+    {
+      "id": "formation_force_participation_on",
+      "content": "Tetap"
+    },
+    {
+      "id": "formation_force_participation_off",
+      "content": "Anggota Tetap Dibutuhkan"
+    },
+    {
+      "id": "formation_must_participate_specific_character",
+      "content": "{0} harus berpartisipasi."
+    },
+    {
+      "id": "cannot_exit_node_after_enter_by_force_alice_character",
+      "content": "Setelah masuk, anda tidak akan lagi dapat melakukan perjalanan ke node lain di dalam dungeon; {0} akan memulihkan HP sepenuhnya dan SP mereka akan direset menjadi 0.\nApakah anda yakin ingin melanjutkan?"
+    },
+    {
+      "id": "story_dungeon_4_first_open_popup_desc",
+      "content": "Untuk dungeon ini, anda tidak dapat memilih Support Identity untuk Yi Sang. Yi Sang harus selalu berpartisipasi dalam pertempuran."
+    },
+    {
+      "id": "attack_level",
+      "content": "Level Offense"
+    },
+    {
+      "id": "defense_level",
+      "content": "Defense Level"
+    },
+    {
+      "id": "personality_level",
+      "content": "Level Identity"
+    },
+    {
+      "id": "enemy_level",
+      "content": "Level Musuh"
+    },
+    {
+      "id": "cannot_enter",
+      "content": "Tidak Dapat Masuk"
+    },
+    {
+      "id": "lack_of_item_amount",
+      "content": "Tidak Cukup {0}"
+    },
+    {
+      "id": "required_count",
+      "content": "Dibutuhkan"
+    },
+    {
+      "id": "on_event_reward_grace_period",
+      "content": "Periode Penerimaan Hadiah"
+    },
+    {
+      "id": "user_level_maximum_notice",
+      "content": "Mencapai Level Maks."
+    },
+    {
+      "id": "user_level_limit_increase_notice",
+      "content": "※ Level Maksimum Manajer dapat dinaikkan dengan update di masa mendatang."
+    },
+    {
+      "id": "level_up",
+      "content": "Naik Level"
+    },
+    {
+      "id": "summary",
+      "content": "Ringkasan"
+    },
+    {
+      "id": "abnormality_part_skill",
+      "content": "Part Skills"
+    },
+    {
+      "id": "awaken",
+      "content": "Awakening"
+    },
+    {
+      "id": "erosion",
+      "content": "Corrosion"
+    },
+    {
+      "id": "formation_panel_detail",
+      "content": "Rincian"
+    },
+    {
+      "id": "ego_cost",
+      "content": "E.G.O Resources"
+    },
+    {
+      "id": "enable_count_for_battle",
+      "content": "Batas Partisipan"
+    },
+    {
+      "id": "select_for_formation",
+      "content": "Kerahkan Identity"
+    },
+    {
+      "id": "edit_for_formation",
+      "content": "Edit Team"
+    },
+    {
+      "id": "full_participated",
+      "content": "Partisipan Maks"
+    },
+    {
+      "id": "select_for_delete_participation",
+      "content": "Keluarkan Identity"
+    },
+    {
+      "id": "clear_reward",
+      "content": "Hadiah Selesai"
+    },
+    {
+      "id": "event_information",
+      "content": "Info Event"
+    },
+    {
+      "id": "notice_not_on_sales_period",
+      "content": "※ Tidak dapat dibeli pada periode ini."
+    },
+    {
+      "id": "pc_shortcut",
+      "content": "Shortcut Keyboard PC"
+    },
+    {
+      "id": "shortcut_manual_popup_title",
+      "content": "Panduan Shortcut Keyboard"
+    },
+    {
+      "id": "new_dungeon_update_alarm",
+      "content": "VOLATILITAS BACKDOOR TERDETEKSI"
+    },
+    {
+      "id": "buy_announcer",
+      "content": "Beli Announcer"
+    },
+    {
+      "id": "label_require_paid_lunacy",
+      "content": "※Anda tidak memiliki cukup Paid Lunacy."
+    },
+    {
+      "id": "notice_require_paid_lunacy",
+      "content": "Paid Lunacy Kurang"
+    },
+    {
+      "id": "mainui_original",
+      "content": "Sebelumnya"
+    },
+    {
+      "id": "open_after_clear_node",
+      "content": "Selesaikan {0}-{1} untuk Membuka"
+    },
+    {
+      "id": "effect_list_to_applied_level",
+      "content": "Efek Active Level"
+    },
+    {
+      "id": "choice_event_effect",
+      "content": "Efek Choices"
+    },
+    {
+      "id": "ego_gift_effect_format",
+      "content": "Efek E.G.O Gift 「{0}」"
+    },
+    {
+      "id": "mainui_previous",
+      "content": "Sebelumnya"
+    },
+    {
+      "id": "formation_force_abstain",
+      "content": "Tidak Dapat Dikerahkan"
+    },
+    {
+      "id": "formation_view_detail",
+      "content": "Rincian"
+    },
+    {
+      "id": "only_hyphen",
+      "content": "-"
+    },
+    {
+      "id": "first_time",
+      "content": "Pertama kali"
+    },
+    {
+      "id": "formation_Announcer_fixed",
+      "content": "Tetap"
+    },
+    {
+      "id": "gacha_rate_info_wa1",
+      "content": "★ Peti Thread"
+    },
+    {
+      "id": "gacha_rate_info_wa2",
+      "content": "Memperoleh duplikat dari Announcer yang telah dimiliki akan dikonversi menjadi Peti Thread.\n\nPeti Thread ini akan dibawa sebagaimana adanya ke Season berikutnya."
+    },
+    {
+      "id": "login_scene_mini_story_warning_spoiler_format",
+      "content": "Kisah ini berlatar setelah Main Story Ch. {0}. Apakah anda tetap ingin melihat story ini?"
+    },
+    {
+      "id": "notice_of_pity_point_already_have_announcer",
+      "content": "Anda telah memiliki Announcer yang dipilih. Tukarkan 200 Yisang [Ideality] dengan 50 Peti Thread?"
+    },
+    {
+      "id": "gacha_rate_info_announcer1",
+      "content": "Berikut adalah daftar Identity, E.G.O, dan Announcer yang dapat diperoleh berdasarkan tingkat peluang yang telah disebutkan.\n\nDaftar ini dapat berubah pada season tertentu; perubahan mendatang pada tabel hadiah akan diumumkan sebelumnya."
+    },
+    {
+      "id": "mainui_battleresult_ordeal_victory",
+      "content": "Ordeal Selesai"
+    },
+    {
+      "id": "mainui_battleresult_ordeal_defeat",
+      "content": "Ordeal Gagal"
+    },
+    {
+      "id": "remain_exchange_count",
+      "content": "Stok Tersisa"
+    },
+    {
+      "id": "remains",
+      "content": "Tersisa"
+    },
+    {
+      "id": "everyday",
+      "content": "Harian"
+    },
+    {
+      "id": "for_n_days",
+      "content": "{0} Hari"
+    },
+    {
+      "id": "all_personalities",
+      "content": "Semua Identity"
+    },
+    {
+      "id": "leap_up_ticket_title",
+      "content": "Pilih Identity untuk Takeoff"
+    },
+    {
+      "id": "leap_up_able_uptie_tier_and_level",
+      "content": "Dapat meningkatkan Uptie Tier & Level Identity"
+    },
+    {
+      "id": "leap_up_able_uptie_tier",
+      "content": "Dapat meningkatkan Uptie Tier"
+    },
+    {
+      "id": "leap_up_able_level",
+      "content": "Dapat meningkatkan Level Identity"
+    },
+    {
+      "id": "leap_up_confim_title",
+      "content": "Pilih Identity"
+    },
+    {
+      "id": "leap_up_confim_main",
+      "content": "Uptie Tier & Level Identity [{0}] akan diubah sebagai berikut."
+    },
+    {
+      "id": "leap_up_confim_caution_uptie",
+      "content": "Uptie Tier Identity yang dipilih tidak dapat ditingkatkan lebih lanjut."
+    },
+    {
+      "id": "leap_up_confim_caution_level",
+      "content": "Level Identity yang dipilih tidak dapat ditingkatkan lebih lanjut."
+    },
+    {
+      "id": "leap_up_confim_last_question",
+      "content": "Gunakan <color=#F8C200>{0}</color>?"
+    },
+    {
+      "id": "expiration_date",
+      "content": "Masa Berlaku"
+    },
+    {
+      "id": "unlink_account_title",
+      "content": "Pilih Akun untuk Dilepas"
+    },
+    {
+      "id": "unlink_account_current_account",
+      "content": "Akun Saat Ini"
+    },
+    {
+      "id": "unlink_account_linked_account",
+      "content": "Akun Terhubung"
+    },
+    {
+      "id": "unlink_account_desc",
+      "content": "Setelah dilepas, anda tidak dapat melakukan pelepasan akun kembali selama {0} hari."
+    },
+    {
+      "id": "unlink_account_desc_unable_by_day",
+      "content": "Dapat dilepas setelah {0}."
+    },
+    {
+      "id": "unlink_account_complete_title",
+      "content": "Akun Berhasil Dilepas"
+    },
+    {
+      "id": "unlink_account_complete_desc",
+      "content": "Pelepasan Akun selesai.\nKembali ke layar utama."
+    },
+    {
+      "id": "mainui_stageinfo_effectiveAttribute",
+      "content": "Affinity Efektif"
+    },
+    {
+      "id": "personality_level_limit_release_title",
+      "content": "Batas Level Identity Diperluas"
+    },
+    {
+      "id": "personality_level_limit_release_desc",
+      "content": "Batas level maksimal untuk Identity anda telah ditingkatkan."
+    },
+    {
+      "id": "mainui_Sinners_startSuppress",
+      "content": "Supress"
+    },
+    {
+      "id": "mainui_battleresult_AbnormalitySuppress_victory",
+      "content": "Ordeal Abnormality Berhasil"
+    },
+    {
+      "id": "mainui_battleresult_AbnormalitySuppress_defeat",
+      "content": "Ordeal Abnormality Gagal"
+    },
+    {
+      "id": "ui_text_unknown",
+      "content": "Tidak Diketahui"
+    },
+    {
+      "id": "buff_effect_for_level_format",
+      "content": "「{0}」"
+    },
+    {
+      "id": "unit_keyword",
+      "content": "Kata Kunci Ciri"
+    },
+    {
+      "id": "formation_ask_clear_selection",
+      "content": "Atur Ulang Urutan Pengerahan?"
+    },
+    {
+      "id": "item_owned_count",
+      "content": "(Dimiliki: {0})"
+    },
+    {
+      "id": "lunacy_owned_count_paid",
+      "content": "(Paid: {0}, Free: {1})"
+    },
+    {
+      "id": "lunacy_owned_count_free",
+      "content": "(Paid: {0}, Free: {1})"
+    },
+    {
+      "id": "mainui_ask_use_personality_level_ticket_disadvantage",
+      "content": "Menggunakan tiket ini pada progres cerita anda saat ini hanya akan meningkatkan level Identity yang dipilih ke level {1}, bukan {0}, dan sisa EXP dalam proses tersebut akan hangus.\n\nApakah anda tetap ingin menggunakan tiket ini?"
+    },
+    {
+      "id": "mainui_exp_dungeon_7_title",
+      "content": "EXP Luxcavation #7 (Slash)"
+    },
+    {
+      "id": "mainui_exp_dungeon_7_open_day",
+      "content": "EXP Luxcavation #7 (Slash) tersedia pada hari SENIN, SELASA, dan MINGGU."
+    },
+    {
+      "id": "mainui_exp_dungeon_8_title",
+      "content": "EXP Luxcavation #7 (Pierce)"
+    },
+    {
+      "id": "mainui_exp_dungeon_8_open_day",
+      "content": "EXP Luxcavation #7 (Pierce) tersedia pada hari RABU, KAMIS, dan MINGGU."
+    },
+    {
+      "id": "mainui_exp_dungeon_9_title",
+      "content": "EXP Luxcavation #7 (Blunt)"
+    },
+    {
+      "id": "mainui_exp_dungeon_9_open_day",
+      "content": "EXP Luxcavation #7 (Blunt) tersedia pada hari JUMAT, SABTU, dan MINGGU."
+    },
+    {
+      "id": "mainui_default_personality_blocked",
+      "content": "Tidak Dapat\nMengerahkan\nIdentity Dasar"
+    },
+    {
+      "id": "mainui_change_personality_of_character",
+      "content": "Tidak dapat melanjutkan dengan Identity {0} ini. Support Identity telah ditambahkan."
+    },
+    {
+      "id": "caution",
+      "content": "PERINGATAN"
+    },
+    {
+      "id": "announcer_spoiler_caution",
+      "content": "Announcer ini mengandung bocoran cerita untuk Ch. <color=#990000><{0}-{1}></color>.\n\nTetap lihat?"
+    },
+    {
+      "id": "mass_announcer_spoiler_caution",
+      "content": "Salah satu hadiah yang akan anda klaim\ntermasuk seorang Announcer yang mungkin mengandung bocoran\nuntuk Chapter yang belum anda selesaikan.\n\nTetap klaim?"
+    },
+    {
+      "id": "select_all",
+      "content": "Pilih Semua"
+    },
+    {
+      "id": "deselect_all",
+      "content": "Batal Pilih Semua"
+    },
+    {
+      "id": "story_voice_setting_ui_title",
+      "content": "Manajemen Suara Story"
+    },
+    {
+      "id": "story_voice_setting_ui_desc",
+      "content": "Silakan pilih barang yang akan diterapkan suaranya."
+    },
+    {
+      "id": "vending_machine_item_available_date_label",
+      "content": "Pembukaan Dispenser:\n{0}/{1} {2} ({3})"
+    },
+    {
+      "id": "gacha_notice_vending_available_date",
+      "content": "Identity Seasonal dapat diperoleh dari Dispenser mulai dari {0}/{1} {2} ({3})"
+    },
+    {
+      "id": "gacha_notice_vending_available_date_v2",
+      "content": "E.G.O Seasonal dapat diperoleh dari Dispenser mulai dari {0}/{1} {2} ({3})"
+    },
+    {
+      "id": "gacha_notice_vending_available_date_v3",
+      "content": "ID & E.G.O Seasonal dapat diperoleh dari Dispenser mulai dari {0}/{1} {2} ({3})"
+    },
+    {
+      "id": "mini_story_warning_spoiler_checkbox_desc",
+      "content": "Jangan tampilkan pesan ini lagi"
+    },
+    {
+      "id": "mainui_settings_push_notification",
+      "content": "Pengaturan Notifikasi"
+    },
+    {
+      "id": "paid_lunacy_ui",
+      "content": "Lunacy Berbayar"
+    },
+    {
+      "id": "story_unable_to_skip",
+      "content": "Story ini tidak dapat dilewati."
+    },
+    {
+      "id": "remote_download_quit_game",
+      "content": "Download baru telah ditambahkan.\nGame akan ditutup; silakan mulai ulang untuk mendownload Update."
+    },
+    {
+      "id": "mainui_settings_battle_speech",
+      "content": "Subtitel Dialog Pertempuran"
+    },
+    {
+      "id": "unable_to_upgrade_sync_level_by_main_story_1",
+      "content": "Uptie tersedia\nsetelah\nmenyelesaikan\nCanto I"
+    },
+    {
+      "id": "unable_to_upgrade_sync_level_by_main_story_2",
+      "content": "Uptie tersedia\nsetelah\nmenyelesaikan\nCanto II"
+    },
+    {
+      "id": "exp_dungeon_opened_desc",
+      "content": "EXP Luxcavation telah terbuka."
+    },
+    {
+      "id": "abnormality_tutorial_battle_participate_desc",
+      "content": "Pilih lima Sinner untuk berpartisipasi dalam Pertempuran ini."
+    },
+    {
+      "id": "thread_dungeon_opened_desc",
+      "content": "Thread Luxcavation telah terbuka."
+    },
+    {
+      "id": "mirror_dungeon_opened_desc",
+      "content": "Mirror Dungeon telah terbuka."
+    },
+    {
+      "id": "ego_gift_combine_explain_title",
+      "content": "Resep Fusion"
+    },
+    {
+      "id": "ego_gift_combine_explain_label_keyword",
+      "content": "Kata Kunci"
+    },
+    {
+      "id": "ego_gift_combine_explain_label_attack_type",
+      "content": "Tipe Serangan"
+    },
+    {
+      "id": "ego_gift_combine_explain_label_etc",
+      "content": "Lainnya"
+    },
+    {
+      "id": "ego_gift_combine_explain_button_label",
+      "content": "Resep"
+    },
+    {
+      "id": "ego_gift_combine_explain_no_item_list",
+      "content": "Hasil pencarian Resep Fusion E.G.O Gift tidak ditemukan."
+    },
+    {
+      "id": "ego_gift_combine_explain_required_label",
+      "content": "{1} dari {0}"
+    },
+    {
+      "id": "attendance_event_s6_desc",
+      "content": "Dapatkan hadiah berdasarkan kehadiran anda selama periode Event. Hadiah akan diklaim secara otomatis saat jendela pop-up muncul.\n\nKumpulkan 14 absensi kumulatif untuk menerima semua hadiah."
+    },
+    {
+      "id": "formation_none_selected_desc",
+      "content": "Anda belum mengerahkan Sinner mana pun.\n\nSilakan pilih Sinner untuk menetapkan urutan pengerahan."
+    },
+    {
+      "id": "ego_gift_category_current_theme",
+      "content": "Theme Pack Eksklusif Fusion Gift"
+    },
+    {
+      "id": "mainui_exp_dungeon_10_title",
+      "content": "EXP Luxcavation #8 (Slash)"
+    },
+    {
+      "id": "mainui_exp_dungeon_10_open_day",
+      "content": "EXP Luxcavation #8 (Slash) tersedia pada hari SENIN, SELASA, dan MINGGU."
+    },
+    {
+      "id": "mainui_exp_dungeon_11_title",
+      "content": "EXP Luxcavation #8 (Pierce)"
+    },
+    {
+      "id": "mainui_exp_dungeon_11_open_day",
+      "content": "EXP Luxcavation #8 (Pierce) tersedia pada hari RABU, KAMIS, dan MINGGU."
+    },
+    {
+      "id": "mainui_exp_dungeon_12_title",
+      "content": "EXP Luxcavation #8 (Blunt)"
+    },
+    {
+      "id": "mainui_exp_dungeon_12_open_day",
+      "content": "EXP Luxcavation #8 (Blunt) tersedia pada hari JUMAT, SABTU, dan MINGGU."
+    },
+    {
+      "id": "mainui_notice_download_failed",
+      "content": "Tidak dapat memuat pengumuman. Silakan periksa koneksi jaringan anda."
+    },
+    {
+      "id": "mainui_settings_show_importance_level_UI",
+      "content": "Tampilkan Petunjuk Pertempuran"
+    },
+    {
+      "id": "mainui_settings_battle_result_announcer",
+      "content": "Tunggu Dialog Announcer selesai"
+    },
+    {
+      "id": "jiaxicun_level",
+      "content": "Level Hierarch"
+    },
+    {
+      "id": "mainui_settings_stage_continue",
+      "content": "Lanjutkan Setelah Kalah"
+    },
+    {
+      "id": "defence_skill_with_index",
+      "content": "Def. {0}"
+    },
+    {
+      "id": "servererror_invalid_battle_version",
+      "content": "Pembaruan versi tersedia.\nSilakan unduh sumber daya baru dan coba lagi."
+    },
+    {
+      "id": "gacha_rate_info_intro1_1_announcer_rate",
+      "content": "※ Tingkat peluang Ekstraksi Announcer tidak mempengaruhi peluang ID 3★ atau E.G.O. Sebaliknya, peluang ID 2★ dan 1★ akan diturunkan untuk memberikan ruang bagi Announcer."
+    },
+    {
+      "id": "mainui_exp_dungeon_13_title",
+      "content": "EXP Luxcavation #9 (Slash)"
+    },
+    {
+      "id": "mainui_exp_dungeon_13_open_day",
+      "content": "EXP Luxcavation #9 (Slash) tersedia pada hari SENIN, SELASA, dan MINGGU."
+    },
+    {
+      "id": "mainui_exp_dungeon_14_title",
+      "content": "EXP Luxcavation #9 (Pierce)"
+    },
+    {
+      "id": "mainui_exp_dungeon_14_open_day",
+      "content": "EXP Luxcavation #9 (Pierce) tersedia pada hari RABU, KAMIS, dan MINGGU."
+    },
+    {
+      "id": "mainui_exp_dungeon_15_title",
+      "content": "EXP Luxcavation #9 (Blunt)"
+    },
+    {
+      "id": "mainui_exp_dungeon_15_open_day",
+      "content": "EXP Luxcavation #9 (Blunt) tersedia pada hari JUMAT, SABTU, dan MINGGU."
+    },
+    {
+      "id": "assistant_level",
+      "content": "Level Karakter"
+    }
+  ]
+}

@@ -1,0 +1,1179 @@
+{
+  "dataList": [
+    {
+      "id": 2090411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Effervescent Corrosion",
+          "abName": "Ambling Pearl",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Tremor Count"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 2 Bind giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Effervescent Corrosion",
+          "abName": "Ambling Pearl",
+          "desc": "[BeforeAttack] Jika target utama memiliki 50%+ HP, Atk Weight +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Tremor dan +5 Tremor Count"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 2 Bind giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Aktifkan Tremor Burst"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Effervescent Corrosion",
+          "abName": "Ambling Pearl",
+          "desc": "[BeforeAttack] Jika target utama memiliki 50%+ HP, Atk Weight +1;\nJika target utama memiliki 75%+ HP, tambahan Atk Weight +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Tremor dan +7 Tremor Count"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 2 Bind giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan Tremor Burst"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Effervescent Corrosion",
+          "abName": "Ambling Pearl",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 30% of damage dealt"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan Tremor Burst"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Effervescent Corrosion",
+          "abName": "Ambling Pearl",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Jika target utama memiliki 50%+ HP, Atk Weight +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 30% of damage dealt"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Defense Level Down"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan Tremor Burst"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Effervescent Corrosion",
+          "abName": "Ambling Pearl",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Jika target utama memiliki 50%+ HP, Atk Weight +1;\nJika target utama memiliki 75%+ HP, tambahan Atk Weight +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 30% of damage dealt"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 Defense Level Down"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan Tremor Burst"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pursuance",
+          "abName": "Heavenly Executor’s Scribe",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 Sloth Fragility giliran berikutnya"
+                },
+                {
+                  "desc": "[EndSkill] Pulihkan 2 other kawan with the least HP percentage for 15% of unit ini's Maks HP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Pursuance",
+          "abName": "Heavenly Executor’s Scribe",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 Sloth Fragility giliran berikutnya"
+                },
+                {
+                  "desc": "[EndSkill] Pulihkan 2 other kawan with the least HP percentage for 25% of unit ini's Maks HP"
+                },
+                {
+                  "desc": "[EndSkillHead] Jika target terkena Stagger atau defeated, beri 10% of unit ini's Maks HP as Perisai ke kawan that unit ini healed"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Pursuance",
+          "abName": "Heavenly Executor’s Scribe",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Sloth Fragility giliran berikutnya"
+                },
+                {
+                  "desc": "[EndSkill] Pulihkan 2 other kawan with the least HP percentage for 30% of unit ini's Maks HP"
+                },
+                {
+                  "desc": "[EndSkillHead] Jika target terkena Stagger atau defeated, beri 15% of unit ini's Maks HP as Perisai ke kawan that unit ini healed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pursuance",
+          "abName": "Heavenly Executor’s Scribe",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan Tremor Burst"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 15 SP damage"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Pursuance",
+          "abName": "Heavenly Executor’s Scribe",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Pada 50%- HP, Atk Weight +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan Tremor Burst"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 20 SP damage"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Jika target terkena Stagger atau defeated, pulihkan 5 SP pada diri sendiri"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Pursuance",
+          "abName": "Heavenly Executor’s Scribe",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Pada 50%- HP, Atk Weight +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan Tremor Burst"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 20 SP damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target terkena Stagger atau defeated, pulihkan 7 SP pada diri sendiri"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sanguine Desire",
+          "abName": "The Red Shoes",
+          "desc": "Coin Power +1 untuk setiap 2 [Laceration] pada target (maks 6)\n[StartBattle] The target utama for Skill ini does not lose [Laceration] Count for giliran ini.\n[EndSkill] Untuk 3 giliran, Lose 10 SP pada Akhir Giliran.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri Lust Affinity damage setara dengan [Laceration] Potency pada target.\n- Pada 4+ Lust Reson., beri Lust Affinity damage setara dengan ([Laceration] Potency pada target x 1.2).\n([Laceration] Potency hingga only 99 will be used to calculate for Skill ini.)",
+                  "summary": "[OnSucceedAttack] Beri Lust Affinity damage berdasarkan [Laceration] pada target"
+                },
+                {
+                  "desc": "[EnemyKill] Jika Skill ini atau its Coin effects dealt damage that exceeds target's(In Focused Encounters, the Core's) remaining HP, beri the excess damage as fixed damage between semua musuh.",
+                  "summary": "[EnemyKill] Beri the excess damage between semua musuh."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Sanguine Desire",
+          "abName": "The Red Shoes",
+          "desc": "Coin Power +1 untuk setiap 2 [Laceration] pada target (maks <style=\"highlight\">9</style>)\n[StartBattle] The target utama for Skill ini does not lose [Laceration] Count for giliran ini.\n[EndSkill] Untuk 3 giliran, Lose 10 SP pada Akhir Giliran.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri Lust Affinity damage setara dengan <style=\"highlight\">([Laceration] Potency pada target x 1.2)</style>.\n- Pada 4+ Lust Reson., beri Lust Affinity damage setara dengan ([Laceration] Potency pada target x <style=\"highlight\">1.5</style>).\n<style=\"highlight\">- Pada 4+ Lust A-Reson., beri Lust Affinity damage setara dengan ([Laceration] Potency pada target x 1.8).</style>\n([Laceration] Potency hingga only 99 will be used to calculate for Skill ini.)",
+                  "summary": "[OnSucceedAttack] Beri Lust Affinity damage berdasarkan [Laceration] pada target"
+                },
+                {
+                  "desc": "[EnemyKill] Jika Skill ini atau its Coin effects dealt damage that exceeds target's(In Focused Encounters, the Core's) remaining HP, beri the excess damage as fixed damage between semua musuh.",
+                  "summary": "[EnemyKill] Beri the excess damage between semua musuh."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Sanguine Desire",
+          "abName": "The Red Shoes",
+          "desc": "Coin Power +1 untuk setiap 2 [Laceration] pada target (maks <style=\"highlight\">13</style>)\n[StartBattle] The target utama for Skill ini does not lose [Laceration] Count for giliran ini.\n[EndSkill] Untuk 3 giliran, Lose 10 SP pada Akhir Giliran.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri Lust Affinity damage setara dengan ([Laceration] Potency pada target x <style=\"highlight\">1.5</style>)\n- Pada 4+ Lust Reson., beri Lust Affinity damage setara dengan ([Laceration] Potency pada target x <style=\"highlight\">1.8</style>).\n- Pada 4+ Lust A-Reson., beri Lust Affinity damage setara dengan ([Laceration] Potency pada target x <style=\"highlight\">2</style>).\n([Laceration] Potency hingga only 99 will be used to calculate for Skill ini.)",
+                  "summary": "[OnSucceedAttack] Beri Lust Affinity damage berdasarkan [Laceration] pada target"
+                },
+                {
+                  "desc": "[EnemyKill] Jika Skill ini atau its Coin effects dealt damage that exceeds target's(In Focused Encounters, the Core's) remaining HP, beri the excess damage as fixed damage between semua musuh.",
+                  "summary": "[EnemyKill] Beri the excess damage between semua musuh."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sanguine Desire",
+          "abName": "The Red Shoes",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh (# of Reson. tertinggi - 2) Atk Weight (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri (2 + (Lust Reson.)) [Laceration]\n(Maximum Lust Reson. taken menjadi account : 4)",
+                  "summary": "[OnSucceedAttack] Beri (2 + (Lust Reson.)) [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Sanguine Desire",
+          "abName": "The Red Shoes",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh (# of Reson. tertinggi - 2) Atk Weight (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri (<style=\"highlight\">3</style> + (Lust Reson.)) [Laceration]\n(Maximum Lust Reson. taken menjadi account : <style=\"highlight\">5</style>)",
+                  "summary": "[OnSucceedAttack] Beri (3 + (Lust Reson.)) [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Sanguine Desire",
+          "abName": "The Red Shoes",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh (# of Reson. tertinggi - 2) Atk Weight (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri (<style=\"highlight\">4</style> + (Lust Reson.)) [Laceration]\n(Maximum Lust Reson. taken menjadi account : <style=\"highlight\">6</style>)",
+                  "summary": "[OnSucceedAttack] Beri (4 + (Lust Reson.)) [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +<style=\"highlight\">3</style> [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hex Nail",
+          "abName": "Hurting Teddy Bear",
+          "desc": "[EndSkill] Pulihkan self dan 2 other kawan with the least HP percentage for 12.5% of unit ini's maks HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 2 [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Hex Nail",
+          "abName": "Hurting Teddy Bear",
+          "desc": "[EndSkill] Pulihkan self dan 2 other kawan with the least HP percentage for 12.5% of unit ini's maks HP\n<style=\"highlight\">- Each pulihkan-receiving unit memulihkan +2.5% lebih banyak HP untuk setiap 2 efek negatif on themselves (maks 7.5)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">3</style> [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Curse]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 2 [NailPersonality]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hex Nail",
+          "abName": "Hurting Teddy Bear",
+          "desc": "[EndSkill] Pulihkan self dan 2 other kawan with the least HP percentage for <style=\"highlight\">15%</style> of unit ini's maks HP\n- Each pulihkan-receiving unit memulihkan +2.5% lebih banyak HP for <style=\"highlight\">setiap</style> efek negatif on themselves (maks <style=\"highlight\">10%</style>)\n<style=\"highlight\">- Pada 4+ Reson. Envy termasuk Skill ini, pulihkan 1 tambahan kawan</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">4</style> [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">3</style> [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri <style=\"highlight\">3</style> [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hex Nail",
+          "abName": "Hurting Teddy Bear",
+          "desc": "[CantIdentify]\nTarget secara acak\n[EndSkill] Pulihkan 3 other kawan with the least HP percentage for 15% of unit ini's maks HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Beri 2 [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Hex Nail",
+          "abName": "Hurting Teddy Bear",
+          "desc": "[CantIdentify]\nTarget secara acak\n[EndSkill] Pulihkan 3 other kawan with the least HP percentage for 15% of unit ini's maks HP\n<style=\"highlight\">- Each pulihkan-receiving unit memperoleh 1 [AttackUp] until giliran berikutnya untuk setiap 2 efek negatif on themselves (maks 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">3</style> [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Curse]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Beri 2 [NailPersonality]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hex Nail",
+          "abName": "Hurting Teddy Bear",
+          "desc": "[CantIdentify]\nTarget secara acak\n[EndSkill] Pulihkan 3 other kawan with the least HP percentage for <style=\"highlight\">20%</style> of unit ini's maks HP\n- Each pulihkan-receiving unit memperoleh 1 [AttackUp] until giliran berikutnya for <style=\"highlight\">setiap</style> efek negatif on themselves (maks <style=\"highlight\">3</style>)\n<style=\"highlight\">- Pada 4+ Reson. Envy termasuk Skill ini, pulihkan 1 tambahan kawan</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">4</style> [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">3</style> [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Beri <style=\"highlight\">3</style> [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Indicant's Trial",
+          "abName": "Burning Duchess",
+          "desc": "[EndSkill] Pulihkan (1 + Reson. tertinggi) kawan with the least HP percentages for 15% of their maks HP (maks 3 kawan)\n[EndSkill] Untuk 3 giliran, kehilangan 10 SP pada Akhir Giliran",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika this hits target utama, beri (1 + (Wrath Reson. / 3)) [BirdCage] giliran berikutnya pada target utama (maks 2; dibulatkan ke bawah)"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Indicant's Trial",
+          "abName": "Burning Duchess",
+          "desc": "<style=\"highlight\">[BeforeAttack] Peroleh (Reson. tertinggi / 2) Atk Weight (maks 3; dibulatkan ke bawah)</style>\n[EndSkill] Pulihkan (1 + Reson. tertinggi) kawan with the least HP percentage for <style=\"highlight\">18</style>% of their maks HP (maks 3 kawan)\n[EndSkill] Untuk 3 giliran, kehilangan 10 SP pada Akhir Giliran",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">8</style> [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika this hits target utama, beri (1 + (Wrath Reson. / 3)) [BirdCage] giliran berikutnya pada target utama (maks <style=\"highlight\">3</style>; dibulatkan ke bawah)"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Indicant's Trial",
+          "abName": "Burning Duchess",
+          "desc": "[BeforeAttack] Peroleh (Reson. tertinggi / 2) Atk Weight (maks 3; dibulatkan ke bawah)\n[EndSkill] Pulihkan (1 + Reson. tertinggi) kawan with the least HP percentage for <style=\"highlight\">20</style>% of their maks HP (maks 3 kawan)\n[EndSkill] Untuk 3 giliran, kehilangan 10 SP pada Akhir Giliran",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 8 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika this hits target utama, beri (1 + (Wrath Reson. / 3)) [BirdCage] giliran berikutnya pada target utama (maks 3; dibulatkan ke bawah)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Indicant's Trial",
+          "abName": "Burning Duchess",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh (Reson. tertinggi / 2) Atk Weight (maks 3; dibulatkan ke bawah)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 6 [Combustion]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Jika this hits target utama, beri (1 + Wrath Reson.) [BirdCage] pada target utama (maks 3)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Beri +1% damage pada target utama untuk setiap [Combustion] Potency pada target utama (maks 50%)"
+                },
+                {
+                  "desc": "[EnemyKill] Beri 1 [CrimsonResultUp] dan 1 [CrimsonDamageUp] to (1 + Reson. tertinggi) kawan with the least HP percentages (maks 4 kawan; sekali per Skill)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Indicant's Trial",
+          "abName": "Burning Duchess",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh (Reson. tertinggi / 2) Atk Weight (maks 3; dibulatkan ke bawah)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri <style=\"highlight\">8</style> [Combustion]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Jika this hits target utama, beri (1 + Wrath Reson.) [BirdCage] pada target utama (maks <style=\"highlight\">4</style>)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Beri +1% damage pada target utama untuk setiap [Combustion] Potency pada target utama (maks 50%)"
+                },
+                {
+                  "desc": "[EnemyKill] Beri 1 [CrimsonResultUp] dan 1 [CrimsonDamageUp] to (1 + Reson. tertinggi) kawan with the least HP percentages (maks <style=\"highlight\">5</style> kawan; sekali per Skill)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Indicant's Trial",
+          "abName": "Burning Duchess",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh (Reson. tertinggi / 2) Atk Weight (maks 3; dibulatkan ke bawah)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri <style=\"highlight\">10</style> [Combustion]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[UnBrokenCoinOnSucceedAttack] Beri +1 [Combustion] Count</style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Jika this hits target utama, beri (1 + Wrath Reson.) [BirdCage] pada target utama (maks <style=\"highlight\">5</style>)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Beri +<style=\"highlight\">2</style>% damage pada target utama untuk setiap [Combustion] Potency pada target utama (maks <style=\"highlight\">100</style>%)"
+                },
+                {
+                  "desc": "[EnemyKill] Beri 1 [CrimsonResultUp] dan 1 [CrimsonDamageUp] to (1 + Reson. tertinggi) kawan with the least HP percentages (maks <style=\"highlight\">6</style> kawan; sekali per Skill)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Into the Sunset",
+          "abName": "Sunset Wayfarer",
+          "desc": "[EndSkill] Pulihkan 5% HP for 2 kawan yang memiliki the lowest current HP percentages dan beri 2 [ScarletMothRodion] to the said kawan (minimum HP healed: 1)\n- Pulihkan tambahan kawan setara dengan (Lust Reson. - 1) (maks 2 kawan)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Into the Sunset",
+          "abName": "Sunset Wayfarer",
+          "desc": "<style=\"highlight\">[WhenUse] Clash Power +1 untuk setiap 6 ([Combustion] + [Laceration]) pada semua target (maks 2)</style>\n[EndSkill] Pulihkan <style=\"highlight\">8%</style> HP for 2 kawan yang memiliki the lowest current HP percentages dan beri 2 [ScarletMothRodion] to the said kawan (minimum HP healed: 1)\n- Pulihkan tambahan kawan setara dengan (Lust Reson. - 1) (maks 2 kawan)\n<style=\"highlight\">- Jika the healed kawan has equipped a Lust Skill, pulihkan 3 SP on kawan yang dimaksud juga</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">3</style> [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">3</style> [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Into the Sunset",
+          "abName": "Sunset Wayfarer",
+          "desc": "[WhenUse] Clash Power +1 untuk setiap 6 ([Combustion] + [Laceration]) pada semua target (maks 2)\n[EndSkill] Pulihkan <style=\"highlight\">10%</style> HP for 2 kawan yang memiliki the lowest current HP percentages dan beri 2 [ScarletMothRodion] to the said kawan (minimum HP healed: 1)\n- Pulihkan tambahan kawan setara dengan (Lust Reson. - 1) (maks 2 kawan)\n- Jika the healed kawan has equipped a Lust Skill, pulihkan <style=\"highlight\">6</style> SP on kawan yang dimaksud juga",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[EndCoin] Beri 1 [CrimsonTakeDamageUp] dan 1 [ScarletTakeDamageUp] giliran berikutnya pada target hit</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Into the Sunset",
+          "abName": "Sunset Wayfarer",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Beri +5% damage untuk setiap 4 ([Combustion] + [Laceration]) pada semua target (maks 15%)\n[BeforeAttack] Base Power -6 untuk setiap Coin Retak (maks -12)\n[EndSkill] Beri 1 [ScarletMothRodion] 3 times between kawan acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Combustion] Count"
+                },
+                {
+                  "desc": "[EndCoin] Beri 1 [CrimsonTakeDamageUp] giliran berikutnya pada target hit (sekali per giliran)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                },
+                {
+                  "desc": "[EndCoin] Beri 1 [ScarletTakeDamageUp] giliran berikutnya pada target hit (sekali per giliran)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Into the Sunset",
+          "abName": "Sunset Wayfarer",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Beri +5% damage untuk setiap 4 ([Combustion] + [Laceration]) pada semua target (maks 15%)\n<style=\"highlight\">- Jika there is a Wrath A-Reson. atau a Lust A-Reson., beri tambahan +10% damage</style>\n[BeforeAttack] Base Power -6 untuk setiap Coin Retak (maks -12)\n[EndSkill] Beri 1 [ScarletMothRodion] <style=\"highlight\">4</style> times between kawan acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">2</style> [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Combustion] Count"
+                },
+                {
+                  "desc": "[EndCoin] Beri 1 [CrimsonTakeDamageUp] giliran berikutnya pada target hit (sekali per giliran)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">2</style> [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                },
+                {
+                  "desc": "[EndCoin] Beri 1 [ScarletTakeDamageUp] giliran berikutnya pada target hit (sekali per giliran)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Into the Sunset",
+          "abName": "Sunset Wayfarer",
+          "desc": "[CantIdentify]\nTarget secara acak\n<style=\"highlight\">[BeforeAttack] Beri +10% damage untuk setiap 4 ([Combustion] + [Laceration]) pada semua target (maks 30%)</style>\n- Jika there is a Wrath A-Reson. atau a Lust A-Reson., beri tambahan <style=\"highlight\">+20%</style>damage\n<style=\"highlight\">[BeforeAttack] Base Power -5 untuk setiap Coin Retak (maks -10)</style>\n[EndSkill] Beri 1 [ScarletMothRodion] <style=\"highlight\">5</style> times between kawan acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +<style=\"highlight\">2</style> [Combustion] Count"
+                },
+                {
+                  "desc": "[EndCoin] Beri 1 [CrimsonTakeDamageUp] giliran berikutnya pada target hit (sekali per giliran)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +<style=\"highlight\">2</style> [Laceration] Count"
+                },
+                {
+                  "desc": "[EndCoin] Beri 1 [ScarletTakeDamageUp] giliran berikutnya pada target hit (sekali per giliran)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2091011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sentuhan-cermin",
+          "abName": "Hati Mengembara",
+          "desc": "Clash Power +1 untuk setiap 6 (Potency [Breath] pada diri sendiri + Potency [Vibration] pada target utama) (maks 2)\n[BeforeAttack] Peroleh (2 + Reson. tertinggi) [Breath] (maks 8)\n[BeforeAttack] Peroleh +2 Count [Breath]\n[EndSkill] Secara acak beri (1 + Reson. tertinggi) [EmpathicDistressAlly] diantara target, 1 Stack dalam satu waktu (maks 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [AttackDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Sentuhan-cermin",
+          "abName": "Hati Mengembara",
+          "desc": "Clash Power +1 untuk setiap 6 (Potency [Breath] pada diri sendiri + Potency [Vibration] pada target utama) (maks <style=\"highlight\">3</style>)\n[BeforeAttack] Peroleh (<style=\"highlight\">3</style> + Reson. tertinggi) [Breath] (maks 8)\n[BeforeAttack] Peroleh +<style=\"highlight\">3</style> Count [Breath]\n[EndSkill] Secara acak beri (1 + Reson. tertinggi) [EmpathicDistressAlly] diantara target, 1 Stack dalam satu waktu (maks 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">3</style> [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +<style=\"highlight\">2</style> Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [AttackDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Sentuhan-cermin",
+          "abName": "Hati Mengembara",
+          "desc": "Clash Power +1 untuk setiap 6 (Potency [Breath] pada diri sendiri + Potency [Vibration] pada target utama) (maks <style=\"highlight\">4</style>)\n[BeforeAttack] Peroleh (<style=\"highlight\">4</style> + Reson. tertinggi) [Breath] (maks 8)\n[BeforeAttack] Peroleh +<style=\"highlight\">4</style> Count [Breath]\n[EndSkill] Secara acak beri (1 + Reson. tertinggi) [EmpathicDistressAlly] diantara target, 1 Stack dalam satu waktu (maks 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">4</style> [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">+3</style> Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [AttackDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2091021,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sentuhan-cermin",
+          "abName": "Hati Mengembara",
+          "desc": "[CantIdentify]\nTarget secara acak\nClash Power +1 untuk setiap 6 (Potency [Breath] pada diri sendiri + Potency [Vibration] pada target utama) (maks 2)\n[BeforeAttack] Peroleh (2 + Reson. tertinggi) [Breath] (maks 10)\n[BeforeAttack] Peroleh +2 Count [Breath]\n[BeforeAttack] Base Power -4 untuk setiap Coin Retak (maks -12)\n[BeforeAttack] Pada 10+ Count [Breath], konsumsi 4 Count [Breath] pada diri sendiri dan beri +20% damage pada Serangan Critical terhadap target utama\n[EndSkill] Secara acak beri (1 + Reson. tertinggi) [EmpathicDistressAlly] diantara target, 1 Stack dalam satu waktu (maks 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 4+ Count [Vibration], aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 4+ Count [Vibration], aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [AttackDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Sentuhan-cermin",
+          "abName": "Hati Mengembara",
+          "desc": "[CantIdentify]\nTarget secara acak\nClash Power +1 untuk setiap 6 (Potency [Breath] pada diri sendiri + Potency [Vibration] pada target utama) (maks <style=\"highlight\">3</style>)\n[BeforeAttack] Peroleh (<style=\"highlight\">3</style> + Reson. tertinggi) [Breath] (maks 10)\n[BeforeAttack] Peroleh +<style=\"highlight\">3</style> Count [Breath]\n[BeforeAttack] Base Power -4 untuk setiap Coin Retak (maks -12)\n[BeforeAttack] Pada 10+ Count [Breath], konsumsi 4 Count [Breath] pada diri sendiri dan beri +<style=\"highlight\">30</style>% damage pada Serangan Critical terhadap target utama\n[EndSkill] Secara acak beri (1 + Reson. tertinggi) [EmpathicDistressAlly] diantara target, 1 Stack dalam satu waktu (maks 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">4</style> [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 4+ Count [Vibration], aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 4+ Count [Vibration], aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Beri +1 Count [Vibration]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [AttackDown]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Sentuhan-cermin",
+          "abName": "Hati Mengembara",
+          "desc": "[CantIdentify]\nTarget secara acak\nClash Power +1 untuk setiap 6 (Potency [Breath] pada diri sendiri + Potency [Vibration] pada target utama) (maks <style=\"highlight\">4</style>)\n[BeforeAttack] Peroleh (<style=\"highlight\">4</style> + Reson. tertinggi) [Breath] (maks 10)\n[BeforeAttack] Peroleh +<style=\"highlight\">4</style> Count [Breath]\n[BeforeAttack] Base Power -4 untuk setiap Coin Retak (maks -12)\n[BeforeAttack] Pada 10+ Count [Breath], konsumsi 4 Count [Breath] pada diri sendiri dan beri +<style=\"highlight\">40</style>% damage pada Serangan Critical terhadap target utama\n[EndSkill] Secara acak beri (1 + Reson. tertinggi) [EmpathicDistressAlly] diantara target, 1 Stack dalam satu waktu (maks 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">5</style> [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 4+ Count [Vibration], aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 4+ Count [Vibration], aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +<style=\"highlight\">2</style> Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [AttackDown]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

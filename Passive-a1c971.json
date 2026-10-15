@@ -1,0 +1,149 @@
+{
+  "dataList": [
+    {
+      "id": 108001,
+      "name": "Resistansi Dosa",
+      "desc": "Kecuali unit ini kena Stagger atau \"Tubuh\" Rusak, terima -50% damage"
+    },
+    {
+      "id": 108002,
+      "name": "Resonating Tremor",
+      "desc": "Ketika diserang, beri +2 [Vibration] terhadap the Penyerang\nJika target memiliki [Vibration], beri 2 [Vibration] terhadap semua musuh Saat Menyerang.\nAttack End: Jika target dikalahkan, beri +4 [Vibration] terhadap semua musuh"
+    },
+    {
+      "id": 108101,
+      "name": "Resistansi Dosa",
+      "desc": "Kecuali unit ini kena Stagger atau \"Tubuh\" Rusak, terima 80% less [Sinking] damage"
+    },
+    {
+      "id": 108102,
+      "name": "Infectious Gloom",
+      "desc": "Awal Giliran: Beri 5 [Sinking] terhadap semua musuh kecuali for the one dengan the most SP\nAttack End: Jika musuh dikalahkan, semua musuh kehilangan 10 SP; lalu, beri 3 [Sinking] dan +2 Count [Sinking] terhadap semua musuh"
+    },
+    {
+      "id": 9018101,
+      "name": "Teeth",
+      "desc": "Saat Menyerang, pulihkan 5 HP. 50% peluang untuk beri 1 [Laceration]"
+    },
+    {
+      "id": 9018102,
+      "name": "Lantern",
+      "desc": "Awal Pertempuran: jika unit ini is targeted sebanyak 2+ unit, peroleh 1 [Protection], 1 [ParryingResultUp], dan 1 [PlusCoinValueUp]"
+    },
+    {
+      "id": 9018103,
+      "name": "Censored Courage",
+      "desc": "Akhir Serangan: Jika target is either Stagger atau dikalahkan, naikkan HP maks unit ini sebanyak 20% of the maks HP at Awal Pertempuran (maks +100%)"
+    },
+    {
+      "id": 9018104,
+      "name": "Censored Justice",
+      "desc": "Akhir Giliran: Jika unit ini failed to hit dengan its Skill Attack, naikkan Min & Maks Speed values sebanyak 1 dan peroleh 3 [AttackDmgUp] giliran berikutnya"
+    },
+    {
+      "id": 9018105,
+      "name": "Oddly Uncanny Lantern",
+      "desc": "Awal Pertempuran: Peroleh 1 [Vulnerable] untuk setiap Identitas that targeted unit ini (maks 5)\nAwal Pertempuran: Jika semua musuh attack unit ini, Atk Weight +1\n- Peroleh Offense Level setara dengan jumlah dari musuh; ketika unit ini memulihkan, pulihkan 5 tambahan HP"
+    },
+    {
+      "id": 9018106,
+      "name": "BLACK Type Weapon",
+      "desc": "Saat Menyerang, beri both HP dan SP damage"
+    },
+    {
+      "id": 9018201,
+      "name": "Censored Wisdom",
+      "desc": "Awal Giliran: saat kurang dari 0 SP, pulihkan 5~20 SP"
+    },
+    {
+      "id": 9018202,
+      "name": "Censored Temperance",
+      "desc": "Ketika diserang, peroleh 1 [ParryingResultUp] dan 1 [Agility] giliran berikutnya (maks 2)"
+    },
+    {
+      "id": 107901,
+      "name": "My Siblings Call to Me",
+      "desc": "Akhir Giliran: Untuk setiap 3% HP yang hilang pada diri sendiri, peroleh 1 Offense Level Up. (maks 5)\nAkhir Giliran: Peroleh +1 Min & Maks Speed giliran berikutnya untuk setiap 300 [BloodDinner]\nHP unit ini tidak dapat be reduced di bawah 60%."
+    },
+    {
+      "id": 107902,
+      "name": "Hardblood",
+      "desc": "Awal Pertempuran: Peroleh 1 [BloodArmor]\n- [BloodArmor] tidak dapat turun di bawah 1\n- Pada 10+ [BloodArmor], ubah them to [BloodArmor_2nd].\n- Pada 20+ [BloodArmor_2nd], ubah them to [BloodArmor_3rd].\nPeroleh Min & Maks Speed berdasarkan the Stage dari efek ini (maks 2)\nJika unit ini konsumsi [BloodArmor] dan turun di bawah the di atas thresholds, revert to previous Stages accordingly"
+    },
+    {
+      "id": 107903,
+      "name": "They Crave Blood",
+      "desc": "Akhir Giliran: Jika Panicked, pulih dari Panik, dan konsumsi 50 [BloodDinner] untuk peroleh 3 [Enhancement]\n- Jika unit ini failed to konsumsi [BloodDinner], peroleh 30 [Laceration], 3 [Enhancement], dan 2 [AttackDmgUp]"
+    },
+    {
+      "id": 107904,
+      "name": "Rindu Akan Darah",
+      "desc": "Awal Pertempuran: peroleh [Bloodthirst]"
+    },
+    {
+      "id": 107905,
+      "name": "More Bloodfeast",
+      "desc": "Jika target dikalahkan pada end of Skill Attack unit ini, increase [BloodDinner] sebanyak target's maks HP"
+    },
+    {
+      "id": 108201,
+      "name": "Pengamatan",
+      "desc": "Awal Pertempuran: Beri 1 [ObservedPerson] pada semua musuh; lalu, peroleh Potency [Breath] dan Count setara dengan jumlah dari unit dengan [ObservedPerson]\n\nAwal Giliran: Beri 1 [ObservedPerson] terhadap target tanpa [ObservedPerson]\n\nUntuk setiap 10 [ObservedPerson] pada target, beri +1 lebih Potency [Vibration] dan Count dengan Skill unit ini (maks 3)"
+    },
+    {
+      "id": 108202,
+      "name": "Adaptasi",
+      "desc": "Peroleh 1 Potency [Breath] setiap kali unit ini memberi damage dengan Skill Attack efek (15 per giliran)\n- Jika target memiliki 15+ [ObservedPerson], peroleh 1 tambahan Potency [Breath] dengan setiap hit\n\nPeroleh +1 Count [Breath] setiap kali unit ini menerima damage dari musuh' Skill Attack efek (15 per giliran)\n- Jika target memiliki 15+ [ObservedPerson], peroleh +1 tambahan Count [Breath] dengan setiap hit diterima"
+    },
+    {
+      "id": 108203,
+      "name": "Defense Mechanism",
+      "desc": "Awal Giliran: Peroleh Perisai setara dengan 30% dari HP yang hilang (Perisai HP tidak dapat exceed 15% of the maks HP)\n- Jika unit ini memiliki [Combustion], kehilangan ([Combustion] Count x 1.5)% Perisai HP\n- Perisai menerima +100% damage dari [Burst] efek\n\nAkhir Giliran: Jika Perisai diperoleh karena efek ini telah dihancurkan, for the rest of Pertempuran ini, peroleh 1 [DefenseDown] untuk setiap instance Perisai has been destroyed (maks 5)"
+    },
+    {
+      "id": 108204,
+      "name": "Confirmation Bias",
+      "desc": "Akhir Giliran: Siphon 10 SP dari target dengan higher SP than unit ini (maks 3 target in descending order of SP; tidak memberi secara kumulatif pada target yang sama)\n(Tidak aktif jika Hohenheim is Panicked)"
+    },
+    {
+      "id": 108205,
+      "name": "Establish Hypothesis",
+      "desc": "On Giliran 3: Gains pola baru dan prepares untuk menggunakan Skill kuat.\nSetelah Giliran 3 selesai: The di atas efek activates ketika unit ini memiliki 30+ Count [Breath] pada Akhir Giliran\n\nJika unit ini did not terima any HP damage during the preparation period sebelum menggunakan the powerful Skill, greatly enhance Skill (tidak dapat count damages diterima sebanyak Perisai HP)"
+    },
+    {
+      "id": 108206,
+      "name": "Maladaptasi",
+      "desc": "Ketika weakened karena a Choice Event, Pasif ini menggantikan 「Adaptasi」\n\nPeroleh 1 Potency [Breath] setiap kali unit ini memberi damage dengan Skill Attack efek (15 per giliran)\n- Jika target memiliki 15+ [ObservedPerson], peroleh 1 tambahan Potency [Breath] dengan setiap hit; however, kurangi target's [ObservedPerson] sebanyak 3\n\nPeroleh +1 Count [Breath] setiap kali unit ini menerima damage dari musuh' Skill Attack efek (15 per giliran)\n- Jika target memiliki 15+ [ObservedPerson], peroleh +1 tambahan Count [Breath] dengan setiap hit diterima; however, kurangi target's [ObservedPerson] sebanyak 3\n\nCritical Hit damage tidak dapat increase atau decrease"
+    },
+    {
+      "id": 108207,
+      "name": "Inadequate Defense Mechanism",
+      "desc": "Ketika weakened karena a Choice Event, Pasif ini menggantikan 「Defense Mechanism」\n\nAwal Giliran: Peroleh Perisai setara dengan 15% dari HP yang hilang (Perisai HP tidak dapat exceed 5% of the maks HP)\n- Jika unit ini memiliki [Combustion], kehilangan ([Combustion] Count x 2)% Perisai HP\n- Perisai menerima +150% damage dari [Burst] efek\n\nAkhir Giliran: Jika Perisai diperoleh karena efek ini telah dihancurkan, for the rest of Pertempuran ini, peroleh 2 [DefenseDown] pada Awal Giliran untuk setiap instance Perisai has been destroyed (maks 10)"
+    },
+    {
+      "id": 108208,
+      "name": "Self-doubt",
+      "desc": "Ketika weakened karena a Choice Event, Pasif ini menggantikan 「Confirmation Bias」\n\nAwal Giliran: Kehilangan 15 SP\nAkhir Giliran: Siphon 5 SP dari target dengan higher SP than unit ini (maks 3 target; in descending order of SP; tidak dapat stack pada target yang sama)\n(Tidak aktif jika Hohenheim is Panicked)"
+    },
+    {
+      "id": 108209,
+      "name": "Adaptasi",
+      "desc": "Peroleh 1 Potency [Breath] setiap kali unit ini memberi damage dengan Skill Attack efek (15 per giliran)\n- Jika target memiliki 15+ [ObservedPerson], peroleh 1 tambahan Potency [Breath] dengan setiap hit\n\nPeroleh +1 Count [Breath] setiap kali unit ini menerima damage dari musuh' Skill Attack efek (15 per giliran)\n- Jika target memiliki 15+ [ObservedPerson], peroleh +1 tambahan Count [Breath] dengan setiap hit diterima"
+    },
+    {
+      "id": 108210,
+      "name": "Defense Mechanism",
+      "desc": "Awal Giliran: Peroleh Perisai setara dengan 30% dari HP yang hilang (Perisai HP tidak dapat exceed 15% of the maks HP)\n- Jika unit ini memiliki [Combustion], kehilangan ([Combustion] Count x 1.5)% Perisai HP\n- Perisai menerima +100% damage dari [Burst] efek\n\nAkhir Giliran: Jika Perisai diperoleh karena efek ini telah dihancurkan, for the rest of Pertempuran ini, peroleh 1 [DefenseDown] pada Awal Giliran untuk setiap instance Perisai has been destroyed (maks 5)"
+    },
+    {
+      "id": 108211,
+      "name": "Maladaptasi",
+      "desc": "Ketika weakened karena a Choice Event, Pasif ini menggantikan 「Adaptasi」\n\nPeroleh 1 Potency [Breath] setiap kali unit ini memberi damage dengan Skill Attack efek (15 per giliran)\n- Jika target memiliki 15+ [ObservedPerson], peroleh 1 tambahan Potency [Breath] dengan setiap hit; however, kurangi target's [ObservedPerson] sebanyak 3\n\nPeroleh +1 Count [Breath] setiap kali unit ini menerima damage dari musuh' Skill Attack efek (15 per giliran)\n- Jika target memiliki 15+ [ObservedPerson], peroleh +1 tambahan Count [Breath] dengan setiap hit diterima; however, kurangi target's [ObservedPerson] sebanyak 3\n\nCritical Hit damage tidak dapat increase atau decrease"
+    },
+    {
+      "id": 138904,
+      "name": "Rindu Akan Darah",
+      "desc": "Awal Pertempuran: Peroleh [BloodthirstHard]\n\n<color=#ff6000><mark=#ff000040><b><u>Awal Pertempuran: Beri 3 [Laceration] dan +3 [Laceration] Count on semua Pendosa\n- Untuk Pendosa who Substitute in, efek ini triggers pada giliran said Pendosa enter the battlefield\nAwal Giliran: Beri +3 [Laceration] Count pada Pendosa tanpa [Laceration]</u></b></mark></color>\n\n<color=#ff6000><mark=#ff000040><b><u>Awal Pertempuran:\n- Pada 0+ SP, unit ini memberi tambahan 2 [Laceration] Potency dan Count\n- Pada kurang dari 0 SP, converts Coin dari semua Skill menjadi [SuperCoin] dan beri +50% damage</u></b></mark></color>"
+    }
+  ]
+}

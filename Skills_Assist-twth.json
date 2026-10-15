@@ -1,0 +1,253 @@
+{
+  "dataList": [
+    {
+      "id": 40003701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Waktunya Pemanasan!",
+          "desc": "Jika target memiliki 3+ ([Combustion] + [Laceration]), Final Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Blunt bonus damage"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Blunt bonus damage"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Blunt bonus damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika unit ini memiliki [ReinforcedTattooSpiderDaughterTwo], beri 2 [Binding] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tendangan Keren Abis",
+          "desc": "Jika target memiliki 3+ ([Combustion] + [Laceration]), Final Power +2\n[WhenUse] Jika unit ini memiliki [ReinforcedTattooSpiderDaughterTwo], beri 2 [Laceration] Pada Serangan Coin",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 Blunt bonus damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Naikkan Batas Stagger sebanyak 5"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 Blunt bonus damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Naikkan Batas Stagger sebanyak 5"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 3+ [ResentmentSpiderDaughterTwo], Gunakan ulang Coin ini 3 kali"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Disemboweling!",
+          "desc": "Skill Bilah Termal. \nKetika in [HeatingWireOnSpiderTwo] state, Skill ini mengaktifkan efek Bilah Termal-nya\nJika target memiliki 3+ ([Combustion] + [Laceration]), Coin Power +1\n[WhenUse] Jika unit ini memiliki [ReinforcedTattooSpiderDaughterTwo], beri +1 [Laceration] Count Pada Serangan Coin\n[EndSkill] Pada 3+ [ResentmentSpiderDaughterTwo], peroleh 1 [VioletDamageUp] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Crossing Dervish!",
+          "desc": "Skill Bilah Termal. \nKetika in [HeatingWireOnSpiderTwo] state, Skill ini mengaktifkan efek Bilah Termal-nya\nJika target memiliki 3+ ([Combustion] + [Laceration]), Coin Power +1\n[WhenUse] Jika unit ini memiliki [ReinforcedTattooSpiderDaughterTwo], beri +1 [Laceration] Count Pada Serangan Coin",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 Blunt bonus damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika unit ini memiliki [ReinforcedTattooSpiderDaughterTwo], beri 2 [Binding] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Violet~ Breaking Hantam!",
+          "desc": "Skill Bilah Termal. \nKetika in [HeatingWireOnSpiderTwo] state, Skill ini mengaktifkan efek Bilah Termal-nya\nJika target memiliki 3+ ([Combustion] + [Laceration]), Coin Power +1\n[WhenUse] Jika unit ini memiliki [ReinforcedTattooSpiderDaughterTwo], beri +1 [Laceration] Count Pada Serangan Coin\n[WhenUse] Pada 40%- HP atau 2+ [ReinforcedTattooSpiderDaughterTwo], beri +60% damage\n[WhenUse] Pada 2+ [ResentmentSpiderDaughterTwo], 50% peluang untuk beri 1 [Paralysis] Pada Serangan Coin\n[EndSkill] Konsumsi semua [ResentmentSpiderDaughterTwo] pada diri sendiri",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 Blunt bonus damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Naikkan Batas Stagger sebanyak 5"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Akan Kubalas Kau Untuk Ini...!",
+          "desc": "Skill Bilah Termal. \nKetika in [HeatingWireOnSpiderTwo] state, Skill ini mengaktifkan efek Bilah Termal-nya\nKetika diserang, Gunakan ulang Skill ini sekali untuk setiap [ReinforcedTattooSpiderDaughterTwo] pada diri sendiri (maks 2 kali)\n[WhenUse] Jika unit ini memiliki [ReinforcedTattooSpiderDaughterTwo], beri 1 [Laceration] Pada Serangan Coin\n[WhenUse] Pada 40%- HP atau 2+ [ReinforcedTattooSpiderDaughterTwo], beri +40% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Turunkan Batas Stagger pengguna sebanyak 10"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

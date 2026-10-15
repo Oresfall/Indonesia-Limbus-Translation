@@ -1,0 +1,1224 @@
+{
+  "dataList": [
+    {
+      "id": 144801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pembatas Ikatan Ohra",
+          "desc": "[WhenUse] Pada 6+ ([Breath] diri sendiri + [Laceration] pada target), Base Power +1\n[WhenUse] Peroleh +3 Count [Breath]\n- Jika Speed unit ini lebih cepat daripada target, peroleh tambahan +1 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [ScratchesHurt] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 144802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Benang Daging",
+          "desc": "[WhenUse] Base Power +1 untuk setiap 6 ([Breath] diri sendiri + [Laceration] pada target) (maks 2)\n[WhenUse] Jika Speed unit ini lebih cepat daripada target, ubah Coin terakhir menjadi [SuperCoin]\n[WhenUse] Peroleh 2 [Breath] dan +3 Count [Breath]\n[WhenUse] Jika Speed unit ini lebih cepat daripada target, peroleh 3 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [ScratchesHurt] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 144803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tebasan Avulsi",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 6 ([Breath] diri sendiri + [Laceration] pada target) (maks 2)\n[WhenUse] Jika Speed unit ini lebih cepat daripada target, ubah semua Coin menjadi [SuperCoin]\n[WhenUse] Peroleh 3 [Breath]\n[WinDuel] Peroleh 2 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [ScratchesHurt] giliran berikutnya"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 1 [ScratchesHurt] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 144804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pengecapan",
+          "desc": "Memprioritaskan target yang memiliki [TiedRope]\nJika Speed unit ini lebih cepat daripada target, beri +25% damage untuk setiap perbedaan Speed (maks 100%)\n[WhenUse] Coin Power +1 untuk setiap 6 ([Breath] diri sendiri + [Laceration] pada target) (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 144805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Menutup Pelarian",
+          "desc": "[DuelCounter]\n[WhenUse] Base Power +1 untuk setiap 6 ([Breath] diri sendiri + [Laceration] pada target) (maks 2)\n[WhenUse] Peroleh 3 [Breath]\n[WinDuel] Peroleh +3 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [ScratchesHurt] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 144901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Menghentak",
+          "desc": "[WhenUse] Pada 6+ ([Breath] diri sendiri + [Laceration] pada target), Base Power +1\n[WhenUse] Peroleh +3 Count [Breath]\n- Jika Speed unit ini lebih cepat daripada target, peroleh tambahan +1 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Binding] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 144902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tekanan Mencekik",
+          "desc": "[WhenUse] Base Power +1 untuk setiap 6 ([Breath] diri sendiri + [Laceration] pada target) (maks 2)\n[WhenUse] Jika Speed unit ini lebih cepat daripada target, ubah Coin terakhir menjadi [SuperCoin]\n[WhenUse] Peroleh 2 [Breath] dan +2 Count [Breath]\n[WhenUse] Jika Speed unit ini lebih cepat daripada target, peroleh 3 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Binding] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 144903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Penggerusan Pemburu",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 6 ([Breath] diri sendiri + [Laceration] pada target) (maks 2)\n[WhenUse] Jika Speed unit ini lebih cepat daripada target, ubah semua Coin menjadi [SuperCoin]\n[WhenUse] Peroleh 3 [Breath]\n[WinDuel] Peroleh 2 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 3 [Binding] giliran ini dan giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] ([Binding] x 20)% peluang untuk memberikan [TiedRope]\n- Jika target terkena Stagger, efek ini diberikan tanpa gagal"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 144904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pengecapan",
+          "desc": "Memprioritaskan target yang memiliki [TiedRope]\nJika Speed unit ini lebih cepat daripada target, beri +25% damage untuk setiap perbedaan Speed (maks 100%)\n[WhenUse] Coin Power +1 untuk setiap 6 ([Breath] diri sendiri + [Laceration] pada target) (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 144905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Menutup Rute",
+          "desc": "[DuelCounter]\n[WhenUse] Base Power +1 untuk setiap 6 ([Breath] diri sendiri + [Laceration] pada target) (maks 2)\n[WhenUse] Peroleh 3 [Breath]\n[WinDuel] Peroleh +3 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Binding] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Titik Tajam Tas Kerja",
+          "desc": "[WhenUse] Peroleh 1 [Agility] giliran berikutnya (sekali per giliran)\nJika target memiliki 6+ ([Laceration] + [Vibration]), Base Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [LensmanNail]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [LensmanNail]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hantaman Berat",
+          "desc": "[WhenUse] Peroleh 2 [Agility] giliran berikutnya (sekali per giliran)\nCoin Power +1 untuk setiap 6 ([Laceration] pada target + [Vibration] pada target) (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [LensmanNail]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [LensmanNail]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Membingkai Subjek",
+          "desc": "Coin Power +1 untuk setiap 6 ([Laceration] pada target + [Vibration] pada target) (maks 2)\n[WhenUse] Jika Speed unit ini lebih cepat daripada target, ubah semua Coin menjadi [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [LensmanNail]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 3 [Paralysis] giliran berikutnya"
+                },
+                {
+                  "desc": "[EndCoin] Beri 1 [TakePicture] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Foto Cepat",
+          "desc": "[DuelCounter]\nBase Power +1 untuk setiap 4 ([Laceration] pada target + [Vibration] pada target) (maks 2)\n[WhenUse] Jika Speed unit ini lebih cepat daripada target, ubah semua Coin menjadi [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 3 [AttackDown] giliran berikutnya"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 3 [Paralysis] giliran berikutnya"
+                },
+                {
+                  "desc": "[EndCoin] Beri 1 [TakePicture] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hantaman Pelat Baja",
+          "desc": "[WhenUse] Peroleh 1 [Agility] giliran berikutnya (sekali per giliran)\nJika target memiliki 6+ ([Laceration] + [Vibration]), Base Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [LensmanNail]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [LensmanNail]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Serangan Kepala Paku",
+          "desc": "[WhenUse] Peroleh 2 [Agility] giliran berikutnya (sekali per giliran)\nCoin Power +1 untuk setiap 6 ([Laceration] pada target + [Vibration] pada target) (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [LensmanNail]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [LensmanNail]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fokus Komposisi Ulang",
+          "desc": "Coin Power +1 untuk setiap 6 ([Laceration] pada target + [Vibration] pada target) (maks 2)\n[WhenUse] Jika Speed unit ini lebih cepat daripada target, ubah semua Coin menjadi [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [LensmanNail]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 3 [Paralysis] giliran berikutnya"
+                },
+                {
+                  "desc": "[EndCoin] Beri [TakePicture] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Foto Cepat",
+          "desc": "[DuelCounter]\nBase Power +1 untuk setiap 4 ([Laceration] pada target + [Vibration] pada target) (maks 2)\n[WhenUse] Jika Speed unit ini lebih cepat daripada target, ubah semua Coin menjadi [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 3 [AttackDown] giliran berikutnya"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 3 [Paralysis] giliran berikutnya"
+                },
+                {
+                  "desc": "[EndCoin] Beri [TakePicture] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pemotong Banteng",
+          "desc": "[WhenUse] Peroleh 3 [Breath]\n[WhenUse] Final Power +1 untuk setiap 4 [Laceration] pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pemotong Beruang",
+          "desc": "[WhenUse] Peroleh +3 Count [Breath]\n[WhenUse] Final Power +1 untuk setiap 4 [Laceration] pada target (maks 2)\n[WhenUse] Pada 6+ [Breath], ubah semua Coin menjadi [SuperCoin]\n[DefeatDuel]\n- Beri -80% damage\n- Tidak menyerang secara Critical\n- Damage yang diberikan oleh Skill ini tidak dapat Stagger target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pemecah Tulang Beruang",
+          "desc": "[WhenUse] Pada 8+ [Breath], beri +40% damage pada Serangan Critical\n[WhenUse] Final Power +1 untuk setiap 4 [Laceration] pada target (maks 2)\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>Pada 7+ [ChoiSwordsmanship], ubah semua Coin menjadi [SuperCoin] dan beri +20% damage pada Serangan Critical</color></mark></b></u>\n[DefeatDuel]\n- Beri -80% damage\n- Tidak menyerang secara Critical\n- Damage yang diberikan oleh Skill ini tidak dapat Stagger target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [SlashResistDown] giliran ini dan giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration] dan +3 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Seni Pedang Tanah Air - Perpisahan Sal",
+          "desc": "[WhenUse] Peroleh 3 [Breath]\n[WhenUse] Final Power +1 untuk setiap 4 [Laceration] pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Berburu Harimau",
+          "desc": "[WhenUse] Peroleh +3 Count [Breath]\n[WhenUse] Final Power +1 untuk setiap 4 [Laceration] pada target (maks 2)\n[WhenUse] Pada 6+ [Breath], ubah semua Coin menjadi [SuperCoin]\n[DefeatDuel]\n- Beri -80% damage\n- Tidak menyerang secara Critical\n- Damage yang diberikan oleh Skill ini tidak dapat Stagger target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145007,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tigersplitter",
+          "desc": "[WhenUse] Pada 8+ [Breath], beri +40% damage pada Serangan Critical\n[WhenUse] Final Power +1 untuk setiap 4 [Laceration] pada target (maks 2)\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>Pada 3 atau kurang [ChoiSwordsmanship], ubah semua Coin menjadi [SuperCoin] dan beri +20% damage pada Serangan Critical</color></mark></b></u>\n[DefeatDuel]\n- Beri -80% damage\n- Tidak menyerang secara Critical\n- Damage yang diberikan oleh Skill ini tidak dapat Stagger target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration] dan +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration] dan +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Binding] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [SlashResistDown] giliran ini dan giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145009,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pedang Tanah Air [Sal] - Merapikan Gaya Tarung",
+          "desc": "Tidak dipengaruhi oleh [ChoiSwordsmanship]\n[CantDuel] dengan Unit Assist\nMemprioritaskan Pendosa\nJika target Skill adalah Skill Eksklusif [SupportProtect], ubah menjadi [SuperCoin]\n[StartDuel] <color=#ff6000><mark color=#ff000040><b><u>Kehilangan 3 [ChoiSwordsmanship]</color></mark></b></u>\n- Jika target Skill adalah Skill Eksklusif [SupportProtect], efek ini tidak aktif\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>Saat Serang sebagai Serangan Tanpa Lawan, atau Saat Serang terhadap target yang menggunakan Skill Eksklusif [SupportProtect], peroleh 2 [ChoiSwordsmanship]</color></mark></b></u>",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145010,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pedang Tanah Air [Sal] - Mengasah Pedang",
+          "desc": "Tidak dipengaruhi oleh [ChoiSwordsmanship]\n[CantDuel] dengan Unit Assist\nMemprioritaskan Pendosa\nJika target Skill adalah Skill Eksklusif [SupportProtect], ubah menjadi [SuperCoin]\n[StartDuel] <color=#ff6000><mark color=#ff000040><b><u>Peroleh 3 [ChoiSwordsmanship]</color></mark></b></u>\n- Jika target Skill adalah Skill Eksklusif [SupportProtect], efek ini tidak aktif\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>Saat Serang sebagai Serangan Tanpa Lawan, atau Saat Serang terhadap target yang menggunakan Skill Eksklusif [SupportProtect], kehilangan 2 [ChoiSwordsmanship]</color></mark></b></u>",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Busur Tanah Air [Sal] - Melepas Panah",
+          "desc": "<color=#ff6000><mark color=#ff000040><b><u>Menarget musuh dengan [Laceration] terbanyak [Laceration]</color></mark></b></u>\nTidak dipengaruhi oleh [ChoiSwordsmanship]\n[WhenUse] Konsumsi 3 Potency [Breath] diri sendiri untuk peroleh Final Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration] dan +4 [Laceration] Count"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Naikkan Batas Stagger sebanyak 10"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 3 [Vulnerable]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145012,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gaya Bertahan",
+          "desc": "Tidak dipengaruhi oleh [ChoiSwordsmanship]\n[StartBattle] Peroleh 5 [Breath] dan +5 Count [Breath]\n[WhenUse] Peroleh 2 [CriticalDamageUp] giliran berikutnya",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145013,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gaya Serangan Balik",
+          "desc": "Tidak dipengaruhi oleh [ChoiSwordsmanship]\n[StartBattle] Peroleh 5 [Breath] dan +5 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pemotong Banteng",
+          "desc": "[WhenUse] Peroleh 3 [Breath]\n[WhenUse] Final Power +1 untuk setiap 4 [Laceration] pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pemotong Beruang",
+          "desc": "[WhenUse] Peroleh +3 Count [Breath]\n[WhenUse] Final Power +1 untuk setiap 4 [Laceration] pada target (maks 2)\n[WhenUse] Pada 6+ [Breath], ubah semua Coin menjadi [SuperCoin]\n[DefeatDuel]\n- Beri -80% damage\n- Tidak menyerang secara Critical\n- Damage yang diberikan oleh Skill ini tidak dapat Stagger target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pemecah Tulang Beruang",
+          "desc": "[WhenUse] Pada 8+ [Breath], beri +40% damage pada Serangan Critical\n[WhenUse] Final Power +1 untuk setiap 4 [Laceration] pada target (maks 2)\n[WhenUse] Pada lebih banyak than 6 [ChoiSwordsmanship], peroleh Final Power untuk setiap Stack [ChoiSwordsmanship] berlebih (maks 3)\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>Pada 7+ [ChoiSwordsmanship], ubah semua Coin menjadi [SuperCoin] dan beri +20% damage pada Serangan Critical</color></mark></b></u>\n[DefeatDuel]\n- Beri -80% damage\n- Tidak menyerang secara Critical\n- Damage yang diberikan oleh Skill ini tidak dapat Stagger target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [SlashResistDown] giliran ini dan giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration] dan +3 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bahkan Sangun Akan Terbelah Oleh Pedang Ini",
+          "desc": "Menarget musuh dengan [Laceration] terbanyak [Laceration]\n[WhenUse] Tidak dapat Stagger dari menerima damage hingga Skill ini berakhir\n[WhenUse] Final Power +1 untuk setiap 4 [Laceration] pada target (maks 3)\n[WhenUse] Pada lebih banyak than 6 [ChoiSwordsmanship], peroleh Final Power +2 untuk setiap Stack [ChoiSwordsmanship] berlebih (maks 6)\n[WinDuel] <color=#ff6000><mark color=#ff000040><b><u>Skill ini selalu dapat Kepala, menyerang Critical, dan tidak mengonsumsi Count [Breath]</color></mark></b></u>\n[BeforeAttack] Beri +20% damage pada Serangan Critical untuk setiap 2 [ChoiSwordsmanship] diri sendiri (maks 80%)\n[DefeatDuel]\n- Beri -80% damage\n- Tidak menyerang secara Critical\n- Damage yang diberikan oleh Skill ini tidak dapat Stagger target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri (([Breath] diri sendiri x 10)% dari damage final Coin ini) Slash damage (maks 100%)"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri (([Laceration] pada target x 10)% dari damage final Coin ini) Lust damage (maks 100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [Laceration] pada target sekali. Target kehilangan 1 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Seni Pedang Tanah Air - Perpisahan Sal",
+          "desc": "[WhenUse] Peroleh 3 [Breath]\n[WhenUse] Final Power +1 untuk setiap 4 [Laceration] pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Berburu Harimau",
+          "desc": "[WhenUse] Peroleh +3 Count [Breath]\n[WhenUse] Final Power +1 untuk setiap 4 [Laceration] pada target (maks 2)\n[WhenUse] Pada 6+ [Breath], ubah semua Coin menjadi [SuperCoin]\n[DefeatDuel]\n- Beri -80% damage\n- Tidak menyerang secara Critical\n- Damage yang diberikan oleh Skill ini tidak dapat Stagger target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145107,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tigersplitter",
+          "desc": "[WhenUse] Pada 8+ [Breath], beri +40% damage pada Serangan Critical\n[WhenUse] Final Power +1 untuk setiap 4 [Laceration] pada target (maks 2)\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>Pada 3 atau kurang [ChoiSwordsmanship], ubah semua Coin menjadi [SuperCoin] dan beri +20% damage pada Serangan Critical</color></mark></b></u>\n[DefeatDuel]\n- Beri -80% damage\n- Tidak menyerang secara Critical\n- Damage yang diberikan oleh Skill ini tidak dapat Stagger target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration] dan +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration] dan +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Binding] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [SlashResistDown] giliran ini dan giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145108,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tiada Daging Harimau yang Tak Terbelah",
+          "desc": "Menarget musuh dengan [Laceration] terbanyak [Laceration]\n<color=#ff6000><mark color=#ff000040><b><u>Dapat Clash dengan Skill ini tak peduli dengan Speed</color></mark></b></u>\n[WhenUse] Tidak dapat Stagger dari menerima damage hingga Skill ini berakhir\n[WhenUse] Final Power +1 untuk setiap 4 [Laceration] pada target (maks 3)\n[WinDuel] <color=#ff6000><mark color=#ff000040><b><u>Skill ini selalu dapat Kepala, menyerang Critical, dan tidak mengonsumsi Count [Breath]</color></mark></b></u>\n[BeforeAttack] Beri +20% damage pada Serangan Critical untuk setiap 2 [Breath] diri sendiri (maks 80%)\n[DefeatDuel]\n- Beri -80% damage\n- Tidak menyerang secara Critical\n- Damage yang diberikan oleh Skill ini tidak dapat Stagger target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [Laceration] pada target sekali. Target kehilangan 1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [Laceration] pada target sekali. Target kehilangan 1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [Laceration] pada target sekali. Target kehilangan 1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target utama memiliki 10+ [Laceration], beri +8 [Laceration] Count pada target yang diserang oleh Coin ini"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri +8 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145109,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pedang Tanah Air [Sal] - Merapikan Gaya Tarung",
+          "desc": "Tidak dipengaruhi oleh [ChoiSwordsmanship]\n[CantDuel] dengan Unit Assist\nMemprioritaskan Pendosa\nJika target Skill adalah Skill Eksklusif [SupportProtect], ubah menjadi [SuperCoin]\n[StartDuel] <color=#ff6000><mark color=#ff000040><b><u>Kehilangan 3 [ChoiSwordsmanship]</color></mark></b></u>\n- Jika target Skill adalah Skill Eksklusif [SupportProtect], efek ini tidak aktif\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>Saat Serang sebagai Serangan Tanpa Lawan, atau Saat Serang terhadap target yang menggunakan Skill Eksklusif [SupportProtect], peroleh 2 [ChoiSwordsmanship]</color></mark></b></u>",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145110,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pedang Tanah Air [Sal] - Mengasah Pedang",
+          "desc": "Tidak dipengaruhi oleh [ChoiSwordsmanship]\n[CantDuel] dengan Unit Assist\nMemprioritaskan Pendosa\nJika target Skill adalah Skill Eksklusif [SupportProtect], ubah menjadi [SuperCoin]\n[StartDuel] <color=#ff6000><mark color=#ff000040><b><u>Peroleh 3 [ChoiSwordsmanship]</color></mark></b></u>\n- Jika target Skill adalah Skill Eksklusif [SupportProtect], efek ini tidak aktif\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>Saat Serang sebagai Serangan Tanpa Lawan, atau Saat Serang terhadap target yang menggunakan Skill Eksklusif [SupportProtect], kehilangan 2 [ChoiSwordsmanship]</color></mark></b></u>",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Busur Tanah Air [Sal] - Melepas Panah",
+          "desc": "<color=#ff6000><mark color=#ff000040><b><u>Menarget musuh dengan [Laceration] terbanyak [Laceration]</color></mark></b></u>\nTidak dipengaruhi oleh [ChoiSwordsmanship]\n[WhenUse] Konsumsi 3 Potency [Breath] diri sendiri untuk peroleh Final Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration] dan +4 [Laceration] Count"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Naikkan Batas Stagger sebanyak 10"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 3 [Vulnerable]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145112,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gaya Bertahan",
+          "desc": "Tidak dipengaruhi oleh [ChoiSwordsmanship]\n[StartBattle] Peroleh 5 [Breath] dan +5 Count [Breath]\n[WhenUse] Peroleh 2 [CriticalDamageUp] giliran berikutnya",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145113,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gaya Serangan Balik",
+          "desc": "Tidak dipengaruhi oleh [ChoiSwordsmanship]\n[StartBattle] Peroleh 5 [Breath] dan +5 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

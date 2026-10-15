@@ -1,0 +1,762 @@
+{
+  "dataList": [
+    {
+      "id": 2110511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Holiday",
+          "abName": "Sandolph",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan Tremor Burst"
+                },
+                {
+                  "desc": "[EndSkill] Beri 1 'Damage Up' for the Affinity with the highest Resonance count to 2 kawan with the least SP"
+                },
+                {
+                  "desc": "[EndSkill] Pulihkan 20 SP for 2 kawan with the least SP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Holiday",
+          "abName": "Sandolph",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan Tremor Burst"
+                },
+                {
+                  "desc": "[EndSkill] Beri 1 'Damage Up' for the Affinity with the highest Resonance count to 3 kawan with the least SP"
+                },
+                {
+                  "desc": "[EndSkill] Pulihkan 20 SP for 3 kawan with the least SP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Holiday",
+          "abName": "Sandolph",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan Tremor Burst"
+                },
+                {
+                  "desc": "[EndSkill] Beri 1 'Damage Up' for the Affinity with the highest Resonance count to 4 kawan with the least SP"
+                },
+                {
+                  "desc": "[EndSkill] Pulihkan 20 SP for 4 kawan with the least SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Holiday",
+          "abName": "Sandolph",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] This unit loses 10% HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Target loses 10 SP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan Tremor Burst"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Beri 1 Fragility to the Affinity with the highest Resonance count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Holiday",
+          "abName": "Sandolph",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] This unit loses 10% HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Target loses 10 SP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan Tremor Burst"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Beri 2 Fragility for the Affinity with the highest Resonance count"
+                },
+                {
+                  "desc": "[EndSkillTail] Peroleh 1 'Damage Up' to the Affinity with the highest Resonance count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Holiday",
+          "abName": "Sandolph",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] This unit loses 10% HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Target loses 10 SP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan Tremor Burst"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Fragility for the Affinity with the highest Resonance count"
+                },
+                {
+                  "desc": "[EndSkillTail] Peroleh 1 'Damage Up' to the Affinity with the highest Resonance count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Binds",
+          "abName": "The King in Binds",
+          "desc": "[BeforeAttack] Peroleh (highest Pride atau Sloth Reson. - 2) Atk Weight (maks 2)\n[EndSkill] Untuk 3 giliran, kehilangan 10 SP pada Akhir Giliran",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [Switch_Vibration] menjadi [VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Binds",
+          "abName": "The King in Binds",
+          "desc": "[BeforeAttack] Peroleh (highest Pride atau Sloth Reson. - 2) Atk Weight (maks 2)\nAmount of Batas Stagger raised by [VibrationExplosion] increases by 50%\n[EndSkill] Untuk 3 giliran, lose 9 SP pada Akhir Giliran",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [Switch_Vibration] menjadi [VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Binds",
+          "abName": "The King in Binds",
+          "desc": "[BeforeAttack] Peroleh (highest Pride atau Sloth Reson. - 2) Atk Weight (maks 2)\nAmount of Batas Stagger raised by [VibrationExplosion] increases by 100%\n[EndSkill] Untuk 3 giliran, lose 8 SP pada Akhir Giliran",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [Switch_Vibration] menjadi [VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Binds",
+          "abName": "The King in Binds",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh (highest Pride atau Sloth Reson. - 2) Atk Weight (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [Switch_Vibration] menjadi [VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Binds",
+          "abName": "The King in Binds",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh (highest Pride atau Sloth Reson. - 2) Atk Weight (maks 2)\nAmount of Batas Stagger raised by [VibrationExplosion] increases by 50%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [Switch_Vibration] menjadi [VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Aktifkan [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Binds",
+          "abName": "The King in Binds",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh (highest Pride atau Sloth Reson. - 2) Atk Weight (maks 2)\nAmount of Batas Stagger raised by [VibrationExplosion] increases by 50%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [Switch_Vibration] menjadi [VibrationCrack]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Aktifkan [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Aktifkan [VibrationExplosion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dimension Shredder",
+          "abName": "Wayward Passenger",
+          "desc": "[BeforeAttack] Pada 4+ Reson. tertinggi, peroleh +1 Atk Weight\n[BeforeAttack] Pada kurang dari 10 Count [Charge], konsumsi 15% HP untuk peroleh +10 Count [Charge] (this damage does not kurangi HP unit ini to 0; dibulatkan ke bawah)\n[BeforeAttack] Konsumsi hingga 40 Count [Charge] dan beri +1% damage untuk setiap Count [Charge] terkonsumsi (maks 10%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri ([Charge] - 1) [DimensionRift] (maks 1)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [Agility] dan 1 [ChargeLoad] giliran berikutnya untuk setiap [Charge] (maks 1 dari setiap per Skill)"
+                },
+                {
+                  "desc": "[EnemyKill] Peroleh +2 Count [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Dimension Shredder",
+          "abName": "Wayward Passenger",
+          "desc": "[BeforeAttack] Pada <style=\"highlight\">3</style>+ Reson. tertinggi, peroleh +1 Atk Weight\n[BeforeAttack] Pada kurang dari 10 Count [Charge], konsumsi 15% HP untuk peroleh +10 Count [Charge] (this damage does not kurangi HP unit ini to 0; dibulatkan ke bawah)\n[BeforeAttack] Konsumsi hingga 40 Count [Charge] dan beri +1% damage untuk setiap Count [Charge] terkonsumsi (maks <style=\"highlight\">20</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri ([Charge] - 1) [DimensionRift] (maks <style=\"highlight\">2</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [Agility] dan 1 [ChargeLoad] giliran berikutnya untuk setiap [Charge] (maks <style=\"highlight\">2</style> dari setiap per Skill)"
+                },
+                {
+                  "desc": "[EnemyKill] Peroleh +2 Count [Charge]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Dimension Shredder",
+          "abName": "Wayward Passenger",
+          "desc": "[BeforeAttack] Peroleh <style=\"highlight\">(Reson. tertinggi - 2)</style> Atk Weight <style=\"highlight\">(maks 2)</style>\n[BeforeAttack] Pada kurang dari 10 Count [Charge], konsumsi <style=\"highlight\">10</style>% HP untuk peroleh +10 Count [Charge] (this damage does not kurangi HP unit ini to 0; dibulatkan ke bawah)\n[BeforeAttack] Konsumsi hingga 40 Count [Charge] dan beri +1% damage untuk setiap Count [Charge] terkonsumsi (maks <style=\"highlight\">30</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri ([Charge] - 1) [DimensionRift] (maks 2)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [Agility] dan 1 [ChargeLoad] giliran berikutnya untuk setiap [Charge] (maks <style=\"highlight\">3</style> dari setiap per Skill)"
+                },
+                {
+                  "desc": "[EnemyKill] Peroleh +2 Count [Charge]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dimension Shredder",
+          "abName": "Wayward Passenger",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Pada 4+ Reson. tertinggi, peroleh +1 Atk Weight\n[BeforeAttack] Pada kurang dari maximum Count [Charge], konsumsi (missing Count [Charge] x 1.5)% HP untuk peroleh hingga maks Count [Charge] (maks Count [Charge] obtainable dari efek ini: 30. This damage does not kurangi HP unit ini to 0; dibulatkan ke bawah)\n[BeforeAttack] Konsumsi hingga 40 Count [Charge] dan beri +2% damage untuk setiap Count [Charge] terkonsumsi (maks 20%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri ([Charge] - 1) [DimensionRift] (maks 2)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [Agility] dan 1 [ChargeLoad] giliran berikutnya untuk setiap [Charge] (maks 2 dari setiap per Skill)"
+                },
+                {
+                  "desc": "[EnemyKill] Peroleh +2 Count [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Dimension Shredder",
+          "abName": "Wayward Passenger",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Pada 4+ Reson. tertinggi, peroleh +1 Atk Weight\n[BeforeAttack] Pada kurang dari maximum Count [Charge], konsumsi (missing Count [Charge] x <style=\"highlight\">1.2</style>)% HP untuk peroleh hingga maks Count [Charge] (maks Count [Charge] obtainable dari efek ini: 30. This damage does not kurangi HP unit ini to 0; dibulatkan ke bawah)\n[BeforeAttack] Konsumsi hingga 40 Count [Charge] dan beri +2% damage untuk setiap Count [Charge] terkonsumsi (maks <style=\"highlight\">40</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri ([Charge] - 1) [DimensionRift] (maks 2)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [Agility] dan 1 [ChargeLoad] giliran berikutnya untuk setiap [Charge] (maks 2 dari setiap per Skill)"
+                },
+                {
+                  "desc": "[EnemyKill] Peroleh +2 Count [Charge]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Dimension Shredder",
+          "abName": "Wayward Passenger",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh <style=\"highlight\">(Reson. tertinggi - 2)</style> Atk Weight <style=\"highlight\">(maks 2)</style>\n[BeforeAttack] Pada kurang dari maximum Count [Charge], konsumsi <style=\"highlight\">(missing Count [Charge])%</style> HP untuk peroleh hingga maks Count [Charge] (maks Count [Charge] obtainable dari efek ini: 30. This damage does not kurangi HP unit ini to 0; dibulatkan ke bawah)\n[BeforeAttack] Konsumsi hingga 40 Count [Charge] dan beri +2% damage untuk setiap Count [Charge] terkonsumsi (maks <style=\"highlight\">60</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri ([Charge] - 1) [DimensionRift] (maks <style=\"highlight\">4</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [Agility] dan 1 [ChargeLoad] giliran berikutnya untuk setiap [Charge] (maks <style=\"highlight\">3</style> dari setiap per Skill)"
+                },
+                {
+                  "desc": "[EnemyKill] Peroleh +2 Count [Charge]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Magic Bullet",
+          "abName": "Der Freischütz",
+          "desc": "Beri +1% damage untuk setiap 3 [Combustion] pada target (maks 10%)\n[BeforeAttack] Pada 0 [FreischutzShotCount], peroleh 1 [FreischutzShotCount].\n- [FreischutzShotCount] value determines the bullet to fire.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Peroleh [FreischutzShotCount] setara dengan the Reson. tertinggi (min. 1, maks 4)\n[EndSkill] Jika target utama dikalahkan, beri 2 [DarkFlame] terhadap semua musuh yang memiliki [Combustion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri [Combustion] setara dengan [FreischutzShotCount]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [DarkFlame] setara dengan [FreischutzShotCount] (sekali per giliran for each unit)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Magic Bullet",
+          "abName": "Der Freischütz",
+          "desc": "Beri +<style=\"highlight\">2</style>% damage untuk setiap 3 [Combustion] pada target (maks <style=\"highlight\">20</style>%)\n[BeforeAttack] Pada 0 [FreischutzShotCount], peroleh 1 [FreischutzShotCount].\n- [FreischutzShotCount] value determines the bullet to fire.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Peroleh [FreischutzShotCount] setara dengan the Reson. tertinggi (min. 1, maks 4)\n[EndSkill] Jika target utama dikalahkan, beri <style=\"highlight\">3</style> [DarkFlame] terhadap semua musuh yang memiliki [Combustion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri [Combustion] setara dengan [FreischutzShotCount]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [DarkFlame] setara dengan [FreischutzShotCount] (sekali per giliran for each unit)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Magic Bullet",
+          "abName": "Der Freischütz",
+          "desc": "Beri +<style=\"highlight\">3</style>% damage untuk setiap 3 [Combustion] pada target (maks <style=\"highlight\">30</style>%)\n[BeforeAttack] Pada 0 [FreischutzShotCount], peroleh 1 [FreischutzShotCount].\n- [FreischutzShotCount] value determines the bullet to fire.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Peroleh [FreischutzShotCount] setara dengan the Reson. tertinggi (min. 1, maks 4)\n[EndSkill] Jika target utama dikalahkan, beri <style=\"highlight\">4</style> [DarkFlame] terhadap semua musuh yang memiliki [Combustion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri [Combustion] setara dengan [FreischutzShotCount]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [DarkFlame] setara dengan [FreischutzShotCount] (sekali per giliran for each unit)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Magic Bullet",
+          "abName": "Der Freischütz",
+          "desc": "[CantIdentify]\nTarget secara acak\nBeri +1% damage untuk setiap 3 [Combustion] pada target (maks 10%)\n[BeforeAttack] Pada 0 [FreischutzShotCount], peroleh 1 [FreischutzShotCount].\n- [FreischutzShotCount] value determines the bullet to fire.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Peroleh [FreischutzShotCount] setara dengan the Reson. tertinggi (min. 1, maks 4)\n[EndSkill] Jika target utama dikalahkan, beri 3 [DarkFlame] terhadap semua musuh yang memiliki [Combustion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri [Combustion] setara dengan [FreischutzShotCount]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [DarkFlame] setara dengan [FreischutzShotCount] (sekali per giliran for each unit)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Magic Bullet",
+          "abName": "Der Freischütz",
+          "desc": "[CantIdentify]\nTarget secara acak\nBeri +<style=\"highlight\">2</style>% damage untuk setiap 3 [Combustion] pada target (maks <style=\"highlight\">20</style>%)\n[BeforeAttack] Pada 0 [FreischutzShotCount], peroleh 1 [FreischutzShotCount].\n- [FreischutzShotCount] value determines the bullet to fire.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Peroleh [FreischutzShotCount] setara dengan the Reson. tertinggi (min. 1, maks 4)\n[EndSkill] Jika target utama dikalahkan, beri <style=\"highlight\">5</style> [DarkFlame] terhadap semua musuh yang memiliki [Combustion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri [Combustion] setara dengan [FreischutzShotCount]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +([FreischutzShotCount] / 3) [Combustion] Count (dibulatkan ke bawah)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [DarkFlame] setara dengan [FreischutzShotCount] (sekali per giliran for each unit)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Magic Bullet",
+          "abName": "Der Freischütz",
+          "desc": "[CantIdentify]\nTarget secara acak\nBeri +<style=\"highlight\">3</style>% damage untuk setiap 3 [Combustion] pada target (maks <style=\"highlight\">30</style>%)\n[BeforeAttack] Pada 0 [FreischutzShotCount], peroleh 1 [FreischutzShotCount].\n- [FreischutzShotCount] value determines the bullet to fire.\n· [FreishutzOutisEgoBullet_1st]\n· [FreishutzOutisEgoBullet_2nd]\n· [FreishutzOutisEgoBullet_3rd]\n· [FreishutzOutisEgoBullet_4th]\n· [FreishutzOutisEgoBullet_5th]\n· [FreishutzOutisEgoBullet_6th]\n· [FreishutzOutisEgoBullet_7th]\n[EndSkill] Peroleh [FreischutzShotCount] setara dengan the Reson. tertinggi (min. 1, maks 4)\n[EndSkill] Jika target utama dikalahkan, beri <style=\"highlight\">7</style> [DarkFlame] terhadap semua musuh yang memiliki [Combustion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri [Combustion] setara dengan [FreischutzShotCount]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +([FreischutzShotCount] / <style=\"highlight\">2</style>) [Combustion] Count (dibulatkan ke bawah)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [DarkFlame] setara dengan [FreischutzShotCount] (sekali per giliran for each unit)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Aku Akan Pakai Gunting. Gimana Denganmu?",
+          "abName": "Akankah Kau Bermain?",
+          "desc": "Serangan Tanpa Perlawanan: Tidak aktif this skill's [UnBrokenCoinOnSucceedAttack] effects\n[WinDuel] Konsumsi Envy bahan E.G.O by Reson. Envy, dan untuk setiap Envy bahan E.G.O terkonsumsi, peroleh 1 bahan E.G.O masing-masing untuk the least-owned Affinities (maks consumable Envy resource: 4)\n[DefeatDuel] Final Power -4 dan peroleh Perisai setara dengan (Reson. Envy x 5) (maks 20)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Pulihkan 2 kawan with HP terendah percentage by 6% of their maks HP (sekali per Skill)\n- Ignores kawan without Envy Skill Base Attack when choosing targets for healing (mengecualikan unit ini)",
+                  "summary": "[UnBrokenCoinOnSucceedAttack] Pulihkan HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [NiddleEGO]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Aku Akan Pakai Gunting. Gimana Denganmu?",
+          "abName": "Akankah Kau Bermain?",
+          "desc": "Serangan Tanpa Perlawanan: Tidak aktif this skill's [UnBrokenCoinOnSucceedAttack] effects\n[WinDuel] Konsumsi Envy bahan E.G.O by Reson. Envy, dan untuk setiap Envy bahan E.G.O terkonsumsi, peroleh 1 bahan E.G.O masing-masing untuk the least-owned Affinities (maks consumable Envy resource: 5)\n[DefeatDuel] Final Power -4 dan peroleh Perisai setara dengan (Reson. Envy x 5) (maks 25)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Pulihkan 2 kawan with HP terendah percentage by 8% of their maks HP (sekali per Skill)\n- Ignores kawan without Envy Skill Base Attack when choosing targets for healing (mengecualikan unit ini)",
+                  "summary": "[UnBrokenCoinOnSucceedAttack] Pulihkan HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [NiddleEGO]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [NailPersonality]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Aku Akan Pakai Gunting. Gimana Denganmu?",
+          "abName": "Akankah Kau Bermain?",
+          "desc": "Serangan Tanpa Perlawanan: Tidak aktif this skill's [UnBrokenCoinOnSucceedAttack] effects\n[WinDuel] Konsumsi Envy bahan E.G.O by Reson. Envy, dan untuk setiap Envy bahan E.G.O terkonsumsi, peroleh 1 bahan E.G.O masing-masing untuk the least-owned Affinities (maks consumable Envy resource: 6)\n[DefeatDuel] Final Power -4 dan peroleh Perisai setara dengan (Reson. Envy x 5) (maks 30)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Pulihkan 2 kawan with HP terendah percentage sebanyak 10% of their maks HP (sekali per Skill)\n- Ignores kawan without Envy Skill Base Attack when choosing targets for healing (mengecualikan unit ini)",
+                  "summary": "[UnBrokenCoinOnSucceedAttack] Pulihkan HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [NiddleEGO]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [NailPersonality]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Aku Akan Pakai Gunting. Gimana Denganmu?",
+          "abName": "Akankah Kau Bermain?",
+          "desc": "[CantIdentify]\nTarget secara acak\nPada 2+ Reson. Envy, Final Power +1\n[WinDuel] Atk Weight +1 untuk setiap 2 Reson. Envy (maks 2)\n[DefeatDuel] Peroleh Perisai setara dengan (Reson. Envy x 5) (maks 20)\n[DefeatDuel] Skill ini memberikan +1 lebih [NiddleEGO] dan [NailPersonality]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [NiddleEGO]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Aku Akan Pakai Gunting. Gimana Denganmu?",
+          "abName": "Akankah Kau Bermain?",
+          "desc": "[CantIdentify]\nTarget secara acak\n<style=\"highlight\">Final Power +1 untuk setiap 2 Reson. Envy (maks 2)</style>\n[WinDuel] Atk Weight +1 untuk setiap 2 Reson. Envy (maks 2)\n[DefeatDuel] Peroleh Perisai setara dengan (Reson. Envy x 5) (maks <style=\"highlight\">25</style>)\n[DefeatDuel] Skill ini memberikan +1 lebih [NiddleEGO], <style=\"highlight\">[Curse]</style>, dan [NailPersonality]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [NiddleEGO]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Curse]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Aku Akan Pakai Gunting. Gimana Denganmu?",
+          "abName": "Akankah Kau Bermain?",
+          "desc": "[CantIdentify]\nTarget secara acak\nFinal Power +1 untuk setiap 2 Reson. Envy (maks <style=\"highlight\">3</style>)\n[WinDuel] Atk Weight +1 untuk setiap 2 Reson. Envy (maks 2)\n[DefeatDuel] Peroleh Perisai setara dengan (Reson. Envy x 5) (maks <style=\"highlight\">30</style>)\n[DefeatDuel] Skill ini memberikan +1 lebih [NiddleEGO], [Curse], dan [NailPersonality]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [NiddleEGO]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Curse]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

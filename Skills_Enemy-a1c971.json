@@ -1,0 +1,246 @@
+{
+  "dataList": [
+    {
+      "id": 9018101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "■■ew",
+          "desc": "[WhenUse] Jika target tidak memiliki [Burst], Clash Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 SP damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Le■'■ ■■t",
+          "desc": "[WhenUse] Jika target memiliki 5+ [Burst], Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 SP damage"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan HP setara dengan damage yang diberikan (Maks 20)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 SP damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I■'s Y■■r ■■rn N■■!!",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 3 [Burst] pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan HP setara dengan damage yang diberikan (Maks 20)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pada kurang dari 50% HP, Gunakan Ulang Coin sekali"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 SP damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan HP setara dengan damage yang diberikan (Maks 20)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gua■■",
+          "desc": "[WhenUse] Peroleh Perisai HP untuk setiap 5 [Burst] pada target\n[EndBattle] Pulihkan HP setara dengan the remaining Perisai HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wa■■■■ha",
+          "desc": "[WhenUse] Jika target tidak memiliki [Burst], Clash Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 SP damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "C■■an",
+          "desc": "[WhenUse] Jika target memiliki 5+ [Burst], Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 SP damage"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan HP setara dengan damage yang diberikan (Maks 20)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 SP damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ti■■ to E■■!",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 3 [Burst] pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan HP setara dengan damage yang diberikan (Maks 20)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pada kurang dari 50% HP, Gunakan Ulang Coin sekali"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 SP damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan HP setara dengan damage yang diberikan (Maks 20)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "■■■rd",
+          "desc": "[WhenUse] Peroleh Perisai HP untuk setiap 5 [Burst] pada target\n[EndBattle] Pulihkan HP setara dengan the remaining Perisai HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

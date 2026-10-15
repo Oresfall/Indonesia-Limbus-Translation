@@ -1,0 +1,571 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Backstreets dari Distrik 8, Somewhere",
+      "model": "경도",
+      "content": "Nah, kita sudah sampai."
+    },
+    {
+      "id": 1,
+      "model": "싱클레어",
+      "content": "Haah... haah... apa ini tempatnya...?"
+    },
+    {
+      "id": 2,
+      "content": "Setelah berlari melewati gang demi gang, setelah berbelok di tikungan demi tikungan, akhirnya kami mendapati pemandangan beberapa bangunan kecil yang dibangun rapat satu sama lain."
+    },
+    {
+      "id": 3,
+      "content": "Di tengah-tengahnya terdapat bangunan yang diterangi lampu merah, dihiasi papan pintu dengan tulisan huruf yang tampak rumit."
+    },
+    {
+      "id": 4,
+      "model": "로쟈",
+      "content": "Ini lebih kumuh dari yang kubayangkan... Hei, bukankah tempat ini agak terlalu sampah untuk menampung tuan mudamu yang berharga itu?"
+    },
+    {
+      "id": 5,
+      "model": "경도",
+      "content": "Itu bukan bangunan kami. Tolong, lihat ke sini untuk melihat di mana tamu kehormatan kami akan menginap malam ini."
+    },
+    {
+      "id": 6,
+      "model": "로쟈",
+      "content": "Sudah kuduga! Aku dengar banyak dari Hong Lu soal kemegahan, soal semua... eh?"
+    },
+    {
+      "id": 7,
+      "content": "Kami mengikuti arah jari Qingtao dan... tiba di sebuah gudang kecil, bagian luarnya dicat hitam."
+    },
+    {
+      "id": 8,
+      "content": "Itu... terlihat lebih kecil bahkan dari Mephistopheles..."
+    },
+    {
+      "id": 9,
+      "model": "단테",
+      "content": "<... Bisakah kita semua muat di sana?>"
+    },
+    {
+      "id": 10,
+      "model": "로쟈",
+      "content": "H-hei, tempat itu kelihatan sampah banget, bahkan buat kita! Apalagi buat tuan mudamu!"
+    },
+    {
+      "id": 11,
+      "model": "경도",
+      "content": "Ini kezhan terdekat yang bisa kami jangkau untuk menginap, setidaknya di antara yang aku kelola... Namun lokasinya di <ruby=Belakangan>Backstreets</ruby> sangat membatasi tingkat kelayakan yang bisa ditawarkan..."
+    },
+    {
+      "id": 12,
+      "model": "경도",
+      "content": "Permintaan maaf yang paling dalam dan tulus dariku, tuan muda..."
+    },
+    {
+      "id": 13,
+      "model": "홍루",
+      "content": "Jangan khawatir, kita tidak bisa selalu tidur di tempat yang layak~ Bagiku, ini terlihat cukup bagus untuk menginap semalam!"
+    },
+    {
+      "id": 14,
+      "model": "이스마엘",
+      "content": "Kamu gila ya? Apa benda itu bisa memuat kita semua di dalam?"
+    },
+    {
+      "id": 15,
+      "model": "경도",
+      "content": "... Sangat ingin aku memandu tamu kehormatan ke kediaman keluarga di zona pusat..."
+    },
+    {
+      "id": 16,
+      "model": "경도",
+      "content": "Namun, waktunya..."
+    },
+    {
+      "id": 17,
+      "model": "료슈",
+      "content": "Oho... sapuan ombak."
+    },
+    {
+      "id": 18,
+      "model": "단테",
+      "content": "<Hm... bukankah itu dimulai pukul 3:13 pagi? Aku merasa kita punya banyak waktu untuk sampai di sana.>"
+    },
+    {
+      "id": 19,
+      "model": "이스마엘",
+      "content": "Tepat sekali. Bukankah kita punya waktu yang lebih dari cukup untuk sampai ke kediaman keluarga?"
+    },
+    {
+      "id": 20,
+      "model": "이스마엘",
+      "content": "Menurut panduan wisata H Corp., area pusat hanya berjarak sekitar satu jam dari sini..."
+    },
+    {
+      "id": 21,
+      "model": "경도",
+      "content": "Apakah tamu terhormat pernah bepergian ke Distrik 8 sebelumnya?"
+    },
+    {
+      "id": 22,
+      "model": "이스마엘",
+      "content": "Yah, tidak. Ini pertama kalinya aku di sini. Tapi..."
+    },
+    {
+      "id": 23,
+      "model": "경도",
+      "content": "Kalau begitu, bagaimana bisa tamu kehormatan mengklaim memiliki pemahaman penuh tentang suatu tempat hanya dengan membalik-balik buku, padahal dia belum pernah menghadapinya secara langsung?"
+    },
+    {
+      "id": 24,
+      "model": "경도",
+      "content": "Perubahan yang tak terhitung dan tak terduga menanti di hutan bangunan yang padat ini; struktur yang terus bergeser, jalur yang selalu berubah, penyergapan dari <ruby=Sindikat>Syndicate</ruby> bodoh namun kejam atau, bahkan <ruby=Kantor>Offices</ruby> di <ruby=Belakangan>Backstreets</ruby>, oh! Kita dikepung oleh bahaya dari segala sisi!"
+    },
+    {
+      "id": 25,
+      "model": "경도",
+      "content": "Pendekatan yang begitu berani dan gegabah untuk memprediksi fenomena di tempat ini sama saja dengan menjemput ajal. Bahkan balita pun harusnya tahu itu."
+    },
+    {
+      "id": 26,
+      "model": "이스마엘",
+      "content": "……."
+    },
+    {
+      "id": 27,
+      "model": "경도",
+      "content": "Seseorang tidak bisa menyembunyikan kesedihan mendalamnya atas ketidakcukupan kebijaksanaan anda."
+    },
+    {
+      "id": 28,
+      "model": "단테",
+      "content": "<Apa cuma perasaanku saja, atau kita semua sedang teringat pada Ishmael saat di <ruby=Danau Besar>Great Lake</ruby>?>"
+    },
+    {
+      "id": 29,
+      "model": "이스마엘",
+      "content": "Diam, Dante."
+    },
+    {
+      "id": 30,
+      "model": "오티스",
+      "content": "Namun jika buku panduan mencantumkan suatu jalur, bukankah itu menyiratkan bahwa secara teknis mungkin untuk sampai ke sana tepat waktu?"
+    },
+    {
+      "id": 31,
+      "content": "Outis tiba-tiba melangkah maju."
+    },
+    {
+      "id": 32,
+      "content": "Di tangannya terdapat brosur wisata H Corp. yang dibicarakan Ishmael."
+    },
+    {
+      "id": 33,
+      "model": "오티스",
+      "content": "Saya yakin jika Manajer Eksekutif kami memimpin kita di posisi anda yang tertantang secara arah ini, mereka akan mampu membawa kita ke tujuan sebelum malam tiba."
+    },
+    {
+      "id": 34,
+      "model": "단테",
+      "content": "<... Aku?>"
+    },
+    {
+      "id": 35,
+      "model": "이상",
+      "content": "Hal ini tampaknya belum didiskusikan sebelumnya..."
+    },
+    {
+      "id": 36,
+      "model": "경도",
+      "content": "Baiklah. Izinkan saya berbicara dengan bebas, tanpa basa-basi."
+    },
+    {
+      "id": 37,
+      "model": "경도",
+      "content": "Tanggung jawab saya adalah membawa tamu kehormatan ke zona pusat, dan memastikan keselamatan tuan muda."
+    },
+    {
+      "id": 38,
+      "model": "경도",
+      "content": "Memang... secara teknis mungkin untuk mencapai kediaman keluarga sebelum <ruby=Malam di Belakangan>the Night in the Backstreets</ruby> dimulai. <i>Secara teknis</i>."
+    },
+    {
+      "id": 39,
+      "model": "오티스",
+      "content": "... Hm."
+    },
+    {
+      "id": 40,
+      "model": "경도",
+      "content": "Namun! Tidak boleh ada satu pun bahaya sekecil apa pun yang menimpa tuan muda! Misi yang telah diberikan dengan begitu murah hati kepada pelayan rendah ini bukanlah untuk memandu tuan muda dengan terburu-buru, tetapi untuk memandunya dengan keselamatan maksimal!"
+    },
+    {
+      "id": 41,
+      "model": "오티스",
+      "content": "Oho!"
+    },
+    {
+      "id": 42,
+      "model": "경도",
+      "content": "Dikatakan bahwa mereka yang terlibat dalam strategi dan rencana harus tetap waspada agar tidak kehilangan tujuan mereka; dengan keras kepala terus maju menuju kediaman keluarga tanpa intelijen yang diperlukan untuk melihat kapan gerombolan penyerang ini akan berakhir, sama saja dengan salah memprioritaskan perjalanan daripada tujuan."
+    },
+    {
+      "id": 43,
+      "model": "오티스",
+      "content": "Kamu... oh, kamu...!"
+    },
+    {
+      "id": 44,
+      "model": "오티스",
+      "content": "Luar biasa. Sungguh mengesankan. Anda memiliki semua kualitas seseorang yang akan saya percayai dengan nyawa saya saat merancang strategi. Ini adalah sikap yang paling tepat bagi mereka yang benar-benar menginginkan yang terbaik bagi orang yang mereka layani."
+    },
+    {
+      "id": 45,
+      "model": "이스마엘",
+      "content": "Benarkah? Kamu benareran... mulai setuju dengannya tiba-tiba?"
+    },
+    {
+      "id": 46,
+      "model": "오티스",
+      "content": "Saya telah salah memahami niat anda, sungguh."
+    },
+    {
+      "id": 47,
+      "model": "경도",
+      "content": "... Hm."
+    },
+    {
+      "id": 48,
+      "model": "오티스",
+      "content": "Mereka memicu amarah saya dengan membandingkan beberapa kata-kata pilihan anda dengan kata-kata saya sendiri..."
+    },
+    {
+      "id": 49,
+      "model": "경도",
+      "content": "... Mmhmm!"
+    },
+    {
+      "id": 50,
+      "model": "오티스",
+      "content": "... namun sekarang, mata saya telah terbuka terhadap loyalitas jujur yang ada di dalam hati anda!"
+    },
+    {
+      "id": 51,
+      "model": "경도",
+      "content": "HA HA HA! Pelayan rendah ini bahkan tidak membayangkan dalam mimpi terliarnya bahwa akan ada seseorang yang memahami kedalaman loyalitasnya. Tampaknya tuan muda pasti telah mendapatkan mata untuk sekutu dan pertemanan; ini adalah penyebab kelegaan yang besar di hati saya."
+    },
+    {
+      "id": 52,
+      "model": "오티스",
+      "content": "HA HA HA! Dengarkan dia! Yang satu ini tahu cara bercanda!"
+    },
+    {
+      "id": 53,
+      "model": "그레고르",
+      "content": "Mereka pada dasarnya sudah jadi sahabat karib sekarang, ya..."
+    },
+    {
+      "id": 54,
+      "model": "오티스",
+      "content": "Ahem. Ahm. Saya mungkin kehilangan ketenangan saya sejenak tadi. Bagaimanapun, pria ini berbicara benar. Sangat mungkin kita akan terpapar serangan serupa jika kita terus bergerak saat ini."
+    },
+    {
+      "id": 55,
+      "model": "단테",
+      "content": "<Dia benar-benar sepenuhnya di pihak pria itu sekarang...>"
+    },
+    {
+      "id": 56,
+      "content": "Saat itulah saya menyadari bahwa dia sedang menatap ke arah saya."
+    },
+    {
+      "id": 57,
+      "content": "Senyum berlebihan itu hampir memudar sepenuhnya dari wajahnya, digantikan dengan ekspresi aneh namun sangat serius. Saat pandangan kami bertemu, dia mengangguk. Dia pasti..."
+    },
+    {
+      "id": 58,
+      "content": "... benar-benar terpengaruh oleh orang itu! Apakah ini caranya berkata \"selamat tinggal, aku akan berhenti dan bekerja dengan orang ini sekarang, terima kasih untuk semuanya\"?!"
+    },
+    {
+      "id": 59,
+      "model": "오티스",
+      "content": "Dan mengenai 'hotel' ini... ini masih jauh lebih baik daripada tidur di barak tenda luar ruangan. Kita seharusnya bisa melepaskan sebagian kelelahan di sini sebelum melanjutkan."
+    },
+    {
+      "id": 60,
+      "model": "이상",
+      "content": "Bukankah anda sebelumnya bersikeras untuk melanjutkan pencarian akomodasi yang lebih baik dengan keinginan yang paling kuat, nona Outis...?"
+    },
+    {
+      "id": 61,
+      "model": "이스마엘",
+      "content": "... Ya, terserah. Kami mengerti maksudmu, ayo masuk."
+    },
+    {
+      "id": 62,
+      "model": "경도",
+      "content": "Whew... diri saya yang paling rendah hati hanya bisa memandang penerimaan murah hati anda terhadap penginapan yang tidak memadai ini dengan rasa terima kasih yang terdalam."
+    },
+    {
+      "id": 63,
+      "content": "Setelah semua pembicaraan serius itu, pria itu tampak lega mendengar keputusan kami saat dia mempertemukan kepalan tangan dan telapak tangannya."
+    },
+    {
+      "id": 64,
+      "model": "이상",
+      "content": "Arsitektur masa kini tidak boleh dinilai dengan terburu-buru hanya dengan pengamatan bagian luarnya; bagian dalamnya mungkin menyimpan sesuatu yang mengejutkan. Jangan khawatir..."
+    },
+    {
+      "id": 65,
+      "content": "Dengan persetujuan Rodion yang \"bukankah itu akan menyenangkan~\", kami masuk ke dalam bangunan itu."
+    },
+    {
+      "id": 66,
+      "place": "Lounge Kezhan",
+      "model": "히스클리프",
+      "content": "Ooh...! Ini sebenarnya nggak buruk-buruk amat. Bersih di sini."
+    },
+    {
+      "id": 67,
+      "model": "이상",
+      "content": "Tempat ini menyajikan estetika yang cukup klasik. Lukisan pemandangan yang berjajar di dinding memberikan suasana yang cukup canggih."
+    },
+    {
+      "id": 68,
+      "model": "단테",
+      "content": "<Dan di dalam jauh lebih luas daripada yang terlihat dari luar. Apa mereka juga menggunakan semacam teknologi perluasan ruang di sini?>"
+    },
+    {
+      "id": 69,
+      "model": "파우스트",
+      "content": "Tidak. Tampaknya bangunan itu hanya terlihat kecil karena kepadatan struktur di dekatnya."
+    },
+    {
+      "id": 70,
+      "model": "경도",
+      "content": "Baiklah, pintu sekarang sudah terbuka. Jika kehadiran saya diperlukan, saya akan berada di gudang kecil di sebelah bangunan ini. Silakan, berbincanglah dengan bebas."
+    },
+    {
+      "id": 71,
+      "content": "Pria itu tersenyum canggung dan diam-diam meminta diri saat kegembiraan di antara para <ruby=Pendosa>Sinners</ruby> mulai tumbuh..."
+    },
+    {
+      "id": 72,
+      "model": "홍루",
+      "content": "……."
+    },
+    {
+      "id": 73,
+      "content": "...Sementara itu, Hong Lu berdiri cukup jauh dari pemandu, diam-diam memperhatikan wajahnya saat dia pergi."
+    },
+    {
+      "id": 74,
+      "content": "Ekspresinya samar, seolah dia sedang menatap awan, bunga... atau bahkan angin."
+    },
+    {
+      "id": 75,
+      "content": "Namun tidak ada cahaya di mata itu—seolah-olah mereka melihat awan badai, ladang bunga layu yang sunyi, dan angin kencang yang menderu dan merusak..."
+    },
+    {
+      "id": 76,
+      "model": "단테",
+      "content": "<Apa kamu mencurigai sesuatu, Hong Lu?>"
+    },
+    {
+      "id": 77,
+      "content": "Jadi aku memutuskan untuk bertanya."
+    },
+    {
+      "id": 78,
+      "model": "홍루",
+      "content": "Belum, kurasa tidak."
+    },
+    {
+      "id": 79,
+      "model": "단테",
+      "content": "<... Eh?>"
+    },
+    {
+      "id": 80,
+      "content": "... Belum?"
+    },
+    {
+      "id": 81,
+      "teller": "???",
+      "title": "???",
+      "content": "Jadi, kakak. Sesuatu terasa aneh bagimu juga, ya?"
+    },
+    {
+      "id": 82,
+      "content": "Saat itulah kami menangkap suara yang familiar."
+    },
+    {
+      "id": 83,
+      "model": "홍루",
+      "content": "Wow, Xichun! Itu kamu! Dan cepat juga!"
+    },
+    {
+      "id": 84,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Ya, aku sudah bilang padamu bahwa aku punya firasat kita akan segera bertemu lagi."
+    },
+    {
+      "id": 85,
+      "model": "웨이",
+      "title": "Keluarga Jia",
+      "content": "Apakah anda baik-baik saja, tuan muda?"
+    },
+    {
+      "id": 86,
+      "model": "홍루",
+      "content": "Aku sangat senang melihatmu baik-baik saja, Tuan Wei. Oh, tunggu! Jangan bilang kamu menginap di sini juga, Xichun?"
+    },
+    {
+      "id": 87,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Aku biasanya tidak akan pernah menginjakkan kaki di tempat seperti ini, tapi..."
+    },
+    {
+      "id": 88,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Aku menghadapi semacam konstruksi skala besar dalam perjalananku kembali ke kediaman keluarga. Harus masuk melalui <ruby=Belakangan>Backstreets</ruby>."
+    },
+    {
+      "id": 89,
+      "content": "... Jadi kami bukan satu-satunya yang terganggu oleh lokasi konstruksi acak itu."
+    },
+    {
+      "id": 90,
+      "model": "돈키호테",
+      "content": "Uoooh! S-salam untukmu!"
+    },
+    {
+      "id": 91,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Gah..."
+    },
+    {
+      "id": 92,
+      "content": "Tampang percaya diri di wajah Xichun segera digantikan dengan kewaspadaan."
+    },
+    {
+      "id": 93,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "A-apa dia kehilangan ingatannya lagi? Apakah dia bersamamu?"
+    },
+    {
+      "id": 94,
+      "model": "홍루",
+      "content": "Tidak. Don Quixote sama seperti biasanya."
+    },
+    {
+      "id": 95,
+      "model": "돈키호테",
+      "content": "Ahem, ahem-hem..."
+    },
+    {
+      "id": 96,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Tapi... dia terlihat sangat bodoh..."
+    },
+    {
+      "id": 97,
+      "model": "돈키호테",
+      "content": "Nak Xi-chun? B-baiklah, maukah engkau menemaniku ke ruang tunggu sejenak, agar kita dapat berbagi waktu untuk 'berbincang'..."
+    },
+    {
+      "id": 98,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "……."
+    },
+    {
+      "id": 99,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Oh. Ya, sebenarnya. Ayo lakukan itu. Tunggu sebentar."
+    },
+    {
+      "id": 100,
+      "content": "Jia Xichun tampak ragu sejenak, menatap Don Quixote setelah mendengar bahwa ingatannya utuh..."
+    },
+    {
+      "id": 101,
+      "content": "... sebelum berjalan tepat ke arahnya."
+    },
+    {
+      "id": 102,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Aku suka ide itu. Ayo? Wei, kenapa kamu tidak pergi mencari kamar untukku menginap sementara aku membicarakan beberapa hal dengannya?"
+    },
+    {
+      "id": 103,
+      "model": "돈키호테",
+      "content": "Uh... uhh?"
+    },
+    {
+      "id": 104,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Apa? Kamu ingin 'berbincang', kan?"
+    },
+    {
+      "id": 105,
+      "model": "돈키호테",
+      "content": "I-itu, uh... M-Manajer Terhormat...!"
+    },
+    {
+      "id": 106,
+      "model": "파우스트",
+      "content": "... Kehilangan personel penting bisa menjadi penyebab tindakan disipliner, Dante."
+    },
+    {
+      "id": 107,
+      "model": "단테",
+      "content": "<Tidak ada yang salah dengan membuat teman, kan?>"
+    },
+    {
+      "id": 108,
+      "model": "홍루",
+      "content": "Hehe, sepertinya Xichun benar-benar menyukai Don Quixote jika dia cukup nyaman untuk menggodanya seperti itu."
+    },
+    {
+      "id": 109,
+      "model": "이스마엘",
+      "content": "Bukan Don Quixote yang dia sukai. Dia jelas hanya menginginkan kekuatan Don Quixote yang dia lihat saat itu..."
+    },
+    {
+      "id": 110,
+      "model": "웨이",
+      "title": "Keluarga Jia",
+      "content": "Nona, ini bukanlah tempat yang tepat untuk—"
+    },
+    {
+      "id": 111,
+      "model": "가시춘",
+      "title": "Keluarga Jia",
+      "content": "Baiklah... aku akan mencoba lagi nanti. Pergilah tidur. Aku juga akan masuk."
+    },
+    {
+      "id": 112,
+      "content": "Xichun menghela napas dengan sedikit kekecewaan sebelum menuju ke lobi..."
+    },
+    {
+      "id": 113,
+      "model": "단테",
+      "content": "<Baiklah... ayo kita semua masuk sekarang.>"
+    },
+    {
+      "id": 114,
+      "content": "Jadi aku dan para <ruby=Pendosa>Sinners</ruby> lainnya mengikutinya ke penginapan."
+    }
+  ]
+}

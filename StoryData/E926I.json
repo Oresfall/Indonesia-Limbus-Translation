@@ -1,0 +1,432 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Mirror Dungeon of the Fathoms",
+      "model": "뉴김삿갓",
+      "content": "Dia tidak sekuat yang kuingat—namun karena terbebani oleh <ruby=Cap>Brand</ruby> ini, aku tidak terlalu jauh di depan atau di belakang."
+    },
+    {
+      "id": 1,
+      "model": "이스마엘다침",
+      "content": "Mhm... Kurasa kamu melakukannya dengan cukup baik."
+    },
+    {
+      "id": 2,
+      "model": "돈키호테다침",
+      "content": "Sungguh, mereka tampak seimbang. Namun..."
+    },
+    {
+      "id": 3,
+      "model": "뉴료슈담배다침",
+      "content": "*fuuh* Dia mengayunkan pedang itu seperti sedang mencoba membuat dirinya terbunuh."
+    },
+    {
+      "id": 4,
+      "model": "뉴료슈담배다침",
+      "content": "Ilmu pedang itu jauh di bawah kemampuannya... Dia mencari ajalnya di sini ya?"
+    },
+    {
+      "id": 5,
+      "model": "임경업",
+      "content": "Bisakah kamu berpaling dalam sebuah duel?!"
+    },
+    {
+      "id": 6,
+      "model": "뉴김삿갓",
+      "content": "...!"
+    },
+    {
+      "id": 7,
+      "model": "임경업",
+      "content": "... Apa yang kamu lakukan? Kau lebih memilih mengunci pedangmu dengan pedangku daripada menangkisnya?"
+    },
+    {
+      "id": 8,
+      "model": "뉴김삿갓",
+      "content": "Tidak bisa disebut pertarungan pedang yang layak tanpa adanya kuncian bilah, kan?"
+    },
+    {
+      "id": 9,
+      "model": "뉴김삿갓",
+      "content": "Duel antara Mentor sebuah Sindikat dan Komisaris Militer S Corp. berlangsung sengit—serangan demi serangan, bentrokan kedua prajurit itu akhirnya mengunci bilah pedang mereka dalam kontes kekuatan sebelum berakhir dalam pertarungan final yang fatal... Saat debu mereda, sang Mentor terbaring di pasir, tewas."
+    },
+    {
+      "id": 10,
+      "model": "임경업",
+      "content": "... Jika itu yang kau inginkan, akan ku kabulkan."
+    },
+    {
+      "id": 11,
+      "model": "뉴김삿갓",
+      "content": "... Bagus. Mari kita selesaikan ini..."
+    },
+    {
+      "id": 12,
+      "model": "뉴앵두",
+      "content": "*haah*..."
+    },
+    {
+      "id": 14,
+      "content": "Tepat saat <ruby=Kim Bertopi Bambu>Bamboo-hatted Kim</ruby> dan Im Gyeong-eop bersiap untuk pertarungan terakhir mereka, Aeng-du melompat ke antara mereka."
+    },
+    {
+      "id": 13,
+      "model": "뉴김삿갓",
+      "content": "Agh...! Aeng-du?!"
+    },
+    {
+      "id": 15,
+      "model": "뉴앵두",
+      "content": "Apa kamu benar-benar begitu malu hingga lebih memilih kematian daripada kehidupan, Mentor?"
+    },
+    {
+      "id": 16,
+      "model": "뉴앵두",
+      "content": "Apakah kamu begitu takut untuk hidup hingga lebih memilih mati?"
+    },
+    {
+      "id": 17,
+      "model": "뉴김삿갓",
+      "content": "......"
+    },
+    {
+      "id": 18,
+      "model": "뉴김삿갓",
+      "content": "... Ya, benar. Aku takut. Aku takut akan kelancangan diriku sendiri untuk menjalani hari-hariku seolah-olah aku tidak gagal dalam segala hal dan kepada semua orang yang malang karena menaruh kepercayaan mereka kepadaku—misiku, kehormatanku, rekan-rekanku—seolah-olah jalanku tidak dihantui oleh hantu, seolah-olah aku bisa berdiri tanpa rasa malu di bawah mata langit yang mengawasi."
+    },
+    {
+      "id": 19,
+      "model": "뉴김삿갓",
+      "content": "Apa yang bahkan telah kulakukan dengan kehidupan yang diberikan kepadaku? Buta terhadap realitas tanah airku, aku melayani seorang tuan yang memilih politik daripada kesetiaan dan keadilan. Aku menebas rekan-rekanku sendiri yang <i>memilih</i> untuk memercayai orang bodoh sepertiku."
+    },
+    {
+      "id": 20,
+      "model": "뉴김삿갓",
+      "content": "Aku berjalan sepanjang hidupku mengikuti arus yang membawa, dan ketika aku akhirnya berniat untuk melihat ke belakang, yang kulihat hanyalah jejak merah darah di setiap tempat yang telah kulalui. Bukankah sudah waktunya aku mengakui bahwa permainan ini tidak bisa dimenangkan, bahwa—"
+    },
+    {
+      "id": 21,
+      "model": "뉴앵두",
+      "content": "Mentor. Kelemahan dalam kekuatanmu telah menggagalkan misi anda."
+    },
+    {
+      "id": 22,
+      "model": "뉴김삿갓",
+      "content": "......."
+    },
+    {
+      "id": 23,
+      "model": "뉴앵두",
+      "content": "Kelemahan dalam posisimu lah yang telah menggagalkan kehormatanmu. Dan kelemahan dalam hatimu telah menjadi bilah kejam yang memotong rekan-rekanmu."
+    },
+    {
+      "id": 24,
+      "model": "뉴김삿갓",
+      "content": "... Aeng-du? Aku mengira kamu di sini untuk membujukku agar tetap hidup. Namun kata-katamu begitu menyakitkan."
+    },
+    {
+      "id": 25,
+      "model": "뉴앵두",
+      "content": "Kelemahan mana lagi kali ini, hingga anda membuang keyakinan dan hidupmu sendiri?"
+    },
+    {
+      "id": 26,
+      "model": "뉴앵두",
+      "content": "Kelemahan lain apa yang akan kamu gunakan sebagai alasan hari ini?"
+    },
+    {
+      "id": 27,
+      "model": "뉴앵두",
+      "content": "Berhentilah mencoba memikul tanggung jawab yang tidak diminta darimu. Blade Lineage tidak pernah tentang tanggung jawab, juga bukan tentang <i>dirimu</i>, Mentor. Atau apakah rasa bersalahmu yang berlebihan membantu anda melebih-lebihkan pentingnya dirimu sendiri?"
+    },
+    {
+      "id": 28,
+      "model": "뉴앵두",
+      "content": "Apa pepatah itu lagi, \"rekan pelancong di perahu yang sama akan saling membantu\"? Tidak ada satu jiwapun yang menuntut hal itu darimu."
+    },
+    {
+      "id": 29,
+      "model": "뉴김삿갓",
+      "content": "B-bicara tentang menendang orang yang sedang jatuh..."
+    },
+    {
+      "id": 30,
+      "model": "뉴앵두",
+      "content": "Dan aku sudah muak dengan gurauan sembronomu itu! Kami semua sudah muak! Apa kamu benar-benar percaya bahwa tidak ada satupun dari kami yang menyadari fakta bahwa semua kesantaian yang kamu lakukan adalah cara untuk membebaskan diri dari beban yang telah anda tanggung di pundakmu sendiri?"
+    },
+    {
+      "id": 31,
+      "model": "뉴앵두",
+      "content": "Tidak ada dari kami yang pernah menuntut pencapaian yang mustahil darimu. Apa yang selalu kamu katakan untuk menggambarkan diri anda sendiri?"
+    },
+    {
+      "id": 32,
+      "model": "뉴앵두",
+      "content": "Bahwa anda \"hanyalah sebilah pisau penjagal yang tidak mengayunkan dirinya sendiri, sebuah alat yang diayunkan oleh tangan-tangan yang rela.\""
+    },
+    {
+      "id": 33,
+      "model": "뉴앵두",
+      "content": "Mengapa, Mentor, aku tidak tahu rasa malu atau tanggung jawab apa yang dimiliki oleh sebuah alat belaka, apa anda tahu? Karena aku gagal melihatnya."
+    },
+    {
+      "id": 34,
+      "model": "뉴김삿갓",
+      "content": "......."
+    },
+    {
+      "id": 35,
+      "model": "뉴앵두",
+      "content": "Jika rasa malu itu masih belum hilang..."
+    },
+    {
+      "id": 36,
+      "model": "뉴앵두",
+      "content": "... maka tutupilah wajahmu itu dengan topi bambu anda, dan hiduplah terus."
+    },
+    {
+      "id": 37,
+      "model": "뉴앵두",
+      "content": "Hiduplah terus, agar anda dapat membayar hutang-hutangmu."
+    },
+    {
+      "id": 38,
+      "model": "뉴김삿갓",
+      "content": "......."
+    },
+    {
+      "id": 39,
+      "model": "뉴김삿갓",
+      "content": "... \"Kehabisan bilah, kehabisan panah.\" (刀折矢盡)"
+    },
+    {
+      "id": 40,
+      "model": "뉴김삿갓",
+      "content": "Bahkan hati yang mencari kematian terbaring kalah di kakimu; tidak ada batu yang tersisa untuk siasatku berikutnya."
+    },
+    {
+      "id": 41,
+      "model": "뉴김삿갓",
+      "content": "Tidak ada... apa-apa lagi."
+    },
+    {
+      "id": 42,
+      "model": "뉴앵두",
+      "content": "*haah*..."
+    },
+    {
+      "id": 43,
+      "model": "뉴김삿갓",
+      "content": "Memang. Mungkin ada benarnya kata-katamu—bahwa aku harus mundur dari permainan batu yang konyol ini dan menjadi iblis bilah."
+    },
+    {
+      "id": 44,
+      "model": "뉴앵두",
+      "content": "Mentor...? Itu... bukan apa yang aku katakan..."
+    },
+    {
+      "id": 45,
+      "model": "뉴김삿갓",
+      "content": "... Menarik. Dari mana kamu mendengar puisi itu?"
+    },
+    {
+      "id": 46,
+      "model": "뉴김삿갓",
+      "content": "Ya, ketika dibalik, topi bambu itu seperti kapal yang kosong."
+    },
+    {
+      "id": 47,
+      "content": "Aeng-du dan Im Gyeong-eop terlempar menjauh dari <ruby=Kim Bertopi Bambu>Bamboo-hatted Kim</ruby> seolah-olah terpental oleh kekuatan yang tak terlihat."
+    },
+    {
+      "id": 48,
+      "content": "Kim mengangkat pandangannya untuk menatap udara kosong seolah-olah ada seseorang di sana, tawa hampa lolos dari bibirnya."
+    },
+    {
+      "id": 49,
+      "content": "Kita tahu dengan siapa dia sedang berbicara."
+    },
+    {
+      "id": 50,
+      "model": "단테",
+      "content": "<Itu suara dia...>"
+    },
+    {
+      "id": 51,
+      "model": "뉴김삿갓",
+      "content": "Tapi langkah terakhirmu bukanlah langkah yang baik. Memang, aku ingin menjadi sebilah pedang—dan apa yang kamu lakukan? Menempaku menjadi pedang tanpa pandang bulu yang menebas buta ke arah teman dan musuh sekaligus. Tampaknya, dalam kegembiraanmu, kamu telah menyudutkan dirimu sendiri dengan langkah terakhir itu."
+    },
+    {
+      "id": 52,
+      "model": "뉴김삿갓",
+      "content": "Nah, karena sepertinya aku memiliki kesempatan untuk merunut kembali langkah masa lalu kita, izinkan aku mencoba sesuatu yang berbeda kali ini."
+    },
+    {
+      "id": 53,
+      "model": "뉴김삿갓",
+      "content": "Ah, jangan terlalu jengkel dengan ronde ini—seperti yang kamu katakan, kita tidak pernah tahu apa yang akan dibawa oleh permainan berikutnya."
+    },
+    {
+      "id": 54,
+      "model": "뉴김삿갓",
+      "content": "Aku menghargai dan akan menyimpan baik-baik bagian lain dari nasihatmu."
+    },
+    {
+      "id": 55,
+      "model": "뉴김삿갓",
+      "content": "Tapi... mari kita bermain dengan aturanku untuk permainan malam ini."
+    },
+    {
+      "id": 56,
+      "model": "히스클리프다침2",
+      "content": "... Ada yang beda kali ini, kan?"
+    },
+    {
+      "id": 57,
+      "model": "히스클리프다침2",
+      "content": "Dia gak ngalamin Distorsi. Kayaknya itu..."
+    },
+    {
+      "id": 58,
+      "model": "이상다침",
+      "content": "... Sebuah <ruby=pencaran>effloresced</ruby>, barangkali."
+    },
+    {
+      "id": 59,
+      "model": "뉴김삿갓",
+      "content": "Tidak ada yang pasti, memang... Namun aku percaya bahwa kata-kata dari pengikut terakhirku yang tersisa juga telah sampai ke telingamu, hm?"
+    },
+    {
+      "id": 60,
+      "model": "뉴김삿갓",
+      "content": "Aku hanyalah sebuah alat yang diayunkan oleh tangan-tangan yang rela. Tidak ada satupun dalam hidupku yang pernah pasti."
+    },
+    {
+      "id": 61,
+      "model": "뉴김삿갓",
+      "content": "Aku tidak tahu apakah langkah ini yang akan memperkuat kekalahanku, namun aku tetap menginginkannya menjadi batu kemenangan."
+    },
+    {
+      "id": 62,
+      "model": "뉴김삿갓",
+      "content": "... Terima kasih. Aku akan menerima dorongan apapun yang kubisa."
+    },
+    {
+      "id": 63,
+      "content": "Tekanan aneh dan tak kasatmata itu menghilang, dan wanita berbaju zirah, Im Gyeong-eop, menyesuaikan kembali genggamannya pada pedang."
+    },
+    {
+      "id": 64,
+      "content": "Kim berbalik untuk melihatnya, dan aku melihat bahwa bayangan berat sepertinya telah terangkat dari wajahnya, digantikan oleh campuran rasa lega dan tekad."
+    },
+    {
+      "id": 65,
+      "model": "임경업",
+      "content": "......"
+    },
+    {
+      "id": 66,
+      "model": "뉴김삿갓안광",
+      "content": "... Agak memalukan untuk mengubah pendirianku sekarang, tapi..."
+    },
+    {
+      "id": 67,
+      "model": "뉴김삿갓안광",
+      "content": "... sekarang, aku bertarung untuk hidup."
+    },
+    {
+      "id": 68,
+      "model": "뉴김삿갓안광",
+      "content": "Dan aku berasumsi kamu tidak keberatan dengan hal itu?"
+    },
+    {
+      "id": 69,
+      "model": "임경업",
+      "content": "... Tentu saja."
+    },
+    {
+      "id": 70
+    },
+    {
+      "id": 71,
+      "place": -1,
+      "model": "뉴김삿갓",
+      "content": "Untuk bersembunyi dari tatapan langit, topi ini kukenakan;"
+    },
+    {
+      "id": 72,
+      "model": "뉴김삿갓",
+      "content": "Sebuah perahu kosong, ia membawa teman-temanku bersama."
+    },
+    {
+      "id": 73,
+      "model": "뉴김삿갓",
+      "content": "Terselubung bambu, kami hanyut dari pantai ke pantai;"
+    },
+    {
+      "id": 74,
+      "model": "뉴김삿갓",
+      "content": "Dengan anggur, kukenakan topiku untuk menyaksikan bunga-bunga berkerumun,"
+    },
+    {
+      "id": 75,
+      "model": "뉴김삿갓",
+      "content": "Dalam kegembiraan, kulepas kain kafan untuk memuja rembulan."
+    },
+    {
+      "id": 76
+    },
+    {
+      "id": 77,
+      "model": "뉴김삿갓",
+      "content": "Maka dengan topi bambu ini untuk menyelubungi keningku,"
+    },
+    {
+      "id": 78,
+      "model": "뉴김삿갓",
+      "content": "Meski angin dan hujan mengamuk, aku tidak akan merasa kesakitan."
+    },
+    {
+      "id": 79,
+      "model": "임경업",
+      "content": "......."
+    },
+    {
+      "id": 80,
+      "model": "임경업",
+      "content": "Mendekatlah kepadaku, wahai orang bertopi bambu; sebutkan namamu, karena menurutku pakaianmu meragukan karakternya."
+    },
+    {
+      "id": 81,
+      "model": "뉴김삿갓",
+      "content": "Akulah dia yang telah membimbing <ruby=lineage>silsilah</ruby> dari <ruby=blade>bilah</ruby> menuju ajalnya yang prematur;"
+    },
+    {
+      "id": 82,
+      "model": "뉴김삿갓",
+      "content": "Akulah dia yang telah berusaha membawa keselamatan bagi mereka yang tertindas, namun tanpa hasil."
+    },
+    {
+      "id": 83,
+      "model": "뉴김삿갓",
+      "content": "Disebut apa seorang pria yang gagal membebaskan dirinya dari dunia? Bagaimana menamai seorang pria yang gagal memikul beban dunia? Tidak ada yang seperti itu..."
+    },
+    {
+      "id": 84
+    },
+    {
+      "id": 85,
+      "model": "뉴김삿갓",
+      "content": "Maka panggil aku... <ruby=Kim Bertopi Bambu>Bamboo-hatted Kim</ruby>."
+    },
+    {
+      "id": 86,
+      "model": "뉴김삿갓",
+      "content": "<ruby=Kim Bertopi Bambu>Bamboo-hatted Kim</ruby>, si bajingan pengkhianat."
+    },
+    {
+      "id": 87
+    }
+  ]
+}

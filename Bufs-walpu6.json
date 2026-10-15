@@ -1,0 +1,169 @@
+{
+  "dataList": [
+    {
+      "id": "ColdBlackTear",
+      "name": "Cold, Black Tears",
+      "desc": "- Stack Maks: 5\n- Awal Giliran: peroleh 1 Clash Power Down\n- Jika unit ini diserang while it has efek ini, lose (Stack x 2) SP (sekali per giliran; tidak mengaktifkan when hit sebanyak a Coin Retak)\n- Jika Queen of Hatred reduced efek ini, pulihkan 5 SP\n- Efek ini tidak bisa kurangi SP unit ini di bawah -40",
+      "summary": ""
+    },
+    {
+      "id": "HelplessTear",
+      "name": "Helpless Tears",
+      "desc": "- Stack Maks: 1\n- Peroleh 3 Offense Levels\n- Lose 6 Defense Levels\n- Semua Skill peroleh +1 Atk Weight\n- Semua Skill menjadi Unbreakable Coin\n- Beri +1 tambahan Sinking Potency dan Count",
+      "summary": ""
+    },
+    {
+      "id": "WornOutKnight",
+      "name": "Weathered Knight",
+      "desc": "Terima +100% damage giliran ini",
+      "summary": "",
+      "flavor": "<color=#2e72b9>The knight who wanted to redeem herself sebanyak saving others was now dishonorably called the Knight of Despair; forgotten dari the people's memory, just like the others.</color>"
+    },
+    {
+      "id": "SignOfDespair",
+      "name": "Blessing of Despair",
+      "desc": "Akhir Serangan: Jika terdapat target without Cold, Black Tears, removes efek ini giliran berikutnya\n\nPeroleh 1 Clash Power Up dan 1 Damage Up\nInflict +1 tambahan Cold, Black Tears",
+      "summary": ""
+    },
+    {
+      "id": "CollapsedPride",
+      "name": "Crumbled Pride",
+      "desc": "Used for \"Weathered Knight\" Passive",
+      "summary": "",
+      "flavor": "<color=#2e72b9>Semua that remains is the hollow pride of a weathered knight.</color>"
+    },
+    {
+      "id": "FailedToAssistQueen",
+      "name": "Apa gunanya... Diriku...?",
+      "desc": "- Stack Maks: 1\n- Kehilangan 3 Offense Levels\n- Kehilangan 3 Defense Levels",
+      "summary": ""
+    },
+    {
+      "id": "UsedTooMuchPower",
+      "name": "I used too much power",
+      "desc": "- Stack Maks: 1\n- Akhir Giliran: kabur dari Pertempuran",
+      "summary": "",
+      "flavor": "<color=#ff3d8f>Exhausted dan unable to move.</color>"
+    },
+    {
+      "id": "ChasingArcana",
+      "name": "Chanting - Arcana Slave",
+      "desc": "- Stack Maks: 3\n- Peroleh 1 pada Awal Giliran\n- Pada 3 Stack, peroleh 20 Speed dan menggunakan ARCANA SLAVE giliran berikutnya",
+      "summary": ""
+    },
+    {
+      "id": "PowerOfLoveAndJustice",
+      "name": "Love/Justice",
+      "desc": "- Untuk setiap Stack, beri +1 tambahan Rupture Potency",
+      "summary": ""
+    },
+    {
+      "id": "CentralCommandTeamCaptain",
+      "name": "Central Command Team Captain",
+      "desc": "- Skill Slot +1\n- Modify Skill pool: Peroleh 1 gunakan of Skill 3, but kehilangan 1 gunakan of Skill 1\n- Menambah jumlah dari Burn, Bleed, Rupture, Sinking, atau Tremor Potency inflicted dengan Skill sebanyak +1 (termasuk 'Unique Status Effects')\n- Menambah jumlah dari Poise Potency atau Count Charge(termasuk 'Charge Unik') diperoleh dari Skill sebanyak +1\n- Instead of Panicking atau Corroding, reset SP ke 0 giliran berikutnya (sekali per Pertempuran)\n- Skill Base Attack with 2+ Atk Weight beri +30% damage\n- Saat Membunuh, Peroleh +2 E.G.O resource to the Affinity of Skill that yang kalah musuh; peroleh +1 E.G.O resource to rest of the Affinities",
+      "summary": ""
+    },
+    {
+      "id": "BestWelfareTeamMember",
+      "name": "Welfare Team Model Employee",
+      "desc": "- Ketika memberikan Burn, Bleed, Rupture, Sinking, dan Tremor Potency with unit ini's Skill, beri +1 tambahan dari setiap (termasuk 'Unique Status Effects')\n- Instead of Panicking atau Corroding, reset SP unit ini menjadi 0 giliran berikutnya (sekali per Pertempuran)\n- Jika efek ini is applied to Lobotomy E.G.O::Sword Sharpened with Tears Rodion, peroleh 1 Pierce DMG Naik pada setiap Awal Giliran",
+      "summary": ""
+    },
+    {
+      "id": "ChasingArcanahard",
+      "name": "Chanting - Arcana Slave",
+      "desc": "- Stack Maks: 3\n- Peroleh 1 pada Awal Giliran\n- Pada 3 Stack: giliran berikutnya, peroleh 20 Bind dan gunakan ARCANA SLAVE",
+      "summary": ""
+    },
+    {
+      "id": "HystericGauge",
+      "name": "Hysteria",
+      "desc": "- Stack Dasar: 0\n- Stack Maks: 3\n- Pada Akhir Giliran...\n· Pada 0 atau lebih tinggi SP, kehilangan 1 Stack\n· Pada kurang dari 0 SP, peroleh 1 Stack",
+      "summary": ""
+    },
+    {
+      "id": "MagicalGirlAppear",
+      "name": "Here Comes Magical Girl!",
+      "desc": "- Untuk giliran ini, unit ini menggunakan Plus Coin Skill Base Attack\n\n- Skill Base Attack beri +3% damage untuk setiap Love/Hate pada diri sendiri (maks 15%)",
+      "summary": ""
+    },
+    {
+      "id": "NoVillain",
+      "name": "Regressive Transformation - Reversed",
+      "desc": "- Untuk giliran ini, unit ini menggunakan Minus Coin Skill Base Attack",
+      "summary": ""
+    },
+    {
+      "id": "VillainMark",
+      "name": "Mark of Villainy",
+      "desc": "- Terima +10% damage dari Don Quixote\n\n- Applies hanya to the first target to menerima efek in each giliran",
+      "summary": ""
+    },
+    {
+      "id": "ArcanaQueenOfHate",
+      "name": "Magical Arcana",
+      "desc": "- Stack Maks: 3\n- Skill Base Attack beri +(Stack x 5)% damage\n- Akhir Giliran: Pada 3 Stack dan with -25 atau lebih tinggi SP, ubah SP ke -25",
+      "summary": ""
+    },
+    {
+      "id": "ThePowerOfLoveAndHate",
+      "name": "Love/Hate",
+      "desc": "- Count Maks: 20\n- Charge Unik\n- Resource yang digunakan sebanyak certain skills for efek tambahan. Count-nya bisa naik hingga 20. Count lowers sebanyak 1 at the end dari setiap giliran.\n(Interacts the same way as normal Charge does to efek that naikkan atau kurangi Charge Potency/Count)\n\n<color=#1aece7>Total Count dikonsumsi: {2}</color>",
+      "summary": ""
+    },
+    {
+      "id": "MagicalGirlResponse",
+      "name": "Magical Girl's Chant",
+      "desc": "- Stack Maks: 2\n- Ketika memperoleh efek ini, peroleh 1 Attack Power Up dan 1 Damage Up\n- This unit's Skill Attack yang memperoleh atau konsumsi Count Charge peroleh Final Power +1 dan beri +10% damage\n- Reduced sebanyak 1 pada Akhir Giliran",
+      "summary": ""
+    },
+    {
+      "id": "BlessingAlly",
+      "name": "Blessing",
+      "desc": "- Awal Giliran: peroleh 1 Protecting Sword untuk setiap 8 SP (maks 5)\n- Ketika Clash ends, beri 2 Sinking (sekali per giliran)\n- Ketika diserang, beri 2 Sinking on the penyerang (sekali per giliran)\n- Untuk setiap 20 SP, beri +1 tambahan Sinking Potency dengan efek di atas (maks 2)\n- Replace unit ini's Base Skill with Plus Coin Skill",
+      "summary": ""
+    },
+    {
+      "id": "ProtectiveSword",
+      "name": "Protecting Sword",
+      "desc": "- Awal Giliran: peroleh 1 Defense Level Up untuk setiap Stack (maks 5)\n- Awal Giliran: +(Stack x 3) Aggro to the leftmost Skill Slot on the Dashboard (maks 15)\n- Stack Maks: 5\n- Kadaluarsa pada Akhir Giliran",
+      "summary": ""
+    },
+    {
+      "id": "DespairAlly",
+      "name": "Despair",
+      "desc": "- Awal Giliran: peroleh 1 Piercing Sword untuk setiap -8 SP (maks 5)\n- Ketika Clash ends, beri +1 Sinking Count (sekali per giliran)\n- Saat Serang dengan first Coin of Skill Base Attack, beri +1 Sinking Count (sekali per giliran)\n- Untuk setiap -20 SP, beri +1 tambahan Sinking Count dengan efek di atas (maks 2)\n- Replace unit ini's Base Skill with Minus Coin Skill",
+      "summary": ""
+    },
+    {
+      "id": "PenetratingSword",
+      "name": "Piercing Sword",
+      "desc": "- Awal Giliran: peroleh 1 Offense Level Up untuk setiap Stack (maks 5)\n- Awal Giliran: -(Stack x 0.15) Aggro ke semua Skill Slots on the Dashboard (maks 0.75)\n- Stack Maks: 5\n- Kadaluarsa pada Akhir Giliran",
+      "summary": ""
+    },
+    {
+      "id": "SwordCutwithTear",
+      "name": "Tear-sharpened",
+      "desc": "- Awal Giliran: peroleh 5 Deep Tears\n· Pada 3 Stack, peroleh tambahan 5 Deep Tears\n- Akhir Giliran: lose (Stack x 15) SP\n- Skill Base Attack beri +(Stack x 10)% damage (maks 30%)\n- Jika unit ini memiliki Blessing, peroleh Clash Power Up sebanyak efek's Stack pada Awal Giliran\n- Jika unit ini memiliki Despair, peroleh Pierce Power Up sebanyak efek's Stack pada Awal Giliran\n- Stack Maks: 3",
+      "summary": ""
+    },
+    {
+      "id": "BlackTearsAlly",
+      "name": "Deep Tears",
+      "desc": "- Charge Unik (fixed Potency)\n- Resource yang digunakan sebanyak certain skills for efek tambahan\n- Stack Maks: 20",
+      "summary": ""
+    },
+    {
+      "id": "KnightBless",
+      "name": "Blessing",
+      "desc": "- Awal Giliran: peroleh 2 Protection\n- Adjust any Attack Type Resistances exceeding 1 menjadi 1 (unless Stagger)",
+      "summary": ""
+    },
+    {
+      "id": "TraumaShield",
+      "name": "Trauma Perisai",
+      "desc": "- Kurangi SP damage dari musuh sebanyak 80%\n- Kurangi Sinking damage diterima sebanyak 80%\n- Reduced sebanyak 1 pada Akhir Giliran",
+      "summary": ""
+    }
+  ]
+}

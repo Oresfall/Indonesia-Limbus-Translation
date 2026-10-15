@@ -1,0 +1,29 @@
+{
+  "dataList": [
+    {
+      "id": 122801,
+      "name": "'O Clock",
+      "desc": "Akhir Giliran: jika unit ini's [LimitedTime] is evenly divisible sebanyak 60, peroleh 2 [SlashDamageUp] dan 2 [PenetrateDamageUp] giliran berikutnya"
+    },
+    {
+      "id": 122802,
+      "name": "Remaining Time",
+      "desc": "Jika unit ini is in [TimeAcceleration] state, beri 10% of the damage it dealt Saat Menyerang as bonus damage in Skill's Sin Affinity (2 kali per giliran)"
+    },
+    {
+      "id": 122901,
+      "name": "'O Clock",
+      "desc": "Akhir Giliran: jika unit ini's [LimitedTime], atau the sum of [OwnTime] is evenly divisible sebanyak 60, peroleh 2 [SlashDamageUp] dan 2 [PenetrateDamageUp] giliran berikutnya"
+    },
+    {
+      "id": 122902,
+      "name": "Time Hyperacceleration",
+      "desc": "Jika unit ini is in [EquitableDistribution] state, beri 10% of the damage it dealt Saat Menyerang as bonus damage in Skill's Sin Affinity (2 kali per giliran)"
+    },
+    {
+      "id": 123001,
+      "name": "Time Hyperacceleration",
+      "desc": "Akhir Giliran: jika unit ini is alive, beri 1 [Protection] giliran berikutnya to a acak Bagian on The Time Ripper."
+    }
+  ]
+}

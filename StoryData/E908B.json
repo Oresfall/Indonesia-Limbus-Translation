@@ -1,0 +1,1041 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Koridor Nursefather Middle",
+      "model": "앨런",
+      "content": "Oke! Dan itu mengakhiri pembahasan tentang Koridor Middle."
+    },
+    {
+      "id": 1,
+      "model": "앨런",
+      "content": "Berkat kalian semua, kami berhasil memangkas beban kerja pencatatan pintu sebesar 80%! Aku sangat menghargai kalian yang berusaha lebih untuk memeriksa setiap pintu juga. Membuat hidupku jauh lebih mudah."
+    },
+    {
+      "id": 2,
+      "model": "오티스",
+      "content": "Ini semua berkat penyusunan strategi yang luar biasa dari Manajer."
+    },
+    {
+      "id": 3,
+      "model": "앨런",
+      "content": "Berikutnya, Koridor Thumb. ... Tapi kami sebenarnya menemukan banyak intel yang tergeletak di sana, jadi kami hanya butuh kalian memeriksa beberapa pintu di ruang bawah tanahnya."
+    },
+    {
+      "id": 4,
+      "model": "단테",
+      "content": "<Intel...?>"
+    },
+    {
+      "id": 5,
+      "model": "파우스트",
+      "content": "Manajer menyatakan ketertarikan pada \"intel\" yang disebutkan tadi."
+    },
+    {
+      "id": 6,
+      "model": "앨런",
+      "content": "Ah, itu. Di Koridor Thumb, kami menemukan tumpukan kertas yang merinci keluar masuknya anggota Thumb dan perintah yang mereka bawa. Siapa un yang menulis catatan itu telah memperbaruinya dengan rajin—entri terakhir ditulis belum lama ini."
+    },
+    {
+      "id": 7,
+      "model": "앨런",
+      "content": "Meskipun isi catatannya tidak terlalu menarik, itu membantu kami mendapatkan gambaran ke mana arah setiap pintu di Koridor tersebut."
+    },
+    {
+      "id": 8,
+      "model": "료슈",
+      "content": "... Kertas ampas bekas Valencina."
+    },
+    {
+      "id": 9,
+      "model": "료슈",
+      "content": "Dia selalu ngurusin hal ga berguna itu sepanjang waktu? Hah."
+    },
+    {
+      "id": 10,
+      "model": "단테",
+      "content": "<Hal tak berguna?>"
+    },
+    {
+      "id": 11,
+      "model": "료슈2",
+      "content": "*huff*... Sisa-sisa dari pencarian putus asanya demi benang yang bisa dipegang."
+    },
+    {
+      "id": 12,
+      "model": "료슈",
+      "content": "Kamu menemukan salah satu penimbunan \"tiket cadangan\" miliknya."
+    },
+    {
+      "id": 13,
+      "model": "앨런",
+      "content": "Aku sudah menandai pintu apa saja yang butuh pengerjaan dengan drone—seharusnya ada sekitar tiga atau empat pintu. Selagi kalian melakukan itu, aku punya beberapa pekerjaan tersisa yang harus diselesaikan di sini, jadi..."
+    },
+    {
+      "id": 14,
+      "content": "Aku telah menyadari hal ini di sepanjang interaksi kami,"
+    },
+    {
+      "id": 15,
+      "content": "tetapi setiap kali ada hal yang tak relevan dengan pekerjaannya muncul, Alan tampaknya punya cara untuk tak mendengar dan mengelak melewatinya seolah-olah dia bahkan tak menganggap apa yang dikatakan."
+    },
+    {
+      "id": 16,
+      "content": "Mengingat percakapan kami dengan Cesara di P Corp. dulu, ketidakpedulian yang sangat tak tahu menahu itu mungkin merupakan salah satu sifat kepribadian yang penting untuk bertahan sebagai karyawan korporat di <ruby=Kota>City</ruby>."
+    },
+    {
+      "id": 17,
+      "model": "파우스트",
+      "content": "Dimengerti. Kami akan menjelajahi area melewati pintu yang ditandai dan kembali ke sini."
+    },
+    {
+      "id": 18,
+      "model": "앨런",
+      "content": "Terima kasih banyak. Kalau begitu..."
+    },
+    {
+      "id": 19,
+      "content": "Dengan Alan yang kembali ke tempat para karyawan Wayfarer Company lainnya berkumpul, kami memutuskan untuk mengikuti Koridor ke kiri."
+    },
+    {
+      "id": 20,
+      "place": "Reruntuhan Koridor Nursefather Thumb",
+      "model": "단테",
+      "content": "<Hei, ada seseorang di dalam sana. Anggota Ring lainnya, mungkin...?>"
+    },
+    {
+      "id": 21,
+      "model": "오티스",
+      "content": "Dilihat dari siluet mereka, kecil kemungkinan mereka adalah anggota Ring."
+    },
+    {
+      "id": 22,
+      "model": "뉴키라",
+      "content": "Ayolah, mbak. Pinggirin badan biar aku bisa lihat."
+    },
+    {
+      "id": 23,
+      "model": "뉴키라",
+      "content": "Uh... Itu Detektif, sama bapak-bapak brewokan yang gak aku kenal, dan... cowok yang kelewat santai itu."
+    },
+    {
+      "id": 24,
+      "content": "Kedengarannya masing-masing seperti Moses, Gregor, dan Hong Lu...?"
+    },
+    {
+      "id": 25,
+      "content": "Percakapan trio itu semakin jelas seiring aku mendekati mereka."
+    },
+    {
+      "id": 26,
+      "model": "그레고르",
+      "content": "Kau tidak apa-apa, kawan? Kepalamu terbentur tadi."
+    },
+    {
+      "id": 27,
+      "model": "홍루",
+      "content": "Ha ha... Aku tak apa! Cuma jatuh ringan kok."
+    },
+    {
+      "id": 28,
+      "model": "모제스4",
+      "content": "... Ini ketiga kalinya hal itu terjadi."
+    },
+    {
+      "id": 29,
+      "model": "모제스4",
+      "content": "Kita harus mendiskusikan masalah ini dengan manajer setelah konsultasi ini selesai."
+    },
+    {
+      "id": 30,
+      "content": "... Kurasa aku melihat benjolan di samping kepala Hong Lu."
+    },
+    {
+      "id": 31,
+      "model": "그레고르",
+      "content": "Lagipula, kamu tahu apa yang harus dilakukan, kan? Kalau, sewaktu-waktu, kamu melihat tanda-tanda—"
+    },
+    {
+      "id": 32,
+      "model": "홍루",
+      "content": "Jangan khawatir, Gregor."
+    },
+    {
+      "id": 33,
+      "model": "홍루",
+      "content": "Kamu sudah berhasil melewati penjelasan dan rekaman itu. Kamu bakal baik-baik saja—aku percaya padamu."
+    },
+    {
+      "id": 34,
+      "model": "홍루",
+      "content": "Lihat dirimu sekarang. Kita tepat di tempat kejadiannya, tapi lenganmu stabil. Lihat?"
+    },
+    {
+      "id": 35,
+      "model": "모제스4",
+      "content": "*huff*... Ironisnya, ketakutan cenderung tumbuh paling tak terkendali saat ia jauh dan tak terlihat."
+    },
+    {
+      "id": 36,
+      "model": "모제스4",
+      "content": "Aku paham apa yang mungkin kamu khawatirkan, tapi... Aku bahkan tidak melihat pertanda paling awal dari hal itu."
+    },
+    {
+      "id": 37,
+      "model": "모제스4",
+      "content": "Jadi jangan ragu untuk membagikan pemikiran apapun yang muncul selagi kamu berada di sini."
+    },
+    {
+      "id": 38,
+      "model": "그레고르",
+      "content": "......."
+    },
+    {
+      "id": 39,
+      "model": "그레고르",
+      "content": "Aku tahu apa yang kulihat di rekaman, tapi aku masih sulit mempercayainya. Atau, entahlah—mungkin aku cuma menghindari kebenaran saat itu menatap tepat di depan wajahku."
+    },
+    {
+      "id": 40,
+      "model": "그레고르",
+      "content": "Kasusku tidak seperti Don Quixote. Dia cuma perlu memakai sepatunya, dan semuanya jadi baik dan indah untuknya, bukan? Hal-hal tidak berjalan seperti itu... untukku."
+    },
+    {
+      "id": 41,
+      "model": "뉴키라",
+      "content": "... Apapun yang mereka omongin kedengarannya dalem banget, woy."
+    },
+    {
+      "id": 42,
+      "model": "뉴키라",
+      "content": "Kalian yakin mau nguping dia kayak gini?"
+    },
+    {
+      "id": 43,
+      "model": "단테",
+      "content": "<Uhm...>"
+    },
+    {
+      "id": 44,
+      "model": "히스클리프",
+      "content": "... Itu orang tua emang selalu tertutup soal dirinya. Mungkin sekarang kesempatan kita buat... nyari tahu lebih banyak tentang dia."
+    },
+    {
+      "id": 45,
+      "model": "료슈",
+      "content": "Dia membagikan C.M. tentang dirinya untuk sekali ini. Kenapa sudahan?"
+    },
+    {
+      "id": 46,
+      "content": "Don Quixote memberikan interpretasi tak masuk akal atas singkatan Ryōshū saat Kira memutar matanya karena jengkel."
+    },
+    {
+      "id": 47,
+      "content": "Namun, di antara para <ruby=Pendosa>Sinner</ruby> yang saling berdebat dan Kira, Outis berdiri dalam diam dengan ekspresi yang tak dapat dipahami di wajahnya. Dia mendengarkan percakapan antara Moses dan Gregor seperti orang yang kerasukan."
+    },
+    {
+      "id": 48,
+      "model": "단테",
+      "content": "<... Oke. Mari kita dengarkan terus, kalau begitu.>"
+    },
+    {
+      "id": 49,
+      "model": "그레고르",
+      "content": "Outis benar. Sial, dia benar dari awal."
+    },
+    {
+      "id": 50,
+      "model": "그레고르",
+      "content": "Perang ini belum selesai. Tidak pernah selesai. Dan tidak akan pernah bisa selesai selama... hadiah lelucon brengsek ini tetap terpasang di lenganku."
+    },
+    {
+      "id": 51,
+      "model": "모제스4",
+      "content": "... Kata-kata yang tajam."
+    },
+    {
+      "id": 52,
+      "model": "모제스4",
+      "content": "Sekarang, mari kita meninjau kembali pertanyaan yang tidak bisa kamu jawab saat rekaman diputar... Semoga, sekarang jadi lebih mudah.\nKamu telah menggunakan lengan itu untuk bertarung dengan baik sejauh ini. Bagaimana caranya?"
+    },
+    {
+      "id": 53,
+      "model": "그레고르",
+      "content": "*huff*..."
+    },
+    {
+      "id": 54,
+      "model": "그레고르",
+      "content": "... Aku tidak keberatan bertarung melawan musuh atau lawan. Aku... bukan tipe orang yang khawatir tentang orang yang mencoba membunuhku."
+    },
+    {
+      "id": 55,
+      "model": "그레고르",
+      "content": "Tapi membunuh rekanku, itu—itu mengubah segalanya, bukan? Aku bahkan tidak bisa mengendalikannya. Tidak ada yang bisa kulakukan bahkan untuk bersiap menghadapinya. Ini... tak tertahankan. Seperti... semacam bom waktu yang menghitung mundur untuk melepaskan penyakit yang tidak pernah diketahui kapan gejalanya akan muncul."
+    },
+    {
+      "id": 56,
+      "content": "Bahkan Heathcliff, yang selalu menjadi orang pertama yang maju ketika orang-orang mulai terpuruk dalam kebencian pada diri sendiri..."
+    },
+    {
+      "id": 57,
+      "content": "... berdiri dalam diam yang penuh konflik, bibirnya membentuk garis lurus yang keras."
+    },
+    {
+      "id": 58,
+      "content": "Lagipula, Gregor tidak salah bahwa, saat ini, tidak ada cara untuk menghentikan transformasinya jika hal itu terjadi lagi."
+    },
+    {
+      "id": 59,
+      "content": "Perjalanan kita masih cukup panjang, dan pada akhirnya, kita harus—"
+    },
+    {
+      "id": 60,
+      "model": "오티스",
+      "content": "……."
+    },
+    {
+      "id": 61,
+      "place": "Kedalaman Ego - Mata La Mancha, Masa Lalu",
+      "model": "오티스",
+      "content": "<i>Apa pun yang tersembunyi di masa lalu kita para <ruby=Pendosa>Sinner</ruby>...</i>"
+    },
+    {
+      "id": 62,
+      "model": "오티스",
+      "content": "<i>Bahkan jika mereka telah membunuh ratusan, ribuan—tidak, puluhan ribu orang tak bersalah? Apakah anda masih akan... merangkul mereka?</i>"
+    },
+    {
+      "id": 63,
+      "place": "Reruntuhan Koridor Nursefather Thumb",
+      "content": "... Kita pada akhirnya harus menghadapi kebenaran Perang yang bahkan lebih kelam dan suram."
+    },
+    {
+      "id": 64,
+      "content": "Bisakah aku benar-benar mempercayai Gregor untuk tidak hancur di bawah tekanan yang tak terelakkan itu?"
+    },
+    {
+      "id": 65,
+      "model": "홍루",
+      "content": "Aku mengerti. Kamu takut kalau akan berakhir menyakiti kami."
+    },
+    {
+      "id": 66,
+      "model": "그레고르",
+      "content": "Yah, itu... Awalnya, kupikir aku tidak peduli jika aku tidak sengaja membunuh beberapa dari kalian atau tidak."
+    },
+    {
+      "id": 67,
+      "model": "홍루",
+      "content": "Agak... menyedihkan mendengar hal itu."
+    },
+    {
+      "id": 68,
+      "model": "그레고르",
+      "content": "Kamu tahu bagaimana rasanya, Hong Lu. Kita—tim bus—tidak benar-benar memulai segalanya dengan baik."
+    },
+    {
+      "id": 69,
+      "model": "그레고르",
+      "content": "Tapi melalui perjalanan kita, aku mulai menganggap kalian semua sebagai rekanku. Dan aku tidak apa-apa dengan itu karena..."
+    },
+    {
+      "id": 70,
+      "model": "그레고르",
+      "content": "Karena aku terlalu percaya pada kelemahanku sendiri."
+    },
+    {
+      "id": 71,
+      "model": "그레고르",
+      "content": "Ketika aku menyadari bahwa aku telah menjadi begitu lemah hingga tidak bisa menjatuhkan preman <ruby=Belakangan>Backstreets</ruby> dengan lengan ini, aku... lega."
+    },
+    {
+      "id": 72,
+      "model": "그레고르",
+      "content": "Bayangkan itu. Lengan yang sama—lenganku. Senjata yang menancap keluar dari jantung tak terhitung banyaknya orang selama <ruby=Perang Asap>Smoke War</ruby>."
+    },
+    {
+      "id": 73,
+      "model": "그레고르",
+      "content": "Jujur saja, ketika si Hohenheim itu bilang kalau aku adalah sebuah \"pengecualian\", pemikiran itu saja membuatku berharap."
+    },
+    {
+      "id": 74,
+      "place": -1,
+      "model": "그레고르",
+      "content": "\"Pengecualian.\" Sebuah potensi untuk tidak berbahaya, lebih lemah daripada bukan kombatan seperti Yi Sang. Itu membuatku berharap akan kehidupan yang... tidak terdengar buruk."
+    },
+    {
+      "id": 75,
+      "model": "그레고르",
+      "content": "Tapi kita semua tahu bagaimana hal itu berjalan, bukan? Meledak dengan cara yang paling buruk."
+    },
+    {
+      "id": 76,
+      "place": "Reruntuhan Koridor Nursefather Thumb",
+      "model": "그레고르",
+      "content": "Dan setelah semua itu... Aku hanya tidak sanggup untuk bertarung lagi. Karena aku tidak tahu kapan ketakutan ini akan memakanku lagi—karena aku terus-menerus takut \"hadiah\" sialan ini memanifestasikan dirinya lagi."
+    },
+    {
+      "id": 77,
+      "model": "모제스4",
+      "content": "......."
+    },
+    {
+      "id": 78,
+      "model": "모제스4",
+      "content": "Ketakutan yang sama yang kamu bawa sepanjang waktu ini."
+    },
+    {
+      "id": 79,
+      "model": "모제스4",
+      "content": "Bagaimana kamu menahannya sebelumnya?"
+    },
+    {
+      "id": 80,
+      "model": "그레고르",
+      "content": "......."
+    },
+    {
+      "id": 81,
+      "model": "그레고르",
+      "content": "Dengan buruk. Seadanya. Berpegang pada gagasan bahwa yang hidup harus tetap hidup, dan tidak ada yang lain."
+    },
+    {
+      "id": 82,
+      "model": "그레고르",
+      "content": "Hah. Ini benar-benar membawaku kembali ke bertahun-tahun lalu. Kenangannya begitu jelas sampai terasa seperti semuanya terjadi kemarin."
+    },
+    {
+      "id": 83,
+      "model": "그레고르",
+      "content": "... *huff*... Sebaiknya kamu menendangku keluar dari bus sebelum hal buruk terjadi—"
+    },
+    {
+      "id": 84,
+      "model": "홍루",
+      "content": "Itu tidak bisa menjadi jawabannya, Gregor."
+    },
+    {
+      "id": 85,
+      "model": "홍루",
+      "content": "Kamu bisa berjalan pergi, tapi bahaya dari perjalanan kita tidak akan pergi bersamamu. Dante dan kita semua masih akan menghadapi bahaya yang berulang tanpa henti."
+    },
+    {
+      "id": 86,
+      "model": "홍루",
+      "content": "Dan meninggalkan bus tidak akan membawa kedamaian bagi hatimu."
+    },
+    {
+      "id": 87,
+      "model": "홍루",
+      "content": "Kematian kita dapat diputarbalikkan jika terjadi kecelakaan... meskipun itu harus dibayar dengan penderitaan Dante. Hal yang sama tidak bisa dikatakan untuk sebagian besar orang di <ruby=Kota>City</ruby>."
+    },
+    {
+      "id": 88,
+      "model": "그레고르",
+      "content": "......."
+    },
+    {
+      "id": 89,
+      "model": "그레고르",
+      "content": "Heh, itu sesuatu yang tidak pernah kuduga akan kudengar darimu."
+    },
+    {
+      "id": 90,
+      "model": "그레고르",
+      "content": "Kurasa kamu benar. Jika kita ingin melihat hal ini menuju akhir dalam bentuk apapun, ini adalah tempat untuk melakukannya. Tidak banyak tempat di <ruby=Kota>City</ruby> yang memiliki kehangatan seperti ini."
+    },
+    {
+      "id": 91,
+      "model": "그레고르",
+      "content": "Wah, hal konsultasi ini cukup memalukan."
+    },
+    {
+      "id": 92,
+      "model": "그레고르",
+      "content": "Maksudku, ini tidak seperti aku dipaksa melalui sesuatu yang traumatis seperti milikmu, Hong Lu."
+    },
+    {
+      "id": 93,
+      "model": "그레고르",
+      "content": "Jujur saja... Aku bukan kasus spesial. Setiap orang yang berpartisipasi dalam perang itu pasti pernah mengalami hal yang kurang lebih sama—Nona Moses, Outis, dan bahkan Valencina, sosok itu."
+    },
+    {
+      "id": 94,
+      "model": "홍루",
+      "content": "Kita tidak bisa menyematkan angka pada kemalangan kita seolah-olah itu adalah sesuatu yang bisa diukur."
+    },
+    {
+      "id": 95,
+      "model": "홍루",
+      "content": "Ketika aku melarikan diri dari masa laluku, aku berusaha sekuat tenaga untuk memalingkan mataku darinya. Tapi kamu, Gregor... kamu tidak seperti diriku. Setiap beberapa langkah yang menjauhkanmu dari masa lalu, kamu akan berhenti sejenak untuk melihat ke jalan yang telah kamu tempuh."
+    },
+    {
+      "id": 96,
+      "model": "홍루",
+      "content": "Bertahun-tahun yang kubiarkan berlalu, semua yang berlalu darimu dihiasi dengan penderitaan yang tak terucapkan dan melampaui ukuran."
+    },
+    {
+      "id": 97,
+      "model": "모제스4",
+      "content": "*huff*... Pengalaman berbeda, rasa sakit berbeda."
+    },
+    {
+      "id": 98,
+      "model": "모제스4",
+      "content": "Tetap saja, jika ada satu hal yang umum bagi semua orang, itu adalah bahwa trauma meninggalkan efek samping yang bertahan lama."
+    },
+    {
+      "id": 99,
+      "model": "그레고르",
+      "content": "... Apa milikmu?"
+    },
+    {
+      "id": 100,
+      "model": "모제스4",
+      "content": "Aku... tidak suka suara keras dan orang yang terlalu banyak bicara."
+    },
+    {
+      "id": 101,
+      "model": "모제스4",
+      "content": "Mereka terdengar terlalu mirip dengan kakofoni Perang, seperti jeritan rekan-rekan yang membenciku bahkan ketika mereka sekarat—dan luka yang mereka tinggalkan di hatiku menguras habis darahku."
+    },
+    {
+      "id": 102,
+      "model": "홍루",
+      "content": "Mmm... Tapi bukankah kamu menyukai Nona Ezra, Nona Moses?"
+    },
+    {
+      "id": 103,
+      "model": "모제스4",
+      "content": "... Aku terlalu banyak bicara."
+    },
+    {
+      "id": 104,
+      "model": "모제스4",
+      "content": "Terlepas dari itu..."
+    },
+    {
+      "id": 105,
+      "model": "모제스4",
+      "content": "Bukankah kalian sudah mendengar cukup banyak? Sebaiknya keluar dari tempat kalian bersembunyi."
+    },
+    {
+      "id": 106,
+      "model": "뉴키라",
+      "content": "Yaaah, mereka tahu kita nguping dari tadi?"
+    },
+    {
+      "id": 107,
+      "model": "단테",
+      "content": "<Uhh... Aku sebenarnya menunggu waktu yang tepat untuk keluar dan berbicara, tapi aku tidak menemukan momen yang pas untuk—>"
+    },
+    {
+      "id": 108,
+      "model": "그레고르",
+      "content": "Ah, yah... Aku harus membagikan ini dengan Sobat Manajer atau kalian semua cepat atau lambat, jadi aku tidak keberatan. Tapi..."
+    },
+    {
+      "id": 109,
+      "model": "그레고르",
+      "content": "Apa yang <i>dia</i> lakukan di sini...?"
+    },
+    {
+      "id": 110,
+      "model": "료슈",
+      "content": "P.S."
+    },
+    {
+      "id": 111,
+      "model": "홍루",
+      "content": "Hmm... Perdamaian... Sementara?"
+    },
+    {
+      "id": 112,
+      "model": "료슈",
+      "content": "Bukan. Pendampingan Sebentar."
+    },
+    {
+      "id": 113,
+      "model": "뉴키라",
+      "content": "Jangan jahat gitu napa. Aku kerja keras banget buat bantu kalian."
+    },
+    {
+      "id": 114,
+      "model": "홍루",
+      "content": "Fuhu... Senang berkenalan denganmu."
+    },
+    {
+      "id": 115,
+      "model": "모제스4",
+      "content": "*huff*... Kamu tepat waktu."
+    },
+    {
+      "id": 116,
+      "model": "모제스4",
+      "content": "Aku sedang mengerjakan sebuah teori, tapi aku tidak memiliki semua petunjuk untuk menjadi sangat yakin. Kata-kata dari seseorang yang tahu mungkin akan sangat meningkatkan keyakinanku pada teori ini."
+    },
+    {
+      "id": 117,
+      "model": "모제스4",
+      "content": "Kira. Apakah kamu tahu \"pintu\" mana yang paling terikat dengan Nursefather dari Thumb?"
+    },
+    {
+      "id": 118,
+      "model": "뉴키라",
+      "content": "Hah? Ga tahu lah. Ya kali."
+    },
+    {
+      "id": 119,
+      "model": "히스클리프",
+      "content": "... \"Ya kali?\" Maksud lo itu udah jelas?"
+    },
+    {
+      "id": 120,
+      "model": "뉴키라",
+      "content": "Kalian emang gak lihat dia apa? Kalian kira aku bakal ngobrol gitu aja sama wanita menakutkan kayak gitu?"
+    },
+    {
+      "id": 121,
+      "model": "뉴키라",
+      "content": "Bro, dia gebukin Lucio sampai babak belur tiap kali aku lihat mereka barengan."
+    },
+    {
+      "id": 122,
+      "model": "뉴키라",
+      "content": "Oh ya, dia tewas bertarung lawan kalian sampai akhir, kan?"
+    },
+    {
+      "id": 123,
+      "model": "그레고르",
+      "content": "*haah*..."
+    },
+    {
+      "id": 124,
+      "model": "히스클리프",
+      "content": "Iya. Dia ngomongin soal kemurahan hatinya dan semacamnya lalu bertarung sampai mati."
+    },
+    {
+      "id": 125,
+      "model": "뉴키라",
+      "content": "Buset, di luar dugaan banget."
+    },
+    {
+      "id": 126,
+      "model": "뉴키라",
+      "content": "Jujur-jujuran nih ya, aku mikirnya dia bakal belot ke pihak lain."
+    },
+    {
+      "id": 127,
+      "model": "히스클리프",
+      "content": "Serius? Anak itu?"
+    },
+    {
+      "id": 128,
+      "model": "료슈",
+      "content": "Dan mengapa begitu?"
+    },
+    {
+      "id": 129,
+      "model": "뉴키라",
+      "content": "Ya tau sendiri lah, auranya. Kalian gak tahu soalnya belum lihat dia lama tanpa wanita menakutkan itu membayanginya."
+    },
+    {
+      "id": 130,
+      "place": "Koridor Nursefather Thumb, Masa Lalu",
+      "model": "엄지제자",
+      "content": "......."
+    },
+    {
+      "id": 131,
+      "model": "중지제자",
+      "content": "Kenapa? Mau nusuk dia tepat di tulang belakangnya?"
+    },
+    {
+      "id": 132,
+      "model": "엄지제자",
+      "content": "...! Kamu..."
+    },
+    {
+      "id": 133,
+      "model": "중지제자",
+      "content": "Dengar, aku pikir kamu mungkin latihan dengan cara yang salah karena, kayak, kamu tidak berkembang sebanyak yang seharusnya dari semua kerja keras itu. Biar kutunjukkan apa yang aku pelajari tentang ayunan pedang dari komik ini—"
+    },
+    {
+      "id": 134,
+      "model": "엄지제자",
+      "content": "Bukan begitu cara guruku menginstruksikanku."
+    },
+    {
+      "id": 135,
+      "model": "엄지제자",
+      "content": "Buku Teks tidak boleh diperbolehkan memiliki satu pun penyimpangan jika ingin membalas budi kepadanya."
+    },
+    {
+      "id": 136,
+      "model": "중지제자",
+      "content": "Kenapa kamu begitu terobsesi sama semua omong kosong itu? Kamu bahkan tidak menyukai wanita tua itu."
+    },
+    {
+      "id": 137,
+      "model": "엄지제자",
+      "content": "......."
+    },
+    {
+      "id": 138,
+      "model": "엄지제자",
+      "content": "Tapi... kamu tidak begitu berbeda dariku dalam hal itu, bukan?"
+    },
+    {
+      "id": 139,
+      "model": "중지제자",
+      "content": "H-hah, bicara apa sih? Aku sayang sama papaku."
+    },
+    {
+      "id": 140,
+      "place": "Reruntuhan Koridor Nursefather Thumb",
+      "model": "뉴키라",
+      "content": "Serius deh, kupikir semuanya bakal hancur lebur sebelum Yoshihide bahkan pulang."
+    },
+    {
+      "id": 141,
+      "model": "료슈",
+      "content": "Hah. Tampaknya \"Buku Teks\" dan aku memiliki kesamaan dalam hal itu."
+    },
+    {
+      "id": 142,
+      "model": "모제스4",
+      "content": "Hm. Jika orang ini tidak tahu, izinkan aku mengalihkan pertanyaan itu kepadamu, <ruby=Pendosa>Sinner</ruby> Ryōshū."
+    },
+    {
+      "id": 143,
+      "model": "모제스4",
+      "content": "Semoga ini menyentuh salah satu kenanganmu yang lebih utuh. Apakah kamu tahu \"pintu\" mana yang menunjukkan keterikatan khusus dari Nursefather Thumb? Atau pintu yang paling sering dia gunakan?"
+    },
+    {
+      "id": 144,
+      "model": "료슈2",
+      "content": "Kenapa tanya aku?"
+    },
+    {
+      "id": 145,
+      "model": "료슈",
+      "content": "... Baik. Ya, saya ingat. Bahkan tidak butuh bantuan Jam untuk menyusunnya kembali."
+    },
+    {
+      "id": 146,
+      "model": "료슈",
+      "content": "Yang itu."
+    },
+    {
+      "id": 147,
+      "model": "료슈",
+      "content": "Pintu dengan potongan logam yang menggantung darinya."
+    },
+    {
+      "id": 148,
+      "place": "Koridor Nursefather Thumb, Masa Lalu",
+      "model": "엄지아비",
+      "content": "Sialan, aku hampir mati di luar sana..."
+    },
+    {
+      "id": 149,
+      "model": "엄지아비",
+      "content": "Keparat, lalat brengsek... Dari mana bajingan G Corp. itu menarik hama-hama menjijikkan itu?"
+    },
+    {
+      "id": 150,
+      "model": "과거료슈2",
+      "content": "I-Ibu...? Apa kamu baik-baik saja...?"
+    },
+    {
+      "id": 151,
+      "model": "엄지아비",
+      "content": "Apa aku <i>kelihatan</i> baik-baik saja bagimu, Tiket?"
+    },
+    {
+      "id": 152,
+      "model": "과거료슈2",
+      "content": "T-tidak, tidak juga..."
+    },
+    {
+      "id": 153,
+      "model": "엄지아비",
+      "content": "Ha... Aku baik-baik saja. Kamu tahu aku tidak mudah hancur."
+    },
+    {
+      "id": 154,
+      "model": "엄지아비",
+      "content": "Kamu seharusnya ada di sana untuk melihatku merobek kepala hama G Corp. itu, Tiket."
+    },
+    {
+      "id": 155,
+      "model": "과거료슈2",
+      "content": "Tapi Ibu, kamu... kakimu berdarah banyak..."
+    },
+    {
+      "id": 156,
+      "teller": "Radio",
+      "title": "???",
+      "content": "*tzzt*"
+    },
+    {
+      "id": 157,
+      "model": "엄지아비",
+      "content": "Misi lain datang lagi. Astaga, mereka beneran tidak bisa melakukan apapun tanpaku, ya? Susah juga untuk istirahat."
+    },
+    {
+      "id": 158,
+      "model": "엄지아비",
+      "content": "Apa-apaan ini?"
+    },
+    {
+      "id": 159,
+      "model": "과거료슈2",
+      "content": "P-perban... untukmu..."
+    },
+    {
+      "id": 160,
+      "model": "엄지아비",
+      "content": "... Ini bocah serius? Mereka punya se-truk perawatan mahal yang siap menambalku begitu aku kembali ke medan pe—Yah, oke. Persetan dengan itu."
+    },
+    {
+      "id": 161,
+      "model": "엄지아비",
+      "content": "Hei, ini berguna."
+    },
+    {
+      "id": 162,
+      "model": "과거료슈2",
+      "content": "Ibu...?"
+    },
+    {
+      "id": 163,
+      "model": "엄지아비",
+      "content": "Duduk yang tenang dan jangan buat masalah. Aku akan mengajarimu beberapa teknik pedang setelah aku kembali."
+    },
+    {
+      "id": 164,
+      "place": "Reruntuhan Koridor Nursefather Thumb",
+      "model": "모제스4",
+      "content": "... Pasti tahun-tahunnya di <ruby=Perang Asap>Smoke War</ruby>."
+    },
+    {
+      "id": 165,
+      "model": "료슈",
+      "content": "Ya. Bertarung di Perang menghabiskan banyak hal darinya dan membuatnya kelelahan secara terus-menerus."
+    },
+    {
+      "id": 166,
+      "model": "료슈",
+      "content": "Tapi dia berbaris ke setiap pertempuran dengan senyuman. Berhenti minum. Berhenti memukuliku juga."
+    },
+    {
+      "id": 167,
+      "model": "료슈",
+      "content": "Seperti orang bodoh yang bahagia yang lupa bahwa dia masih di kedalaman lubang yang tak terhindarkan bernama <ruby=Rumah Laba-laba>House of Spiders</ruby>."
+    },
+    {
+      "id": 168,
+      "model": "단테",
+      "content": "<.......>"
+    },
+    {
+      "id": 169,
+      "model": "료슈",
+      "content": "Yah, kedamaian ironis itu tidak bertahan lama."
+    },
+    {
+      "id": 170,
+      "model": "료슈",
+      "content": "Beberapa saat setelah Perang berakhir, seseorang yang dipanggilnya \"Consigliere\" dari Thumb mengunjungi <ruby=Rumah Laba-laba>House of Spiders</ruby> sebagai tutor."
+    },
+    {
+      "id": 171,
+      "model": "료슈2",
+      "content": "Dan saat itulah dia kembali minum hingga mabuk berat hari demi hari."
+    },
+    {
+      "id": 172,
+      "model": "료슈2",
+      "content": "Pukulan-pukulan itu kembali, dan begitu pula ketajaman dalam kata-kata kotornya."
+    },
+    {
+      "id": 173,
+      "model": "료슈",
+      "content": "Itu menyedihkan."
+    },
+    {
+      "id": 174,
+      "model": "그레고르",
+      "content": "Tunggu... Tapi kenapa? Tentu, aku di pihak yang kalah..."
+    },
+    {
+      "id": 175,
+      "model": "그레고르",
+      "content": "... tapi bukankah Valencina berada di pihak yang <i>menang</i>? Seorang pahlawan perang, lagi."
+    },
+    {
+      "id": 176,
+      "model": "모제스4",
+      "content": "......."
+    },
+    {
+      "id": 177,
+      "model": "모제스4",
+      "content": "Pernah mendengar tentang peraturan yang mencegah peserta <ruby=Perang Asap>Smoke War</ruby> untuk pindah ke <ruby=Sarang>Nest</ruby> I Corp. dan K Corp.?"
+    },
+    {
+      "id": 178,
+      "model": "오티스",
+      "content": "......."
+    },
+    {
+      "id": 179,
+      "model": "모제스4",
+      "content": "Benang merah antara aturan-aturan pasca-perang ini adalah bahwa mereka membuat hidup para veteran menjadi sulit. Aturan-aturan mencurigakan yang tidak membedakan antara pemenang dan pecundang."
+    },
+    {
+      "id": 180,
+      "model": "단테",
+      "content": "<Aku paham... Pasti ada hal-hal yang terjadi di balik layar di sana juga.>"
+    },
+    {
+      "id": 181,
+      "model": "히스클리프",
+      "content": "Tapi... bukankah itu berarti <ruby=Pintu Belakang>Backdoor</ruby> bakal menjatuhkan kita ke parit yang mereka gali selama Perang?"
+    },
+    {
+      "id": 182,
+      "model": "모제스4",
+      "content": "Ya, dan Gregor yang akan membukanya."
+    },
+    {
+      "id": 183,
+      "model": "그레고르",
+      "content": "Tunggu, aku?"
+    },
+    {
+      "id": 184,
+      "model": "모제스4",
+      "content": "Ya. Orang lain bisa melakukannya untukmu, tapi apa gunanya?"
+    },
+    {
+      "id": 185,
+      "model": "히스클리프",
+      "content": "... Lo yakin ini gak bakal bikin dia makin mimpi buruk? Gua ga lihat gimana ini bisa ngebantu dia sama sekali."
+    },
+    {
+      "id": 186,
+      "model": "모제스4",
+      "content": "Kita tidak memiliki cara untuk mengobati apa un yang tertidur di dalam lengannya."
+    },
+    {
+      "id": 187,
+      "model": "모제스4",
+      "content": "Namun, menduga bahwa penyebab mendasar dari transformasinya yang tiba-tiba bukanlah lengan itu sendiri."
+    },
+    {
+      "id": 188,
+      "model": "히스클리프",
+      "content": "Terus... apa?"
+    },
+    {
+      "id": 189,
+      "model": "모제스4",
+      "content": "Itu trauma. Lengan miliknya mengambil alih kendali <i>setelah</i> jiwanya dihancurkan oleh beban kenangan yang tak dapat diucapkan yang datang menghantuinya."
+    },
+    {
+      "id": 190,
+      "model": "모제스4",
+      "content": "Bukan karena lengan itu mengamuk dan mulai mengalami lagi masa lalunya yang menyakitkan—tapi justru sebaliknya. Bukankah begitu?"
+    },
+    {
+      "id": 191,
+      "model": "모제스4",
+      "content": "Jika kamu bisa memahami bahwa Perang ini benar-benar telah usai, dan apa yang dikatakan orang lain, tak peduli seberapa dekatnya itu bergema dengan masa lalu, belum tentu ditujukan kepadamu..."
+    },
+    {
+      "id": 192,
+      "model": "모제스4",
+      "content": "... maka kamu mungkin bisa melonggarkan cengkeraman ketakutan dan kecemasan bahwa lenganmu bisa metamorfosis kapan saja."
+    },
+    {
+      "id": 193,
+      "model": "그레고르",
+      "content": "......."
+    },
+    {
+      "id": 194,
+      "model": "파우스트",
+      "content": "Meskipun saran dia mungkin tampak sembarangan, itu adalah salah satu prinsip perawatan dasar dari pusat psikoterapi M Corp."
+    },
+    {
+      "id": 195,
+      "model": "그레고르",
+      "content": "*huff*... Okelah. Kalau begitu..."
+    },
+    {
+      "id": 196,
+      "model": "그레고르",
+      "content": "... kurasa aku akan membukanya."
+    },
+    {
+      "id": 197,
+      "content": "Gregor berjalan ke pintu, memegang gagangnya, lalu berhenti—menarik napas dalam-dalam secara perlahan."
+    },
+    {
+      "id": 198,
+      "content": "Dan dengan satu lengan, dia membuka pintu itu dengan perlahan."
+    },
+    {
+      "id": 199,
+      "place": -1,
+      "teller": "Tomah",
+      "title": "Prajut yang Dikenang",
+      "content": "<i>Kenapa kamu lari? Kamu seharusnya memimpin di garis depan dengan spanduk G Corp. kita yang menjulang tinggi!</i>"
+    },
+    {
+      "id": 200,
+      "teller": "Masyarakat Baik",
+      "title": "Orang yang Dikenang",
+      "content": "<i>A-aku tidak ingin mati!</i>"
+    },
+    {
+      "id": 201,
+      "model": "유리",
+      "teller": "Yuri",
+      "title": "Fixer Tingkat 8",
+      "content": "<i>Haha, senang rasanya memiliki tempat untuk pulang.</i>"
+    },
+    {
+      "id": 202,
+      "model": "헤르만",
+      "teller": "Hermann",
+      "title": "???",
+      "content": "<i>Oh, benar. Selamat ulang tahun ke-15!</i>"
+    },
+    {
+      "id": 203,
+      "model": "엄지아비",
+      "content": "<i>Tapi kamu tidak mungkin punya muka untuk menyebutku kejam.</i>"
+    },
+    {
+      "id": 204,
+      "model": "엄지아비",
+      "content": "<i>Kalian hama G Corp. jauh lebih kacau daripada aku! Mencerai-beraikan orang, kanibal—kalian tidak lebih dari kawanan monster brengsek!</i>"
+    },
+    {
+      "id": 205,
+      "place": "???",
+      "model": "그레고르",
+      "content": "Kupikir aku sudah terbangun dari mimpi itu,"
+    },
+    {
+      "id": 206,
+      "model": "그레고르",
+      "content": "tapi aku masih..."
+    }
+  ]
+}

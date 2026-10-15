@@ -1,0 +1,154 @@
+{
+  "dataList": [
+    {
+      "id": 816101,
+      "name": "Sin Nullification",
+      "desc": "Kecuali jika unit ini Staggered atau Part Broken, terima 80% less [Combustion] damage."
+    },
+    {
+      "id": 816102,
+      "name": "Proliferating Flame",
+      "desc": "Jika target memiliki [Combustion]: Saat Menyerang, spread half of [Combustion] pada target to 2 unit adjacent to the target on the Dashboard."
+    },
+    {
+      "id": 816601,
+      "name": "Chaotic Hunt",
+      "desc": "Menang Clash: Clash Power -1 for the next Clash (maks 2)\nKalah Clash: Clash Power +1 for the next Clash (maks 2)"
+    },
+    {
+      "id": 816602,
+      "name": "Humanity Abandoned",
+      "desc": "Awal Giliran: peroleh 2 [AttackDmgUp]."
+    },
+    {
+      "id": 816603,
+      "name": "Sack",
+      "desc": "- Ketika unit ini memiliki the Chain, semua Part peroleh 1 [Enhancement] dan 2 [AttackDmgUp]\n- Ketika the Chain nya rusak, dimulai giliran berikutnya, peroleh 2 [Binding] dan +0.7 ke semua resistansi Physical hingga akhir Pertarungan"
+    },
+    {
+      "id": 816604,
+      "name": "Ressentiment",
+      "desc": "Ketika unit ini memiliki 35% atau kurang HP: Jika target memiliki persentase HP yang lebih tinggi daripada unit ini, Clash Power +2"
+    },
+    {
+      "id": 816605,
+      "name": "Spite-driven",
+      "desc": "Jika persentase HP unit ini 30% atau kurang:\n- Blunt Skills Beri +20% damage\n- Peroleh 1 [Enhancement] dan 2 [Vulnerable] with setiap giliran yang dilewati. (3 times maks)"
+    },
+    {
+      "id": 816606,
+      "name": "Infernal Hound",
+      "desc": "Ketika the Chain nya rusak, beri [AaCfPcBg] ke musuh acak.\nDimulai giliran berikutnya, prioritaskan target dengan [AaCfPcBg]."
+    },
+    {
+      "id": 817101,
+      "name": "Superiority",
+      "desc": "Menang Clash: Jika Speed Unit ini lebih cepat daripada target, pulihkan 3 SP"
+    },
+    {
+      "id": 817102,
+      "name": "The Uninvited",
+      "desc": "Jika ada musuh Staggered, unit ini memprioritaskan target Staggered dengan Attack Skill nya\nBeri +20% damage ke musuh Staggered Saat Menyerang"
+    },
+    {
+      "id": 817103,
+      "name": "Seni Menerima 9: Mengikat",
+      "desc": "Setelah Unit ini memperoleh pola baru, dan setelah Akhir Pertarungan, beri [AaCfPcBc] pada Indentity acak tanpa [AaCfPcBc] giliran berikutnya"
+    },
+    {
+      "id": 817104,
+      "name": "Release From Binds",
+      "desc": "Semua [AaCfPcBc] kurang dari atau setara dengan 2 terhapus ketika unit ini kena Stagger"
+    },
+    {
+      "id": 817201,
+      "name": "Spreading Emotions",
+      "desc": "Ketika kawan dengan Affinity yang sama dengan efek Explosive Emotions unit ini dikalahkan: kehilangan Explosive Emotions effect pada diri sendiri, bunuh semua kawan lainnya, dan peroleh [AaCfPbBd] giliran berikutnya.\nSemua Sinners memperoleh efek dari Explosive Emotions yang sesuai, dan mendapat proteksi terhadap Affinity tersebut"
+    },
+    {
+      "id": 817202,
+      "name": "Amalgamated Resentment",
+      "desc": "Ketika unit ini memiliki efek Explosive Emotions, semua Skill Affinity akan diganti dengan Affinity sesuai\nBahkan setelah efek Explosive Emotions berakhir, Skill Affinity tersebut akan tetap berubah selama sisa Fase."
+    },
+    {
+      "id": 817203,
+      "name": "Continuing Revenge",
+      "desc": "Mendapat pola serangan baru pada 75% dan 35% maks HP.\nKetika Unit ini memperoleh pola serangan baru, setengah dari Potency dan Count dari efek negatif akan berkurang pada diri sendiri"
+    },
+    {
+      "id": 9101602,
+      "name": "Antagonism",
+      "desc": "Jika HP target lebih tinggi daripada unit ini, Clash Power +2 dan beri +20% damage"
+    },
+    {
+      "id": 9101603,
+      "name": "Long-awaited Moment",
+      "desc": "Menang Clash: Pulihkan 5 SP pada diri sendiri\nKalah Clash terhadap Heathcliff: Kehilangan 5 SP dan peroleh 2 [Binding] giliran berikutnya. (Sekali per giliran)\nJika unit ini tidak berhasil menyerang terhadap Heathcliff giliran ini, kehilangan 5 SP pada Akhir Giliran"
+    },
+    {
+      "id": 9101606,
+      "name": "Vying Spirit",
+      "desc": "Semakin rendah HP unit ini, semakin tinggi Defense Level unit ini\nDefense Level +1 untuk setiap 10% HP yang hilang pada diri sendiri (dibulatkan ke bawah)"
+    },
+    {
+      "id": 821601,
+      "name": "Desolasi Wild Hunt",
+      "desc": "Tidak dapat dikalahkan saat HP 0. HP tidak dapat turun di bawah 1."
+    },
+    {
+      "id": 817401,
+      "name": "A Distant Identity",
+      "desc": "Akhir Giliran: Jika kedua Tangan berada pada 1 HP, jadikan mereka Immobilized."
+    },
+    {
+      "id": 817402,
+      "name": "Cold Body",
+      "desc": "HP tidak dapat turun di bawah 1."
+    },
+    {
+      "id": 817403,
+      "name": "A Shaky Ego",
+      "desc": "Akhir Giliran: If both Hands are pada 1 HP, peroleh Perisai giliran berikutnya.\nOnce the Perisai is fully depleted, become Immobilized."
+    },
+    {
+      "id": 819201,
+      "name": "Misery-severing Hand",
+      "desc": "If the other Hand is pada 2+ HP pada the next Akhir Giliran after the giliran in which this Hand reaches 1 HP, unit ini memulihkan HP setara dengan 50% of the other Hand's HP. (dibulatkan ke bawah)"
+    },
+    {
+      "id": 821401,
+      "name": "Deep Bereavement",
+      "desc": "Menjadi Staggered as long as unit ini's HP is pada 1. The HP tidak dapat turun di bawah 1."
+    },
+    {
+      "id": 817404,
+      "name": "Patah Hati",
+      "desc": "Awal Giliran: If there is a Hand with 2+ HP, peroleh 10 [Protection], dan all Resistance values become 0.2.\nAwal Giliran: If both Hands are pada 1 HP, [Protection] berakhir, dan all Resistance values revert to default values."
+    },
+    {
+      "id": 817405,
+      "name": "For Every Heathcliff",
+      "desc": "When Clashing terhadap Heathcliff, Clash Power -3 dan beri -50% damage terhadap Heathcliff\nMenang Pertempuran jika Heathcliff mati"
+    },
+    {
+      "id": 816408,
+      "name": "Moment of Vengeance",
+      "desc": "Menang Clash: Pulihkan 5 SP pada diri sendiri\nKalah Clash: Kehilangan 5 SP dan peroleh 2 [Binding] giliran berikutnya. (Sekali per giliran)\nJika unit ini tidak berhasil menyerang giliran ini, kehilangan 5 SP pada Akhir Giliran"
+    },
+    {
+      "id": 9101607,
+      "name": "Cannot Retreat",
+      "desc": "For the duration of this Encounter, Retreat functions will not activate for Heathcliff Identities."
+    },
+    {
+      "id": 816103,
+      "name": "Luapan Amarah",
+      "desc": "On death, beri 12 [Combustion] dan +8 [Combustion] Count on all enemies"
+    },
+    {
+      "id": 816104,
+      "name": "Nightmare",
+      "desc": "In a giliran, if an allied unit(termasuk unit ini) loses a Clash atau takes damage from enemy attacks, peroleh 1 [AttackUp] dan pulihkan 1 SP (maks 12 times)"
+    }
+  ]
+}

@@ -1,0 +1,863 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "content": "......."
+    },
+    {
+      "id": 1,
+      "place": "Di dalam Mephistopheles",
+      "model": "이스마엘",
+      "content": "Wow. Itu... suara tadi... aku tidak tahu tubuh manusia bisa mengeluarkan suara seperti itu."
+    },
+    {
+      "id": 2,
+      "model": "그레고르",
+      "content": "Hm? Ooh... Aku tadi lagi peregangan. Sepertinya suara itu akan selalu keluar tiap kali aku melakukannya."
+    },
+    {
+      "id": 3,
+      "model": "싱클레어",
+      "content": "Huh? Apa maksudmu... selalu...?"
+    },
+    {
+      "id": 4,
+      "model": "로쟈",
+      "content": "Suara itu berarti kamu sudah berumut, Sinc. Aduh... Aku tahu Dante telah memutar jam untuk memundurkan waktu kita, tapi aku merasa persendianku mulai terasa sakit."
+    },
+    {
+      "id": 5,
+      "model": "이스마엘",
+      "content": "Hmm, Aku mengerti maksudmu. Aku juga merasa tidak sebugar seperti dulu. Mungkin rasa sakit akibat berulang kali mati dan hidup memang berdampak buruk bagiku..."
+    },
+    {
+      "id": 6,
+      "model": "단테",
+      "content": "<Yeah, kematian memang menyakitkan...>"
+    },
+    {
+      "id": 7,
+      "content": "Itulah ketika Hong Lu dengan seenaknya melontarkan komentar polos di tengah keluhan para <ruby=Pendosa>Sinners</ruby>."
+    },
+    {
+      "id": 8,
+      "model": "홍루",
+      "content": "Ngomong-ngomong, lucu juga ya Don Quixote baik-baik saja meskipun usianya sudah ratusan tahun. Dia yang tertua di antara kita, kan?"
+    },
+    {
+      "id": 9,
+      "model": "단테",
+      "content": "<.......>"
+    },
+    {
+      "id": 10,
+      "model": "돈키호테",
+      "content": "Ahem..."
+    },
+    {
+      "id": 11,
+      "model": "그레고르",
+      "content": "Uhm..."
+    },
+    {
+      "id": 12,
+      "model": "이스마엘",
+      "content": "Erm..."
+    },
+    {
+      "id": 13,
+      "content": "Tindakan Hong Lu tersebut tiba-tiba membuat suasana ramai di dalam bis menjadi hening mencekik."
+    },
+    {
+      "id": 14,
+      "model": "그레고르",
+      "content": "Ahm... Aku... pikir kita akan butuh waktu untuk membahas topik itu, tapi uh... kau malah langsung main terobos, huh?"
+    },
+    {
+      "id": 15,
+      "model": "홍루",
+      "content": "Aha... Aku pasti membuat suasana jadi canggung. Aku tidak sadar semua orang begitu sensitif soal usia mereka..."
+    },
+    {
+      "id": 16,
+      "model": "돈키호테",
+      "content": "Itu, uh—Tak perlu kau khawatirkan! Janganlah bersikap—"
+    },
+    {
+      "id": 17,
+      "content": "Tentu saja, ada juga seseorang yang sama sekali tidak peduli dengan keadaan sekitarnya."
+    },
+    {
+      "id": 18,
+      "model": "히스클리프",
+      "content": "Hei, minggir. Itu kursi gua yang lu dudukin. Nanti gua tabok lu."
+    },
+    {
+      "id": 19,
+      "model": "이스마엘",
+      "content": "Di sisi lain, ada pria yang tampak tidak peduli sedikit pun. ...Hampir membuatku penasaran apa dia masih ingat apa yang baru saja terjadi."
+    },
+    {
+      "id": 20,
+      "model": "싱클레어",
+      "content": "M-mungkin, ini bisa jadi kesempatanmu untuk balas dendam padanya karena telah memperlakukanmu dengan kasar? Don Quixote, aku yakin kamu bisa—"
+    },
+    {
+      "id": 21,
+      "model": "로쟈",
+      "content": "Sinc... Aku belum pernah lihat matamu berbinar seperti itu sebelumnya..."
+    },
+    {
+      "id": 22,
+      "model": "돈키호테",
+      "content": "Aku... cukup menyukai suasana perusahaan kita sat ini. Kecuali jika nak Heathcliff ini tiba-tiba menjadi penjahat, maka aku sama sekali tidak ingin melakukan kekerasan padanya, dan..."
+    },
+    {
+      "id": 23,
+      "model": "히스클리프",
+      "content": "Oke, sekarang setelah itu selesai... semuanya diam dan kurangi obrolan, ya? Gua mau tidur bentar."
+    },
+    {
+      "id": 24,
+      "model": "이스마엘",
+      "content": "Menurutku dia kedengaran seperti penjahat kurang ajar..."
+    },
+    {
+      "id": 25,
+      "model": "그레고르",
+      "content": "Oke... yang lain ada yang kepikiran juga bahwa sudah waktunya kita mendapatkan \"itu\"."
+    },
+    {
+      "id": 26,
+      "model": "홍루",
+      "content": "Apa \"itu\"?"
+    },
+    {
+      "id": 27,
+      "model": "그레고르",
+      "content": "Yah, kau tahu. \"itu\" yang sebelumnya kita coba, tapi tidak sempat kita nikmati karena... masalah tak terduga."
+    },
+    {
+      "id": 28,
+      "model": "료슈",
+      "content": "Deathmatch."
+    },
+    {
+      "id": 29,
+      "model": "그레고르",
+      "content": "... Bukan itu. Apa tidak ada yang ingat? Kita bahkan main voli di dekat perairan yang luas itu."
+    },
+    {
+      "id": 30,
+      "model": "뫼르소",
+      "content": "Petunjuk mengarahkan bahwa dia sedang mengajukan permohonan cuti."
+    },
+    {
+      "id": 31,
+      "model": "로쟈",
+      "content": "Yap, wajib. Mari kita semua pergi ke spa atau semacamnya, berasantai, dipijat, biar badan kita engga pegal lagi... ya?"
+    },
+    {
+      "id": 32,
+      "model": "이스마엘",
+      "content": "Kamu masih ada harapan ke atasan kita?"
+    },
+    {
+      "id": 33,
+      "model": "돈키호테",
+      "content": "Aha! Aku ingat bahwa nak Meursault pernah memberimu pijatan yang sangat nikmat, bukankah demikian?"
+    },
+    {
+      "id": 34,
+      "model": "뫼르소",
+      "content": "Saya memiliki pengetahuan mendalam tentang kelompok otot utama dan struktur saraf tubuh manusia."
+    },
+    {
+      "id": 35,
+      "model": "이상",
+      "content": "Selama berminggu-minggu setelah \"pijatan\" itu, tubuh hamba kehilangan fungsi rangsangan sensorik...."
+    },
+    {
+      "id": 36,
+      "model": "이상",
+      "content": "Dengan demikian, dapat disimpulkan bahwasanya filosofi terapi Mersault—metodologi pemulihan dari rasa sakit yang paling ampuh adalah dengan menghilangkan semua panca indra, supaya rasa sakit yang dimaksud ikut menghilang..."
+    },
+    {
+      "id": 37,
+      "model": "파우스트",
+      "content": "......."
+    },
+    {
+      "id": 38,
+      "model": "파우스트",
+      "content": "Sepertinya... waktunya telah tiba."
+    },
+    {
+      "id": 39,
+      "model": "파우스트",
+      "content": "Vergilius."
+    },
+    {
+      "id": 40,
+      "model": "베르길리우스",
+      "content": "... Mm."
+    },
+    {
+      "id": 41,
+      "model": "베르길리우스",
+      "content": "Ya, aku tahu hari ini akan tiba."
+    },
+    {
+      "id": 42,
+      "model": "카론",
+      "content": "Mhm. Harinya telah tiba."
+    },
+    {
+      "id": 43,
+      "model": "싱클레어",
+      "content": "... Kenapa semua orang tiba-tiba menjadi serius?"
+    },
+    {
+      "id": 44,
+      "model": "파우스트",
+      "content": "Pengamatan Rodion benar. Meskipun memutar jam memang mengulang waktu, tingkat kelelahan yang semakin parah tidak dapat dihindari."
+    },
+    {
+      "id": 45,
+      "model": "파우스트",
+      "content": "Hal ini mengharuskan kita untuk menggunakan pengukuran tertentu untuk memverifikasi status tiap <ruby=Pendosa>Sinners</ruby>."
+    },
+    {
+      "id": 46,
+      "model": "단테",
+      "content": "<Hal... hal apa yang dibutuhkan sehingga perlu suasana seserius ini...?>"
+    },
+    {
+      "id": 47,
+      "model": "파우스트",
+      "content": "Dengan kata lain..."
+    },
+    {
+      "id": 48,
+      "model": "베르길리우스",
+      "content": "Sudah waktunya untuk..."
+    },
+    {
+      "id": 49,
+      "model": "카론",
+      "content": "G-l-e-k. Suara glek dramatis."
+    },
+    {
+      "id": 50,
+      "model": "베르길파우",
+      "teller": "Faust & Vergilius",
+      "title": "LCB",
+      "content": "<ruby=Pemeriksaan Rutin>Regular check-up</ruby>."
+    },
+    {
+      "id": 51,
+      "model": "단테",
+      "content": "<...<ruby=Pemeriksaan Rutin>Regular check-up</ruby>?>"
+    },
+    {
+      "id": 52,
+      "model": "베르길리우스",
+      "content": "Kita menerima telepon dari atasan beberapa waktu lalu, yang meminta para <ruby=Pendosa>Sinners</ruby> untuk melakukan pemeriksaan rutin."
+    },
+    {
+      "id": 53,
+      "model": "파우스트",
+      "content": "Namun, hal itu berulang kali ditunda karena beberapa kendala di pihak kita."
+    },
+    {
+      "id": 54,
+      "model": "베르길리우스",
+      "content": "Mereka sudah cukup lama mengganggu tentang hal tersebut. Aku sampai lelah menjelaskan ketidakhadiran kita."
+    },
+    {
+      "id": 55,
+      "model": "히스클리프",
+      "content": "Pemeriksaan? Emangnya ada?"
+    },
+    {
+      "id": 56,
+      "model": "베르길리우스",
+      "content": "Jangan terlalu tegang, Heathcliff."
+    },
+    {
+      "id": 57,
+      "model": "베르길리우스",
+      "content": "Proses semacam itu sudah menjadi hal biasa di sebagian besar perusahaan."
+    },
+    {
+      "id": 58,
+      "model": "단테",
+      "content": "<Aku sendiri belum pernah mengalaminya, tapi... sepertinya mereka hanya ingin mengecek kondisi kesehatan kita.>"
+    },
+    {
+      "id": 59,
+      "content": "Aku berbalik, bersiap untuk berkata \"benar kan, Ishmael?\"..."
+    },
+    {
+      "id": 60,
+      "model": "이스마엘",
+      "content": "......."
+    },
+    {
+      "id": 61,
+      "content": "... hanya untuk disambut oleh ekpresi terkejut Ishmael, yang membeku di wajahnya."
+    },
+    {
+      "id": 62,
+      "content": "Yah, ini tak terduga. Kukira Ishmael, dengan berbagai pengalaman kerjanya, akan langsung memanfaatkan kesempatan ini untuk mengajari kita tentang bagaimana suatu perusahaan berjalan di luar Limbus Company..."
+    },
+    {
+      "id": 63,
+      "model": "이스마엘",
+      "content": "P-Pemeriksaan rutin... adalah..."
+    },
+    {
+      "id": 64,
+      "model": "로쟈",
+      "content": "Ohh, dramatis sekali penjelasannya, keren deh!"
+    },
+    {
+      "id": 65,
+      "model": "로쟈",
+      "content": "Kamu punya tiga puluh detik untuk menjelaskannya. Siap, mulai, jalan!"
+    },
+    {
+      "id": 66,
+      "model": "이스마엘",
+      "content": "J-jangan..."
+    },
+    {
+      "id": 67,
+      "model": "이스마엘",
+      "content": "Jangan... pemeriksaan rutin..."
+    },
+    {
+      "id": 68,
+      "model": "이상",
+      "content": "Ekspresi Nona Ishmael sepertinya menunjukkan hal sebaliknya, Nona Rodya..."
+    },
+    {
+      "id": 69,
+      "model": "베르길리우스",
+      "content": "Ah, Aku pernah mendengar bahwa beberapa <ruby=Kantor Fixer>Fixer Offices</ruby> atau <ruby=Asosiasi>Associations</ruby> menggunakan metodologi berbeda dalam hal pemeriksaan rutin, tergantung pada karakteristik mereka."
+    },
+    {
+      "id": 70,
+      "model": "이스마엘",
+      "content": "Terkurung... sampai hanya tersisa satu penyintas... Terkunci... darah rekan-rekanku adalah satu-satunya kunci untuk bebas..."
+    },
+    {
+      "id": 71,
+      "model": "단테",
+      "content": "<\"Pemeriksaan kesehatan\" apa yang sudah dia jalani...?>"
+    },
+    {
+      "id": 72,
+      "content": "Ishmael bukan satu-satunya orang yang bereaksi dengan wajah pucat pasi setelah mendengar saran tersebut."
+    },
+    {
+      "id": 73,
+      "model": "그레고르",
+      "content": "Apa... Apa kalian mengerti jenis \"pemeriksaan\" rutin seperti apa yang akan kamu jalani...?"
+    },
+    {
+      "id": 74,
+      "model": "그레고르",
+      "content": "Aku bertanya apakah kamu siap menjalani pemeriksaan rutin... apa pun yang terjadi selama proses tersebut?"
+    },
+    {
+      "id": 75,
+      "model": "그레고르",
+      "content": "Apakah kalian siap bertahan melewati... melewati semua yang..."
+    },
+    {
+      "id": 76,
+      "model": "히스클리프",
+      "content": "Ini dua orang kenapa dah? Wajahnya pucat gitu."
+    },
+    {
+      "id": 77,
+      "model": "싱클레어",
+      "content": "Ehh, Aku tidak mengerti kenapa semuanya menganggap ini hal yang besar. Kurasa ini tidak seburuk itu."
+    },
+    {
+      "id": 78,
+      "model": "싱클레어",
+      "content": "Seingatku dulu kita juga melakukan pemeriksaan kesehatan tahunan di sekolah."
+    },
+    {
+      "id": 79,
+      "model": "로쟈",
+      "content": "Pemeriksaan seperti apa?"
+    },
+    {
+      "id": 80,
+      "model": "싱클레어",
+      "content": "Mereka menempatkan kami di ruangan yang sama, mengukur tinggi badan, berat, dan melakukan tes kebugaran dasar..."
+    },
+    {
+      "id": 81,
+      "model": "돈키호테",
+      "content": "P-permisi, mengapa mereka mencari pengukuran dari karakteristik tersebut?"
+    },
+    {
+      "id": 82,
+      "model": "오티스",
+      "content": "Apa perlu kau bertanya? Pengetahuan dan analisis lengkap tentang status setiap prajurit adalah informasi penting yang harus dimiliki para perwira."
+    },
+    {
+      "id": 83,
+      "model": "싱클레어",
+      "content": "Uh... Tentara apa? Aku lagi membicarakan sekolahku..."
+    },
+    {
+      "id": 84,
+      "model": "히스클리프",
+      "content": "Sama aja, itu ga menjelaskan kenapa elu <i>perlu</i> tahu tentang hal itu, kan?!"
+    },
+    {
+      "id": 85,
+      "model": "히스클리프",
+      "content": "Emang pentingnya apa mereka nyemprot orang dengan bahan kimia bau cuma buat tahu kalau seseorang punya kutu di pakaian mereka?!"
+    },
+    {
+      "id": 86,
+      "model": "단테",
+      "content": "<Dia... pasti juga pernah mengalami pemeriksaan kesehatan yang berat saat masih kecil, kurasa...>"
+    },
+    {
+      "id": 87,
+      "model": "오티스",
+      "content": "Hmph, kalian semua terus mengajukan pertanyaan dengan jawaban yang sangat jelas."
+    },
+    {
+      "id": 88,
+      "model": "오티스",
+      "content": "Bahkan, aku bertanya-tanya kapan mereka akan menguji kita."
+    },
+    {
+      "id": 89,
+      "content": "Outis dengan percaya diri berjalan ke depan bersama para <ruby=Pendosa>Sinners</ruby>."
+    },
+    {
+      "id": 90,
+      "model": "오티스",
+      "content": "Tujuan sebenarnya dari \"pemeriksaan\" ini pastilah..."
+    },
+    {
+      "id": 91,
+      "model": "오티스",
+      "content": "... untuk memilih seorang pemimpin sejati di antara kita!"
+    },
+    {
+      "id": 92,
+      "content": "... Pemimpin \"sejati\"?"
+    },
+    {
+      "id": 93,
+      "model": "이상",
+      "content": "D-dengan istilah yang anda gunakan, \"pemimpin sejati\", mungkinkah anda mempertanyakan siapa di antara kita yang merupakan... \"ketua\"?"
+    },
+    {
+      "id": 94,
+      "content": "Lah, terus aku apaan??"
+    },
+    {
+      "id": 95,
+      "model": "오티스",
+      "content": "Dengan rendah hati saya meminta anda untuk menghindari kesalahpahaman tentang saran saya, Manajer Eksekutif."
+    },
+    {
+      "id": 96,
+      "model": "오티스",
+      "content": "Tentu saja, saya harus menegaskan bahwa tidak ada sedikit pun keraguan terhadap otoritas Manajer Eksekutif Dante."
+    },
+    {
+      "id": 97,
+      "model": "단테",
+      "content": "<Ohkay...>"
+    },
+    {
+      "id": 98,
+      "model": "오티스",
+      "content": "Namun bukankah ini selalu menjadi topik perdebatan besar? Yaitu, siapa di antara kita..."
+    },
+    {
+      "id": 99,
+      "model": "오티스",
+      "content": "... yang paling tepat untuk memimpin pasukan <ruby=Pendosa>Sinners</ruby>!!!"
+    },
+    {
+      "id": 100,
+      "model": "싱클레어",
+      "content": "Um, bukankah Ishmael? Atau mungkin... Faust?"
+    },
+    {
+      "id": 101,
+      "model": "홍루",
+      "content": "Hm... aku juga berpikir demikian."
+    },
+    {
+      "id": 102,
+      "model": "오티스",
+      "content": "Kurangnya kekompakan inilah yang menyebabkan kita selalu gagal dalam menghadapi musuh sebagai tim! Selalu panik, selalu kurang persiapan, selalu terkejut..."
+    },
+    {
+      "id": 103,
+      "model": "오티스",
+      "content": "Anda harus selalu siap untuk berjongkok dan melakukan lima ratus push-up kapan pun atasan meminta kalian! Selalu pertahankan kemauan pribadi, korbankan kesejahteraan dan hidup kalian demi kemenangan gemilang! Semuanya kulihat tidak ada di diri kalian! Dimana kesiapan kaluan untuk berkorban?!"
+    },
+    {
+      "id": 104,
+      "model": "이스마엘",
+      "content": "Tidak ada yang membantahmu, Outis. Lagian kamu lagi bicara sama siapa...?"
+    },
+    {
+      "id": 105,
+      "model": "홍루",
+      "content": "Aha. <ruby=Pemeriksaan Rutin>\"Regular Check-up\"</ruby> berarti mereka menempatkan kita di ruangan kecil dan melawan satu sama lain hingga hanya satu <ruby=Pendosa>Sinner</ruby> yang bertahan?"
+    },
+    {
+      "id": 106,
+      "content": "Semuanya diam setelah ringkasan singkat dari Hong Lu."
+    },
+    {
+      "id": 107,
+      "model": "료슈",
+      "content": "Battle royale."
+    },
+    {
+      "id": 108,
+      "model": "료슈",
+      "content": "Akhirnya datang juga."
+    },
+    {
+      "id": 109,
+      "model": "히스클리프",
+      "content": "... Persetan. Gue kasih lo semua pertarungan sengit. Dulu, tinju gua terkenal di Backstreets—"
+    },
+    {
+      "id": 110,
+      "model": "이스마엘",
+      "content": "... Oke. Jadi akhirnya begini juga ya? Aku juga sudah siap."
+    },
+    {
+      "id": 111,
+      "model": "단테",
+      "content": "<Guys, ini bukan—>"
+    },
+    {
+      "id": 112,
+      "model": "로쟈",
+      "content": "Okei, jadi kita mau kemana sekarang?"
+    },
+    {
+      "id": 113,
+      "model": "파우스트",
+      "content": "......."
+    },
+    {
+      "id": 114,
+      "model": "파우스트",
+      "content": "Battle ro—um. Permisi. <ruby=Pemeriksaan Rutin>Regular Check-up</ruby> akan dilaksanakan pada..."
+    },
+    {
+      "id": 115,
+      "content": "Para <ruby=Pendosa>Sinners</ruby> tampaknya salah paham tentang <ruby=pemeriksaan rutin>regular check-up</ruby>, tetapi Faust sudah lama menyerah untuk mengoreksi mereka."
+    },
+    {
+      "id": 116,
+      "model": "파우스트",
+      "content": "... kantor pusat."
+    },
+    {
+      "id": 117,
+      "model": "이상",
+      "content": "Perihal kantor pusat yang anda maksud... pastilah markas besar Limbus Company, tidakkah demikian?"
+    },
+    {
+      "id": 118,
+      "model": "파우스트",
+      "content": "Benar."
+    },
+    {
+      "id": 119,
+      "model": "이스마엘",
+      "content": "Ooh... Akhirnya kita mengunjungi kantor pusatnya ya? Sudah setahun penuh setelah mereka mempekerjakan kita..."
+    },
+    {
+      "id": 120,
+      "model": "파우스트",
+      "content": "Kita seharusnya tiba tepat waktu apabila kita berangkat sekarang."
+    },
+    {
+      "id": 121,
+      "model": "돈키호테",
+      "content": "S-s-saat ini juga, katamu? Namun... hati saya masih belum siap... Kumohon, beri kami waktu untuk mempersiapkan bekal perjalanan kami!"
+    },
+    {
+      "id": 122,
+      "model": "이스마엘",
+      "content": "Memangnya kantor pusatnya ada dimana? Semoga tidak jauh dari sini."
+    },
+    {
+      "id": 123,
+      "model": "파우스트",
+      "content": "Itu..."
+    },
+    {
+      "id": 124,
+      "model": "파우스트",
+      "content": "... adalah informasi rahasia. Namun, saya ingin memberi tahu bahwasanya tempat itu berada di lokasi yang tidak dapat diakses oleh Mephistopheles."
+    },
+    {
+      "id": 125,
+      "model": "그레고르",
+      "content": "Oh ayolah... Bagaimana kita bisa ke sana kalau kamu tidak memberitahu di mana lokasinya?"
+    },
+    {
+      "id": 126,
+      "model": "오티스",
+      "content": "Tidak bisa diakses oleh Mephistopheles... Anda tidak akan menyarankan kita naik kereta WARP lagi, bukan?"
+    },
+    {
+      "id": 127,
+      "model": "돈키호테",
+      "content": "Hih, aku tidak akan pernah naik kereta WARP lagi..."
+    },
+    {
+      "id": 128,
+      "model": "파우스트",
+      "content": "Memang benar. Kita tidak akan menaiki kereta WARP untuk perjalanan ini."
+    },
+    {
+      "id": 129,
+      "model": "이스마엘",
+      "content": "Hmm, jadi... kita akan menggunakan <ruby=Pintu Belakang>Backdoors</ruby> atau semacamnya?"
+    },
+    {
+      "id": 130,
+      "model": "히스클리프",
+      "content": "Yeah, ide bagus. Mending lewat situ aja."
+    },
+    {
+      "id": 131,
+      "model": "이상",
+      "content": "Saran yang meyakinkan."
+    },
+    {
+      "id": 132,
+      "model": "이상",
+      "content": "Namun, dikarenakan kurangnya informasi yang memadai mengenai setiap pintu, destinasi kita dapat mengandung unsur ketidakpastian..."
+    },
+    {
+      "id": 133,
+      "model": "이상",
+      "content": "... atau, dikarenakan variabel sifat alami dari periode aktivasinya, destinasi yang dihasilkan mungkin tidak mencerminkan koordinat akhir yang kita inginkan..."
+    },
+    {
+      "id": 134,
+      "model": "이상",
+      "content": "... atau, penutupan tak terduga di perjalanan melalui jalur tersebut mungkin mengharuskan kita untuk mengucapkan selamat tinggal ke perusahaan untuk waktu yang lama dan memulai perjalanan kembali tanpa waktu yang dapat dikira."
+    },
+    {
+      "id": 135,
+      "model": "싱클레어",
+      "content": "Uh, kamu yakin kalau itu saran yang \"meyakinkan\"?"
+    },
+    {
+      "id": 136,
+      "model": "히스클리프",
+      "content": "Haah... Kalau gitu gua mending naik kereta sialan itu. Setidaknya kita tidak akan mengingat apa yang terjadi setelah semuanya selesai."
+    },
+    {
+      "id": 137,
+      "model": "료슈",
+      "content": "Battle. Royale."
+    },
+    {
+      "id": 138,
+      "model": "파우스트",
+      "content": "Jadi..."
+    },
+    {
+      "id": 139,
+      "model": "파우스트",
+      "content": "... penelitian lebih lanjut diperlukan untuk memastikan transportasi aman ke tujuan yang dimaksud."
+    },
+    {
+      "id": 140,
+      "model": "오티스",
+      "content": "penelitian lanjut? Apakah anda telah melakukan modifikasi pada <ruby=Pintu Belakang>Backdoors</ruby>?"
+    },
+    {
+      "id": 141,
+      "model": "파우스트",
+      "content": "Penelitian yang cermat. Namun, akan lebih akurat apabila jika <ruby=Pintu Belakang>Backdoors</ruby> hanya digunakan sebagai referensi."
+    },
+    {
+      "id": 142,
+      "model": "단테",
+      "content": "<Bagaimana caramu meluangkan waktu untuk riset? Bukannya kamu di sini terus selama ini?>"
+    },
+    {
+      "id": 143,
+      "model": "파우스트",
+      "content": "LCA dan Faust telah menjalin berbagai komunikasi dengan perusahaan calon <ruby=Sayap>Wing</ruby> baru selama waktu luang diantara perjalanan misi kita untuk mengumpulkan berbagai kerja sama terkait stabilisasi dari <ruby=Pintu Belakang>Backdoors</ruby>"
+    },
+    {
+      "id": 144,
+    "model": "그레고르",
+    "content": "Sebuah <ruby=Sayap>Wing</ruby> baru...? Apa mereka berniat mengambil alih posisi L Corp. yang kosong atau semacamnya?"
+    },
+    {
+      "id": 145,
+      "model": "파우스트",
+      "content": "Pengamatanmu cukup tajam, Gregor. Namun arah intuisimu masih dapat ditingkatkan."
+    },
+    {
+      "id": 146,
+      "model": "파우스트",
+      "content": "Ini adalah perusahaan yang berupaya merebut kekosongan jabatan yang akan segera terjadi di... W Corp yang kekuasaannya yang terus menurun."
+    },
+    {
+      "id": 147,
+      "model": "그레고르",
+      "content": "W Corp...."
+    },
+    {
+      "id": 148,
+      "model": "이스마엘",
+      "content": "Begitu rupanya... Ya, itu masuk akal. Cerita tentang penurunan kekuasaan W Corp. telah menyebar semakin luas belakangan ini. Dan aku tidak terkejut jika beberapa perusahaan menganggap ini sebagai sebuah peluang."
+    },
+    {
+      "id": 149,
+      "model": "뫼르소",
+      "content": "Surat kabar juga memuat <ruby=artikel opini>Op-Eds</ruby> mengenai kemungkinan krisis manajemen di W Corp., dengan banyak dari mereka juga membahas tentang hilangnya penduduk secara misterius."
+    },
+    {
+      "id": 150,
+      "model": "오티스",
+      "content": "Begitu ya. Jadi mereka telah merencanakan secara diam-diam untuk mengambil alih posisi W Corp sebagai sebuah <ruby=Sayap>Wing</ruby>."
+    },
+    {
+      "id": 151,
+      "model": "오티스",
+      "content": "Tapi... menggantikan sebuah <ruby=Sayap>Wing</ruby> bahkan sebelum mereka runtuh dengan sendirinya? Itu benar-benar aneh."
+    },
+    {
+      "id": 152,
+      "model": "오티스",
+      "content": "Mereka pasti memiliki sesuatu, mungkin sesuatu seperti skema yang sedang dikerjakan. Dan bersekutu dengan pihak yang sangat ambisius seperti itu..."
+    },
+    {
+      "id": 153,
+      "model": "오티스",
+      "content": "...Apakah kantor pusat berencana untuk memulai perang antar <ruby=Sayap>Wings</ruby>?"
+    },
+    {
+      "id": 154,
+      "model": "파우스트",
+      "content": "Saya, pada saat ini, tidak mengetahui rincian tersebut."
+    },
+    {
+      "id": 155,
+      "model": "이상",
+      "content": "Nona Outis, kita tidak perlu membuat prediksi dengan ketergesaan seperti itu."
+    },
+    {
+      "id": 156,
+      "model": "이상",
+      "content": "Ingatlah bahwa W Corp. telah terperosok dalam masalah internal maupun eksternal, hingga jatuh ke dalam keputusasaan dan kehabisan pilihan hingga mencari bantuan dari perusahaan kita..."
+    },
+    {
+      "id": 157,
+      "model": "이상",
+      "content": "Bukanlah dugaan liar untuk memprediksi bahwa mereka akan hancur sebelum datangnya kekacauan yang kejam itu."
+    },
+    {
+      "id": 158,
+      "model": "이상",
+      "content": "Sebab sejatinya, ketidakefisienan adalah kutukan bagi teknologi yang membawa kehancuran untuk mereka yang gagal mengatasinya..."
+    },
+    {
+      "id": 159,
+      "model": "파우스트",
+      "content": "Namun, upaya penelitian kami cukup efisien dan sukses. Mekanismenya mirip dengan <ruby=Pintu Belakang>Backdoor</ruby>, tetapi bagian koridornya dihilangkan; alih-alih membangun koneksi langsung dari satu pintu ke pintu lainnya. Sebuah 'portal', untuk bahasa umumnya."
+    },
+    {
+      "id": 160,
+      "model": "그레고르",
+      "content": "Oh, jadi kalian sudah menyelesaikan semua efek samping yang disebutkan tadi?"
+    },
+    {
+      "id": 161,
+      "model": "파우스트",
+      "content": "...Tidak sepenuhnya. Kesulitan yang serupa dengan kasus-kasus yang disebutkan sebelumnya masih teramati. Terkadang akurasi koordinat tujuan target kurang tepat. Atau, dalam kasus lain, periode aktivasi terhenti lebih cepat, menyebabkan pintu tertutup sebelum waktunya dan mengamputasi subjek saat mereka sedang melintasi ruang antar pintu."
+    },
+    {
+      "id": 162,
+      "model": "파우스트",
+      "content": "Namun, telah banyak kemajuan dalam upaya stabilisasi, yang meminimalkan insiden pembelahan tersebut. Dari pembelahan lima bagian yang kini hanya menjadi pembelahan dua bagian."
+    },
+    {
+      "id": 163,
+      "model": "이상",
+      "content": "Pembelahan dua bagian tentu saja merupakan sebuah peningkatan dibandingkan... pembelahan lima bagian..."
+    },
+    {
+      "id": 164,
+      "model": "단테",
+      "content": "<Kedengarannya sama-sama mengerikan bagiku...>"
+    },
+    {
+      "id": 165,
+      "model": "돈키호테",
+      "content": "Hiks... Aku tidak sanggup melihat sepatu kiri dan kananku terpisah dengan begitu kejam, dipaksa berjauhan saat kita berjalan ke kantor pusat...!"
+    },
+    {
+      "id": 166,
+      "model": "베르길리우스",
+      "content": "Yah."
+    },
+    {
+      "id": 167,
+      "model": "베르길리우스",
+      "content": "Semua obrolan kosong mengenai kekhawatiran tidak perlu ini memberitahuku bahwa kehidupan bis kalian mungkin terlalu tenang."
+    },
+    {
+      "id": 168,
+      "model": "오티스",
+      "content": "Ahem..."
+    },
+    {
+      "id": 169,
+      "model": "베르길리우스",
+      "content": "Hm. Sepertinya 'hasil penelitian' itu sudah tiba selagi kalian membuang-buang waktu."
+    },
+    {
+      "id": 170,
+      "content": "Aku melihat sebuah kendaraan besar yang asing melalui jendela."
+    },
+    {
+      "id": 171,
+      "model": "로쟈",
+      "content": "Itu kendaraannya...? Tapi ga ada jendelanya sama sekali lho?"
+    },
+    {
+      "id": 172,
+      "model": "베르길리우스",
+      "content": "Melelahkan sekali."
+    },
+    {
+      "id": 173,
+      "model": "베르길리우스",
+      "content": "Sekarang, turun dari bis."
+    }
+  ]
+}

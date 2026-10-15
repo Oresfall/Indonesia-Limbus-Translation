@@ -1,0 +1,1571 @@
+{
+  "dataList": [
+    {
+      "id": 114501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Double Slash",
+          "desc": "Final Power +1 untuk setiap 4 ([Combustion] + [Vibration]) pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Triple Slash",
+          "desc": "Final Power +1 untuk setiap 4 ([Combustion] + [Vibration]) pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vibration] dan +2 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Double Slash - Blast [爆]",
+          "desc": "Final Power +1 untuk setiap 4 ([Combustion] + [Vibration]) pada target (maks 4)\n[DefeatDuel] Kehilangan 1 [BulletPropellant]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Habiskan 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Combustion] dan +2 [Combustion] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration] dan +2 Count [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Triple Slash - Blast [爆]",
+          "desc": "Final Power +1 untuk setiap 4 ([Combustion] + [Vibration]) pada target (maks 4)\n[DefeatDuel] Kehilangan 1 [BulletPropellant]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Habiskan 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Combustion] dan +2 [Combustion] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration] dan +2 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Habiskan 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Combustion] dan +2 [Combustion] Count"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Aktifkan [VibrationExplosion] dua kali; lalu kurangi Count [Vibration] target sebanyak 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Blasting Shatterslash [爆碎斬]",
+          "desc": "Prioritaskan target dengan [Prey]\nBisa clash dengan Skill ini tidak peduli dengan Speed\nCoin Power +1 untuk setiap 6 ([Combustion] + [Vibration]) pada target (maks 3)\n[DefeatDuel] Kehilangan 10 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Habiskan 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 4 [Vibration] dan +4 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Habiskan 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Combustion] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Vibration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Aktifkan [Switch_Vibration] menjadi [VibrationIgnition]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Habiskan 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "Jika unit ini spent [BulletPropellant] karena this Coin's efek, beri +50% damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Combustion] dan +3 [Combustion] Count"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Aktifkan [VibrationExplosion] dua kali; lalu kurangi Count [Vibration] target sebanyak 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tanglecleaver [快刀亂麻]",
+          "desc": "Prioritaskan target dengan [Prey]\nBisa Clash dengan Skill ini tidak peduli dengan Speed; unit ini tidak dapat menjadi Stagger sebelum it uses Skill ini\n[WhenUse] Konsumsi semua [BattleSense] Stack pada diri sendiri. Jika unit ini yang dikonsumsi...\n- ... 10+ Stack , peroleh Atk Weight +1 untuk setiap 10 Stack yang dikonsumsi (maks 2)\n- ... 25 Stack, Final Power +1 untuk setiap 4 ([Combustion] + [Vibration]) pada target utama (maks 5)\n[DefeatDuel] Peroleh 4 [ResultReduction]\n[DefeatDuel] Peroleh 1 [Paralysis]\n[DefeatDuel] Beri -80% damage; Skill ini's damage tidak dapat Stagger target; beri hanya setengah the Potency dan Count for both [Combustion] dan [Vibration] diberikan oleh Skill ini (unless raised sebanyak other efek)\n[EndSkill] [FullReload] (sekali per giliran)\n- Jika unit ini memiliki [BulletPropellantSpecial], [ReloadKeepAmmo] saja (sekali per giliran)\n[EndSkill] Ends giliran ini",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Habiskan semua [BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [Combustion], [Combustion] Count, [Vibration], dan Count [Vibration] sebanyak [BulletPropellant] spent"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Aktifkan [Switch_Vibration] menjadi [VibrationIgnition]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Aktifkan [VibrationExplosion] 3 kali; lalu kurangi Count [Vibration] target sebanyak 3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114507,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Savage Tigerslayer's Perfected Flurry of Blades [超絕猛虎殺擊亂斬]",
+          "desc": "Prioritaskan target dengan [Prey]\nBisa Clash dengan Skill ini tidak peduli dengan Speed; unit ini tidak dapat menjadi Stagger sebelum it uses Skill ini\n[WhenUse] Konsumsi semua [BattleSense] Stack pada diri sendiri. Jika unit ini yang dikonsumsi...\n- ... 10+ Stack , peroleh Atk Weight +1 untuk setiap 10 Stack yang dikonsumsi (maks 4)\n- ... 25 Stack, Final Power +1 untuk setiap 4 ([Combustion] + [Vibration]) pada target utama (maks 6)\n- ... 50 Stack, Coin Power +1 dan beri +50% damage\n[DefeatDuel] Peroleh 2 [ResultReduction]\n[DefeatDuel] Peroleh 6 [Paralysis]\n[DefeatDuel] Beri -80% damage; Skill ini's damage tidak dapat Stagger target; beri hanya setengah the Potency dan Count for both [Combustion] dan [Vibration] diberikan oleh Skill ini (unless raised sebanyak other efek)\n[EndSkill] [FullReload] (sekali per giliran)\n- Jika unit ini memiliki [BulletPropellantSpecial], [ReloadKeepAmmo] saja (sekali per giliran)\n[EndSkill] Ends giliran ini",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Habiskan 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Habiskan 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +6 [Combustion] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Habiskan 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Habiskan 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +6 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Habiskan 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Aktifkan [Switch_Vibration] menjadi [VibrationIgnition]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Habiskan 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Aktifkan [VibrationExplosion] 5 kali; lalu kurangi Count [Vibration] target sebanyak 5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114508,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Reloading Tiantui Star's Blade",
+          "desc": "[DuelCounter]\n[DefeatDuel] Kehilangan 1 [BulletPropellant]\n[EndSkill] [FullReload] (sekali per giliran)\n- Jika unit ini memiliki [BulletPropellantSpecial], [ReloadKeepAmmo] saja (sekali per giliran)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Habiskan 1 [BulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Combustion] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 117101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Savage Tigermark Support",
+          "desc": "[EndBattle] Jika unit ini survives, beri 6 [BulletPropellantSpecial] to Lei Heng\n[EndBattle] [DisengageCombat]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Contempt",
+          "desc": "Jika target memiliki 3+ [GazeReplica], double jumlah dari efek negatif diberikan dengan Skill ini\n[WhenUse] Jika target memiliki 6+ [Laceration], Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 4 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Awe",
+          "desc": "Jika target memiliki 3+ [GazeReplica], double jumlah dari efek negatif diberikan dengan Skill ini\n[WhenUse] Jika target memiliki 6+ [Laceration], Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 3 [DefenseDown] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [AttackDmgDown] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Contempt, Awe 【Unleashed】",
+          "desc": "[CantChangeTarget]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vulnerable]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 SP damage"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Naikkan Batas Stagger setara dengan ([GazeReplica] pada target x 5)"
+                },
+                {
+                  "desc": "[EndSkill] Hapus [GazeReplica] pada target"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Contemptuous Thing",
+          "desc": "Prioritaskan Hong Lu\n[WhenUse] Beri 4 [GraspReplica]\n[WhenUse] Peroleh 2 [AttackDmgUp] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Be Awed",
+          "desc": "Prioritaskan target dengan [GraspReplica]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "You Must Confront This",
+          "desc": "[DuelCounter]\n[DefeatDuel] Kurangi target's [GazeReplica] sebanyak 2\n[DefeatDuel] Kurangi target's [GraspReplica] sebanyak 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113507,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Awe, Contempt【Unleashed】",
+          "desc": "[BeforeAttack] Peroleh Atk Weight sebanyak jumlah dari Pendosa dengan 4+ [GazeReplica]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 4+ [GazeReplica], beri 1 [GazeReplica]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113508,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Spiral Warp Field",
+          "desc": "[CanDuelGuard]\n[StartBattle] Jia Huan dan Gubo peroleh 30 Perisai\n[WinDuel] Jia Huan dan Gubo peroleh 30 Perisai",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Front Line Fire",
+          "desc": "Target the frontmost target\n[WhenUse] Peroleh 1 [BoseProjektilReplica]\n[WhenUse] Jika target memiliki 6+ [Laceration], Coin Power +1\n[WhenUse] Peroleh +1 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "+50% Damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rear Line Fire",
+          "desc": "Target the rearmost target\n[WhenUse] Peroleh 1 [BoseProjektilReplica]\n[WhenUse] Jika target memiliki 6+ [Laceration], Coin Power +1\n[WhenUse] Peroleh +2 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "+70% Damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sigilshattered Bullet",
+          "desc": "Target the frontmost target\n[WhenUse] Peroleh 3 [Breath] dan +2 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Coin ini beri damage hanya terhadap target utama"
+                },
+                {
+                  "desc": "[EnemyKill] Coin terakhir beri +100% damage"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Coin ini beri damage hanya terhadap the sub-target"
+                },
+                {
+                  "desc": "+100% Damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration] dan +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bullet Drenched dengan the Blood of a Comrade",
+          "desc": "[CantChangeTarget]\nPrioritaskan N Corp. Employees\n- Jika unit ini failed to attack the targeted unit, cancel Skill ini\n[WhenUse] Peroleh 5 [Breath]\n[EndBattle] Pulihkan 20 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Coin ini beri damage hanya terhadap target utama"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri (HP target pada \"Saat Menyerang' timing) Pride bonus damage dengan Coin terakhir"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kills target"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Coin ini beri damage hanya terhadap the sub-target"
+                },
+                {
+                  "desc": "+100% Damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration] dan +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Sinking] dan +2 Count [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Reminiscence Shattering Bullet",
+          "desc": "[WideAreaRampage]\nBeri +10% damage untuk setiap [BoseProjektilReplica] pada diri sendiri\n[WhenUse] Kehilangan 10 SP\n[EndSkill] Habiskan semua [BoseProjektilReplica] pada diri sendiri",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kehilangan 5 SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kehilangan 5 SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kehilangan 5 SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kehilangan 5 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Melee Combat",
+          "desc": "[DuelCounter]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [Breath]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Completed Heixian Bolus - Wei [未]",
+          "desc": "[WhenUse] Jika target memiliki 5+ ([Laceration] + [Burst]), Clash Power +1\n[WhenUse] Jika target memiliki 7+ ([Laceration] + [Burst]), peroleh 5 [Breath] dan +2 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Completed Heixian Bolus - Yin [寅]",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 5 ([Laceration] + [Burst]) pada target (maks 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [DefenseDown] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 5 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Completed Heixian Bolus - Si [巳]",
+          "desc": "[WhenUse] Jika target utama memiliki 10+ ([Laceration] + [Burst]), Atk Weight +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Racun]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 3 [Racun]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Completed Heixian Bolus - You [酉]",
+          "desc": "[WhenUse] Jika target memiliki 10+ ([Laceration] + [Burst]), Coin Power +1\nInflict 1 [Laceration] dan [DefenseDown] dengan setiap Critical Hit",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 2 SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 2 SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 2 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Completed Heixian Bolus - Hun [混]",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap tipe efek negatif pada target utama (maks 2)\n[DefeatDuel] Beri -50% damage dan damage yang diberikan Skill ini tidak dapat Stagger target\n[EndSkill] Peroleh 2 [Binding] dan 6 [DefenseDown] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 5 [Breath]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 3 [Racun]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri +3 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Completed Heixian Bolus - You [酉] - Defense",
+          "desc": "[CanDuelGuard]\n[WhenUse] Jika target memiliki 5+ ([Laceration] + [Burst]), Coin Power +2\n[WhenUse] Pulihkan 8 SP\n[WhenUse] Peroleh 3 [Breath] dan +2 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Precious Jade's Buaian [寶玉搖籃]",
+          "desc": "[CantChangeTarget]\nPrioritaskan Hong Lu\nKetika Skill ini target Hong Lu, beri 0 damage\n[EndSkill] Ketika Skill ini target Hong Lu, Stagger him, lalu giliran him menjadi [ExpensiveJade] giliran berikutnya; lalu, akhiri giliran",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Supernatural, Strength, Chaos, dan Spirits - Yin Si You [寅巳酉]",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 5 ([Laceration] + [Burst]) pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration] dan 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration] dan 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "You do not know the fathoms of the eye's powers, its special nature",
+          "desc": "Prioritaskan Hong Lu\n[WhenUse] Ketika there is Baoyu, the Precious Jade, ubah semua Coin pada Skill ini menjadi [SuperCoin]\n[WhenUse] Coin Power +1 untuk setiap 5 (sum of [Laceration] dan [Burst] pada target) (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count dan +3 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration] dan 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration] dan 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Please Watch me, O Xianren...!",
+          "desc": "Prioritaskan Hong Lu\n[WinDuel] Peroleh 5 [Breath] dan +2 Count [Breath]\n[DefeatDuel] Peroleh 2 [AttackUp] dan 2 [DefenseDown] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Binding] dan 2 [Vulnerable] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count dan +2 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "You do not know the fate of a Hierarch tanpa the Xianren's care! ",
+          "desc": "[WhenUse] Pulihkan 25 SP\n[DefeatDuel] Beri -50% damage dan damage yang diberikan Skill ini tidak dapat Stagger target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri +2.5% damage untuk setiap ([Burst] + [Laceration]) pada target (maks 50%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Racun]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri +2.5% damage untuk setiap ([Burst] + [Laceration]) pada target (maks 50%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration] dan +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri +2.5% damage untuk setiap ([Burst] + [Laceration]) pada target (maks 50%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst] dan +2 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115206,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nothing But a Meaningless Struggle...!",
+          "desc": "[CanDuelGuard]\n[WinDuel] Jia Mu memulihkan 15 SP. Pada 0 SP, pulihkan 30 SP saja.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115207,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Still, you can do nothing",
+          "desc": "[WhenUse] Peroleh [OutpouringAnger]\n[WhenUse] Pulihkan 8 SP\n[WhenUse] Jika target utama memiliki kurang dari 50% HP, atau jika target utama memiliki 10+ ([Burst] + [Laceration]), ubah Coin Skill ini menjadi [SuperCoin]\n[DefeatDuel] Peroleh 1 [Vulnerable]\n- Ketika losing a clash terhadap Hong Lu, peroleh 2 [Vulnerable] saja",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration] dan 4 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 SP damage dan naikkan Batas Stagger target sebanyak 50% dari damage yang diberikan"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 8 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115208,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "A Hierarch tanpa the Xianren's blessing is a Hierarch in name hanya; she will die an insect's kematian!!!",
+          "desc": "[WhenUse] Pada 30% atau kurang \"Inti\" HP: Coin Power +3, beri +30% damage\n[WhenUse] Pada kurang dari 50% \"Inti\" HP: ubah Coin Skill ini menjadi [SuperCoin]\n[DefeatDuel] Beri -50% damage dan damage yang diberikan Skill ini tidak dapat Stagger target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 1 Heaping Obedience"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 5 SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [PileObedient]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 5 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115209,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Be honored to be in audience of such a great man",
+          "desc": "Dapat Clash dengan Skill ini tanpa peduli dengan Speed; tidak dapat Stagger sebelum menggunakan Skill ini\n[WhenUse] Peroleh 2 [Enhancement], 2 [Endurance], dan 2 [AttackDmgUp] to Bagian \"Tubuh\" giliran berikutnya\n[WhenUse] Pulihkan SP unit ini hingga 30 SP\n[DefeatDuel] Beri -50% damage dan damage yang diberikan Skill ini tidak dapat Stagger target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 10 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115210,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Be dengan this little girl, O Xianren",
+          "desc": "[StartBattle] Body dan \"Inti\" Parts peroleh Perisai setara dengan 10% of their maks HP, masing-masing\n[WhenUse] Body Bagian peroleh 1 [Enhancement], 1 [Endurance], dan 2 [AttackDmgUp] giliran berikutnya\n[WhenUse] Pulihkan 15 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Sinking] dan +2 Count [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "O Xianren...!",
+          "desc": "Dapat Clash dengan Skill ini tanpa peduli dengan Speed; tidak dapat Stagger sebelum menggunakan Skill ini\n[StartBattle] Hasilkan 5 Elder Trees giliran berikutnya\n[DefeatDuel] Beri -50% damage dan damage ini yang diberikan Skill ini tidak dapat Stagger target\n[EndSkill] Ends giliran",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115212,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Please beri me, Shi Miyin, your strength!",
+          "desc": "Jika target memiliki 50%+ HP, Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Among target tanpa [ImperfectEternalLife], choose dan pulihkan 15% HP for kawan dengan HP paling sedikit"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Among target tanpa [ImperfectEternalLife], choose dan pulihkan 15% HP for kawan dengan HP paling sedikit"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115213,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "An Offering of Extreme Extracted Immortality [極仙榨滴供養]",
+          "desc": "[CantIdentify]\nSkill ini tidak dapat beri damage ke kawan\nBisa Clash dengan Skill ini tidak peduli dengan Speed; tidak dapat Stagger sebelum menggunakan Skill ini\n[WhenUse] Coin Power +2 dan beri +20% damage untuk setiap 1 kawan dengan [SupremeEternalLife]\n[WhenUse] Jika there aren't any kawan dengan [SupremeEternalLife], beri 200 Perisai untuk semua target\n[EndSkill] Ends giliran",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target kawan, siphon their remaining HP dan their [ImperfectEternalLife]. Lalu, beri the same jumlah dari [ImperfectEternalLife] Stack untuk semua dari unit ini's Parts giliran berikutnya. Eliminate the Siphoned unit afterward."
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 8 [Laceration] dan 8 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I greet you now",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 5 SP damage"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 1 [Vulnerable] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'll be docile",
+          "desc": "[CanDuelGuard]\n[WinDuel] Jia Mu memulihkan 15 SP. Pada 0 SP, pulihkan 30 SP saja.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'll be your amusement",
+          "desc": "[CantDuel]\n[EndSkill] Kills unit ini dan memulihkan Jia Mu's SP hingga 45 SP. Beri 2 [Enhancement] dan 5 [AttackDmgUp] to Jia Mu giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 15 SP damage "
+                },
+                {
+                  "desc": "[OnSucceedAttack] Naikkan Batas Stagger sebanyak 50% dari damage yang diberikan"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Give me your vitality",
+          "desc": "Jika target memiliki 50%+ HP, Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 20% dari Maks HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 20% dari Maks HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Please me",
+          "desc": "Jika target memiliki 50%+ HP, Clash Power +2\n[WhenUse] Pulihkan 10 SP untuk Jia Mu",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The Xianren's Wise Counsel",
+          "desc": "[WhenUse] Beri 1 [Enhancement] dan 1 [AttackDmgUp] to Jia Mu giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The Xianren's True Counsel",
+          "desc": "[WhenUse] Beri 1 [Endurance] dan 1 [Protection] to Jia Mu giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I need lebih vitality...",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115214,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nothing But a Meaningless Struggle...!",
+          "desc": "[CanDuelGuard]\n[WhenUse] Coin Power +1 untuk setiap 5 ([Laceration] + [Burst]) pada target (maks 3)\n[WinDuel] Beri +1 [Burst] Count, beri 2 [DefenseDown]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

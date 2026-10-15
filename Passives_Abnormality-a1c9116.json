@@ -1,0 +1,54 @@
+{
+  "dataList": [
+    {
+      "id": 112601,
+      "name": "Bestowed Mission",
+      "desc": "Awal Pertempuran: peroleh [WeighedMurderousIntend]"
+    },
+    {
+      "id": 112603,
+      "name": "Strider [Mao]",
+      "desc": "Ketika menyerang target dengan slower Speed than unit ini's, beri +1 lebih [Burst] atau [Burst] Count dan beri +10% damage"
+    },
+    {
+      "id": 112602,
+      "name": "Vigor [Mao]",
+      "desc": "Saat Menyerang terhadap musuh dengan [BurstAgility]: beri +2 [Burst] Count pada target (6 kali per giliran)"
+    },
+    {
+      "id": 112604,
+      "name": "Dominator [Mao]",
+      "desc": "Saat Pakai Skill, jika Speed unit ini lebih cepat daripada target sebanyak 2 atau lebih, Coin Power +1"
+    },
+    {
+      "id": 112701,
+      "name": "The Big Brother",
+      "desc": "Awal Giliran: semua kawan, termasuk unit ini, pulihkan 10 SP\nTerima -20% damage dari [Combustion], [Laceration], [Vibration], [Burst], [Sinking]"
+    },
+    {
+      "id": 112702,
+      "name": "Tato Pembalasan",
+      "desc": "Every time a Middle kawan terbunuh in this encounter, peroleh 1 [AttackUp] (maks 5)"
+    },
+    {
+      "id": 112703,
+      "name": "Deeper in the World of Bristly",
+      "desc": "Jika unit ini kehilangan 2 Clashes, peroleh 6 [DefenseDown] giliran berikutnya"
+    },
+    {
+      "id": 112704,
+      "name": "Buku Balas Dendam",
+      "desc": "Ketika unit ini atau its kawan diserang, beri 1 [MiddleFingerBook] terhadap penyerang, lalu peroleh 1 [AttackUp] giliran berikutnya (maks 5 per giliran)\n- Ketika an unit kawan dari The Middle terbunuh oleh Skill, beri 2 tambahan [MiddleFingerBook] terhadap penyerang"
+    },
+    {
+      "id": 112705,
+      "name": "Wounded in Battle",
+      "desc": "Mulai Pertempuran dengan 40% kurang HP (termasuk Parts)"
+    },
+    {
+      "id": 112707,
+      "name": "Brush it Off",
+      "desc": "Ketika in panic, pulih dari panic saat dimulainya giliran berikutnya dan reset SP ke 0."
+    }
+  ]
+}

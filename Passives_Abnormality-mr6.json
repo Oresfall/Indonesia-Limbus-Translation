@@ -1,0 +1,84 @@
+{
+  "dataList": [
+    {
+      "id": 814201,
+      "name": "Dueling",
+      "desc": "Ketika HP falls di bawah 50%, uses a special skill to target 1 unit, lalu menjadi imun terhadap Stagger dan Panik for the next 2 giliran.\nJika Yi Sang has 'Dueling', Dongbaek peroleh 1 Attack Power Up.\nJika Yi Sang wins the duel, semua kawan peroleh 3 Damage Up giliran berikutnya.\nJika Dongbaek wins the duel, Dongbaek memulihkan seluruh SP."
+    },
+    {
+      "id": 118301,
+      "name": "I am yet to hear your answer.",
+      "desc": "Every Awal Giliran: \"Inti\" dan Bagian peroleh 900 Perisai.\n- Ketika unit dengan the earliest Deployment order has [Teaching], kehilangan 300 Perisai per Stack\n- Ketika unit dengan the earliest Deployment order has 3+ [Teaching], unit ini tidak memperoleh Perisai for the rest of Pertempuran"
+    },
+    {
+      "id": 118701,
+      "name": "Watch this little girl...!",
+      "desc": "Jika terdapat unit ini's summoned unit pada Awal Giliran, pulihkan 10 SP"
+    },
+    {
+      "id": 124105,
+      "name": "Tigermark Round Reload",
+      "desc": "Akhir Giliran: at 90% atau kurang HP, atau pada end of the 2nd giliran, reload [BulletPropellant] dan peroleh pola baru giliran berikutnya\n- Jika unit ini kena Stagger, pulih dari Stagger"
+    },
+    {
+      "id": 124106,
+      "name": "Lei Heng [雷橫]",
+      "desc": "Akhir Giliran: at 80% atau kurang HP, atau pada end of the 4th giliran, peroleh pola baru giliran berikutnya\n- Gunakan serangan kuat ('Tanglecleaver'), repeat setiap 3rd giliran. +10 to Min & Maks Speed untuk giliran in which unit ini menggunakan Skill ini\n- Pada the start of that giliran, peroleh 25 [BattleSense]\n- Jika unit ini kena Stagger, pulih dari Stagger"
+    },
+    {
+      "id": 124107,
+      "name": "Tiantui Star [天退星]",
+      "desc": "Jika HP unit ini dropped to 60% atau di bawah pada Akhir Giliran, atau jika unit ini is set untuk menggunakan serangan kuat ('Tanglecleaver') giliran berikutnya for the second time Pertempuran ini, peroleh pola baru giliran berikutnya\n- Ketika that giliran starts, peroleh 1 [Irritation]\n- Ketika that giliran starts, peroleh 18 [BulletPropellantSpecial] dan reload immediately\n· Jika unit ini spends semua [BulletPropellantSpecial], ubah efek to [BulletPropellant] dan summon 2 dari \"Stern Soldato of the Thumb\" unit giliran berikutnya dan have them supply unit ini dengan [BulletPropellantSpecial]\n- Ketika Stagger, pulih dari Stagger"
+    },
+    {
+      "id": 124108,
+      "name": "Lei Heng, The Pinky's Tiantui Star",
+      "desc": "Akhir Giliran: at 40% atau kurang HP, atau jika unit ini is set untuk menggunakan serangan kuat ('Tanglecleaver') giliran berikutnya for the third time Pertempuran ini, peroleh pola baru giliran berikutnya\n- Replace the powerful attack 'Tanglecleaver' dengan 'Savage Tigerslayer's Perfected Flurry of Blades'. +15 to Min & Maks Speed untuk giliran in which unit ini menggunakan Skill ini\n- Ubah [BattleSense] to [RestoredBattleSense]\n- Ubah [Irritation] to [DerivativeHugeIrritation]\n- Jika unit ini kena Stagger, pulih dari Stagger"
+    },
+    {
+      "id": 124112,
+      "name": "Tiantui Star's Blade - Kepanasan",
+      "desc": "Jika unit ini used serangan kuat ('Tanglecleaver' atau 'Savage Tigerslayer's Perfected Flurry of Blades'), peroleh [Complacency] giliran berikutnya setara dengan jumlah dari kali those skills were used (maks 5)"
+    },
+    {
+      "id": 124301,
+      "name": "I'm Stuffed",
+      "desc": "Pada 10+ [FullCharon]...\n- Awal Giliran: enter a forced Stagger State (for a giliran)\n- Akhir Giliran: hilangkan [HungryCharon] dan [FullCharon] completely"
+    },
+    {
+      "id": 124302,
+      "name": "Vroom-vroom. Angry now",
+      "desc": "Awal Pertempuran: Vergilius peroleh 1 [HungryCharon]\nPada 3 [HungryCharon], uses a devastating attack (\"Vroom-Vroom\")\n※ Tidak aktif at \"Awal Pertempuran\" jika unit ini kena Stagger karena [FullCharon]"
+    },
+    {
+      "id": 124303,
+      "name": "Got Permen?",
+      "desc": "Awal Giliran: in Deployment Order, beri 1 [GiveMeCandy] terhadap 1 musuh tanpa [GiveMeCandy]"
+    },
+    {
+      "id": 124304,
+      "name": "Kkomi's not a Piñata",
+      "desc": "Beri 1 [GiveMeCandy] to target who attacked Kkomi"
+    },
+    {
+      "id": 124001,
+      "name": "Shattering, Scattering Hardblood",
+      "desc": "Ketika unit ini terbunuh karena musuh attack atau Status efek damage, increase [BloodDinner] sebanyak 30. Tidak aktif jika unit ini killed itself."
+    },
+    {
+      "id": 124002,
+      "name": "Memories of the Journeys Masa Lalu",
+      "desc": "Beri special efek ke semua kawan"
+    },
+    {
+      "id": 124003,
+      "name": "Memories of the Journeys Masa Lalu",
+      "desc": "Awal Giliran: Beri 3 [Laceration] dan +1 [Laceration] Count terhadap semua musuh"
+    },
+    {
+      "id": 124004,
+      "name": "Memories of the Journeys Masa Lalu",
+      "desc": "Akhir Giliran: Beri 1 [RegainedStrength] on Don Quixote"
+    }
+  ]
+}

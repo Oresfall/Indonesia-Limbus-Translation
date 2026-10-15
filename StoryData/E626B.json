@@ -1,0 +1,709 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Di Dalam Mephistopheles",
+      "model": "단테",
+      "content": "<Jadi, lorong ini mengarah langsung ke dalam Mephistopheles...?>"
+    },
+    {
+      "id": 1,
+      "model": "카세티혈귀",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "Di sinilah semuanya bermula... Bus... bus bodoh ini membangunkanku dari tidurku!"
+    },
+    {
+      "id": 2,
+      "model": "카세티혈귀",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "Seandainya saja bus ini tidak sepenuhnya memenuhi gerbong barang... Aku tidak berencana memulai Parade secepat ini... atau menciptakan <ruby=Keturunan>Kindred</ruby> sama sekali..."
+    },
+    {
+      "id": 3,
+      "model": "다친파우스트",
+      "content": "... Dante."
+    },
+    {
+      "id": 4,
+      "model": "단테",
+      "content": "<Hm?>"
+    },
+    {
+      "id": 5,
+      "model": "다친파우스트",
+      "content": "Koneksinya telah dipulihkan."
+    },
+    {
+      "id": 6,
+      "content": "Koneksi...?"
+    },
+    {
+      "id": 7,
+      "content": "Pernyataan mendadaknya sempat membuyarkan jalan pikiranku. Aku menatapnya dan memiringkan kepalaku dengan bingung, dan dia menjawab dengan bisikan yang lebih pelan tanpa mengalihkan pandangan dari sang <ruby=Iblis Darah>Bloodfiend</ruby>."
+    },
+    {
+      "id": 8,
+      "model": "다친파우스트",
+      "content": "Naik ke atas Mephistopheles telah... membangun kembali koneksi saya dengan Faust."
+    },
+    {
+      "id": 9,
+      "model": "단테",
+      "content": "<…!>"
+    },
+    {
+      "id": 10,
+      "model": "단테",
+      "content": "<Kamu tahu kalau ini akan berhasil?>"
+    },
+    {
+      "id": 11,
+      "model": "다친파우스트",
+      "content": "Tidak. Dan seperti yang sudah saya nyatakan sebelumnya, ini murni sebuah pertaruhan tak terhitung berdasarkan hipotesis saya sendiri yang tidak pasti."
+    },
+    {
+      "id": 12,
+      "model": "다친파우스트",
+      "content": "Kesuksesan ini sedikit membantu saya memahami ketertarikan Nona Rodya terhadap perjudian."
+    },
+    {
+      "id": 13,
+      "content": "Senyum tipis sesaat muncul di bibir Faust saat dia bercanda, lalu memudar."
+    },
+    {
+      "id": 14,
+      "model": "다친파우스트",
+      "content": "Sekarang setelah koneksi dibangun kembali, saya ingin mengajukan keluhan terhadap para Faust di manajemen Gesellschaft mengenai fakta bahwa mereka lalai mencantumkan informasi terkait hilangnya koneksi di bagian dalam kereta WARP, namun..."
+    },
+    {
+      "id": 15,
+      "model": "다친파우스트",
+      "content": "... menemukan solusi untuk situasi ini lebih diutamakan. Saya punya banyak alasan untuk percaya bahwa kelalaian mereka dilakukan dengan sengaja, tapi... saya harap tidak demikian."
+    },
+    {
+      "id": 16,
+      "content": "Faust melangkah maju perlahan ke arah sang <ruby=Iblis Darah>Bloodfiend</ruby>."
+    },
+    {
+      "id": 17,
+      "model": "다친파우스트",
+      "content": "... Mari kita bahas rincian kompromi kita. Apa yang bersedia anda terima sebagai imbalan atas kartu kunci utama?"
+    },
+    {
+      "id": 18,
+      "model": "카세티혈귀",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "Jika kau hanyalah sembarang orang, aku pasti ingin mengubah kalian semua menjadi <ruby=Kantung Darah>Bloodbags</ruby> dan meminum setiap tetes terakhir darahmu... tapi kau tidak seperti orang biasa..."
+    },
+    {
+      "id": 19,
+      "model": "카세티혈귀",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "Keinginanku adalah untuk menjaga kerahasiaan kerajaanku ini selama mungkin. Dan keinginanmu adalah untuk meninggalkan tempat ini, bukan?"
+    },
+    {
+      "id": 20,
+      "model": "카세티혈귀",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "Setelah kuberikan kartu kunci ini padamu... dan setelah kau kembali ke kursi kelas utamamu... kita akan hidup bahagia di sini selamanya seolah-olah tidak terjadi apa-apa!"
+    },
+    {
+      "id": 21,
+      "model": "카세티혈귀",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "Dan ketika kereta sampai di sana, kalian turun dari kereta. Semuanya kembali seperti yang seharusnya. Bagaimana menurutmu soal kesepakatan ini?"
+    },
+    {
+      "id": 22,
+      "model": "다친파우스트",
+      "content": "Seolah-olah tidak terjadi apa-apa..."
+    },
+    {
+      "id": 23,
+      "model": "단테",
+      "content": "<... Faust, bagaimana dengan tugas yang dikontrakkan kepada kita sejak awal...?>"
+    },
+    {
+      "id": 24,
+      "model": "다친파우스트",
+      "content": "Setibanya di sana, ingatan kita dan tanda-tanda pertempuran apa pun akan terhapus sepenuhnya. Kita tidak akan punya cara untuk menyampaikan berita tersebut, entah itu keberhasilan atau kegagalan."
+    },
+    {
+      "id": 25,
+      "model": "다친파우스트",
+      "content": "Jika kita punya sarana untuk mengalahkannya, maka setidaknya W Corp. akan memberi tahu kita bahwa kontrak kita berhasil setelah kejadian tersebut. Namun..."
+    },
+    {
+      "id": 26,
+      "model": "다친파우스트",
+      "content": "... skenario saat ini tidak akan menyisakan apa pun untuk ditunjukkan, bahkan petunjuk sekecil apa pun, dan kontrak akan berakhir dengan kegagalan."
+    },
+    {
+      "id": 27,
+      "model": "다친파우스트",
+      "content": "Namun, yang lebih utama daripada kontrak adalah stabilitas psikologis anda dan para <ruby=Pendosa>Sinners</ruby>."
+    },
+    {
+      "id": 28,
+      "model": "단테",
+      "content": "<…….>"
+    },
+    {
+      "id": 29,
+      "content": "Kita engga berhasil terus sih, jadi opsi itu bisa kuterima. Tapi..."
+    },
+    {
+      "id": 30,
+      "model": "단테",
+      "content": "<Tapi... bagaimana dengan penumpang lain di kereta ini? Dan para penumpang di masa depannya?>"
+    },
+    {
+      "id": 31,
+      "content": "Aku ingat ekspresi wajah Don Quixote setiap kali kita menemui bentuk ketidakadilan yang tak terelakkan ini."
+    },
+    {
+      "id": 32,
+      "model": "다친파우스트",
+      "content": "……."
+    },
+    {
+      "id": 33,
+      "content": "Faust tidak menjawab."
+    },
+    {
+      "id": 34,
+      "content": "Namun, tidak adanya jawaban adalah sebuah jawaban tersendiri."
+    },
+    {
+      "id": 35,
+      "model": "단테",
+      "content": "<... Apakah kita harus membiarkan mereka... mati?>"
+    },
+    {
+      "id": 36,
+      "content": "Nyawa tak bersalah akan hilang. Tapi kita tak bisa memprioritaskan nyawa mereka di atas keselamatan kita."
+    },
+    {
+      "id": 37,
+      "content": "Itu pasti kebijakan Faust... dan perusahaan."
+    },
+    {
+      "id": 38,
+      "content": "Namun tetap saja…"
+    },
+    {
+      "id": 39,
+      "model": "돈키호테다침",
+      "content": "Aku... aku takkan membiarkan ini..."
+    },
+    {
+      "id": 40,
+      "model": "단테",
+      "content": "<D-Don Quixote...>"
+    },
+    {
+      "id": 41,
+      "content": "Kupikir lukanya terlalu parah bahkan untuk sekadar merangkak, apalagi berjalan, tapi... dengan kemauan keras, dia memaksakan diri melewati rasa sakit untuk mencapai gerbong barang."
+    },
+    {
+      "id": 42,
+      "model": "돈키호테다침",
+      "content": "Aku... tidak akan menoleransi ini... Kita tidak bisa... membiarkan bajingan keji ini hidup... dan menutup mata terhadap... semua yang telah dia lakukan..."
+    },
+    {
+      "id": 43,
+      "model": "카세티혈귀",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "D-dia lagi...! Lagi-lagi dia...!"
+    },
+    {
+      "id": 44,
+      "model": "카세티혈귀",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "A-apa, kau ingin tinggal di sini selamanya di dalam kereta ini? Aku... aku tahu apa tujuan semua ini! Segalanya bergantung pada kunci ini, bukan? Begitu aku mematahkannya menjadi dua, kau harus menghabiskan waktu selamanya di dalam—"
+    },
+    {
+      "id": 45,
+      "model": "돈키호테다침",
+      "content": "Aku... tidak peduli... Aku akan menyambutnya... bahkan jika itu berarti memberikan hukuman selama berabad-abad kepadamu... Itu jauh lebih baik daripada membiarkan kejahatanmu tidak terjawab... Biarlah tempat ini menjadi lokasi penghakiman abadi bagimu..."
+    },
+    {
+      "id": 46,
+      "content": "Faust dan aku memegangi Don Quixote. Dia biasanya cukup kuat untuk melepaskan diri dari genggaman kami, tapi dia sudah melampaui batas kemampuannya hanya dengan berjalan ke sini."
+    },
+    {
+      "id": 47,
+      "model": "돈키호테다침",
+      "content": "Faust... lepaskan aku...! Anda tidak boleh membiarkannya hidup, Manajer Terhormat...!"
+    },
+    {
+      "id": 48,
+      "model": "단테",
+      "content": "<Don Quixote... Membiarkannya menghancurkan kunci itu berarti anda akan menghukum para <ruby=Pendosa>Sinners</ruby> dalam penderitaan ribuan tahun.>"
+    },
+    {
+      "id": 49,
+      "model": "돈키호테다침",
+      "content": "Maka aku akan... mengisi milenium tersebut dengan kisah-kisah paling menarik... yang pernah aku baca di majalah. Tidak ada jumlah waktu, betapapun tak terlukiskannya... yang terlalu besar untuk diatasi jika kita berjuang bersama..."
+    },
+    {
+      "id": 50,
+      "model": "다친파우스트",
+      "content": "Tentu saja, anda menyadari bahwa saran anda sama sekali bukan solusi, Don Quixote."
+    },
+    {
+      "id": 51,
+      "model": "돈키호테다침",
+      "content": "L-lalu pasti ada jalan lain...? Tidak ada...?"
+    },
+    {
+      "id": 52,
+      "model": "돈키호테다침",
+      "content": "Anda berdua adalah pemilik kebijaksanaan yang luar biasa... Faust, Manajer Terhormat... Apakah benar-benar tidak ada jalan di mana kita bisa menegakkan keadilan bagi sang penjahat, dan para <ruby=Pendosa>Sinners</ruby> tetap tidak terluka...?"
+    },
+    {
+      "id": 53,
+      "model": "다친파우스트",
+      "content": "……."
+    },
+    {
+      "id": 54,
+      "content": "Perlawanannya mulai melemah. Tapi ini bukan sebuah penerimaan. Ini adalah rasa putus asa."
+    },
+    {
+      "id": 55,
+      "model": "단테",
+      "content": "<T-tunggu! Don Quixote, JANGAN!>"
+    },
+    {
+      "id": 56,
+      "content": "Dalam keributan itu, kami gagal menyadari bahwa sang <ruby=Iblis Darah>Bloodfiend</ruby> telah diam-diam mendekat ke arah kami; kami melepaskan Don Quixote di detik-detik terakhir..."
+    },
+    {
+      "id": 57,
+      "content": "... sedetik terlambat."
+    },
+    {
+      "id": 58,
+      "model": "카세티혈귀",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "O, Ayah... maafkan pelanggaranku, karena aku akan menciptakan yang lain tanpa izinmu..."
+    },
+    {
+      "id": 59,
+      "model": "카세티혈귀",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "Kau akan menjadi <ruby=Keturunan>Kindred</ruby>-ku berikutnya...!"
+    },
+    {
+      "id": 60,
+      "content": "Cassetti berteriak tidak jelas saat dia melompat ke arah Don Quixote, menusuk lehernya dengan taringnya bahkan sebelum kami sempat melakukan apa pun."
+    },
+    {
+      "id": 61,
+      "model": "단테",
+      "content": "<…!>"
+    },
+    {
+      "id": 62,
+      "model": "다친파우스트",
+      "content": "... Oh, saya tidak menyangka ini akan menjadi solusinya..."
+    },
+    {
+      "id": 63,
+      "model": "단테",
+      "content": "<Faust...? Apa maksud anda... \"solusinya\"...?>"
+    },
+    {
+      "id": 64,
+      "model": "다친파우스트",
+      "content": "... Menurut informasi yang pernah saya lihat di masa lalu, dan sekali lagi baru saja, ini adalah..."
+    },
+    {
+      "id": 65,
+      "model": "다친파우스트",
+      "content": "Mm. ... Dante. Berlindunglah di belakang saya dan tetaplah diam."
+    },
+    {
+      "id": 66,
+      "model": "다친파우스트",
+      "content": "Dan tolong, perhatikan bahwa para <ruby=Pendosa>Sinners</ruby> lainnya tidak boleh mendengar sepatah kata pun tentang apa yang akan terjad—"
+    },
+    {
+      "id": 67,
+      "model": "돈키호테다침",
+      "content": "Oh."
+    },
+    {
+      "id": 68,
+      "content": "Don Quixote melayang sedikit ke udara, tali pada sepatunya terlepas saat sepatunya terlepas dari kakinya dengan sendirinya."
+    },
+    {
+      "id": 69,
+      "content": "Dia menatap dengan bingung saat sepatunya jatuh ke lantai."
+    },
+    {
+      "id": 70,
+      "content": "Dan..."
+    },
+    {
+      "id": 71,
+      "model": "돈키호테다침",
+      "content": "AAAAAAAAGGGHHHHHHHH!"
+    },
+    {
+      "id": 72,
+      "model": "돈키호테다침",
+      "content": "GAAAAAAAAAAHHHHHHHH! ROCINANTE!!!!!!!!!!"
+    },
+    {
+      "id": 73,
+      "content": "Aku selalu mendapati pertanyaan ini berputar-putar di pikiranku."
+    },
+    {
+      "id": 74,
+      "place": "Di Dalam Mephistopheles, Masa Lalu",
+      "model": "단테",
+      "content": "<Kenapa anda selalu begitu... protektif terhadap sepatu lari itu, Don Quixote?>"
+    },
+    {
+      "id": 75,
+      "model": "돈키호테",
+      "content": "Hm? Sepatu lari? Ah..."
+    },
+    {
+      "id": 76,
+      "model": "돈키호테",
+      "content": "Apakah anda berbicara tentang Rocinante hamba yang tercinta?"
+    },
+    {
+      "id": 77,
+      "model": "단테",
+      "content": "<Uh... iya, yang itu.>"
+    },
+    {
+      "id": 78,
+      "model": "돈키호테",
+      "content": "Aku! Telah bertempur melewati suka dan duka, pesta dan kelaparan, bersama Rocinante tercinta. Dalam duka, dan dalam suka, tidak peduli seberapa brutal ujian yang menimpaku, ia telah menjadi tunggangan setia di sisiku selama apa pun ia telah ada."
+    },
+    {
+      "id": 79,
+      "content": "Dia... tidak tahu kapan dia mendapatkannya?"
+    },
+    {
+      "id": 80,
+      "model": "돈키호테",
+      "content": "Ah, Manajer Terhormat! Mengapa anda tidak memberi salam pada Rocinante juga? Ini mungkin kesempatan yang sangat menguntungkan untuk melakukannya!"
+    },
+    {
+      "id": 81,
+      "model": "단테",
+      "content": "<Tidak, sepertinya aku tidak perlu...>"
+    },
+    {
+      "id": 82,
+      "model": "돈키호테",
+      "content": "Aha, jangan malu-malu! Majulah!"
+    },
+    {
+      "id": 83,
+      "model": "카론",
+      "content": "Kelihatannya bau. Gadis kecil menyiksa jamnya dengan bau."
+    },
+    {
+      "id": 84,
+      "model": "돈키호테",
+      "content": "Itu tidak benar! Meskipun tampak usang, Rocinante berada dalam kondisi bersih...! Juga, kau tidak boleh memanggilku sebagai \"gadis keci—"
+    },
+    {
+      "id": 85,
+      "model": "카론",
+      "content": "Evakuasi. Evakuasi."
+    },
+    {
+      "id": 86,
+      "place": "Kamar Dante, Masa Lalu",
+      "model": "단테",
+      "content": "<Don Quixote, jangan katakan padaku kalau kamu tidur pakai sepatu lari it— maksudku, Rocinante.>"
+    },
+    {
+      "id": 87,
+      "model": "돈키호테",
+      "content": "Oho, hamba selalu merasa yakin bahwa seseorang yang sangat terhormat seperti anda, Manajer Terhormat, akan peduli untuk menanyakan kabar Rocinante!"
+    },
+    {
+      "id": 88,
+      "content": "Aku tidak menyebutkan bahwa pertanyaan ini terinspirasi oleh banyak laporan saksi mata dari para <ruby=Pendosa>Sinners</ruby> lain yang melihatnya berkeliaran di aula dengan piyamanya... dan mengenakan Rocinante."
+    },
+    {
+      "id": 89,
+      "model": "돈키호테",
+      "content": "Sesungguhnya, Rocinante dan aku tetap terikat bersama, bahkan dalam tidur! Tidak akan ada yang bisa memisahkan kami berdua!"
+    },
+    {
+      "id": 90,
+      "model": "돈키호테",
+      "content": "Kami terikat bukan karena butuh atau mau, kami terikat begitu saja melalui nasib buruk dan kegembiraan."
+    },
+    {
+      "id": 91,
+      "content": "Sekarang kalau dipikir-pikir lagi, setiap <ruby=Identitas>Identity</ruby> Don Quixote juga mengenakan sepasang sepatu lari itu, \"Rocinante.\""
+    },
+    {
+      "id": 92,
+      "model": "단테",
+      "content": "<Apa kamu pernah melepaskannya...?>"
+    },
+    {
+      "id": 93,
+      "model": "돈키호테",
+      "content": "Melepaskannya? Astaga, apa maksud anda? Seperti dalam... memisahkan Rocinante dari tubuhku? Itu lelucon yang sangat aneh yang anda buat!"
+    },
+    {
+      "id": 94,
+      "place": -1,
+      "content": "Dia menatapku dengan mata bingung, seolah melepaskan sepasang sepatu lari itu entah bagaimana merupakan ide yang tak terbayangkan."
+    },
+    {
+      "id": 95,
+      "content": "Itu adalah sesuatu yang jauh lebih dari sekadar sepasang sepatu lari favoritnya. Sikapnya tentang hal itu juga sama sekali terlepas dari akal sehat, tapi dia tidak menyadari sesuatu yang aneh tentang dirinya..."
+    },
+    {
+      "id": 96,
+      "content": "Apa arti Rocinante bagi Don Quixote?"
+    },
+    {
+      "id": 97,
+      "content": "Benda apa itu sebenarnya?"
+    },
+    {
+      "id": 98,
+      "place": "Di Dalam Mephistopheles",
+      "model": "단테",
+      "content": "<Gnnngh…!>"
+    },
+    {
+      "id": 99,
+      "content": "Tekanan yang luar biasa kuat tiba-tiba meledak, memancar ke segala arah..."
+    },
+    {
+      "id": 100,
+      "content": "... saat aroma logam dari darah mencekik bus, mengisi setiap sudutnya dengan kengerian yang memuakkan."
+    },
+    {
+      "id": 101,
+      "content": "... Lalu, kegelapan."
+    },
+    {
+      "id": 102,
+      "model": "카세티혈귀",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "T-tidak... itu... mustahil..."
+    },
+    {
+      "id": 103,
+      "content": "Dalam kegelapan yang melahap segalanya, suara adalah satu-satunya yang bisa kita lihat."
+    },
+    {
+      "id": 104,
+      "model": "카세티혈귀",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "Kau... kau adalah... <ruby=Keturunan Kedua>Second Kindred</ruby>... Bagaimana bisa kau... Aku seharusnya merasakan keberadaanmu...!"
+    },
+    {
+      "id": 105,
+      "content": "Kurasa aku melihat sedikit... kilauan."
+    },
+    {
+      "id": 106,
+      "content": "Warnanya merah... dan dia mengenakan semacam hiasan bulu panjang."
+    },
+    {
+      "id": 107,
+      "content": "Dan melalui kilauan itu, aku melihat... kurasa aku melihat... mata merah."
+    },
+    {
+      "id": 108,
+      "model": "실루엣돈키호테",
+      "teller": "Don Quixote?",
+      "title": "???",
+      "content": "Kau telah melakukan dosa ketidakhormatan kepada orang tuamu. Pelanggar."
+    },
+    {
+      "id": 109,
+      "content": "Aku tahu suara itu. Tapi aku juga tidak tahu. Aku belum pernah mendengarnya dalam nada rendah dan berwibawa seperti itu sebelumnya."
+    },
+    {
+      "id": 110,
+      "content": "Ia berbicara kepada makhluk yang lebih rendah."
+    },
+    {
+      "id": 111,
+      "content": "Sang <ruby=Iblis Darah>Bloodfiend</ruby>, mengerut dan berlutut, gemetar... menyedihkan."
+    },
+    {
+      "id": 112,
+      "model": "카세티혈귀",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "Ampun, o leluhur yang dimuliakan. Aku memohon ampun pada <ruby=Sang Keturunan Kedua>the Second Kindred</ruby>, aku memohon ampun pada <ruby=Sang Keturunan Kedua>the Second Kindred</ruby>, aku memohon—"
+    },
+    {
+      "id": 113,
+      "model": "실루엣돈키호테",
+      "teller": "Don Quixote?",
+      "title": "???",
+      "content": "Dasar sampah."
+    },
+    {
+      "id": 114,
+      "model": "카세티혈귀",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "Kahhh..."
+    },
+    {
+      "id": 115,
+      "content": "Tetesan darah merah perlahan naik di sekitar mulut sang <ruby=Iblis Darah>Bloodfiend</ruby>... sebelum membeku dan menutup mulutnya rapat-rapat."
+    },
+    {
+      "id": 116,
+      "model": "실루엣돈키호테",
+      "teller": "Don Quixote?",
+      "title": "???",
+      "content": "Tidak ada bahasa yang layak untuk keluar dari mulut kotormu untuk telingaku."
+    },
+    {
+      "id": 117,
+      "model": "실루엣돈키호테",
+      "teller": "Don Quixote?",
+      "title": "???",
+      "content": "Tidak..."
+    },
+    {
+      "id": 118,
+      "model": "실루엣돈키호테",
+      "teller": "Don Quixote?",
+      "title": "???",
+      "content": "Melakukan dosa ketidakhormatan kepada orang tuamu dengan mencoba melawan aliran darah keturunan, melakukan kekejian seperti itu terhadap leluhurmu... Aku tidak bisa mengizinkan kebajinganmu untuk terus ada."
+    },
+    {
+      "id": 119,
+      "model": "카세티혈귀",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "Mmh! Mmppfh! Mmmphhh!!!"
+    },
+    {
+      "id": 120,
+      "model": "실루엣돈키호테",
+      "teller": "Don Quixote?",
+      "title": "???",
+      "content": "Membekulah... lalu mencairlah."
+    },
+    {
+      "id": 121,
+      "content": "Tubuh Cassetti mulai mencair menjadi aliran darah yang licin, bentuknya menggumpal dan hancur, lalu menetes ke tanah."
+    },
+    {
+      "id": 122,
+      "content": "Dia mencair dengan cepat namun berat seperti es krim yang sangat disukai Don Quixote—menggenang di lantai yang panas di bawah matahari yang terik."
+    },
+    {
+      "id": 123,
+      "model": "단테",
+      "content": "<…….>"
+    },
+    {
+      "id": 124,
+      "model": "실루엣돈키호테",
+      "teller": "Don Quixote?",
+      "title": "???",
+      "content": "... Ah."
+    },
+    {
+      "id": 125,
+      "model": "실루엣돈키호테",
+      "teller": "Don Quixote?",
+      "title": "???",
+      "content": "Kamu."
+    },
+    {
+      "id": 126,
+      "content": "Don Quixote berbalik untuk menatapku, yang masih di tanah setelah terlempar oleh gelombang kejut."
+    },
+    {
+      "id": 127,
+      "content": "Dan dengan tatapan belas kasihan yang misterius, dia mengucapkan sesuatu."
+    },
+    {
+      "id": 128,
+      "model": "실루엣돈키호테",
+      "teller": "Don Quixote?",
+      "title": "???",
+      "content": "Tentu saja... kamulah penunjuk waktu yang sudah dijanjikan..."
+    },
+    {
+      "id": 129,
+      "content": "Sesuatu yang tidak begitu kumengerti."
+    },
+    {
+      "id": 130,
+      "model": "실루엣돈키호테",
+      "teller": "Don Quixote?",
+      "title": "???",
+      "content": "Rocinante, kepadaku."
+    },
+    {
+      "id": 131,
+      "content": "Rocinante..."
+    },
+    {
+      "id": 132,
+      "model": "실루엣돈키호테",
+      "teller": "Don Quixote?",
+      "title": "???",
+      "content": "... Aku memohon padamu."
+    },
+    {
+      "id": 133,
+      "model": "단테",
+      "content": "<…….>"
+    },
+    {
+      "id": 134,
+      "content": "Aku menjangkau dengan hati-hati, mengambil sepatunya..."
+    },
+    {
+      "id": 135,
+      "content": "Dan mengenakannya ke kaki telanjangnya, satu demi satu."
+    },
+    {
+      "id": 136,
+      "model": "실루엣돈키호테",
+      "teller": "Don Quixote?",
+      "title": "???",
+      "content": "Ah... suatu hari..."
+    },
+    {
+      "id": 137,
+      "content": "Dia tersentak, terhuyung, dan..."
+    },
+    {
+      "id": 138,
+      "content": "... terkapar ke tanah."
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Laboratorium Tim Riset LCE Entrance",
+      "model": "그레고르",
+      "content": "... Sepertinya kita sudah sampai. Ini lab-nya."
+    },
+    {
+      "id": 1,
+      "model": "그레고르",
+      "content": "LCD dan LCE belum menghubungi lagi sejak transmisi terakhir itu."
+    },
+    {
+      "id": 2,
+      "model": "이상",
+      "content": "Saya hanya bisa berharap tidak ada kemalangan yang menimpa mereka..."
+    },
+    {
+      "id": 3,
+      "model": "그레고르",
+      "content": "Hei, Manajer, kamu menangkap sesuatu? Maksudku <ruby=Ranting Emas>Golden Bough</ruby>... Kalau orang-orang itu mendapatkannya sebelum kita..."
+    },
+    {
+      "id": 4,
+      "model": "단테",
+      "content": "<Belum, kurasa mereka belum dapat...>"
+    },
+    {
+      "id": 5,
+      "model": "단테",
+      "content": "<<ruby=Ranting Emas>Golden Bough</ruby>nya masih ada di dalam.>"
+    },
+    {
+      "id": 6,
+      "model": "그레고르",
+      "content": "*haah...* Begitu ya? Kurasa aku harus bersyukur kita masih punya kesempatan."
+    },
+    {
+      "id": 7,
+      "content": "Gregor bergumam dengan nada muram."
+    },
+    {
+      "id": 8,
+      "model": "그레고르",
+      "content": "Hohenheim pasti lega mendengar ini."
+    },
+    {
+      "id": 9,
+      "content": "Kami melangkah ke dalam lab. Lampu-lampu mati—di dalam benar-benar gelap."
+    },
+    {
+      "id": 10,
+      "place": "Laboratorium Tim Riset LCE",
+      "content": "Jika para penyerang itu memang mengincar <ruby=Ranting Emas>Golden Bough</ruby>... apa yang mungkin mereka inginkan dari itu?"
+    },
+    {
+      "id": 11,
+      "model": "료슈",
+      "content": "……."
+    },
+    {
+      "id": 12,
+      "content": "Aku sedang asyik dengan pikiranku sendiri saat menyadari Ryōshū berhenti melangkah."
+    },
+    {
+      "id": 13,
+      "model": "단테",
+      "content": "<Ryōshū?>"
+    },
+    {
+      "id": 14,
+      "model": "료슈",
+      "content": "Ada bau yang datang dari depan... Bau yang sangat familiar dan menjijikkan."
+    },
+    {
+      "id": 15,
+      "content": "Bahkan dalam kegelapan pekat lab yang tak berlampu, Ryōshū tampaknya menyadari sesuatu yang janggal."
+    },
+    {
+      "id": 16,
+      "model": "그레고르",
+      "content": "Kamu mencium sesuatu...? Aku tidak mencium apa pun selain rokokmu—"
+    },
+    {
+      "id": 17,
+      "model": "료슈",
+      "content": "……."
+    },
+    {
+      "id": 18,
+      "model": "그레고르",
+      "content": "... Oh, iya. Kamu belum merokok selama... beberapa saat."
+    },
+    {
+      "id": 19,
+      "content": "Hanya kesunyian yang menyambut kami di lab."
+    },
+    {
+      "id": 20,
+      "content": "Kami tidak mendengar nafas apapun, tapi baunya ada di sana, tanpa keraguan—bau rokok dan rasa kengerian tak berwujud yang tidak bisa kami jelaskan dengan tepat."
+    },
+    {
+      "id": 21,
+      "model": "료슈",
+      "content": "……."
+    },
+    {
+      "id": 22,
+      "model": "료슈",
+      "content": "Saat aku meninggalkan tempat itu..."
+    },
+    {
+      "id": 23,
+      "model": "료슈",
+      "content": "Aku ingat merasakan kebencian yang kuat terhadap seseorang."
+    },
+    {
+      "id": 24,
+      "model": "료슈",
+      "content": "Pastilah itu..."
+    },
+    {
+      "id": 25,
+      "content": "Ryōshū mulai bergumam seolah dia dicengkeram oleh rasa dingin."
+    },
+    {
+      "id": 26,
+      "content": "Namun, aku menyadari dia tidak berbicara kepadaku. Tampaknya dia sedang mengarungi rawa kenangan yang termutilasi untuk berpegang teguh pada emosinya saat itu."
+    },
+    {
+      "id": 27,
+      "place": -1,
+      "model": "과거료슈3",
+      "content": "<ruby=Bintang Dihui>Dihui Star(地慧星)</ruby>, kau..."
+    },
+    {
+      "id": 28,
+      "model": "과거료슈3",
+      "content": "Selama ini, kau ingin membuatku menderita sampai akhir, bukan?"
+    },
+    {
+      "id": 29,
+      "model": "소지아비",
+      "teller": "Dihui Star",
+      "title": "???",
+      "content": "Berani sekali. Kau pikir akulah yang membuatmu menderita, Yoshihide?"
+    },
+    {
+      "id": 30,
+      "model": "소지아비",
+      "teller": "Dihui Star",
+      "title": "???",
+      "content": "Kau sadar kan kalau kau selalu menjadi satu-satunya penghalang dalam hidupku?"
+    },
+    {
+      "id": 31,
+      "model": "소지아비",
+      "teller": "Dihui Star",
+      "title": "???",
+      "content": "Ini satu-satunya cara bagi kita untuk impas."
+    },
+    {
+      "id": 32,
+      "model": "소지아비",
+      "teller": "Dihui Star",
+      "title": "???",
+      "content": "Yoshihide, itu..."
+    },
+    {
+      "id": 33,
+      "model": "소지아비",
+      "teller": "Dihui Star",
+      "title": "???",
+      "content": "Tidak pernah berhenti."
+    },
+    {
+      "id": 34,
+      "model": "소지아비",
+      "teller": "Dihui Star",
+      "title": "???",
+      "content": "Suara belenggu di kakiku, berkarat dan berat... Bagaimana ia berdenting dan berderak..."
+    },
+    {
+      "id": 35,
+      "content": "Dalam visi masa lalu itu, Ryōshū mengangkat pedangnya dengan gerakan yang sangat lambat, menghunus bilah yang belum pernah kita lihat sebelumnya—"
+    },
+    {
+      "id": 36,
+      "content": "—Bilah putih dengan kemurnian yang tidak berperasaan, tanpa sedikitpun belas kasihan di balik ujungnya yang pucat."
+    },
+    {
+      "id": 37,
+      "content": "Dalam sepersekian detik aku dibutakan oleh kilatan pedang itu..."
+    },
+    {
+      "id": 38,
+      "content": "... Ryōshū mencengkeram rahang sosok berkerudung itu dengan kekuatan penuh kehancuran."
+    },
+    {
+      "id": 39,
+      "content": "Kemudian, tanpa ragu sedikit pun, dia menusukkan pedang yang sangat terang itu ke mulut sosok tersebut."
+    },
+    {
+      "id": 40,
+      "model": "소지아비",
+      "teller": "Dihui Star",
+      "title": "???",
+      "content": "Gah... *hak*"
+    },
+    {
+      "id": 41,
+      "model": "소지아비",
+      "teller": "Dihui Star",
+      "title": "???",
+      "content": "*huff* Hrrk..."
+    },
+    {
+      "id": 42,
+      "content": "Ryōshū menarik pedang itu dalam satu gerakan cepat."
+    },
+    {
+      "id": 43,
+      "model": "소지아비",
+      "teller": "Dihui Star",
+      "title": "???",
+      "content": "*crik*"
+    },
+    {
+      "id": 44,
+      "content": "Sosok itu memuntahkan gumpalan darah kental dan potongan lidahnya yang teriris."
+    },
+    {
+      "id": 45,
+      "model": "소지아비",
+      "teller": "Dihui Star",
+      "title": "???",
+      "content": "Haah..."
+    },
+    {
+      "id": 46,
+      "model": "소지아비",
+      "teller": "Dihui Star",
+      "title": "???",
+      "content": "Haah! Ha... haha... Haha!"
+    },
+    {
+      "id": 47,
+      "content": "Tapi dia memuntahkan lebih dari sekadar gumpalan daging berdarah itu. Tawa terbahak-bahak keluar dari mulutnya..."
+    },
+    {
+      "id": 48,
+      "content": "Tawa penuh kemenangan dari seseorang yang baru saja merenggut kemenangan dalam hidupnya."
+    },
+    {
+      "id": 49,
+      "content": "Dengan nafas dalam yang tersengal, Ryōshū membiarkan pedang itu jatuh dari genggamannya."
+    },
+    {
+      "id": 50,
+      "content": "Dia berdiri terpaku di tempatnya, menatap sosok yang meronta-ronta itu dengan tatapan bingung."
+    },
+    {
+      "id": 51,
+      "place": "Laboratorium Tim Riset LCE",
+      "model": "료슈",
+      "content": "... S.A.M.L.E.K.U.M."
+    },
+    {
+      "id": 52,
+      "model": "료슈",
+      "content": "Sisa Aroma Masa Lampau... Embusan Kelam, Udara Menusuk."
+    },
+    {
+      "id": 53,
+      "content": "Dan sekarang, tepat pandangan mata Ryōshū..."
+    },
+    {
+      "id": 54,
+      "content": "Kehadiran yang hidup dari ingatan masa lalu menjadi nyata dalam bentuk siluet putih,"
+    },
+    {
+      "id": 55,
+      "content": "tangannya perlahan menyentuh bibir yang di baliknya tidak ada lidah, seolah untuk mengingat ketiadaan organ yang telah dipotong dengan kejam oleh Ryōshū..."
+    },
+    {
+      "id": 56,
+      "content": "Seperti penjaga tunggal yang berjaga, menunggu kedatangan kami."
+    },
+    {
+      "id": 57,
+      "model": "소지아비",
+      "teller": "Dihui Star",
+      "title": "???",
+      "content": "……."
+    },
+    {
+      "id": 58,
+      "model": "소지아비",
+      "teller": "Dihui Star",
+      "title": "???",
+      "content": "... Ha."
+    },
+    {
+      "id": 59,
+      "content": "Mulut yang kehilangan lidahnya itu menghadap ke arah Ryōshū tanpa terbuka sekali pun."
+    },
+    {
+      "id": 60,
+      "content": "Tapi kurasa aku mendengar bisikan desahan hampa yang lolos dari bibirnya."
+    },
+    {
+      "id": 61,
+      "model": "료슈",
+      "content": "Karena kelima \"ayah\"-ku itu... Aku harus meninggalkan satu hal terpenting di dunia ini."
+    },
+    {
+      "id": 62,
+      "model": "료슈",
+      "content": "Dan itulah sebabnya..."
+    },
+    {
+      "id": 63,
+      "model": "료슈",
+      "content": "Aku harus mengambilnya kembali."
+    },
+    {
+      "id": 64,
+      "model": "소지제자",
+      "teller": "???",
+      "title": "???",
+      "content": "Senang sekali untuk melihatmu lagi, Ryōshū. Aku serius."
+    },
+    {
+      "id": 65,
+      "model": "소지제자",
+      "teller": "???",
+      "title": "???",
+      "content": "... Begitulah kata-kata yang diperintahkan guruku untuk kusampaikan."
+    },
+    {
+      "id": 66,
+      "model": "료슈",
+      "content": "... Pinky Nursefather."
+    },
+    {
+      "id": 67,
+      "model": "소지제자",
+      "teller": "???",
+      "content": "Karena guruku... tidak mengharapkan apa pun dari diriku yang tidak berarti ini..."
+    },
+    {
+      "id": 68,
+      "model": "소지제자",
+      "teller": "???",
+      "content": "Aku hanyalah pedang berkarat di tengah putaran alam yang tenang, ditakdirkan untuk terus menanggung kebosanan hari ini dan kekosongan hari esok."
+    },
+    {
+      "id": 69,
+      "model": "소지제자",
+      "teller": "???",
+      "content": "Dan di sana, karena pengejaranmu akan benang laba-laba..."
+    },
+    {
+      "id": 70,
+      "model": "소지제자",
+      "teller": "???",
+      "content": "Aku sekali lagi diberi kesempatan untuk melaksanakan kehendak guruku."
+    },
+    {
+      "id": 71,
+      "model": "료슈",
+      "content": "... Orang cerewet lainnya. Enyahlah."
+    },
+    {
+      "id": 72,
+      "content": "Saat muridnya mendekati kami, \"Nursefather\" Ryōshū perlahan melangkah pergi..."
+    },
+    {
+      "id": 73,
+      "content": "... menuju tempat wadah <ruby=Ranting Emas>Golden Boughs</ruby> tergeletak, memancarkan cahaya lembut."
+    },
+    {
+      "id": 74,
+      "model": "소지제자",
+      "teller": "???",
+      "content": "... Persiapan sudah selesai. Aku harap kamu tidak melupakan rencananya?"
+    },
+    {
+      "id": 75,
+      "model": "약지제자1",
+      "teller": "???",
+      "title": "???",
+      "content": "……."
+    },
+    {
+      "id": 76,
+      "content": "Di tempat \"Nursefather\" pergi, sesosok tubuh berbaju zirah baja masuk."
+    },
+    {
+      "id": 77,
+      "model": "단테",
+      "content": "<Apa-apaan...>"
+    },
+    {
+      "id": 78,
+      "model": "이상",
+      "content": "Persenjataannya terlihat sedikit terlalu kasar... untuk menjadi peralatan yang dibekali teknologi canggih."
+    },
+    {
+      "id": 79,
+      "model": "이상",
+      "content": "... Ini terlihat mirip dengan alat penyiksaan yang sebelumnya kita lihat di ruang bawah tanah rumah Sinclair."
+    },
+    {
+      "id": 80,
+      "model": "료슈",
+      "content": "Tidak ada daging, tidak ada darah, tidak ada tulang untuk ditunjukkan... dalam pertarungan?"
+    },
+    {
+      "id": 81,
+      "model": "료슈",
+      "content": "Untuk sebuah karya seni yang ditujukan untuk mataku... estetikanya kurang berkelas."
+    },
+    {
+      "id": 82,
+      "model": "약지제자1",
+      "teller": "???",
+      "title": "???",
+      "content": "……."
+    },
+    {
+      "id": 83,
+      "model": "료슈",
+      "content": "Tetap menutup mulut bahkan di saat seperti ini... Apa dia tidak mengajarimu bahwa tidak ada keindahan yang bisa ditemukan di dalamnya?"
+    },
+    {
+      "id": 84,
+      "model": "료슈",
+      "content": "Aku ingin dia ada di sini. Di mana Ring Nursefather?"
+    },
+    {
+      "id": 85,
+      "content": "Sosok berbaju zirah itu menjawab pertanyaan Ryōshū..."
+    },
+    {
+      "id": 86,
+      "content": "... dengan ayunan pedang besarnya."
+    },
+    {
+      "id": 87,
+      "model": "단테",
+      "content": "<Kita harus membereskan ini dengan cepat... dan melacak <ruby=Ranting Emas>Golden Bough</ruby>.>"
+    },
+    {
+      "id": 88,
+      "model": "단테",
+      "content": "<Mari kita lawan mereka semua.>"
+    },
+    {
+      "id": 89,
+      "model": "료슈",
+      "content": "Kamu mulai memahami dasar-dasar estetika, Jam."
+    },
+    {
+      "id": 90,
+      "model": "료슈",
+      "content": "Perhatikan saat aku mendemonstrasikan arti dari S.D.M."
+    }
+  ]
+}

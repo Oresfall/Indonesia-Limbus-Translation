@@ -1,0 +1,816 @@
+{
+  "dataList": [
+    {
+      "id": 2070511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Holiday",
+          "abName": "Sandolph",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Randomly select one of efek berikut: Burn, Bleed, Tremor, Rupture, atau Sinking. Then, beri 1 Potency of the selected effect giliran berikutnya.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (5 times maks)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Holiday",
+          "abName": "Sandolph",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Randomly select one of efek berikut: Burn, Bleed, Tremor, Rupture, atau Sinking. Then, beri 1 Potency of the selected effect giliran berikutnya.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (5 times maks)"
+                },
+                {
+                  "desc": "[EnemyKill] Randomly select one of efek berikut: 1 Poise Count, 1 Count Charge, 1 Haste, 1 Offense Level Up, atau 1 Defense Level Up. Then, beri the selected effect to 2 kawan acak giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Holiday",
+          "abName": "Sandolph",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Randomly select one of efek berikut: Burn, Bleed, Tremor, Rupture, atau Sinking. Then, beri 1 Potency of the selected effect giliran berikutnya.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (7 times maks)"
+                },
+                {
+                  "desc": "[EnemyKill] Randomly select one of efek berikut: 2 Poise Count, 2 Count Charge, 2 Haste, 2 Offense Level Up, atau 2 Defense Level Up. Then, beri the selected effect to 2 kawan acak giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Holiday",
+          "abName": "Sandolph",
+          "desc": "[CantIdentify]\nTargets the unit with the Most SP\n[BeforeAttack] Target loses 10 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Randomly select one of efek berikut: Burn, Bleed, Tremor, Rupture, atau Sinking. Then, beri 1 Potency of the selected effect giliran berikutnya.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (7 times maks)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Holiday",
+          "abName": "Sandolph",
+          "desc": "[CantIdentify]\nTargets the unit with the Most SP\n[BeforeAttack] Target loses 10 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Randomly select one of efek berikut: Burn, Bleed, Tremor, Rupture, atau Sinking. Then, beri 1 Potency of the selected effect giliran berikutnya.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (7 times maks)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Holiday",
+          "abName": "Sandolph",
+          "desc": "[CantIdentify]\nTargets the unit with the Most SP\nJika target utama's SP is higher than 15, Atk Weight +1\n[BeforeAttack] Target loses 10 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Randomly select one of efek berikut: Burn, Bleed, Tremor, Rupture, atau Sinking. Then, beri 1 Potency of the selected effect giliran berikutnya.\nRepeat the above process (2 + (Highest Glut. A-Reson.)) times. (7 times maks)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Binds",
+          "abName": "The King in Binds",
+          "desc": "[EndSkill] Untuk 3 giliran, kehilangan 10 SP pada Akhir Giliran\n[EndSkill] Next giliran, peroleh 20 [Binding], 1 [ForwardToTheKing], dan 1 [Enhancement]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Binds",
+          "abName": "The King in Binds",
+          "desc": "[EndSkill] Untuk 3 giliran, kehilangan 10 SP pada Akhir Giliran\n[EndSkill] Next giliran, peroleh 20 [Binding], 1 [ForwardToTheKing], dan 1 [Enhancement]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Binds",
+          "abName": "The King in Binds",
+          "desc": "[EndSkill] Untuk 3 giliran, kehilangan 10 SP pada Akhir Giliran\n[EndSkill] Next giliran, peroleh 20 [Binding], 1 [ForwardToTheBoundKing], dan 2 [Enhancement]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Binds",
+          "abName": "The King in Binds",
+          "desc": "[CantIdentify]\nTarget secara acak\n[EndSkill] Next giliran, peroleh 20 [Binding], 1 [ForwardToTheKing], dan 2 [Enhancement]\n[EndSkill] Next giliran, beri 20 [Binding] dan 3 [Enhancement] to 2 other kawan in the order of Deployment\n- The number of affected kawan grows by (highest Gloom atau Pride Reson. - 2) (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Binds",
+          "abName": "The King in Binds",
+          "desc": "[CantIdentify]\nTarget secara acak\n[EndSkill] Next giliran, peroleh 20 [Binding], 1 [ForwardToTheKing], dan 2 [Enhancement]\n[EndSkill] Next giliran, beri 20 [Binding], 3 [Enhancement], dan 1 <style=\"highlight\">[AzureDamageUp]</style> to 2 other kawan in the order of Deployment\n- The number of affected kawan grows by (highest Gloom atau Pride Reson. - 2) (maks <style=\"highlight\">3</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Binds",
+          "abName": "The King in Binds",
+          "desc": "[CantIdentify]\nTarget secara acak\n[EndSkill] Next giliran, peroleh 20 [Binding], 1 [ForwardToTheKing], dan 3 [Enhancement]\n[EndSkill] Next giliran, beri 20 [Binding], 3 [Enhancement], dan <style=\"highlight\">2</style> [AzureDamageUp] to 2 other kawan in the order of Deployment\n- The number of affected kawan grows by (highest Gloom atau Pride Reson. - 2) (maks <style=\"highlight\">4</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fell Bullet",
+          "abName": "Der Fluchschütze",
+          "desc": "[BeforeAttack] Peroleh (Reson. tertinggi + 1) [BoseProjektil] (maks 7)\n- Jika it was an A-Reson., peroleh (Reson. tertinggi +2) [BoseProjektil] saja\n[BeforeAttack] Peroleh 1 [Breath] untuk setiap [BoseProjektil] (maks 3)\n[EndSkill] Lose setiap [BoseProjektil]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "+5% Damage pada Serangan Critical untuk setiap [BoseProjektil] (maks 35%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 3 [Sinking]"
+                },
+                {
+                  "desc": "[CriticalTargetKill] Jika unit ini memiliki the [Bullet] effect, peroleh 1 [Bullet] (2 kali per Pertemuan)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Fell Bullet",
+          "abName": "Der Fluchschütze",
+          "desc": "[BeforeAttack] Peroleh (Reson. tertinggi + 1) [BoseProjektil] (maks 7)\n- Jika it was an A-Reson., peroleh (Reson. tertinggi + 2) [BoseProjektil] saja\n[BeforeAttack] Peroleh 1 [Breath] untuk setiap [BoseProjektil] (maks <style=\"highlight\">4</style>)\n[EndSkill] Lose setiap [BoseProjektil]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "+<style=\"highlight\">10</style>% Damage pada Serangan Critical untuk setiap [BoseProjektil] (maks <style=\"highlight\">70</style>%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 3 [Sinking]"
+                },
+                {
+                  "desc": "[CriticalTargetKill] Jika unit ini memiliki the [Bullet] effect, peroleh 1 [Bullet] (2 kali per Pertemuan)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Fell Bullet",
+          "abName": "Der Fluchschütze",
+          "desc": "[BeforeAttack] Peroleh (Reson. tertinggi + 1) [BoseProjektil] (maks 7)\n- Jika it was an A-Reson., peroleh (Reson. tertinggi + 2) [BoseProjektil] saja\n[BeforeAttack] Peroleh 1 [Breath] untuk setiap [BoseProjektil] (maks <style=\"highlight\">7</style>)\n[BeforeAttack] Peroleh +1 Count [Breath]\n[EndSkill] Lose setiap [BoseProjektil]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "+<style=\"highlight\">15</style>% Damage pada Serangan Critical untuk setiap [BoseProjektil] (maks <style=\"highlight\">105</style>%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 3 [Sinking]"
+                },
+                {
+                  "desc": "[CriticalTargetKill] Jika unit ini memiliki the [Bullet] effect, peroleh 1 [Bullet] (3 kali per Pertemuan)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fell Bullet",
+          "abName": "Der Fluchschütze",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh (Reson. tertinggi + 1) [BoseProjektil] (maks 7)\n- Jika it was an A-Reson., peroleh (Reson. tertinggi + 2) [BoseProjektil] saja\n[BeforeAttack] Beri +2% damage untuk setiap [BoseProjektil] (maks 14%)\n[BeforeAttack] Peroleh 1 [Breath] untuk setiap [BoseProjektil] (maks 3)\n[BeforeAttack] Beri +3% damage untuk setiap 5 [Breath] pada diri sendiri (maks 15%)\n[BeforeAttack] Konsumsi 5 [Breath] pada diri sendiri\n[EndSkill] Lose setiap [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration] dan 2 [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Fell Bullet",
+          "abName": "Der Fluchschütze",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh (Reson. tertinggi + 1) [BoseProjektil] (maks 7)\n- Jika it was an A-Reson., peroleh (Reson. tertinggi + 2) [BoseProjektil] saja\n<style=\"highlight\">[BeforeAttack] Pada 3+ [BoseProjektil], peroleh 1 Atk Weight</style>\n[BeforeAttack] Beri +2% damage untuk setiap [BoseProjektil] (maks 14%)\n[BeforeAttack] Peroleh 1 [Breath] untuk setiap [BoseProjektil] (maks <style=\"highlight\">4</style>)\n[BeforeAttack] Beri +<style=\"highlight\">4</style>% damage untuk setiap 5 [Breath] pada diri sendiri (maks <style=\"highlight\">20</style>%)\n[BeforeAttack] Konsumsi 5 [Breath] pada diri sendiri\n[EndSkill] Lose setiap [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration] dan 3 [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Fell Bullet",
+          "abName": "Der Fluchschütze",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh (Reson. tertinggi + 1) [BoseProjektil] (maks 7)\n- Jika it was an A-Reson., peroleh (Reson. tertinggi + 2) [BoseProjektil] saja\n[BeforeAttack] Peroleh 1 Atk Weight for <style=\"highlight\">setiap 3 [BoseProjektil] (maks 2)</style>\n[BeforeAttack] Beri +<style=\"highlight\">3</style>% damage untuk setiap [BoseProjektil] (maks <style=\"highlight\">21</style>%)\n[BeforeAttack] Peroleh 1 [Breath] untuk setiap [BoseProjektil] (maks <style=\"highlight\">7</style>)\n[BeforeAttack] Beri +<style=\"highlight\">5</style>% damage untuk setiap 5 [Breath] pada diri sendiri (maks <style=\"highlight\">25</style>%)\n[BeforeAttack] Konsumsi 5 [Breath] pada diri sendiri\n[EndSkill] Lose setiap [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration] dan 3 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Asymmetrical Inertia",
+          "abName": "Clockwork-Time-Roly-Poly",
+          "desc": "[BeforeAttack] Peroleh (Reson. tertinggi) Count [Vibration] (maks 6, 20 per giliran)\n- Jika the said Reson. was a Sloth Reson., aktifkan [Switch_Vibration] on [Vibration] pada diri sendiri menjadi [VibrationSpring]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 2 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Beri +2 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1\n- Ketika mengaktifkan Tremor Burst, beri 1 [AmberTakeDamageUp] giliran ini\n- Jika the Reson. tertinggi was a 4+ Sloth A-Reson., beri 1 [AmberTakeDamageUp] giliran berikutnya juga"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Asymmetrical Inertia",
+          "abName": "Clockwork-Time-Roly-Poly",
+          "desc": "[BeforeAttack] Peroleh (<style=\"highlight\">2 +</style> Reson. tertinggi) Count [Vibration] (maks <style=\"highlight\">8</style>, 20 per giliran)\n- Jika the said Reson. was a Sloth Reson., aktifkan [Switch_Vibration] on [Vibration] pada diri sendiri menjadi [VibrationSpring]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Beri +2 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1\n- Ketika mengaktifkan Tremor Burst, beri 1 [AmberTakeDamageUp] giliran ini\n- Jika the Reson. tertinggi was a <style=\"highlight\">Sloth A-Reson.</style>, beri 1 [AmberTakeDamageUp] giliran berikutnya juga"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Asymmetrical Inertia",
+          "abName": "Clockwork-Time-Roly-Poly",
+          "desc": "[BeforeAttack] Peroleh (<style=\"highlight\">4 +</style> Reson. tertinggi) Count [Vibration] (maks 8, 20 per giliran)\n- Jika the said Reson. was a Sloth Reson., aktifkan [Switch_Vibration] on [Vibration] pada diri sendiri menjadi [VibrationSpring]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Beri +3 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1\n- Ketika mengaktifkan Tremor Burst, beri 1 [AmberTakeDamageUp] giliran ini\n- Jika the Reson. tertinggi was a <style=\"highlight\">3+ Sloth Reson.</style>, beri 1 [AmberTakeDamageUp] giliran berikutnya juga"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Asymmetrical Inertia",
+          "abName": "Clockwork-Time-Roly-Poly",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh (2 + Reson. tertinggi) Count [Vibration] (maks 8, 20 per giliran)\n- Jika the said Reson. was a Sloth Reson., aktifkan [Switch_Vibration] on [Vibration] pada diri sendiri menjadi [VibrationSpring]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Beri +2 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1\n- Ketika mengaktifkan Tremor Burst, beri 2 [AmberTakeDamageUp] giliran ini\n- Jika the Reson. tertinggi was a 4+ Sloth A-Reson, beri 2 [AmberTakeDamageUp] giliran berikutnya juga"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Asymmetrical Inertia",
+          "abName": "Clockwork-Time-Roly-Poly",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh (<style=\"highlight\">4 +</style> Reson. tertinggi) Count [Vibration] (maks 8, 20 per giliran)\n- Jika the said Reson. was a Sloth Reson., aktifkan [Switch_Vibration] on [Vibration] pada diri sendiri menjadi [VibrationSpring]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Beri +3 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1\n- Ketika mengaktifkan Tremor Burst, beri 2 [AmberTakeDamageUp] giliran ini\n- Jika the Reson. tertinggi was a <style=\"highlight\">Sloth A-Reson</style>, beri 2 [AmberTakeDamageUp] giliran berikutnya juga"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Asymmetrical Inertia",
+          "abName": "Clockwork-Time-Roly-Poly",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh (4 + Reson. tertinggi) Count [Vibration] (maks <style=\"highlight\">10</style>, 20 per giliran)\n- Jika the said Reson. was a Sloth Reson., aktifkan [Switch_Vibration] on [Vibration] pada diri sendiri menjadi [VibrationSpring]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 6 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Beri +4 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1\n- Ketika mengaktifkan Tremor Burst, beri 2 [AmberTakeDamageUp] giliran ini\n- Jika the Reson. tertinggi was a <style=\"highlight\">3+ Sloth Reson.</style>, beri 2 [AmberTakeDamageUp] giliran berikutnya juga"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Move-in Reg.",
+          "abName": "Kqe-1j-23",
+          "desc": "[BeforeAttack] Peroleh +(Reson. tertinggi + 1) Count [Charge] (maks 7)\n- Pada 4+ Reson. Envy, peroleh +7 Count [Charge] saja\n[BeforeAttack] Konsumsi semua Count [Charge] pada diri sendiri. Beri +2% damage untuk setiap Count [Charge] terkonsumsi (maks 30%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [IDMicroChip]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +1~2 Count [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Move-in Reg.",
+          "abName": "Kqe-1j-23",
+          "desc": "[BeforeAttack] Peroleh +(Reson. tertinggi + 1) Count [Charge] (maks 7)\n- Pada 4+ Reson. Envy, peroleh +7 Count [Charge] saja\n[BeforeAttack] Konsumsi semua Count [Charge] pada diri sendiri. Beri +3% damage untuk setiap Count [Charge] terkonsumsi (maks 45%)\n<style=\"highlight\">- Jika this terkonsumsi 5+ Count [Charge], Base Power +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [IDMicroChip]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +1~2 Count [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Move-in Reg.",
+          "abName": "Kqe-1j-23",
+          "desc": "<style=\"highlight\">Coin Power +1 untuk setiap 6 [Combustion] pada target utama (maks 3)</style>\n[BeforeAttack] Peroleh +(Reson. tertinggi + 1) Count [Charge] (maks 7)\n- Pada 4+ Reson. Envy, peroleh +7 Count [Charge] saja\n[BeforeAttack] Konsumsi semua Count [Charge] pada diri sendiri. Beri +3% damage untuk setiap Count [Charge] terkonsumsi (maks 45%)\n- Jika this terkonsumsi 5+ Count [Charge], Base Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">2</style> [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">2</style> [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [IDMicroChip]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +<style=\"highlight\">1~3</style> Count [Charge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Move-in Reg.",
+          "abName": "Kqe-1j-23",
+          "desc": "[CantIdentify]\nPrioritizes targets with the most HP\n[BeforeAttack] Pada kurang dari 10 Count [Charge], terima 10% HP damage dan peroleh +10 Count [Charge]\n(efek ini does not kill atau Stagger unit ini)\n[BeforeAttack] Peroleh +(Reson. tertinggi + 1) Count [Charge] (maks 8)\n- Pada 5+ Reson. Envy, peroleh +8 Count [Charge] saja\n[BeforeAttack] Konsumsi semua Count [Charge] pada diri sendiri. Beri +3% damage untuk setiap Count [Charge] terkonsumsi (maks 50%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Jika target memiliki [IDMicroChip], beri +20% damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [IDMicroChip]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +1~2 Count [Charge]"
+                },
+                {
+                  "desc": "[EnemyKill] Peroleh +2 Count [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Move-in Reg.",
+          "abName": "Kqe-1j-23",
+          "desc": "[CantIdentify]\nPrioritizes targets with the most HP\n[BeforeAttack] Pada kurang dari 10 Count [Charge], terima 10% HP damage dan peroleh +10 Count [Charge]\n(efek ini does not kill atau Stagger unit ini)\n[BeforeAttack] Peroleh +(Reson. tertinggi + <style=\"highlight\">2</style>) Count [Charge] (maks 8)\n- Pada 5+ Reson. Envy, peroleh +8 Count [Charge] saja\n[BeforeAttack] Konsumsi semua Count [Charge] pada diri sendiri. Beri +3% damage untuk setiap Count [Charge] terkonsumsi (maks <style=\"highlight\">55</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Jika target memiliki [IDMicroChip], beri +20% damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [IDMicroChip]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +1~2 Count [Charge]"
+                },
+                {
+                  "desc": "[EnemyKill] Peroleh +2 Count [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Move-in Reg.",
+          "abName": "Kqe-1j-23",
+          "desc": "[CantIdentify]\nPrioritizes targets with the most HP\n<style=\"highlight\">Coin Power +1 untuk setiap 6 [Combustion] pada target utama (maks 3)</style>\n[BeforeAttack] Pada kurang dari 10 Count [Charge], terima 10% HP damage dan peroleh +10 Count [Charge]\n(efek ini does not kill atau Stagger unit ini)\n[BeforeAttack] Peroleh +(Reson. tertinggi + <style=\"highlight\">3</style>) Count [Charge] (maks <style=\"highlight\">10</style>)\n- Pada 5+ Reson. Envy, peroleh +<style=\"highlight\">10</style> Count [Charge] saja\n[BeforeAttack] Konsumsi semua Count [Charge] pada diri sendiri. Beri +3% damage untuk setiap Count [Charge] terkonsumsi (maks <style=\"highlight\">60</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">2</style> [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">2</style> [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Jika target memiliki [IDMicroChip], beri +20% damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [IDMicroChip]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +<style=\"highlight\">1~3</style> Count [Charge]"
+                },
+                {
+                  "desc": "[EnemyKill] Peroleh +2 Count [Charge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,627 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "District 4 - Interior Cabang LC",
+      "content": "Kepala Yuri berdiri tanpa bergerak. Wajahnya tegak menghadap ke Gregor."
+    },
+    {
+      "id": 1,
+      "content": "Namun, Yuri yang kami kenal, yang selalu menemani kami, selalu membungkuk."
+    },
+    {
+      "id": 2,
+      "content": "Terhuyung-huyun seolah ia memiliki kewajiban untuk memikul beban rekan-rekannya yang telah meninggal."
+    },
+    {
+      "id": 3,
+      "content": "Jadi, aku tidak ragu untuk memeringatkan Gregor."
+    },
+    {
+      "id": 4,
+      "model": "단테",
+      "content": "<Gregor, itu bukan Yuri.>"
+    },
+    {
+      "id": 5,
+      "model": "그레고르",
+      "content": "... Uh-huh. Ya, aku juga berpikir begitu."
+    },
+    {
+      "id": 6,
+      "content": "Gregor menerimanya lapang dada."
+    },
+    {
+      "id": 7,
+      "content": "Lalu dia mengulurkan tangannya, melayangkannya ke arah \"Yuri.\""
+    },
+    {
+      "id": 8,
+      "content": "Tapi, tangan itu segera berhenti setengah jalan."
+    },
+    {
+      "id": 9,
+      "model": "유리",
+      "teller": "Yuri",
+      "title": "Fixer Kelas 8",
+      "content": "Aku tidak ingin mati."
+    },
+    {
+      "id": 10,
+      "model": "그레고르",
+      "content": "......"
+    },
+    {
+      "id": 11,
+      "model": "단테",
+      "content": "<Potong dia, Gregor.>"
+    },
+    {
+      "id": 12,
+      "content": "Aku tidak tahu apakah ini hal yang tepat untuk dilakukan seorang manajer,"
+    },
+    {
+      "id": 13,
+      "model": "유리",
+      "teller": "Yuri",
+      "title": "Fixer Kelas 8",
+      "content": "Tak ada dari kitapun yang ingin mati."
+    },
+    {
+      "id": 14,
+      "content": "tapi aku harus mengingatkan Gregor sebelum ia kehilangan akalnya."
+    },
+    {
+      "id": 15,
+      "model": "단테",
+      "content": "<Potong sekarang!>"
+    },
+    {
+      "id": 16,
+      "model": "그레고르",
+      "content": "Gah, aaaaargh!!!"
+    },
+    {
+      "id": 17,
+      "teller": "Warga Negara yang Baik",
+      "title": "Orang yang Dikenang",
+      "content": "A-Aku tidak ingin mati!"
+    },
+    {
+      "id": 18,
+      "model": "그레고르",
+      "content": "Ini... Ini..."
+    },
+    {
+      "id": 19,
+      "content": "Lengan menjijikkan itu berhenti beberapa inci sebelum memotong tenggorokan warga sipil tersebut."
+    },
+    {
+      "id": 20,
+      "content": "Aku menariknya sekuat tenaga, tapi benda itu tidak bergerak sedikit pun."
+    },
+    {
+      "id": 21,
+      "model": "여자시민",
+      "teller": "Warga Negara yang Baik",
+      "title": "Orang yang Dikenang",
+      "content": "K-Kumohon, jangan bunuh aku... Akan kuberi semua uang yang kupunya!"
+    },
+    {
+      "id": 22,
+      "teller": "Penjaga Keamanan",
+      "title": "Orang yang Dikenang",
+      "content": "Lepaskan wanita itu! Jika tidak, aku akan menghentikanmu dengan paksa!"
+    },
+    {
+      "id": 23,
+      "model": "그레고르",
+      "content": "Tanganku... Potong tanganku! Sekarang!"
+    },
+    {
+      "id": 24,
+      "teller": "Penjaga Keamanan",
+      "title": "Orang yang Dikenang",
+      "content": "Ini peringatan terakhirmu. Lepaskan dia sekarang, atau..."
+    },
+    {
+      "id": 25,
+      "model": "그레고르",
+      "content": "Potong sekarang!!"
+    },
+    {
+      "id": 26,
+      "content": "Saat lengan terputus itu jatuh ke tanah, wanita tadi merosot ke dinding sambil terengah-engah."
+    },
+    {
+      "id": 27,
+      "content": "Namun, kedamaian itu tidak berlangsung lama—lengan tersebut mulai beregenerasi dari tunggulnya yang berkedut."
+    },
+    {
+      "id": 28,
+      "teller": "Penjaga Keamanan",
+      "title": "Orang yang Dikenang",
+      "content": "Apakah kau baik-baik saja, Pak?"
+    },
+    {
+      "id": 29,
+      "model": "그레고르",
+      "content": "Tidak, jauhi aku! Jangan mendekat!"
+    },
+    {
+      "id": 30,
+      "content": "Lengan yang tumbuh kembali itu melesat ke depan seolah-olah itu mengingat rasa sakit yang dideritanya beberapa saat yang lalu."
+    },
+    {
+      "id": 31,
+      "teller": "Yuri",
+      "title": "Fixer Kelas 8",
+      "content": "......"
+    },
+    {
+      "id": 32,
+      "teller": "???",
+      "title": "???",
+      "content": "Anda mendapatkan rasa hormat sebesar-besarnya dari saya, Pak Manajer Gregor!"
+    },
+    {
+      "id": 33,
+      "model": "그레고르",
+      "content": "Tidak... jangan lakukan itu... Aku tidak ingin bertempur di perang ini..."
+    },
+    {
+      "id": 34,
+      "teller": "Yuri",
+      "title": "Fixer Kelas 8",
+      "content": "......"
+    },
+    {
+      "id": 35,
+      "teller": "Yuri",
+      "title": "Fixer Kelas 8",
+      "content": "Apa yang seharusnya aku lakukan? Apakah salah jika aku selamat?"
+    },
+    {
+      "id": 36,
+      "model": "그레고르",
+      "content": "Kumohon, hiduplah... teruslah hidup... Tak seorangpun dari kita menginginkan ini, tak seorang pun ingin berada di kekacauan ini..."
+    },
+    {
+      "id": 37,
+      "teller": "Yuri",
+      "title": "Fixer Kelas 8",
+      "content": "......"
+    },
+    {
+      "id": 38,
+      "teller": "???",
+      "title": "???",
+      "content": "Berada begitu dekat, di sini, di ujung paling akhir... semuanya berhenti tepat sebelum kita mendapatkan hasilnya. Sungguh disayangkan."
+    },
+    {
+      "id": 39,
+      "teller": "???",
+      "title": "???",
+      "content": "Tapi, akan kami terima. Peluang yang tidak dimanfaatkan hanya akan menjadi sia-sia."
+    },
+    {
+      "id": 40,
+      "content": "Kepala Yuri jatuh menggelinding di tanah."
+    },
+    {
+      "id": 41,
+      "content": "Ini bukan perbuatan Gregor."
+    },
+    {
+      "id": 42,
+      "teller": "Yuri",
+      "title": "Fixer Kelas 8",
+      "content": "Nhh... Aah..."
+    },
+    {
+      "id": 43,
+      "content": "Mulut Yuri terbuka dan mengeluarkan sesuatu"
+    },
+    {
+      "id": 44,
+      "content": "Itu adalah dahan pohon yang memancarkan cahaya keemasan yang terang."
+    },
+    {
+      "id": 45,
+      "teller": "???",
+      "title": "???",
+      "content": "Kalian sedang mencari ini ya?"
+    },
+    {
+      "id": 46,
+      "model": "그레고르",
+      "content": "Kamu..."
+    },
+    {
+      "id": 47,
+      "teller": "???",
+      "title": "???",
+      "content": "Lebih kecil dari yang diperkirakan, ya?"
+    },
+    {
+      "id": 48,
+      "model": "헤르만",
+      "teller": "Hermann",
+      "title": "???",
+      "content": "Saya Hermann. Kita akan sering bertemu. Alasannya adalah..."
+    },
+    {
+      "id": 49,
+      "model": "헤르만",
+      "teller": "Hermann",
+      "title": "???",
+      "content": "Kita... butuh Golden Bough itu; dan kamu—dapat mencari lokasinya."
+    },
+    {
+      "id": 50,
+      "model": "헤르만",
+      "teller": "Hermann",
+      "title": "???",
+      "content": "Kau... tidak akan mati; tapi kami... akan membunuhmu."
+    },
+    {
+      "id": 51,
+      "content": "Hermann menyenggol kepala Yuri dengan kakinya."
+    },
+    {
+      "id": 52,
+      "model": "그레고르",
+      "content": "......"
+    },
+    {
+      "id": 53,
+      "model": "헤르만",
+      "teller": "Hermann",
+      "title": "???",
+      "content": "Pada waktunya, tentu saja."
+    },
+    {
+      "id": 54,
+      "model": "헤르만",
+      "teller": "Hermann",
+      "title": "???",
+      "content": "Kita akan mengambil Golden Bough yang kalian cari ini."
+    },
+    {
+      "id": 55,
+      "model": "이상",
+      "content": "Gubo... Saudara sebangsaku. Apa ini jalan yang telah kau pilih?"
+    },
+    {
+      "id": 56,
+      "model": "구보",
+      "teller": "Gubo",
+      "title": "???",
+      "content": "Memang benar. Kini hanya sedikit yang tersisa."
+    },
+    {
+      "id": 57,
+      "model": "홍루",
+      "content": "... Sudah lama tidak bertemu, Kakak."
+    },
+    {
+      "id": 58,
+      "model": "가환",
+      "teller": "Jia Huan",
+      "title": "???",
+      "content": "Taku kamu betapa kotornya bau pakaianmu? Seandainya saja keluargamu ada di sini untuk melihat keadaanmu."
+    },
+    {
+      "id": 59,
+      "model": "오티스",
+      "content": "Ini menjadi acara reuni aneh."
+    },
+    {
+      "id": 60,
+      "model": "헤르만",
+      "teller": "Hermann",
+      "title": "???",
+      "content": "Bagaimana kau memperlakukan hadiahku, anakku?"
+    },
+    {
+      "id": 61,
+      "model": "헤르만",
+      "teller": "Hermann",
+      "title": "???",
+      "content": "Aku tidak berinvestasi padamu hanya untuk melihatmu dalam keadaan berantakan seperti ini."
+    },
+    {
+      "id": 62,
+      "model": "그레고르",
+      "content": "Aku tidak pernah menginginkan ini... Tidak sekalipun..."
+    },
+    {
+      "id": 63,
+      "model": "헤르만",
+      "teller": "Hermann",
+      "title": "???",
+      "content": "Setidaknya kamu harus membuka bungkusan dari hadiahku itu."
+    },
+    {
+      "id": 64,
+      "model": "헤르만",
+      "teller": "Hermann",
+      "title": "???",
+      "content": "Lengan kecil itu bukanlah satu-satunya hadiahku."
+    },
+    {
+      "id": 65,
+      "model": "가환",
+      "teller": "Jia Huan",
+      "title": "???",
+      "content": "Oke, sudah cukup pertemuannya."
+    },
+    {
+      "id": 66,
+      "content": "Laki-laki bernama Jia Huan itu bertepuk tangan dua kali."
+    },
+    {
+      "id": 67,
+      "content": "Lalu, segalanya menjadi gelap"
+    },
+    {
+      "id": 68,
+      "content": "Seperti..."
+    },
+    {
+      "id": 69,
+      "content": "Terbangun dari mimpi buruk yang panjang menuju fajar yang menyingsing."
+    },
+    {
+      "id": 70,
+      "content": "Setelah beberapa waktu..."
+    },
+    {
+      "id": 71,
+      "place": "Di dalam Mephistopheles",
+      "model": "베르길리우스",
+      "content": "Dan kupikir ini akan menjadi misi yang cukup mudah bagimu."
+    },
+    {
+      "id": 72,
+      "model": "베르길리우스",
+      "content": "Sungguh luar biasa, keberanian kalian untuk kembali merangkak ke sini setelah kehilangan Golden Bough."
+    },
+    {
+      "id": 73,
+      "model": "베르길리우스",
+      "content": "Apa aku melebih-lebihkan dirimu?"
+    },
+    {
+      "id": 74,
+      "model": "단테",
+      "content": "<......>"
+    },
+    {
+      "id": 75,
+      "model": "베르길리우스",
+      "content": "Coba beri aku sebuah alasan, Nona Faust."
+    },
+    {
+      "id": 76,
+      "model": "파우스트",
+      "content": "Ternyata, keabadian bukanlah solusi untuk segalanya."
+    },
+    {
+      "id": 77,
+      "model": "베르길리우스",
+      "content": "... Hm."
+    },
+    {
+      "id": 78,
+      "model": "베르길리우스",
+      "content": "Ada yang ingin kau tambahkan, Dante?"
+    },
+    {
+      "id": 79,
+      "model": "단테",
+      "content": "<Ada kelompok lain yang mengincar Golden Bough.>"
+    },
+    {
+      "id": 80,
+      "model": "단테",
+      "content": "<Kamu pasti sudah tahu tentang ini, jadi kenapa tidak memperingatkanku?>"
+    },
+    {
+      "id": 81,
+      "model": "파우스트",
+      "content": "Mereka menanyakan tentang faksi lain yang juga menginginkan Golden Bough."
+    },
+    {
+      "id": 82,
+      "content": "Faust dengan tenang menyampaikan kata-kataku kepada Vergilius."
+    },
+    {
+      "id": 83,
+      "model": "베르길리우스",
+      "content": "... Jangan bilang kamu menyalahkanku untuk ini?"
+    },
+    {
+      "id": 84,
+      "model": "베르길리우스",
+      "content": "Lalu beritahu aku, Dante. Kenapa kita repot-repot mengirim 12 prajurit ke tempat yang tidak ada ancamannya?"
+    },
+    {
+      "id": 85,
+      "model": "베르길리우스",
+      "content": "Setelah menyewa para Fixer untuk membimbing pula."
+    },
+    {
+      "id": 86,
+      "model": "단테",
+      "content": "<Itu...>"
+    },
+    {
+      "id": 87,
+      "model": "그레고르",
+      "content": "Sudah cukup, Manajer."
+    },
+    {
+      "id": 88,
+      "model": "그레고르",
+      "content": "Ini salahku. Jika kamu ingin menyalahkan seseorang, maka itu aku..."
+    },
+    {
+      "id": 89,
+      "model": "베르길리우스",
+      "content": "Menarik sekali."
+    },
+    {
+      "id": 90,
+      "model": "베르길리우스",
+      "content": "Sudah terjalin rasa keakraban di antara kalian."
+    },
+    {
+      "id": 91,
+      "model": "베르길리우스",
+      "content": "Yah, kurasa tidak terlalu buruk saling menutupi kesalahan satu sama lain karena kalian berada di bis yang sama..."
+    },
+    {
+      "id": 92,
+      "model": "베르길리우스",
+      "content": "Ketahui saja bahwa membela satu sama lain tidak akan menutupi ketidakmampuanmu."
+    },
+    {
+      "id": 93,
+      "model": "파우스트",
+      "content": "... Kita dapat panggilan. Kelompok 4 After Team baru saja menyusup ke bawah tanah untuk menjalankan tugas mereka."
+    },
+    {
+      "id": 94,
+      "model": "베르길리우스",
+      "content": "Masuk akal. Seseorang harus mengambil E.G.O dan Abnormality yang tertinggal di sana."
+    },
+    {
+      "id": 95,
+      "model": "베르길리우스",
+      "content": "... Sayang sekali esensi utamanya hilang."
+    },
+    {
+      "id": 96,
+      "model": "오티스",
+      "content": "Ini sudah berlebihan."
+    },
+    {
+      "id": 97,
+      "model": "오티스",
+      "content": "Kegagalan sudah menjadi hal lumrah di medan perang. Jika suatu tujuan tidak tercapai, maka anda akan menyusun rencana lainnya."
+    },
+    {
+      "id": 98,
+      "model": "오티스",
+      "content": "Apa anda yakin ekspektasi anda tidak terlalu tinggi untuk misi pertama kita? Perlu anda ketahui bahwa kinerja Manajer Eksekutif sudah luar biasa."
+    },
+    {
+      "id": 99,
+      "model": "베르길리우스",
+      "content": "......"
+    },
+    {
+      "id": 100,
+      "model": "베르길리우스",
+      "content": "Kurasa kita cukupkan sampai sini saja. Kamu tidak sepenuhnya salah."
+    },
+    {
+      "id": 101,
+      "model": "파우스트",
+      "content": "Tentu."
+    },
+    {
+      "id": 102,
+      "content": "Tampaknya ada ketegangan aneh antara Vergilius dan Faust..."
+    },
+    {
+      "id": 103,
+      "content": "Tapi untuk sekarang, aku tidak ada energi ataupun semangat untuk ingin tahu tentang hal itu."
+    },
+    {
+      "id": 104,
+      "content": "Bis ini berbau menyengat logam, darah, dan kotoran yang menempel di pakaian kami, tapi tidak ada yang berpikir untuk membuka jendela."
+    },
+    {
+      "id": 105,
+      "content": "Dan tidak ada pula yang berpikir untuk mengganti pakaiannya."
+    },
+    {
+      "id": 106,
+      "content": "Semuanya hanya duduk manis, tanpa bersuara."
+    },
+    {
+      "id": 107,
+      "content": "Gregor, yang tampak paling putus asa di antara mereka, menatap keluar jendela dengan sedih..."
+    },
+    {
+      "id": 108,
+      "content": "Kemudian, tiba-tiba ia meraih sesuatu dan menaruhnya di dekat kaca depan bis."
+    },
+    {
+      "id": 109,
+      "model": "카론",
+      "content": "Pak Serangga. Apa ini yang kamu taruh di kepala Mephi?"
+    },
+    {
+      "id": 110,
+      "model": "그레고르",
+      "content": "... Kenang-kenangan."
+    },
+    {
+      "id": 111,
+      "model": "그레고르",
+      "content": "Kenangan untuk dua orang."
+    },
+    {
+      "id": 112,
+      "model": "그레고르",
+      "content": "Aku punya adik perempuan, usianya hampir sama dengan Yuri."
+    },
+    {
+      "id": 113,
+      "model": "그레고르",
+      "content": "Itu... saja."
+    },
+    {
+      "id": 114,
+      "content": "Aku kepikiran untuk memberinya semangat, tapi ide itu cepat sirna."
+    },
+    {
+      "id": 115,
+      "content": "Ishmael tampak berduka, Sinclair menangis pelan, dan Rodya menghela nafas sedih; jika mereka saja tidak bisa memberinya semangat, apalagi aku?"
+    },
+    {
+      "id": 116,
+      "model": "베르길리우스",
+      "content": "Charon, bukannya ini akan menghalangi?"
+    },
+    {
+      "id": 117,
+      "model": "카론",
+      "content": "Tidak, Charon akan baik-baik saja."
+    },
+    {
+      "id": 118,
+      "model": "베르길리우스",
+      "content": "... Baiklah, mari kita berangkat."
+    },
+    {
+      "id": 119,
+      "model": "카론",
+      "content": "Vroom-vroom."
+    },
+    {
+      "id": 120,
+      "content": "Bisnya bergerak perlahan ke depan."
+    },
+    {
+      "id": 121,
+      "content": "Masker gas yang tergantung di depan bergoyang lembut seperti sebuah hiasan."
+    },
+    {
+      "id": 122
+    }
+  ]
+}

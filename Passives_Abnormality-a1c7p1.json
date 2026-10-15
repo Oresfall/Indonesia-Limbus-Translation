@@ -1,0 +1,75 @@
+{
+    "dataList": [
+        {
+            "id": 837101,
+            "name": "Casual Opportunity",
+            "desc": "Awal Giliran: jika Speed unit ini lebih cepat daripada target, peroleh 1 [PenetrateDamageUp]"
+        },
+        {
+            "id": 837102,
+            "name": "Leisurely Breathing",
+            "desc": "Akhir Giliran: Pulihkan 7 SP\nAkhir Giliran: Peroleh [Agility] setara dengan ([Breath] pada diri sendiri/4) giliran berikutnya (maks 3)"
+        },
+        {
+            "id": 837103,
+            "name": "Single Combat",
+            "desc": "Use Salut jika target kena Stagger"
+        },
+        {
+            "id": 837104,
+            "name": "Focused Attack",
+            "desc": "Ketika memakai Skill terhadap the same Slot unit ini successfully hit giliran sebelumnya, peroleh efek berikut berdasarkan jumlah dari consecutive giliran it successfully hit the Slot\nResets jika unit ini failed to attack giliran sebelumnya.\n- 1 Consecutive hit: Clash Power +1\n- 2 Consecutive hits: Base Power +1\n- 3 Consecutive hits: Base Power +1, Coin Power +1"
+        },
+        {
+            "id": 837201,
+            "name": "I'll Cut You First!",
+            "desc": "Prioritaskan [LineCutting]."
+        },
+        {
+            "id": 837202,
+            "name": "Hardblood Scissor",
+            "desc": "Saat Menang Clash, jika target memiliki [Laceration], pulihkan Bagian unit ini & \"Inti\" sebanyak 40% of the HP damage yang diberikan.\nAttack End: Jika unit ini healed setidaknya 100 HP, pulihkan 10 SP\nThis efek tidak mengaktifkan Saat Menyerang dengan an Unbreakable Coin Skill jika it kehilangan the Clash.",
+            "summary": "Pulihkan ketika menyerang musuh dengan Bleed. Ketika unit ini memulihkan 100 HP, pulihkan SP juga."
+        },
+        {
+            "id": 837203,
+            "name": "I Don't Need Ugly Things!!",
+            "desc": "Jika terdapat any musuh dengan 30% atau kurang HP, gunakan 'I Don't Need Ugly Things!!' Skill."
+        },
+        {
+            "id": 837204,
+            "name": "It's Not Over Yet",
+            "desc": "Gains pola baru at 40% dari HP maks unit ini\nSetelah pattern ubah, peroleh 10 [Laceration] dan 2 [BloodScissor]."
+        },
+        {
+            "id": 837205,
+            "name": "Bloodfeast",
+            "desc": "Jika unit ini is on field, atau is one of the unit that can appear on this Stage, increase [BloodDinner] value sebanyak jumlah dari [Laceration] damage collectively received sebanyak setiap unit. \nKetika unit ini memasuki pertarungan, the sleeping blood drenching the battlefield will rise di atas the surface."
+        },
+        {
+            "id": 837206,
+            "name": "Bloodsteeped Scissors",
+            "desc": "Awal Pertempuran: peroleh 10 [BloodScissor]\n- [BloodScissor] tidak dapat turun di bawah 1\n- Pada 10+ [BloodScissor], ubah them to [BloodScissorTwo].\n- Pada 20+ [BloodScissor], ubah them to [BloodScissorThree].\nJika unit ini konsumsi [BloodScissor] dan turun di bawah the di atas thresholds, ubah them accordingly."
+        },
+        {
+            "id": 837207,
+            "name": "Starved dan Withered",
+            "desc": "Awal Pertempuran: peroleh [StarvingBarberTwo]"
+        },
+        {
+            "id": 837208,
+            "name": "Blood... Blood... Blood...!",
+            "desc": "Akhir Giliran: Jika Panicked, pulih dari Panik pada Awal Giliran berikutnya dan reset SP ke 0.\nKetika pulih dari Panik:\n- Konsumsi 30 [BloodDinner] untuk peroleh 2 [Enhancement] dan 1 [BloodScissor] giliran berikutnya, dan pulihkan 20 SP.\n- Jika unit ini failed to konsumsi [BloodDinner], peroleh 30 [Laceration], immediately terima the damage dari [Laceration], lalu kehilangan 3 [Laceration] Count. Lalu, peroleh 2 [Enhancement], 2 [AttackDmgUp], dan pulihkan 20 SP giliran berikutnya."
+        },
+        {
+            "id": 9999997,
+            "name": "Pemulihan Panik",
+            "desc": "Akhir Giliran: jika Panik, reset SP ke 0."
+        },
+        {
+            "id": 9999996,
+            "name": "Fixed Panik",
+            "desc": "Tipe Panik unit ini tidak dapat ubah ketika diberikan dengan an efek that changes Panik Types. Instead, unit ini is diberikan dengan an efek that is diberikan terhadap target tanpa SP."
+        }
+    ]
+}

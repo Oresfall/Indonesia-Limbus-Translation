@@ -1,0 +1,19 @@
+{
+  "dataList": [
+    {
+      "id": 40000101,
+      "name": "Bursting Strike, Breathing Siphon",
+      "desc": "Saat Membunuh dengan Skill Attack unit ini, peroleh [Breath] setara dengan [Burst] pada target (maks 5)"
+    },
+    {
+      "id": 40000102,
+      "name": "Ba Jiao Banana Bolus",
+      "desc": "Beri +1 lebih [Burst] Potency atau [Burst] Count (2 kali per giliran)\nJika unit ini's Level Offense is di atas dari target's, Clash Power +1"
+    },
+    {
+      "id": 40000103,
+      "name": "Jin Gang Bolus",
+      "desc": "Kalah Clash: peroleh 3 [DefenseUp] (2 kali per giliran)"
+    }
+  ]
+}

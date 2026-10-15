@@ -1,0 +1,602 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Ruangan Proyeksi, Distrik 14",
+      "model": "에즈라먼지",
+      "content": "*pant* Sedikit lagi, dan kurasa kita bisa menghancurkan benda sialan itu sampai berkeping-keping, tapi..."
+    },
+    {
+      "id": 1,
+      "model": "이스마엘다침",
+      "content": "Ya, tapi sangat sulit untuk fokus pada satu hal dengan pejuang besar yang muncul dan menghilang dari realitas begitu kita membuat celah..."
+    },
+    {
+      "id": 2,
+      "model": "이스마엘다침",
+      "content": "*haah*... Itu akan membuat hidup kita jauh lebih mudah jika kita bisa menyingkirkan salah <i>satu</i> dari mereka."
+    },
+    {
+      "id": 3,
+      "content": "Pertempuran itu tampaknya berdampak buruk pada para <ruby=Pendosa>Sinner</ruby>, lebih dari biasanya."
+    },
+    {
+      "id": 4,
+      "content": "Bukannya kita menghadapi musuh yang tidak bisa diatasi—sama sekali tidak. Belum lagi Ezra dan Aeng-du ada di sini untuk membantu kita."
+    },
+    {
+      "id": 5,
+      "content": "Tapi..."
+    },
+    {
+      "id": 6,
+      "model": "히스클리프다침2",
+      "content": "Sialan! Apa mereka belum puas? Udah waktunya mereka menyerah, kan?!"
+    },
+    {
+      "id": 7,
+      "model": "히스클리프다침2",
+      "content": "Oi, lu jangan kabur lagi...!"
+    },
+    {
+      "id": 8,
+      "model": "그레고르다침",
+      "content": "Pria besar yang membawa pedang itu memang menghajar kita, tapi... aku tidak tahu apakah mereka adalah kunci untuk menyelesaikan <ruby=Distorsi>Distortion</ruby> ini...!"
+    },
+    {
+      "id": 9,
+      "model": "히스클리프다침2",
+      "content": "Pilihan kita gak banyak, kan? Jalan keluar kita diblokir, dan gak mungkin kita bisa berhenti di tengah pertempuran buat bikin strategi..."
+    },
+    {
+      "id": 10,
+      "place": "Distorsi Jalan Butter, Distrik 14",
+      "content": "Dengan medan perang yang terus berubah dan berkedip di antara N Corp. dan S Corp., kami tidak memiliki ruang bernapas untuk fokus pada proyektor ataupun Im Gyeong-eop, yang mengayunkan pedang besar itu dengan kekuatan yang menakutkan."
+    },
+    {
+      "id": 11,
+      "place": "Ruangan Proyeksi, Distrik 14",
+      "content": "Lagipula..."
+    },
+    {
+      "id": 12,
+      "model": "뉴김삿갓",
+      "content": "... Hnh!"
+    },
+    {
+      "id": 13,
+      "model": "에즈라먼지",
+      "content": "Aeng-du! Pergi lindungi dia juga!"
+    },
+    {
+      "id": 14,
+      "model": "뉴앵두",
+      "content": "Akan dilaksanakan!"
+    },
+    {
+      "id": 15,
+      "content": "... N Corp. mengirim terlalu banyak orang untuk melawan kita."
+    },
+    {
+      "id": 16,
+      "content": "Awalnya tidak sebanyak itu, tetapi tampaknya lonjakan mendadak korban karyawan di area yang sangat dekat dengan <ruby=Sarang>Nest</ruby> telah memperingatkan N Corp. tentang lokasi kita."
+    },
+    {
+      "id": 17,
+      "content": "... Bagaimana cara kita keluar dari sini?"
+    },
+    {
+      "id": 18,
+      "model": "단테",
+      "content": "<... Faust, Outis? Bantu aku di sini.>"
+    },
+    {
+      "id": 19,
+      "content": "Aku memutuskan untuk berhenti memeras otak mencoba menavigasi situasi yang sangat sedikit aku ketahui, dan sebaliknya mengandalkan para <ruby=Pendosa>Sinner</ruby> yang mungkin memiliki lebih banyak pengalaman di lapangan."
+    },
+    {
+      "id": 20,
+      "model": "단테",
+      "content": "<Pertama, aku perlu tahu apakah ada cara untuk mengatasi bala bantuan tanpa akhir yang dikirim N Corp. untuk mengejar kita.>"
+    },
+    {
+      "id": 21,
+      "model": "단테",
+      "content": "<Dan kedua... Apakah mengalahkan Im Gyeong-eop atau menghancurkan proyektor itu akan mengakhiri fenomena <ruby=Distorsi>Distortion</ruby> ini?>"
+    },
+    {
+      "id": 22,
+      "model": "오티스다침",
+      "content": "Jika saya boleh berbicara bebas, Manajer Eksekutif... Tampaknya kekuatan kita saat ini tidak akan cukup untuk mengatasi laju bala bantuan musuh saat ini."
+    },
+    {
+      "id": 23,
+      "model": "오티스다침",
+      "content": "Bukan hanya medan perang ini terletak di dekat benteng musuh, tetapi ada variabel yang tidak terduga dalam mesin aneh itu yang membuat menetralisir satu gelombang musuh saja menjadi sulit."
+    },
+    {
+      "id": 24,
+      "model": "오티스다침",
+      "content": "... Saya menyesal harus menyampaikan kabar buruk ini, tetapi kita terjebak di medan perang dengan hanya satu jalan keluar, yang telah diblokir oleh musuh; tanpa bala bantuan kita sendiri, ada sedikit harapan untuk menang melalui kesulitan saat ini."
+    },
+    {
+      "id": 25,
+      "model": "단테",
+      "content": "<... Ya. Sepertinya begitu bagiku juga.>"
+    },
+    {
+      "id": 26,
+      "model": "단테",
+      "content": "<Tapi mungkin jika kita bisa menetralisir fenomena <ruby=Distorsi>Distortion</ruby>, setidaknya...>"
+    },
+    {
+      "id": 27,
+      "model": "파우스트다침",
+      "content": "... Faust..."
+    },
+    {
+      "id": 28,
+      "model": "파우스트다침",
+      "content": "... merekomendasikan memasuki <ruby=Rubanah dari Kedalaman>Dungeon of the Fathoms</ruby> sebagai jalan keluar kita."
+    },
+    {
+      "id": 29,
+      "model": "단테",
+      "content": "<<ruby=Rubanah dari Kedalaman>Dungeon of the Fathoms</ruby>...? Tapi bagaimana aku bisa masuk jika kita bahkan tidak bisa berbicara dengan <ruby=Distorsi>Distortion</ruby>—>"
+    },
+    {
+      "id": 30,
+      "model": "단테",
+      "content": "<... Tunggu, mungkin...>"
+    },
+    {
+      "id": 31,
+      "content": "Saat <ruby=Pemeriksaan Rutin>Regular Check-up</ruby> LCB dulu di LCE..."
+    },
+    {
+      "id": 32,
+      "place": "Tim Riset LCE\nSektor Lab., Masa Lalu",
+      "model": "알리사",
+      "content": "<i>Dia bilang yang harus anda lakukan hanyalah membaca apa yang ada di catatan di depan <ruby=Distorsi>Distortion</ruby>-nya. Tampaknya itu semacam... sebuah kode.</i>"
+    },
+    {
+      "id": 33,
+      "place": "Ruangan Proyeksi, Distrik 14",
+      "model": "단테",
+      "content": "<Benar... Kata kunci!>"
+    },
+    {
+      "id": 34,
+      "content": "Yang satu ini tampaknya merupakan <ruby=Distorsi>Distortion</ruby> tipe Lokasi... yang berarti terlepas dari ke mana kilatan terang membawa kita, N Corp. atau karikatur bengkok dari S Corp., kita masih berada dalam jangkauannya."
+    },
+    {
+      "id": 35,
+      "content": "Dengan kata lain... asalkan aku memiliki kata kunci yang tepat, aku bisa memanggil pintu masuk ke <ruby=Rubanah dari Kedalaman>Dungeon of the Fathoms</ruby>-nya dari mana saja di dalamnya."
+    },
+    {
+      "id": 36,
+      "model": "단테",
+      "content": "<O-oke, jadi apa kata kunci untuk <ruby=Distorsi>Distortion</ruby> ini?>"
+    },
+    {
+      "id": 37,
+      "content": "Hohenheim telah memberi kita kata kunci yang diperlukan untuk <ruby=Distorsi>Distortion</ruby>-nya saat itu, tapi kali ini... kita harus mengetahuinya sendiri."
+    },
+    {
+      "id": 38,
+      "model": "단테",
+      "content": "<Pertama-tama, salah satunya haruslah \"foto.\" Itu jelas telah hadir di sepanjang perjalanan fenomena ini.>"
+    },
+    {
+      "id": 39,
+      "model": "이상다침",
+      "content": "Jika saya diperbolehkan... Mungkin \"Pengalaman\" adalah salah satunya."
+    },
+    {
+      "id": 40,
+      "content": "Yi Sang memberikan pendapatnya, setelah mundur sejenak dari pertempuran ke garis belakang."
+    },
+    {
+      "id": 41,
+      "model": "이상다침",
+      "content": "Ada arus obsesi terhadap pengalaman yang menodai setiap jejaknya; itu pasti ada hubungannya dengan apa yang menyebabkan <ruby=Distorsi>Distortion</ruby>-nya."
+    },
+    {
+      "id": 42,
+      "model": "파우스트다침",
+      "content": "Pengalaman... Konsep itu sendiri kurang... substansi."
+    },
+    {
+      "id": 43,
+      "model": "파우스트다침",
+      "content": "Itu harus sesuatu yang lebih membumi... Sesuatu yang sekaligus identik dengan \"pengalaman,\" sambil mempertahankan garis lurus ke teknologi N Corp. yang menjadi inti obsesinya."
+    },
+    {
+      "id": 44,
+      "model": "단테",
+      "content": "<<ruby=Pengalaman Dalam Kaleng>Canned Experience</ruby>?>"
+    },
+    {
+      "id": 45,
+      "model": "파우스트다침",
+      "content": "... Kemungkinan besar, pikir Faust."
+    },
+    {
+      "id": 46,
+      "model": "단테",
+      "content": "<Baiklah, kalau begitu... Foto, <ruby=Pengalaman Dalam Kaleng>Canned Experience</ruby>...?>"
+    },
+    {
+      "id": 47,
+      "model": "이상다침",
+      "content": "... Nampaknya belum ada yang terjadi."
+    },
+    {
+      "id": 48,
+      "content": "... Memang belum, tapi aku bisa merasakannya."
+    },
+    {
+      "id": 49,
+      "place": "Darkroom, Distrik 14, Masa Lalu",
+      "model": "단테",
+      "content": "<i><Apakah ini jenis foto yang mereka gunakan untuk membuat <ruby=Pengalaman Dalam Kaleng>Canned Experiences</ruby>?></i>"
+    },
+    {
+      "id": 50,
+      "model": "단테",
+      "content": "<Jadi itu sensasi aneh tadi... Menyebutkan kata itu mengguncang <ruby=Distorsi>Distortion</ruby> dan menyebabkan efek riak itu.>"
+    },
+    {
+      "id": 51,
+      "content": "Tapi itu jelas tidak cukup untuk memaksa membuka <ruby=Rubanah dari Kedalaman>Dungeon of the Fathoms</ruby>... Berapa banyak kata kunci lain yang mungkin ada?"
+    },
+    {
+      "id": 52,
+      "place": "Ruangan Proyeksi, Distrik 14",
+      "model": "뉴김삿갓",
+      "content": "... Potongan."
+    },
+    {
+      "id": 53,
+      "model": "싱클레어다침",
+      "content": "Maaf?"
+    },
+    {
+      "id": 54,
+      "model": "뉴김삿갓",
+      "content": "Oh, kupikir kita semua sedang bergantian membagikan apa yang mungkin menyebabkan dia ter-Distorsi."
+    },
+    {
+      "id": 55,
+      "model": "뉴김삿갓",
+      "content": "Dan melihat cara kalian menyampaikan pendapat satu demi satu, aku pikir ini semacam teka-teki zen."
+    },
+    {
+      "id": 56,
+      "model": "싱클레어다침",
+      "content": "Uh... Bukan teka-teki zen, bukan... Tapi dari mana datangnya \"potongan\"?"
+    },
+    {
+      "id": 57,
+      "model": "뉴김삿갓",
+      "content": "Begini, ketika menikmati manfaat dari bermalas-malasan di tempat kerja, segala macam hal biasa menjadi memiliki kualitas yang jauh lebih menarik, bahkan terkadang mengungkapkan rahasia yang tidak terlihat oleh mata yang terfokus ke tempat lain."
+    },
+    {
+      "id": 58,
+      "model": "뉴김삿갓",
+      "content": "Ambil contoh orang yang kita bicarakan: dia telah berkeliaran di area kota ini dengan membawa kamera yang sangat mahal, begitu mencolok sehingga setiap pemilik toko yang aku kutanyai untuk informasi dengan santai memiliki suatu cerita tentang dia."
+    },
+    {
+      "id": 59,
+      "model": "뉴김삿갓",
+      "content": "Setiap cerita menambahkan sisi lain dari kisah panjang seorang pria yang dulunya bersemangat: seorang pria dengan sikap pantang menyerah, kemampuan luar biasa untuk bangkit dengan usahanya sendiri, dan alur yang jelas menuju tempat tinggal <ruby=Sarang>Nest</ruby>, yang menjadi begitu tersihir oleh fotografi hingga akhirnya dia menghamburkan kekayaannya pada apa yang, pada akhirnya, tidak lebih dari sekedar hiburan."
+    },
+    {
+      "id": 60,
+      "model": "뉴김삿갓",
+      "content": "Dan itu terus berlanjut sampai dia mendapati dirinya menjadi seorang miskin yang nyaris tidak bisa membayar sewa di apartemen yang seperti tumpukan barang rongsokan."
+    },
+    {
+      "id": 61,
+      "model": "이상다침",
+      "content": "Demi mengejar idealitasnya, pria itu telah kehilangan kendali atas kekayaan dan realitas."
+    },
+    {
+      "id": 62,
+      "model": "뉴김삿갓",
+      "content": "Aku mencari apartemennya dan menemukan beberapa potongan tulisannya."
+    },
+    {
+      "id": 63,
+      "model": "뉴김삿갓",
+      "content": "Ketika hujan dingin menetes menembus atap, ketika jamur dan kelembapan suam-suam kuku bersama-sama merambah dari tanah, pikiran mulai mengembara, tersesat."
+    },
+    {
+      "id": 64,
+      "model": "뉴김삿갓",
+      "content": "Pada akhirnya, kegilaan timbul dalam bentuk yang tidak bisa dibedakan dari mabuk. Orang miskin itu kehilangan dirinya sendiri."
+    },
+    {
+      "id": 65,
+      "content": "Bayangan yang lebih gelap dari apapun yang pernah kulihat di wajah Kim merayap di bawah bayang-bayang matanya."
+    },
+    {
+      "id": 66,
+      "content": "Tidak—aku pernah melihat tatapan itu sekali, di masa lalu..."
+    },
+    {
+      "id": 67,
+      "content": "... Meskipun akan lebih akurat untuk mengatakan bahwa aku telah <i>mendengarnya</i> dalam suaranya yang menggema di lubang jiwanya, terdistorsi oleh rasa bersalah dan penyesalan."
+    },
+    {
+      "id": 68,
+      "content": "Mungkin aku tidak perlu terkejut dengan fakta bahwa <ruby=Distorsi>Distortion</ruby> ini, di antara tak terhitung banyaknya orang di sini, menaruh minat khusus pada <ruby=Kim Bertopi Bambu>Bamboo-hatted Kim</ruby>."
+    },
+    {
+      "id": 69,
+      "model": "단테",
+      "content": "<Foto, <ruby=Pengalaman Dalam Kaleng>Canned Experience</ruby>, dan... Potongan tulisan.>"
+    },
+    {
+      "id": 70,
+      "content": "Like inserting a final piece of the puzzle, space before us momentarily warped and flashed..."
+    },
+    {
+      "id": 71,
+      "content": "... membuka jalan menuju kedalaman jiwa <ruby=Distorsi>Distortion</ruby>."
+    },
+    {
+      "id": 72,
+      "model": "단테",
+      "content": "<Baiklah, kalau begitu...>"
+    },
+    {
+      "id": 73,
+      "model": "오티스다침",
+      "content": "Kami akan berada tepat di belakang anda, Manajer Eksekutif."
+    },
+    {
+      "id": 74,
+      "model": "뉴앵두",
+      "content": "Nona Ezra, ini yang aku lihat saat itu: gerbang menuju Fathoms seseorang."
+    },
+    {
+      "id": 75,
+      "model": "에즈라먼지",
+      "content": "Hyah... Ini dia, ya? Hal yang keren."
+    },
+    {
+      "id": 76,
+      "model": "에즈라먼지",
+      "content": "Tapi, uh..."
+    },
+    {
+      "id": 77,
+      "content": "Sebelum dia bisa menyelesaikannya, Ezra harus mengalihkan kembali fokusnya dari diskusi kami ke pertempuran."
+    },
+    {
+      "id": 78,
+      "content": "Sebagian besar <ruby=Pendosa>Sinners</ruby> terjebak dalam kesulitan yang sama. Beberapa berhasil melepaskan diri dari pertempuran dan bersiap untuk memasuki <ruby=Rubanah dari Kedalaman>Dungeon of the Fathoms</ruby>, tetapi Hong Lu, Gregor, dan beberapa lainnya masih sibuk menahan karyawan N Corp."
+    },
+    {
+      "id": 79,
+      "model": "그레고르다침",
+      "content": "Ngh... Mereka bakal mengikuti kita ke sana kalau kita lari sekarang, kan?"
+    },
+    {
+      "id": 80,
+      "model": "홍루다침",
+      "content": "Haha... Mungkin?"
+    },
+    {
+      "id": 81,
+      "model": "홍루다침",
+      "content": "Bahkan mereka yang tidak dirantai ke Dante seperti kita bisa melakukan perjalanan melalui jalur ini setelah terbuka, jadi..."
+    },
+    {
+      "id": 82,
+      "model": "그레고르다침",
+      "content": "Ya... Mari jangan mendesak diri kita sendiri ke sudut yang bahkan lebih sempit."
+    },
+    {
+      "id": 83,
+      "model": "뉴김삿갓",
+      "content": "... Aku akan menahan mereka."
+    },
+    {
+      "id": 84,
+      "content": "Mendengar itu, <ruby=Kim Bertopi Bambu>Bamboo-hatted Kim</ruby> melangkah maju."
+    },
+    {
+      "id": 85,
+      "model": "뉴김삿갓",
+      "content": "Lengan pedangku tidak seperti dulu lagi, tapi ini seharusnya cukup untuk hal ini."
+    },
+    {
+      "id": 86,
+      "model": "뉴김삿갓",
+      "content": "Lagipula, aku memiliki sedikit keinginan untuk menginjakkan kaki di tempat yang sial dan terjerat dalam kekacauan yang... aneh seperti ini. *haah*..."
+    },
+    {
+      "id": 87,
+      "content": "... Apa itu benar-benar apa yang dia pikirkan?"
+    },
+    {
+      "id": 88,
+      "content": "Ada sesuatu di matanya yang membuatku percaya ini tentang sesuatu yang lebih dari sekadar tinggal di belakang untuk melindungi lini belakang kami. Dia..."
+    },
+    {
+      "id": 89,
+      "model": "뉴료슈담배다침",
+      "content": "A.S.P."
+    },
+    {
+      "id": 90,
+      "model": "뉴김삿갓",
+      "content": "Eh?"
+    },
+    {
+      "id": 91,
+      "model": "뉴료슈담배다침",
+      "content": "Alasan Sialan Palsu."
+    },
+    {
+      "id": 92,
+      "model": "뉴료슈담배다침",
+      "content": "Setidaknya cobalah berpura-pura tulus dan buat kami mudah memercayaimu. Kamu pikir alasan mengerikan itu akan lolos?"
+    },
+    {
+      "id": 93,
+      "model": "뉴김삿갓",
+      "content": "……."
+    },
+    {
+      "id": 94,
+      "model": "뉴료슈담배다침",
+      "content": "Apa yang kamu coba hindari, pengayun pedang? Kamu bukan anak kecil yang mencoba kabur dari mengerjakan P.R.."
+    },
+    {
+      "id": 95,
+      "model": "뉴김삿갓",
+      "content": "Aku ingat mendengar bahwa memasuki <ruby=Rubanah dari Kedalaman>Dungeon of the Fathoms</ruby>... akan membawa seseorang ke Fathoms spiritual yang sedang ditatap oleh <ruby=Distorsi>Distortion</ruby>."
+    },
+    {
+      "id": 96,
+      "model": "뉴김삿갓",
+      "content": "Kalau begitu apa yang ada di dalam pasti milikku sendiri, karena itulah yang sedang ditatap oleh kekejian itu."
+    },
+    {
+      "id": 97,
+      "model": "히스클리프다침2",
+      "content": "Udah diputusin, kalo gitu. Lo ikut kita."
+    },
+    {
+      "id": 98,
+      "model": "히스클리프다침2",
+      "content": "Kita gak bakal jalan buta ke tempat yang kita gak tahu apa-apa, bro. Tuntun kita ke sana, ya?"
+    },
+    {
+      "id": 99,
+      "model": "뉴김삿갓",
+      "content": "Oh, itu..."
+    },
+    {
+      "id": 100,
+      "model": "뉴료슈반담다침",
+      "content": "Dia membuatnya sederhana. Kamu coba itu juga."
+    },
+    {
+      "id": 101,
+      "model": "뉴료슈반담다침",
+      "content": "Belajar dari cara yang sulit bahwa \"P.R.\" seperti bacaan musim panas tidak akan hilang hanya karena kamu tidak melihatnya. Itu masih ada di sana, bahkan saat liburan musim panas berakhir—merusak hari terakhir liburanmu menjadi begadang semalaman."
+    },
+    {
+      "id": 102,
+      "content": "Sarung pedang Arayashiki bergetar riang sebagai tanda setuju."
+    },
+    {
+      "id": 103,
+      "model": "뉴료슈반담다침",
+      "content": "Berhenti menunda-nunda. Pergi lakukan \"bacaan musim panas\"-mu."
+    },
+    {
+      "id": 104,
+      "model": "뉴료슈반담다침",
+      "content": "Apa yang tadi kamu katakan? Hadapi P.R, selamatkan I.P.K.?"
+    },
+    {
+      "id": 105,
+      "model": "파우스트다침",
+      "content": "... \"<ruby=Hadapi dosa, selamatkan E.G.O.>Face the sin, save the E.G.O.</ruby>\""
+    },
+    {
+      "id": 106,
+      "model": "파우스트다침",
+      "content": "Itu adalah, bagaimanapun juga, sikap yang diharapkan perusahaan dari para karyawannya."
+    },
+    {
+      "id": 107,
+      "model": "뉴김삿갓",
+      "content": "......."
+    },
+    {
+      "id": 108,
+      "model": "에즈라먼지",
+      "content": "... Pergilah, junior."
+    },
+    {
+      "id": 109,
+      "model": "에즈라먼지",
+      "content": "Kalian juga, LCB. Aku bisa menangani mereka semua sendirian."
+    },
+    {
+      "id": 110,
+      "model": "뉴김삿갓",
+      "content": "... Kamu akan menangani mereka sendirian?"
+    },
+    {
+      "id": 111,
+      "model": "에즈라먼지",
+      "content": "Hei, menurutmu aku ini siapa sih? Heh, aku akan tunjukkan padamu mengapa Pemimpin Tim Moses merasa aman mengirimku keluar sendirian bersama kalian."
+    },
+    {
+      "id": 112,
+      "model": "에즈라먼지",
+      "content": "Ini pada dasarnya adalah situasi mingguan untuk Pemimpin Tim dan aku kembali di hari-hari duo kami~ aku bisa menangani mereka sendiri tanpa masalah."
+    },
+    {
+      "id": 113,
+      "model": "에즈라먼지",
+      "content": "Aku ingin melihat bagaimana kalian menangani Titik Infleksi, tapi aku rasa kamu tidak pernah benar-benar bisa memiliki semuanya."
+    },
+    {
+      "id": 114,
+      "model": "에즈라먼지",
+      "content": "Ah sudahlah~ kurasa aku hanya harus memercayai dua anak baru Tim OSIR kita untuk menangani itu!"
+    },
+    {
+      "id": 115,
+      "model": "에즈라먼지",
+      "content": "Sekarang setelah aku memikirkannya, aku rasa aku memberikan contoh yang cukup solid sebagai senior tim kalian, bukan? Hehe."
+    },
+    {
+      "id": 116,
+      "model": "뉴김삿갓",
+      "content": "... Aku tidak menyukai ini, tapi..."
+    },
+    {
+      "id": 117,
+      "model": "뉴김삿갓",
+      "content": "... tampaknya aku tidak punya pilihan dalam masalah ini selama kartu karyawan ini tergantung di dadaku..."
+    },
+    {
+      "id": 118,
+      "content": "Sambil menghela napas, Kim menggelengkan kepalanya dan bergabung dengan kami, menyeret kakinya sepanjang waktu."
+    },
+    {
+      "id": 119,
+      "model": "뉴앵두",
+      "content": "Aku akan mengambil barisan depan."
+    },
+    {
+      "id": 120,
+      "model": "뉴앵두",
+      "content": "Ah, mentor—berhati-hatilah karena pintu masuknya melayang. Ambil langkah tinggi, atau kamu bisa tersandung."
+    },
+    {
+      "id": 121,
+      "model": "뉴김삿갓",
+      "content": "Aku bisa melihatnya dengan jelas, Aeng-du. Bawakan aku tangga jika kamu benar-benar sekhawatir itu, mengapa tidak?"
+    },
+    {
+      "id": 122,
+      "model": "뉴앵두",
+      "content": "... Apakah kamu membutuhkannya?"
+    },
+    {
+      "id": 123,
+      "model": "뉴김삿갓",
+      "content": "... H-hanya sekadar lelucon, kamu tidak perlu khawatir."
+    }
+  ]
+}

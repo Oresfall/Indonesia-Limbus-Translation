@@ -1,0 +1,615 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "content": "Setelah kami turun dari bus..."
+    },
+    {
+      "id": 1,
+      "place": "Backstreets dari Distrik 8, Pintu Masuk",
+      "model": "그레고르",
+      "content": "Hadeeh... Aku tidak percaya kita harus turun dari bus di sini."
+    },
+    {
+      "id": 2,
+      "model": "이스마엘",
+      "content": "Kita harus mengajukan keluhan resmi terhadap H Corp. untuk omong kosong ini. Apa yang mereka pikirkan, melakukan pekerjaan konstruksi buruk di pintu masuk jalan raya yang mengarah langsung ke <ruby=Sarang>Nest</ruby>?"
+    },
+    {
+      "id": 3,
+      "model": "이상",
+      "content": "Banyak sebab yang mungkin menjadi alasan proyek konstruksi semacam itu, namun... mungkin tanda peringatan dini sebelum kita mendekati lokasi akan menjadi tambahan yang masuk akal— nngh."
+    },
+    {
+      "id": 4,
+      "model": "돈키호테",
+      "content": "Seandainya bukan karena aksi <ruby=ugal-ugalan>drifting</ruby> nak Charon yang paling gagah berani... aagh, hamba bergidik membayangkan kemungkinan buruk yang bisa terjadi! Itu akan menjadi akhir yang paling mengerikan bagi sebuah petualangan..."
+    },
+    {
+      "id": 5,
+      "content": "Tidak mengherankan jika semua <ruby=Pendosa>Sinners</ruby> punya kekesalan yang ingin disampaikan."
+    },
+    {
+      "id": 6,
+      "content": "Saat kami melaju ke jalan masuk, kami tiba-tiba disapa oleh tumpukan pelat baja yang disusun dengan buruk menghalangi jalan kami di tengah jalan; Charon dengan cepat memutar bus, yang menyebabkan semua orang terlempar seperti boneka ragdoll."
+    },
+    {
+      "id": 7,
+      "model": "로쟈",
+      "content": "Untung ada jalan alternatif yang mengarah ke <ruby=Kota>City</ruby>, kan~? Aku yakin Charon pasti akan mencoba memutar balik sampai ke persimpangan terakhir."
+    },
+    {
+      "id": 8,
+      "model": "로쟈",
+      "content": "Tapi... sepertinya kita harus melewati semua gang berliku ini untuk sampai ke <ruby=Sarang>Nest</ruby>."
+    },
+    {
+      "id": 9,
+      "model": "단테",
+      "content": "<Di sini gelap sekali...>"
+    },
+    {
+      "id": 10,
+      "content": "Kami disambut oleh jalan yang gelap saat turun dari bus, hanya diterangi oleh untaian cahaya yang redup."
+    },
+    {
+      "id": 11,
+      "content": "Seketika itu juga jelas bahwa kami berada di <ruby=Belakangan>Backstreets</ruby> H Corp."
+    },
+    {
+      "id": 12,
+      "model": "히스클리프",
+      "content": "Kelihatannya keren pas dilihat dari luar, tapi… dalamnya nggak beda jauh sama <ruby=Belakangan>Backstreets</ruby> lain, ya?"
+    },
+    {
+      "id": 13,
+      "model": "로쟈",
+      "content": "Yep. Pemandangan yang familiar. Harus kubilang, ini sudah membosankan."
+    },
+    {
+      "id": 14,
+      "model": "돈키호테",
+      "content": "Hamba bertanya padamu, apakah <ruby=Sarang>Nest</ruby> di distrik ini juga diselimuti kegelapan seperti ini...?"
+    },
+    {
+      "id": 15,
+      "model": "파우스트",
+      "content": "Tidak. Pemandangan khusus ini terbatas pada <ruby=Belakangan>Backstreets</ruby> <ruby=Distrik>District</ruby> 8."
+    },
+    {
+      "id": 16,
+      "content": "<ruby=Belakangan>Backstreets</ruby> di distrik ini tidak terlalu berbeda dari tempat lain yang pernah kami kunjungi sebelumnya."
+    },
+    {
+      "id": 17,
+      "content": "Orang-orang bergegas melewati jalan seolah-olah mereka dikejar oleh sesuatu, orang-orang yang cemberut dan menatap tajam ke tanah dengan semacam penyakit atau ketidaknyamanan... pemandangan yang terlalu umum di setiap sudut <ruby=Kota>City</ruby>."
+    },
+    {
+      "id": 18,
+      "content": "Namun, ada satu hal tentang tempat ini yang menonjol dibandingkan distrik lainnya…"
+    },
+    {
+      "id": 19,
+      "model": "단테",
+      "content": "<Aku, eh… mereka agak mengingatkanku sama mantan tentara G Corp. di <ruby=Distrik>District</ruby> 4...>"
+    },
+    {
+      "id": 20,
+      "model": "그레고르",
+      "content": "...Apa? Maksudmu? Mereka itu...?"
+    },
+    {
+      "id": 21,
+      "content": "Pertumbuhan pada kulit mereka tampak terlalu organik untuk menjadi prostetik. Beberapa dari mereka juga memiliki tonjolan aneh yang muncul dari kulit mereka."
+    },
+    {
+      "id": 22,
+      "model": "그레고르",
+      "content": "Sama sekali tidak, manajer. Lihat, mereka semua tidak bermutasi dengan pola yang sama, misalnya menjadi bentuk serangga."
+    },
+    {
+      "id": 23,
+      "model": "그레고르",
+      "content": "Yah, kurasa aku harus memujimu karena tidak melihat mereka melalui pandangan yang bias."
+    },
+    {
+      "id": 24,
+      "model": "파우스트",
+      "content": "Anda sedang mengamati akibat dari metode perawatan khas <ruby=Distrik>District</ruby> 8."
+    },
+    {
+      "id": 25,
+      "model": "이스마엘",
+      "content": "Ohh...! Jadi dari sinilah rumor tentang salep penyembuh berwarna kebiruan itu berasal, ya? Katanya mereka bisa menyembuhkan luka daging apa pun hanya setelah satu malam dibalut perban?"
+    },
+    {
+      "id": 26,
+      "model": "파우스트",
+      "content": "... Tampaknya ada kesalahpahaman tertentu yang harus diluruskan."
+    },
+    {
+      "id": 27,
+      "model": "파우스트",
+      "content": "Mereka adalah variasi dari <ruby=Singularitas>Singularity</ruby> H Corp., yaitu 'Bolus'."
+    },
+    {
+      "id": 28,
+      "model": "싱클레어",
+      "content": "B-Bolus...?"
+    },
+    {
+      "id": 29,
+      "model": "뫼르소",
+      "content": "Dia kemungkinan besar merujuk pada obat-obatan yang diracik dan diuleni menjadi pil berbentuk bola."
+    },
+    {
+      "id": 30,
+      "model": "파우스트",
+      "content": "Benar. H Corp.... atau <ruby=Grup Bioteknologi Hongyuan>Hongyuan Bioengineering Group</ruby> terutama memproduksi Bolus yang mengandung esensi perawatan."
+    },
+    {
+      "id": 31,
+      "model": "파우스트",
+      "content": "Bolus dapat dikonsumsi secara oral, digiling dengan air menjadi pasta dan dioleskan langsung ke area yang terkena, atau dilarutkan dalam air, direndam ke dalam perban, dan dibalutkan di sekitar area yang memerlukan perawatan."
+    },
+    {
+      "id": 32,
+      "model": "이스마엘",
+      "content": "Ahh... Kurasa rumor berubah seiring perjalanannya."
+    },
+    {
+      "id": 33,
+      "model": "싱클레어",
+      "content": "Ohh... aku mengerti. Kupikir mereka melakukan sesuatu yang sama kayak di, eh... K Corp."
+    },
+    {
+      "id": 34,
+      "model": "파우스트",
+      "content": "Fokus teknologi K Corp. adalah pembalikan atau pemulihan kondisi seseorang. \"Kembali ke kondisi semula\" adalah kata kunci dalam perawatan mereka."
+    },
+    {
+      "id": 35,
+      "model": "파우스트",
+      "content": "Bukan pemandangan langka untuk menemukan teknik dan teknologi unik yang dikembangkan secara mandiri oleh penduduk <ruby=Belakangan>Backstreets</ruby> <ruby=Distrik>District</ruby> 8 menggunakan Bolus yang diproduksi. Perawatannya tidak disesuaikan secara individu untuk setiap pasien; sebaliknya, fokus mereka adalah memilih teknik yang tepat dari segudang pilihan untuk mengatasi kekurangan dalam status mereka."
+    },
+    {
+      "id": 36,
+      "model": "파우스트",
+      "content": "Mungkin seseorang bisa memilih kata-kata... 'Transformasi' atau 'Evolusi' sebagai deskriptor yang lebih ilustratif untuk metode perawatan mereka."
+    },
+    {
+      "id": 37,
+      "model": "싱클레어",
+      "content": "Jadi... mereka... itu yang dihitung sebagai 'dirawat'?"
+    },
+    {
+      "id": 38,
+      "content": "Kerumunan yang ditunjuk Sinclair tentu tampak tidak terluka, karena tidak ada dari mereka yang berdarah atau berjalan dengan pincang, tapi..."
+    },
+    {
+      "id": 39,
+      "content": "... banyak dari mereka tampak linglung, menatap kosong ke arah yang tidak jelas... atau menggaruk bagian tubuh mereka yang bermutasi tanpa sadar."
+    },
+    {
+      "id": 40,
+      "model": "홍루",
+      "content": "Ah... mereka pasti 'pelanggan tetap'."
+    },
+    {
+      "id": 41,
+      "content": "Tanpa diduga, kami menemukan jawaban kami bukan dari Faust, bukan dari Meursault, melainkan dari Hong Lu."
+    },
+    {
+      "id": 42,
+      "model": "단테",
+      "content": "<Pelanggan tetap?>"
+    },
+    {
+      "id": 43,
+      "model": "홍루",
+      "content": "Ya. Aku pernah mendengarnya saat masih kecil. Orang-orang yang sudah terlalu terbiasa mengunjungi klinik untuk mencari perawatan mistis mereka."
+    },
+    {
+      "id": 44,
+      "model": "홍루",
+      "content": "Pelanggan tetap mungkin terlihat lebih mengintimidasi daripada kebanyakan orang pada pandangan pertama, tapi tampaknya semua efek samping yang mereka kumpulkan mengubah mereka dengan cara yang aneh."
+    },
+    {
+      "id": 45,
+      "model": "뫼르소",
+      "content": "Mm. Sangat mungkin bahwa konflik atau masalah internal akan muncul ketika menerapkan metode perawatan yang sangat berbeda pada satu tubuh."
+    },
+    {
+      "id": 46,
+      "model": "홍루",
+      "content": "Setidaknya itu alternatif yang lebih murah untuk orang-orang yang tidak mendaftar Asuransi Jiwa~"
+    },
+    {
+      "id": 47,
+      "model": "이상",
+      "content": "Anda berbicara tentang asuransi... jiwa?"
+    },
+    {
+      "id": 48,
+      "model": "홍루",
+      "content": "Ya, Asuransi Jiwa. Ada opsi asuransi khusus untuk menghidupkan kembali klien saat mereka meninggal."
+    },
+    {
+      "id": 49,
+      "model": "단테",
+      "content": "<Jadi, ironinya tidak luput dariku, tapi...>"
+    },
+    {
+      "id": 50,
+      "model": "단테",
+      "content": "<Kukira membangkitkan orang adalah salah satu Tabu dari The Head?>"
+    },
+    {
+      "id": 51,
+      "model": "파우스트",
+      "content": "… The Head tidak menganggap kebangkitan melalui Asuransi Jiwa sebagai pelanggaran terhadap Tabu non-kebangkitan mereka."
+    },
+    {
+      "id": 52,
+      "model": "오티스",
+      "content": "Kemungkinan besar, pada tingkat teknis, 'kebangkitan' ini sebenarnya dikategorikan sebagai resusitasi otak, bukan kebangkitan penuh; tentu saja dengan mempertimbangkan degradasi fungsinya."
+    },
+    {
+      "id": 53,
+      "model": "파우스트",
+      "content": "Sisi buruk fatal lainnya dari teknologi ini adalah, tidak seperti pemutaran jam manajer, subjek tidak dapat dihidupkan kembali jika otak mereka hancur. Selain itu, ada risiko... 'kehilangan' yang signifikan dalam proses transfer informasi."
+    },
+    {
+      "id": 54,
+      "model": "이스마엘",
+      "content": "Kehilangan, ya… Jadi mungkin beberapa mutasi mereka bisa jadi lebih dari sekadar efek samping dari perawatan ini."
+    },
+    {
+      "id": 55,
+      "model": "홍루",
+      "content": "Hm... mungkin, tapi kudengar butuh lebih dari satu atau dua kali kebangkitan untuk mengubahnya sebanyak itu."
+    },
+    {
+      "id": 56,
+      "model": "홍루",
+      "content": "Dan karena tampaknya orang-orang di <ruby=Belakangan>Backstreets</ruby> bahkan tidak bisa bermimpi membayar biaya pembaruan asuransi secara konsisten, jadi..."
+    },
+    {
+      "id": 57,
+      "model": "홍루",
+      "content": "Lagipula, siapa yang mau mendaftar asuransi jika menggunakan layanannya bisa membuat mereka menjadi keadaan yang sangat menyedihkan?"
+    },
+    {
+      "id": 58,
+      "model": "삼삼",
+      "teller": "???",
+      "title": "???",
+      "content": "… Ya, mereka tampak menyedihkan dan patut dikasihani di mata kalian para orang kaya, kan?"
+    },
+    {
+      "id": 59,
+      "model": "삼삼",
+      "teller": "???",
+      "title": "???",
+      "content": "Kalian akan segera berada di kapal yang sama dengan mereka, jadi simpan rasa kasihan itu untuk diri sendiri."
+    },
+    {
+      "id": 60,
+      "model": "오티스",
+      "content": "... Identifikasi dirimu."
+    },
+    {
+      "id": 61,
+      "content": "Suara orang asing itu memotong diskusi kami seperti instrumen asing. Kami berbalik untuk menemukan sekelompok besar orang yang jelas tidak berniat baik."
+    },
+    {
+      "id": 62,
+      "model": "삼삼",
+      "teller": "???",
+      "title": "???",
+      "content": "Kamu pasti 'tuan muda' dari keluarga Jia yang angkuh itu, kan? Aku bisa tahu hanya dengan melihat wajah cantikmu."
+    },
+    {
+      "id": 63,
+      "model": "로쟈",
+      "content": "Temanmu, Hong Lu?"
+    },
+    {
+      "id": 64,
+      "model": "홍루",
+      "content": "Um… tidak. Aku belum punya banyak kesempatan untuk berkenalan dengan orang-orang dari <ruby=Belakangan>Backstreets</ruby>, jadi... tidak, aku belum pernah bertemu mereka sebelumnya~"
+    },
+    {
+      "id": 65,
+      "model": "삼삼",
+      "teller": "???",
+      "title": "???",
+      "content": "Tentu saja belum. Terlalu sibuk hidup mewah, bermain jadi dewa di dunia yang sama sekali berbeda dari kami rakyat jelata, ya?"
+    },
+    {
+      "id": 66,
+      "model": "삼삼",
+      "teller": "???",
+      "title": "???",
+      "content": "Bukan berarti itu penting. Kami di sini hanya untuk mengambil benda yang kalian bawa untuk diserahkan ke Evaluasi Hierarki Keluarga."
+    },
+    {
+      "id": 67,
+      "model": "이스마엘",
+      "content": "Evaluasi apa...? Oke, jelas ada kesalahpahaman di sini."
+    },
+    {
+      "id": 68,
+      "model": "그레고르",
+      "content": "Jumlah mereka cukup banyak. Kita tidak memulai awal yang baik di sini, ya… kawan."
+    },
+    {
+      "id": 69,
+      "model": "삼삼",
+      "teller": "???",
+      "title": "???",
+      "content": "Sebenarnya, tidak."
+    },
+    {
+      "id": 70,
+      "model": "삼삼",
+      "teller": "???",
+      "title": "???",
+      "content": "Adalah pelanggaran terhadap nilai-nilai inti kantor kami untuk menyerang mereka seperti preman biasa."
+    },
+    {
+      "id": 71,
+      "model": "삼삼",
+      "teller": "Shan San",
+      "title": "Tri-axe Office",
+      "content": "Aku, Shan San, putra ketiga dari Tri-axe Office, menantang Jia Baoyu dari keluarga Jia untuk berduel."
+    },
+    {
+      "id": 72,
+      "model": "삼삼",
+      "teller": "Shan San",
+      "title": "Tri-axe Office",
+      "content": "Taruhan kita... adalah bahwa pemenang dapat mengambil apa pun yang mereka inginkan dari yang kalah."
+    },
+    {
+      "id": 73,
+      "model": "싱클레어",
+      "content": "Tunggu, apa maksudmu dengan duel...?"
+    },
+    {
+      "id": 74,
+      "model": "돈키호테",
+      "content": "D-d-d-d-dududu-duel!"
+    },
+    {
+      "id": 75,
+      "model": "돈키호테",
+      "content": "Hamba pernah mendengar kisah bahwa 'duel' dari para Fixer yang terhormat dari asosiasi Cinq cabang timur mengumumkan niat mereka untuk berduel dengan menyatakan afiliasi dan nama mereka, alih-alih melempar sarung tangan mereka! Dan, pamflet yang nak Ishmael tunjukkan di hadapan daku sebelumnya menyajikan kebenaran bahwa Tri-axe Office memang merupakan kantor dari timur, meskipun mereka memang memiliki kualitas yang lebih rendah! Itu adalah deklarasi duel yang benar, asli, dan akurat yang kita saksikan!"
+    },
+    {
+      "id": 76,
+      "model": "이스마엘",
+      "content": "… Haah..."
+    },
+    {
+      "id": 77,
+      "model": "히스클리프",
+      "content": "Jadi… itu cuma cara keren buat bilang “1v1 gue, ayo”, kan?"
+    },
+    {
+      "id": 78,
+      "model": "단테",
+      "content": "<Maksudku, orang ini tidak terlihat terlalu tangguh… Bagaimana menurutmu, Faust?>"
+    },
+    {
+      "id": 79,
+      "model": "파우스트",
+      "content": "Setuju. Individu ini sepertinya tidak memiliki keahlian luar biasa yang mungkin menimbulkan kesulitan bagi Hong Lu."
+    },
+    {
+      "id": 80,
+      "model": "홍루",
+      "content": "Hm~ kurasa tidak apa-apa. Aku akan kembali dalam satu menit, Dante."
+    },
+    {
+      "id": 81,
+      "model": "단테",
+      "content": "<Uh, kamu yakin ini tidak apa-apa? Aku tidak berpikir kamu akan kalah melawannya, tapi… kau tahu... untuk berjaga-jaga?>"
+    },
+    {
+      "id": 82,
+      "model": "홍루",
+      "content": "Jangan khawatir. Aku punya sedikit pengalaman masa kecil dengan duel. Aku sudah melakukan sekitar sepuluh kali, kurasa?"
+    },
+    {
+      "id": 83,
+      "model": "삼삼",
+      "teller": "Shan San",
+      "title": "Tri-axe Office",
+      "content": "Hah! Jadi si anak kaya ini sudah mencoba beberapa duel, ya? Ini—"
+    },
+    {
+      "id": 84,
+      "model": "홍루",
+      "content": "Ah… kurasa anda salah paham."
+    },
+    {
+      "id": 85,
+      "model": "홍루",
+      "content": "Maksudku adalah aku sudah melakukannya sekitar sepuluh kali sehari. Oh, tapi nenek terkadang mengizinkanku melewatkannya, jadi mungkin jumlahnya sedikit lebih sedikit dari itu?"
+    },
+    {
+      "id": 86,
+      "model": "삼삼",
+      "teller": "Shan San",
+      "title": "Tri-axe Office",
+      "content": "Ap… apa?"
+    },
+    {
+      "id": 87,
+      "model": "홍루",
+      "content": "Aku, Hong Lu dari Limbus Company… hm, tidak."
+    },
+    {
+      "id": 88,
+      "model": "홍루",
+      "content": "Aku, Baoyu dari keluarga Jia, menerima duel ini."
+    },
+    {
+      "id": 89,
+      "content": "Hong Lu melangkah maju dengan percaya diri saat lawan sedang memproses apa yang baru saja didengarnya."
+    },
+    {
+      "id": 90,
+      "content": "Untuk sesaat, Hong Lu berdiri di sana dengan posisi yang tidak menunjukkan sedikit pun agresi… sebelum dengan penasaran memiringkan kepalanya ke samping."
+    },
+    {
+      "id": 91,
+      "model": "홍루",
+      "content": "Um… maaf, apakah kita sedang menunggu sesuatu?"
+    },
+    {
+      "id": 92,
+      "model": "삼삼",
+      "teller": "Shan San",
+      "title": "Tri-axe Office",
+      "content": "Mm?"
+    },
+    {
+      "id": 93,
+      "model": "홍루",
+      "content": "Oh, jadi… aku selalu membiarkan lawanku melakukan dua gerakan pertama dalam duel. Silakan, jangan ragu."
+    },
+    {
+      "id": 94,
+      "model": "삼삼",
+      "teller": "Shan San",
+      "title": "Tri-axe Office",
+      "content": "‘Biarkan’ aku…? Dasar kau…"
+    },
+    {
+      "id": 95,
+      "model": "삼삼",
+      "teller": "Shan San",
+      "title": "Tri-axe Office",
+      "content": "Tsk, kau akan menyesal menyombongkan dirimu itu!"
+    },
+    {
+      "id": 96,
+      "content": "Pria yang memperkenalkan dirinya sebagai Shan San melompat ke arah Hong Lu. Lalu, setelah sekitar… satu menit..."
+    },
+    {
+      "id": 97,
+      "model": "삼삼",
+      "teller": "Shan San",
+      "title": "Tri-axe Office",
+      "content": "Bagaimana… bagaimana ini bisa terjadi…?"
+    },
+    {
+      "id": 98,
+      "content": "Tidak seperti Shan San, yang melontarkan pukulan dan ayunan dengan semangat yang mendidih, Hong Lu dengan mudah meluncur di antara serangan lawannya seperti sedang piknik."
+    },
+    {
+      "id": 99,
+      "content": "Seolah-olah ini hanyalah jalan-jalan santai melewati taman..."
+    },
+    {
+      "id": 100,
+      "content": "Setiap kali Shan San melayangkan pukulan kuat, Hong Lu mengarahkannya ke samping dengan mudah, tinjunya hanya menyerempet pakaiannya."
+    },
+    {
+      "id": 101,
+      "content": "Kami terpesona oleh gerakan ringan bulu tangan dan kakinya yang dengan mudah meluncur di udara… sampai, setelah satu momen sekejap mata, kami menyadari bahwa Shan San sudah tersungkur di tanah, kalah."
+    },
+    {
+      "id": 102,
+      "model": "돈키호테",
+      "content": "Hoh? Nak Hong Lu, apakah kau menyembunyikan kekuatan penuhmu di hadapan kami?!"
+    },
+    {
+      "id": 103,
+      "model": "홍루",
+      "content": "Oh tidak, aku tidak akan mengatakan itu. Aku selalu memberikan segalanya dalam setiap pertarungan."
+    },
+    {
+      "id": 104,
+      "model": "돈키호테",
+      "content": "Namun, untuk mengalahkan musuh ini dengan begitu telak, untuk menari dengan keanggunan di antara serangannya adalah… rasanya seolah-olah kau sedang berduel dengan seseorang yang keahliannya mungkin hanya bisa diukur dengan anak kecil!"
+    },
+    {
+      "id": 105,
+      "model": "홍루",
+      "content": "Hm… Tapi sebagian besar pertarungan kita terjadi di lingkungan dengan banyak variabel. Dan kita biasanya bertarung melawan musuh dengan segala macam senjata dan kekuatan yang tak terduga."
+    },
+    {
+      "id": 106,
+      "model": "료슈",
+      "content": "Kau membacanya."
+    },
+    {
+      "id": 107,
+      "model": "료슈",
+      "content": "Sudah familiar dengan gerakan si bodoh itu?"
+    },
+    {
+      "id": 108,
+      "model": "홍루",
+      "content": "Ohh~ ya. Salah satu instruktur biwu-ku menggunakan teknik yang mirip dengan pria ini di sini."
+    },
+    {
+      "id": 109,
+      "model": "홍루",
+      "content": "Latihan membuat sempurna dan kesempurnaan membuat seorang ahli, kan? Fuhu."
+    },
+    {
+      "id": 110,
+      "model": "그레고르",
+      "content": "Benar, tapi aku tidak yakin apakah itu sepenuhnya relevan di sini..."
+    },
+    {
+      "id": 111,
+      "model": "삼삼다침",
+      "teller": "Shan San",
+      "title": "Tri-axe Office",
+      "content": "……."
+    },
+    {
+      "id": 112,
+      "model": "그레고르",
+      "content": "Yah, bagaimanapun… bagiku sepertinya dia menendang pantatmu dalam duel ini. Jadi, biarkan kami lewat?"
+    },
+    {
+      "id": 113,
+      "model": "그레고르",
+      "content": "... Dan sebaiknya jangan melakukan hal yang kupikir akan kau lakukan."
+    },
+    {
+      "id": 114,
+      "model": "삼삼다침",
+      "teller": "Shan San",
+      "title": "Tri-axe Office",
+      "content": "Duel ini toh tidak diawasi oleh notaris <ruby=Kantor>Office</ruby>… Dan atasan kami tidak akan membiarkan kegagalan ini lolos begitu saja jika kami pergi tanpa balasan..."
+    },
+    {
+      "id": 115,
+      "model": "삼삼다침",
+      "teller": "Shan San",
+      "title": "Tri-axe Office",
+      "content": "Heh... jangan cuma duduk di sana! Serbu mereka semua!"
+    },
+    {
+      "id": 116,
+      "model": "료슈",
+      "content": "Hmph. Menyedihkan."
+    },
+    {
+      "id": 117,
+      "model": "그레고르",
+      "content": "... Aku agak bisa melihat bagaimana kita menjadi ahli dalam disergap."
+    },
+    {
+      "id": 118,
+      "content": "Dengan teriakan pahit dari yang kalah, gengnya bergegas menuju kami."
+    }
+  ]
+}

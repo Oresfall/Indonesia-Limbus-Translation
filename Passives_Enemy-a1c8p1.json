@@ -1,0 +1,109 @@
+{
+  "dataList": [
+    {
+      "id": 9020301,
+      "name": "Easy Money",
+      "desc": "Akhir Giliran: Jika unit ini serang a target giliran ini, peroleh 1 [Enhancement] giliran berikutnya\nJika target is Hong Lu, peroleh 1 [ParryingResultUp] dan 1 [AttackDmgUp] giliran berikutnya juga"
+    },
+    {
+      "id": 9020302,
+      "name": "oh no",
+      "desc": "Kehilangan 5 SP saat Kalah Clash\nKetika Stagger, peroleh 2 [Vulnerable] giliran berikutnya (sekali per giliran)"
+    },
+    {
+      "id": 9020101,
+      "name": "Training Dummy",
+      "desc": "Bisa diberi damage hanya dengan damages setara dengan atau di atas dari 10\nSemua damage under 10 is nullified"
+    },
+    {
+      "id": 9020102,
+      "name": "Upgradable Training Dummy",
+      "desc": "Akhir Giliran: jika unit ini failed to hit dengan Skill, peroleh [ParryingResultUp] giliran berikutnya setara dengan jumlah dari giliran unit ini failed to hit\nJika unit ini hits musuh dengan Skill, reset the di atas stack"
+    },
+    {
+      "id": 9020103,
+      "name": "Remember the Basics",
+      "desc": "Akhir Giliran: jika unit ini was hit sebanyak 4 atau lebih Skill Attack, untuk semua musuh that attacked unit ini, beri 1 [AttackDmgUp] giliran berikutnya untuk setiap giliran unit ini was hit\nJika unit ini was hit sebanyak 3 atau lebih sedikit Skill Attack, reset the di atas stack"
+    },
+    {
+      "id": 9019501,
+      "name": "Off-mark Curse",
+      "desc": "Ketika unit ini kena Stagger, halve the [Burst] Potency dan [Burst] Count pada target unit ini serang last"
+    },
+    {
+      "id": 9019502,
+      "name": "Jar-haunting Curse",
+      "desc": "Akhir Giliran: Jika unit ini serang a target giliran ini, peroleh 1 [Enhancement] giliran berikutnya\nJika unit ini kills itself, beri 1 [Enhancement] ke semua kawan"
+    },
+    {
+      "id": 9019601,
+      "name": "Jar-haunting Curse",
+      "desc": "On Skill hit: jika target memiliki 1 remaining [Burst] Count, beri +1 [Burst] Count (2 kali per giliran)\nSaat Serang: jika target memiliki 1 remaining [Burst], beri 2 [Burst] (2 kali per giliran)\nJika unit ini kills itself, beri 2 [Burst] dan +1 [Burst] Count pada semua musuh"
+    },
+    {
+      "id": 9019701,
+      "name": "Jar-haunting Curse",
+      "desc": "On Skill hit: jika target memiliki 4+ [Burst], beri 1 [DefenseDown] giliran berikutnya (3 kali per giliran)\nJika unit ini kills itself, beri 3 [DefenseDown] pada semua musuh"
+    },
+    {
+      "id": 9102201,
+      "name": "Off-mark Curse",
+      "desc": "Ketika unit ini kena Stagger, hilangkan [Burst] Potency dan [Burst] Count pada target unit ini serang last"
+    },
+    {
+      "id": 9102202,
+      "name": "Cursed Spirit Jar",
+      "desc": "Saat Menyerang, jika target memiliki 5+ ([Burst] Potency + [Burst] Count), beri 1 [DefenseDown] (5 kali per giliran)"
+    },
+    {
+      "id": 9102203,
+      "name": "Jar-haunting Curse",
+      "desc": "Akhir Giliran: terhadap semua musuh, beri [Racun] setara dengan jumlah dari giliran that passed since unit ini joined the battle (maks 5)\nJika unit ini kills itself, beri (# of giliran x 5) [Racun] dan beri +2 [Burst] Count pada semua musuh giliran berikutnya (maks 25)"
+    },
+    {
+      "id": 9019801,
+      "name": "Damage Diterima",
+      "desc": "Ketika diserang selama fase pertarungan: +10% damage untuk giliran ini\nKetika diserang selama fase pertarungan: saat Menang Clash, +20% damage"
+    },
+    {
+      "id": 9019802,
+      "name": "Target - Jia Baoyu",
+      "desc": "Prioritaskan Hong Lu"
+    },
+    {
+      "id": 9019803,
+      "name": "Focusing on Target",
+      "desc": "Pada 70%+ HP: pada Akhir Giliran, jika unit ini failed to hit Hong Lu dengan Skill, peroleh 1 [Reduction] giliran berikutnya\nPada kurang dari 70% HP: pada Akhir Giliran, jika unit ini failed to hit Hong Lu dengan Skill, beri +1 lebih [Laceration] dan [Laceration] Count giliran berikutnya"
+    },
+    {
+      "id": 9020001,
+      "name": "Mission Progress",
+      "desc": "Beri +0.5% damage untuk setiap 1% HP yang hilang pada diri sendiri (maks 50%)"
+    },
+    {
+      "id": 9020002,
+      "name": "Honing in on Target",
+      "desc": "Pada 70%+ HP: pada Akhir Giliran, jika unit ini failed to hit Hong Lu dengan Skill, peroleh 1 [Reduction] giliran berikutnya\nPada kurang dari 70% HP: pada Akhir Giliran, jika unit ini failed to hit Hong Lu dengan Skill, peroleh 1 [Enhancement] giliran berikutnya\n- beri +1 lebih [Laceration] dan [Laceration] Count giliran berikutnya"
+    },
+    {
+      "id": 9102101,
+      "name": "Damage Diterima",
+      "desc": "Ketika diserang selama fase pertarungan: +20% damage untuk giliran ini\nDuring the combat phase: Saat Kalah Clash, terima +15% damage dari Skill"
+    },
+    {
+      "id": 9102102,
+      "name": "Plastered Training",
+      "desc": "Beri +2% damage untuk setiap 1% HP yang hilang pada diri sendiri (maks 100%)"
+    },
+    {
+      "id": 9102103,
+      "name": "Well, well... Hic. This won't do",
+      "desc": "Pada 50% HP, pulih dari Stagger dan akhiri giliran ini.\nFix Speed unit ini menjadi 10 giliran berikutnya"
+    },
+    {
+      "id": 9102104,
+      "name": "Clear Target",
+      "desc": "Pada 70%+ HP: pada Akhir Giliran, jika unit ini failed to hit Hong Lu dengan Skill, peroleh 3 [AttackDown] giliran berikutnya\nPada kurang dari 70% HP: pada Akhir Giliran, jika unit ini failed to hit Hong Lu dengan Skill, peroleh 6 [AttackUp] giliran berikutnya"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": "get_10216_1",
+      "desc": "Identity Acquisition",
+      "dlg": "Jarum hitam. Simbol dari pola yang tidak beraturan dan tidak lazim. Faust telah menduga dengan benar. Arsitek kejadian ini... tampaknya adalah individu itu."
+    },
+    {
+      "id": "lobby_morning_10216_1",
+      "desc": "Morning Greeting",
+      "dlg": "Teh hangat di pagi hari, dari sudut pandang medis, direkomendasikan untuk pengaturan ritme sirkadian dan stimulasi refleks saluran pencernaan.... *uhuk* Namun, bolehkah saya merekomendasikan untuk memperluas pilihan anda ke bentuk minuman lain, Herr Gregor?\n... Jika anda menentang gagasan tersebut, maka mohon pertimbangkan untuk memberikan ruangan ventilasi yang sangat dibutuhkan, setidaknya."
+    },
+    {
+      "id": "lobby_noon_10216_1",
+      "desc": "Afternoon Greeting",
+      "dlg": "Ledakan yang tidak terduga seperti ini terjadi di tengah pusat kota pada tengah hari... Insiden ini sepertinya tidak mencerminkan realitas kekerasan yang biasa terjadi. Balon-balon, yang menggelembung jauh melampaui batas tegangan elastisnya, meletus secara sinkron dan tanpa peringatan—kecuali, balon-balon tersebut sebenarnya adalah manusia yang membengkak dan menyebarkan ribuan jarum ke segala arah. Jika fenomena ini bisa diungkapkan dengan kata-kata... mungkin itu akan menjadi perkiraan yang paling mendekati."
+    },
+    {
+      "id": "lobby_night_10216_1",
+      "desc": "Evening Greeting",
+      "dlg": "Anda belum selesai bekerja, Herr Gregor? <color=#a1591e>Belum... Kamu juga ikut lembur mengurus berkas?</color> Tidak. Meskipun Faust telah menyelesaikan semua tugas yang diberikan, dia belum akan menyelesaikannya—silahkan berbagi beban kerja yang tersisa dengan Faust. <color=#a1591e>Terima kasih, sungguh... Tapi apa yang membuatmu tinggal selarut ini walaupun tidak ada sesuatu untuk dilakukan?</color> Ada sesuatu... Saya pribadi ingin menyelidikinya. <color=#a1591e>Coba kutebak... Resonator Fokus Batang Otak, bukan? Kamu mencoba melacak dari mana asalnya.</color> ... Benar."
+    },
+    {
+      "id": "smalltalk_10216_1",
+      "desc": "Chatter #1",
+      "dlg": "Hal ini menyulitkan bidang yang dapat dipercaya... Tapi pengamatan ini membuat orang menduga bahwa \"sihir\"—atau apa yang bisa digambarkan secara kasar, setidaknya— memang ada... Tidak, Faust lebih suka mengagungkan hipotesis bahwa itu melibatkan sesuatu yang berasal dari Outskirts yang belum dikatalogkan oleh Faust... karena kurangnya penjelasan yang lebih baik. Mungkin masalah ini memanggil Faust untuk berunding dengan Faust lainnya."
+    },
+    {
+      "id": "smalltalk_10216_2",
+      "desc": "Chatter #2",
+      "dlg": "Meskipun tidak dapat disangkal bahwa jarum yang tertanam dapat melarutkan struktur bangunan merupakan suatu permasalahan... Yang lebih berbahaya adalah reaksi berantai yang ditimbulkannya: warga sipil dan orang yang lewat akan meledak hanya dengan terkena jarum tersebut."
+    },
+    {
+      "id": "smalltalk_10216_3",
+      "desc": "Chatter #3",
+      "dlg": "Mempercayakan pekerjaan hafalan membosankan ini kepada Faust sama saja dengan menyia-nyiakan kapasitas operasionalnya. Sinclair, kamu memang memiliki kemampuan yang luar biasa dalam menyeduh ssanghwa-cha, tapi aku yakin kamu tidak mendaftar sebagai Fixer untuk menjadi pembuat teh Tingkat 5 di Office ini. Silakan ambil alih tugas ini.\n<color=#a1591e>Kamu yakin tidak hanya memberi pekerjaanmu ke dia?</color>\n... Tolong hentikan lelucon yang tidak masuk akal itu, Herr Gregor. Itu tidak berkontribusi dalam bentuk apa pun terhadap kemajuan Sinclair sebagai Fixer."
+    },
+    {
+      "id": "smalltalk_10216_4",
+      "desc": "Post-Uptie Chat 1",
+      "dlg": "Janji Kemarin... Faust tahu bahwa anda adalah dalang dibalik tidak hanya Seribu Jarum, tapi juga serangkaian insiden yang terjadi di seluruh City akhir-akhir ini.\nYang tersisa hanyalah mengumpulkan petunjuk yang dapat dijelaskan tentang \"kontrak\" yang dikabarkan dimana anda adalah titik awalnya..."
+    },
+    {
+      "id": "smalltalk_10216_5",
+      "desc": "Post-Uptie Chat 2",
+      "dlg": "Jika Faust ingin sampai pada kebenaran yang dia cari... Menyelesaikan sewa bulanan Office ini harus menjadi prioritas.\nDengan Office kita yang terletak di dalam Nest, biaya sewanya sangat besar... Tapi Herr Gregor mengatakan bahwa menyelesaikan kontrak pada \"Perpustakaan\" ini akan membuat kita bertahan setidaknya selama 3 bulan. Mari kita berurusan dengan para Pustakawan ini terlebih dahulu dan secara perlahan mempercepat penyelidikan terhadap sifat sebenarnya dari iblis itu."
+    },
+    {
+      "id": "neglect_10216_1",
+      "desc": "Idle",
+      "dlg": "Ada cukup waktu luang. Sementara itu, saya akan menyelesaikan perhitungan pengeluaran kita. Sinclair? Tolong, teh susu untukku."
+    },
+    {
+      "id": "gacksung_10216_1",
+      "desc": "Uptying",
+      "dlg": "Mari kita persingkat pembicaraannya, ya? Herr Gregor, Sinclair... Mari kita segera lanjutkan."
+    },
+    {
+      "id": "formation_10216_1",
+      "desc": "Deployment",
+      "dlg": "Apakah misi ini telah ditugaskan secara ekslusif ke Office kita?"
+    },
+    {
+      "id": "battleentry_10216_1",
+      "desc": "Stage Entry",
+      "dlg": "Faust akan melancarkan serangan sebelum lawan bersiap menyerang."
+    },
+    {
+      "id": "battle_select_10216_1",
+      "desc": "Viewed in Battle",
+      "dlg": "Tempat ini dipenuhi oleh bahaya. Tidak perlu berlebihan—mohon tetap dibelakang dan fokus memberikan dukungan."
+    },
+    {
+      "id": "battle_endcommand_10216_1",
+      "desc": "Commencing Attack",
+      "dlg": "Mengeluarkan bilah."
+    },
+    {
+      "id": "battle_enemy_break_10216_1",
+      "desc": "Enemy Stagger",
+      "dlg": "Bukan upaya yang buruk."
+    },
+    {
+      "id": "battle_break_10216_1",
+      "desc": "Staggered",
+      "dlg": "Hngh..."
+    },
+    {
+      "id": "battle_kill_10216_1",
+      "desc": "Enemy Killed",
+      "dlg": "Dapat dikatakan bahwa anda tidak memanfaatkan potensi maksimal anda."
+    },
+    {
+      "id": "battle_dead_10216_1",
+      "desc": "Death",
+      "dlg": "Kesalahan terletak... di Gess—tidak, ketidakmampuan saya..."
+    },
+    {
+      "id": "choice_success_p_10216_2",
+      "desc": "Check Passed",
+      "dlg": "Terkadang, Faust merasa seolah hanya Faust saja yang bekerja di Office ini."
+    },
+    {
+      "id": "choice_fail_n_10216_1",
+      "desc": "Check Failed",
+      "dlg": "Setiap tanggung jawab telah menjadi milik saya sejauh ini. Saya ingin anda mempertanggungjawabkan keputusan ini."
+    },
+    {
+      "id": "battle_clear_10216_1",
+      "desc": "Victory Cry",
+      "dlg": "This should have been a trivial enough request... for an Office of our level to handle.\n*sigh* In any case, we did manage to accomplish at least some part of the objective. Limited satisfaction would be permissible."
+    },
+    {
+      "id": "battle_clear_ex_10216_1",
+      "desc": "Extra Conditions Fulfilled",
+      "dlg": "Ini berakhir dengan lancar, tanpa komplikasi berat yang diperkirakan pada awalnya... Sebuah hasil yang mungkin disebabkan oleh kompetensi anda yang mungkin diremehkan oleh Faust.\nMari kita manfaatkan kesempatan ini dan mengambil Buku Asosiasi Zwei sesuai permintaan."
+    },
+    {
+      "id": "battle_defeat_10216_1",
+      "desc": "Defeat Wail",
+      "dlg": "Pesta rumah... harus dibatalkan, Herr Gregor. Sinclair... Saya penasaran jika dia berhasil kabur dengan aman..."
+    }
+  ]
+}

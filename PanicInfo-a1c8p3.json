@@ -1,0 +1,46 @@
+{
+  "dataList": [
+    {
+      "id": 1049,
+      "panicName": "Beastly Instinct",
+      "lowMoraleDescription": "Beri +(HP percentage difference / 2)% damage ke target dengan higher HP percentages that unit ini's (maks 10%)\nAwal Giliran: peroleh 1 [Enhancement], 1 [AttackDmgUp], dan 1 [Vulnerable]",
+      "panicDescription": "Beri +(HP percentage difference)% damage ke target dengan higher HP percentages that unit ini's (maks 25%)\nAwal Giliran: peroleh 1 [PlusCoinValueUp], 2 [AttackDmgUp], dan 2 [Vulnerable]"
+    },
+    {
+      "id": 1046,
+      "panicName": "Flesh Scoop",
+      "lowMoraleDescription": "Awal Giliran: peroleh 5 [Laceration] dan 1 [Enhancement].",
+      "panicDescription": "Awal Giliran: peroleh 10 [Laceration] dan 2 [Enhancement]."
+    },
+    {
+      "id": 1050,
+      "panicName": "Le Regole",
+      "lowMoraleDescription": "Jika unit ini diberikan 2+ [Vibration] giliran sebelumnya, peroleh 1 [AmberDamageUp]\nJika unit ini diberikan 2+ [Combustion] giliran sebelumnya, peroleh 1 [CrimsonDamageUp]\nJika unit ini failed untuk beri anything, peroleh 2 [DefenseDown]",
+      "panicDescription": "Jika unit ini diberikan 2+ [Vibration] giliran sebelumnya, peroleh 2 [AmberDamageUp]\nJika unit ini diberikan 2+ [Combustion] giliran sebelumnya, peroleh 2 [CrimsonDamageUp]\nJika unit ini failed untuk beri anything, peroleh 3 [DefenseDown]"
+    },
+    {
+      "id": 1051,
+      "panicName": "Soft Goldcasted Heart",
+      "lowMoraleDescription": "Awal Giliran: peroleh 1 [Enhancement] dan 1 [Vulnerable]",
+      "panicDescription": "Awal Giliran: peroleh 2 [Enhancement] dan 2 [Vulnerable]"
+    },
+    {
+      "id": 1052,
+      "panicName": "Heart Toward the New Era",
+      "lowMoraleDescription": "Saat Menyerang, konsumsi 3 SP pada diri sendiri untuk beri 2 [Sinking]",
+      "panicDescription": "Saat Menyerang, beri 3 [Sinking] dan peroleh 1 [Sinking]"
+    },
+    {
+      "id": 1053,
+      "panicName": "Inherited Will of Hongyuan",
+      "lowMoraleDescription": "Semua Parts peroleh 2 [Enhancement] dan 1 [Binding]\n- Ketika Bagian \"Tubuh\" kalah Clash terhadap Hong Lu: Bagian \"Tubuh\" peroleh 1 [AttackDmgUp] dan 1 [Vulnerable] giliran berikutnya (sekali per giliran)",
+      "panicDescription": "Semua Parts peroleh 2 [Enhancement] dan 2 [Binding]\n- Ketika Bagian \"Tubuh\" kalah Clash terhadap Hong Lu: Bagian \"Tubuh\" peroleh 2 [AttackDmgUp] dan 2 [Vulnerable] giliran berikutnya (sekali per giliran)"
+    },
+    {
+      "id": 1054,
+      "panicName": "Infinitely Bequeathing Will of Hongyuan",
+      "lowMoraleDescription": "Peroleh 2 [Enhancement] dan 1 [Vulnerable]\nUnits dihasilkan oleh unit ini peroleh 3 [DefenseDown]\nBeri +20% damage. Jika the Palanquin Bagian's HP turun menjadi 0, beri -10% damage saja",
+      "panicDescription": "Peroleh 2 [Enhancement] dan 2 [Vulnerable]\nUnits dihasilkan oleh unit ini peroleh 6 [DefenseDown]\nBeri +30% damage. Jika the Palanquin Bagian's HP turun menjadi 0, beri -15% damage saja"
+    }
+  ]
+}

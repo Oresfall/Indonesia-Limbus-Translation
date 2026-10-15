@@ -1,0 +1,119 @@
+{
+  "dataList": [
+    {
+      "id": "OnWinDuelAsParryingCountMultiplyAndPlusPercent",
+      "add": "Bertambah setelah memenangkan Clash berdasarkan jumlah Clash\n<size=95%>(Nilai dasar adalah {0}, dinaikkan sebanyak {1}% per jumlah Clash setelah 1)</size>",
+      "min": "Berkurang setelah memenangkan Clash berdasarkan jumlah Clash\n<size=95%>(Nilai dasar adalah {0}, dinaikkan sebanyak {1}% per jumlah Clash setelah 1)</size>"
+    },
+    {
+      "id": "OnWinDuelAsParryingCountMultiplyAndPlusPercentWithMax",
+      "add": "Bertambah setelah memenangkan Clash berdasarkan jumlah Clash\n<size=95%>(Nilai dasar adalah {0}, dinaikkan sebanyak {1}% per jumlah Clash setelah 1; maks {2}%)</size>",
+      "min": "Berkurang setelah memenangkan Clash berdasarkan jumlah Clash\n<size=95%>(Nilai dasar adalah {0}, dinaikkan sebanyak {1}% per jumlah Clash setelah 1; maks {2}%)</size>"
+    },
+    {
+      "id": "OnKillEnemyAsLevelRatioMultiply",
+      "add": "Bertambah sebanyak {0} setelah unit ini mengalahkan musuh yang levelnya lebih tinggi atau sama dengan unit ini",
+      "min": "Berkurang sebanyak {0} setelah unit ini mengalahkan musuh yang levelnya lebih tinggi atau sama dengan unit ini"
+    },
+    {
+      "id": "OnKillEnemyByOtherAllyAsLevelRatioMultiply",
+      "add": "Bertambah sebanyak {0} setelah kawan mengalahkan musuh yang levelnya lebih tinggi atau sama dengan unit ini",
+      "min": "Berkurang sebanyak {0} setelah kawan mengalahkan musuh yang levelnya lebih tinggi atau sama dengan unit ini"
+    },
+    {
+      "id": "OnLoseDuelAsParryingCountMultiplyAndPlusPercent",
+      "add": "Bertambah setelah kalah Clash berdasarkan jumlah Clash\n<size=95%>(Nilai dasar adalah {0}, dinaikkan sebanyak {1}% per jumlah Clash setelah 1)</size>",
+      "min": "Berkurang setelah kalah Clash berdasarkan jumlah Clash\n<size=95%>(Nilai dasar adalah {0}, dinaikkan sebanyak {1}% per jumlah Clash setelah 1)</size>"
+    },
+    {
+      "id": "OnDieAllyAsLevelRatio",
+      "add": "Jika level dari kawan yang dikalahkan lebih tinggi atau setara dengan unit ini,\nbertambah berdasarkan perbedaan level\n<size=95%>(Nilai dasar adalah {0}, dinaikkan sebanyak {0} per level)</size>",
+      "min": "Jika level dari kawan yang dikalahkan lebih tinggi atau setara dengan unit ini,\nberkurang berdasarkan perbedaan level\n<size=95%>(Nilai dasar adalah {0}, dinaikkan sebanyak {0} per level)</size>"
+    },
+    {
+      "id": "OnRoundStartAfterEvent",
+      "add": "Bertambah sebanyak {0} pada awal giliran",
+      "min": "Berkurang sebanyak {0} pada awal giliran"
+    },
+    {
+      "id": "OnKillEnemyMp",
+      "add": "Bertambah sebanyak {0} setelah unit ini mengalahkan musuh tidak peduli dengan level mereka",
+      "min": "Berkurang sebanyak {0} setelah unit ini mengalahkan musuh tidak peduli dengan level mereka"
+    },
+    {
+      "id": "OnDieAllyMp",
+      "add": "Jika kawan dikalahkan, bertambah sebanyak {0} tidak peduli dengan level kawan",
+      "min": "Jika kawan dikalahkan, berkurang sebanyak {0} tidak peduli dengan level kawan"
+    },
+    {
+      "id": "OnKillEnemyByOtherAllyExceptSupportiveAction",
+      "add": "Bertambah sebanyak {0} setelah kawan mengalahkan musuh yang levelnya lebih tinggi atau sama dengan unit ini",
+      "min": "Berkurang sebanyak {0} setelah kawan mengalahkan musuh yang levelnya lebih tinggi atau sama dengan unit ini. Tidak berkurang ketika musuh dikalahkan oleh Assist Attack."
+    },
+    {
+      "id": "OnDieBladeLineageAlly",
+      "add": "Jika kawan Blade Lineage dikalahkan, terima {0} tidak peduli dengan level kawan",
+      "min": "Jika kawan Blade Lineage dikalahkan, kehilangan {0} tidak peduli dengan level kawan"
+    },
+    {
+      "id": "OnWinDuelLessMpTarget",
+      "add": "Bertambah sebanyak {0} setelah memenangkan Clash terhadap musuh dengan SP yang lebih rendah daripada unit init",
+      "min": "Berkurang sebanyak {0} setelah memenangkan Clash terhadap musuh dengan SP yang lebih rendah daripada unit init"
+    },
+    {
+      "id": "OnLoseDuelLessMpTarget",
+      "add": "Bertambah sebanyak {0} setelah kalah Clash terhadap musuh dengan SP yang lebih rendah daripada unit init",
+      "min": "Berkurang sebanyak {0} setelah kalah Clash terhadap musuh dengan SP yang lebih rendah daripada unit init"
+    },
+    {
+      "id": "OnKillEnemyByOtherAlly",
+      "add": "Bertambah sebanyak {0} setelah kawan mengalahkan musuh tidak peduli dengan level mereka",
+      "min": "Berkurang sebanyak {0} setelah kawan mengalahkan musuh tidak peduli dengan level mereka"
+    },
+    {
+      "id": "OnWinDuelAnyTarget",
+      "add": "Bertambah sebanyak {0} saat Menang Clash",
+      "min": "Berkurang sebanyak {0} saat Menang Clash"
+    },
+    {
+      "id": "OnLoseDuelAnyTarget",
+      "add": "Bertambah sebanyak {0} saat Kalah Clash",
+      "min": "Berkurang sebanyak {0} saat Kalah Clash"
+    },
+    {
+      "id": "OnWinDuelAsParryingCountMultiplyAndPlusPercentWithEmphasis",
+      "add": "Bertambah setelah memenangkan Clash berdasarkan jumlah Clash\n<size=95%>(Nilai dasar adalah {0}, dinaikkan sebanyak <color=red>{1}%</color> per jumlah Clash setelah 1)</size>",
+      "min": "Berkurang setelah memenangkan Clash berdasarkan jumlah Clash\n<size=95%>(Nilai dasar adalah {0}, dinaikkan sebanyak <color=red>{1}%</color> per jumlah Clash setelah 1)</size>"
+    },
+    {
+      "id": "OnLoseDuelAsParryingCountMultiplyAndPlusPercentWithEmphasis",
+      "add": "Bertambah setelah kalah Clash berdasarkan jumlah Clash\n<size=95%>(Nilai dasar adalah {0}, dinaikkan sebanyak <color=red>{1}%</color> per jumlah Clash setelah 1)</size>",
+      "min": "Berkurang setelah kalah Clash berdasarkan jumlah Clash\n<size=95%>(Nilai dasar adalah {0}, dinaikkan sebanyak <color=red>{1}%</color> per jumlah Clash setelah 1)</size>"
+    },
+    {
+      "id": "OnTakeAttackDamagePerWithMax",
+      "add": "<color=red>Bertambah ketika terserang oleh musuh\n<size=95%>(Nilai dasar adalah {0}, dinaikkan sebanyak hingga {1} per Giliran)</size></color>",
+      "min": "<color=red>Berkurang ketika terserang oleh musuh\n<size=95%>(Nilai dasar adalah {0}, dinaikkan sebanyak hingga {1} per Giliran)</size></color>"
+    },
+    {
+      "id": "OnWinDuelAsParryingCountMultiplyAndPlusPercentIfMpNotLessThan",
+      "add": "Pada {2} atau lebih SP, bertambah setelah memenangkan Clash berdasarkan jumlah Clash\n<size=95%>(Nilai dasar adalah {0}, dinaikkan sebanyak {1}% per jumlah Clash setelah 1)</size>",
+      "min": "Pada {2} atau lebih SP, berkurang setelah memenangkan Clash berdasarkan jumlah Clash\n<size=95%>(Nilai dasar adalah {0}, dinaikkan sebanyak {1}% per jumlah Clash setelah 1)</size>"
+    },
+    {
+      "id": "OnWinDuelAsParryingCountMultiplyAndPlusPercentIfMpNotLessThanWithEmphasis",
+      "add": "<color=red>Pada {2} atau lebih SP,</color> bertambah setelah memenangkan Clash berdasarkan jumlah Clash\n<size=95%>(Nilai dasar adalah {0}, dinaikkan sebanyak <color=red>{1}%</color> per jumlah Clash setelah 1)</size>",
+      "min": "<color=red>Pada {2} atau lebih SP,</color> berkurang setelah memenangkan Clash berdasarkan jumlah Clash\n<size=95%>(Nilai dasar adalah {0}, dinaikkan sebanyak <color=red>{1}%</color> per jumlah Clash setelah 1)</size>"
+    },
+    {
+      "id": "OnOneSideAttackEnd",
+      "add": "Bertambah sebanyak {0} setelah Serangan Tanpa Lawan",
+      "min": "Berkurang sebanyak {0} setelah Serangan Tanpa Lawan"
+    },
+    {
+      "id": "OnSucceedAttackAsTargetHasIndexPrescriptTargetToPersonality",
+      "add": "Akhir Giliran: Terima {0} SP jika Target Prescript terkena serangan",
+      "min": "Akhir Giliran: Kehilangan {0} SP jika Target Prescript terkena serangan"
+    }
+  ]
+}

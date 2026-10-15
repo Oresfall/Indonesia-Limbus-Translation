@@ -1,0 +1,28 @@
+{
+  "dataList": [
+    {
+      "id": "stage_recommend_level_popup_battle_participant_desc",
+      "content": "Rata-rata level Identity yang dikerahkan saat ini <color=#990000>lebih rendah</color> dari level yang disarankan untuk Babak ini.\nTetap mulai Pertempuran?"
+    },
+    {
+      "id": "stage_recommend_level_popup_formation_desc",
+      "content": "Rata-rata level Identity dalam formasi anda saat ini <color=#990000>lebih rendah</color> dari level yang disarankan untuk Babak ini.\nTetap mulai Pertempuran?"
+    },
+    {
+      "id": "stage_recommend_level_popup_dungeon_entrance_desc",
+      "content": "Rata-rata level Identity dalam formasi anda saat ini <color=#990000>lebih rendah</color> dari level yang disarankan untuk Babak ini.\nTetap masuki Dungeon?"
+    },
+    {
+      "id": "current_average_level_and_recommend_level_format",
+      "content": "Rata-rata Level Saat Ini: {0}\n<color=#f8c200>Level yang Disarankan: {1}</color>"
+    },
+    {
+      "id": "current_average_level_with_additional_val_and_recommend_level_format",
+      "content": "Rata-rata Level Saat Ini: {0} ({1})\n<color=#f8c200>Level yang Disarankan: {2}</color>"
+    },
+    {
+      "id": "stage_recommend_uptie_popup_dungeon_entrance_desc",
+      "content": "<color=#f8c200>Saran Uptie/Threadspin Identity & E.G.O <color=#990000>Tier: {0}</color> </color>"
+    }
+  ]
+}

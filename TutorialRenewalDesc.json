@@ -1,0 +1,796 @@
+{
+  "dataList": [
+    {
+      "id": "tuto_00_01_01_01",
+      "content": "Mari kita mulai dengan mempelajari dasar-dasar pertempuran."
+    },
+    {
+      "id": "tuto_00_01_01_02",
+      "content": "Harap arahkan perhatian anda pada <color=#f8c200>Dashboard<color=#ebcaa2> di sini.\n\nAnda akan menggunakan <color=#f8c200>Dashboard<color=#ebcaa2> untuk memberikan perintah kepada para Pendosa."
+    },
+    {
+      "id": "tuto_00_01_01_03",
+      "content": "Anda dapat menemukan <color=#f8c200>Skill<color=#ebcaa2> dari setiap Pendosa pada <color=#f8c200>Dashboard<color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_00_01_01_04",
+      "content": "Skema kontrolnya sangat sederhana. <color=#f8c200>Cukup tarik garis dari ujung kiri Dashboard ke ujung kanan untuk merangkai Skill<color=#ebcaa2>, dan anda siap untuk memasuki fase pertempuran."
+    },
+    {
+      "id": "tuto_00_01_01_05",
+      "content": "Izinkan saya memandu tangan anda.\n\nTekan dan tahan <color=#f8c200>roda gigi di sisi kiri<color=#ebcaa2> pada Dashboard untuk memegang rantai."
+    },
+    {
+      "id": "tuto_00_01_01_06",
+      "content": "Kemudian, sembari memegang rantai dari roda gigi kiri, <color=#f8c200>hubungkan Skill dari kiri ke kanan mengikuti garis pandu.<color=#ebcaa2>"
+    },
+    {
+      "id": "tuto_00_01_01_07",
+      "content": "Bagus sekali. Kini setelah Skill untuk seluruh Pendosa telah terangkai, anda dapat menekan <color=#f8c200>roda gigi di sisi kanan<color=#ebcaa2> untuk memulai fase pertempuran."
+    },
+    {
+      "id": "tuto_00_01_02_01",
+      "content": "Demikianlah cara anda, selaku manajer, memberikan instruksi.\n\nMari kita coba sekali lagi."
+    },
+    {
+      "id": "tuto_00_01_02_02",
+      "content": "Perhatikan Dashboard, pegang rantai dari roda gigi kiri, dan hubungkan Skill di sepanjang garis pandu untuk memerintahkan kami menggunakannya."
+    },
+    {
+      "id": "tuto_00_01_02_03_title",
+      "content": "Dashboard"
+    },
+    {
+      "id": "tuto_00_01_02_04",
+      "content": "Gunakan Dashboard untuk memberikan perintah kepada Pendosa anda dalam pertempuran.\nMulailah fase pertempuran dengan mengikuti langkah-langkah berikut:\n\n1) Pegang dan tarik rantai dari roda gigi kiri.\n2) Lewatkan rantai pada Skill yang ingin anda gunakan.\n3) Hubungkan rantai ke roda gigi kanan, atau pilih roda gigi tersebut."
+    },
+    {
+      "id": "tuto_00_02_01_01",
+      "content": "Ikon bersisi tujuh yang melayang di atas kepala kawan maupun lawan ini disebut <color=#f8c200>Skill Slot<color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_00_02_01_02",
+      "content": "Karena anda belum memberikan perintah melalui rangkaian Skill, Skill Slot milik rekan saat ini masih kosong."
+    },
+    {
+      "id": "tuto_00_02_01_03",
+      "content": "Pegang rantai dari roda gigi kiri dan rangkaikan ke salah satu dari dua Skill paling kiri pada Dashboard."
+    },
+    {
+      "id": "tuto_00_02_01_04",
+      "content": "Seperti yang anda lihat, Skill yang baru saja anda rangkaikan telah terpasang pada Skill Slot."
+    },
+    {
+      "id": "tuto_00_02_01_05_title",
+      "content": "Skill Slot"
+    },
+    {
+      "id": "tuto_00_02_01_06",
+      "content": "Skill yang terpasang akan ditampilkan pada Skill Slot yang melayang di atas kepala setiap Pendosa.\n\nSaat fase pertempuran dimulai, setiap Pendosa akan bertarung menggunakan Skill yang terpasang pada Skill Slot mereka."
+    },
+    {
+      "id": "tuto_00_02_01_07",
+      "content": "Tarik garis dari kiri ke kanan pada Dashboard untuk membekali setiap Pendosa dengan salah satu Skill pada kolom masing-masing."
+    },
+    {
+      "id": "tuto_00_02_01_08",
+      "content": "Bagus sekali. Sekarang, pilih roda gigi di sebelah kanan untuk memberikan perintah anda, dan para Pendosa akan memasuki fase pertempuran menggunakan Skill yang telah anda siapkan."
+    },
+    {
+      "id": "tuto_00_02_02_01",
+      "content": "<color=#f8c200><Clash><color=#ebcaa2> terjadi ketika Pendosa dan targetnya sama-sama menggunakan Skill Serangan terhadap satu sama lain."
+    },
+    {
+      "id": "tuto_00_02_02_02",
+      "content": "Dalam sebuah <color=#f8c200><Clash><color=#ebcaa2>, <color=#f8c200>Power<color=#ebcaa2> mereka ditentukan utamanya oleh Skill yang digunakan untuk beradu."
+    },
+    {
+      "id": "tuto_00_02_02_03",
+      "content": "Dan dalam <color=#f8c200><Clash><color=#ebcaa2> antara dua Skill ini, Skill dengan <color=#f8c200>Power<color=#ebcaa2> yang lebih tinggi akan menang."
+    },
+    {
+      "id": "tuto_00_02_02_04",
+      "content": "Perhatikan Coin milik musuh. Ketika sebuah Skill <color=#f8c200>kalah<color=#ebcaa2> dalam Clash, <color=#f8c200>ia akan kehilangan satu Coin<color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_00_02_02_05",
+      "content": "Meskipun sebuah Skill kalah dalam Clash, selama ia masih memiliki <color=#f8c200>Skill Coin<color=#ebcaa2> yang tersisa, kedua Skill akan terus memutar Coin mereka dan melakukan <color=#f8c200><Clash><color=#ebcaa2> hingga <color=#f8c200>salah satunya kehilangan seluruh Coin<color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_00_02_02_06",
+      "content": "Skill yang kehilangan seluruh Coin-nya dalam <color=#f8c200><Clash><color=#ebcaa2> ini akan dinyatakan kalah telak.\nIni berarti <color=#f8c200>unit yang memenangkan<color=#ebcaa2> <color=#f8c200><Clash><color=#ebcaa2> berhak menyerang, sementara unit yang kalah tidak dapat melakukan serangan."
+    },
+    {
+      "id": "tuto_00_02_03_01",
+      "content": "Mari kita lihat bagaimana <color=#f8c200>Power<color=#ebcaa2>, yang menentukan hasil dari sebuah <color=#f8c200><Clash><color=#ebcaa2>, dikalkulasikan.\n\nSilakan berikan perintah."
+    },
+    {
+      "id": "tuto_00_02_03_02",
+      "content": "Angka ini adalah <color=#f8c200>Base Power<color=#ebcaa2> Skill sebelum memutar Coin apa pun."
+    },
+    {
+      "id": "tuto_00_02_03_03",
+      "content": "Angka ini adalah <color=#f8c200>Coin Power<color=#ebcaa2> dari Skill tersebut."
+    },
+    {
+      "id": "tuto_00_02_03_04",
+      "content": "Di sini, anda dapat melihat <color=#f8c200>jumlah Coin<color=#ebcaa2> yang dimiliki Skill ini.\n\nJumlah Coin menentukan dua hal:\n<color=#f8c200>1) Berapa kali Skill tersebut dapat kalah dalam <Clash> sebelum kehilangan seluruh Coin-nya\n2) Berapa kali Skill tersebut memberikan hantaman saat menyerang<color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_00_02_03_05",
+      "content": "<color=#f8c200>Setiap Coin yang menghasilkan Heads (Gambar)<color=#ebcaa2> akan menambahkan <color=#f8c200>Coin Power<color=#ebcaa2> Skill tersebut ke dalam <color=#f8c200>Base Power<color=#ebcaa2>-nya."
+    },
+    {
+      "id": "tuto_00_02_03_05_popup_title",
+      "content": "Kalkulasi Final Power"
+    },
+    {
+      "id": "tuto_00_02_03_05_popup_content",
+      "content": "Rumus untuk Final Power sebuah Skill adalah sebagai berikut: \n\n<color=#f8c200>Base Power + (Jumlah Coin yang menghasilkan Heads x Coin Power)<color=#ebcaa2>.\n\nCoin yang menghasilkan Heads akan bersinar, sementara Coin yang menghasilkan Tails (Angka) akan tampak redup."
+    },
+    {
+      "id": "tuto_00_02_03_06",
+      "content": "Hasil akhir <color=#f8c200>Skill Power<color=#ebcaa2> ditampilkan di sini.\n\n<color=#f8c200>Skill 'Loggerhead' milik Ishmael memiliki Skill Power yang lebih tinggi, sehingga Skill musuh kehilangan satu Coin.<color=#ebcaa2>"
+    },
+    {
+      "id": "tuto_00_02_03_07",
+      "content": "Seperti yang terlihat pada contoh ini, mereka akan terus melakukan <color=#f8c200><Clash><color=#ebcaa2> hingga salah satunya tidak memiliki Coin lagi untuk diputar. <color=#f8c200>Unit dengan Coin yang tersisa pada akhirnya memenangkan <Clash> tersebut.<color=#ebcaa2>\n\nIngatlah: memenangkan <color=#f8c200><Clash><color=#ebcaa2> adalah salah satu aspek paling fundamental untuk memenangkan pertempuran."
+    },
+    {
+      "id": "tuto_00_03_01_01",
+      "content": "Kali ini, mari kita pelajari tentang <color=#f8c200><SP><color=#ebcaa2>, atau Sanity Point.\n\n<color=#f8c200><SP><color=#ebcaa2> memiliki nilai maksimum 45, dan nilai minimum -45."
+    },
+    {
+      "id": "tuto_00_03_01_02",
+      "content": "Harap dicatat bahwa nilai <color=#f8c200><SP><color=#ebcaa2> para Pendosa juga dapat dilihat di sini, di samping orbe yang berdekatan dengan ikon potret pada Dashboard."
+    },
+    {
+      "id": "tuto_00_03_01_03",
+      "content": "Sekarang, silakan berikan perintah."
+    },
+    {
+      "id": "tuto_00_03_01_04",
+      "content": "Nilai <color=#f8c200><SP><color=#ebcaa2> setiap unit berubah berdasarkan pemicu tertentu.\nSP cenderung pulih melalui <color=#f8c200>pemicu yang menguntungkan (memenangkan Clash atau mengalahkan musuh),<color=#ebcaa2>\ndan berkurang melalui <color=#f8c200>pemicu yang merugikan.<color=#ebcaa2>"
+    },
+    {
+      "id": "tuto_00_03_01_05",
+      "content": "<color=#f8c200>Semakin tinggi nilai <SP> suatu unit,<color=#ebcaa2> maka <color=#f8c200>semakin tinggi peluang untuk mendapatkan Heads<color=#ebcaa2> saat memutar Skill Coin."
+    },
+    {
+      "id": "tuto_00_03_02_01",
+      "content": "Seluruh unit rekan memenangkan Clash masing-masing pada giliran sebelumnya, yang memulihkan SP mereka.\nHal ini menempatkan kita pada posisi yang menguntungkan. Silakan berikan perintah anda selanjutnya."
+    },
+    {
+      "id": "tuto_00_03_02_02",
+      "content": "Harap perhatikan bar HP (Health Point) unit ini. Garis tipis di sini disebut <color=#f8c200><Batas Stagger><color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_00_03_02_03",
+      "content": "Ketika HP suatu unit turun di bawah garis <color=#f8c200><Batas Stagger><color=#ebcaa2>, mereka akan memasuki kondisi <color=#f8c200><Staggered><color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_00_03_03_01",
+      "content": "Unit yang dalam kondisi <color=#f8c200><Staggered><color=#ebcaa2> tidak dapat mengambil tindakan apa pun dan akan menerima kerusakan (damage) dua kali lipat, yang menempatkan mereka pada kerugian besar dalam pertempuran."
+    },
+    {
+      "id": "tuto_00_03_04_01",
+      "content": "Anda telah membuat musuh yang tersisa memasuki status <color=#f8c200><Panic><color=#ebcaa2> dengan mengalahkan rekan mereka pada giliran sebelumnya, yang menyebabkan SP mereka merosot."
+    },
+    {
+      "id": "tuto_00_03_04_02",
+      "content": "Ketika SP musuh turun di bawah ambang batas tertentu, mereka mungkin memasuki status <color=#f8c200><Low Morale><color=#ebcaa2> atau <color=#f8c200><Panic><color=#ebcaa2>, yang memberikan efek negatif pada mereka."
+    },
+    {
+      "id": "tuto_00_03_04_03",
+      "content": "Unit dalam status <color=#f8c200><Low Morale><color=#ebcaa2> atau <color=#f8c200><Panic><color=#ebcaa2> ditandai dengan label-label berikut."
+    },
+    {
+      "id": "tuto_00_03_04_04",
+      "content": "Setiap unit mendapatkan efek yang berbeda saat memasuki status <color=#f8c200><Low Morale><color=#ebcaa2> dan <color=#f8c200><Panic><color=#ebcaa2>.\nPilih ikon ini untuk mengetahui efek apa yang sedang diderita oleh unit tersebut."
+    },
+    {
+      "id": "tuto_00_04_01_01",
+      "content": "Pilih sebuah unit untuk melihat jendela <color=#f8c200>informasi detail<color=#ebcaa2> mereka."
+    },
+    {
+      "id": "tuto_00_04_01_02",
+      "content": "Ini adalah tempat anda melihat <color=#f8c200>statistik dasar<color=#ebcaa2> setiap karakter."
+    },
+    {
+      "id": "tuto_00_04_01_03",
+      "content": "Ini adalah tempat anda melihat <color=#f8c200>daftar Skill<color=#ebcaa2> unit ini serta <color=#f8c200>progres peningkatan<color=#ebcaa2> mereka."
+    },
+    {
+      "id": "tuto_00_04_01_04",
+      "content": "Anda juga dapat memilih musuh untuk melihat informasi detail mereka."
+    },
+    {
+      "id": "tuto_00_04_01_05",
+      "content": "Setiap unit memiliki nilai <color=#f8c200>Resistance<color=#ebcaa2> (Ketahanan).\nGunakan nilai-nilai ini untuk menentukan <color=#f8c200>Tipe Serangan atau Afinitas<color=#ebcaa2> apa yang menjadi kelemahan mereka."
+    },
+    {
+      "id": "tuto_00_04_01_06_title",
+      "content": "Tipe Serangan dan Afinitas"
+    },
+    {
+      "id": "tuto_00_04_01_07",
+      "content": "Damage dari setiap Skill diklasifikasikan ke dalam dua kategori: <color=#f8c200>3 Tipe Serangan<color=#ebcaa2> dan <color=#f8c200>7 Sin Affinity<color=#ebcaa2>.\nResistance target terhadap kategori-kategori ini dapat meningkatkan atau mengurangi damage yang dihasilkan.\n<color=#f8c200>Nilai Resistance yang lebih tinggi pada suatu unit berarti mereka akan menerima damage lebih besar dari tipe damage tersebut.<color=#ebcaa2>"
+    },
+    {
+      "id": "tuto_00_04_01_08",
+      "content": "Periksa kelemahan musuh anda dan pilihlah Skill yang dapat mengeksploitasi kelemahan tersebut untuk menghasilkan damage yang lebih besar."
+    },
+    {
+      "id": "tuto_00_04_02_01",
+      "content": "Dalam kebanyakan kasus, unit dengan Skill paling kiri pada Dashboard akan menjadi yang pertama bertindak di antara rekan setim."
+    },
+    {
+      "id": "tuto_00_04_02_02",
+      "content": "Mulai dari <color=#f8c200>unit rekan dengan urutan pengerahan (deployment) tertinggi<color=#ebcaa2>, seorang rekan akan mendapatkan 1 Slot tambahan di setiap pergantian giliran. Ini berarti mereka mendapatkan kesempatan ekstra untuk menyerang."
+    },
+    {
+      "id": "tuto_00_04_03_01",
+      "content": "Gunakan salah satu tombol ini untuk membiarkan para Pendosa memilih sendiri Skill yang ingin mereka gunakan."
+    },
+    {
+      "id": "tuto_00_04_03_02",
+      "content": "Namun, perlu ditekankan bahwa membiarkan para Pendosa membuat pilihan strategis mereka sendiri dapat menyebabkan performa pertempuran yang tidak optimal."
+    },
+    {
+      "id": "tuto_00_04_03_03_title",
+      "content": "Prediksi Hasil Clash"
+    },
+    {
+      "id": "tuto_00_04_03_04",
+      "content": "Prediksi hasil Clash muncul di bagian atas layar dan di samping setiap Skill yang dipilih.\n\nHarap dicatat bahwa prediksi ini tidak selalu sempurna, namun cukup memadai saat keputusan cepat diperlukan."
+    },
+    {
+      "id": "tuto_01_02_01_01",
+      "content": "Merangkaikan beberapa Skill dengan <color=#f8c200>Affinity (Warna)<color=#ebcaa2> yang sama dalam giliran yang sama akan mengaktifkan apa yang disebut sebagai <color=#f8c200><Resonance><color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_01_02_01_02",
+      "content": "Hubungkan Skill-skill dengan Affinity yang sama ini dan aktifkan <color=#f8c200><Resonance><color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_01_02_01_03",
+      "content": "<color=#f8c200>Merangkaikan 3 atau lebih Skill yang berdekatan<color=#ebcaa2> dengan Affinity yang sama akan mengaktifkan <color=#f8c200><Absolute Resonance><color=#ebcaa2>.\n\nCobalah mengaktifkan <color=#f8c200><Absolute Resonance><color=#ebcaa2> menggunakan Skill-skill ini."
+    },
+    {
+      "id": "tuto_01_02_01_04",
+      "content": "Mengaktifkan <color=#f8c200><Resonance><color=#ebcaa2> atau <color=#f8c200><Absolute Resonance><color=#ebcaa2> memberikan peningkatan kecil pada Skill yang terangkai dalam Resonance tersebut, seperti sedikit peningkatan pada Skill Power."
+    },
+    {
+      "id": "tuto_01_02_01_05_title",
+      "content": "Resonance"
+    },
+    {
+      "id": "tuto_01_02_01_06",
+      "content": "Merangkaikan 2 atau lebih Skill dengan Affinity yang sama dalam giliran yang sama akan mengaktifkan apa yang disebut sebagai <color=#f8c200><Resonance><color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_01_02_02_01_title",
+      "content": "Absolute Resonance"
+    },
+    {
+      "id": "tuto_01_02_02_02",
+      "content": "Merangkaikan 3 atau lebih Skill berdekatan dengan Affinity yang sama dalam giliran yang sama akan mengaktifkan apa yang disebut sebagai <color=#f8c200><Absolute Resonance><color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_01_02_02_03_title",
+      "content": "Efek Resonance"
+    },
+    {
+      "id": "tuto_01_02_02_04",
+      "content": "Mengaktifkan <color=#f8c200><Resonance><color=#ebcaa2> sedikit meningkatkan Skill yang terdampak berdasarkan <color=#f8c200>jumlah Skill yang terhubung dalam rantai Resonance<color=#ebcaa2>. Skill yang lebih dekat ke ujung kanan Dashboard menerima peningkatan yang lebih besar.\n\nMengaktifkan <color=#f8c200><Absolute Resonance><color=#ebcaa2> menjamin bahwa setiap Skill dalam rantai Resonance menerima peningkatan tersebut."
+    },
+    {
+      "id": "tuto_01_02_03_01",
+      "content": "Setiap unit memiliki <color=#f8c200>Passive<color=#ebcaa2> yang unik."
+    },
+    {
+      "id": "tuto_01_02_03_02",
+      "content": "Pilih Faust untuk melihat <color=#f8c200>Passive<color=#ebcaa2> miliknya."
+    },
+    {
+      "id": "tuto_01_02_03_03",
+      "content": "Pilih tab Skill Pendosa."
+    },
+    {
+      "id": "tuto_01_02_03_04",
+      "content": "Pilih tombol <color=#f8c200>Passive<color=#ebcaa2> di sini untuk melihat syarat aktivasi dan efeknya."
+    },
+    {
+      "id": "tuto_01_02_03_05",
+      "content": "Passive milik Faust adalah sebuah <color=#f8c200><Resonance><color=#ebcaa2> Passive.\nSyarat untuk Passive jenis ini dapat dipenuhi dengan mengaktifkan <color=#f8c200><Resonance><color=#ebcaa2> seperti yang telah dijelaskan sebelumnya."
+    },
+    {
+      "id": "tuto_01_02_03_06",
+      "content": "Silakan aktifkan <color=#f8c200><Resonance Passive><color=#ebcaa2> dengan mengaktifkan <color=#f8c200><Resonance><color=#ebcaa2> untuk Affinity yang diperlukan.\n\nPassive Faust memerlukan 2 atau lebih Resonance <color=#004bd5>Pride (Indigo)<color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_01_02_04_01",
+      "content": "Mari kita lihat jenis Passive yang berbeda.\n\nIkon-ikon <color=#f8c200>di pojok kiri atas<color=#ebcaa2> layar ini juga menunjukkan daftar Passive yang tersedia. Pilih ikon Meursault yang disorot di sini."
+    },
+    {
+      "id": "tuto_01_02_04_02",
+      "content": "Passive Pendosa Meursault adalah sebuah <color=#f8c200><Owned><color=#ebcaa2> Passive.\n\n<color=#f8c200><Owned Passive><color=#ebcaa2> akan aktif secara otomatis di setiap giliran, asalkan anda memiliki cukup <color=#f8c200>E.G.O resource<color=#ebcaa2> untuk memenuhi persyaratannya."
+    },
+    {
+      "id": "tuto_01_02_04_03",
+      "content": "Passive ini mengharuskan anda memiliki 2 Resource <color=#fbc82b>Sloth (Kuning)<color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_01_02_04_04",
+      "content": "<color=#f8c200>Gunakan sebuah Skill<color=#ebcaa2> untuk <color=#f8c200>mendapatkan E.G.O resource yang sesuai dengan Affinity Skill tersebut<color=#ebcaa2>, yang dapat dilihat di sini.\n\nKarena kita telah mengumpulkan cukup banyak E.G.O resource <color=#fbc82b>Sloth (Kuning)<color=#ebcaa2> pada giliran sebelumnya, <color=#f8c200><Owned Passive><color=#ebcaa2> ini sudah aktif."
+    },
+    {
+      "id": "tuto_01_02_04_05",
+      "content": "Passive yang saat ini aktif akan disorot."
+    },
+    {
+      "id": "tuto_01_02_04_06",
+      "content": "Pendosa yang tidak berpartisipasi dalam Pertempuran ini akan memberikan <Support Passive> untuk membantu para Pendosa di medan laga.\n\nLihat <color=#f8c200><Support Passive><color=#ebcaa2> di sini."
+    },
+    {
+      "id": "tuto_01_02_04_07_title",
+      "content": "Support Passive"
+    },
+    {
+      "id": "tuto_01_02_04_08",
+      "content": "Pendosa yang telah ditingkatkan secara memadai dapat membantu Pendosa yang dikerahkan melalui <Support Passive> mereka.\n<Support Passive>, layaknya Passive biasa, memiliki syarat <color=#f8c200><Resonance><color=#ebcaa2> dan <color=#f8c200><Owned><color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_01_03_01_01",
+      "content": "Selain Attack Skill, setiap unit juga memiliki <color=#f8c200><Defense Skill><color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_01_03_01_02",
+      "content": "Ketuk pelan potret Pendosa di bagian bawah Dashboard untuk menukar Skill terbawah mereka dengan <color=#f8c200><Defense Skill><color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_01_03_01_03",
+      "content": "Pertama, mari coba pilih potret Pendosa Meursault untuk menghasilkan Skill <color=#f8c200><Guard><color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_01_03_01_04",
+      "content": "Sekarang, pilih potret Faust untuk menghasilkan Skill <color=#f8c200><Evade><color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_01_03_01_05",
+      "content": "Terakhir, pilih potret Pendosa Heathcliff untuk menghasilkan Skill <color=#f8c200><Counter><color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_01_03_01_06_title",
+      "content": "Defense Skill: Guard"
+    },
+    {
+      "id": "tuto_01_03_01_07",
+      "content": "Gunakan Skill <color=#f8c200><Guard><color=#ebcaa2> untuk mendapatkan <color=#f8c200>Perisai<color=#ebcaa2> setara dengan Power-nya.\nDamage akan diserap oleh Perisai terlebih dahulu sebelum mengurangi HP unit."
+    },
+    {
+      "id": "tuto_01_03_01_08_title",
+      "content": "Defense Skill: Evade"
+    },
+    {
+      "id": "tuto_01_03_01_09",
+      "content": "Saat menggunakan Skill <color=#f8c200><Evade><color=#ebcaa2>, jika Final Power-nya lebih besar dari atau sama dengan Skill musuh, unit tersebut akan <color=#f8c200>mengabaikan sepenuhnya<color=#ebcaa2> serangan musuh dan tidak menerima damage.\nSkill Evade memutar Coin mereka satu kali untuk setiap putaran Coin musuh.\nPeringatan: Jika Final Power dari Defense Skill tipe Evade lebih rendah dari serangan musuh, maka tindakan tersebut gagal dan serangan musuh akan menghantam dengan kekuatan penuh."
+    },
+    {
+      "id": "tuto_01_03_01_10_title",
+      "content": "Defense Skill: Counter"
+    },
+    {
+      "id": "tuto_01_03_01_11",
+      "content": "Skill <color=#f8c200><Counter><color=#ebcaa2> membiarkan musuh menyerang terlebih dahulu, <color=#f8c200>kemudian melakukan Serangan Tanpa Lawan terhadap penyerang tersebut<color=#ebcaa2>.\nPeringatan: Jika unit terkena status Staggered akibat serangan musuh, Counter tidak akan aktif."
+    },
+    {
+      "id": "tuto_01_03_01_12",
+      "content": "Ketuk kembali potret Pendosa dengan pelan untuk <color=#f8c200>membatalkan Defense Skill yang dihasilkan<color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_01_03_01_13",
+      "content": "Mari kita demonstrasikan efek dari setiap Defense Skill dalam pertempuran ini.\n\nRangkaikan <color=#f8c200><Defense Skill><color=#ebcaa2>, lalu mulailah fase pertempuran."
+    },
+    {
+      "id": "tuto_01_03_02_01",
+      "content": "Jika digunakan dalam situasi yang tepat, <color=#f8c200><Defense Skill><color=#ebcaa2> bisa jauh lebih efektif daripada beradu Clash atau menyerang musuh. Namun, penggunaan Skill ini pada waktu yang tidak tepat dapat menempatkan para Pendosa dalam risiko besar."
+    },
+    {
+      "id": "tuto_01_03_02_02",
+      "content": "Selain itu, harap diperhatikan bahwa para Pendosa tidak akan memilih <color=#f8c200><Defense Skill><color=#ebcaa2> kecuali anda <color=#f8c200>sendiri yang memberikan perintah langsung<color=#ebcaa2>. Ingatlah hal ini saat menggunakan fungsi <color=#f8c200>auto-Skill chaining<color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_01_04_01_01_title",
+      "content": "Menyesuaikan Kerapatan Informasi pada Layar Selama Pertempuran"
+    },
+    {
+      "id": "tuto_01_04_01_02",
+      "content": "Di pojok kanan atas layar pertempuran, terdapat tombol untuk menyesuaikan jumlah informasi yang ditampilkan.\n\nKetiga opsi tersebut mengatur kerapatan tampilan masing-masing ke <color=#f8c200>minimum, medium, atau maksimum<color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_01_04_01_03_title",
+      "content": "MAX"
+    },
+    {
+      "id": "tuto_01_04_01_04",
+      "content": "Konfigurasi tampilan informasi maksimal.\n\nIni adalah pengaturan standar yang diterapkan saat pertama kali memulai permainan.\n\nInformasi yang ditampilkan lebih banyak dibandingkan dengan dua pengaturan lainnya.\n\nDetail mengenai Keyword yang digunakan dalam Skill juga ditampilkan."
+    },
+    {
+      "id": "tuto_01_04_01_05_title",
+      "content": "MID"
+    },
+    {
+      "id": "tuto_01_04_01_06",
+      "content": "Konfigurasi tampilan informasi menengah.\n\nDalam pengaturan ini, detail mengenai Keyword yang digunakan dalam Skill tidak akan ditampilkan.\n\nSelain itu, fungsinya sama dengan pengaturan maksimum."
+    },
+    {
+      "id": "tuto_01_04_01_07_title",
+      "content": "MIN"
+    },
+    {
+      "id": "tuto_01_04_01_08",
+      "content": "Konfigurasi tampilan informasi minimum.\n\nDalam pengaturan ini, informasi mengenai efek dan Keyword dari Skill tidak akan ditampilkan."
+    },
+    {
+      "id": "tuto_01_08_01_01",
+      "content": "Mari kita pelajari cara menggunakan <color=#f8c200><E.G.O><color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_01_08_01_02",
+      "content": "<color=#f8c200><E.G.O><color=#ebcaa2> adalah <color=#f8c200>Skill unik<color=#ebcaa2> milik setiap Pendosa yang dapat digunakan <color=#f8c200>terlepas dari Identity<color=#ebcaa2> yang sedang mereka kenakan."
+    },
+    {
+      "id": "tuto_01_08_01_03",
+      "content": "Mari periksa <color=#f8c200>E.G.O<color=#ebcaa2> milik Pendosa Heathcliff.\n\nTekan dan tahan potret Pendosa Heathcliff di bagian bawah Dashboard."
+    },
+    {
+      "id": "tuto_01_08_01_04",
+      "content": "Setiap <color=#f8c200><E.G.O><color=#ebcaa2> yang saat ini dipasang oleh Pendosa Heathcliff dapat dilihat di sini."
+    },
+    {
+      "id": "tuto_01_08_01_05",
+      "content": "Menggunakan Skill <color=#f8c200><E.G.O><color=#ebcaa2> mengonsumsi <color=#f8c200>E.G.O resource<color=#ebcaa2> dan <color=#f8c200>SP<color=#ebcaa2>.\n\nJumlah SP yang dikonsumsi oleh setiap <color=#f8c200><E.G.O><color=#ebcaa2> tercantum di pojok kiri atas kartu informasinya.\n\nSekarang, pilih <color=#f8c200><E.G.O><color=#ebcaa2> ini—'Bodysack'."
+    },
+    {
+      "id": "tuto_01_08_01_06",
+      "content": "Tampaknya kita tidak memiliki cukup E.G.O resource untuk menggunakan Skill <color=#f8c200><E.G.O><color=#ebcaa2> tersebut.\n\nSetiap Skill <color=#f8c200><E.G.O><color=#ebcaa2> memerlukan sejumlah <color=#f8c200>E.G.O resource<color=#ebcaa2> tertentu untuk dapat diaktifkan."
+    },
+    {
+      "id": "tuto_01_08_01_07",
+      "content": "Di sini, anda dapat melihat jumlah <E.G.O resource> dan Affinity yang diperlukan untuk menggunakan Skill <color=#f8c200><E.G.O><color=#ebcaa2> ini.\n\nTampaknya kita kekurangan E.G.O resource Jingga <color=#ff6600><Lust><color=#ebcaa2> dan Ungu <color=#9500de><Envy><color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_01_08_01_08",
+      "content": "Lihat cadangan <color=#f8c200><E.G.O resource><color=#ebcaa2> anda saat ini di sini.\n\nNama-nama dari setiap Sin Affinity untuk <color=#f8c200><E.G.O resource><color=#ebcaa2> mungkin masih asing bagi anda, tetapi anda dapat memeriksa identitas masing-masing dengan memilih Resistance Sin Affinity tiap E.G.O di jendela info detail."
+    },
+    {
+      "id": "tuto_01_08_01_09",
+      "content": "<E.G.O resource> yang diperlukan dapat diperoleh dengan menggunakan Skill selama pertempuran. Sebagai contoh, Skill berwarna Envy akan memberikan satu resource Envy.\n\nBeruntung sekali, unit-unit yang ada di lapangan saat ini memiliki Skill dengan Affinity yang kita butuhkan. Gunakanlah mereka."
+    },
+    {
+      "id": "tuto_01_08_02_01",
+      "content": "Tekan tombol <color=#f8c200>Win Rate<color=#ebcaa2> untuk memerintahkan para Pendosa memilih Skill mereka sendiri berdasarkan peluang kemenangan Clash."
+    },
+    {
+      "id": "tuto_01_08_02_02",
+      "content": "Seperti yang terlihat di sini, musuh akan melancarkan <color=#f8c200>serangan kuat<color=#ebcaa2> terhadap Pendosa Heathcliff—dan kecil kemungkinannya ia akan memenangkan Clash ini."
+    },
+    {
+      "id": "tuto_01_08_02_03",
+      "content": "Ketika sebuah unit akan melakukan <color=#f8c200><Clash><color=#ebcaa2> dengan Skill musuh yang sulit, anda dapat menggunakan Skill <color=#f8c200><E.G.O><color=#ebcaa2> untuk membalikkan keadaan.\nPower-nya yang tinggi membuat mereka sangat efektif melawan Skill musuh yang kuat."
+    },
+    {
+      "id": "tuto_01_08_02_04",
+      "content": "Jika terdapat Skill <color=#f8c200><E.G.O><color=#ebcaa2> yang dapat digunakan karena resource-nya mencukupi, hal itu akan ditandai dengan bentuk yang mengelilingi Pendosa tersebut, seperti yang ditunjukkan di sini."
+    },
+    {
+      "id": "tuto_01_08_02_05",
+      "content": "Tekan dan tahan kembali potret Pendosa Heathcliff untuk masuk ke menu pemilihan <color=#f8c200><E.G.O><color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_01_08_02_06",
+      "content": "Kini anda memiliki cukup resource untuk menggunakan Skill <color=#f8c200><E.G.O><color=#ebcaa2> ini.\n\nKetuk dua kali untuk memilih kembali Skill E.G.O 'Bodysack' miliknya dan pasangkan pada Skill Slot Heathcliff."
+    },
+    {
+      "id": "tuto_01_08_02_07",
+      "content": "Setelah dipilih, Skill <color=#f8c200><E.G.O><color=#ebcaa2> secara otomatis akan terpasang pada Skill Slot terbawah dari Pendosa yang bersangkutan."
+    },
+    {
+      "id": "tuto_01_08_02_08",
+      "content": "<color=#f8c200>Memasang Skill <E.G.O> lain<color=#ebcaa2> pada Slot yang sama, atau menukarnya dengan <color=#f8c200>Defense Skill<color=#ebcaa2>, akan melepas Skill <E.G.O> saat ini dan mengembalikan E.G.O resource yang telah digunakan untuk memasangnya."
+    },
+    {
+      "id": "tuto_01_08_02_09",
+      "content": "Sekarang, mari kita kembali ke pertempuran."
+    },
+    {
+      "id": "tuto_01_08_02_10",
+      "content": "<color=#f8c200>Biaya SP akan dikonsumsi<color=#ebcaa2> pada saat Skill <color=#f8c200><E.G.O><color=#ebcaa2> memulai serangannya.\n\nPeringatan: membiarkan SP seorang Pendosa turun terlalu rendah dapat menyebabkan mereka memasuki status <color=#f8c200>Panic<color=#ebcaa2> atau mengalami <color=#f8c200>Corroded<color=#ebcaa2> oleh <color=#f8c200><E.G.O><color=#ebcaa2> mereka."
+    },
+    {
+      "id": "tuto_01_08_03_01",
+      "content": "Meningkatkan Threadspinning Tier sebuah Skill <E.G.O> akan membuka <color=#f8c200><E.G.O Passive> milik mereka<color=#ebcaa2>.\nSetelah giliran di mana unit tersebut menggunakan Skill <E.G.O> berakhir dan pertempuran berlanjut ke <color=#f8c200>giliran berikutnya<color=#ebcaa2>, <color=#f8c200><E.G.O Passive><color=#ebcaa2> unik dari Skill tersebut akan aktif.\n\nAnda dapat melihat informasi mendetail mengenai E.G.O Passive di menu info detail setiap Pendosa."
+    },
+    {
+      "id": "tuto_01_09_01_01",
+      "content": "Dalam Pertempuran ini, kita akan mempelajari penggunaan <E.G.O> yang lebih tingkat lanjut.\nSinner Ryōshū akan memulai dengan nilai SP yang lebih tinggi untuk tujuan demonstrasi."
+    },
+    {
+      "id": "tuto_01_09_01_02",
+      "content": "Setiap Skill E.G.O, kecuali Base E.G.O, dapat dilakukan <color=#f8c200><Overclock><color=#ebcaa2>.\nTekan dan tahan potret Pendosa Ryōshū untuk memunculkan daftar E.G.O miliknya."
+    },
+    {
+      "id": "tuto_01_09_01_03",
+      "content": "Mari kita coba terlebih dahulu menggunakan Skill E.G.O Awakening Ryōshū yang baru didapat."
+    },
+    {
+      "id": "tuto_01_09_01_04",
+      "content": "Anda dapat <color=#f8c200>mengubah Sin Resistance Pendosa<color=#ebcaa2> dengan <color=#f8c200>menggunakan E.G.O mereka<color=#ebcaa2>.\nPeriksalah Sin Affinity dari Skill musuh, dan gunakan E.G.O yang tepat untuk menyesuaikan Resistance anda guna memperoleh keunggulan."
+    },
+    {
+      "id": "tuto_01_09_01_05",
+      "content": "Mari kita gunakan Skill E.G.O itu sekali lagi."
+    },
+    {
+      "id": "tuto_01_09_01_06",
+      "content": "Skill E.G.O memiliki peluang untuk <color=#f8c200>Corrode<color=#ebcaa2> (Terkorosi) pada nilai <color=#f8c200>SP<color=#ebcaa2> yang lebih rendah.\nPeringatan: Korosi menyebabkan Pendosa menggunakan Corrosion Skill, yang menyerang kawan maupun lawan tanpa pandang bulu.\nAnda dapat melihat peluang Korosi di sini."
+    },
+    {
+      "id": "tuto_01_09_01_07",
+      "content": "Mencapai <color=#f8c200>-45 SP<color=#ebcaa2> akan menjamin Pendosa memasuki status <color=#f8c200><E.G.O Corrosion><color=#ebcaa2>.\nDalam status <color=#f8c200><E.G.O Corrosion><color=#ebcaa2>, Pendosa akan menyerang kawan dan lawan secara acak."
+    },
+    {
+      "id": "tuto_01_09_01_08",
+      "content": "Pendosa akan pulih dari status <color=#f8c200><E.G.O Corrosion><color=#ebcaa2> pada giliran berikutnya, dan SP mereka akan diatur ulang menjadi 0."
+    },
+    {
+      "id": "tuto_01_09_01_09",
+      "content": "Mari kita coba <color=#f8c200><E.G.O Overclock><color=#ebcaa2> kali ini. Tekan dan tahan potret Ryōshū."
+    },
+    {
+      "id": "tuto_01_09_01_10",
+      "content": "Tekan dan tahan kartu Skill E.G.O untuk melakukan <color=#f8c200><E.G.O Overclock><color=#ebcaa2>.\nMenggunakan <E.G.O Overclock> akan <color=#f8c200>memaksa Pendosa menggunakan Corrosion Skill<color=#ebcaa2> dari <E.G.O> tersebut."
+    },
+    {
+      "id": "tuto_01_09_01_11",
+      "content": "Jika anda memiliki cukup resource untuk menggunakan Skill E.G.O yang di-Overclock, ia akan aktif sebagai <color=#f8c200>Overclock Stabil<color=#ebcaa2>. Jika tidak, ia akan aktif sebagai <color=#f8c200>Overclock Tidak Stabil<color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_01_09_01_12_title",
+      "content": "Overclock Stabil"
+    },
+    {
+      "id": "tuto_01_09_01_12",
+      "content": "Mengaktifkan <color=#f8c200><Overclock Stabil><color=#ebcaa2> mengonsumsi <color=#f8c200>1,5 kali resource (termasuk SP)<color=#ebcaa2> dibandingkan dengan E.G.O biasa, tetapi ia <color=#f8c200>tidak menargetkan kawan<color=#ebcaa2>.\nPeringatan: Bahkan Overclock Stabil dapat membuat Pendosa anda <color=#f8c200>Corrode<color=#ebcaa2> jika <color=#f8c200>nilai SP mereka rendah<color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_01_09_01_13_title",
+      "content": "Overclock Tidak Stabil"
+    },
+    {
+      "id": "tuto_01_09_01_13",
+      "content": "Mengaktifkan <color=#f8c200><E.G.O Overclock><color=#ebcaa2> tanpa sumber daya yang cukup akan memicu <color=#f8c200><Overclock Tidak Stabil><color=#ebcaa2>.\nOverclock Tidak Stabil menargetkan kawan maupun lawan secara <color=#f8c200>acak (indiskriminasi)<color=#ebcaa2>, layaknya E.G.O Corrosion, dan setiap <color=#f8c200>sumber daya E.G.O yang kurang akan menjadi bernilai negatif<color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_01_11_abbattle_01_01",
+      "content": "Entitas yang dikenal sebagai <color=#f8c200>Abnormality<color=#ebcaa2> dapat ditemukan di dalam Dungeon."
+    },
+    {
+      "id": "tuto_01_11_abbattle_01_02",
+      "content": "Diperlukan pendekatan yang berbeda dalam pertempuran melawan Abnormality."
+    },
+    {
+      "id": "tuto_01_11_abbattle_01_03",
+      "content": "Pertempuran yang menggunakan pendekatan berbeda ini disebut <color=#f8c200>Focused Encounter<color=#ebcaa2>. Mari kita pelajari mekanismenya."
+    },
+    {
+      "id": "tuto_01_11_abbattle_01_04",
+      "content": "Semua Abnormality memiliki satu atau lebih <color=#f8c200>Bagian (Parts)<color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_01_11_abbattle_01_05",
+      "content": "Setiap Bagian memiliki Slot Skill dan nilai Kecepatan (Speed) masing-masing."
+    },
+    {
+      "id": "tuto_01_11_abbattle_01_06_title",
+      "content": "Bagian Abnormality"
+    },
+    {
+      "id": "tuto_01_11_abbattle_01_06",
+      "content": "Abnormality sering kali memiliki beberapa Bagian yang dapat ditargetkan.\n\nSetiap Bagian menggunakan Skill dari Slot Skill yang telah ditentukan, dan nilai Kecepatannya dapat berubah di setiap giliran."
+    },
+    {
+      "id": "tuto_01_11_abbattle_01_07",
+      "content": "Dalam Focused Encounter, anda harus memilih ikon Skill Pendosa dan menghubungkannya <color=#f8c200>secara langsung<color=#ebcaa2> ke Slot Skill Abnormality."
+    },
+    {
+      "id": "tuto_01_11_abbattle_01_08",
+      "content": "Pilih sebuah Skill dari kolom paling kiri pada Dashboard."
+    },
+    {
+      "id": "tuto_01_11_abbattle_01_09",
+      "content": "Sekarang, tarik dari Skill yang dipilih ke <color=#f8c200>Slot Skill musuh ini untuk menghubungkannya<color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_01_11_abbattle_01_10",
+      "content": "Ingat: dalam Focused Encounter, anda menghubungkan Skill Pendosa secara langsung ke Slot Skill musuh."
+    },
+    {
+      "id": "tuto_01_11_abbattle_01_11",
+      "content": "Silakan tekan ikon gerigi di sebelah kiri jika anda ingin memperkecil tampilan (zoom out) untuk melihat seluruh medan tempur."
+    },
+    {
+      "id": "tuto_01_11_abbattle_01_12",
+      "content": "Menekan ikon gerigi di sebelah kiri saat tampilan diperbesar\nakan mengatur ulang sudut pandang anda."
+    },
+    {
+      "id": "tuto_01_11_abbattle_01_13",
+      "content": "Setelah anda <color=#f8c200>menghubungkan setiap Skill yang tersedia ke Slot Skill musuh<color=#ebcaa2>, ikon gerigi di sebelah kanan—tombol untuk masuk ke fase pertempuran—akan aktif. Hanya setelah itu anda dapat melanjutkan ke Fase Pertempuran."
+    },
+    {
+      "id": "tuto_01_11_abbattle_01_14",
+      "content": "Sekarang, <color=#f8c200>hubungkan setiap Skill Pendosa ke Slot musuh<color=#ebcaa2>, lalu mulailah fase pertempuran menggunakan ikon gerigi di sebelah kanan."
+    },
+    {
+      "id": "tuto_01_11_abbattle_02_01",
+      "content": "<color=#f8c200>Kecepatan (Speed)<color=#ebcaa2> menentukan urutan aksi yang dilakukan dalam Focused Encounter."
+    },
+    {
+      "id": "tuto_01_11_abbattle_02_02",
+      "content": "Kecepatan yang diberikan pada setiap unit untuk giliran ini dapat dilihat di sini, <color=#f8c200>tepat di samping Slot Skill mereka<color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_01_11_abbattle_02_03",
+      "content": "Kecepatan unit kawan juga dapat dilihat di sini <color=#f8c200>pada Dashboard<color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_01_11_abbattle_02_04",
+      "content": "Seperti yang baru saja anda lihat, Focused Encounter dilakukan dengan menghubungkan Skill unit anda <color=#f8c200>secara langsung<color=#ebcaa2> ke Slot Skill musuh."
+    },
+    {
+      "id": "tuto_01_11_abbattle_02_05",
+      "content": "Sekarang, mari pelajari cara menangani situasi di mana beberapa musuh mengincar satu unit kawan yang sama.\nArahkan kursor lalu pilih Slot unit ini di sini."
+    },
+    {
+      "id": "tuto_01_11_abbattle_02_06",
+      "content": "<color=#f8c200>Kawan dengan Kecepatan lebih tinggi<color=#ebcaa2> dapat memaksa musuh dengan Kecepatan lebih rendah untuk <color=#f8c200>mengalihkan serangan dan melakukan <Clash> dengan mereka<color=#ebcaa2> dengan cara menghubungkan Skill mereka sendiri melawan Skill musuh tersebut."
+    },
+    {
+      "id": "tuto_01_11_abbattle_02_07",
+      "content": "Pilih Pendosa yang lebih cepat dan hubungkan Skill mereka melawan Skill musuh."
+    },
+    {
+      "id": "tuto_01_11_abbattle_02_08",
+      "content": "Pilih Pendosa yang lebih cepat dan hubungkan Skill mereka melawan Skill musuh."
+    },
+    {
+      "id": "tuto_01_11_abbattle_02_09",
+      "content": "Seperti yang didemonstrasikan di sini, kawan dengan Kecepatan lebih tinggi dari musuh dapat <color=#f8c200>menarik serangan yang menargetkan kawan lain ke diri mereka sendiri secara strategis<color=#ebcaa2> tergantung pada alur pertempuran."
+    },
+    {
+      "id": "tuto_01_11_abbattle_02_10_title",
+      "content": "Ketika Kecepatan Kawan > Kecepatan Musuh"
+    },
+    {
+      "id": "tuto_01_11_abbattle_02_10",
+      "content": "<color=#f8c200>Jika Kecepatan unit kawan lebih tinggi daripada unit musuh<color=#ebcaa2>, unit kawan tersebut dapat <color=#f8c200>mengalihkan<color=#ebcaa2> <color=#f8c200>target<color=#ebcaa2> Skill musuh ke diri mereka sendiri.\n\nSetelah dialihkan, unit kawan dan unit musuh tersebut akan melakukan <color=#f8c200>Clash<color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_01_11_abbattle_02_11",
+      "content": "Hal lain yang perlu diperhatikan mengenai penargetan dan pengalihan: <color=#f8c200>unit kawan yang ditargetkan oleh Skill musuh<color=#ebcaa2> tetap dapat melakukan <color=#f8c200>Clash<color=#ebcaa2> terhadap Skill tersebut, <color=#f8c200>terlepas dari Kecepatan mereka sendiri<color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_01_11_abbattle_02_12",
+      "content": "Hubungkan Skill anda melawan Skill musuh."
+    },
+    {
+      "id": "tuto_01_11_abbattle_02_13",
+      "content": "Hubungkan Skill anda melawan Skill musuh."
+    },
+    {
+      "id": "tuto_01_11_abbattle_02_14_title",
+      "content": "Ketika ditargetkan oleh Skill musuh"
+    },
+    {
+      "id": "tuto_01_11_abbattle_02_14",
+      "content": "Kawan yang ditargetkan oleh Skill musuh dapat melakukan Clash terhadap Skill yang menargetkan diri mereka <color=#f8c200>terlepas dari nilai Kecepatan<color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_01_11_abbattle_02_15",
+      "content": "Jika Kecepatan unit kawan sama dengan atau lebih rendah dari musuh, mereka tidak dapat mengalihkan Skill musuh dan sebaliknya akan melakukan <color=#05DBF2>Serangan Tanpa Lawan<color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_01_11_abbattle_02_16_title",
+      "content": "Ketika Kecepatan Kawan ≤ Kecepatan Musuh"
+    },
+    {
+      "id": "tuto_01_11_abbattle_02_16",
+      "content": "Kawan dengan nilai Kecepatan yang lebih rendah atau sama tidak dapat memaksa musuh yang lebih cepat untuk menargetkan mereka.\nDalam kasus seperti ini, kedua unit akan melakukan <color=#05DBF2>Serangan Tanpa Lawan (ditandai dengan panah biru)<color=#ebcaa2> alih-alih terlibat dalam Clash terlebih dahulu. Unit yang lebih cepat akan menyerang lebih dulu.\n\n<color=#05DBF2>Serangan Tanpa Lawan<color=#ebcaa2> melewati proses Clash dan menyerang secara langsung."
+    },
+    {
+      "id": "tuto_01_11_abbattle_02_17",
+      "content": "Meskipun beberapa Skill dapat menargetkan satu Slot yang sama, hanya Skill terakhir yang dihubungkan ke Slot tersebut yang akan melakukan Clash; Skill lainnya akan diaktifkan sebagai <color=#05DBF2>Serangan Tanpa Lawan<color=#ebcaa2>.\nTerkadang, mengabaikan <color=#f8c200>Clash<color=#ebcaa2> dan membiarkan beberapa unit menggunakan <color=#05DBF2>Serangan Tanpa Lawan<color=#ebcaa2> terhadap satu musuh yang berbahaya bisa menjadi strategi yang efektif, meskipun hal itu membuat mereka terpapar serangan dari musuh lain."
+    },
+    {
+      "id": "tuto_01_11_snow_white_01_01",
+      "content": "Anda telah menemukan Abnormality baru. Silakan lihat Panduan Abnormality (Abnormality Guide)."
+    },
+    {
+      "id": "tuto_01_11_snow_white_01_02_title",
+      "content": "Panduan Abnormality"
+    },
+    {
+      "id": "tuto_01_11_snow_white_01_02",
+      "content": "Panduan Abnormality mencantumkan informasi mengenai Abnormality tersebut.\n<color=#f8c200>Panduan akan terisi secara bertahap seiring anda bertarung melawan Abnormality tersebut.<color=#ebcaa2>\n\nTingkatkan <color=#f8c200>Observation Level<color=#ebcaa2> dengan menghadapi dan melawan Abnormality tersebut berulang kali.\nObservation Level yang lebih tinggi sedikit meningkatkan kerusakan (damage) yang anda berikan kepada Abnormality tersebut."
+    },
+    {
+      "id": "tuto_01_11_snow_white_01_03",
+      "content": "Anda mungkin akan menjumpai Abnormality dengan <color=#f8c200>beberapa Bagian<color=#ebcaa2> di dalam dungeon yang anda jelajahi.\nDalam kasus tersebut, setiap Bagian mungkin memiliki Resistance, Passive, dan Skill yang berbeda."
+    },
+    {
+      "id": "tuto_01_11_snow_white_01_04",
+      "content": "Titik lemah Abnormality ini adalah bagian <color=#f8c200>Fruit (Buah)<color=#ebcaa2>.\nTargetkan bagian Fruit tersebut."
+    },
+    {
+      "id": "tuto_01_11_snow_white_02_01",
+      "content": "Anda telah menghancurkan satu Bagian dari Abnormality tersebut. Mari kita periksa Panduan Abnormality untuk melihat apakah ada informasi yang diperbarui."
+    },
+    {
+      "id": "tuto_01_11_snow_white_02_02",
+      "content": "Anda telah menghancurkan bagian Fruit."
+    },
+    {
+      "id": "tuto_01_11_snow_white_02_03",
+      "content": "Nilai Physical Resistance untuk Bagian yang telah <color=#f8c200>Hancur (Destroyed)<color=#ebcaa2> akan menjadi <color=#f8c200>Fatal<color=#ebcaa2>.\nHarap dicatat bahwa Bagian yang ditandai sebagai <color=#f8c200>Severable<color=#ebcaa2> tidak dapat diserang kembali setelah Hancur, kecuali jika bagian tersebut beregenerasi."
+    },
+    {
+      "id": "tuto_01_11_snow_white_02_04",
+      "content": "Melanjutkan pertempuran akan membuka informasi Skill Pasif musuh.\n<color=#f8c200>Membaca rincian dan petunjuk di jendela informasi musuh<color=#ebcaa2> sangat penting untuk memenangkan pertempuran tertentu."
+    },
+    {
+      "id": "tuto_01_11_snow_white_02_05",
+      "content": "Lanjutkan penaklukan Abnormality ini."
+    },
+    {
+      "id": "tuto_01_11_snow_white_03_01",
+      "content": "Selama Focused Encounter, anda sebagai manajer terkadang akan ditugaskan untuk membuat keputusan penting dalam <color=#f8c200><Choice Events><color=#ebcaa2>.\n<color=#f8c200>Arus pertempuran dapat berubah drastis<color=#ebcaa2> tergantung pada pilihan anda, jadi pilihlah dengan bijak."
+    },
+    {
+      "id": "tuto_01_11_snow_white_03_02_title",
+      "content": "Choice Events"
+    },
+    {
+      "id": "tuto_01_11_snow_white_03_02",
+      "content": "Choice Events ini berfungsi seperti uji kemampuan (Skill check)—mereka memiliki persyaratan Sin Affinity dan ambang batas nilai untuk berhasil.\nSetiap Choice Event menunjukkan keunggulan Affinity—pilih Pendosa dengan Skill Affinity yang sesuai untuk meningkatkan peluang keberhasilan anda.\nBerhasil atau gagalnya uji tersebut akan menentukan hasil akhirnya."
+    },
+    {
+      "id": "tuto_02_12_01_01_start",
+      "content": "Sekarang, kita akan mempelajari bagaimana <color=#f8c200>Level<color=#ebcaa2> sebuah Identity memengaruhi pertempuran dan Skill. Cobalah menghubungkan sebuah Skill."
+    },
+    {
+      "id": "tuto_02_12_01_01",
+      "content": "Setiap Skill memiliki dua nilai ini: <color=#f8c200>Offense Level (Level Serangan)<color=#ebcaa2> dan <color=#f8c200>Defense Level (Level Pertahanan)<color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_02_12_01_02",
+      "content": "<color=#f8c200>Offense Level<color=#ebcaa2> memengaruhi Skill berikut: <color=#f8c200>Attack Skill<color=#ebcaa2> dan <color=#f8c200>Counter Skill<color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_02_12_01_03",
+      "content": "<color=#f8c200>Kerusakan yang diberikan (Damage dealt)<color=#ebcaa2> meningkat sebanding dengan seberapa besar Offense Level penyerang melampaui Defense Level target. Peningkatan kerusakan ini ditampilkan di sini."
+    },
+    {
+      "id": "tuto_02_12_01_04",
+      "content": "Selain itu, dalam sebuah Clash, setiap selisih 3 poin keunggulan Offense Level atas Offense Level target akan dikonversi menjadi 1 poin keunggulan Clash Power."
+    },
+    {
+      "id": "tuto_02_12_01_05",
+      "content": "Semua Identity memiliki Defense Level yang memengaruhi <color=#f8c200>jumlah kerusakan yang mereka terima<color=#ebcaa2>."
+    },
+    {
+      "id": "tuto_02_12_01_06",
+      "content": "<color=#f8c200>Offense Level<color=#ebcaa2> dan <color=#f8c200>Defense Level<color=#ebcaa2> adalah statistik yang <color=#f8c200>tumbuh sebanding dengan Level Identity<color=#ebcaa2>.\nPerbedaan Level antara kawan dan musuh dapat sangat memengaruhi tingkat kesulitan pertempuran—pastikan <color=#f8c200>Level Identity anda telah ditingkatkan<color=#ebcaa2> dengan cukup jika sebuah pertempuran terasa terlalu sulit."
+    }
+  ]
+}

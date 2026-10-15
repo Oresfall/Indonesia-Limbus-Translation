@@ -1,0 +1,3423 @@
+{
+  "dataList": [
+    {
+      "id": 1040501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I.U.E.",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count Charge"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count Charge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "I.U.E.",
+          "desc": "Pada 10+ Count Charge, beri +10% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count Charge"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count Charge"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "I.U.E.",
+          "desc": "Pada 10+ Count Charge, beri +10% damage\nPada 15+ Count Charge, beri tambahan +10% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count Charge"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count Charge"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lompat",
+          "desc": "[WhenUse] Peroleh +5 Count Charge",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Pada 10+ Count Charge, beri 1 Slash Fragility"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target’s HP di bawah 30%, beri +15% damage"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Lompat",
+          "desc": "[WhenUse] Peroleh +6 Count Charge\nPada 10+ Count Charge, peroleh +1 Coin Power",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pada 10+ Count Charge, beri 1 Slash Fragility"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target’s HP di bawah 30%, beri +20% damage"
+                },
+                {
+                  "desc": "[EnemyKill] Peroleh 1 Haste giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Lompat",
+          "desc": "[WhenUse] Peroleh +7 Count Charge\nPada 10+ Count Charge, peroleh +1 Coin Power\nPada 15+ Count Charge, peroleh tambahan +1 Coin Power",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pada 10+ Count Charge, beri 2 Slash Fragility"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target’s HP di bawah 30%, beri +30% damage"
+                },
+                {
+                  "desc": "[EnemyKill] Peroleh 3 Haste giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "P.I.D.P.D.",
+          "desc": "[WhenUse] Pada 7~14 Count Charge\nKonsumsi semua Count Charge,\nDan konsumsi 3 x (15 - Count Charge Dikonsumsi)% HP untuk peroleh +3 Coin Power\n[WhenUse] Konsumsi 15 Count Charge untuk peroleh +3 Coin Power",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Coin terakhir beri +5% damage"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Coin terakhir beri +5% damage"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Coin terakhir beri +5% damage"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] Jika skill ini mengonsumsi 15 Count Charge saat pakai, beri 5 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Pelindung Charge</color></link></u> ke diri sendiri dan 1 kawan lain"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "P.I.D.P.D.",
+          "desc": "[WhenUse] Pada 7~14 Count Charge\nKonsumsi semua Count Charge,\nDan konsumsi 3 x (15 - Count Charge Dikonsumsi)% HP untuk peroleh +5 Coin Power\n[WhenUse] Konsumsi 15 Count Charge untuk peroleh +5 Coin Power",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Coin terakhir beri +10% damage"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Coin terakhir beri +10% damage"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Coin terakhir beri +10% damage"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] Jika skill ini mengonsumsi 15 Count Charge saat pakai, beri 7 <sprite name=\"ChargeForceField\"><color=#f8c200><u><link=\"ChargeForceField\">Pelindung Charge</color></link></u> ke diri sendiri dan 1 kawan lain"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hindaran Bertenaga",
+          "desc": "Base Power +1 per 5 Count Charge (maks 2)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hindaran Bertenaga",
+          "desc": "Base Power +1 per 5 Count Charge (maks 3)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dorong",
+          "desc": "[WhenUse] Peroleh +2 Poise Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Target kehilangan 4 SP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Dorong",
+          "desc": "[WhenUse] Peroleh +2 Poise Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Target kehilangan 6 SP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Dorong",
+          "desc": "[WhenUse] Peroleh 2 Poise Count\n<style=\"highlight\">Pada 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></color></link></u>, Coin Power +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Target kehilangan 8 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "N.T.",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 Poise"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 1 Offense Level Down"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 Poise"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 1 Offense Level Down"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "N.T.",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 Poise"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 1 Offense Level Down"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 Poise"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 1 Offense Level Down"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "N.T.",
+          "desc": "Pada 7+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></link></u>, Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 Poise"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 2 Offense Level Down"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 Poise"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 1 Offense Level Down"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "P.B.K.",
+          "desc": "[WhenUse] Peroleh 4 Poise\nPada 10+ <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></link></u>, Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {}
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Habiskan 1 Ammo"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gandakan pemberikan Tremor & Rpture Potency dan Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Tremor dan +1 Tremor Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Rupture dan +1 Rupture Count"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Aktifkan Tremor Burst"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "P.B.K.",
+          "desc": "[WhenUse] Peroleh 4 Poise\nPeroleh +1 Coin Power untuk setiap 7 Poise pada diri sendiri (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Peroleh +1 Poise Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Peroleh +1 Poise Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Habiskan 1 Ammo"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gandakan pemberikan Tremor & Rpture Potency dan Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 Tremor dan +2 Tremor Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 Rupture dan +2 Rupture Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan Tremor Burst"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bertahan",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Bertahan",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Perang Habis-habisan",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Perang Habis-habisan",
+          "desc": "Jika target memiliki 6+ [Combustion], Clash Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Perang Habis-habisan",
+          "desc": "Jika target memiliki 6+ [Combustion], Clash Power +1\n<style=\"highlight\">Jika target memiliki 10+ [Combustion], Coin Power +1 </style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Combustion]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pisau Berapi-api",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 6+ [Combustion], beri +20% damage"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Pisau Berapi-api",
+          "desc": "Jika target memiliki 6+ [Combustion], Clash Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 6+ [Combustion], beri +30% damage"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Pisau Berapi-api",
+          "desc": "Jika target memiliki 6+ [Combustion], Clash Power +1\n<style=\"highlight\">Jika target memiliki 6+ [Combustion], Coin Power +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 6+ [Combustion], beri +50% damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Tebasan Api",
+          "desc": "Jika target memiliki 6+ [Combustion], Clash Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 10+ [Combustion], beri +20% damage"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tebasan Api",
+          "desc": "Jika target memiliki 6+ [Combustion], Clash Power +1\n<style=\"highlight\">Jika target memiliki 6+ [Combustion], Coin Power +1 </style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 10+ [Combustion], beri +40% damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bertahan",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Bertahan",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Seni Menerima 1: Perburuan",
+          "desc": "[WhenUse] Peroleh +2 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [MarkOfButler]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Seni Menerima 1: Perburuan",
+          "desc": "<style=\"highlight\">Jika Speed unit ini lebih cepat daripada target sebanyak 3 atau lebih, Clash Power +1</style>\n[WhenUse] Peroleh +2 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [MarkOfButler]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Seni Menerima 1: Perburuan",
+          "desc": "<style=\"highlight\">Jika Speed unit ini lebih cepat daripada target, peroleh Clash Power +1 untuk setiap 2 perbedaan Speed (maks 3)</style>\n[WhenUse] Peroleh +2 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [MarkOfButler]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Seni Menerima 7: Tangkap",
+          "desc": "[StartBattle] Konsumsi 6 Count [Breath] pada diri sendiri untuk peroleh +2 Atk Weight untuk Skill ini",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [MarkOfButler]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Seni Menerima 7: Tangkap",
+          "desc": "[StartBattle] Konsumsi 6 Count [Breath] pada diri sendiri untuk peroleh +2 Atk Weight untuk Skill ini",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 3 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [MarkOfButler]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Seni Menerima 7: Tangkap",
+          "desc": "<style=\"highlight\">Jika Speed unit ini faster than target utama's, peroleh Clash Power +1 untuk setiap 2 perbedaan Speed (maks 3)</style>\n[StartBattle] Konsumsi 6 Count [Breath] pada diri sendiri untuk peroleh +2 Atk Weight untuk Skill ini",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 3 [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 1 [MarkOfButler]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [MarkOfButler]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040803,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Seni Menerima 2: K.I.L.A.T",
+          "desc": "Jika target memiliki [MarkOfButler], Clash Power +1\n[WhenUse] Peroleh +7 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 5 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Naikkan Batas Stagger sebanyak 20% dari damage yang diberikan"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target Stagger, beri +20% Damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [MarkOfButler]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Seni Menerima 2: K.I.L.A.T",
+          "desc": "Jika target memiliki [MarkOfButler], Clash Power +1\n<style=\"highlight\">Jika Speed unit ini lebih cepat daripada target, peroleh Coin Power +1 untuk setiap 2 perbedaan Speed (maks 2)</style>\n[WhenUse] Peroleh +7 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 5 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Naikkan Batas Stagger sebanyak 30% dari damage yang diberikan"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 1 [MarkOfButler]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target Stagger, beri +40% Damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [MarkOfButler]"
+                },
+                {
+                  "desc": "[EnemyKill] Ulang Skill sekali pada target acak dengan [MarkOfButler]\n(Tidak Aktif saat Mengulang. Tidak Aktif ketika tidak ada target dengan [MarkOfButler])"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lemah",
+          "desc": "[OnSucceedEvade] Pulihkan 3 SP (3 kali per giliran)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Lemah",
+          "desc": "[OnSucceedEvade] Pulihkan 3 SP (<style=\"highlight\">5</style> kali per giliran)\n<style=\"highlight\">[OnSucceedEvade] Peroleh +1 Count [Breath](5 kali per giliran)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Otakmu Lepas?",
+          "desc": "[WhenUse] Peroleh +2 Count [Vibration]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh Count [Vibration] setara ((Count [Vibration] pada target)/2) (maks 2)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Otakmu Lepas?",
+          "desc": "[WhenUse] Peroleh +2 Count [Vibration]\n<style=\"highlight\">[WhenUse] Pada 5+ Count [Vibration], Clash Power +2</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh Count [Vibration] setara ((Count [Vibration] pada target)/2) (maks <style=\"highlight\">3</style>)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Otakmu Lepas?",
+          "desc": "[WhenUse] Peroleh +2 Count [Vibration]\n[WhenUse] Pada <style=\"highlight\">4</style>+ Count [Vibration], Clash Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh Count [Vibration] setara (Count [Vibration] pada target) (maks <style=\"highlight\">4</style>)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +<style=\"highlight\">2</style> Count [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kompresi Kunci Pas",
+          "desc": "[WhenUse] Peroleh +2 Count [Vibration]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri +1 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Konsumsi Count [Vibration] pada diri sendiri, dan beri jumlah yang sama dengan Count [Vibration] pada target (maks 5)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Kompresi Kunci Pas",
+          "desc": "[WhenUse] Peroleh +2 Count [Vibration]\n<style=\"highlight\">Pada 5+ Count [Vibration], Coin Power +1</style>",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Peroleh +1 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Konsumsi Count [Vibration] pada diri sendiri, dan beri jumlah yang sama dengan Count [Vibration] pada target (maks 5)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Kompresi Kunci Pas",
+          "desc": "[WhenUse] Peroleh +2 Count [Vibration]\n<style=\"highlight\">[WhenUse] Pada 4+ Count [Vibration], Clash Power +1</style>\nPada <style=\"highlight\">4</style>+ Count [Vibration], Coin Power +1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Konsumsi Count [Vibration] pada diri sendiri, dan beri jumlah yang sama dengan Count [Vibration] pada target (maks 5)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040903,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Maintenance Perkusi",
+          "desc": "[WhenUse] Peroleh +2 Count [Vibration]\nKonsumsi 10 Count [Vibration] pada diri sendiri untuk peroleh Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Maintenance Perkusi",
+          "desc": "[WhenUse] Peroleh +2 Count [Vibration]\nKonsumsi <style=\"highlight\">8</style> Count [Vibration] pada diri sendiri untuk peroleh Coin Power +1\n<style=\"highlight\">Jika target memiliki 6+ [Vibration], Coin Power +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak <style=\"highlight\">1</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1040904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bertahan",
+          "desc": "[WhenUse] Peroleh 2 x (Count [Vibration] pada diri sendiri) sebagai HP Perisai (maks 5)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Bertahan",
+          "desc": "[WhenUse] Peroleh 2 x (Count [Vibration] pada diri sendiri) sebagai HP Perisai (maks <style=\"highlight\">10</style>)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kalian Berdua, Diam",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 3 [PenanceFirst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [RedEyeFirst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Kalian Berdua, Diam",
+          "desc": "<style=\"highlight\">Pada 7+ [RedEyeFirst], Coin Power +1\nPada 7+ [PenanceFirst], Clash Power +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 3 [PenanceFirst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [RedEyeFirst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Beri 1 [Laceration]</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Kalian Berdua, Diam",
+          "desc": "Pada 7+ [RedEyeFirst], Coin Power +1\nPada 7+ [PenanceFirst], Clash Power <style=\"highlight\">+2</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 3 [PenanceFirst]\n<style=\"highlight\">[OnSucceedAttackHead] Peroleh 1 [PenanceFirst]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [RedEyeFirst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "S.H. / S.F.",
+          "desc": "Jika total [RedEyeFirst] dan [PenanceFirst] 20 atau lebih tinggi, Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 4 [PenanceFirst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 3 [RedEyeFirst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 2,
+          "name": "S.H. / S.F.",
+          "desc": "Jika total [RedEyeFirst] dan [PenanceFirst] 20 atau lebih tinggi, Coin Power +1\n<style=\"highlight\">Jika target memiliki 6+ [Laceration], Coin Power +1</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 4 [PenanceFirst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 3 [RedEyeFirst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Peroleh [RedEyeFirst] setara ([Laceration] pada target/3) (maks 2)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "S.H. / S.F.",
+          "desc": "Jika total [RedEyeFirst] dan [PenanceFirst] <style=\"highlight\">15</style> atau lebih tinggi, Coin Power +1\nJika target memiliki 6+ [Laceration], Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 4 [PenanceFirst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 3 [RedEyeFirst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh [RedEyeFirst] setara ([Laceration] pada target/<style=\"highlight\">2</style>) (maks <style=\"highlight\">3</style>)"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Pada 7+ [RedEyeFirst], peroleh 1 [Agility] giliran berikutnya (2 kali per giliran)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041003,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Penghancur Tengkorak",
+          "desc": "[BeforeUse] Jika [RedEyeFirst] dan [PenanceFirst] berada pada 15+, aktifkan 'Penghancur Tengkorak Serius' sebagai gantinya\nJika Speed unit ini lebih cepat daripada target sebanyak 3 atau lebih, Coin Power +1\n[WhenUse] Pada maks SP, Coin Power +1\n- [EndSkill] Jika efek ini diaktifkan, kehilangan 15 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 7 [RedEyeFirst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 7 [PenanceFirst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan diri sendiri dan 1 kawan dengan persentase HP terendah sebanyak ([PenanceFirst]/3)% dari tiap maks HP unit"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan diri sendiri dan 1 kawan dengan SP paling sedikit sebanyak ([PenanceFirst] - 10) SP (min 0)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Penghancur Tengkorak",
+          "desc": "[BeforeUse] Jika [RedEyeFirst] dan [PenanceFirst] berada pada 15+, aktifkan 'Penghancur Tengkorak Serius' sebagai gantinya\nJika Speed unit ini <style=\"highlight\">lebih cepat daripada target</style>, Coin Power +1\n[WhenUse] Pada maks SP, <style=\"highlight\">Clash Power +2</style> dan Coin Power +1\n- [EndSkill] Jika efek ini diaktifkan, kehilangan 15 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 7 [RedEyeFirst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 7 [PenanceFirst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">3</style> [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Peroleh 2 [PenanceFirst]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan diri sendiri dan 1 kawan dengan persentase HP terendah sebanyak ([PenanceFirst]/<style=\"highlight\">2</style>)% dari tiap maks HP unit"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan diri sendiri dan 1 kawan dengan SP paling sedikit sebanyak ([PenanceFirst] - 10) SP (min 0)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Waktu makan, Waktu Tidur",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [RedEyeFirst] (sekali per giliran)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [PenanceFirst] (sekali per giliran)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Waktu makan, Waktu Tidur",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [RedEyeFirst] (sekali per giliran)\n<style=\"highlight\">- Saat kurang dari 7 [RedEyeFirst], peroleh +tambahan 1 [RedEyeFirst]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [PenanceFirst] (sekali per giliran)\n<style=\"highlight\">- Saat kurang dari 7 [PenanceFirst], peroleh +tambahan 1 [PenanceFirst]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041005,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Penghancur Tengkorak Serius",
+          "desc": "[WhenUse] Konsumsi semua [RedEyeFirst] dan [PenanceFirst] pada diri sendiri\n- Coin Power +1 untuk setiap 5 [RedEyeFirst] dikonsumsi (maks 4)\n- Base Power +1 untuk setiap 5 [PenanceFirst] dikonsumsi (maks 4)\n[EndSkill] Kehilangan 15 SP dan peroleh [Emptiness] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri [Laceration] setara ([RedEyeFirst] dikonsumsi - 15) pada target (maks 5)"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Beri +2.5% damage untuk setiap [RedEyeFirst] dan [PenanceFirst] dikonsumsi (maks 100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan diri sendiri dan 1 kawan dengan persentase HP terendah sebanyak ([PenanceFirst] dikonsumsi / 2)% dari tiap maks HP unit\n- Pulihkan tambahan 1 kawan untuk setiap 2 Reson. tertinggi (maks 2 lebih banyak kawan)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan diri sendiri dan 1 kawan dengan SP paling sedikit sebanyak ([PenanceFirst] dikonsumsi - 10) SP\n- Pulihkan tambahan 1 kawan untuk setiap 2 Reson. tertinggi (maks 2 lebih banyak kawan)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Binding] dan 2 [Reduction] giliran berikutnya (sekali per giliran)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Penghancur Tengkorak Serius",
+          "desc": "[WhenUse] Konsumsi semua [RedEyeFirst] dan [PenanceFirst] pada diri sendiri\n- Coin Power +1 untuk setiap 5 [RedEyeFirst] dikonsumsi (maks 4)\n- Base Power +1 untuk setiap 5 [PenanceFirst] dikonsumsi (maks 4)\n[EndSkill] Kehilangan 15 SP dan peroleh [Emptiness] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri [Laceration] setara ([RedEyeFirst] dikonsumsi - 15) pada target (maks 5)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Beri <style=\"highlight\">+4%</style> damage untuk setiap [RedEyeFirst] dan [PenanceFirst] dikonsumsi (maks <style=\"highlight\">160%</style>)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan diri sendiri dan 1 kawan dengan persentase HP terendah sebanyak <style=\"highlight\">([PenanceFirst] dikonsumsi)%</style> dari tiap maks HP unit\n- Pulihkan tambahan 1 kawan untuk setiap 2 Reson. tertinggi (maks 2 lebih banyak kawan)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan diri sendiri dan 1 kawan dengan SP paling sedikit sebanyak ([PenanceFirst] dikonsumsi - <style=\"highlight\">5</style>) SP\n- Pulihkan tambahan 1 kawan untuk setiap 2 Reson. tertinggi (maks 2 lebih banyak kawan)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Binding] dan 2 [Reduction] giliran berikutnya (sekali per giliran)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Langkah Kilat",
+          "desc": "[WhenUse] Jika target memiliki 6+ [Burst], Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Langkah Kilat",
+          "desc": "[WhenUse] Jika target memiliki <style=\"highlight\">4</style>+ [Burst], Coin Power +1\n<style=\"highlight\">[WinDuel] Beri +1 [Burst] Count</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Burst] Count<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Pada 10+ Speed, Gunakan ulang Coin (sekali per Skill)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Langkah Kilat",
+          "desc": "<style=\"highlight\">Jika Speed unit ini lebih cepat daripada target sebanyak 3 atau lebih, Coin Power +1</style>\n[WhenUse] Jika target memiliki 4+ [Burst], Coin Power +1\n[WinDuel] Beri +1 [Burst] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Burst] Count<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 10+ Speed, Gunakan ulang Coin (sekali per Skill)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Seperti yang Tertulis",
+          "desc": "Jika Speed unit ini lebih cepat daripada target, beri +(perbedaan Speed x [Burst] Potency pada target)% damage (maks 50%)\n[WhenUse] Jika target memiliki 6+ [Burst], Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Pada 10+ Speed, beri +10% damage"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Seperti yang Tertulis",
+          "desc": "Jika Speed unit ini lebih cepat daripada target, beri +(perbedaan Speed x [Burst] Potency pada target)% damage (maks 50%)\n[WhenUse] Jika target memiliki <style=\"highlight\">4</style>+ [Burst], Coin Power +1\n<style=\"highlight\">[WhenUse] Peroleh 2 [Agility] giliran berikutnya (sekali per giliran)\n[WinDuel] Beri +1 [Burst] Count</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Pada 10+ Speed, beri +1 [Burst] Count</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Pada 10+ Speed, beri +<style=\"highlight\">20</style>% damage"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Seperti yang Tertulis",
+          "desc": "Jika Speed unit ini lebih cepat daripada target, beri +(perbedaan Speed x [Burst] Potency pada target)% damage (maks 50%)\n<style=\"highlight\">Jika Speed unit ini lebih cepat daripada target sebanyak 3 atau lebih, Coin Power +1</style>\n[WhenUse] Jika target memiliki 4+ [Burst], Coin Power +1\n[WhenUse] Peroleh 2 [Agility] giliran berikutnya (sekali per giliran)\n[WinDuel] Beri +1 [Burst] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 10+ Speed, beri +1 [Burst] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Pada 10+ Speed, beri +<style=\"highlight\">30</style>% damage"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Beri 1 [Burst]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Kuhujamkan Bilah Berkutuk Ini Padamu",
+          "desc": "Jika Speed unit ini lebih cepat daripada target, beri +(perbedaan Speed x [Burst] Potency pada target)% damage (maks 50%)\nJika Speed unit ini lebih cepat daripada target sebanyak 2 atau lebih, Coin Power +1\n[WhenUse] Peroleh 3 [LegStrength]\n[WinDuel] Beri +2 [Burst] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [BurstAgility]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Pada 10+ Speed, beri +30% damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 10+ Speed, Gunakan ulang Coin (sekali per Skill)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Kuhujamkan Bilah Berkutuk Ini Padamu",
+          "desc": "Jika Speed unit ini lebih cepat daripada target, beri +(perbedaan Speed x [Burst] Potency pada target)% damage (maks 50%)\nJika Speed unit ini lebih cepat daripada target, <style=\"highlight\">peroleh Coin Power berdasarkan perbedaan Speed (Coin Power +1 untuk setiap 2 perbedaan Speed; maks 2)\n[WhenUse] Jika target memiliki 15+ [Burst], Coin Power +1</style>\n[WhenUse] Peroleh 3 [LegStrength]\n[WinDuel] Beri +2 [Burst] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Burst] Count<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [BurstAgility]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Pada 10+ Speed, beri +30% damage<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 10+ Speed, Gunakan ulang Coin (sekali per Skill)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[ReUseOnSucceedAttack] Beri [BurstAgility]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Strider. Dilepaskan. Heh",
+          "desc": "[DuelCounter]\n[WhenUse] Peroleh 3 [LegStrength]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Strider. Dilepaskan. Heh",
+          "desc": "[DuelCounter]\n[WhenUse] Peroleh 3 [LegStrength]\n<style=\"highlight\">[WhenUse] Jika Speed unit ini lebih cepat daripada target, peroleh Base Power berdasarkan perbedaan Speed (Base Power +1 untuk setiap 2 perbedaan Speed; maks 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Burst] Count<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hal yang Penuh Hina",
+          "desc": "[WhenUse] Jika target memiliki [GazeRyoshu] atau [ContemptRyoshu], Clash Power +1",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [GazeRyoshu]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Hal yang Penuh Hina",
+          "desc": "[WhenUse] Jika target memiliki [GazeRyoshu] atau [ContemptRyoshu], Clash Power +1\n[WhenUse] Pada 6+ ([Laceration] + [Vibration]) pada target, Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [GazeRyoshu]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hal yang Penuh Hina",
+          "desc": "[WhenUse] Jika target memiliki [GazeRyoshu] atau [ContemptRyoshu], Clash Power +1\n[WhenUse] <style=\"highlight\">Coin Power +1 untuk setiap 6 ([Laceration] + [Vibration]) pada target (maks 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [GazeRyoshu]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Terpersonalah",
+          "desc": "[WhenUse] Jika target memiliki [GazeRyoshu] atau [ContemptRyoshu], Clash Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [GazeRyoshu]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Terpersonalah",
+          "desc": "[WhenUse] Jika target memiliki [GazeRyoshu] atau [ContemptRyoshu], Clash Power +1\n[WhenUse] Pada 6+ ([Laceration] + [Vibration]) pada target, Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [GazeRyoshu]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 3+ Count [Vibration], aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Terpersonalah",
+          "desc": "[WhenUse] Jika target memiliki [GazeRyoshu] atau [ContemptRyoshu], Clash Power +1\n[WhenUse] <style=\"highlight\">Coin Power +1 untuk setiap 6 ([Laceration] + [Vibration]) pada target (maks 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">2</style> [GazeRyoshu]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 3+ Count [Vibration], aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041203,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Kagum, Hinaan",
+          "desc": "Jika target memiliki [GazeRyoshu], Skill ini beri +2 lebih banyak [Laceration] dan [Vibration] potency\n[BeforeUse] Pada 7+ (total [GazeRyoshu] pada semua musuh), atau pada 1+ (total [ContemptRyoshu] pada semua musuh), aktifkan 'Curahan <noparse>Tatapan</noparse> yang <noparse>Terpana</noparse> di Bawah <noparse>Kehinaan</noparse>' sebagai gantinya\n[WhenUse] Pada 8+ ([Laceration] + [Vibration]) pada target, Coin Power +1\n[WhenUse] Beri +1% damage untuk setiap ([Laceration] + [Vibration]) pada target (maks 20%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Beri +5% damage untuk setiap 1 [GazeRyoshu] pada target (maks 35%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [GazeRyoshu]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Aktifkan [Switch_Vibration] menjadi [VibrationBleeding]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Kagum, Hinaan",
+          "desc": "Jika target memiliki [GazeRyoshu], Skill ini beri +2 lebih banyak [Laceration] dan [Vibration] potency<style=\"highlight\"></style>\n[BeforeUse] Pada 7+ (total [GazeRyoshu] pada semua musuh), atau pada 1+ (total [ContemptRyoshu] pada semua musuh), aktifkan 'Curahan <noparse>Tatapan</noparse> yang <noparse>Terpana</noparse> di Bawah <noparse>Kehinaan</noparse>' sebagai gantinya\n[WhenUse] <style=\"highlight\">Coin Power +1 untuk setiap 8 ([Laceration] + [Vibration]) pada target (maks 2)</style>\n[WhenUse] Beri +1% damage untuk setiap ([Laceration] + [Vibration]) pada target (maks <style=\"highlight\">40</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Beri +<style=\"highlight\">10</style>% damage untuk setiap 1 [GazeRyoshu] pada target (maks <style=\"highlight\">70</style>%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [GazeRyoshu]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Aktifkan [Switch_Vibration] menjadi [VibrationBleeding]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tuk Genggam",
+          "desc": "[StartBattle] Jika unit ini tidak punya [ContemptPersonality], dan pada 7+ (total [GazeRyoshu] pada semua musuh) atau 1+ (total [ContemptRyoshu] pada semua musuh), peroleh [ContemptPersonality] (sekali per giliran)\n[WhenUse] Jika unit ini memiliki [ContemptPersonality], Final Power +5\n[WhenUse] Ketika diserang while menggunakan Skill ini, beri +1 [Laceration] Count terhadap penyerang (3 kali per giliran)",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tuk Genggam",
+          "desc": "[StartBattle] Jika unit ini tidak punya [ContemptPersonality], dan pada 7+ (total [GazeRyoshu] pada semua musuh) atau 1+ (total [ContemptRyoshu] pada semua musuh), peroleh [ContemptPersonality] (sekali per giliran)\n[WhenUse] Jika unit ini memiliki [ContemptPersonality], Final Power +10\n[WhenUse] Ketika diserang while menggunakan Skill ini, beri +1 [Laceration] Count terhadap penyerang (3 kali per giliran)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041205,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Curahan Tatapan yang Terpana di Bawah Kehinaan",
+          "desc": "Efek eksternal tidak dapat mengaktifkan Skill ini untuk digunakan Ulang\nPrioritaskan menarget musuh dengan [GazeRyoshu] atau [ContemptRyoshu] sebagai sub-target\n- Beri -50% damage terhadap sub-target\nJika hanya ada satu target, beri +200% damage (untuk Pertempuran Terfokus, satu Bagian)\n[WhenUse] Coin Power +1 untuk setiap 4 ([Laceration] + [Vibration]) pada target utama (maks 2)\n[WhenUse] Beri +2% damage untuk setiap ([Laceration] + [Vibration]) pada target utama (maks 50%)\n[WhenUse] Beri +7% damage untuk setiap 1 (total [GazeRyoshu] pada semua target serangan) (maks 49%)\n[EndSkill] Konsumsi [GazeRyoshu] atau [ContemptRyoshu] pada semua target yang terserang",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Jika target memiliki [ContemptRyoshu], beri +180% damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration] dan +1 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration] dan +1 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [Switch_Vibration] menjadi [VibrationBleeding]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Curahan Tatapan yang Terpana di Bawah Kehinaan",
+          "desc": "Efek eksternal tidak dapat mengaktifkan Skill ini untuk digunakan Ulang\nPrioritaskan menarget musuh dengan [GazeRyoshu] atau [ContemptRyoshu] sebagai sub-target<style=\"highlight\"></style>\n- Beri -50% damage terhadap sub-target\nJika hanya ada satu target, beri +200% damage (untuk Pertempuran Terfokus, a Bagian)\n[WhenUse] Coin Power +1 untuk setiap 4 ([Laceration] + [Vibration]) pada target utama (maks <style=\"highlight\">4</style>)\n[WhenUse] Beri +2% damage untuk setiap ([Laceration] + [Vibration]) pada target utama (maks <style=\"highlight\">100</style>%)\n[WhenUse] Beri +10% damage untuk setiap 1 (total [GazeRyoshu] pada semua target serangan) (maks 70%)\n[EndSkill] Konsumsi [GazeRyoshu] atau [ContemptRyoshu] pada semua target yang terserang",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Jika target memiliki [ContemptRyoshu], beri +<style=\"highlight\">235</style>% damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Vibration] dan +2 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration] dan +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [Switch_Vibration] menjadi [VibrationBleeding]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041206,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Akan Ku Tembak / Kapanpun",
+          "desc": "[StartBattle] Prioritaskan N Corp. E.G.O::<noparse>Contempt</noparse>, Awe Ryōshū\n[StartBattle] Peroleh +1 Atk Weight untuk setiap 3 [BoseProjektil] pada diri sendiri (maks 2)\n[WhenUse] Pada 5+ [Breath], Coin Power +1\n[WhenUse] Pada 3+ Count [Breath], Base Power +1\n[WhenUse] Peroleh 1 [Breath] untuk setiap [BoseProjektil] pada diri sendiri (maks 7)\n[EndSkill] Kehilangan ([BoseProjektil] pada diri sendiri x 2) SP (maks 14)\n[EndSkill] Jika unit ini memiliki 7 [BoseProjektil] pada Awal Pertempuran, hapus semuanya dan pulihkan 20 SP pada diri sendiri",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Coin ini hanya memberi damage ke target utama"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Coin ini hanya memberi damage kepada sub-target"
+                },
+                {
+                  "desc": "- Jika Coin pertama bukan Serangan Critical, dan jika N Corp. E.G.O::<noparse>Contempt</noparse>, Awe Ryōshū masih hidup, 1 sub-target acak terima damage\n"
+                },
+                {
+                  "desc": "Beri +30% damage untuk setiap [BoseProjektil] pada diri sendiri (maks 210%)"
+                },
+                {
+                  "desc": "+2.5% Damage pada Serangan Critical untuk setiap Potency [Breath] (maks <style=\"highlight\">25%</style>)"
+                },
+                {
+                  "desc": "+7% Damage pada Serangan Critical untuk setiap [BoseProjektil] pada diri sendiri (maks 49%)"
+                },
+                {
+                  "desc": "Beri +1% damage untuk setiap 1% HP yang hilang pada target utama (maks 100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration] dan +1 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Akan Ku Tembak / Kapanpun",
+          "desc": "[StartBattle] Prioritaskan N Corp. E.G.O::<noparse>Contempt</noparse>, Awe Ryōshū\n[StartBattle] Peroleh +1 Atk Weight untuk setiap 3 [BoseProjektil] pada diri sendiri (maks 2)\n[WhenUse] <style=\"highlight\">Coin Power +1 untuk setiap 5 [Breath] pada diri sendiri (maks 2)</style>\n[WhenUse] <style=\"highlight\">Base Power +1 untuk setiap 3 Count [Breath] pada diri sendiri (maks 2)</style>\n[WhenUse] Peroleh 1 [Breath] untuk setiap [BoseProjektil] pada diri sendiri (maks 7)\n[EndSkill] Kehilangan ([BoseProjektil] pada diri sendiri x 2) SP (maks 14)\n[EndSkill] Jika unit ini memiliki 7 [BoseProjektil] pada Awal Pertempuran, hapus semuanya dan pulihkan 20 SP pada diri sendiri",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Coin ini hanya memberi damage ke target utama"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Coin ini hanya memberi damage kepada sub-target"
+                },
+                {
+                  "desc": "- Jika Coin pertama bukan Serangan Critical, dan jika N Corp. E.G.O::<noparse>Contempt</noparse>, Awe Ryōshū masih hidup, 1 sub-target acak terima damage\n"
+                },
+                {
+                  "desc": "Beri +<style=\"highlight\">40</style>% damage untuk setiap [BoseProjektil] pada diri sendiri (maks <style=\"highlight\">280</style>%)"
+                },
+                {
+                  "desc": "+<style=\"highlight\">5</style>% Damage pada Serangan Critical untuk setiap Potency [Breath] (maks <style=\"highlight\">50</style>%)"
+                },
+                {
+                  "desc": "+<style=\"highlight\">10</style>% Damage pada Serangan Critical untuk setiap [BoseProjektil] pada diri sendiri (maks <style=\"highlight\">70</style>%)"
+                },
+                {
+                  "desc": "Beri +1% damage untuk setiap 1% HP yang hilang pada target utama (maks 100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration] dan +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hey, Mundur",
+          "desc": "[WhenUse] Peroleh +1 Count [Breath]\n[OnDirectAttack] Beri +1 [Burst] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Hey, Mundur",
+          "desc": "<style=\"highlight\">[WhenUse] Pada 6+ ([Breath] pada diri sendiri + [Burst] pada target), Coin Power +1</style>\n[WhenUse] Peroleh +1 Count [Breath]\n[OnDirectAttack] Beri +1 [Burst] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">2</style> [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hey, Mundur",
+          "desc": "<style=\"highlight\">[WhenUse] Coin Power +1 untuk setiap 6 ([Breath] pada diri sendiri + [Burst] pada target) (maks 2)</style>\n[WhenUse] Peroleh +1 Count [Breath]\n[OnDirectAttack] Beri +1 [Burst] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">+20% Damage pada Serangan Critical</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[CriticalOnSucceedAttack] Beri 1 [Burst]</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Terukir pada Daging dan Tulang [銘肌鏤骨]",
+          "desc": "[WhenUse] Peroleh +2 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh [Breath] setara (([Burst] pada target / 5) + 1) (maks 6; dibulatkan ke bawah)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Terukir pada Daging dan Tulang [銘肌鏤骨]",
+          "desc": "<style=\"highlight\">[WhenUse] Pada 6+ ([Breath] pada diri sendiri + [Burst] pada target), Coin Power +1</style>\n[WhenUse] Peroleh +2 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">+2</style> [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh [Breath] setara (([Burst] pada target / 5) + 1) (maks 6; dibulatkan ke bawah)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Terukir pada Daging dan Tulang [銘肌鏤骨]",
+          "desc": "<style=\"highlight\">[WhenUse] Coin Power +1 untuk setiap 6 ([Breath] pada diri sendiri + [Burst] pada target) (maks 2)</style>\n[WhenUse] Peroleh +2 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh [Breath] setara (([Burst] pada target / 5) + <style=\"highlight\">2</style>) (maks 6; dibulatkan ke bawah)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">+20% Damage pada Serangan Critical</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041303,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Serangan Pendukung [加斥我援]",
+          "desc": "[WhenUse] Peroleh 2 [ProtectStanceRyoshu]\n[WhenUse] Jika target memiliki 3+ efek negatif yang berbeda, Final Power +1\n[WhenUse] Pada 6+ ([Breath] pada diri sendiri + [Burst] pada target), Coin Power +1\n[WhenUse] Peroleh +3 Count [Breath]\n[WhenUse] Peroleh 3 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Burst]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Burst]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnStartCoin] Beri +2% damage pada Serangan Critical untuk setiap ([Breath] pada diri sendiri + [Burst] pada target) (maks 100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Serangan Pendukung [加斥我援]",
+          "desc": "[WhenUse] Peroleh 2 [ProtectStanceRyoshu]\n[WhenUse] Jika target memiliki 3+ efek negatif yang berbeda, Final Power +1\n<style=\"highlight\">[WhenUse] Coin Power +1 untuk setiap 6 ([Breath] pada diri sendiri + [Burst] pada target) (maks 2)</style>\n[WhenUse] Peroleh +3 Count [Breath]\n[WhenUse] Peroleh 3 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnStartCoin] Beri +2% damage pada Serangan Critical untuk setiap ([Breath] pada diri sendiri + [Burst] pada target) <style=\"highlight\">(maks 120%)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sentinel",
+          "desc": "[CanDuelGuard]\n[StartBattle] Peroleh 2 [ProtectStanceRyoshu]\n[WhenUse] Skill ini memperoleh +1 Defense Level untuk setiap 10% HP unit ini yang hilang di Pertempuran ini (maks 6; berdasarkan maks HP pada waktu aktivasi)\n[WinDuel] Peroleh [Breath] sebanyak [Burst] pada target (maks 5; sekali per giliran)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Sentinel",
+          "desc": "[CanDuelGuard]\n[StartBattle] Peroleh 2 [ProtectStanceRyoshu]\n[WhenUse] Skill ini memperoleh +1 Defense Level untuk setiap 10% HP unit ini yang hilang di Pertempuran ini (maks 6; berdasarkan maks HP pada waktu aktivasi)\n[WinDuel] Peroleh [Breath] sebanyak [Burst] pada target (maks 5; sekali per giliran)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dor. Dor.",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Habiskan 1 [BulletGodok]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Habiskan 1 [BulletGodok]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Dor. Dor.",
+          "desc": "[WhenUse] Jika target memiliki 6+ ([Vibration] + [Sinking]), Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Habiskan 1 [BulletGodok]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Habiskan 1 [BulletGodok]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Dor. Dor.",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 6 ([Vibration] + [Sinking]) pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Habiskan 1 [BulletGodok]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Habiskan 1 [BulletGodok]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Keharuman Mekar dalam Kehampaan",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Habiskan 1 [BulletGodok]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Keharuman Mekar dalam Kehampaan",
+          "desc": "[WhenUse] Jika target memiliki 6+ ([Vibration] + [Sinking]), Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Habiskan 1 [BulletGodok]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Keharuman Mekar dalam Kehampaan",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 6 ([Vibration] + [Sinking]) pada target (maks 2)\n[WhenUse] Beri +1% damage untuk setiap [AlriuneEGOThey] pada target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Habiskan 1 [BulletGodok]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041403,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Mekar Penuh",
+          "desc": "[WhenUse] Jika target memiliki 6+ ([Vibration] + [Sinking]), Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Mekar Penuh",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 6 ([Vibration] + [Sinking]) pada target (maks 2)\n[WhenUse] Beri +1% damage untuk setiap [AlriuneEGOThey] pada target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri Gloom damage setara [Sinking] pada target"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "A.W.A.S.",
+          "desc": "[EndBattle] Peroleh 10 [AlriuneEGOWe] (sekali per giliran)\n[EndBattle] Peroleh 2 [Vulnerable] dan 2 [Enhancement] giliran berikutnya (sekali per giliran)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "A.W.A.S.",
+          "desc": "[EndBattle] Peroleh 10 [AlriuneEGOWe] (sekali per giliran)\n[EndBattle] Peroleh 2 [Vulnerable] dan 2 [Enhancement] giliran berikutnya (sekali per giliran)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kisak yang Tak Pernah Hilang",
+          "desc": "[CantDuel]\n[WideAreaRampage]\nKetika Skill ini beri [GodokPanicType], jika target sudah memiliki [GodokPanicType] giliran ini, atau akan diberi [GodokPanicType] giliran berikutnya, aktifkan [VibrationExplosion] sebagai gantinya; lalu, kurangi Count [Vibration] target sebanyak 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [GodokPanicType] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [GodokPanicType] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [GodokPanicType] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041406,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Akhir yang Luar Biasa",
+          "desc": "[CantDuel]\nEfek eksternal tidak dapat mengaktifkan Skill ini untuk digunakan Ulang\nBeri +30% damage untuk setiap Atk Weight berlebih dari jumlah target aslinya (di Pertempuran Terfokus, Bagian)\n[WhenUse] Final Power +1 untuk setiap 5 (total [AlriuneEGOThey] pada semua target) (maks 6)\n\n[EndSkill] Kehilangan semua [AlriuneEGOWe] pada diri sendiri",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [AlriuneEGOThey]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri Gloom damage setara [Sinking] pada target"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tripleslash [三連]",
+          "desc": "[WhenUse] Peroleh +2 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri +1 [Combustion] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [PhantomIncisionID]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [PhantomIncisionID] setara dengan [SojiRyoshuEchoPast] pada diri sendiri (maks 4)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 2 [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri Slash damage setara dengan ([SojiRyoshuEchoPast] x 2)% dari final damage Coin ini"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Tripleslash [三連]",
+          "desc": "<style=\"highlight\">[WhenUse] Pada 6+ [Breath], Coin Power +1</style>\n[WhenUse] Peroleh +<style=\"highlight\">3</style> Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri +2 [Laceration] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri +1 [Combustion] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [PhantomIncisionID]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [PhantomIncisionID] setara dengan [SojiRyoshuEchoPast] pada diri sendiri (maks 4)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri Slash damage setara dengan ([SojiRyoshuEchoPast] x 2)% dari final damage Coin ini<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tripleslash [三連]",
+          "desc": "[WhenUse] Pada 6+ [Breath], Coin Power +1\n<style=\"highlight\">[WhenUse] Final Power +1 untuk setiap 6 ([Combustion] + [Laceration]) pada target (maks 2)</style>\n[WhenUse] Peroleh +3 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri +2 [Laceration] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri +1 [Combustion] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [PhantomIncisionID]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [PhantomIncisionID] setara dengan [SojiRyoshuEchoPast] pada diri sendiri (maks 4)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri Slash damage setara dengan ([SojiRyoshuEchoPast] x 2)% dari final damage Coin ini<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tripleslash - Robekan Gema [三連 - 殘]",
+          "desc": "[WhenUse] Peroleh +2 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Combustion]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Combustion]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 2 [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri Slash damage setara dengan ([SojiRyoshuEchoPast] x 3)% dari final damage Coin ini"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "Tripleslash - Robekan Gema [三連 - 殘]",
+          "desc": "<style=\"highlight\">[WhenUse] Pada 6+ [Breath], Coin Power +1</style>\n[WhenUse] Peroleh +<style=\"highlight\">3</style> Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri Slash damage setara dengan ([SojiRyoshuEchoPast] x 3)% dari final damage Coin ini<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tripleslash - Robekan Gema [三連 - 殘]",
+          "desc": "[WhenUse] Pada 6+ [Breath], Coin Power +1\n<style=\"highlight\">[WhenUse] Final Power +1 untuk setiap 6 ([Combustion] + [Laceration]) pada target (maks 2)</style>\n[WhenUse] Peroleh +3 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [Breath]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 1 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 2 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri Slash damage setara dengan ([SojiRyoshuEchoPast] x 3)% dari final damage Coin ini<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Belokan Ruang [空間斬]",
+          "desc": "[WhenUse] Final Power +1 untuk setiap 4 [Breath] pada diri sendiri (maks 5)\n[WhenUse] Beri +5% damage untuk setiap [SojiRyoshuEchoPast] pada diri sendiri\n[WhenUse] Peroleh 5 [Breath]\n[WhenUse] Peroleh +1 Atk Weight untuk setiap 2 [SojiRyoshuEchoPast] pada diri sendiri (maks 2)\n[WhenUse] Beri +15% damage untuk setiap Atk Weight berlebih dari jumlah # target seharusnya (dalam Pertempuran Terfokus, Bagian)\n[EndSkill] Secara acak beri ([SojiRyoshuEchoPast] pada diri sendiri + 10) [PhantomIncisionID] diantara target yang terserang oleh Skill ini",
+          "flavor": "\"Jalan Pedang, ya? Yah, berpegang teguh pada satu jalan seperti orang bodoh berpikiran sempit pada akhirnya bakal membuatmu bisa menebas hal-hal seperti ruang juga. Oh, tapi jangan besar kepala—itu cuma membuat ruang yang terbelah berkilauan sebentar seperti fatamorgana di tengah cuaca panas. Berikan sedikit waktu, dan tebasannya akan menutup seolah-olah tidak pernah ada sejak awal.\"",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Beri +30% damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Combustion]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Aktifkan [Combustion] pada target. Target kehilangan [Combustion] Count"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Aktifkan [Laceration] pada target. Target kehilangan [Laceration] Count"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri Slash damage setara dengan ([SojiRyoshuEchoPast] x 3)% dari final damage Coin ini"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Belokan Ruang [空間斬]",
+          "desc": "[WhenUse] Final Power +1 untuk setiap 4 [Breath] pada diri sendiri (maks 5)\n<style=\"highlight\">[WhenUse] Base Power +1 untuk setiap 6 ([Combustion] + [Laceration]) pada target utama (maks 5)</style>\n[WhenUse] Beri +5% damage untuk setiap [SojiRyoshuEchoPast] pada diri sendiri\n[WhenUse] Peroleh 5 [Breath]\n[WhenUse] Peroleh +1 Atk Weight untuk setiap 2 [SojiRyoshuEchoPast] pada diri sendiri (maks 2)\n[WhenUse] Beri <style=\"highlight\">+30%</style> damage untuk setiap Atk Weight berlebih dari jumlah # target seharusnya (dalam Pertempuran Terfokus, Bagian Tubuh)\n[EndSkill] Secara acak beri ([SojiRyoshuEchoPast] pada diri sendiri + 10) [PhantomIncisionID] diantara target yang terserang oleh Skill ini",
+          "flavor": "\"Jalan Pedang, ya? Yah, berpegang teguh pada satu jalan seperti orang bodoh berpikiran sempit pada akhirnya bakal membuatmu bisa menebas hal-hal seperti ruang juga. Oh, tapi jangan besar kepala—itu cuma membuat ruang yang terbelah berkilauan sebentar seperti fatamorgana di tengah cuaca panas. Berikan sedikit waktu, dan tebasannya akan menutup seolah-olah tidak pernah ada sejak awal.\"",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Beri <style=\"highlight\">+50%</style> damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Aktifkan [Combustion] pada target. Target kehilangan [Combustion] Count<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Aktifkan [Laceration] pada target. Target kehilangan [Laceration] Count<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri Slash damage setara dengan ([SojiRyoshuEchoPast] x <style=\"highlight\">4</style>)% dari final damage Coin ini"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Langkah Bayangan [殘像步]",
+          "desc": "[StartBattle] Target 1 kawan House of Spiders dengan urutan Deployment terakhir (2 kali per giliran)\n- Pada 1+ [SojiRyoshuEntangle], target 1 kawan tambahan\n- Pada Akhir Skill dari semua Skill yang digunakan target giliran ini, atau jika target kena Stagger, atau jika target tidak memiliki Skill untuk digunakan, gunakan \"Slay the Heavens - Tiansha\" terhadap target sebagai Serangan Tanpa Lawan (sekali per Identitas)\n - Prioritaskan The House of Spiders: Murid The Pinky Sinclair terakhir\n[StartBattle] Peroleh +3 Count [Breath] (sekali per giliran)",
+          "flavor": "\"Apa yang kau incar adalah bayanganku.\"",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Langkah Bayangan [殘像步]",
+          "desc": "[StartBattle] Target 1 kawan House of Spiders dengan urutan Deployment terakhir (2 kali per giliran)\n- Pada 1+ [SojiRyoshuEntangle], target 1 kawan tambahan\n- Pada Akhir Skill dari semua Skill yang digunakan target giliran ini, atau jika target kena Stagger, atau jika target tidak memiliki Skill untuk digunakan, gunakan \"Slay the Heavens - Tiansha\" terhadap target sebagai Serangan Tanpa Lawan (sekali per Identitas)\n - Prioritaskan The House of Spiders: Murid The Pinky Sinclair terakhir\n[StartBattle] Peroleh +3 Count [Breath] (sekali per giliran)\n<style=\"highlight\">[OnSucceedEvade] Peroleh 1 [Breath] (3 kali per giliran)</style>",
+          "flavor": "\"Apa yang kau incar adalah bayanganku.\"",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Slay the Heavens - Tiansha [天殺]",
+          "desc": "[CantDuel]\nSkill ini tidak mengaktifkan Skill Defense, dan efek eksternal tidak bisa mengulang Skill ini\nNonaktifkan \"Faktor Dasar pengurang Sanity\" kawan ketika menggunakan Skill ini\n[WhenUse] Untuk Pertempuran ini, kehilangan 1 Offense Level dan peroleh Base Power +1 untuk Serangan unit ini (4 kali per Pertempuran)\n[TargetKill] Pulihkan 20 SP\n[TargetKill] Peroleh [RyoshuEGOPF] setara dengan damage yang diberikan oleh Skill ini",
+          "flavor": "\"*Cih* Bagaimana lagi bunyinya pepatahnya? Bahwa kau harus menghormati orang tuamu seperti kau menghormati surga itu sendiri?\"",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 20 [PhantomIncisionID]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target adalah kawan House of Spiders, beri 120% HP damage sebagai damage tetap"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Terminasi Tak Terhindarkan [必然殺]",
+          "desc": "[CantDuel]\nSkill ini tidak mengaktifkan Skill Defense, dan efek eksternal tidak bisa mengulang Skill ini\n[WhenUse] Peroleh +1 Count [Breath]\n[BeforeAttack] Jika Skill ini diaktifkan oleh Skill 3,\n- Beri Skill ini's Atk Weight setara dengan jumlah dari musuh yang memiliki [SojiRyoshuEchoFuture] (min 1)\n- Prioritaskan musuh yang memiliki [SojiRyoshuEchoFuture]\n[EndSkill] [SojiRyoshuEchoFuture] target kadaluarsa",
+          "flavor": "\"Oho... Sungguh cara yang cerdik untuk menggunakan Pedang Dihui Star, pedang yang selalu meninggalkan suatu jejak yang tertinggal dalam lintasannya. Serangan yang mustahil untuk dihindari memang terasa agak murahan, tapi... hah! Harus kuakui, aku menyukai pedang itu!\"",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Beri +30% damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [PhantomIncisionID]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [PhantomIncisionID] setara dengan [SojiRyoshuEchoPast] pada diri sendiri (maks 4)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [Combustion] pada target. Target kehilangan [Combustion] Count"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 1 [SlashTakeDamageUp]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041507,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Belokan Ruang - Robekan Gema [空間斬 - 殘]",
+          "desc": "[WhenUse] Untuk setiap [SojiRyoshuEntangle] pada diri sendiri, Skill ini kehilangan Base Power dan peroleh ekstra Coin 1 sebelum menggunakan Coin 2\n[WhenUse] Coin terakhir peroleh Coin Power +1 untuk setiap [SojiRyoshuEchoPast] pada diri sendiri\n[WhenUse] Beri +50% damage untuk setiap Atk Weight berlebih dari jumlah # target seharusnya (dalam Pertempuran Terfokus, Bagian Tubuh)\n[EndSkill] Naikkan naikkan batas Min & Maks [SojiRyoshuEchoPast] sebanyak 1 dan reset [SojiRyoshuEchoPast] pada diri sendiri ke Stack minimum (maks 2 kali per Pertempuran)\n[EndSkill] Konsumsi 50 [PhantomIncisionTotalID]",
+          "flavor": "\"Hal demikian... sungguh membuka sebuah jalan baru yang tak terduga, dalam ranah teknik perobek ruang yang hampa ini.\"\n\"Kau sudah dengar? Seseorang mungkin mengira bahwa merobek jalinan ruang adalah batas akhir dari Jalan Pedang, tapi ternyata jalurnya masih membentang jauh melampaui itu. Jika kita terus berlatih dengan sungguh-sungguh, kita akan mengembangkan gaya unik kita sendiri. Hal itu menambahkan lapisan keindahan sekaligus memberikan sentuhan yang tidak biasa pada teknik universal tersebut—membiarkan robekannya bertahan lama, atau justru menyusut dalam sekejap mata.\"\n\"Ini adalah sesuatu yang menjadi kebanggaan tersendiri bagi mereka yang berjalan di Jalan Pedang, sehingga tidak heran jika hal ini sering kali memicu perdebatan di antara mereka~ Hehe, ini mengingatkanku pada masa-masa indah saat aku biasa terlibat dalam diskusi penuh gairah bersama para Maestro lainnya.\"",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +1 Count [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Beri +30% damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Konsumsi semua [PhantomIncisionID] pada target dan beri Slash damage setara dengan ([PhantomIncisionID] dikonsumsi / 10)% dari final damage Coin ini"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri Slash damage setara dengan ([SojiRyoshuEchoPast] x 4)% dari final damage Coin ini"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Aktifkan [Combustion] pada target. Target kehilangan [Combustion] Count"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Aktifkan [Laceration] pada target. Target kehilangan [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 1041508,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Belokan Ruang - Koneksi Benang [空間斬 - 緣]",
+          "desc": "[CantDuel]\nSkill ini tidak mengaktifkan Skill Defense target\n[WhenUse] Peroleh 5 [Breath]\n[WhenUse] Peroleh [SojiRyoshuShin]\n[EndSkill] Hilangan Batas Stagger pertama unit ini (sekali per Pertempuran)",
+          "flavor": "\"Terbujur kaku... dan tak lagi mampu bergerak, begitulah musuh terperangkap di dalam jejak yang telah dirobek oleh bilah pedang di ruang hampa ini.\"\n\"Kemahiran pedang seperti itu sering kali memiliki ketajaman yang mutlak, hingga korbannya sendiri tidak menyadari bahwa mereka telah tebas; atau bahkan jika mereka menyadarinya, mereka akan tertahan oleh jejak bilah pedang yang telah mencengkeram ruang yang mereka tempati, dan baru bersimbah darah setelah momen itu berlalu.\"\n\"Namun... perbedaannya terletak pada bagaimana bilah itu memotong.\"\n\"Bilah pedang itu memang hanya menorehkan satu jejak tebasan, tetapi saat menyarungkannya kembali, sang pengguna telah membayangkan di dalam benak mereka jalinan tebasan berlapis yang mengikuti jalur yang sama—sebuah teknik yang teramat presisi.\"\n\"Hm. Sering kali aku menjumpai teknik-teknik seperti tebasan itu pada hari-hari setelah insiden tersebut, teknik yang tampaknya menyalahi kodrat dari hukum kausalitas itu sendiri.\"",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [Combustion] pada target. Target kehilangan [Combustion] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

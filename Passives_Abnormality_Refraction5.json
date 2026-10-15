@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": 863001,
+      "name": "Melee Combat",
+      "desc": "Jika Speed unit ini lebih cepat daripada target, beri +10% damage untuk setiap perbedaan Speed (maks 30%)\nJika Speed unit ini is slower than target's beri -10% damage untuk setiap perbedaan Speed (maks 30%)"
+    },
+    {
+      "id": 863002,
+      "name": "Charge Forth",
+      "desc": "Naikkan Min & Maks Speed values sebanyak 1 untuk setiap 5 [Breath] pada diri sendiri (maks 4)"
+    },
+    {
+      "id": 863003,
+      "name": "Summon Target",
+      "desc": "Pada 75%- HP, peroleh pola baru\nKetika memperoleh pola baru, summon G Corp. Head Manager dan Downcast Veteran; lalu, beri Stigmatized pada target dengan HP terendah\n- Change Min & Maks Speed values pada diri sendiri menjadi 1.\n- Peroleh 300 Perisai HP."
+    },
+    {
+      "id": 863004,
+      "name": "Designate Target",
+      "desc": "Ketika memakai Designated Target Fire atau Target Readjustment Fire: di antara target dengan Speed paling lambat, beri [FellBulletMark] terhadap target dengan HP terendah"
+    },
+    {
+      "id": 863201,
+      "name": "Oxygen Supply",
+      "desc": "Pada the first Awal Giliran of the giliran Sleeping Bag of a Bygone Day appeared, it peroleh 10 Potency [Breath] dan +10 Count [Breath]\n\nAkhir Giliran: saat kurang dari 10 Potency [Breath] atau Count [Breath], konsumsi HP dari Bagian \"Kepala\" setara dengan 2% dari \"Inti\"'s maks HP untuk peroleh 5 [Breath] dan +5 Count [Breath] (tidak dapat be Bagian broken atau dikalahkan karena efek ini)"
+    },
+    {
+      "id": 863202,
+      "name": "Nafas Dalam",
+      "desc": "Multiply Critical Chance dari [Breath] efek sebanyak x 1.5\n\nSaat Crit:\n- Pada 15+ Potency [Breath], konsumsi hingga (Potency [Breath] pada diri sendiri / 5) Potency [Breath] untuk beri +(Potency [Breath] yang dikonsumsi x 4)% damage on Crit\n- Pada 15+ Count [Breath], konsumsi up t (Count [Breath] pada diri sendiri / 5) Count [Breath] untuk beri +(Count [Breath] yang dikonsumsi x 8)% damage on Crit"
+    },
+    {
+      "id": 863203,
+      "name": "Oxygen-saturated",
+      "desc": "Pada giliran unit ini menggunakan 'That's... Mine!', fix its Speed menjadi 1. Pada Awal Giliran, beri 6 Potency [Breath] dan +6 Count [Breath] ke semua unit present on the Stage.\n\nPada the end of the same giliran, konsumsi any excess Potency [Breath] dan Count [Breath] past 5 Potency dan 5 Count; lalu, pada Awal Giliran berikutnya, beri the same jumlah dari Potency [Breath] dan Count [Breath] yang dikonsumsi to Bagian \"Kepala\""
+    },
+    {
+      "id": 863204,
+      "name": "Shattered Ribcage",
+      "desc": "Ketika Bagian \"Tubuh\" rusak, hilangkan Bagian \"Tubuh\" giliran berikutnya dan gantikan it dengan a Person Bagian"
+    },
+    {
+      "id": 863205,
+      "name": "Ribcage Regeneration",
+      "desc": "Pada Akhir Pertempuran, halve the Potency [Breath] dan Count [Breath] on the Person Bagian\nNext Giliran, the Person Bagian disappears dan is replaced sebanyak Body Bagian"
+    },
+    {
+      "id": 863206,
+      "name": "Excruciating Suffering",
+      "desc": "Every time unit ini kalah Clash dan menerima a hit, kehilangan 1 Potency [Breath]\n\nSetiap kali unit ini diserang sebanyak Serangan Tanpa Lawan, kehilangan 1 Count [Breath]\n\nUnit ini's Potency [Breath] dan Count [Breath], tidak peduli dengan whether attack hit Critically atau whether its Passive diaktifkan, tidak turun di bawah 5"
+    },
+    {
+      "id": 863207,
+      "name": "Anguished Screaming",
+      "desc": "Pada 40% atau kurang \"Inti\" HP, gunakan 'Share the Pain' giliran berikutnya"
+    },
+    {
+      "id": 863208,
+      "name": "Setelah Efek",
+      "desc": "Ketika the Person mati, both \"Tubuh\" dan the Head Parts peroleh +0.2 Resistance to Slash, Pierce, dan Blunt hingga giliran berikutnya (sekali per Pertempuran)"
+    },
+    {
+      "id": 863301,
+      "name": "Indulgent Petals",
+      "desc": "Akhir Giliran: at 20+ [BloodDinner], konsumsi hingga 50 [BloodDinner] dan pulihkan \"Inti\" dan the Head Parts setara dengan [BloodDinner] yang dikonsumsi\n- Tidak aktif jika Bagian \"Kepala\" is either Stagger atau Destroyed"
+    },
+    {
+      "id": 863302,
+      "name": "A Drop of Nourishment",
+      "desc": "Akhir Serangan: Pulihkan \"Inti\" dan Bagian setara dengan jumlah dari damage Skill Attack unit ini dealt\n- Tidak aktif jika Bagian \"Kepala\" is either Stagger atau Destroyed"
+    },
+    {
+      "id": 863303,
+      "name": "Yearning",
+      "desc": "Akhir Giliran: jika unit ini healed HP, peroleh 1 [AttackUp] dan 1 [DefenseDown] giliran berikutnya untuk setiap 10 HP healed (maks 10)"
+    },
+    {
+      "id": 863304,
+      "name": "Bloodthirsty Stench",
+      "desc": "Pada 100+ [BloodDinner], gunakan a special Skill\nAkhir Giliran: at 500+ [BloodDinner_Accumulation] sebanyak unit ini, atau jika unit ini kurang dari 60% HP, peroleh pola baru"
+    },
+    {
+      "id": 863305,
+      "name": "Refracted Sin",
+      "desc": "[Combustion], [Laceration], [Vibration], [Burst], dan [Sinking] Potency hanya stacks hingga 50 (termasuk the Unique variations of di atas Keywords)"
+    },
+    {
+      "id": 863306,
+      "name": "Sharp Thorn",
+      "desc": "Jika Bagian Tubuh unit ini menerima damage dari an Skill musuh, beri +1 [Laceration] Count pada penyerang (sekali per giliran per Identitas)"
+    },
+    {
+      "id": 863307,
+      "name": "Endless Thirst",
+      "desc": "Awal Giliran: peroleh 1 [DefenseDown] untuk setiap 100 [BloodDinner_Accumulation] sebanyak unit ini (maks 10)\nAwal Giliran: peroleh 1 [TakeHpHealIncrease] untuk setiap 200 [BloodDinner_Accumulation] sebanyak unit ini (maks 5)"
+    },
+    {
+      "id": 863308,
+      "name": "Endless Yearning",
+      "desc": "Triggers a Choice Event setiap 'multiple of 3' giliran."
+    },
+    {
+      "id": 863309,
+      "name": "Increased Refraction Rate",
+      "desc": "Jika 9 giliran have passed since unit ini appeared di medan tempur, starting giliran berikutnya, peroleh 1 [AttackUp] setiap giliran past the 10th giliran (maks 10)"
+    },
+    {
+      "id": 863101,
+      "name": "Designated Execution",
+      "desc": "Ketika killed sebanyak Der Fluchschütze, beri 1 [Agility], 1 [Enhancement], dan 2 [AttackDmgUp] giliran berikutnya to Der Fluchschütze"
+    },
+    {
+      "id": 863102,
+      "name": "First Strike Wins",
+      "desc": "Ketika killed sebanyak a Pendosa, beri 3 E.G.O resource in the affinity of Skill that killed unit ini"
+    },
+    {
+      "id": 863103,
+      "name": "Not Me",
+      "desc": "Jika unit ini doesn't have Stigmatized at Awal Pertempuran, peroleh 300 Perisai."
+    }
+  ]
+}

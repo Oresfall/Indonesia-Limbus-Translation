@@ -1,0 +1,340 @@
+{
+  "dataList": [
+    {
+      "id": "MAINSTORY",
+      "content": "Cerita Utama"
+    },
+    {
+      "id": "PERSONALITYSTORY",
+      "content": "Arsip Identitas"
+    },
+    {
+      "id": "NOTE_OF_DANTE",
+      "content": "Catatan Dante"
+    },
+    {
+      "id": "EPISODE",
+      "content": "Ep. {0}"
+    },
+    {
+      "id": "PAGE",
+      "content": "Hlm. {0}"
+    },
+    {
+      "id": "PROGRESS",
+      "content": "Progres"
+    },
+    {
+      "id": "Before",
+      "content": "Pra-pertempuran"
+    },
+    {
+      "id": "After",
+      "content": "Pasca-pertempuran"
+    },
+    {
+      "id": "None",
+      "content": ""
+    },
+    {
+      "id": "ENTER",
+      "content": "Masuk"
+    },
+    {
+      "id": "CLOSE",
+      "content": "Tutup"
+    },
+    {
+      "id": "MIRRORWOLDS",
+      "content": "Mirror Worlds"
+    },
+    {
+      "id": "STORY",
+      "content": "Cerita"
+    },
+    {
+      "id": "SECURITY_MATERIAL",
+      "content": "Log Terklasifikasi"
+    },
+    {
+      "id": "SPEECH",
+      "content": "Dialog"
+    },
+    {
+      "id": "OPEN_CONDITION",
+      "content": "Syarat Buka: "
+    },
+    {
+      "id": "DEEP_ANALYSIS",
+      "content": "Analisis Mendalam: "
+    },
+    {
+      "id": "DATA_DOWNLOAD",
+      "content": "Download Data"
+    },
+    {
+      "id": "DATA_DOWNLOAD_DESC",
+      "content": "Putar file suara untuk dialog bervokal?\nData tambahan akan diunduh."
+    },
+    {
+      "id": "DATA_DOWNLOAD_NO",
+      "content": "Tanpa Suara\n(0,00 MB)"
+    },
+    {
+      "id": "DATA_DOWNLOAD_YES",
+      "content": "Bersuara\n({0} MB)"
+    },
+    {
+      "id": "CV_1",
+      "content": "Min Seung-woo"
+    },
+    {
+      "id": "CV_2",
+      "content": "Park Ji-yoon"
+    },
+    {
+      "id": "CV_3",
+      "content": "Kim Yea-lim"
+    },
+    {
+      "id": "CV_4",
+      "content": "Yi Sae-ah"
+    },
+    {
+      "id": "CV_5",
+      "content": "Kwon Sung-hyuk"
+    },
+    {
+      "id": "CV_6",
+      "content": "Kim Sin-woo"
+    },
+    {
+      "id": "CV_7",
+      "content": "Hong Seung-hyo"
+    },
+    {
+      "id": "CV_8",
+      "content": "Jang Ye-na"
+    },
+    {
+      "id": "CV_9",
+      "content": "Yoon A-young"
+    },
+    {
+      "id": "CV_10",
+      "content": "Kim Da-ol"
+    },
+    {
+      "id": "CV_11",
+      "content": "Kim Bo-na"
+    },
+    {
+      "id": "CV_12",
+      "content": "Choi Han"
+    },
+    {
+      "id": "gacksung",
+      "content": "Uptie"
+    },
+    {
+      "id": "EnterStoryPopupDesc",
+      "content": "Apakah anda ingin masuk ke\n{0}?"
+    },
+    {
+      "id": "No",
+      "content": "Batal"
+    },
+    {
+      "id": "DetailStoryDungeon",
+      "content": "Di Dalam Story Dungeon"
+    },
+    {
+      "id": "NeedsPersonality",
+      "content": "Butuh Identity"
+    },
+    {
+      "id": "NeedsPersonalityButton",
+      "content": "Lihat Persyaratan"
+    },
+    {
+      "id": "MainStoryOpenCondition_101",
+      "content": "Selesaikan 1-1"
+    },
+    {
+      "id": "MainStoryOpenCondition_102",
+      "content": "Selesaikan 2-1"
+    },
+    {
+      "id": "MainStoryOpenCondition_103",
+      "content": "Selesaikan 3-1"
+    },
+    {
+      "id": "PersonalityStory_OpenCodition",
+      "content": "Terbuka pada Uptie Tier {0}"
+    },
+    {
+      "id": "OTHERSTORY",
+      "content": "Kisah Sampingan"
+    },
+    {
+      "id": "DanteNote_Record",
+      "content": "Rekaman"
+    },
+    {
+      "id": "DanteNote_Time",
+      "content": "Waktu"
+    },
+    {
+      "id": "DanteNote_Update",
+      "content": "Update"
+    },
+    {
+      "id": "DanteNote_Main",
+      "content": "Saya tidak tahu harus memulai dari mana.\nRasanya ini wajar, mengingat saya sendiri tidak tahu seberapa banyak hal yang telah saya lupakan.\nMungkin saya akan mulai dengan membuat catatan setiap kali menemukan hal-hal yang tidak saya ingat."
+    },
+    {
+      "id": "MINI",
+      "content": "Mini"
+    },
+    {
+      "id": "DetailStoryMini",
+      "content": "Episode Mini"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9103",
+      "content": "Selesaikan 3.5-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9010",
+      "content": "Selesaikan 3.5-9"
+    },
+    {
+      "id": "MainStoryOpenCondition_104",
+      "content": "Selesaikan 4-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9104",
+      "content": "Selesaikan 4.5-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9011",
+      "content": "Selesaikan 4.5-11"
+    },
+    {
+      "id": "MainStoryOpenCondition_105",
+      "content": "Selesaikan 5-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9012",
+      "content": "Selesaikan 5-36"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9105",
+      "content": "Selesaikan 5.5-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9013",
+      "content": "Selesaikan 5.5-12"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9014",
+      "content": "Selesaikan 5.5-12"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9107",
+      "content": "Selesaikan 5.5-13"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9015",
+      "content": "Selesaikan 5.5-24"
+    },
+    {
+      "id": "MainStoryOpenCondition_106",
+      "content": "Selesaikan 6-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9016",
+      "content": "Selesaikan 6-48"
+    },
+    {
+      "id": "theStoryOf",
+      "content": "Kisah "
+    },
+    {
+      "id": "OtherStoryOpenCondition_9109",
+      "content": "Selesaikan 6.5-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9017",
+      "content": "Selesaikan 6-48"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9110",
+      "content": "Selesaikan 6.5-16"
+    },
+    {
+      "id": "personality_voice_section_before_clear_chapter_format",
+      "content": "Pra\nCanto {0}"
+    },
+    {
+      "id": "personality_voice_section_after_clear_chapter_format",
+      "content": "Pasca\nCanto {0}"
+    },
+    {
+      "id": "PersonalityStory_OpenCodition_UnlockCode106",
+      "content": "Selesaikan Canto VI"
+    },
+    {
+      "id": "PersoanlityStory_After",
+      "content": "(Setelahnya)"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9018",
+      "content": "Selesaikan 6.5-30"
+    },
+    {
+      "id": "MainStoryOpenCondition_107",
+      "content": "Selesaikan 7-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9019",
+      "content": "Selesaikan 7-36"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9114",
+      "content": "Selesaikan 7.5-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9116",
+      "content": "Selesaikan 7.5-15"
+    },
+    {
+      "id": "MainStoryOpenCondition_108",
+      "content": "Selesaikan 8-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9020",
+      "content": "Selesaikan 8-33"
+    },
+    {
+      "id": "Inter",
+      "content": "Pertempuran Berlangsung"
+    },
+    {
+      "id": "ChapterTitleConfig_Arknights",
+      "content": "Arknights"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9119",
+      "content": "Selesaikan 8.5-1"
+    },
+    {
+      "id": "OtherStoryOpenCondition_9120",
+      "content": "Selesaikan LC-PC-1"
+    },
+    {
+      "id": "MainStoryOpenCondition_109",
+      "content": "Selesaikan 9-1"
+    }
+  ]
+}

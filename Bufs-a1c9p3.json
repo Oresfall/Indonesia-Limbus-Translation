@@ -1,0 +1,1014 @@
+{
+  "dataList": [
+    {
+      "id": "MosesWhiteBreathMental",
+      "name": "Nafas Putih - Jagalah Pikiran",
+      "desc": "- Jumlah SP yang dipulihkan oleh efek 'Faktor dasar peningkat Sanity(SP)' unit ini meningkat sebanyak 5\n- Jumlah SP yang hilang karena 'Faktor Dasar pengurang Sanity(SP)' unit ini berkurang sebanyak 5\n- Akhir Giliran: Kehilangan 1 Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MosesRedBreathBody",
+      "name": "Nafas Merah - Perkuat Tubuh",
+      "desc": "- Peroleh +(SP/10) Offense Level dan Defense Level (dibulatkan ke bawah)\n- Akhir Giliran: Kehilangan 1 Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MosesRedBreathShield",
+      "name": "Nafas Merah - Pelindung",
+      "desc": "- Awal Giliran: Peroleh 30 Perisai untuk giliran ini",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MosesPurpleBreathBind",
+      "name": "Nafas Ungu - Histeri",
+      "desc": "- Stack Maks: 4\n- Akhir Giliran: Kehilangan HP dan SP setara dengan Stack\n- Akhir Giliran: Moses kehilangan HP dan SP setara dengan Stack\n- Peroleh 2 Fragile, 3 Bind, dan 3 Plus Coin Drop giliran berikutnya\n- Kehilangan 1 Stack ketika efek ini is triggered",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MosesRedBreathCharge",
+      "name": "Nafas Dalam - Merah",
+      "desc": "- Stack Maks: 3\n- <color=#ff6000><mark color=#ff000040><b><u>Akhir Giliran: Pada Stack Maks, gunakan Skill kuat</color></mark></b></u>\n- Dikonsumsi ketika menggunakan Skill tertentu\n- Menjadi kebal terhadap Panik dibawah efek ini\n- Terima +(Stack x 20)% damage dan kehilangan Defense Level setara dengan Stack\n- Akhir Giliran: Terima 10 HP damage dan 20 SP damage",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Tenggelamlah dan biarkan gambaran merah tua muncul dengan setiap tarikan napas."
+    },
+    {
+      "id": "MosesRedBreathAttack",
+      "name": "Nafas Merah - Dorong Batas Tubuh",
+      "desc": "- Peroleh 5 Offense Level\n- Base Skill Clash Power +5",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MosesSin",
+      "name": "Shin (心) - Moses",
+      "desc": "- Defense Level +3, Defense Power +2\n- Jika unit ini kehilangan SP karena efek Skillnya, peroleh Protection setara dengan (SP lost / 5) giliran berikutnya",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MosesWarPTSD",
+      "name": "Memori akan Hari itu",
+      "desc": "- Base Attack Level -??\n- Base Defense Level -??\n- Awal Giliran: Peroleh 5 Haste",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MosesMiddle_LowMorale",
+      "name": "Tubuh Rusak Melampau Perbaikan",
+      "desc": "- Moral Rendah\n- Awal Giliran: Peroleh 1 Fragile dan beri +2 Defense Power Up ke Ezra dan Vespa",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MosesMiddle_Panic",
+      "name": "Tubuh Rusak Melampau Perbaikan",
+      "desc": "- Panik\n- Peroleh 1 Fragile dan gunakan 'Tenangkan Nafas'",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EzraMiddle_LowMorale",
+      "name": "Kegelisahan: Topeng",
+      "desc": "- Moral Rendah\n- Kehilangan 1 Attack Power\n- Defense Level +2",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EzraMiddle_Panic",
+      "name": "Kegelisahan: Topeng",
+      "desc": "- Panik\n- Kehilangan 1 Attack Power\n- Defense Level +3",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DimensionalBagEzraA",
+      "name": "Tas Dimensional - Workshop Allas",
+      "desc": "Mengambil senjata Workshop berikutnya dari Tas Dimensional\n- Senjata Workshop terkini: Sarung Tangan Workshop Allas\n- Senjata Workshop berikutnya: Palu Workshop Nester",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Semua dari Workshop ini diawali percepatan serangan yang 'bang'! Sangat menggelegar dan memuaskan!\""
+    },
+    {
+      "id": "DimensionalBagEzraB",
+      "name": "Tas Dimensional - Workshop Nester",
+      "desc": "Mengambil senjata Workshop berikutnya dari Tas Dimensional\n- Senjata Workshop terkini: Palu Workshop Nester\n- Senjata Workshop berikutnya: Bor Palu Screw Atelier",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Oke, jadi... Tekan tombolnya <i>barengan</i> pas palunya mendarat, dan bam! Getarannya kian menggila dan memaksimalkan serangannya. Seru banget deh pas udah terbiasa!\""
+    },
+    {
+      "id": "DimensionalBagEzraC",
+      "name": "Tas Dimensional - Screw Atelier",
+      "desc": "Mengambil senjata Workshop berikutnya dari Tas Dimensional\n- Senjata Workshop terkini: Sekrup Atelier Bor Palu\n- Senjata Workshop berikutnya: Sarung Tangan Panjang Workshop Namir",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Seriusan deh, hati-hati sama karya dari Workshop ini. Satu kesalahan dan 'bzzztt', nanti kamu sendiri yang kesetrum!\""
+    },
+    {
+      "id": "DimensionalBagEzraD",
+      "name": "Tas Dimensional - Namir Workshop",
+      "desc": "Mengambil senjata Workshop berikutnya dari Tas Dimensional\n- Senjata Workshop terkini: Sarung Tangan Panjang Workshop Namir\n- Senjata Workshop berikutnya: Sarung Tangan Workshop Allas",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Nah, yang satu ini udah dilengkapi dengan Singularity dari G Corp.—Sphere! Begini cara kerjanya: Kamu melayang ke atas, tekan saklar di udara, lalu hantam ke bawah karena gravitasi. Jika kena sasaran dengan tepat, entar bakal... brutal.\""
+    },
+    {
+      "id": "DimensionalBagEzraE",
+      "name": "Tas Dimensional - Atelier YuRia",
+      "desc": "- Senjata Workshop terkini: Atelier YuRia Golden Retriever Spesial Buatan Tangan-Kapak Eksklusif",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Oh, YuRia? Yah, dia udah berkarier solo sekarang, dan Workshop dia—wah, lagi nge-tren sekarang.\"\n\n\"Oiya, aku masih ingat pas dia kembali dari bentuk boneka jadi manusia... Haha, kejadian itu beneran kacau balau deh.\""
+    },
+    {
+      "id": "MiddleFingerEzraSin",
+      "name": "Shin (心) - Ezra",
+      "desc": "- Base Defense Level +2\n- Base Attack Power +1, Defense Power +2\n Untuk setiap Stack 'Nafas Dalam - Merah' pada Moses, Assist Defense Ezra dan Vespa memulihkan 4 lebih SP untuk Ezra (maks 12)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "VengeanceBookSpider",
+      "name": "Buku Balas Dendam",
+      "desc": "Ketika Nursefather Middle - Matthias atau Murid The Middle - Kira menggunakan Skill untuk menyerang target dengan efek ini, mereka memulihkan 7 SP (sekali per Skill)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Bastards... Prepare to face complete dan total extermination.\""
+    },
+    {
+      "id": "ResentmentSpider",
+      "name": "The Middle - Dendam",
+      "desc": "- Stack Maks: 10\n- Berkurang ketika memakai Skill tertentu\n- Untuk setiap Stack, Offense Level +1, Defense Level -2, dan Counter Skill beri +5% damage\n- Pada Stack Maks, terima +20% damage",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "The Middle never forgets."
+    },
+    {
+      "id": "ResentmentSpiderDaughter",
+      "name": "The Middle - Dendam",
+      "desc": "- Stack Maks: 10\n- Berkurang ketika memakai Skill tertentu\n- Untuk setiap Stack, Offense Level +1, Defense Level -2, dan Counter Skill beri +5% damage\n- Pada Stack Maks, terima +20% damage",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "GotACompliment",
+      "name": "Aku Dapet Pujian!",
+      "desc": "- Stack Maks: 10\n- Berkurang sebanyak 1 ketika unit ini diserang oleh 2 Skill\n- Base Power +1 untuk setiap 2 Stack\n- Slash dan Blunt Skill beri +8% damage untuk setiap Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DaughterEducationSpider",
+      "name": "Coba Lihat Ini, Nak!",
+      "desc": "- Stack Maks: 10\n- Berkurang sebanyak 1 ketika unit ini diserang oleh 2 Skill\n- Base Power +1 untuk setiap 2 Stack\n- Slash dan Blunt Skill beri +5% damage untuk setiap Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ReinforcedTattooSpider",
+      "name": "The Middle - Tato Pembalasan [<s>Kakak Tetua</s>]",
+      "desc": "- Stack Maks: 2\n- Kadaluarsa pada Akhir Giliran\n- Beri +10% Blunt dan Envy damage",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Ketika prestasi Kakak Tetua yang diterima karena keloyalitasnya; hanya orang bodoh yang membuangnya demi sebuah pedang."
+    },
+    {
+      "id": "ReinforcedTattooSpiderDaughter",
+      "name": "Augmentasi Tato Gaya The Middle",
+      "desc": "- Stack Maks: 3\n- Kadaluarsa pada Akhir Giliran\n- Beri +10% Blunt dan Envy damage",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HeatingWireOnSpider",
+      "name": "Bilah Termal MENYALA",
+      "desc": "Saat Menyerang dengan Coin Skill Bilah Termal: beri tambahan Burn Potency dan Count setara dengan Bleed Potency dan Count diberikan",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Engga sebagus punya papa, tapi Aku masih bisa memotong dan membakar bersamaan!\nTapi ga kayak punya papa, Harus kudinginin dari waktu ke waktu..."
+    },
+    {
+      "id": "HeatingWireOffSpider",
+      "name": "Bilah Termal MATI",
+      "desc": "Efek tambahan dari Skill Bilah Termal tidak aktif",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Kabel bilah termal sedang dinonaktifkan."
+    },
+    {
+      "id": "MiddleFatherGuts",
+      "name": "Ketabahan Gila",
+      "desc": "- Kurangi semua damage diterima menjadi 1 (termasuk damage Keyword)\n- Pada Menang Clash, pulihkan (jumlah Clash x 5) lebih SP (maks 15)\n- Akhir Giliran: Jika unit ini kehilangan SP giliran ini karena efek Skillnya, peroleh 3 Damage Up giliran berikutnya",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Gua ga butuh hal bodoh kayak \"Shin (心)\" itu. Cuma perlu kerahkan semua tenaga dari tato ini dan menggertakkan gigiku , dan Gua bakal ngalahin trik murahanmu tanpa masalah.\""
+    },
+    {
+      "id": "MiddleFingerDaddy_LowMorale",
+      "name": "Amukan Gila",
+      "desc": "- Moral Rendah\nAwal Giliran: Peroleh 2 Attack Power Up dan 4 Defense Level Down; peroleh 1 Damage Up untuk setiap 30 HP damage diterima di giliran sebelumnya (maks 5)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MiddleFingerDaddy_Panic",
+      "name": "Amukan Gila",
+      "desc": "- Panik\nAwal Giliran: Peroleh 3 Attack Power Up dan 5 Defense Level Down; peroleh 1 Damage Up untuk setiap 25 HP damage diterima di giliran sebelumnya (maks 5)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MiddleFingerDaughter_LowMorale",
+      "name": "Semangat",
+      "desc": "- Moral Rendah\nAwal Giliran: Peroleh 2 Defense Level Down; peroleh 1 Damage Up untuk setiap 30 HP damage diterima di giliran sebelumnya (maks 5)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MiddleFingerDaughter_Panic",
+      "name": "Semangat",
+      "desc": "- Panik\nAwal Giliran: Peroleh 1 Attack Power Up dan 3 Defense Level Down; peroleh 1 Damage Up untuk setiap 25 HP damage diterima di giliran sebelumnya (maks 5)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HumanBoneTheRings",
+      "name": "Bahan Corpus (Tulang)",
+      "desc": "- Stack Maks: 206\n- Charge Unik (Potency tetap)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HumanBloodTheRings",
+      "name": "Bahan Corpus (Darah)",
+      "desc": "- Stack Maks: 5\n- Charge Unik (Potency tetap)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LivingSpecimenTheRings",
+      "name": "Teater Corpus",
+      "desc": "- Masuk ke kondisi 'lumpuh' dimana buff, HP, dan SP unit ini tidak dapat berubah. Membentuk Teater Corpus yang terhubung dengan unit ini",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MineTheRings",
+      "name": "Artwork: Tibia",
+      "desc": "- Awal Giliran: Peroleh 4 Power Up dan 2 Slash Power Up\n- Ketika memberi Bleed dengan Skill Attack, beri 2 lebih Bleed Potency",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ObservationTheRings",
+      "name": "Melihat Tableau",
+      "desc": "- Base Offense Level -20\n- Base Defense Level -20\n- Kemampuan mundur dari Pendosa & Unit Pembantu tidak dapat aktif\n- Awal Giliran: Peroleh 7 Protection jika Murid The Ring belum mundur dari Pertempuran ini",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Mengapresiasi karya seni di galeri membutuhkan perenungan yang tenang. Ingatlah—ketidaksabaran akan mengurangi apresiasi terhadap seni.\""
+    },
+    {
+      "id": "RedemptionTheRings",
+      "name": "Luka Penumpah-Bahan",
+      "desc": "Peroleh 2 Offense Level Down ketika menggunakan Skill (maks 3 kali per giliran)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SpecimenTheRings",
+      "name": "Pamerannya Telah Selesai!",
+      "desc": "Kalah dari Pertempuran ketika semua Pendosa dan Assist Unit jatuh ke efek Teater Corpus",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Titik yang tepat dan halus di mana semua elemen daging dan otot tersusun dengan sempurna."
+    },
+    {
+      "id": "KAmpouleA1C94TH",
+      "name": "Ampul Darurat K Corp.",
+      "desc": "Jika setidaknya one kawan other than unit ini is alive, aktifkan efek berikut saat menerima damage that would kurangi HP unit ini menjadi 0:\n- Jika Stagger, pulih dari Stagger\n- Fully pulihkan HP\n- Semua kawan kehilangan 1 Ampul Darurat K Corp.\n- Efek ini activates sebelum \"X tidak dapat kurangi HP di bawah 1\" efek dari Identitas & Pasif E.G.O",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LanternHohenheimBigBird",
+      "name": "Lamp",
+      "desc": "- Stack Maks: 20\n- Peroleh 1 Bind untuk setiap 2 Stack giliran berikutnya (maks 10)\n- Akhir Giliran: Peroleh +(Stack / # dari Slot unit ini) Aggro ke tiap Slot Skill unit ini giliran berikutnya",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DelusionHohenheimBigBird",
+      "name": "Dazzle",
+      "desc": "- Awal Giliran: Jika unit ini tidak terkena Stagger, Skill Attack yang digunakan pada Slot Skill terakhir unit ini memprioritaskan Hohenheim dan tidak dapat dialihkan\n- Efek ini kadaluarsa pada akhir giliran dimana efek ini diaktifkan",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LvUpHohenheimBigBird",
+      "name": "Peningkatan Penyelarasan E.G.O",
+      "desc": "- Base Offense Level +15\n- Base Defense Level +15",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LvUpHohenheimBigBird_Over",
+      "name": "Peningkatan Berlebihan E.G.O",
+      "desc": "- Base Offense Level +15\n- Base Defense Level +15\n- Akhir Giliran: Tingkatkan Stack Lamp ke 20; kehilangan 2 HP dan 1 SP untuk setiap Stack diperoleh (efek ini tidak mengurangi HP unit ini dibawah 1)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Melebihkan kekuatan dari ekstraksi E.G.O."
+    },
+    {
+      "id": "HohenheimBigBird_LowMorale",
+      "name": "Gelombang Somnolence",
+      "desc": "- Moral Rendah\n- Peroleh 1 lebih sedikit Lamp dari Skill",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HohenheimBigBird_Panic",
+      "name": "Gelombang Somnolence",
+      "desc": "- Panik\n- Tidak bertindak untuk giliran ini",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LvUpFireFly",
+      "name": "Peningkatan Penyelarasan E.G.O",
+      "desc": "- Base Offense Level +10\n- Base Defense Level +10",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LvUpFireFly_Over",
+      "name": "Peningkatan Berlebihan E.G.O",
+      "desc": "- Base Offense Level +10\n- Base Defense Level +10\n- Akhir Giliran: Peroleh 4 Burn dan kehilangan 5 SP",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Melebihkan kekuatan dari ekstraksi E.G.O."
+    },
+    {
+      "id": "LCEFireFly_LowMorale",
+      "name": "Degradasi Corrosion",
+      "desc": "- Moral Rendah\n- Awal Giliran: Peroleh 1 Fragile",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LCEFireFly_Panic",
+      "name": "Degradasi Corrosion",
+      "desc": "- Panik\n- Awal Giliran: Peroleh 1 Fragile dan 5 Burn",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Cubism_LowMorale",
+      "name": "Seni Tertinggal Jaman",
+      "desc": "- Moral Rendah\n- Awal Giliran: Peroleh 1 Offense Level Up",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Cubism_Panic",
+      "name": "Seni Tertinggal Jaman",
+      "desc": "- Panik\n- Awal Giliran: Peroleh 2 Offense Level Up",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FutureEyeOn",
+      "name": "Mata Prekognisi",
+      "desc": "- Stack Maks: 30\n- Clash Power +2\n- Awal Giliran: Peroleh 10 Stack\n- Awal Giliran: Pulihkan (Stack / 4) SP",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Mata itu tidak memiliki kekuatan supernatural yang melihat masa depan yang ditakdirkan kepada penggunanya. Mata itu lebih mirip perangkat komputasi yang menganalisis segala sesuatu yang dilihatnya dan memberikan skenario paling mungkin terjadi dalam waktu dekat.\""
+    },
+    {
+      "id": "FutureEyeOff",
+      "name": "Mata Prekognisi - Kepanasan",
+      "desc": "- Stack Maks: 30\n- Skill Attack beri -20% damage\n- Ubah semua Coin pada Skill yang menggunakan Amunisi Percepatan menjadi Unbreakable Coin\n- Awal Giliran: Peroleh 10 Stack\n- Pada 30 Stack, ubah menjadi \"Mata Prekognisi\"",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LookingFuture",
+      "name": "Akselerasi Masa Depan",
+      "desc": "- Stack Maks: 10\n- Clash Power +1 untuk setiap Stack\n- Coin Power +1 untuk setiap 5 Stack\n- Kadaluarsa pada Akhir Skill",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Gaya Palermitan terkenal akan percepatan serangannya semakin lama pertarungannya."
+    },
+    {
+      "id": "ObsessionAndGreed",
+      "name": "Shin (心) - Valencina",
+      "desc": "- Defense Level +3 untuk setiap instance of Kalah Clash in the giliran sebelumnya (maks 6)\n- Beri +3% damage untuk setiap Poise Potency pada diri sendiri (maks 15%)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AccelBullet",
+      "name": "Amunisi Percepatan",
+      "desc": "- Maks Capacity: 10\n- Ammo Unik\n- Digunakan oleh Skill tertentu",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TeachersPrey",
+      "name": "Target Permainan",
+      "desc": "Ubah Speed unit ini menjadi 1; semua Skill Attack dari \"Nursefather Thumb - Valencina\" menarget unit ini",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Mangsa yang ditandai Famiglia Bognatelli akan diburu tanpa terkecuali."
+    },
+    {
+      "id": "AaCfPcBiv2",
+      "iconId": "AaCfPcBi",
+      "name": "Superthermogenesis",
+      "desc": "Akhir Giliran: Terima damage tetap setara dengan (Stack x 0.5)% dari Maks HP, lalu efek kadaluarsa",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "VergiliusSin",
+      "name": "Shin (心) - Sang Merah Netra",
+      "desc": "Beri +50% Wrath damage",
+      "summary": "Beri damage lebih",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodBranch",
+      "name": "Darah Membutakan [盲血]",
+      "desc": "Peroleh 1 Bind giliran berikutnya untuk setiap Stack\nAkhir Giliran: Terima (Bleed Potency x Stack) HP damage\nAwal Pertempuran: Peroleh 3 Bleed untuk setiap Stack, lalu kadaluarsa",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Jika darah yang terkandung dalam tatapan, yang dapat dikumpulkan dan dipadatkan untuk menusuk. Tentu saja, darah itu juga dapat digunakan untuk membutakan. Oke?\""
+    },
+    {
+      "id": "Gebura_Reinforcement",
+      "name": "Pedang Gebura",
+      "desc": "- Ubah semua Coin Skill menjadi Unbreakable Coin\n- Beri +100% damage\n- Plus Coin Skill peroleh Coin Power +1; Minus Coin Skill peroleh Final Power +1\n- Untuk giliran ini, unit ini tidak dapat Stagger dari semua jenis damage\n- Pada kurang dari 10 HP, pulihkan ke 10 HP\n- Untuk giliran ini, HP unit ini tidak turun di bawah 10\n- Untuk giliran ini, Semua serangan Coin dari Skill Base Attack dan Skill Counter memulihkan 10% dari damage yang diberikan (maks pemulihan dari tiap Skill: 100)\n- Kadaluarsa pada Akhir Giliran",
+      "summary": "Pedang Gebura diaktifkan",
+      "undefined": "-"
+    },
+    {
+      "id": "ThreeMirrorpartYiSang",
+      "name": "Dunia yang Hancur",
+      "desc": "- Stack Maks: 1\n- Kadaluarsa pada Akhir Giliran\n- Terima x1.2 damage dari Burn (dibulatkan ke bawah; kecuali Burn Unik)\n- Terima +10% damage dari Skill Base Attack Wrath dan Gloom milik Yi Sang",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RyoshuEGOPF",
+      "name": "Kehidupan Terjerat [羅生]",
+      "desc": "Stack Maks: 999\n- Peroleh 1 Stack untuk setiap HP damage yang diberikan oleh Skill Ryōshū\n- Beri +1% damage dengan Base Skill untuk setiap 33 Stack (maks 10%)",
+      "summary": " ",
+      "undefined": "-",
+      "flavor": "'Terpilin dan terjerat tanpa batas, terikat dan terjalin menjadi kepompong. Benang. Kehidupan. Dunia.'"
+    },
+    {
+      "id": "OffenseBug",
+      "name": "Hama Penyerang [Kecoak]",
+      "desc": "- Stack Maks: 50\n- Kehilangan 1% maks HP per Stack\n- Awal Pertempuran: Terima (Stack x 12) damage tetap\n- Ketika unit ini kehilangan Stack dari efek ini, peroleh E.G.O resource dari Affinity acak setara dengan Stack yang hilang (maks 15)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Makhluk ini tak tertandingi di antara mereka yang dianggap sebagai hama.\""
+    },
+    {
+      "id": "DefenseBug",
+      "name": "Hama Pelindung [Kecoak]",
+      "desc": "- Stack Maks: 50\n- Ketika unit ini diberikan dengan (Burn, Bleed, Tremor, Rupture, Sinking) Potency atau Count, alih-alih memperoleh efek tersebut, kehilangan the same jumlah dari Stack dari efek ini saja\n- Kadaluarsa pada Akhir Giliran",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Mereka sangat buruk dan keras kepala, apalagi sangat gigih.\""
+    },
+    {
+      "id": "LvDownLittleFingerBossTwo",
+      "name": "Luka Pedang Tiansha Star [天殺星傷]",
+      "desc": "- Base Offense Level -15\n- Base Defense Level -15",
+      "summary": "- Kehilangan Base Offense dan Base Defense Level",
+      "undefined": "-",
+      "flavor": "Tebasan dari Pedang Tiansha Star - Arayashiki meninggalkan luka sayatan yang tampak membakar dengan api tak terpadamkan.\nTanda bakar ini tidak akan pernah pudar, karena pemiliknya telah menebas keberadaan lawannya dengan mengorbankan dirinya sendiri."
+    },
+    {
+      "id": "SojiAbiAgeMasa Lalu",
+      "name": "Arus Mundur - Kepahitan",
+      "desc": "- Stack Maks: 20\n- Beri dan terima +2% damage untuk setiap Stack",
+      "summary": "Beri dan terima damage lebih",
+      "undefined": "-",
+      "flavor": "'Kenangan tentang dilupakan dan ditinggalkan olehmu tak mau hilang... seperti simpul benang yang keras kepala dan melekat.'"
+    },
+    {
+      "id": "SojiAbiAgeFuture",
+      "name": "Arus Maju - Kasih Sayang",
+      "desc": "- Stack Maks: 20\n- Beri dan terima -2% damage untuk setiap Stack",
+      "summary": "Beri dan terima damage lebih sedikit",
+      "undefined": "-",
+      "flavor": "'Perhaps it was the passage of time dan the years weighing on me that led me to believe I could finally understand dan embrace you.'"
+    },
+    {
+      "id": "TimeEntangleUnstable",
+      "name": "Paroxysm - Keterikatan Bayangan",
+      "desc": "- Stack Maks: 10\n- Saat Menyerang, aktifkan efek berikut berdasarkan Stack:\n  · Beri Slash damage setara dengan (final damage of the Coin / 10) (activates (# of Stack) kali)\n  · 2+: Beri 1 Burn\n  · 3+: Beri 1 Bleed\n  · 4+: Beri 1 Bind giliran berikutnya\n  · 5+: Beri 1 Racun",
+      "summary": "Beri tambahan efek ke unit ini's attacks berdasarkan Stack",
+      "undefined": "-"
+    },
+    {
+      "id": "WillAwakenSinclair",
+      "name": "Shin (心) - Sinclair Tertentu",
+      "desc": "- Min & Maks Speed +3\n- Beri +20% damage dengan Serangan Tanpa Lawan\n- Peroleh 2 lebih Poise Potency dan +1 lebih Poise Count dari Skill\n- Pada 20+ SP, +10% peluang untuk mendapat Heads untuk Plus Coin\n- Akhir Giliran: Peroleh 1 Haste giliran berikutnya untuk setiap 10 SP (maks 4)\n- Akhir Giliran: Peroleh 1 Power Up giliran berikutnya untuk setiap 20 SP (maks 2)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SignAwakenSinclair",
+      "name": "Sign - Manifestasi dari Masa Depan",
+      "desc": "- Ketika Clash terhadap target dengan level lebih tinggi, Clash Power +2\n- Akhir Giliran: Jika Stagger, pulih dari Stagger giliran berikutnya",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Abraxas"
+    },
+    {
+      "id": "LimitedAwakenSinclair",
+      "name": "Umbra Terbuka",
+      "desc": "- Beri +10% damage dengan Skill Base Attack\n- Awal Giliran: Peroleh 1 Plus Coin Boost",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Veteran_LowMorale",
+      "name": "Dari Smoke War Ke-Dua",
+      "desc": "- Moral Rendah\n- Awal Giliran: Peroleh 1 Fragile\n- Efisiensi Pemulihan SP +2",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Veteran_Panic",
+      "name": "Dari Smoke War Ke-Dua",
+      "desc": "- Panik\n- Awal Giliran: Peroleh 2 Fragile dan 2 Clash Power Up",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MiddleFatherSwordOne",
+      "name": "Pedang Tersegel",
+      "desc": "Membuka akses dari Skill tertentu berdasarkan keadaan dari pedangnya.",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Sang Trio bersaudara yang erat bersama-sama melakukan perjalanan ke Ruins."
+    },
+    {
+      "id": "MiddleFatherSwordTwo",
+      "name": "Segel Pertama Dilepaskan",
+      "desc": "Membuka akses dari Skill tertentu berdasarkan keadaan dari pedangnya.",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Di sana, mereka menemukan sebuah gua yang sangat panas tempat sungai lava mengalir, membawa bangunan di arusnya.\nMereka menelusuri sungai itu hingga ke sumber panasnya, dan menemukan sebuah pedang... yang hampir tidak bisa disebut pedang. Itu lebih mirip bongkahan logam yang sangat panas."
+    },
+    {
+      "id": "MiddleFatherSwordThree",
+      "name": "Segel Kedua Dilepaskan",
+      "desc": "Membuka akses dari Skill tertentu berdasarkan keadaan dari pedangnya.",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Sebagai kakak tertua, aku mengklaim pedang ini sebagai milikku.\"\nPernyataan kakak tertua itu menyulut api hasrat dan iri hati yang tak terpadamkan pada adik bungsu.\n\n\"Maka, aku membunuh kakak dan adikku, dan mengambil pedang itu sebagai milikku. Aku tidak meninggalkan bukti apa pun.\nNamun, mata mereka masih menatapku dengan ragu, dan ketika mereka melemparkanku ke neraka ini, aku jatuh tanpa perlawanan.\nMeskipun begitu, aku tidak kehilangan senyumku.\nKarena pedang legendaris itu adalah milikku.\""
+    },
+    {
+      "id": "MiddleFatherSwordFour",
+      "name": "Lævateinn",
+      "desc": "Membuka akses dari Skill tertentu berdasarkan keadaan dari pedangnya.\nAwal Giliran: Beri 5 Burn dan +2 Burn Count terhadap semua unit",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Ironisnya, pedang itu berada di luar kemampuan Matthias untuk menggunakannya dengan benar.\nTentu saja, dia tidak akan mampu memegang pedang ini sama sekali jika dia tidak memiliki bakat untuk itu. Itu hanyalah Relik yang sangat sulit dikendalikan.\nNamun kenyataannya, bakatnya sama sekali tidak cukup untuk menangani senjata itu secara maksimal.\nTetapi pria itu tidak khawatir.\nYang penting adalah pedang legendaris yang sama yang telah dia impikan untuk digunakan sejak kecil kini berada di tangannya, untuk diayunkan sesuka hatinya."
+    },
+    {
+      "id": "SojiAbiBuffOne",
+      "name": "Gagak Pertama Fajar (雞鳴)",
+      "desc": "Dapat Clash dengan slot spesifik musuh",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SojiAbiBuffTwo",
+      "name": "Terbenamnya Matahari (日入)",
+      "desc": "Dapat Clash dengan slot spesifik musuh",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SojiAbiBuffThree",
+      "name": "Cahaya Rembulan (黃昏)",
+      "desc": "Dapat Clash dengan slot spesifik musuh",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RyoshuParrySojiTwo",
+      "name": "Ingatan Tak Terputus",
+      "desc": "- Beri +20% damage ke dan terima +20% damage dari Nursefather Pinky; Pada Menang Clash, beri 5 SP damage ke Nursefather Pinky\n- Ketika menerima damage yang akan men-Stagger unit ini, tidak terkena Stagger dan hilangkan Batas Stagger yang dimaksud; lalu, peroleh 1 Attack Power Up giliran berikutnya\n- Tidak Dapat Mundur",
+      "summary": "Efek Eksklusif Ryōshū",
+      "undefined": "-"
+    },
+    {
+      "id": "RyoshuParrySojiThree",
+      "name": "Waktu Tak Terputus",
+      "desc": "- Beri +20% damage ke dan terima +20% damage dari Nursefather Pinky; Pada Menang Clash, beri 5 SP damage ke Nursefather Pinky\n- Ketika menerima damage yang akan men-Stagger unit ini, tidak terkena Stagger dan hilangkan Batas Stagger yang dimaksud; lalu, peroleh 1 Attack Power Up giliran berikutnya\n- Untuk Pertempuran ini: Setelah menggunakan Skill, peroleh 1 E.G.O resource dari Afinitas Skill dan 1 E.G.O resource paling sedikit (2 kali per giliran)\n- Tidak Dapat Mundur (termasuk kawan)",
+      "summary": "Efek Eksklusif Ryōshū",
+      "undefined": "-"
+    },
+    {
+      "id": "HeavenlyKillerStar",
+      "name": "Pedang Tiansha Star - Arayashiki [天殺星刀阿賴耶識]",
+      "desc": "- Min & Maks Speed +6\n- Offense Level +6\n- Beri 3 lebih Bleed Potency dengan Skill\n- Awal Giliran: Peroleh 3 Offense Level Up untuk setiap musuh yang terbunuh di Pertempuran ini (maks 6)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "'Langit itu sendiri tidak luput—langit, bumi, manusia, dan diri sendiri. Bintang ini terbit hanya untuk orang yang memandang seluruh eksistensi dan waktu sebagai satu kesatuan untuk memisahkan semuanya.'"
+    },
+    {
+      "id": "CutoffRyoshu",
+      "name": "Potong Benangnya [切絲]",
+      "desc": "- Awal Giliran:\n· Peroleh 3 Bleed dan +3 Bleed Count\n· Terima Slash damage setara dengan (Stack / 3)\n- Ketika diserang, terima Slash damage setara dengan (Stack / 5)\n- Semakin banyak stack efek ini...\n- Stack Maks: 100",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "'Biarlah semuanya terpotong—kau, aku, semua yang telah ada, dan semua yang akan ada.'\n\n'Setelah itu selesai... aku akan menerima Araya kembali.'"
+    },
+    {
+      "id": "CutbondRyoshu",
+      "name": "Muga [無我]",
+      "desc": "- Awal Giliran: Peroleh 1 Offense Level Up dan 1 Defense Level Up untuk setiap 10 Stack\n- Semakin banyak stack efek ini...\n- Stack Maks: 100",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "'Jadi aku harus menahan diri untuk tidak menggunakan pedang itu. Dan begitu aku siap, aku akan kembali ke Rumah itu.'"
+    },
+    {
+      "id": "EsteemNeeds",
+      "name": "Keinginan untuk Diakui",
+      "desc": "- Untuk setiap Stack, Beri +5% damage ke dan terima +5% damage dari Ryōshū (maks 100%)\n- Final Power +1 untuk setiap 5 Stack ketika menyerang Ryōshū as target utama (maks 4)\n- Pada 10+ Stack, kehilangan 5 SP saat Kalah Clash\n- Stack Maks: 20",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "'Setelah aku pulang, T-Tuan Rien akan memuji diriku...'"
+    },
+    {
+      "id": "Fugacious",
+      "name": "Jalan Berpedang",
+      "desc": "- Awal Giliran:\n· Peroleh 1 Offense Level Up dan 1 Defense Level Down untuk setiap 5 Stack\n· Peroleh 1 Damage Up dan 1 Fragile untuk setiap 10 Stack\n- Stack Maks: 50",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Tak masalah jika mimpi ini hanya sesaat.\nMeskipun aku mungkin gagal mewarisi nama Bintang di kehidupan ini, berjalan di Jalan Berpedang akan menajamkan dan menempa pedangku ini."
+    },
+    {
+      "id": "ObsessedTeacher_LowMorale",
+      "name": "Aib dari Keluarga",
+      "desc": "- Awal Giliran: Peroleh 1 Slash DMG Naik, 1 Clash Power Up, dan 1 Fragile\n- Tidak dapat peroleh Mang ketika menggunakan Skill",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ObsessedTeacher_Panic",
+      "name": "Aib dari Keluarga",
+      "desc": "- Awal Giliran: Peroleh 2 Slash DMG Naik, 2 Clash Power Up, dan 2 Fragile\n- Tidak dapat peroleh Mang ketika menggunakan Skill",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AgainstMyWill_LowMorale",
+      "name": "\"B-bunuh... bunuh aku...\"",
+      "desc": "Awal Giliran: Peroleh 8 Clash Power Down dan 5 Power Down",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AgainstMyWill_Panic",
+      "name": "\"B-bunuh... bunuh aku...\"",
+      "desc": "Awal Giliran: Peroleh 10 Clash Power Down dan 5 Power Down",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IndexPrescriptRien_0",
+      "name": "Prescript: [Perangkat] I",
+      "desc": "Serang Target Prescript giliran pertama selesai.\n\n- Awal Giliran: Peroleh efek ini jika unit ini tidak memiliki Unlock\n- Maksimum stack Berkah dari Prescript yang didapatkan dengan Prescript ini dibatasi hingga 3",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IndexPrescriptRien_1",
+      "name": "Prescript: [Perangkat] II",
+      "desc": "Serang Target Prescript; atau, sebelum giliran ini terlewati, serang dengan 4 atau lebih serangan. Selesaikan sebelum giliran ke-4.\n\n- Awal Giliran: Peroleh efek ini ketika unit ini memiliki Unlock - 1\n- Maksimum stack Berkah dari Prescript yang didapatkan dengan Prescript ini dibatasi hingga 6",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IndexPrescriptRien_2",
+      "name": "Prescript: [Perangkat] III",
+      "desc": "Memakai Skill hebat yang menggunakan 9 jenis senjata berbeda.\n\n- Awal Giliran: Peroleh efek ini jika unit ini memiliki Unlock - II\n- Maksimum stack Berkah dari Prescript yang didapatkan dengan Prescript ini dibatasi hingga 9",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IndexPrescriptRien_3",
+      "name": "Prescript: [Perangkat] IV",
+      "desc": "Kalahkan semua rintangan sebelum Prescript berikutnya tiba.\n\n- Awal Giliran: Peroleh efek ini jika unit ini memiliki Unlock - III ",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IndexPrescript_RienSecondPhase",
+      "name": "Prescript: [Perangkat] - Peringatan",
+      "desc": "Prioritaskan membunuh Target Prescript.\n\n- Peroleh efek ini dimulai dari fase ke-2",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "'Bunyi bip perangkat semakin cepat setiap detik yang saya biarkan berlalu tanpa memenuhi sebuah Prescript.'\n\n'Dan dengan itu, interval detak jantung saya pun semakin cepat.'"
+    },
+    {
+      "id": "UnlockBuff_Rien1",
+      "name": "Unlock - I",
+      "desc": "- Offense Level +1, Defense Level +1\n- Akhir Pertempuran: Pulihkan 10 SP",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnlockBuff_Rien2",
+      "name": "Unlock - II",
+      "desc": "- Offense Level +2, Defense Level +2\n- Akhir Pertempuran: Pulihkan 20 SP",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnlockBuff_Rien3",
+      "name": "Unlock - III",
+      "desc": "- Offense Level +3, Defense Level +3\n- Akhir Pertempuran: Pulihkan 30 SP",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "KarmaOfIndexRien",
+      "name": "Konsekuensi Karma",
+      "desc": "- Awal Giliran:\n· Peroleh 1 Defense Level Down untuk setiap 10 Stack\n· Peroleh 1 Fragile untuk setiap 20 Stack\n· Peroleh 1 Clash Power Down untuk setiap 40 Stack\n- Stack Maks: 100",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "KarmaOfIndexRien_2Phase",
+      "name": "Konsekuensi Karma [Fortuna]",
+      "desc": "- Awal Giliran:\n· Peroleh 1 Defense Level Down untuk setiap 10 Stack\n· Peroleh 1 Fragile untuk setiap 20 Stack\n· Peroleh 1 Clash Power Down untuk setiap 40 Stack\n- Stack Maks: 200",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "O Fortúna velut luna statu variabilis"
+    },
+    {
+      "id": "BurningWoundRien_Mask",
+      "name": "Topeng Rien",
+      "desc": "- Offense Level -5, Defense Level -5\n- Untuk setiap Stack, terima +5% damage dari Skill yang beri Burn atau Bleed (termasuk Potency, Count, dan varian Unik)\n· Jika Skill tersebut memberi kedua Burn dan Bleed, terima +7.5% damage untuk setiap Stack saja\n- Stack Maks: 1",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Aku menutupnya karena begitu menyakitkan untuk dilihat.\""
+    },
+    {
+      "id": "BurningWoundRien",
+      "name": "Luka Membara",
+      "desc": "- Offense Level -5, Defense Level -5\n- Awal Giliran: Peroleh +1 Burn Count dan +1 Bleed Count untuk setiap Stack\n- Untuk setiap Stack, terima +10% damage dari Skill yang beri Burn atau Bleed (termasuk Potency, Count, dan varian Unik)\n· Jika Skill tersebut memberi kedua Burn dan Bleed, terima +15% damage untuk setiap Stack saja\n- Stack Maks: 5",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Ketika didekatkan dengan pedang, lukanya kambuh dan daging yang pernah dingin sekali lagi terbakar."
+    },
+    {
+      "id": "Shin_Rien",
+      "name": "Shin (心) - Rien",
+      "desc": "- Awal Giliran: Berdasarkan HP yang hilang pada unit ini...\n· Peroleh 1 Damage Up untuk setiap 15% HP yang hilang (maks 5)\n· Peroleh 1 Attack Power Up untuk setiap 40% HP yang hilang (maks 2)\n- Peroleh +1 lebih Poise Potency dan Count dari Skill unit ini\n- Jika SP unit ini is di atas dari target's, beri +1% damage untuk setiap 2 SP difference (maks 30%)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StackRienSpecialSkill",
+      "name": "Procuration [Hermes]",
+      "desc": "- Peroleh 1 Stack ketika memakai Skill Attack (sekali per Skill; tidak memperoleh Stack dari Skill yang sama dua kali)\n- Awal Giliran: pada 9 Stack, gunakan Skill kuat\n- Dikonsumsi ketika menggunakan Skill tertentu",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Sesuai perintah Hermes.\""
+    },
+    {
+      "id": "RienWeapon01Hatchet",
+      "name": "Saat menebang tulang rusuk dengan kapak...",
+      "desc": "- Beri Blunt damage\n- Saat Menyerang tanpa Cracking, peroleh 2 Poise",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RienWeapon01Hatchet2phase",
+      "name": "Saat menebang tulang rusuk dengan kapak...",
+      "desc": "- Beri Blunt damage\n- Saat Menyerang tanpa Cracking, peroleh 2 Poise dan +2 Poise Count",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Ini hampir bukan senjata, tapi lebih baik daripada garpu.\""
+    },
+    {
+      "id": "RienWeapon02Stiletto",
+      "name": "Ketika menusuk paru-paru dengan belati...",
+      "desc": "- Beri Pierce damage\n- Saat Menyerang tanpa Cracking, beri 2 Sinking",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RienWeapon02Stiletto2phase",
+      "name": "Ketika menusuk paru-paru dengan belati...",
+      "desc": "- Beri Pierce damage\n- Saat Menyerang tanpa Cracking, beri 2 Sinking dan +2 Sinking Count",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Aku selalu merasa merinding setiap kali diberi senjata ini ketika situasi membutuhkan ayunan horizontal. Aku merasa sulit menggunakannya.\""
+    },
+    {
+      "id": "RienWeapon03Greatsword",
+      "name": "Ketika membelah bahu dan tengkorak dengan pedang bastard...",
+      "desc": "- Beri Slash damage\n- Coin ini beri +5% damage\n- Saat Menyerang tanpa Cracking, peroleh 1 Offense Level Up giliran berikutnya (2 kali per giliran)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RienWeapon03Greatsword2phase",
+      "name": "Ketika membelah bahu dan tengkorak dengan pedang bastard...",
+      "desc": "- Beri Slash damage\n- Coin ini beri +7.5% damage\n- Saat Menyerang tanpa Cracking, peroleh 1 Offense Level Up hingga giliran berikutnya (2 kali per giliran)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Pedang ini, bisa dibilang... lumayan, tapi kualitasnya sendiri masih jauh dari memuaskan. Meski begitu, pedang ini tetap bisa menjadi senjata andal selama kemampuan dasarmu mumpuni.\""
+    },
+    {
+      "id": "RienWeapon04Rapier",
+      "name": "Ketika melubangi 10 atau lebih lubang di tubuh dengan rapier...",
+      "desc": "- Beri Pierce damage\n- Coin ini beri +5% damage\n- Saat Menyerang tanpa Cracking, beri 1 Defense Level Down giliran berikutnya (2 kali per giliran)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RienWeapon04Rapier2phase",
+      "name": "Ketika melubangi 10 atau lebih lubang di tubuh dengan rapier...",
+      "desc": "- Beri Pierce damage\n- Coin ini beri +7.5% damage\n- Saat Menyerang tanpa Cracking, beri 1 Defense Level Down hingga giliran berikutnya (2 kali per giliran)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Senjata yang lebih panjang dan lebih tajam daripada belati. Saya juga menyukai pedang rapier, karena sangat cocok untuk teknik yang lebih cekatan.\""
+    },
+    {
+      "id": "RienWeapon05Sledgehammer",
+      "name": "Ketika menghancurkan bagian belakang tengkorak dengan palu...",
+      "desc": "- Beri Blunt damage\n- Coin ini beri +5% damage\n- Saat Menyerang tanpa Cracking, naikkan Batas Stagger target sebanyak 3",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RienWeapon05Sledgehammer2phase",
+      "name": "Ketika menghancurkan bagian belakang tengkorak dengan palu...",
+      "desc": "- Beri Blunt damage\n- Coin ini beri +7.5% damage\n- Saat Menyerang tanpa Cracking, naikkan Batas Stagger target sebanyak 5",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Sederhana, tapi final. Ini bukan senjata setengah matang seperti kapak—ini <i>pasti</i> menghancurkan apa pun yang dihantamnya.\""
+    },
+    {
+      "id": "RienWeapon06Ultragreatsword",
+      "name": "Ketika membelah tubuh dengan pedang besar...",
+      "desc": "- Beri Slash damage\n- Coin ini beri +10% damage\n- Saat Menyerang tanpa Cracking, beri 1 Slash Fragility (2 kali per giliran)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RienWeapon06Ultragreatsword2phase",
+      "name": "Ketika membelah tubuh dengan pedang besar...",
+      "desc": "- Beri Slash damage\n- Coin ini beri +15% damage\n- Saat Menyerang tanpa Cracking, beri 1 Slash Fragility hingga giliran berikutnya (2 kali per giliran)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Ketika menggunakan pedang berukuran dan berbobot besar seperti ini, penting untuk menemukan titik pusat gravitasi anda.\n\nDan tentu saja, jangan lupa untuk memanfaatkan bobotnya yang besar.\n\nSaya pernah melompat dari atap gedung berlantai lima dengan senjata ini dan mendarat di atas kepala seorang Fixer Kelas 1, membunuhnya seketika.\""
+    },
+    {
+      "id": "RienWeapon07Lance",
+      "name": "Ketika mengebor lubang berukuran 20 inci dengan tombak...",
+      "desc": "- Beri Pierce damage\n- Coin ini beri +10% damage\n- Saat Menyerang tanpa Cracking, beri 1 Pierce Fragility (2 kali per giliran)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RienWeapon07Lance2phase",
+      "name": "Ketika mengebor lubang berukuran 20 inci dengan tombak...",
+      "desc": "- Beri Pierce damage\n- Coin ini beri +15% damage\n- Saat Menyerang tanpa Cracking, beri 1 Pierce Fragility hingga giliran berikutnya (2 kali per giliran)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Aku menganggap senjata ini sebagai jackpot. Tombak ini juga memiliki sifat pendorong otomatis, yang memungkinkannya menembus target—dan apa pun yang menghalanginya, baik itu dinding atau seseorang.\""
+    },
+    {
+      "id": "RienWeapon08Chain",
+      "name": "Ketika mencabik daging menjadi sepuluh ribu potongan dengan cambuk...",
+      "desc": "- Beri Blunt damage\n- Coin ini beri +10% damage\n- Saat Menyerang tanpa Cracking, beri 1 Blunt Fragility (2 kali per giliran)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RienWeapon08Chain2phase",
+      "name": "Ketika mencabik daging menjadi sepuluh ribu potongan dengan cambuk...",
+      "desc": "- Beri Blunt damage\n- Coin ini beri +15% damage\n- Saat Menyerang tanpa Cracking, beri 1 Blunt Fragility hingga giliran berikutnya (2 kali per giliran)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Meskipun sebagian orang mungkin menyamakan senjata ini dengan kalah lotere... saya justru menyukainya.\n\nKetika cambuk ini dicambuk, bukan hanya membuat mereka berdarah; tetapi juga merobek sebagian daging target, bersamaan dengan tekad dan energi mereka.\n\nSaya menghargai bahwa ini memungkinkanku untuk mengamati seluruh proses bagaimana seseorang dihancurkan saat mereka dilemahkan. Oh, dan ini juga dapat digunakan untuk mencekik jika diperlukan.\""
+    },
+    {
+      "id": "RienWeapon09Scythe",
+      "name": "Ketika merobek ruang angkasa itu sendiri dengan sabit, seperti seseorang tertentu...",
+      "desc": "- Beri Slash damage\n- Coin ini beri +20% damage\n- Saat Menyerang tanpa Cracking, akan terjamin memberi serangan Crit",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RienWeapon09Scythe2phase",
+      "name": "Ketika merobek ruang angkasa itu sendiri dengan sabit, seperti seseorang tertentu...",
+      "desc": "- Beri Slash damage\n- Coin ini beri +30% damage\n- Saat Menyerang tanpa Cracking, akan terjamin memberi serangan Crit",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Sabit... Aku sama sekali tidak mengerti bagaimana cara menggunakan senjata ini sampai aku melihat Blue Reverberation menggunakan sabitnya sendiri.\n\n\nBahkan setelah aku mengamatinya, Prescript terus tidak memberiku senjata lain selain sabit untuk sementara waktu. Akhirnya, sabit itu menjadi senjata favoritku, paling akrab, dan paling tajam.\n\n\nSenjata ini juga yang terbaik dalam memotong. Meskipun ada banyak teknik untuk memotong ruang itu sendiri— Hm. Mungkin cerita ini lebih baik disimpan untuk lain waktu.\""
+    },
+    {
+      "id": "Ryoshu_RienBattle_1Phase",
+      "name": "Ketsuen [けつえん]",
+      "desc": "HP Ryōshū tidak dapat turun di bawah 1 selama ada 1 atau lebih kawan yang hidup di Pertempuran ini\n- Clash Power +1; Saat Menyerang, beri +10% damage\n- Pada Menang Clash, peroleh 1 E.G.O resource untuk setiap 3 Affinity paling sedikit\n- Ketika menerima damage yang akan men-Stagger unit ini, tidak terkena Stagger dan hilangkan Batas Stagger yang dimaksud; dan peroleh 1 Attack Power Up giliran berikutnya (tidak ada batas aktivasi)\n- Tidak Dapat Mundur",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Sarung pedang satu-satunya milik Ryōshū, dibuat untuk mengendalikan Pedang Tiansha Star - Arayashiki. Ini adalah E.G.O. Araya, ditempa dalam api abadi."
+    },
+    {
+      "id": "Ryoshu_RienBattle_2Phase",
+      "name": "Renketsuen [れんけつえん]",
+      "desc": "HP Ryōshū tidak dapat turun di bawah 1 selama ada 1 atau lebih kawan yang hidup di Pertempuran ini\n- Clash Power +2; Saat Menyerang, beri +25% damage\n- Untuk setiap Luka Membara Stack pada target:\n· Offense Level +1, Defense Level +1\n· Beri +5% damage Saat Menyerang (maks 25%); jika unit ini used a Base E.G.O Skill, beri +50% damage per Stack saja (maks 250%)\n- Pada Menang Clash, peroleh 1 E.G.O resource untuk setiap 3 Affinity paling sedikit\n- Ketika menerima damage yang akan men-Stagger unit ini, tidak terkena Stagger dan hilangkan Batas Stagger yang dimaksud; dan peroleh 1 Attack Power Up giliran berikutnya (tidak ada batas aktivasi)\n- Tidak Dapat Mundur",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Ego yang paradoks, karena egonya redup.\nJangan samakan apa yang tampak sebagai pengabdian total kepada orang lain dengan altruisme absolut.\nSeseorang harus memiliki egoisme absolut untuk menempatkan arti penting kehidupan orang lain di atas kehidupannya sendiri.\n\n\"Aku tidak ingin mama melupakanku, tapi... lebih dari itu, aku tidak ingin kehilangannya.\"\n\"Jadi lupakan aku untuk sementara, dan jaga dirimu sendiri.\"\""
+    },
+    {
+      "id": "PainfulScar_Panic",
+      "name": "Imitasi seorang Ayah",
+      "desc": "- Panik\n- Awal Giliran: Peroleh 5 Burn, +3 Burn Count, 5 Bleed, dan +3 Bleed Count\n- Terima +20% damage dari Pendosa Ryōshū",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PainfulScar_LowMorale",
+      "name": "Imitasi seorang Ayah",
+      "desc": "- Moral Rendah\n- Awal Giliran: Peroleh 5 Burn dan 5 Bleed\n- Terima +10% damage dari Pendosa Ryōshū",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BlackNightmare",
+      "name": "Kesenangan dalam Prescript",
+      "desc": "- Beri +2 lebih Sinking Potency dan Count\n- Kadaluarsa pada Akhir Giliran; lalu, peroleh (number of Skill that kalah Clash giliran ini x 5) Konsekuensi Karma",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Penerimaan terhadap Prescript itu tampak jelas dalam pelaksanaannya; namun, di balik topeng itu, dapat terlihat sekilas sedikit rasa kesal terhadapnya.\nNamun, karena ia dapat menikmati semua penderitaan dan kesenangan dunia di balik topeng \"Prescriptnya\", kerinduan sejatinya yang terpendam diakhiri dengan rasa syukur."
+    },
+    {
+      "id": "RyoshuParrySojiWe",
+      "name": "Benang Merah",
+      "desc": "- Skill Slot +3\n- Beri +50% damage ke Nursefather Pinky\n- Untuk Pertempuran ini: Setelah menggunakan Skill, peroleh 1 E.G.O resource dari Afinitas Skill dan 1 E.G.O resource paling sedikit (2 kali per giliran)\n- Tidak Dapat Mundur",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "'Jika benang tunggal ini adalah satu-satunya hal yang menghubungkan kau dan aku, aku akan berpegang teguh padanya dengan segenap keberadaanku.'"
+    },
+    {
+      "id": "RyoshuParrySojiThey",
+      "name": "Benang Merah",
+      "desc": "- Ubah semua Coin Skill menjadi Unbreakable Coin\n- Final Power +4",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "'Sekuat apapun usaha kita melarikan diri, benang  ini akan tetap memaksa kita untuk berpapasan. Benang ini menolak untuk putus, apa pun yang kulakukan...'"
+    },
+    {
+      "id": "CriticalDamageUp",
+      "name": "Crit DMG Naik",
+      "desc": "Untuk giliran ini: Beri +10% damage pada Serangan Critical untuk setiap Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "KAA1C9ActivateEffect",
+      "name": "Ampul K Corp. yang Digunakan",
+      "desc": "Ampul K Corp. Digunakan",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RyoshuParryIndexFingerWe",
+      "name": "Benang Merah",
+      "desc": "",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    },
+    {
+      "id": "RyoshuParryIndexFingerThey",
+      "name": "Benang Merah",
+      "desc": "",
+      "summary": "",
+      "undefined": "-",
+      "flavor": ""
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "dataList": [
+    {
+      "id": 2010112,
+      "levelList": [
+        {
+          "level": 4,
+          "name": "Crow’s Eye View",
+          "abName": "Yi Sang",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Reduction] giliran ini dan giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Agility] to semua kawan giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Binding] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030112,
+      "levelList": [
+        {
+          "level": 4,
+          "name": "La Sangre de Sancho",
+          "abName": "Don Quixote",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 8 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan sebanyak 50% of damage dealt"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050112,
+      "levelList": [
+        {
+          "level": 4,
+          "name": "Chains of Others",
+          "abName": "Meursault",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 3 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Reduction] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 3 [Reduction] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [Protection] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060112,
+      "levelList": [
+        {
+          "level": 4,
+          "name": "Land of Illusion",
+          "abName": "Hong Lu",
+          "desc": "[EndSkill] Pulihkan 15 SP for unit ini dan semua kawan\n[EndSkill] Hilangkan Burn dari unit ini dan semua kawan",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110112,
+      "levelList": [
+        {
+          "level": 4,
+          "name": "To Páthos Máthos",
+          "abName": "Outis",
+          "desc": "Jika target’s HP is di bawah 50%, beri +30% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Burst]"
+                },
+                {
+                  "desc": "[EnemyKill] Beri 1 [AttackDmgUp] to a acak kawan"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

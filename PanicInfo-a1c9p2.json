@@ -1,0 +1,22 @@
+{
+  "dataList": [
+    {
+      "id": 1070,
+      "panicName": "Kasih Sayang dan Kebencian",
+      "lowMoraleDescription": "Beri +10% damage ke dan terima +10% damage dari Ryōshū",
+      "panicDescription": "Beri +20% damage ke dan terima +10% damage dari Ryōshū"
+    },
+    {
+      "id": 1074,
+      "panicName": "Vexation",
+      "lowMoraleDescription": "Peroleh 1 [PenetrateResultUp] dan 1 [MentalIncreaseDown]",
+      "panicDescription": "Peroleh 2 [PenetrateResultUp], 1 [PenetrateDamageUp], dan 2 [MentalIncreaseDown]"
+    },
+    {
+      "id": 1072,
+      "panicName": "Risiko Ketidakpatuhan Prescript",
+      "lowMoraleDescription": "Beri +20% damage ke [IndexPrescriptTargetToPersonality]\nTerima +10% damage dari those who are not [IndexPrescriptTargetToPersonality]",
+      "panicDescription": "Beri +30% damage ke [IndexPrescriptTargetToPersonality]\nTerima +20% damage dari those who are not [IndexPrescriptTargetToPersonality]"
+    }
+  ]
+}

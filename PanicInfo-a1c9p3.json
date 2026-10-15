@@ -1,0 +1,76 @@
+{
+  "dataList": [
+    {
+      "id": 1071,
+      "panicName": "Degradasi Corrosion",
+      "lowMoraleDescription": "Awal Giliran: Peroleh 1 [Vulnerable]",
+      "panicDescription": "Awal Giliran: Peroleh 1 [Vulnerable] dan 5 [Combustion]"
+    },
+    {
+      "id": 1073,
+      "panicName": "Gelombang Somnolence",
+      "lowMoraleDescription": "Peroleh 1 lebih sedikit [LanternHohenheimBigBird] dari Skill",
+      "panicDescription": "Tidak bertindak untuk giliran ini"
+    },
+    {
+      "id": 1078,
+      "panicName": "Aib dari Keluarga",
+      "lowMoraleDescription": "Awal Giliran: Peroleh 1 [SlashDamageUp], 1 [ParryingResultUp], dan 1 [Vulnerable]\nTidak dapat peroleh Mang ketika menggunakan Skill",
+      "panicDescription": "Awal Giliran: Peroleh 2 [SlashDamageUp], 2 [ParryingResultUp], dan 2 [Vulnerable]\nTidak dapat peroleh Mang ketika menggunakan Skill"
+    },
+    {
+      "id": 1079,
+      "panicName": "\"B-bunuh... bunuh aku...\"",
+      "lowMoraleDescription": "Awal Giliran: Peroleh 8 [ParryingResultDown] dan 5 [ResultReduction]",
+      "panicDescription": "Awal Giliran: Peroleh 10 [ParryingResultDown] dan 5 [ResultReduction]"
+    },
+    {
+      "id": 1077,
+      "panicName": "Seni Tertinggal Jaman",
+      "lowMoraleDescription": "Awal Giliran: Peroleh 1 [AttackUp]",
+      "panicDescription": "Awal Giliran: Peroleh 2 [AttackUp]"
+    },
+    {
+      "id": 1075,
+      "panicName": "Amukan Gila",
+      "lowMoraleDescription": "Awal Giliran: Peroleh 2 [Enhancement] dan 4 [DefenseDown]; peroleh 1 [AttackDmgUp] untuk setiap 30 HP damage diterima di giliran sebelumnya (maks 5)",
+      "panicDescription": "Awal Giliran: Peroleh 3 [Enhancement] dan 5 [DefenseDown]; peroleh 1 [AttackDmgUp] untuk setiap 25 HP damage diterima di giliran sebelumnya (maks 5)"
+    },
+    {
+      "id": 1076,
+      "panicName": "Semangat",
+      "lowMoraleDescription": "Awal Giliran: Peroleh 2 [DefenseDown]; peroleh 1 [AttackDmgUp] untuk setiap 30 HP damage diterima di giliran sebelumnya (maks 5)",
+      "panicDescription": "Awal Giliran: Peroleh 1 [Enhancement] dan 3 [DefenseDown]; peroleh 1 [AttackDmgUp] untuk setiap 25 HP damage diterima di giliran sebelumnya (maks 5)"
+    },
+    {
+      "id": 1081,
+      "panicName": "Tubuh Rusak Melampau Perbaikan",
+      "lowMoraleDescription": "Awal Giliran: Peroleh 1 [Vulnerable] dan beri 2 [Endurance] ke Ezra dan Vespa",
+      "panicDescription": "Peroleh 1 [Vulnerable] dan gunakan 'Tenangkan Nafas'"
+    },
+    {
+      "id": 1082,
+      "panicName": "Kegelisahan: Topeng",
+      "lowMoraleDescription": "Base Attack Power -1, Defense Level +2",
+      "panicDescription": "Base Attack Power -1, Defense Level +3"
+    },
+    {
+      "id": 1083,
+      "panicName": "Alaya",
+      "lowMoraleDescription": "-",
+      "panicDescription": "-"
+    },
+    {
+      "id": 1080,
+      "panicName": "Dari Smoke War Ke-Dua",
+      "lowMoraleDescription": "Awal Giliran: Peroleh 1 [Vulnerable]\nSP Pulihkan Efficiency +2",
+      "panicDescription": "Awal Giliran: Peroleh 2 [Vulnerable] dan 2 [ParryingResultUp]"
+    },
+    {
+      "id": 1084,
+      "panicName": "Imitasi seorang Ayah",
+      "lowMoraleDescription": "- Awal Giliran: Peroleh 5 [Combustion] dan 5 [Laceration]\n- Terima +10% damage dari Sinner Ryōshū",
+      "panicDescription": "- Awal Giliran: Peroleh 5 [Combustion], +3 [Combustion] Count, 5 [Laceration], dan +3 [Laceration] Count\n- Terima +20% damage dari Sinner Ryōshū"
+    }
+  ]
+}

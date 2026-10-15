@@ -1,0 +1,22 @@
+{
+  "dataList": [
+    {
+      "id": 1061,
+      "panicName": "Heart of Compassion",
+      "lowMoraleDescription": "- Beri +([NervousImpairment] pada target / 2)% damage (maks 15%)\n- Awal Giliran: peroleh 1 [AttackDmgUp] dan 2 [Vulnerable]",
+      "panicDescription": "- Beri +([NervousImpairment] pada target)% damage (maks 30%)\n- Awal Giliran: peroleh 2 [AttackDmgUp] dan 3 [Vulnerable]"
+    },
+    {
+      "id": 1062,
+      "panicName": "Call of the Bloodkin",
+      "lowMoraleDescription": "Akhir Giliran: konsumsi 3% HP untuk beri 1 [Enhancement] dan 1 [Vulnerable] ke semua kawan",
+      "panicDescription": "Akhir Giliran: konsumsi 5% HP dan peroleh 1 [Vulnerable] untuk beri 1 [Enhancement] dan 1 [Vulnerable] ke semua kawan"
+    },
+    {
+      "id": 1064,
+      "panicName": "Hive Mind",
+      "lowMoraleDescription": "Semua Resistances ubah to 'Normal'",
+      "panicDescription": "Semua Resistances ubah to 'Normal'\nDouble jumlah dari [Combustion], [Laceration], [Vibration], dan [Burst] Potency diperoleh karena efek Skill"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "dataList": [
+    {
+      "id": 142201,
+      "name": "The Ring's Docent of Fauvism",
+      "desc": "Awal Giliran: <color=#ff6000><mark=#ff000040><b><u>Peroleh 2 [Protection]</u></b></mark></color> untuk setiap allied Fauvist Student of the Ring\n- Jika unit ini used \"Critique\" di Pertempuran ini, peroleh 2 [Protection] dan pulihkan 5 SP saja starting dari the giliran berikutnya\n(Pada lower than -15 SP, double the SP-pemulihan efek)\n- Jika tidak ada allied Fauvist Students of the Ring, peroleh 2 [Vulnerable] dan kurangi SP unit ini turun hingga 0 saja\n\nImmediately Sebelum Terkena Serangan oleh Skill yang memiliki 1 Atk Weight, jika there adalah allied Student of the Ring, <color=#ff6000><mark=#ff000040><b><u>have the said unit terima the attack saja (2 kali per giliran, mengecualikan Assist Unit)</u></b></mark></color>\n\nAkhir Giliran of the giliran unit ini used \"Critique\": Jika an allied Fauvist Student of the Ring was dikalahkan di Pertempuran ini, <color=#ff6000><mark=#ff000040><b><u>refill its vacancy dengan the same Student unit</u></b></mark></color>\n- Every Awal Giliran: The Student that refilled the vacancy karena efek ini peroleh (# dari kawan dikalahkan di Pertempuran ini) [Vulnerable] dan [AttackDown] (maks 10 setiap)",
+      "summary": "Immediately sebelum terkena serangan, force an allied Student to terima the hit saja",
+      "flavor": ""
+    },
+    {
+      "id": 142202,
+      "name": "Mentorship",
+      "desc": "Awal Giliran: Secara acak beri [AttackUp] dan [DefenseUp] to allied Fauvist Students of the Ring setara dengan jumlah dari giliran (termasuk the current giliran) setiap unit has survived, masing-masing (maks 5)\n\nAkhir Giliran: Jika an allied Student kena Stagger, <color=#ff6000><mark=#ff000040><b><u>pulih them dari Stagger</u></b></mark></color>\n- Semua Attack Type dan Affinity Resistance for the Students who recovered dari Stagger karena efek ini menjadi \"Fatal\" selama giliran berikutnya\n\nAkhir Giliran: Jika a Student is in Panik, pulihkan their SP hingga 45",
+      "summary": "",
+      "flavor": ""
+    },
+    {
+      "id": 142203,
+      "name": "Le Fauvisme - Couleurs Sauvages",
+      "desc": "Akhir Pertempuran: <color=#ff6000><mark=#ff000040><b><u>Beri 1 [IntenseColors] giliran berikutnya</u></b></mark></color> to Pendosa yang memiliki [BearClawWound], [EagleClawWound], dan [BoldBrushstrokes] secara bersamaan\n- Jika target memiliki 3+/6+/9+ [BearClawWound] dan [EagleClawWound] setiap, beri 2/3/4 [IntenseColors] saja (amount diberikan is berdasarkan efek yang memiliki the least Stack)",
+      "summary": "Beri Palette Vibrante",
+      "flavor": "'Intrinsic in the outward appearance of setiap animal is a distinct purpose. And we les Fauves are the ones who awaken dan express the ferity of those that we call wild beasts di antara them.'"
+    },
+    {
+      "id": 142204,
+      "name": "Casque de Fauve - Empreinte Vitale",
+      "desc": "Peroleh the efek of [PanicChangeLock]\nAkhir Giliran: Jika unit ini Panik, reset SP ke 20\n\n<color=#ff6000><mark=#ff000040><b><u>Pada 70%- HP, peroleh pola baru</u></b></mark></color>\n- Hapus semua efek selain yang eksklusif ke unit ini\n- First Awal Giliran of the new pattern: Peroleh [FaubismWolfMask] dan pulihkan hingga 45 SP",
+      "summary": "",
+      "flavor": ""
+    },
+    {
+      "id": 142301,
+      "name": "Rufo, a Docent of The Ring's School of Fauvism",
+      "desc": "Pada giliran unit ini menggunakan serangan kuat, Min & Maks Speed +15\n\nTerima -30% damage dari Serangan Tanpa Lawan\nBeri +30% damage dengan Serangan Tanpa Lawan\n- Jika the Slot targeted sebanyak unit ini's Serangan Tanpa Lawan has 2+ [Aggro], kurangi the increased damage dari efek ini sebanyak 5% per [Aggro] Stack (min 0%)\n\nPada Kalah Clash, peroleh 1 [AttackDmgUp] (5 per giliran)\n- Pada Akhir Giliran, atau pada Akhir Serangan of Skill that hit a Pendosa, the [AttackDmgUp] efek diperoleh dengan efek ini kadaluarsa",
+      "summary": "Terima damage lebih sedikit dan beri damage lebih dengan Serangan Tanpa Lawan\nPada Kalah Clash, peroleh Damage Up",
+      "flavor": ""
+    },
+    {
+      "id": 142302,
+      "name": "Le Fauvisme - Masque de Loup : Résurgence de la Sauvagerie",
+      "desc": "Awal Giliran: <color=#ff6000><mark=#ff000040><b><u>Peroleh 8 [Protection]</u></b></mark></color>\n- Peroleh 2 lebih sedikit [Protection] pada Awal Giliran <color=#ff6000><mark=#ff000040><b><u>untuk setiap tipe efek negatif pada unit ini</u></b></mark></color>\n- <color=#ff6000><mark=#ff000040><b><u>Saat Kalah Clash menggunakan \"Burst Forth the Pulsing Crimson under Your Skin\" Skill, peroleh 2 [Vulnerable] dari efek ini saja</u></b></mark></color> selama giliran berikutnya\n\n<color=#ff6000><mark=#ff000040><b><u>Peroleh 1 Defense Level setiap time unit ini diserang</u></b></mark></color> oleh Skill Coin (maks 20 per giliran)\n- Akhir Giliran: Defense Level diperoleh karena efek ini kadaluarsa\n- <color=#ff6000><mark=#ff000040><b><u>Saat Kalah Clash menggunakan \"Burst Forth the Pulsing Crimson under Your Skin\" Skill, kehilangan 1 Defense Level setiap time unit ini diserang oleh Skill Coin saja</u></b></mark></color> selama giliran berikutnya (maks 20; kadaluarsa pada Akhir Giliran)",
+      "summary": "Ketika diserang, peroleh Defense Level\nJika unit ini kalah Clash menggunakan a Skill tertentu, kehilangan Defense Level saja",
+      "flavor": ""
+    },
+    {
+      "id": 142303,
+      "name": "Le Fauvisme - Couleurs Sauvages",
+      "desc": "Akhir Pertempuran: <color=#ff6000><mark=#ff000040><b><u>Beri 1 [IntenseColors] giliran berikutnya</u></b></mark></color> to Pendosa yang memiliki [BearClawWound], [EagleClawWound], dan [BoldBrushstrokes] secara bersamaan\n- Jika target memiliki 3+/6+/9+ [BearClawWound] dan [EagleClawWound] setiap, beri 2/3/4 [IntenseColors] saja (amount diberikan is berdasarkan efek yang memiliki the least Stack)",
+      "summary": "Beri Palette Vibrante",
+      "flavor": "'Intrinsic in the outward appearance of setiap animal is a distinct purpose. And we les Fauves are the ones who awaken dan express the ferity of those that we call wild beasts di antara them.'"
+    },
+    {
+      "id": 142304,
+      "name": "Le Fauvisme - Maximum Paint Tolerance Dose",
+      "desc": "Peroleh the efek of [PanicChangeLock]\nAkhir Giliran: Jika unit ini Panik, reset SP ke 30\n\n<color=#ff6000><mark=#ff000040><b><u>Pada 35%- HP, ubah [FaubismWolfMask] menjadi [FaubismWolfMaskBlooded], dan pulihkan hingga 45 SP</u></b></mark></color>",
+      "summary": "",
+      "flavor": ""
+    },
+    {
+      "id": 142401,
+      "name": "Remnant of Art",
+      "desc": "On kematian, beri +2 E.G.O resource dari Afinitas paling sedikit",
+      "summary": "Give E.G.O resource on kematian",
+      "flavor": ""
+    }
+  ]
+}

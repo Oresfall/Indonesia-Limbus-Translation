@@ -1,0 +1,862 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Koridor Nursefather Pinky",
+      "content": "Setelah meninggalkan kediaman Rien, kami menjelajahi Koridor Index sebentar..."
+    },
+    {
+      "id": 1,
+      "content": "... tetapi tidak menemukan apapun yang dapat membantu menyusun kembali ingatan Ryōshū."
+    },
+    {
+      "id": 2,
+      "model": "앨런",
+      "content": "Kerja bagus. Sekarang tinggal Koridor Nursefather Pinky..."
+    },
+    {
+      "id": 3,
+      "model": "앨런",
+      "content": "... Tapi ruangan itu tidak punya <ruby=Pintu Belakang>Backdoors</ruby> untuk kita jelajahi. Ada tak terhitung banyaknya di Koridor sebelah, tetapi pedoman kami membuatnya agak sulit untuk mendalami masing-masing pintu dengan segera."
+    },
+    {
+      "id": 4,
+      "model": "앨런",
+      "content": "Yang artinya pekerjaan kita di sini sudah selesai. Terima kasih atas bantuannya, Dante."
+    },
+    {
+      "id": 5,
+      "model": "단테",
+      "content": "<Ah, oke... Baguslah kalau kita bisa membantu.>"
+    },
+    {
+      "id": 6,
+      "model": "파우스트",
+      "content": "Dante menjawab bahwa saya dan yang lainnya senang telah membantu."
+    },
+    {
+      "id": 7,
+      "model": "앨런",
+      "content": "Kalau begitu, ini adalah sebuah kehormatan."
+    },
+    {
+      "id": 8,
+      "content": "Setelah berjabat tangan sejenak, Alan kembali ke pangkalan depan."
+    },
+    {
+      "id": 9,
+      "content": "Kami mungkin harus melakukan hal yang sama, tapi..."
+    },
+    {
+      "id": 10,
+      "model": "단테",
+      "content": "<Mau lihat-lihat dulu?>"
+    },
+    {
+      "id": 11,
+      "model": "료슈2",
+      "content": "... Boleh."
+    },
+    {
+      "id": 12,
+      "content": "... karena kami memiliki urusan lebih dari sekadar memeriksa pintu, kami memutuskan untuk tinggal sedikit lebih lama dan menyelidiki Koridor Pinky."
+    },
+    {
+      "id": 13,
+      "content": "Ruangan Nursefather Pinky memiliki... struktur yang aneh."
+    },
+    {
+      "id": 14,
+      "content": "Setiap pintu yang kami buka menuju ke ruangan dengan bentuk yang identik dengan ruangan sebelumnya."
+    },
+    {
+      "id": 15,
+      "content": "Dan meskipun aku yakin kami telah melewati cukup banyak ruangan, entah bagaimana kami mendapati diri kami kembali ke titik awal."
+    },
+    {
+      "id": 16,
+      "model": "이스마엘",
+      "content": "Ada beberapa perbedaan desain kecil antara setiap ruangan yang membantu membedakannya, tapi... sulit membedakan yang mana kecuali kalau kita benar-benar memperhatikan setiap detailnya."
+    },
+    {
+      "id": 17,
+      "model": "단테",
+      "content": "<Di mana kita sekarang?>"
+    },
+    {
+      "id": 18,
+      "model": "뉴키라",
+      "content": "Dapur?"
+    },
+    {
+      "id": 19,
+      "model": "료슈",
+      "content": "...? Tau darimana?"
+    },
+    {
+      "id": 20,
+      "model": "뉴키라",
+      "content": "Aku pernah ke sini sebelumnya. Seseorang menghilang begitu saja setelah berjanji buat nonton klip Fixer bareng, jadi kupikir aku akan berkunjung."
+    },
+    {
+      "id": 21,
+      "model": "뉴키라",
+      "content": "Itu seseorang yang pernah kalian temui juga, kayaknya, uh..."
+    },
+    {
+      "id": 22,
+      "model": "뉴키라",
+      "content": "Namanya... uhm..."
+    },
+    {
+      "id": 23,
+      "model": "료슈",
+      "content": "Pasti yang lain yang ditebas oleh Arayashiki."
+    },
+    {
+      "id": 24,
+      "model": "뉴키라",
+      "content": "Sial... Mungkin saja."
+    },
+    {
+      "id": 25,
+      "model": "단테",
+      "content": "<Namanya Ren. Murid Pinky.>"
+    },
+    {
+      "id": 26,
+      "content": "Aku berdetik-detak, tetapi tidak ada seorang pun di sini yang benar-benar tampaknya ingin mengatakan sesuatu tentang itu. Kurasa itu masuk akal—lagipula, keberadaannya tidak ada pada siapapun di sini selain aku."
+    },
+    {
+      "id": 27,
+      "model": "그레고르",
+      "content": "Jadi, sewaktu kamu bilang di K Corp. kalau kamu pernah memasak sebelumnya... kamu membicarakan tentang ini, ya?"
+    },
+    {
+      "id": 28,
+      "model": "료슈2",
+      "content": "*huff* Ya."
+    },
+    {
+      "id": 29,
+      "model": "료슈2",
+      "content": "Aku biasa menampilkan artistik kuliner sengit di sini."
+    },
+    {
+      "id": 30,
+      "model": "단테",
+      "content": "<... Um, sarung pedangmu berguncang.>"
+    },
+    {
+      "id": 31,
+      "model": "료슈2",
+      "content": "Ulasannya sangat bagus. Salah satunya adalah U.E.N.A.K., yang berarti \"Uwah, Emang Nikmatnya Absolut Komplit!\""
+    },
+    {
+      "id": 32,
+      "content": "Sarung pedang—Araya—bergoyang ke kiri dan ke kanan dengan gigih sebagai upaya berani untuk menolak klaim Ryōshū."
+    },
+    {
+      "id": 33,
+      "content": "Pasti rasanya parah banget, ya..."
+    },
+    {
+      "id": 34,
+      "model": "그레고르",
+      "content": "Tsk... Aku agak sulit mempercayainya, kalau kamu bertanya padaku."
+    },
+    {
+      "id": 35,
+      "model": "싱클레어",
+      "content": "Apa yang biasanya kamu buat?"
+    },
+    {
+      "id": 36,
+      "model": "료슈2",
+      "content": "... Kotak bekal."
+    },
+    {
+      "id": 37,
+      "model": "료슈",
+      "content": "Kotak bekal yang... dibawa anak-anak ke sekolah dasar. Dengan sosis yang dipotong seperti gurita dan <ruby=telur dadar>tamagoyaki</ruby>."
+    },
+    {
+      "id": 38,
+      "model": "이스마엘",
+      "content": "Bukannya agak terlalu sederhana ya untuk disebut \"artistik kuliner sengit\"?"
+    },
+    {
+      "id": 39,
+      "model": "료슈",
+      "content": "D.S.B."
+    },
+    {
+      "id": 40,
+      "model": "료슈",
+      "content": "Tidak taukah kamu? Tak ada yang seperti persaingan bekal sekolah."
+    },
+    {
+      "id": 41,
+      "place": "Kamar Ryōshū, Masa Lalu",
+      "model": "아라야공백",
+      "content": "Jadi aku mau sosis gurita, tamagoyaki, sama..."
+    },
+    {
+      "id": 42,
+      "model": "과거료슈3",
+      "content": "... Kenapa kita membuat sosis dari gurita?"
+    },
+    {
+      "id": 43,
+      "model": "아라야공백",
+      "content": "Tidaak, maksudku sosis yang dipotong kayak gurita!"
+    },
+    {
+      "id": 44,
+      "model": "과거료슈3",
+      "content": "Dan kenapa kita... memotong sosis jadi bentuk gurita?"
+    },
+    {
+      "id": 45,
+      "model": "아라야공백",
+      "content": "Karena itu lucu!"
+    },
+    {
+      "id": 46,
+      "place": -1,
+      "model": "과거료슈3",
+      "content": "……."
+    },
+    {
+      "id": 47,
+      "model": "과거료슈3",
+      "content": "... Seperti ini?"
+    },
+    {
+      "id": 48,
+      "model": "료슈딸2",
+      "content": "A... apa itu...?"
+    },
+    {
+      "id": 49,
+      "model": "과거료슈3",
+      "content": "Sosis yang diukir menjadi bentuk gurita. Tidak melewatkan satu pun tentakel hisapnya."
+    },
+    {
+      "id": 50,
+      "model": "료슈딸2",
+      "content": "Bukan... Maksudku bukan gurita sungguhan! Itu harus kelihatan imut, oke?"
+    },
+    {
+      "id": 51,
+      "model": "과거료슈3",
+      "content": "... Bukankah itu semua sama saja setelah M.K.P....? Kenapa ini begitu penting?"
+    },
+    {
+      "id": 52,
+      "model": "료슈딸2",
+      "content": "Tapi... Ibu, tidak ada yang seperti persaingan bekal sekolah."
+    },
+    {
+      "id": 53,
+      "model": "과거료슈3",
+      "content": "... A.T.M."
+    },
+    {
+      "id": 54,
+      "model": "료슈딸2",
+      "content": "... Eh? Ibu pakai singkatan aneh Ibu lagi, kan?"
+    },
+    {
+      "id": 55,
+      "model": "과거료슈3",
+      "content": "Itu berarti \"Aku Tidak Mengerti.\""
+    },
+    {
+      "id": 56,
+      "model": "료슈딸2",
+      "content": "*haah*... Itu saatnya Ibu bilang \"IDK\" Bu! Pusing deh!"
+    },
+    {
+      "id": 57,
+      "content": "Ini pasti beberapa dari kenangan terindah yang dimiliki Ryōshū dan Araya bersama."
+    },
+    {
+      "id": 58,
+      "content": "Para <ruby=Pendosa>Sinners</ruby>, aku, dan Araya, bahkan sebagai sarung pedang, dapat membayangkan atau mengingatnya secara utuh..."
+    },
+    {
+      "id": 59,
+      "content": "... tetapi bagi Ryōshū, bagian terpenting dari kenangan itu tetap teriris."
+    },
+    {
+      "id": 60,
+      "content": "Tetap saja, jika kita bisa terus menyusun semakin banyak kenangannya bersama-sama dengan menelusuri tempat-tempat ini..."
+    },
+    {
+      "id": 61,
+      "place": "Koridor Nursefather Pinky",
+      "model": "단테",
+      "content": "<Apa kamu mau memeriksa apa yang ada di lantai atas juga?>"
+    },
+    {
+      "id": 62,
+      "content": "Namun, segera setelah aku bertanya, langkah kaki para <ruby=Pendosa>Sinners</ruby> berhenti secara bersamaan."
+    },
+    {
+      "id": 63, 
+      "model": "뉴키라",
+      "content": "... Tunggu."
+    },
+    {
+      "id": 64,
+      "model": "히스클리프",
+      "content": "Tunggu dulu, Jam. Jangan buka pintunya dulu."
+    },
+    {
+      "id": 65,
+      "content": "Aku menoleh ke belakang dan mendapati Kira dan Heathcliff bersiap untuk bertarung, tangan mereka memegang senjata..."
+    },
+    {
+      "id": 66,
+      "model": "뫼르소",
+      "content": "Lewat sini, Manajer."
+    },
+    {
+      "id": 67,
+      "content": "... dan Meursault, yang menyadari apa yang ditandai oleh hal itu, menarikku ke barisan paling belakang."
+    },
+    {
+      "id": 68,
+      "content": "Dan dalam hitungan detik..."
+    },
+    {
+      "id": 69,
+      "model": "료슈",
+      "content": "Jadi, ada seseorang yang membimbing anak-anak anjing itu. Pantas saja mereka mengirim lebih dari sekedar umpan ke <ruby=Rumah Laba-laba>House of Spiders</ruby>."
+    },
+    {
+      "id": 70,
+      "model": "료슈",
+      "content": "*huff* Bau anjing basah."
+    },
+    {
+      "id": 71,
+      "content": "... cakar dari lengan masif menebas tempat kami baru saja berdiri."
+    },
+    {
+      "id": 72,
+      "model": "털루포",
+      "teller": "???",
+      "title": "???",
+      "content": "......."
+    },
+    {
+      "id": 73,
+      "model": "단테",
+      "content": "<Topeng serigala...?>"
+    },
+    {
+      "id": 74,
+      "model": "털루포",
+      "teller": "???",
+      "title": "???",
+      "content": "Memang benar seperti yang dikatakan Maestro Émile Benoît—tempat ini sudah ditempati."
+    },
+    {
+      "id": 75,
+      "model": "털루포",
+      "teller": "???",
+      "title": "???",
+      "content": "Jika kamu bersedia membantuku memberi petunjuk arah..."
+    },
+    {
+      "id": 76,
+      "model": "털루포",
+      "teller": "???",
+      "title": "???",
+      "content": "... Apakah di sini tempat karya Master Callisto berada?"
+    },
+    {
+      "id": 77,
+      "content": "Pertanyaan itu datang dari seorang wanita yang muncul dari salah satu pintu menuju Koridor yang berbeda. Dia mengenakan topeng serigala, dan tidak seperti para Fauvist yang kami temui sejauh ini, dia tampaknya sengaja berbicara dan bertindak dengan penuh sopan."
+    },
+    {
+      "id": 78,
+      "content": "Namun petunjuk kejam yang halus dalam suaranya dengan cepat mengkhianati kesan kesopanan palsu ini."
+    },
+    {
+      "id": 79,
+      "model": "뉴키라",
+      "content": "Yakin kamu di alamat yang benar, mbak?"
+    },
+    {
+      "id": 80,
+      "model": "뉴키라",
+      "content": "Barang-barangnya paman robot, uh... tidak ada di bagian Rumah ini. Cari Koridor yang lain."
+    },
+    {
+      "id": 81,
+      "model": "털루포",
+      "teller": "???",
+      "title": "???",
+      "content": "Hm... Ya, aku menyadarinya."
+    },
+    {
+      "id": 82,
+      "model": "털루포",
+      "teller": "???",
+      "title": "???",
+      "content": "Tapi aku di sini bukan mencari ciptaannya, yang mudah disalahartikan sebagai sampah yang diproduksi secara massal."
+    },
+    {
+      "id": 83,
+      "content": "Aku bisa merasakan tatapannya yang intens meskipun wajahnya tertutup oleh topeng..."
+    },
+    {
+      "id": 84,
+      "content": "... dan tidak ada keraguan bahwa matanya menatap tajam ke arah Ryōshū."
+    },
+    {
+      "id": 85,
+      "content": "Tiba-tiba, aku teringat apa yang dikatakan Rien beberapa saat sebelum dia melarikan diri melalui Koridor."
+    },
+    {
+      "id": 86,
+      "model": "단테",
+      "content": "<... Kita membiarkan mereka mengamati kita terlalu bebas.>"
+    },
+    {
+      "id": 87,
+      "model": "싱클레어",
+      "content": "Apa? Apa maksudnya—"
+    },
+    {
+      "id": 88,
+      "model": "단테",
+      "content": "<Para Fauvist berhasil mengonfirmasi banyak intel penting—termasuk fakta bahwa Rumah Laba-laba telah runtuh, dan bahwa Ryōshū saat ini memegang Arayashiki.>"
+    },
+    {
+      "id": 89,
+      "model": "단테",
+      "content": "<... Mereka menginginkan Ryōshū untuk diri mereka sendiri, tidak peduli apakah dia \"selesai\" atau tidak—Ryōshū seperti yang ada saat ini.>"
+    },
+    {
+      "id": 90,
+      "model": "료슈",
+      "content": "*huff* Bukankah itu..."
+    },
+    {
+      "id": 91,
+      "model": "료슈2",
+      "content": "... Menarik. Untuk sekali ini."
+    },
+    {
+      "id": 92,
+      "model": "털루포",
+      "content": "Namaku Rufo."
+    },
+    {
+      "id": 93,
+      "model": "루포",
+      "content": "Yoshihide, bilah yang didambakan oleh <ruby=Jempol>Thumb</ruby>, <ruby=Telunjuk>Index</ruby>, <ruby=Tengah>Middle</ruby>, <ruby=Manis>Ring</ruby>, dan <ruby=Kelingking>Pinky</ruby>, karya mahakarya terakhir dan anumerta dari Master Callisto..."
+    },
+    {
+      "id": 94,
+      "model": "루포",
+      "content": "Sebagai Docent dari Fauvisme, izinkan aku kehormatan untuk mengawal kamu ke galeri kami."
+    },
+    {
+      "id": 95,
+      "model": "료슈",
+      "content": "*huff* ... Memangnya aku mau?"
+    },
+    {
+      "id": 96,
+      "model": "료슈",
+      "content": "Tidak melihat guna bergaul dengan orang-orang yang mengenakan T.B."
+    },
+    {
+      "id": 97,
+      "content": "Seperti yang diharapkan, Ryōshū menolak permintaan Rufo dengan balasan singkat,"
+    },
+    {
+      "id": 98,
+      "content": "dan Araya juga bergetar marah ke arah sang Docent."
+    },
+    {
+      "id": 99,
+      "model": "루포",
+      "content": "Kalau begitu... Aku khawatir satu-satunya pilihanku yang tersisa adalah mengandalkan metode pengawalan kami yang biasa."
+    },
+    {
+      "id": 100,
+      "model": "단테",
+      "content": "<... Bagaimana peluang kita?>"
+    },
+    {
+      "id": 101,
+      "model": "뉴키라",
+      "content": "Entahlah, dia mungkin lebih tangguh dariku saat statistikku mencapai batas maksimal."
+    },
+    {
+      "id": 102,
+      "model": "이스마엘",
+      "content": "Benarkah?"
+    },
+    {
+      "id": 103,
+      "model": "파우스트",
+      "content": "... Bentuk cincinnya menunjukkan bahwa dia adalah seorang Docent dari Aliran Fauvisme. Posisinya sebanding dengan Capo dari Thumb atau Kakak Besar dari Middle."
+    },
+    {
+      "id": 104,
+      "model": "돈키호테",
+      "content": "Sungguh, itu menjadikannya musuh yang mungkin melampaui kekuatan Ricardo, atau... jika ketimpa nasib buruk, bahkan Lei Heng..."
+    },
+    {
+      "id": 105,
+      "model": "료슈",
+      "content": "Ragu dia sekuat Lei Heng."
+    },
+    {
+      "id": 106,
+      "model": "료슈",
+      "content": "... peluang kita S.A.S.A.L."
+    },
+    {
+      "id": 107,
+      "model": "뉴키라",
+      "content": "Separuh, Atau Separuh Atau Lebih? Aku suka peluang itu."
+    },
+    {
+      "id": 108,
+      "model": "료슈",
+      "content": "Separuh <i>Atas</i> Separuh Atau Lebih."
+    },
+    {
+      "id": 109,
+      "model": "뉴키라",
+      "content": "Beneran nih?"
+    },
+    {
+      "id": 110,
+      "model": "료슈",
+      "content": "*huff*"
+    },
+    {
+      "id": 111,
+      "model": "료슈2",
+      "content": "\"Ketinggalan zaman,\" \"kuno.\""
+    },
+    {
+      "id": 112,
+      "model": "료슈2",
+      "content": "Kenapa mencari seni seorang \"mantan\" setelah sekian lama?"
+    },
+    {
+      "id": 113,
+      "model": "루포",
+      "content": "Itu adalah keputusan yang ditemui dengan banyak kebingungan sejak awal."
+    },
+    {
+      "id": 114,
+      "model": "루포",
+      "content": "Mempercayakan proyek sepenting itu ke tangan orang seperti Callisto... Mengapa, semua orang setuju bahwa itu tidak kalah konyolnya dengan membuang garam ke laut."
+    },
+    {
+      "id": 115,
+      "model": "루포",
+      "content": "Dan mereka cukup tepat dengan penilaian itu. Seluruh karyanya, yang dipulihkan dari Rumah, lebih merupakan alat daripada seni—jenis yang mungkin dirakit oleh orang-orang seperti Meister Workshop."
+    },
+    {
+      "id": 116,
+      "model": "루포",
+      "content": "Tidak ada Maestro yang menghargai diri sendiri yang akan menciptakan hal-hal biasa seperti itu dan menyebutnya \"seni.\""
+    },
+    {
+      "id": 117,
+      "model": "루포",
+      "content": "Sekarang, aku harus meminta maaf padamu karena menganggap kamu tidak berbeda dari sisa karyanya yang lain..."
+    },
+    {
+      "id": 118,
+      "model": "루포",
+      "content": "Tapi apa yang aku amati di atas ruangan ini benar-benar mengubah perspektifku."
+    },
+    {
+      "id": 119,
+      "model": "루포",
+      "content": "Koridor yang hangus, penuh keganasan yang merobek dinding dan lantai, seolah-olah binatang buas yang mengamuk telah merobeknya..."
+    },
+    {
+      "id": 120,
+      "model": "루포",
+      "content": "Hanya ada satu alat yang mungkin meninggalkan tanda seperti itu."
+    },
+    {
+      "id": 121,
+      "model": "료슈",
+      "content": "Setidaknya kamu punya mata yang cukup lumayan untuk seni."
+    },
+    {
+      "id": 122,
+      "model": "루포",
+      "content": "Yoshihide, aku bertanya padamu: Pernahkah kamu mempertimbangkan untuk mengejar seni dengan keindahan yang lebih tinggi?"
+    },
+    {
+      "id": 123,
+      "model": "루포",
+      "content": "Ini akan menjadi pengalaman yang menyimpang dari sisa-sisa bobrok yang menyebut dirinya \"Korporisme\"—sebuah gerakan yang sangat terkekang oleh obsesinya terhadap tubuh manusia sehingga, begitu telah menghabiskan semua makna yang ditawarkannya, mulai menaruh definisi kosong ke dirinya sendiri."
+    },
+    {
+      "id": 124,
+      "model": "루포",
+      "content": "Fauvisme adalah gerakan yang telah terbebas dari cetakan tradisional. Tanpa terikat seperti binatang buas yang berkeliaran bebas, kami memberanikan diri untuk mengajukan pertanyaan yang menantang pikiran: Apa itu \"manusia\"? Apa itu \"benda\"? Apa artinya merunut asal-usul? Bagaimana kita mendefinisikan apa yang kita sebut \"<ruby=binatang buas>le Fauve</ruby>\"? Ini adalah subjek yang telah membawa kami para Fauve ke dalam bidang kreativitas yang subur."
+    },
+    {
+      "id": 125,
+      "model": "루포",
+      "content": "Jika kamu, pengguna Relik itu, masuk ke dalam gerakan kami... itu akan melapisi karyamu dengan spektrum warna yang begitu gencar sehingga ditakdirkan untuk meninggalkan kesan yang tak terlupakan dalam catatan sejarah."
+    },
+    {
+      "id": 126,
+      "model": "루포",
+      "content": "Dengan kata lain, apa yang bisa kami tawarkan padamu akan jauh lebih bernilai daripada apa yang mungkin telah kamu pelajari dari seorang guru seperti Callisto."
+    },
+    {
+      "id": 127,
+      "model": "료슈",
+      "content": "*huff* Tidak pernah menganggapnya guruku. Bukan dalam arti sebenarnya lebih tepatnya."
+    },
+    {
+      "id": 128,
+      "model": "료슈2",
+      "content": "Menemukan keindahan di antara pembantaian darah dan daging adalah pelajaran yang kupelajari sendiri."
+    },
+    {
+      "id": 129,
+      "model": "료슈2",
+      "content": "Dan ya, aku tahu cukup banyak tentang gerakanmu."
+    },
+    {
+      "id": 130,
+      "model": "료슈",
+      "content": "Mungkin aku menganggap beberapa karya yang dibuat oleh Aliran-mu dapat diterima, setidaknya di antara seni Ring... atau tidak. Aku tidak ingat."
+    },
+    {
+      "id": 131,
+      "model": "루포",
+      "content": "Kalau begitu, akankah kamu...?"
+    },
+    {
+      "id": 132,
+      "model": "료슈",
+      "content": "Tapi aku tidak tahu."
+    },
+    {
+      "id": 133,
+      "model": "료슈2",
+      "content": "Aku tidak tahu apa yang membuat senimu lebih \"tinggi\" daripada seni yang kukejar."
+    },
+    {
+      "id": 134,
+      "model": "루포",
+      "content": "Seni yang kamu... kejar?"
+    },
+    {
+      "id": 135,
+      "model": "료슈",
+      "content": "Bukankah pemandangan yang kamu klaim telah lihat memberi petunjuk padamu?"
+    },
+    {
+      "id": 136,
+      "model": "루포",
+      "content": "Oh, tentu saja. Aku paham."
+    },
+    {
+      "id": 137,
+      "model": "루포",
+      "content": "Senimu mungkin tampak tidak lebih dari kekacauan yang tak terkendali sepintas lalu, tetapi setelah diamati lebih dekat, itu mengungkapkan kekuatan yang sengit dan dominan yang merangkai seluruh adegan menjadi satu dengan ketajamannya sebagai jahitan penghubung."
+    },
+    {
+      "id": 138,
+      "model": "루포",
+      "content": "Keterampilan pedangmu juga menunjukkan berlapis-lapisnya hal itu. Ketajaman semata sering kali membawa hal biasa, namun kamu telah melampaui batas seperti itu dengan menghanguskan bagian paling ujung dari setiap tebasan—sungguh rasa estetika yang unik."
+    },
+    {
+      "id": 139,
+      "model": "루포",
+      "content": "Aku percaya aku telah cukup memahami sejauh mana nilai artistik yang tertanam dalam adegan itu—"
+    },
+    {
+      "id": 140,
+      "model": "료슈",
+      "content": "*huff*"
+    },
+    {
+      "id": 141,
+      "model": "료슈2",
+      "content": "Tidak, kamu tidak paham."
+    },
+    {
+      "id": 142,
+      "model": "료슈2",
+      "content": "Pelukis kelas rendah seperti kamu sangat medioker sehingga kalian gagal mengenali keindahan yang terletak pada hal yang mengerikan."
+    },
+    {
+      "id": 143,
+      "model": "료슈2",
+      "content": "Kalian tidak berbuat banyak selain melukis neraka yang terpancar di mata kalian dan menyebut kedangkalan itu sebagai keindahan neraka."
+    },
+    {
+      "id": 144,
+      "model": "료슈2",
+      "content": "Kesedihan yang terkondensasi menjadi jeritan yang tertahan dalam sekejap, murka yang terlepas dari akal sehat, kilatan keputusasaan yang memudar dari yang tertebas..."
+    },
+    {
+      "id": 145,
+      "model": "료슈2",
+      "content": "Kamu tidak memikirkan apa arti dari masing-masing emosi itu, malah terobsesi dengan kualitas dangkal dari apa yang disaksikan. Biar kuajari hal lain."
+    },
+    {
+      "id": 146,
+      "model": "료슈",
+      "content": "Perhatikan baik-baik, karena aku tidak akan memberimu pelajaran bertele-tele lainnya."
+    },
+    {
+      "id": 147,
+      "content": "Ryōshū menyiapkan sarung pedangnya."
+    },
+    {
+      "id": 148,
+      "model": "료슈9장",
+      "content": "Pointilist, Fauvist, Suprematist, Blaue-Reiter, Cubist..."
+    },
+    {
+      "id": 149,
+      "model": "료슈9장",
+      "content": "Aku sudah mengunjungi sebagian galeri Ring, mendengar komentar mereka."
+    },
+    {
+      "id": 150,
+      "model": "료슈9장",
+      "content": "Tapi tidak ada satu pun yang kusukai."
+    },
+    {
+      "id": 151,
+      "model": "료슈9장",
+      "content": "Senimu adalah tumpukan definisi yang terlalu rumit yang terkubur di bawah simbol-simbol, terlapisi oleh cangkang-cangkang kosong."
+    },
+    {
+      "id": 152,
+      "model": "료슈9장",
+      "content": "Kamu dan senimu sama-sama terlalu banyak bicara."
+    },
+    {
+      "id": 153,
+      "model": "료슈9장",
+      "content": "Sama seperti milik Callisto. Terus mencoba mengambil dari gerakan lain, memaksa makna pada tempat yang tidak ada."
+    },
+    {
+      "id": 154,
+      "model": "료슈9장",
+      "content": "Keberlebihan itu mudah. Siapapun bisa melakukannya."
+    },
+    {
+      "id": 155,
+      "model": "료슈9장",
+      "content": "Yang melampaui sebagian besar orang... adalah membuatnya ringkas—seni penyingkatan."
+    },
+    {
+      "id": 156,
+      "model": "루포",
+      "content": "Begitu, jika semuanya disingkat satu per satu, tidak ada yang tersisa saat ketiadaannya..."
+    },
+    {
+      "id": 157,
+      "model": "루포",
+      "content": "... membuat kekosongan yang ditinggalkan sama sekali tidak bermakna."
+    },
+    {
+      "id": 158,
+      "model": "료슈9장",
+      "content": "Tidak. Kekosongan itulah yang tersisa."
+    },
+    {
+      "id": 159,
+      "model": "료슈9장",
+      "content": "Dan itu menyimpan hal-hal yang tidak dapat ditemukan di tempat lain."
+    },
+    {
+      "id": 160,
+      "model": "루포",
+      "content": "Apa ini, sebuah... manifesto Minimalist?"
+    },
+    {
+      "id": 161,
+      "model": "료슈9장",
+      "content": "Tidak, estetikaku melampaui pencarian kesederhanaan."
+    },
+    {
+      "id": 162,
+      "model": "료슈9장",
+      "content": "Aku mengejar perkecambahan alami dari kemurnian artistik—sebuah keadaan kesempurnaan di mana penyingkatan lebih lanjut adalah ketidakmungkinan."
+    },
+    {
+      "id": 163,
+      "model": "료슈9장",
+      "content": "S.A.N.G.R.I.A."
+    },
+    {
+      "id": 164,
+      "model": "루포",
+      "content": "......."
+    },
+    {
+      "id": 165,
+      "model": "루포",
+      "content": "Agak abstrak, bukan? Terlalu jauh, terlalu biasa, dengan ketiadaan yang jelas dari kualitas bermakna dan mencolok."
+    },
+    {
+      "id": 166,
+      "model": "루포",
+      "content": "Apa sebenarnya itu, yang mengangkat senimu di atas Fauvisme?"
+    },
+    {
+      "id": 167,
+      "model": "료슈",
+      "content": "*huff* Pelukis."
+    },
+    {
+      "id": 168,
+      "model": "료슈2",
+      "content": "Kami adalah tipe orang keras kepala yang tidak bisa diyakinkan hanya dengan kata-kata."
+    },
+    {
+      "id": 169,
+      "model": "루포",
+      "content": "Memang, tidak ada disiplin yang lebih subjektif daripada seni."
+    },
+    {
+      "id": 170,
+      "model": "루포",
+      "content": "Wacana mengenai sifatnya mungkin berlangsung selama berhari-hari, tetapi itu tidak akan mengubah fakta bahwa seni yang tidak terlihat adalah ilusi pretensius yang tidak bermakna pada akhirnya."
+    },
+    {
+      "id": 171,
+      "model": "료슈9장",
+      "content": "Kalau begitu, kurasa aku harus mengukirnya tepat di matamu."
+    },
+    {
+      "id": 172,
+      "model": "루포",
+      "content": "Silahkan lakukan, meskipun aku takut itu mungkin tertutupi oleh semangat estetikaku yang luar biasa."
+    },
+    {
+      "id": 173,
+      "model": "루포",
+      "content": "Aku, seorang Docent dari Le Fauvisme, secara pribadi menyambutmu di sesi kritikku."
+    }
+  ]
+}

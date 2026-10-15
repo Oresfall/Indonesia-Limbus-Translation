@@ -1,0 +1,278 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Kasino L1",
+      "model": "소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Untuk jaga-jaga aja..."
+    },
+    {
+      "id": 1,
+      "model": "소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Kalian tahu kan tujuan utamanya adalah memenangkan permainan yang diadakan di lantai paling atas, bukan menghancurkan lantai dasar kasino hingga menjadi puing-puing, iya kan?"
+    },
+    {
+      "id": 2,
+      "content": "Aku sangat yakin beberapa dari mereka nggak tau atau nggak peduli, tapi kayaknya aku nggak usah ngingatin dia."
+    },
+    {
+      "id": 3,
+      "model": "소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Kita tidak hanya harus mencapai puncak, kita juga harus memenangkan pertandingan sesuai dengan tujuan kita..."
+    },
+    {
+      "id": 4,
+      "model": "소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Karena itu, kita membutuhkan <ruby=keinginan>wishpower</ruby> agar hal itu bisa terjadi."
+    },
+    {
+      "id": 5,
+      "model": "소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Aku tak akan repot-repot mengulas secara detail bagaimana <ruby=keinginan>wishpower</ruby> yang berhasil kita kumpulkan sia-sia karena alasan yang tidak masuk akal. Itu hanya akan merusak moral kita."
+    },
+    {
+      "id": 6,
+      "content": "Aku harus menundukkan kepala, merasakan tusukan hati nurani yang menusuk hatiku."
+    },
+    {
+      "id": 7,
+      "model": "오티스",
+      "content": "Di mana kita bisa mengamankan <ruby=keinginan>wishpower</ruby> terbanyak di tempat ini?"
+    },
+    {
+      "id": 8,
+      "model": "소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Roulette yang ada di sebelah pintu masuk itu. Orang-orang yang mengunjungi kasino mencoba keberuntungan mereka setiap hari menggunakan roulette itu, dan mendapatkan atau kehilangan <ruby=keinginan>wishpower</ruby> tergantung pada hasilnya."
+    },
+    {
+      "id": 9,
+      "model": "오티스",
+      "content": "Benarkah begitu? Kalau begitu, saya akan mencari kesempatan untuk merebut kontainer yang terpasang padanya."
+    },
+    {
+      "id": 10,
+      "model": "단테",
+      "content": "<Apakah kamu yakin kamu bisa melakukannya?>"
+    },
+    {
+      "id": 11,
+      "model": "오티스",
+      "content": "Saya telah melakukan operasi yang tak terhitung jumlahnya dengan skala yang jauh lebih besar."
+    },
+    {
+      "id": 12,
+      "model": "오티스",
+      "content": "Kesalahan konyol anda tidak berarti apa-apa dalam konteks yang lebih luas, Manajer."
+    },
+    {
+      "id": 13,
+      "model": "오티스",
+      "content": "Ini pasti kesalahan para pekerja pengeruk yang menghalangi kemampuanmu untuk membuat keputusan yang masuk akal! Jangan biarkan kata-kata mereka menghalangimu!"
+    },
+    {
+      "id": 14,
+      "model": "단테",
+      "content": "<Konyol... oh gitu... tunggu dulu!>"
+    },
+    {
+      "id": 15,
+      "content": "Saat kami sedang sibuk membahas recana cadangan..."
+    },
+    {
+      "id": 16,
+      "content": "Heathcliff sudah berlari kencang menuju pintu masuk."
+    },
+    {
+      "id": 17,
+      "content": "Apakah kita terlalu fokus pada percakapan ini, ataukah kita semua kehilangan akal sehat?"
+    },
+    {
+      "id": 18,
+      "content": "Dalam kedua kasus tersebut, tak satu pun dari kami yang tahu apa yang sedang dia rencanakan."
+    },
+    {
+      "id": 19,
+      "model": "단테",
+      "content": "<Heathcliff?!>"
+    },
+    {
+      "id": 20,
+      "model": "히스클리프",
+      "content": "Astaga, bukankah sudah saatnya kita berhenti mengoceh dan langsung bertindak?"
+    },
+    {
+      "id": 21,
+      "content": "Lalu dia berteriak kepada petugas keamanan dengan suara lantang."
+    },
+    {
+      "id": 22,
+      "model": "히스클리프",
+      "content": "Kalian ga ada yang ngerasa malu apa?!"
+    },
+    {
+      "id": 23,
+      "model": "히스클리프",
+      "content": "Si pirang di sana itu masih pemula dan belum berpengalaman sama sekali."
+    },
+    {
+      "id": 24,
+      "model": "히스클리프",
+      "content": "Dan orang yang kita sebut manajer disana menderita gangguan ingatan parah dan tidak bisa menggunakan senjata sama sekali."
+    },
+    {
+      "id": 25,
+      "model": "히스클리프",
+      "content": "Kalian kesusahan ama yang ginian? konyol banget..."
+    },
+    {
+      "id": 26,
+      "model": "카지노경호원대장",
+      "teller": "Kepala Sekuriti",
+      "title": "Kasino J Corp",
+      "content": "Ngh... S-sialan, kamu..."
+    },
+    {
+      "id": 27,
+      "model": "싱클레어",
+      "content": "H-Heathcliff... itu tadi terlalu kejam..."
+    },
+    {
+      "id": 28,
+      "model": "단테",
+      "content": "<Setuju, setuju. jahat banget deh, Heathcliff.>"
+    },
+    {
+      "id": 29,
+      "model": "히스클리프",
+      "content": "Satu lagi, pentungan yang lu pegang sekarang pantas dipunyai pemilik yang lebih baik."
+    },
+    {
+      "id": 30,
+      "model": "카지노경호원대장",
+      "teller": "Kepala Sekuriti",
+      "title": "Kasino J Corp",
+      "content": "Si bangsat sombong...!"
+    },
+    {
+      "id": 31,
+      "content": "Petugas keamanan yang marah itu mengayunkan pentungannya dengan suara mendesis penuh amarah, melesat ke arah Heathcliff..."
+    },
+    {
+      "id": 32,
+      "content": "...dan saat Heathcliff menghindar, roda roulette di belakangnya menerima dampak benturan tersebut, sehingga hancur berkeping-keping."
+    },
+    {
+      "id": 33,
+      "model": "소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Wadah, wadah harapannya...!"
+    },
+    {
+      "id": 34,
+      "content": "Semburan cairan yang kuduga dulunya adalah <ruby=keinginan>wishpower</ruby> hingga beberapa saat yang lalu mengalir melalui sisa-sisa roulette yang malang."
+    },
+    {
+      "id": 35,
+      "content": "Seolah-olah sedang sekarat, Saude mengeluarkan jeritan menderita sebelum menutup mulutnya dengan kedua tangan... Aku tak bisa menahan diri untuk tidak memalingkan muka dari pemandangan tragis ini."
+    },
+    {
+      "id": 36,
+      "content": "“Saat aku besar nanti, aku ingin menjadi stiker harapan, memberikan harapan kepada semua orang!”"
+    },
+    {
+      "id": 37,
+      "content": "Aku hampir bisa mendengar mimpi-mimpi yang tak terwujud dari keinginan-keinginan yang hilang itu dalam imajinasiku."
+    },
+    {
+      "id": 38,
+      "model": "히스클리프",
+      "content": "Oi, denger ya, dasar goblok."
+    },
+    {
+      "id": 39,
+      "model": "히스클리프",
+      "content": "Lu mau ngaku ke bos lu kalo lu ngerusakin benda ini saat berantem dengan kami lalu dihambas ama dia?"
+    },
+    {
+      "id": 40,
+      "model": "히스클리프",
+      "content": "Ato, lu mau kasih kita lewat?"
+    },
+    {
+      "id": 41,
+      "model": "각잡힌카지노경호원",
+      "teller": "Keamanan Kaku",
+      "title": "Kasino J Corp",
+      "content": "I-Ini adalah... keberuntungan selama sebulan..."
+    },
+    {
+      "id": 42,
+      "model": "카지노경호원대장",
+      "teller": "Kepala Sekuriti",
+      "title": "Kasino J Corp",
+      "content": "......"
+    },
+    {
+      "id": 43,
+      "model": "카지노경호원대장",
+      "teller": "Kepala Sekuriti",
+      "title": "Kasino J Corp",
+      "content": "Diatas kalian nggak akan lebih aman lagi..."
+    },
+    {
+      "id": 44,
+      "model": "히스클리프",
+      "content": "Eh, gua ga pernah terlalu dekat dengan keamanan. Tapi terima kasih sarannya."
+    },
+    {
+      "id": 45,
+      "content": "Heathcliff datang kepada saya dengan salah satu bahunya terkilir, kemungkinan besar karena terkena goresan pentungan."
+    },
+    {
+      "id": 46,
+      "model": "히스클리프",
+      "content": "Napa liat-liat? Nih benerin gua."
+    },
+    {
+      "id": 47,
+      "model": "단테",
+      "content": "<......>"
+    },
+    {
+      "id": 48,
+      "model": "소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Aku putuskan. Mulai sekarang, aku tidak akan pernah lagi mencoba membahas rencana atau hal serupa dengan orang-orang ini."
+    },
+    {
+      "id": 49,
+      "model": "파우스트",
+      "content": "Akhirnya kamu sadar juga."
+    },
+    {
+      "id": 50,
+      "model": "에피",
+      "teller": "Effie",
+      "title": "LCCB",
+      "content": "Faust... Ini adalah salah satu saat di mana kamu lebih baik untuk diam saja."
+    },
+    {
+      "id": 51,
+      "content": "Dengan itu, kami segera naik ke lantai atas."
+    }
+  ]
+}

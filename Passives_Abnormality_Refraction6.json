@@ -1,0 +1,378 @@
+{
+  "dataList": [
+    {
+      "id": 956301,
+      "name": "Quickening of the Unborn",
+      "desc": "Pertarungan Start: Peroleh 1.3% HP as Perisai\nHP does not fall di bawah 90%\n\nJika unit ini's Perisai is broken before the end of Giliran 3,\nEnd the giliran immediately dan aktifkan <color=#ff6000><mark=#ff000040><b><u>a unique pattern</u></b></mark></color> giliran berikutnya\n\nPada Akhir Serangan dari \"The Quickening\" Skill: Akhiri Pertempuran"
+    },
+    {
+      "id": 956401,
+      "name": "Gerhana - Life That Was",
+      "desc": "Tetapkan Speed unit ini ke 1; HP unit ini does not turun di bawah 1\nFirst Mulai Giliran after entering the Pertarungan: Peroleh 333 Perisai\n\nPada Akhir Serangan of the Skill \"Gerhana\", end Pertarungan\n- Jika Perisai rusak, melanjutkan ke giliran berikutnya saja dan <color=#ff6000><mark=#ff000040><b><u>hadapi Event Pilihan unik</u></b></mark></color> sebelum Pertempuran selesai"
+    },
+    {
+      "id": 956402,
+      "name": "Time of Forging",
+      "desc": "Quadruple the effects of [HeatedWingScales]\n\nTerima +100% damage dari E.G.O Skill"
+    },
+    {
+      "id": 956501,
+      "name": "Gerhana - Life That Is",
+      "desc": "Tetapkan Speed unit ini ke 1; HP unit ini does not turun di bawah 1\nFirst Mulai Giliran after entering the Pertarungan: Peroleh 333 Perisai\n\nPada Akhir Serangan of the Skill \"Gerhana\", end Pertarungan\n- Jika Perisai rusak, melanjutkan ke giliran berikutnya saja dan <color=#ff6000><mark=#ff000040><b><u>hadapi Event Pilihan unik</u></b></mark></color> sebelum Pertempuran selesai"
+    },
+    {
+      "id": 956502,
+      "name": "Kṣaṇa of Circumvolution",
+      "desc": "Quadruple the effects of [TransparentWingScales]\n\nTerima +100% damage dari E.G.O Skill"
+    },
+    {
+      "id": 956601,
+      "name": "Gerhana - Life That Will Be",
+      "desc": "Tetapkan Speed unit ini ke 1; HP unit ini does not turun di bawah 1\nFirst Mulai Giliran after entering the Pertarungan: Peroleh 333 Perisai\n\nPada Akhir Serangan of the Skill \"Gerhana\", end Pertarungan\n- Jika Perisai rusak, melanjutkan ke giliran berikutnya saja dan <color=#ff6000><mark=#ff000040><b><u>hadapi Event Pilihan unik</u></b></mark></color> sebelum Pertempuran selesai"
+    },
+    {
+      "id": 956602,
+      "name": "Erosion of Kalpas",
+      "desc": "Quadruple the effects of [RustedWingScales]\n\nTerima +100% damage dari E.G.O Skill"
+    },
+    {
+      "id": 9567010,
+      "name": "Masa Lalu [過去]",
+      "desc": "Ketika [StackPastActivate], peroleh efek berikut:\n- Ketika diserang oleh para Pendosa, beri 1 [Combustion] dan +1 [Combustion] Count on the\nattacking Pendosa\n- Skill \"Kalpāgni\" memperoleh Final Power +2 dan its final Coin memperoleh \"Saat Serang,\ninflict ([StackPastActivate] Stack / 2) SP damage (dibulatkan ke bawah)\" effect\n- Mulai Giliran: Beri 5 [TakeHpHealReduce] dan 3 [CrimsonTakeDamageUp] pada semua para Pendosa who have 10+ ([Combustion] Potency + [Combustion] Count)"
+    },
+    {
+      "id": 9567011,
+      "name": "Masa Lalu [過去]",
+      "desc": "Ketika [StackPastActivate], peroleh efek berikut:\n<mark=#000000AA>- <color=#ff9000><s></color>Ketika diserang oleh para Pendosa, beri 1 [Combustion] dan +1 [Combustion] Count on the\nattacking Pendosa<color=#ff0000></s></color></mark>\n- Skill \"Kalpāgni\" memperoleh Final Power +2 dan its final Coin memperoleh \"Saat Serang,\ninflict ([StackPastActivate] Stack / 2) SP damage (dibulatkan ke bawah)\" effect\n- Mulai Giliran: Beri 5 [TakeHpHealReduce] dan 3 [CrimsonTakeDamageUp] pada semua para Pendosa who have 10+ ([Combustion] Potency + [Combustion] Count)\n"
+    },
+    {
+      "id": 9567012,
+      "name": "Masa Lalu [過去]",
+      "desc": "Ketika [StackPastActivate], peroleh efek berikut:\n- Ketika diserang oleh para Pendosa, beri 1 [Combustion] dan +1 [Combustion] Count on the\nattacking Pendosa\n<mark=#000000AA>- <color=#ff9000><s></color>Skill \"Kalpāgni\" memperoleh Final Power +2 dan its final Coin memperoleh \"Saat Serang,\ninflict ([StackPastActivate] Stack / 2) SP damage (dibulatkan ke bawah)\" effect<color=#ff0000></s></color></mark>\n- Mulai Giliran: Beri 5 [TakeHpHealReduce] dan 3 [CrimsonTakeDamageUp] pada semua para Pendosa who have 10+ ([Combustion] Potency + [Combustion] Count)\n"
+    },
+    {
+      "id": 9567013,
+      "name": "Masa Lalu [過去]",
+      "desc": "Ketika [StackPastActivate], peroleh efek berikut:\n- Ketika diserang oleh para Pendosa, beri 1 [Combustion] dan +1 [Combustion] Count on the\nattacking Pendosa\n- Skill \"Kalpāgni\" memperoleh Final Power +2 dan its final Coin memperoleh \"Saat Serang,\ninflict ([StackPastActivate] Stack / 2) SP damage (dibulatkan ke bawah)\" effect\n<mark=#000000AA>- <color=#ff9000><s></color>Mulai Giliran: Beri 5 [TakeHpHealReduce] dan 3 [CrimsonTakeDamageUp] pada semua para Pendosa who have 10+ ([Combustion] Potency + [Combustion] Count)<color=#ff0000></s></color></mark>\n"
+    },
+    {
+      "id": 9567020,
+      "name": "Masa Kini [現在]",
+      "desc": "Ketika [StackPresentActivate], peroleh efek berikut:\n- Tidak lose Count [Breath] Saat Crit; Mulai Giliran: peroleh (2 + # of para Pendosa) [Breath] dan Count [Breath]\n- Skill \"Hukuman Orang Jahat\" memperoleh Final Power +2 dan its final Coin memperoleh \"Saat Serang, raise Batas Stagger by ([StackPresentActivate] Stack / 2) (dibulatkan ke bawah)\" effect\n- Saat Serang, beri +((Potency [Breath] pada diri sendiri + Count [Breath] pada diri sendiri) x 2)% damage pada Serangan Critical (maks 120%; on Clash Lose, beri only one-third of the effect's full value)\n"
+    },
+    {
+      "id": 9567021,
+      "name": "Masa Kini [現在]",
+      "desc": "Ketika [StackPresentActivate], peroleh efek berikut:\n<mark=#000000AA>- <color=#e5e5e5><s></color>Tidak lose Count [Breath] Saat Crit; Mulai Giliran: peroleh (2 + # of para Pendosa) [Breath] dan Count [Breath]<color=#ff0000></s></color></mark>\n- Skill \"Hukuman Orang Jahat\" memperoleh Final Power +2 dan its final Coin memperoleh \"Saat Serang, raise Batas Stagger by ([StackPresentActivate] Stack / 2) (dibulatkan ke bawah)\" effect\n- Saat Serang, beri +((Potency [Breath] pada diri sendiri + Count [Breath] pada diri sendiri) x 2)% damage pada Serangan Critical (maks 120%; on Clash Lose, beri only one-third of the effect's full value)\n"
+    },
+    {
+      "id": 9567022,
+      "name": "Masa Kini [現在]",
+      "desc": "Ketika [StackPresentActivate], peroleh efek berikut:\n- Tidak lose Count [Breath] Saat Crit; Mulai Giliran: peroleh (2 + # of para Pendosa) [Breath] dan Count [Breath]\n<mark=#000000AA>- <color=#e5e5e5><s></color>Skill \"Hukuman Orang Jahat\" memperoleh Final Power +2 dan its final Coin memperoleh \"Saat Serang, raise Batas Stagger by ([StackPresentActivate] Stack / 2) (dibulatkan ke bawah)\" effect<color=#ff0000></s></color></mark>\n- Saat Serang, beri +((Potency [Breath] pada diri sendiri + Count [Breath] pada diri sendiri) x 2)% damage pada Serangan Critical (maks 120%; on Clash Lose, beri only one-third of the effect's full value)\n"
+    },
+    {
+      "id": 9567023,
+      "name": "Masa Kini [現在]",
+      "desc": "Ketika [StackPresentActivate], peroleh efek berikut:\n- Tidak lose Count [Breath] Saat Crit; Mulai Giliran: peroleh (2 + # of para Pendosa) [Breath] dan Count [Breath]\n- Skill \"Hukuman Orang Jahat\" memperoleh Final Power +2 dan its final Coin memperoleh \"Saat Serang, raise Batas Stagger by ([StackPresentActivate] Stack / 2) (dibulatkan ke bawah)\" effect\n<mark=#000000AA>- <color=#e5e5e5><s></color>Saat Serang, beri +((Potency [Breath] pada diri sendiri + Count [Breath] pada diri sendiri) x 2)% damage pada Serangan Critical (maks 120%; on Clash Lose, beri only one-third of the effect's full value)<color=#ff0000></s></color></mark>\n"
+    },
+    {
+      "id": 9567030,
+      "name": "Masa Depan [未來]",
+      "desc": "Ketika [StackFutureActivate], peroleh efek berikut:\n- Mulai Giliran: Semua Pendosa peroleh +(3 + # of current giliran / 2) [Laceration] Count (rounded up)\n- Skill \"Bunga Darah\" memperoleh Final Power +2 dan its final Coin memperoleh \"Saat Serang,\nheal ([StackFutureActivate] Stack x 3) HP pada diri sendiri\" effect\n- Whenever [Laceration] activates pada diri sendiri atau pada para Pendosa, memulihkan HP setara dengan the said [Laceration] damage (dibulatkan ke bawah)\n"
+    },
+    {
+      "id": 9567031,
+      "name": "Masa Depan [未來]",
+      "desc": "Ketika [StackFutureActivate], peroleh efek berikut:\n<mark=#000000AA>- <color=#d93737><s></color>Mulai Giliran: Semua Pendosa peroleh +(3 + # of current giliran / 2) [Laceration] Count (rounded up)<color=#ff0000></s></color></mark>\n- Skill \"Bunga Darah\" memperoleh Final Power +2 dan its final Coin memperoleh \"Saat Serang,\nheal ([StackFutureActivate] Stack x 3) HP pada diri sendiri\" effect\n- Whenever [Laceration] activates pada diri sendiri atau pada para Pendosa, memulihkan HP setara dengan the said [Laceration] damage (dibulatkan ke bawah)\n"
+    },
+    {
+      "id": 9567032,
+      "name": "Masa Depan [未來]",
+      "desc": "Ketika [StackFutureActivate], peroleh efek berikut:\n- Mulai Giliran: Semua Pendosa peroleh +(3 + # of current giliran / 2) [Laceration] Count (rounded up)\n<mark=#000000AA>- <color=#d93737><s></color>Skill \"Bunga Darah\" memperoleh Final Power +2 dan its final Coin memperoleh \"Saat Serang,\nheal ([StackFutureActivate] Stack x 3) HP pada diri sendiri\" effect<color=#ff0000></s></color></mark>\n- Whenever [Laceration] activates pada diri sendiri atau pada para Pendosa, memulihkan HP setara dengan the said [Laceration] damage (dibulatkan ke bawah)\n"
+    },
+    {
+      "id": 9567033,
+      "name": "Masa Depan [未來]",
+      "desc": "Ketika [StackFutureActivate], peroleh efek berikut:\n- Mulai Giliran: Semua Pendosa peroleh +(3 + # of current giliran / 2) [Laceration] Count (rounded up)\n- Skill \"Bunga Darah\" memperoleh Final Power +2 dan its final Coin memperoleh \"Saat Serang,\nheal ([StackFutureActivate] Stack x 3) HP\" effect\n<mark=#000000AA>- <color=#d93737><s></color>Whenever [Laceration] activates pada diri sendiri atau pada para Pendosa, memulihkan HP setara dengan the said [Laceration] damage (dibulatkan ke bawah)<color=#ff0000></s></color></mark>\n"
+    },
+    {
+      "id": 956704,
+      "name": "Causality that Threads the Masa Lalu, the Masa Kini, dan the Masa Depan [三世因果]",
+      "desc": "Pada 10+ Clashes terhadap the same target, secara acak peroleh atau lose Clash Power by (Clash Count / 10) in a Clash (dibulatkan ke bawah)\n\nEncounter Start:\n- Begin Pertarungan with the same HP as Butterfly[TabExplain] of Entangled Lives::Pupa (mengecualikan Perisai)\n- Peroleh 10 Stack each of [StackPastActivate] / [StackPresentActivate] / [StackFutureActivate]\n\nPada kurang dari 66%/33% HP, peroleh new Slot patterns\n- <color=#ff6000><mark=#ff000040><b><u>Ketika HP unit ini drops di bawah 66%/33%</u></b></mark></color> untuk pertama kalinya di Pertarungan ini, <color=#ff6000><mark=#ff000040><b><u>peroleh 10 Stack each of [StackPastActivate], [StackPresentActivate], dan [StackFutureActivate]</u></b></mark></color> giliran berikutnya"
+    },
+    {
+      "id": 956705,
+      "name": "Moment of Entangled Lives",
+      "desc": "Mulai Giliran: <color=#ff6000><mark=#ff000040><b><u>Aktifkan the highest-Stacked state of time</u></b></mark></color> between [StackPastActivate], [StackPresentActivate], dan [StackFutureActivate] dan gunakan a special Skill\n- Jika multiple states of time share the highest Stack, the currently active state of time does not change\n- Tidak Aktif states of time menjadi [StackPast], [StackPresent], atau [StackFuture], masing-masing\n- Ketika the <color=#ff6000><mark=#ff000040><b><u>currently active state of time changes</u></b></mark></color>, peroleh 1 [TimeGap]\n\n<color=#ff6000><mark=#ff000040><b><u>Every time Illusory Butterfly[TabExplain] of Entangled Lives::Masa Lalu / The Masa Kini / The Masa Depan are hit as target utama</u></b></mark></color>, Butterfly[TabExplain] of Entangled Lives::Imago loses [StackPastActivate] / [StackPresentActivate] / [StackFutureActivate] Stack\n\n<color=#ff6000><mark=#ff000040><b><u>Higher [StackPastActivate] / [StackPresentActivate] / [StackFutureActivate] Stack</u></b></mark></color> lead to Butterfly[TabExplain] of Entangled Lives::Imago's Skill Power dan damage output becoming <color=#ff6000><mark=#ff000040><b><u>greatly enhanced</u></b></mark></color>, dan <color=#ff6000><mark=#ff000040><b><u>greatly increase the amount of status effects it memberi atau memperoleh</u></b></mark></color>"
+    },
+    {
+      "id": 956801,
+      "name": "Life Hanging on a Wedge [一櫼之命]",
+      "desc": "Pertarungan Start: Peroleh 3 [YesdragonSelfRefraction]\nAkhir Giliran: Peroleh 1 [YesdragonSelfRefraction] giliran berikutnya\nPeroleh +1 lebih [YesdragonSelfRefraction] dari efek ini setiap kali \"Thundering Wrath\" Passive triggers"
+    },
+    {
+      "id": 956802,
+      "name": "Thundering Wrath [震怒]",
+      "desc": "Sisi Terbalik Bagian menerima damage only dari Skill that it is target utama of; does not terima damage dari any other sources\nKetika the Sisi Terbalik Bagian diserang, remove the Sisi Terbalik Bagian dari the Skill Slots giliran berikutnya; peroleh 1 [AttackUp] dan 1 [DefenseDown] untuk setiap [YesdragonSelfRefraction] Stack dikonsumsi by \"Amarah dari Sisik Terbalik\" Skill"
+    },
+    {
+      "id": 956804,
+      "name": "Dragon's Scale",
+      "desc": "Tidak dipengaruhi oleh [Agility] dan [Binding]\nTerima -50% HP damage dari [Combustion], [Laceration], [Vibration], [Burst], dan [Sinking]; -50% to Batas Stagger raised by [Vibration]"
+    },
+    {
+      "id": 956805,
+      "name": "The Unreachable Heavens",
+      "desc": "Pertarungan Start: The Head Bagian memperoleh Perisai setara dengan 100% dari maks HP unit ini\nDoes not lose Perisai pada Akhir Giliran\nKetika the Perisai is broken, enter a new phase"
+    },
+    {
+      "id": 956901,
+      "name": "Tarnished Body",
+      "desc": "Semua Parts menjadi Breakable dan Unseverable\nBroken Parts regenerate in 3 giliran with 30% HP"
+    },
+    {
+      "id": 956902,
+      "name": "Life Hanging on a Wedge [一櫼之命]",
+      "desc": "Cannot be killed as long as the Pasak Pengubur-bunga Bagian isn't broken"
+    },
+    {
+      "id": 956903,
+      "name": "Broken Scale",
+      "desc": "Ketika the Sisi Terbalik Bagian is broken, \"Thundering Wrath\" Passive tidak diaktifkan\nSelama the Sisi Terbalik Bagian is broken, semua Parts peroleh 3 [AttackUp] dan 6 [DefenseDown]"
+    },
+    {
+      "id": 956904,
+      "name": "Broken Skull",
+      "desc": "Selama the Head part is broken, semua Parts peroleh 2 [Vulnerable] setiap giliran"
+    },
+    {
+      "id": 956907,
+      "name": "Erumpent Flower-burying Efflorescence [梅花滿開]",
+      "desc": "Pertarungan Start: Peroleh 3 [YesdragonSelfRefraction]\nAkhir Giliran: Peroleh 1 [YesdragonSelfRefraction] giliran berikutnya\nPeroleh +1 lebih [YesdragonSelfRefraction] dari efek ini setiap kali \"Thundering Wrath\" Passive triggers\n- Ketika the Sisi Terbalik is broken, reset the increased [YesdragonSelfRefraction] peroleh"
+    },
+    {
+      "id": 956908,
+      "name": "Thundering Wrath [震怒]",
+      "desc": "Sisi Terbalik Bagian menerima damage only dari Skill that it is target utama of; does not terima damage dari any other sources\nKetika the Sisi Terbalik Bagian diserang, remove the Sisi Terbalik Bagian dari the Skill Slots giliran berikutnya; peroleh 1 [AttackUp] dan 1 [DefenseDown] untuk setiap [YesdragonSelfRefraction] Stack dikonsumsi by \"Amarah dari Sisik Terbalik\" Skill"
+    },
+    {
+      "id": 957001,
+      "name": "Dragon's Vein [龍脈]",
+      "desc": "Mulai Giliran: Peroleh Perisai setara dengan 300% of the Core's maks HP\n- Efek ini tidak mengaktifkan when Attack Skill are equipped\nMulai Giliran: Ketika terkena Stagger, pulih dari Stagger"
+    },
+    {
+      "id": 957002,
+      "name": "The Dragon's Bleeding Vein",
+      "desc": "Ketika diserang, beri [YesdragonPower] on penyerang giliran berikutnya\n\nPada kematian, immediately beri [YesdragonPower] pada semua para Pendosa"
+    },
+    {
+      "id": 957003,
+      "name": "One Last Radiance [回光返照]",
+      "desc": "Ketika unit ini menerima damage yang membawa HP-nya turun ke 0, HP unit ini does not turun di bawah 1 untuk giliran tersebut; pulih dari Stagger karena damage\nFor the rest of the giliran, unit ini tidak bisa be terkena Stagger atau killed karena damage; lalu, gunakan \"Impale the Self, Impurity[TabExplain] to Purge\" at the very end of that giliran"
+    },
+    {
+      "id": 957004,
+      "name": "Lofty Energy",
+      "desc": "This unit tidak bisa be subject to healing atau Assist Defense[TabExplain] effects\nTerima damage only dari Skill that unit ini is target utama of; does not terima damage dari any other sources"
+    },
+    {
+      "id": 957006,
+      "name": "Refracted Egress",
+      "desc": "Cannot Retreat"
+    },
+    {
+      "id": 957101,
+      "name": "Return to Origin [物歸原主]",
+      "desc": "Ketika diserang by Yinglong's \"Levinfall\" Skill, die instantly dan beri 1 [YesdragonSelfRefraction] on Yinglong"
+    },
+    {
+      "id": 955101,
+      "name": "Rien, The Index Nursefather",
+      "desc": "<color=#ff9000><mark=#ff000040><b><u>Terima -50% damage dari Serangan Tanpa Lawan</u></b></mark></color>\nTerima -50% damage dari [Combustion], [Laceration], [Vibration], [Burst], dan [Sinking]\nKetika healing SP dari [UnlockBuff_Base], jika SP unit ini is di bawah 15, memulihkan SP hingga 15\n\nEncounter Start: Peroleh [BurningWoundRien_Mask] dan memulihkan SP hingga 45\n\nPada 55%- HP, end the giliran dan peroleh a new pattern\n- Hilangkan semua effects other than those exclusive to unit ini\n- Change [StackRienSpecialSkill] Stack to 0",
+      "flavor": "I waited for \"the moment\" as the Prescript told me to.\nEven after my darling daughter left, I waited.\n\nAnd after a while, I was contacted by Limbus Company, dan saw that the Backdoor was open.\nThat's when the device beeped dan let me know that it was finally time to bring my daughter home."
+    },
+    {
+      "id": 955102,
+      "name": "Oracle Device [Caduceus]",
+      "desc": "<color=#ff9000><mark=#ff000040><b><u>A acak weapon is assigned to setiap Coin. Tiap senjata memiliki efek unik.</u></b></mark></color>\n- [RienWeapon01Hatchet]\n- [RienWeapon02Stiletto]\n- [RienWeapon03Greatsword]\n- [RienWeapon04Rapier]\n- [RienWeapon05Sledgehammer]\n- [RienWeapon06Ultragreatsword]\n- [RienWeapon07Lance]\n- [RienWeapon08Chain]\n- [RienWeapon09Scythe]\n\nKetika menggunakan an Attack Skill, peroleh 1 [StackRienSpecialSkill] (maks 9)\n- Can be memperoleh sekali per Skill; does not peroleh Stack dari the same Skill dua kali\n\n<color=#ff9000><mark=#ff000040><b><u>Mulai Giliran: Pada 9 [StackRienSpecialSkill] Stack, gunakan a powerful Skill</u></b></mark></color>\n- Akhir Serangan: Setelah menggunakan the powerful Skill untuk pertama kalinya, peroleh [Shin_Rien]\n- Reset the per-Skill [StackRienSpecialSkill] cap\n- Min & Maks Speed +15\n- Akhir Giliran: Peroleh 1 [Vulnerable] dan 2 [ResultReduction] giliran berikutnya\n\nTurn 4 Start after entering the field: Pada kurang dari 9 [StackRienSpecialSkill], bring its Stack to 9; lalu, peroleh (Stack memperoleh x 3) [KarmaOfIndexRien]\n- Then, aktifkan efek ini setiap 4 giliran",
+      "flavor": "A vial of what looks like liquid metal capable of changing its shape dan mass, its qualities almost like those of Singularities, swishes inside the Device.\nThe form the fluid menerima is contingent on the Prescript the Device receives. The weapons it produces depend on the information regarding target dan the time limit given to carry out the assassination.\nOne day, as he received a dagger too small for the task, he elected to wait hingga it produced a different weapon. However, despite the approaching deadline, it refused to provide him a proper weapon; he had no choice but to kill his target dengan a fork."
+    },
+    {
+      "id": 955103,
+      "name": "Will of the Prescript",
+      "desc": "Mulai Giliran:\n- Peroleh [IndexPrescript_Base_2nd] berdasarkan pada [UnlockBuff_Base] stage pada diri sendiri\n- Beri [IndexPrescriptTargetToPersonality] terhadap a acak Pendosa, dan prioritize attacking them\n<color=#ff9000><mark=#ff000040><b><u>- Ketika menggunakan a Skill terhadap [IndexPrescriptTargetToPersonality], ubah semua Coin on that Skill to [SuperCoin]</u></b></mark></color>\n\nKetika menyerang, jika [IndexPrescriptTargetToPersonality] is killed, atau jika unit ini can no longer attack that target, <color=#ff9000><mark=#ff000040><b><u>gunakan the remaining Skill terhadap a acak Pendosa\n- Memprioritaskan target dengan the lowest current HP, unless they have 1 HP\n- Ketika the secara acak chosen Pendosa is killed, atau jika the said Pendosa's HP is brought down ke 1, repeat efek ini on another Pendosa</u></b></mark></color>\n\nBeri +2.5% damage terhadap [IndexPrescriptTargetToPersonality] untuk setiap [BlessingOfIndexPrescriptEnemy] (maks 20%)\n- Pada 9 [BlessingOfIndexPrescriptEnemy], beri +30% damage terhadap semua target",
+      "flavor": "Do you wish me to raise a family?\n\n\"It must've been fate that brought us together. To think that I'd ever meet a husband like you...\""
+    },
+    {
+      "id": 955104,
+      "name": "Undertake Prescript",
+      "desc": "Akhir Giliran: Jika [IndexPrescript_Base_2nd] was executed giliran ini, memulihkan 10 SP dan peroleh 3 [BlessingOfIndexPrescriptEnemy] (sekali per giliran)\n\n<color=#ff9000><mark=#ff000040><b><u>Akhir Giliran: Jika [IndexPrescript_Base_2nd] was not executed giliran ini, peroleh 8 [KarmaOfIndexRien]</u></b></mark></color>\n- Jika unit ini tidak memiliki [UnlockBuff_Base], peroleh 1 [BlessingOfIndexPrescriptEnemy] pada Akhir Giliran\n- Pada 9 [BlessingOfIndexPrescriptEnemy], does not peroleh [KarmaOfIndexRien]",
+      "flavor": "Do you wish me to lose my family?\n\n\"Honey, I gotta terima a quick trip up north today.\"\n\"Ah, also—hey, buddy. I'm expecting a package this afternoon, so would you be a dear dan pick it up for me, sweetheart?\""
+    },
+    {
+      "id": 955105,
+      "name": "Unlock",
+      "desc": "Akhir Giliran: Pada 3/6/9 [BlessingOfIndexPrescriptEnemy] atau at 95%-/85%-/75%- HP,- Peroleh [UnlockBuff_Rien1]/[UnlockBuff_Rien2]/[UnlockBuff_Rien3]\n\nTurn 1 End after entering the field: Pada lower than [UnlockBuff_Base] stage 1, peroleh [UnlockBuff_Rien1]\nTurn 3 End after entering the field: Pada lower than [UnlockBuff_Base] stage 2, peroleh [UnlockBuff_Rien2]\n\nKetika [UnlockBuff_Base] is diaktifkan akibat HP atau Giliran conditionals:\n- Pada kurang dari 3/6/9 [BlessingOfIndexPrescriptEnemy] Stack, raise them to 3/6/9\nPeroleh 5 [KarmaOfIndexRien] at the next Mulai Giliran untuk setiap Stack memperoleh",
+      "flavor": "\"Following the Prescripts is to unlock what is locked.\""
+    },
+    {
+      "id": 955106,
+      "name": "Fixed Panik",
+      "desc": "Beri the [PanicChangeLock] effect\nAkhir Giliran: Jika unit ini is in Panik, raise SP to 15"
+    },
+    {
+      "id": 955201,
+      "name": "Rien, the Father [Imitation]",
+      "desc": "<color=#ff9000><mark=#ff000040><b><u>Terima -75% damage dari Serangan Tanpa Lawan</u></b></mark></color>\nTerima -75% damage dari [Combustion], [Laceration], [Vibration], [Burst], dan [Sinking]\nKetika healing SP dari [UnlockBuff_Base], jika SP unit ini is di bawah 30, memulihkan hingga 30 SP\n\nKetika unit ini enters a new phase at 55% HP, peroleh efek berikut:\n- Hilangkan semua effects other than those exclusive to unit ini\n- Reset [StackRienSpecialSkill] Stack to 0\n- Peroleh [IndexPrescript_RienSecondPhase]\n- Ubah [BurningWoundRien_Mask] to [BurningWoundRien]\n- Ubah [KarmaOfIndexRien] to [KarmaOfIndexRien_2Phase]; lalu peroleh 10 Stack of that effect\n- Jika unit ini tidak memiliki [Shin_Rien], immediately peroleh that effect\n\nPada 25% atau lower HP, peroleh a new pattern dan greatly enhance a Skill tertentu",
+      "flavor": "Once, he harbored a suspicion that he was being shaped menjadi an imitation of someone; he doubted the Will dan nearly defied it, for he did not know whom he was to mimic. Only when it was too late did he understand its intent dan come to accept the Prescript's will.\nOnly lalu was the false father completed."
+    },
+    {
+      "id": 955202,
+      "name": "Oracle Device [Caduceus] - Full Unlock",
+      "desc": "<color=#ff9000><mark=#ff000040><b><u>A acak weapon is assigned to setiap Coin. Tiap senjata memiliki efek unik.</u></b></mark></color>\n- [RienWeapon01Hatchet2phase]\n- [RienWeapon02Stiletto2phase]\n- [RienWeapon03Greatsword2phase]\n- [RienWeapon04Rapier2phase]\n- [RienWeapon05Sledgehammer2phase]\n- [RienWeapon06Ultragreatsword2phase]\n- [RienWeapon07Lance2phase]\n- [RienWeapon08Chain2phase]\n- [RienWeapon09Scythe2phase]\n\nKetika menggunakan an Attack Skill, peroleh 1 [StackRienSpecialSkill] (maks 9)\n- Can be memperoleh sekali per Skill; does not peroleh Stack dari the same Skill dua kali\n- Tidak peroleh Stack dari a Skill used only in a special pattern\n\nMulai Giliran: Pada 9 [StackRienSpecialSkill] Stack, gunakan a powerful Skill\n- Reset the per-Skill [StackRienSpecialSkill] cap\n- Min & Maks Speed +15\n- Akhir Giliran: Peroleh 2 [Vulnerable] dan 3 [ResultReduction] giliran berikutnya\n\nAktifkan the following, starting dari the giliran in which the phase changed\n- Every 3 giliran, at kurang dari 9 [StackRienSpecialSkill], bring its Stack to 9; lalu, peroleh (Stack memperoleh x 5) [KarmaOfIndexRien_2Phase]",
+      "flavor": "An unparalleled weapon dan a curse bestowed by Hermes, a god of the City whose Prescripts are distributed by radio waves."
+    },
+    {
+      "id": 955203,
+      "name": "Will of the Prescript",
+      "desc": "Mulai Giliran:\n- Beri [IndexPrescriptTargetToPersonality] terhadap a acak Pendosa, dan prioritize attacking them\n<color=#ff9000><mark=#ff000040><b><u>- Ketika menggunakan a Skill terhadap [IndexPrescriptTargetToPersonality], ubah semua Coin on that Skill to [SuperCoin]</u></b></mark></color>\n- Peroleh [Protection] setara dengan [BlessingOfIndexPrescriptEnemy] (maks 9)\n<color=#ff9000><mark=#ff000040><b><u>\n- Kehilangan 1 Stack untuk setiap 20 [KarmaOfIndexRien_2Phase]</u></b></mark></color>\n\nKetika menyerang, jika [IndexPrescriptTargetToPersonality] is killed, atau jika unit ini can no longer attack that target, <color=#ff9000><mark=#ff000040><b><u>gunakan the remaining Skill terhadap a acak other Pendosa\n- Memprioritaskan target dengan the lowest current HP, unless they have 1 HP\n- Ketika the secara acak chosen Pendosa is killed, atau jika the said Pendosa's HP is brought down ke 1, repeat efek ini on another Pendosa</u></b></mark></color>\n\nBeri +5% damage terhadap [IndexPrescriptTargetToPersonality] untuk setiap [BlessingOfIndexPrescriptEnemy] (maks 40%)\n- Pada 9 [BlessingOfIndexPrescriptEnemy], beri +50% damage terhadap semua target\n\nStarting dari the first giliran after the phase change, aktifkan efek berikut:\n- Mulai Giliran: Peroleh [BlackNightmare]\n· Jika unit ini used a powerful attack di giliran sebelumnya, lose [BlackNightmare] for that giliran",
+      "flavor": "I raised a family.\n\n\"You're not supposed to be here right now.\"\n\"My work is still much underway, dan I'd like to carve them up in peace so they can attain the most exquisite beauty I can sculpt.\"\n\"... Don't tell me, are you here to defy the Prescript?\""
+    },
+    {
+      "id": 955204,
+      "name": "Undertake Prescript",
+      "desc": "Akhir Giliran: Jika [IndexPrescript_Base_2nd] was executed giliran ini, memulihkan 15 SP dan peroleh 1 [BlessingOfIndexPrescriptEnemy] (sekali per giliran)\n\n<color=#ff9000><mark=#ff000040><b><u>Akhir Giliran: Jika [IndexPrescript_Base_2nd] was not executed giliran ini, peroleh 8 [KarmaOfIndexRien_2Phase] dan kehilangan 1 [BlessingOfIndexPrescriptEnemy]</u></b></mark></color>\n- Jika unit ini used a powerful Skill giliran ini, peroleh 12 [KarmaOfIndexRien_2Phase] dan kehilangan 2 [BlessingOfIndexPrescriptEnemy] saja",
+      "flavor": "I... lost my family.\n\n\"Don't go...\"\n\"Don't go... Not... like this... Daddy... Please... help us...\""
+    },
+    {
+      "id": 955205,
+      "name": "Fixed Panik",
+      "desc": "Beri the [PanicChangeLock] effect\nAkhir Giliran: Jika unit ini is in Panik, raise SP to 30"
+    },
+    {
+      "id": 955312,
+      "name": "Fixed Panik",
+      "desc": "Beri the [PanicChangeLock] effect\nAkhir Giliran: Jika unit ini is in Panik, raise SP to 45"
+    },
+    {
+      "id": 955601,
+      "name": "Let's Play Tag! Here I Go!",
+      "desc": "Mulai Giliran: Jika terdapat no [TagGameBuff]s, unit ini's 1/2/3 other kawan yang memiliki the lowest Level menjadi [TagGameBuff] for 3 giliran (number of unit receiving efek ini increases setiap kali efek ini activates)\n\n<color=#ff9000><mark=#ff000040><b><u>Jika [TagGameBuff] effect kadaluarsa while the unit that had the [TagGameBuff] effect is alive</u></b></mark></color>, peroleh efek berikut:\n- Semua Pendosa terima damage tetap setara dengan 40% HP each\n- Reduce SP to -45 for a acak Pendosa who can enter E.G.O Corrosion[TabExplain] atau Panik\n\nJika a Pendosa kills a [TagGameBuff], the said Pendosa memperoleh 1 [ResultEnhancement] for the rest of this Pertarungan (efek ini can be memperoleh cumulatively)"
+    },
+    {
+      "id": 955602,
+      "name": "Akankah Kau Bermain? Akankah Kau Bermain? Akankah Kau Bermain?",
+      "desc": "Akhir Giliran: Jika unit ini is the only surviving kawan, atau jika the Core berada pada 50%- HP, gunakan \"Let's Play Together Forever~!\" giliran berikutnya (sekali per Pertarungan)"
+    },
+    {
+      "id": 955603,
+      "name": "No More Playtime",
+      "desc": "Mulai Giliran: The \"Stuffed Toy\" Bagian <color=#ff9000><mark=#ff000040><b><u>memperoleh [Protection] setara dengan jumlah dari kawan mengecualikan unit ini</u></b></mark></color>\n\nKetika \"Stuffed Toy\" Bagian telah dihancurkan, Akankah Kau Bermain? dan its remaining kawan are killed"
+    },
+    {
+      "id": 955604,
+      "name": "Attachment Plushie",
+      "desc": "<color=#ff9000><mark=#ff000040><b><u>HP damage diterima by the Core is fixed at 0</u></b></mark></color>"
+    },
+    {
+      "id": 955401,
+      "name": "Semua of My Corpus memiliki been Given to Tibia",
+      "desc": "Terima -30% HP, SP damage dari [Combustion], [Vibration], [Burst], dan [Sinking]\nTerima -50% damage dari [Laceration]\n\nMulai Giliran: Jika unit ini terkena Stagger, pulih dari Stagger. Afterward, peroleh 2 [CrimsonTakeDamageUp] dan becomes unable untuk menggunakan \"Installation Art no. 3: Improvised Ribcage\" hingga giliran berikutnya (sekali per Pertarungan)\n\nAkhir Giliran: Peroleh 1 [DefenseDown] giliran berikutnya untuk setiap 4 [Combustion] pada diri sendiri (maks 15)"
+    },
+    {
+      "id": 955301,
+      "name": "Observation",
+      "desc": "Pertarungan Start: Beri 1 [ObservedPerson] pada semua musuh; lalu, peroleh Potency [Breath] dan Count setara dengan jumlah dari unit with [ObservedPerson]\n\nMulai Giliran: Beri 1 [ObservedPerson] terhadap target without [ObservedPerson]\n\nFor setiap 10 [ObservedPerson] pada target, beri +1 lebih Potency [Vibration] dan Count with unit ini's Skill (maks 3)"
+    },
+    {
+      "id": 955302,
+      "name": "Adaptasi",
+      "desc": "Peroleh 1 Potency [Breath] setiap kali unit ini memberi damage with Attack Skill effects (15 per giliran)\n- Jika target memiliki 15+ [ObservedPerson], peroleh 1 tambahan Potency [Breath] with setiap hit\n\nPeroleh +1 Count [Breath] setiap kali unit ini menerima damage dari a Pendosa's Attack Skill effects (15 per giliran)\n- Jika target memiliki 15+ [ObservedPerson], peroleh +1 tambahan Count [Breath] with setiap hit taken\n\n<color=#ff9000><mark=#ff000040><b><u>Mulai Giliran: Beri 3 [ResultReduction] dan 5 [ObservedPerson] to the Pendosa who dealt the most damage ke unit ini di giliran sebelumnya\n- Jika target memiliki 30 [ObservedPerson], beri 5 [ResultReduction] saja</u></b></mark></color>"
+    },
+    {
+      "id": 955303,
+      "name": "Defense Mechanism",
+      "desc": "Mulai Giliran: <color=#ff9000><mark=#ff000040><b><u>Peroleh Perisai setara dengan 30% dari HP yang hilang (Perisai HP tidak bisa exceed 25% of the maks HP)</u></b></mark></color>\n- Jika unit ini memiliki [Combustion], lose ([Combustion] Count x 1.5)% Perisai HP\n- Perisai menerima +100% damage dari [Burst] effects\n\nAkhir Giliran: Jika the Perisai yang diperoleh dari efek ini telah dihancurkan, for the rest of this Pertarungan, peroleh 1 [DefenseDown] pada Mulai Giliran untuk setiap instance the Perisai memiliki been destroyed (maks 5)"
+    },
+    {
+      "id": 955304,
+      "name": "Confirmation Bias",
+      "desc": "Akhir Giliran: <color=#ff9000><mark=#ff000040><b><u>Siphon 10 SP dari para Pendosa</u></b></mark></color> (maks 3 para Pendosa in descending order of SP; does not beri cumulatively on the same target)\n(Tidak aktif jika Hohenheim is Panicked)\n\n<color=#ff9000><mark=#ff000040><b><u>This unit's SP does not turun di bawah 15</u></b></mark></color>"
+    },
+    {
+      "id": 955305,
+      "name": "Establish Hypothesis",
+      "desc": "Pada Giliran 3: Peroleh pola baru dan prepares untuk menggunakan a powerful Skill.\nSetelah Giliran 3 selesai: The above effect activates ketika unit ini memiliki 30+ Count [Breath] pada Akhir Giliran\n\nJika unit ini did not terima any HP damage during the preparation period before menggunakan the powerful Skill, greatly enhance the Skill (does not count damages taken by Perisai HP)"
+    },
+    {
+      "id": 955306,
+      "name": "Maladaptasi",
+      "desc": "Ketika dilemahkan oleh Event Pilihan, Pasif ini menggantikan 「Adaptasi」\n\nPeroleh 1 Potency [Breath] setiap kali unit ini memberi damage with Attack Skill effects (15 per giliran)\n- Jika target memiliki 15+ [ObservedPerson], peroleh 1 tambahan Potency [Breath] with setiap hit; however, kurangi target's [ObservedPerson] by 3\n\nPeroleh +1 Count [Breath] setiap kali unit ini menerima damage dari a Pendosa's Attack Skill effects (15 per giliran)\n- Jika target memiliki 15+ [ObservedPerson], peroleh +1 tambahan Count [Breath] with setiap hit taken; however, kurangi target's [ObservedPerson] by 3\n\nCritical damage does not increase atau decrease"
+    },
+    {
+      "id": 955307,
+      "name": "Inadequate Defense Mechanism",
+      "desc": "Ketika dilemahkan oleh Event Pilihan, Pasif ini menggantikan 「Defense Mechanism」\n\nMulai Giliran: Peroleh Perisai setara dengan 15% dari HP yang hilang (Perisai HP tidak bisa exceed 5% of the maks HP)\n- Jika unit ini memiliki [Combustion], lose ([Combustion] Count x 2)% Perisai HP\n- Perisai menerima +150% damage dari [Burst] effects\n\nAkhir Giliran: Jika the Perisai yang diperoleh dari efek ini telah dihancurkan, for the rest of this Pertarungan, peroleh 2 [DefenseDown] pada Mulai Giliran untuk setiap instance the Perisai memiliki been destroyed (maks 10)"
+    },
+    {
+      "id": 955308,
+      "name": "Self-doubt",
+      "desc": "Ketika dilemahkan oleh Event Pilihan, Pasif ini menggantikan 「Confirmation Bias」\n\nMulai Giliran: <color=#ff9000><mark=#ff000040><b><u>Peroleh 3 [Vulnerable]</u></b></mark></color> dan kehilangan 15 SP\nAkhir Giliran: Siphon 5 SP dari target dengan higher SP than unit ini (maks 3 target; in descending order of SP; tidak bisa stack on the same target)\n(Tidak aktif jika Hohenheim is Panicked)"
+    },
+    {
+      "id": 955309,
+      "name": "Adaptasi",
+      "desc": "Peroleh 1 Potency [Breath] setiap kali unit ini memberi damage with Attack Skill effects (15 per giliran)\n- Jika target memiliki 15+ [ObservedPerson], peroleh 1 tambahan Potency [Breath] with setiap hit\n\nPeroleh +1 Count [Breath] setiap kali unit ini menerima damage dari a Pendosa's Attack Skill effects (15 per giliran)\n- Jika target memiliki 15+ [ObservedPerson], peroleh +1 tambahan Count [Breath] with setiap hit taken\n\n<color=#ff9000><mark=#ff000040><b><u>Mulai Giliran: Beri 3 [ResultReduction] dan 5 [ObservedPerson] to the Pendosa who dealt the most damage ke unit ini di giliran sebelumnya\n- Jika target memiliki 30 [ObservedPerson], beri 5 [ResultReduction] saja</u></b></mark></color>"
+    },
+    {
+      "id": 955310,
+      "name": "Defense Mechanism",
+      "desc": "Mulai Giliran: <color=#ff9000><mark=#ff000040><b><u>Peroleh Perisai setara dengan 30% dari HP yang hilang (Perisai HP tidak bisa exceed 25% of the maks HP)</u></b></mark></color>\n- Jika unit ini memiliki [Combustion], lose ([Combustion] Count x 1.5)% Perisai HP\n- Perisai menerima +100% damage dari [Burst] effects\n\nAkhir Giliran: Jika the Perisai yang diperoleh dari efek ini telah dihancurkan, for the rest of this Pertarungan, peroleh 1 [DefenseDown] pada Mulai Giliran untuk setiap instance the Perisai memiliki been destroyed (maks 5)"
+    },
+    {
+      "id": 955311,
+      "name": "Maladaptasi",
+      "desc": "Ketika dilemahkan oleh Event Pilihan, Pasif ini menggantikan 「Adaptasi」\n\nPeroleh 1 Potency [Breath] setiap kali unit ini memberi damage with Attack Skill effects (15 per giliran)\n- Jika target memiliki 15+ [ObservedPerson], peroleh 1 tambahan Potency [Breath] with setiap hit; however, kurangi target's [ObservedPerson] by 3\n\nPeroleh +1 Count [Breath] setiap kali unit ini menerima damage dari a Pendosa's Attack Skill effects (15 per giliran)\n- Jika target memiliki 15+ [ObservedPerson], peroleh +1 tambahan Count [Breath] with setiap hit taken; however, kurangi target's [ObservedPerson] by 3\n\nCritical damage does not increase atau decrease"
+    },
+    {
+      "id": 955002,
+      "name": "Superposed Afterimage",
+      "desc": "Sesaat memasuki Pertarungan, unit ini memperoleh [TimeEntangleFour]\nJika unit ini tidak memiliki [TimeGapAb], unit ini memperoleh [TimeGapAb] setara dengan ([TimeEntangleDesc] stage x 400) (sekali per [TimeEntangleDesc] stage)\n\nPada stage 3 dan 4 [TimeEntangleDesc], <color=#ff6000><mark=#ff000040><b><u>jika unit ini loses semua [TimeGapAb], the pattern changes dan menjadi terkena Stagger for the giliran berikutnya</u></b></mark></color>\n\nPada stage 2 [TimeEntangleDesc], <color=#ff6000><mark=#ff000040><b><u>jika unit ini loses semua [TimeGapAb], the pattern changes</u></b></mark></color>\n\nTerima -30% HP, SP damage dari [Combustion], [Laceration], [Burst], dan [Sinking]; -30% to Batas Stagger raised by [Vibration]"
+    },
+    {
+      "id": 957201,
+      "name": "The Masa Lalu - Segmentasi [分節]",
+      "desc": "Menunjukan Stack [StackPastActivate] saat ini pada Butterfly[TabExplain] of Entangled Lives::Imago\n\nSetiap kali unit ini is <color=#ff6000><mark=#ff000040><b><u>hit as target utama</u></b></mark></color>:\n- Butterfly[TabExplain] of Entangled Lives::Imago kehilangan 1 [StackPastActivate] Stack (sekali per Coin)\n- The Pendosa who attacked unit ini memulihkan 10 SP (sekali per giliran per Pendosa)\n\nJika unit ini <color=#ff6000><mark=#ff000040><b><u>did not get hit as target utama giliran ini</u></b></mark></color>, Butterfly[TabExplain] of Entangled Lives::Imago memperoleh 5 [StackPastActivate] Stack at Akhir Pertempuran\n- Jika Butterfly[TabExplain] of Entangled Lives::Imago terkena Stagger, efek ini tidak diaktifkan"
+    },
+    {
+      "id": 957202,
+      "name": "The Masa Lalu - Asal Mula [緣起]",
+      "desc": "Tetapkan Speed unit ini ke 1; HP unit ini does not turun di bawah 1\n\nKetika unit ini menerima HP damage, transfer setengah dari damage diterima to Butterfly[TabExplain] of Entangled Lives::Imago (dibulatkan ke bawah)"
+    },
+    {
+      "id": 957301,
+      "name": "The Masa Kini - Segmentasi [分節]",
+      "desc": "Displays current [StackPresentActivate] Stack pada Butterfly[TabExplain] of Entangled Lives::Imago\n\nSetiap kali unit ini is <color=#ff6000><mark=#ff000040><b><u>hit as target utama</u></b></mark></color>:\n- Butterfly[TabExplain] of Entangled Lives::Imago kehilangan 1 [StackPresentActivate] Stack (sekali per Coin)\n- The Pendosa who attacked unit ini memulihkan 10 SP (sekali per giliran per Pendosa)\n\nJika unit ini <color=#ff6000><mark=#ff000040><b><u>did not get hit as target utama giliran ini</u></b></mark></color>, Butterfly[TabExplain] of Entangled Lives::Imago memperoleh 5 [StackPresentActivate] Stack at Akhir Pertempuran\n- Jika Butterfly[TabExplain] of Entangled Lives::Imago terkena Stagger, efek ini tidak diaktifkan"
+    },
+    {
+      "id": 957302,
+      "name": "The Masa Kini - Asal Mula [緣起]",
+      "desc": "Tetapkan Speed unit ini ke 1; HP unit ini does not turun di bawah 1\n\nKetika unit ini menerima HP damage, transfer setengah dari damage diterima to Butterfly[TabExplain] of Entangled Lives::Imago (dibulatkan ke bawah)"
+    },
+    {
+      "id": 957401,
+      "name": "The Masa Depan - Segmentasi [分節]",
+      "desc": "Displays current [StackFutureActivate] Stack pada Butterfly[TabExplain] of Entangled Lives::Imago\n\nSetiap kali unit ini is <color=#ff6000><mark=#ff000040><b><u>hit as target utama</u></b></mark></color>:\n- Butterfly[TabExplain] of Entangled Lives::Imago kehilangan 1 [StackFutureActivate] Stack (sekali per Coin)\n- The Pendosa who attacked unit ini memulihkan 10 SP (sekali per giliran per Pendosa)\n\nJika unit ini <color=#ff6000><mark=#ff000040><b><u>did not get hit as target utama giliran ini</u></b></mark></color>, Butterfly[TabExplain] of Entangled Lives::Imago memperoleh 5 [StackFutureActivate] Stack at Akhir Pertempuran\n- Jika Butterfly[TabExplain] of Entangled Lives::Imago terkena Stagger, efek ini tidak diaktifkan"
+    },
+    {
+      "id": 957402,
+      "name": "The Masa Depan - Asal Mula [緣起]",
+      "desc": "Tetapkan Speed unit ini ke 1; HP unit ini does not turun di bawah 1\n\nKetika unit ini menerima HP damage, transfer setengah dari damage diterima to Butterfly[TabExplain] of Entangled Lives::Imago (dibulatkan ke bawah)"
+    },
+    {
+      "id": 955701,
+      "name": "Suppressed Might",
+      "desc": "Sesaat memasuki Pertarungan, peroleh [MiddleFingerLeashBuff]"
+    }
+  ]
+}

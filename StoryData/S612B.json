@@ -1,0 +1,604 @@
+{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Aula Wuthering Heights",
+            "model": "히스클리프헝클어짐",
+            "content": "Ugh..."
+        },
+        {
+            "id": 1,
+            "model": "단테",
+            "content": "<Apa kamu baik-baik saja, Heathcliff?>"
+        },
+        {
+            "id": 2,
+            "model": "히스클리프헝클어짐",
+            "content": "... Teknik klasik Nelly, ya... Teknik rahasianya untuk membawa kita melayang ke alam mimpi. ... Udah lama."
+        },
+        {
+            "id": 3,
+            "model": "넬리",
+            "content": "Saya sangat minta maaf, Heathcliff. Saya berharap bisa menghindari harus menggunakan 'pukulan penidur' itu padamu, dan bukan setelah reuni seperti ini..."
+        },
+        {
+            "id": 4,
+            "model": "히스클리프헝클어짐",
+            "content": "......."
+        },
+        {
+            "id": 5,
+            "model": "히스클리프헝클어짐",
+            "content": "Apakah itu benar, Nelly...?"
+        },
+        {
+            "id": 6,
+            "model": "히스클리프헝클어짐",
+            "content": "Apakah Catherine beneran... sudah meninggal?"
+        },
+        {
+            "id": 7,
+            "model": "넬리",
+            "content": "Iya."
+        },
+        {
+            "id": 8,
+            "model": "넬리",
+            "content": "Dan Nona Catherine..."
+        },
+        {
+            "id": 9,
+            "model": "넬리",
+            "content": "... Mencantumkan namamu dalam surat wasiatnya."
+        },
+        {
+            "id": 10,
+            "model": "히스클리프헝클어짐",
+            "content": "......."
+        },
+        {
+            "id": 11,
+            "model": "이스마엘",
+            "content": "... Surat wasiatnya, ya? Setidaknya kita harus mendengarkannya untuk mengetahui mengapa dia menyebut Heathcliff."
+        },
+        {
+            "id": 12,
+            "content": "Heathcliff duduk tanpa berkata apa-apa."
+        },
+        {
+            "id": 13,
+            "model": "홍루",
+            "content": "Jadi... apakah manor ini dulunya milik Nona Catherine?"
+        },
+        {
+            "id": 14,
+            "model": "넬리",
+            "content": "Ya, sebelumnya, manor ini punya Tuan Muda Hindley's. Lalu..."
+        },
+        {
+            "id": 15,
+            "model": "힌들리",
+            "content": "... Catherine, si lancang itu. Dia mengkhianatiku."
+        },
+        {
+            "id": 16,
+            "model": "힌들리",
+            "content": "Kenapa kau tidak menjelaskan lebih lanjut tentang ketidakadilan itu, Linton? Ceritakan kisah bagaimana Catherine dan Linton Edgar mengkhianatiku! Bagaimana kalian berdua menghancurkanku!"
+        },
+        {
+            "id": 17,
+            "model": "린튼",
+            "content": "Tidak ada ketidakadilan. Itu dilakukan dengan cara yang sepenuhnya legal; ajukan kasus ini ke pengadilan T Corp. jika anda mau. Itu sama sekali tidak akan mengubah apa pun."
+        },
+        {
+            "id": 18,
+            "content": "Seorang Fixer Öufi <ruby=Asosiasi>Association</ruby> membawa selembar kertas melangkah di antara Hindley dan Linton saat kedua pria itu terus saling menggeram."
+        },
+        {
+            "id": 19,
+            "model": "외우피협회보스F",
+            "teller": "Direktur Öufi Assoc.",
+            "title": "Asosiasi Öufi",
+            "content": "Waktu istirahat yang telah ditentukan telah berakhir. Sekarang kita akan melanjutkan ke pembacaan wasiat atau surat wasiat warisan."
+        },
+        {
+            "id": 20,
+            "model": "외우피협회보스F",
+            "teller": "Direktur Öufi Assoc.",
+            "title": "Asosiasi Öufi",
+            "content": "Ini adalah surat wasiat almarhum. Telah diverifikasi melalui berbagai tes dan pemeriksaan bahwa tidak terjadi pemalsuan atau pengubahan yang serupa."
+        },
+        {
+            "id": 21,
+            "model": "로쟈",
+            "content": "Jika mereka memverifikasi apakah itu surat palsu atau bukan, siapa yang memverifikasi agar mereka tidak berbohong begitu saja?"
+        },
+        {
+            "id": 22,
+            "model": "료슈",
+            "content": "Pertanyaan bagus."
+        },
+        {
+            "id": 23,
+            "model": "홍루",
+            "content": "Mungkin ini hanya praktik standar di industri ini?"
+        },
+        {
+            "id": 24,
+            "model": "외우피협회보스F",
+            "teller": "Direktur Öufi Assoc.",
+            "title": "Asosiasi Öufi",
+            "content": "Nona Catherine telah meminta agar surat ini dibacakan di hadapan tiga orang yang hadir..."
+        },
+        {
+            "id": 25,
+            "model": "외우피협회보스F",
+            "teller": "Direktur Öufi Assoc.",
+            "title": "Asosiasi Öufi",
+            "content": "... sebelum proses pewarisan harta benda pribadi dimulai."
+        },
+        {
+            "id": 26,
+            "model": "외우피협회보스F",
+            "teller": "Direktur Öufi Assoc.",
+            "title": "Asosiasi Öufi",
+            "content": "Sekarang saya akan membacakan seluruh isi surat wasiatnya."
+        },
+        {
+            "id": 27,
+            "content": "<color=#c29a5f>Akhirnya.</color>"
+        },
+        {
+            "id": 28,
+            "content": "<color=#c29a5f>Kalian semua berkumpul di sini.</color>"
+        },
+        {
+            "id": 29,
+            "content": "<color=#c29a5f>Satu-satunya harapan saya adalah agar kata-kata saya diterima dengan hormat, tanpa permusuhan di antara kalian.</color>"
+        },
+        {
+            "id": 30,
+            "content": "<color=#c29a5f>Saya harap tidak ada di antara kalian yang <ruby=Kemarahan>murka</ruby> pada kesempatan ini. Bagaimanapun, ini adalah satu-satunya pemakaman saya.</color>"
+        },
+        {
+            "id": 31,
+            "content": "<color=#c29a5f>Saya merasa tenang; tidak ada rasa sakit, tidak ada penderitaan di tempat saya berada.</color>"
+        },
+        {
+            "id": 32,
+            "content": "<color=#c29a5f>Jadi jangan anggap kematian saya sebagai sebuah tragedi.</color>"
+        },
+        {
+            "id": 33,
+            "content": "<color=#c29a5f>Karena pada saat kalian mendengar ini, saya pasti sudah mencapai surga saya sendiri.</color>"
+        },
+        {
+            "id": 34,
+            "content": "<color=#c29a5f>Ini bukan berarti kalian tidak boleh membiarkan kesedihan masuk ke dalam hati kalian.</color>"
+        },
+        {
+            "id": 35,
+            "content": "<color=#c29a5f>Menangislah, jika perlu.</color>"
+        },
+        {
+            "id": 36,
+            "content": "<color=#c29a5f>Agar saya bisa merasakan kesedihan kalian dan tahu bahwa kalian semua benar-benar menyayangi saya.</color>"
+        },
+        {
+            "id": 37,
+            "content": "<color=#c29a5f>Wuthering Heights. Sebuah manor yang tua dan terpencil.</color>"
+        },
+        {
+            "id": 38,
+            "content": "<color=#c29a5f>Saya selalu takut dengan tempat ini. Rasa takut dan mimpi buruk selalu menghantuiku setiap malam.</color>"
+        },
+        {
+            "id": 39,
+            "content": "<color=#c29a5f>... Namun kini, menjelang akhir hayatku, saya telah menerima rumah besar ini apa adanya.</color>"
+        },
+        {
+            "id": 40,
+            "content": "<color=#c29a5f>Manor ini, akan saya tinggalkan...</color>"
+        },
+        {
+            "id": 41,
+            "content": "<color=#c29a5f>... kepada suami saya, Linton Edgar.</color>"
+        },
+        {
+            "id": 42,
+            "content": "<color=#c29a5f>Pertahankan manor, dan ingatlah saya melalui keberadaannya.</color>"
+        },
+        {
+            "id": 43,
+            "model": "린튼",
+            "content": "......."
+        },
+        {
+            "id": 44,
+            "model": "힌들리",
+            "content": "Apa-apaan ini— Sialan...!"
+        },
+        {
+            "id": 45,
+            "content": "<color=#c29a5f>Dan kepada kakak saya, Hindley. Satu-satunya kakakku.</color>"
+        },
+        {
+            "id": 46,
+            "model": "힌들리",
+            "content": "Benar...! Aku tahu aku pasti ada di sana...!"
+        },
+        {
+            "id": 47,
+            "content": "Kaki Hindley mulai gemetar karena gugup. Begitu juga suaranya."
+        },
+        {
+            "id": 48,
+            "content": "<color=#c29a5f>Saya dengar kamu terjerat hutang yang cukup besar.</color>"
+        },
+        {
+            "id": 49,
+            "content": "<color=#c29a5f>Dan bahwa kamu menghabiskan sebagian besar hari-harimu untuk minum dan berjudi.</color>"
+        },
+        {
+            "id": 50,
+            "content": "<color=#c29a5f>Jadi saya...</color>"
+        },
+        {
+            "id": 51,
+            "model": "힌들리",
+            "content": "Ayolah, Catherine. Beri aku sesuatu, apa aja..."
+        },
+        {
+            "id": 52,
+            "content": "<color=#c29a5f>... mendaftarkanmu ke 'Abyss Trauma Correctional Facility' di M Corp.</color>"
+        },
+        {
+            "id": 53,
+            "content": "<color=#c29a5f>Jika kamu tidak mengunjungi fasilitas tersebut dalam waktu 1 minggu setelah menghadiri pembacaan surat wasiat ini...</color>"
+        },
+        {
+            "id": 54,
+            "content": "<color=#c29a5f>...mereka akan datang untuk menjemputmu.</color>"
+        },
+        {
+            "id": 55,
+            "model": "힌들리",
+            "content": "A... Apa?"
+        },
+        {
+            "id": 56,
+            "content": "<color=#c29a5f>Aku sungguh berharap hatimu akan sembuh, kakakku tersayang.</color>"
+        },
+        {
+            "id": 57,
+            "model": "힌들리",
+            "content": "TIDAK! Itu omong kosong...! Bagaimana mungkin aku bisa sampai ke M Corp. dalam seminggu?!"
+        },
+        {
+            "id": 58,
+            "content": "<color=#c29a5f>Tentu saja, saya sudah menyiapkan tiket kereta WARP ke M Corp. untuk kamu, jadi jangan khawatir soal biaya perjalanan.</color>"
+        },
+        {
+            "id": 59,
+            "model": "힌들리",
+            "content": "Tidak, ini semua omong kosong!!!"
+        },
+        {
+            "id": 60,
+            "model": "외우피협회보스F",
+            "teller": "Direktur Öufi Assoc.",
+            "title": "Asosiasi Öufi",
+            "content": "Apabila terjadi lagi gangguan terhadap pelaksanaan hal ini..."
+        },
+        {
+            "id": 61,
+            "model": "외우피협회보스F",
+            "teller": "Direktur Öufi Assoc.",
+            "title": "Asosiasi Öufi",
+            "content": "...kami akan mengambil tindakan tegas tanpa peringatan."
+        },
+        {
+            "id": 62,
+            "model": "힌들리",
+            "content": "B-beraninya kalian, dasar orang rendahan..."
+        },
+        {
+            "id": 63,
+            "content": "<color=#c29a5f>Dan kamu, Heathcliff.</color>"
+        },
+        {
+            "id": 64,
+            "model": "히스클리프헝클어짐",
+            "content": "......."
+        },
+        {
+            "id": 65,
+            "content": "<color=#c29a5f>Selamat datang kembali.</color>"
+        },
+        {
+            "id": 66,
+            "model": "히스클리프헝클어짐",
+            "content": "Cathy, aku..."
+        },
+        {
+            "id": 67,
+            "model": "린튼",
+            "content": "......."
+        },
+        {
+            "id": 68,
+            "content": "<color=#c29a5f>Begitu sambaran petir ketujuh menghantam manor ini...</color>"
+        },
+        {
+            "id": 69,
+            "content": "<color=#c29a5f>... <ruby=Ranting Emas>Golden Bough</ruby> saya akan menjadi milikmu.</color>"
+        },
+        {
+            "id": 70,
+            "model": "이스마엘",
+            "content": "... Huh?"
+        },
+        {
+            "id": 71,
+            "content": "Sekadar menyebutkan nama <ruby=Ranting Emas>Golden Bough</ruby>..."
+        },
+        {
+            "id": 72,
+            "content": "... Tiba-tiba sensasi yang kurasakan sebelumnya semakin menguat. Aku benar-benar merasakan bahwa <ruby=Ranting Emas>Golden Bough</ruby> itu terletak di suatu tempat di dalam rumah besar ini."
+        },
+        {
+            "id": 73,
+            "model": "단테",
+            "content": "<.......>"
+        },
+        {
+            "id": 74,
+            "content": "Tapi aku sudah menduga bahwa <ruby=Ranting Emas>Golden Bough</ruby> itu ada di suatu tempat di sini. Aku sudah tahu itu sejak kita pertama kali menginjakkan kaki di manor ini."
+        },
+        {
+            "id": 75,
+            "content": "Namun, aku tidak bisa menentukan lokasi pastinya, karena..."
+        },
+        {
+            "id": 76,
+            "content": "<color=#c29a5f>Aku akan mewariskan <ruby=Ranting Emas>Golden Bough</ruby> padamu, Heathcliff.</color>"
+        },
+        {
+            "id": 77,
+            "model": "이스마엘",
+            "content": "<ruby=Ranting Emas>Golden Bough</ruby>... adalah harta pribadinya? Bahkan bukan harta tanahnya atau keluarganya? Hanya miliknya?"
+        },
+        {
+            "id": 78,
+            "model": "싱클레어",
+            "content": "Sambaran petir ketujuh? Menurut kalian apa maksudnya itu?"
+        },
+        {
+            "id": 79,
+            "model": "단테",
+            "content": "<Ini bukan 'sebuah' <ruby=Ranting Emas>Golden Bough</ruby>...>"
+        },
+        {
+            "id": 80,
+            "model": "힌들리",
+            "content": "Apa maksudnya itu sih? Apa...!"
+        },
+        {
+            "id": 81,
+            "content": "Ada lebih dari satu di sini."
+        },
+        {
+            "id": 82,
+            "model": "파우스트",
+            "content": "Dante. Apakah anda tidak apa-apa?"
+        },
+        {
+            "id": 83,
+            "model": "단테",
+            "content": "<Ada... <ruby=Ranting Emas>Golden Bough</ruby> kedua di dalam manor ini.>"
+        },
+        {
+            "id": 84,
+            "model": "히스클리프헝클어짐",
+            "content": "Tidak... ini sama sekali bukan yang aku... aku..."
+        },
+        {
+            "id": 85,
+            "model": "히스클리프헝클어짐",
+            "content": "Kembalilah, Cathy. Kumohon..."
+        },
+        {
+            "id": 86,
+            "model": "히스클리프헝클어짐",
+            "content": "Dengarlah suaraku untuk sekali ini saja, Cathy!!!"
+        },
+        {
+            "id": 87,
+            "model": "어린캐서린",
+            "content": "Aku serius! Nelly, rumah ini berhantu! Aku ada lihat hantu!"
+        },
+        {
+            "id": 88,
+            "model": "넬리",
+            "content": "Ini lagi, Nona Cathy? Apa yang sudah saya katakan? Sudah saya bilang saya akan menghajar hantu jahat itu dan menggantung mereka sampai kering di rak."
+        },
+        {
+            "id": 89,
+            "model": "어린힌들리",
+            "content": "Hantu itu tidak nyata. Dia pembohong."
+        },
+        {
+            "id": 90,
+            "model": "어린캐서린",
+            "content": "Aku nggak bohong!"
+        },
+        {
+            "id": 91,
+            "model": "언쇼",
+            "teller": "Tuan Earnshaw",
+            "title": "Wuthering Heights",
+            "content": "Maafkan saya, anak-anak. Kalian sudah menunggu lama?"
+        },
+        {
+            "id": 92,
+            "model": "어린힌들리",
+            "content": "Ayah, dimana biolaku?"
+        },
+        {
+            "id": 93,
+            "model": "어린캐서린",
+            "content": "Bagaimana dengan kunci inggris serbaguna X Corp. aku?!"
+        },
+        {
+            "id": 94,
+            "model": "언쇼",
+            "teller": "Tuan Earnshaw",
+            "title": "Wuthering Heights",
+            "content": "Sekali lagi, ayah minta maaf. Ayah tidak punya tempat untuk biola atau kunci inggris."
+        },
+        {
+            "id": 95,
+            "model": "어린힌들리",
+            "content": "tempat apa...? Ugh, apa itu?"
+        },
+        {
+            "id": 96,
+            "model": "어린캐서린",
+            "content": "Kain kotor apa itu? Ihh..."
+        },
+        {
+            "id": 97,
+            "model": "언쇼",
+            "teller": "Tuan Earnshaw",
+            "title": "Wuthering Heights",
+            "content": "Ayah menemukan anak ini sekarat sendirian di jalanan. Dia tidak punya orang tua atau rumah... anak itu pasti akan mati dalam cuaca seperti ini."
+        },
+        {
+            "id": 98,
+            "model": "어린캐서린",
+            "content": "Terus kenapa? Aku tidak mau anak yang menjijikkan dan kotor itu tinggal di sini."
+        },
+        {
+            "id": 99,
+            "model": "어린힌들리",
+            "content": "Ya! Aku mau biolaku! Buang saja dia..."
+        },
+        {
+            "id": 100,
+            "teller": "Heathcliff",
+            "title": "???",
+            "content": "... liat-liat apa lo?"
+        },
+        {
+            "id": 101,
+            "model": "어린캐서린",
+            "content": "......."
+        },
+        {
+            "id": 102,
+            "model": "어린힌들리",
+            "content": "Biola! Aku mau! Biolaku!"
+        },
+        {
+            "id": 103,
+            "model": "어린캐서린",
+            "content": "... Papa, kenapa dia sendirian? Di jalanan?"
+        },
+        {
+            "id": 104,
+            "model": "언쇼",
+            "teller": "Tuan Earnshaw",
+            "title": "Wuthering Heights",
+            "content": "Karena tidak ada seorang pun yang merawatnya. Anak malang..."
+        },
+        {
+            "id": 105,
+            "model": "언쇼",
+            "teller": "Tuan Earnshaw",
+            "title": "Wuthering Heights",
+            "content": "Ada anak-anak lain seperti dia di <ruby=Belakangan>Backstreets</ruby>. Tidak ada orang tua atau <ruby=Kerabat>kerabat</ruby> yang merawat mereka, tidak ada rumah untuk melindungi mereka..."
+        },
+        {
+            "id": 106,
+            "model": "어린캐서린",
+            "content": "Lalu... apa yang dia miliki sekarang?"
+        },
+        {
+            "id": 107,
+            "model": "언쇼",
+            "teller": "Tuan Earnshaw",
+            "title": "Wuthering Heights",
+            "content": "Ya, Cathy, sekarang dia ada kita untuk merawatnya. Dan tempat ini adalah rumahnya."
+        },
+        {
+            "id": 108,
+            "model": "어린힌들리",
+            "content": "NGGAK! Aku nggak mau anak jelek itu."
+        },
+        {
+            "id": 109,
+            "model": "어린캐서린",
+            "content": "Jadi maksudmu kau tidak ingin memilikinya... kan?"
+        },
+        {
+            "id": 110,
+            "model": "캐서린",
+            "content": "Angin menderu kencang. Aku bisa mendengar sesuatu meratap; tangisannya bergema di seluruh aula manor itu."
+        },
+        {
+            "id": 111,
+            "model": "넬리",
+            "content": "Saya juga mendengarnya, Nona. Tutup jendelanya; udaranya agak dingin di luar."
+        },
+        {
+            "id": 112,
+            "model": "넬리",
+            "content": "Apakah anda masih ingat? Saat masih kecil, anda sangat takut dengan angin yang menderu-deru ini..."
+        },
+        {
+            "id": 113,
+            "model": "넬리",
+            "content": "Bahwa anda melihat hantu..."
+        },
+        {
+            "id": 114,
+            "model": "캐서린",
+            "content": "Nelly. Saya masih melihat mereka."
+        },
+        {
+            "id": 115,
+            "model": "넬리",
+            "content": "Nona. Anda menjadi terlalu lemah sejak Heathcliff meninggalkan rumah besar itu. Itulah sebabnya anda mulai berhalusinasi."
+        },
+        {
+            "id": 116,
+            "model": "캐서린",
+            "content": "Itu tidak apa-apa, Nelly."
+        },
+        {
+            "id": 117,
+            "model": "캐서린",
+            "content": "Saya tidak lagi takut akan hantu."
+        },
+        {
+            "id": 118,
+            "model": "캐서린",
+            "content": "Karena semua rasa takut berakar dari ketidaktahuan tentang asal-usulnya."
+        },
+        {
+            "id": 119,
+            "model": "캐서린",
+            "content": "... Menurutmu dia berada dimana sekarang? Heathcliff."
+        },
+        {
+            "id": 120,
+            "model": "넬리",
+            "content": "Nona..."
+        },
+        {
+            "id": 121,
+            "model": "캐서린",
+            "content": "Dia tidak punya apa-apa lagi. Sayalah segalanya yang hanya dia miliki..."
+        }
+    ]
+}

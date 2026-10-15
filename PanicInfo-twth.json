@@ -1,0 +1,16 @@
+{
+  "dataList": [
+    {
+      "id": 1088,
+      "panicName": "Faltering Inspiration",
+      "lowMoraleDescription": "- Jika target memiliki Mauled Color, beri +10% damage \n- Peroleh 1 [Vulnerable]",
+      "panicDescription": "- Jika target memiliki Mauled Color, beri +20% damage\n- Peroleh 2 [Vulnerable]"
+    },
+    {
+      "id": 1090,
+      "panicName": "Coloriage Impulsif",
+      "lowMoraleDescription": "- Beri +2.5% damage untuk setiap tipe efek negatif pada target (maks 15%)\n- Peroleh 1 [Vulnerable]",
+      "panicDescription": "- Beri +5% damage untuk setiap tipe efek negatif pada target (maks 30%)\n- Peroleh 2 [Vulnerable]"
+    }
+  ]
+}

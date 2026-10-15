@@ -1,0 +1,129 @@
+{
+  "dataList": [
+    {
+      "id": "FusionVibration",
+      "name": "Amplitude Entanglement",
+      "desc": "- Fuses the efek of the Tremor type added sebanyak Amplitude Entanglement dan the Tremor type currently pada target together under Tremor - Superposition.\n- Potency dan Count values do not ubah over Entanglement.\n- Ketika mengaktifkan Amplitude Conversion on Tremor - Superposition, it activates as Amplitude Entanglement saja.\n- Akhir Giliran: diubah menjadi base Tremor.",
+      "summary": ""
+    },
+    {
+      "id": "VibrationNesting",
+      "name": "Tremor - Superposition",
+      "desc": "- Diperoleh through Amplitude Entanglement\n- Ketika mengaktifkan Amplitude Conversion, add the efek of the resulting Tremor type to the list of aktif Tremor efek under Tremor - Superposition.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "VibrationDistribution",
+      "name": "Tremor - Distribution",
+      "desc": "- Akhir Giliran: Peroleh ((jumlah dari semua kawan' Tremor Count) / (# dari kawan yang hidup)) Level Offense Up giliran berikutnya (maks 5)\n- Ketika diserang sebanyak Skill yang mengaktifkan Tremor Burst, naikkan the Batas Stagger sebanyak efek's Potency\n- Akhir Giliran: kurangi the Count sebanyak 1\n- (Interacts the same way as normal Tremor does to efek that naikkan atau kurangi Tremor Potency/Count)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TcorpSpecialInvestigator",
+      "name": "T Corp. Special Investigator Badge",
+      "desc": "-Ketika unit ini menerima damage mematikan, HP mereka tidak turun di bawah 1, instantly memulihkan 80% of their maks HP, dan recovers dari Stagger. (Once per Pertempuran)\n- Ketika this buff efek activates, starting giliran berikutnya, unit ini peroleh 2 Attack Power Up pada setiap Awal Giliran for 5 giliran.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "VibrationChain",
+      "name": "Tremor - Chain",
+      "desc": "- Kehilangan 1 Clash Power untuk setiap 10 Tremor Potency pada diri sendiri (maks 3)\n- Ketika Terserang sebanyak Skill yang mengaktifkan Tremor Burst, naikkan the Batas Stagger sebanyak efek's Potency\n- Akhir Giliran: kurangi the Count sebanyak 1\n- (Interacts the same way as normal Tremor does to efek that naikkan atau kurangi Tremor Potency/Count)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeRentalTwo",
+      "name": "T Corp. Borrowed Time",
+      "desc": "Akhir Giliran:\n- Peroleh (Borrowed Time Count - 1) Haste, Clash Power Up, dan Fragile giliran berikutnya.\n- Pada 1 Count, peroleh (2 x (Borrowed Time Stack - 1) Bind giliran berikutnya saja.\n- Peroleh 1 Stack dan kehilangan 1 Count\n- Jika unit ini memiliki lebih Bind than it has Haste, the Borrowed Time efek kadaluarsa dan unit ini gets Stagger.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeAccumulation",
+      "name": "Time Delay",
+      "desc": "As long as efek ini aktif, damage yang diberikan terhadap unit ini is stored dan not diterima.\nAkhir Giliran: kurangi value sebanyak 1\nAkhir Giliran: Jika there is hanya 1 value left dari efek ini, efek kadaluarsa setelah dealing (2 x stored damage) Sloth damage ke unit ini\nKetika efek ini aktif, its value tidak dapat diperoleh atau be refreshed.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ParryingResultDown",
+      "name": "Clash Power Down",
+      "desc": "Dalam Clash, kehilangan Clash Power setara dengan nilainya",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ParryingResultUp",
+      "name": "Clash Power Up",
+      "desc": "Dalam Clash, peroleh Clash Power setara dengan nilainya",
+      "summary": "Dalam Clash, peroleh Clash Power setara dengan nilainya",
+      "undefined": "-"
+    },
+    {
+      "id": "LimitedTime",
+      "name": "Stolen Time",
+      "desc": "- Awal Giliran: Pada 200+ value, peroleh (value - 200)/50 Level Offense Up & Defense Level Up.\n- Awal Giliran: Pada kurang dari 200 value, peroleh (200 - value)/50 Level Offense Down & Defense Level Down.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "OwnTime",
+      "name": "Shared Time",
+      "desc": "- Awal Giliran: Pada 40+ value, peroleh (value - 40)/10 Level Offense Up & Defense Level Up.\n- Awal Giliran: Pada kurang dari 40 value, peroleh (40 - value)/10 Level Offense Down & Defense Level Down.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EquitableDistribution",
+      "name": "Joint Time Expenditure",
+      "desc": "Ketika spending Shared Time, the Brains spend an equal jumlah dari time across the board.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnfairDistribution",
+      "name": "Infighting",
+      "desc": "Ketika spending Shared Time, the Brains no longer spend an equal jumlah dari time across the board.\nAwal Giliran: semua parts kehilangan Protection setara dengan jumlah dari Parts dengan different remaining Time values.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeAcceleration",
+      "name": "Time Acceleration",
+      "desc": "- Peroleh 5 Speed\n- Enhances Skill unit ini.\n- Peroleh 1 Fragile; ketika Tremor Burst, Skill atau Coin efek raises Batas Stagger unit ini, it raises it sebanyak +50% lebih.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Yurodivy_LowMorale",
+      "name": "Broken Unity",
+      "desc": "- Moral Rendah\nPeroleh 1 Fragile. Peroleh 1 Tremor Count ketika diserang. (3 kali maks)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Yurodivy_Panic",
+      "name": "Broken Unity",
+      "desc": "- Panik\nPeroleh 2 Fragile. Peroleh 2 Tremor Count ketika diserang. (3 kali maks)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeKillerWatch",
+      "name": "Time Rescue Target",
+      "desc": "Targeted sebanyak the Time Ripper while Time Acceleration aktif.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UltraPrecisionTimeAcceleration",
+      "name": "Microprecision Time Acceleration",
+      "desc": "Unit ini peroleh base Min dan Maks Speed sebanyak Stack\nSkill yang beri Tremor Potency, Count, atau aktifkan Tremor Burst: peroleh Base Power +(Stack), beri +(Stack x 10)% damage terhadap musuh, dan ketika raising Stagger Thresholds via Tremor Burst, increase the amount raised sebanyak (Stack x 10)% (termasuk Skill E.G.O)\nReduced sebanyak 1 pada Akhir Giliran\nPada 1 Stack, the Stack tidak turun di bawah 0, dan is maintained through Pertempuran.",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

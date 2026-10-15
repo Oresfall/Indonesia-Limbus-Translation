@@ -1,0 +1,324 @@
+{
+  "dataList": [
+    {
+      "id": 9021501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Elongating Palm",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 10 ([Breath] pada diri sendiri + [Burst] pada target) (maks 2)\n[WhenUse] Peroleh +2 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 4 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [BurstPoison], beri +2 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Puncturing Lengan Ular",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 8 ([Breath] pada diri sendiri + [Burst] pada target) (maks 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 4 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [BurstPoison], beri 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Serpent's Concealed Puncture",
+          "desc": "Jika unit ini memiliki [SnakeStance] dan target memiliki [BurstPoison], Skill ini menjadi an Unclashable Skill\nCoin Power +1 untuk setiap 4 ([Breath] pada diri sendiri + [Burst] pada target) (maks 10)\n[WinDuel] Beri +2 [Burst] Count dan peroleh +2 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Beri +25% damage untuk setiap [SnakeStance] pada diri sendiri (maks 50%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Konsumsi 3 [BurstPoison] untuk setiap [SnakeStance] pada diri sendiri (maks 5 per giliran)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 8 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [BurstPoison] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Eyeing untuk a Chance",
+          "desc": "[CanDuelGuard]\n[WhenUse] Coin Power +1 untuk setiap 4 [Burst] pada target (maks 2)\n[WhenUse] Peroleh 3 [SnakeStance] (sekali per Skill)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Elongating Arm",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 10 ([Breath] pada diri sendiri + [Burst] pada target) (maks 2)\n[WhenUse] Peroleh +2 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 4 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [BurstPoison], beri +2 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gnawing Lengan Ular",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 8 ([Breath] pada diri sendiri + [Burst] pada target) (maks 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 4 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [BurstPoison], beri +1 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Serpent's Shadowed Puncture",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 8 ([Breath] pada diri sendiri + [Burst] pada target) (maks 4)\n[WinDuel] Beri +2 [Burst] Count\n[WinDuel] Peroleh +2 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [BurstPoison] giliran berikutnya (sekali per Skill)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika unit ini memiliki [SnakeStance], Gunakan ulang Coin ini sekali (sekali per Skill)"
+                },
+                {
+                  "desc": "- The Coin yang digunakan ulang beri -70% damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Observe untuk a Chance",
+          "desc": "[CanDuelGuard]\n[WhenUse] Coin Power +1 untuk setiap 4 [Burst] pada target (maks 2)\n[WhenUse] Peroleh 3 [SnakeStance] (sekali per Skill)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mutated Elongating Arm",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 10 ([Breath] pada diri sendiri + [Burst] pada target) (maks 2)\n[WinDuel] Peroleh +3 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 4 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [BurstPoison], beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Jika unit ini memiliki 10+ [Breath], peroleh 1 [SnakeStance] dan Gunakan Ulang Coin sekali (sekali per Skill; dapat peroleh hingga 2 [SnakeStance] per giliran)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Elongating Lengan Ular",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 8 ([Breath] pada diri sendiri + [Burst] pada target) (maks 3)\n[BeforeAttack] Jika unit ini memiliki [SnakeStance], peroleh +2 Atk Weight\n- Becomes a [WideAreaRampage] Skill\n- Ketika menyerang target yang sama, jika target memiliki 2 atau lebih sedikit [Burst] Count, beri +1 [Burst] Count dan konsumsi 1 [BurstPoison]\n[WinDuel] Beri +1 [Burst] Count pada semua target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [BurstPoison], beri +2 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [BurstPoison], beri +2 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [BurstPoison], beri +2 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Serpent's Keenlance",
+          "desc": "Jika unit ini memiliki [SnakeStance] dan target memiliki [BurstPoison], Skill ini menjadi an Unclashable Skill\n[WhenUse] Coin Power +1 untuk setiap 4 ([Breath] pada diri sendiri + [Burst] pada target) (maks 10)\n[WinDuel] Beri +2 [Burst] Count dan peroleh +3 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Jika unit ini memiliki [SnakeStance], beri +100% damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Konsumsi 5 [BurstPoison] untuk setiap [SnakeStance] pada diri sendiri (sekali per giliran)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [BurstPoison] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wait untuk a Chance",
+          "desc": "[CanDuelGuard]\n[WhenUse] Coin Power +1 untuk setiap 4 [Burst] pada target (maks 3)\n[WhenUse] Peroleh 3 [SnakeStance] (sekali per Skill)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

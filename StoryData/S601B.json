@@ -1,0 +1,408 @@
+{
+    "dataList": [
+        {
+            "id": 0,
+            "content": "<color=#4e3076>Kembalilah, Heath.</color>"
+        },
+        {
+            "id": 1,
+            "content": "<color=#4e3076>Menuju manor tempat sisa-sisa keindahan terakhirnya masih terlihat pada bunga-bunga violet.</color>"
+        },
+        {
+            "id": 2,
+            "content": "<color=#4e3076>Ke manor yang telah rusak akibat badai\ndan mengambil semua kehangatan yang dulunya ada di sana.</color>"
+        },
+        {
+            "id": 3,
+            "content": "<color=#4e3076>Ke manor yang memberimu bukan hanya kehidupan...\ntetapi juga cemoohan dan kesedihan.</color>"
+        },
+        {
+            "id": 4,
+            "content": "<color=#4e3076>Ke manor di mana tempatmu berupa sudut membeku\nyang letaknya sangat jauh dari perapian.</color>"
+        },
+        {
+            "id": 5,
+            "content": "<color=#4e3076>Kembalilah dari tegalan.</color>"
+        },
+        {
+            "id": 6,
+            "content": "<color=#4e3076>Saatnya dirimu untuk pulang.</color>"
+        },
+        {
+            "id": 7,
+            "place": "Di dalam Mephistopheles",
+            "model": "단테",
+            "content": "<Jadi <ruby=Sarang>Nest</ruby> T Corp. seperti ini...>"
+        },
+        {
+            "id": 8,
+            "content": "Kami ternyata tidak mengalami banyak kesulitan saat melewati perbatasan <ruby=Sarang>Nest</ruby>. Kurasa aku nggak perlu terlalu khawatir."
+        },
+        {
+            "id": 9,
+            "model": "이스마엘",
+            "content": "Yah... Entah bagaimana, kita berhasil melewati pos pemeriksaan <ruby=Sarang>Nest</ruby> ini tanpa masalah."
+        },
+        {
+            "id": 10,
+            "model": "돈키호테",
+            "content": "Ehem, ehem...! Bukan masalah! Sesungguhnya, pujian yang berlebihan seperti itu tidak perlu, kataku~"
+        },
+        {
+            "id": 11,
+            "model": "그레고르",
+            "content": "Tapi... kita... nggak ngomong apa-apa...?"
+        },
+        {
+            "id": 12,
+            "model": "로쟈",
+            "content": "Dia sudah besar ya..."
+        },
+        {
+            "id": 13,
+            "content": "Semuanya tampak sangat tenang hanya dengan memasuki <ruby=Sarang>Nest</ruby> yang berbeda."
+        },
+        {
+            "id": 14,
+            "content": "Kurasa semuanya sudah terbiasa dengan ini sekarang. Rutin, membosankan... Kurasa itulah kata-kata yang tepat untuk menggambarkan sentimen umum di antara para <ruby=Pendosa>Sinners</ruby>."
+        },
+        {
+            "id": 15,
+            "content": "Kecuali satu, sih"
+        },
+        {
+            "id": 16,
+            "model": "히스클리프",
+            "content": "......."
+        },
+        {
+            "id": 17,
+            "model": "단테",
+            "content": "<Kita akan menuju ke sebuah tempat bernama ‘Wuthering Heights’, ya kan?>"
+        },
+        {
+            "id": 18,
+            "content": "Ekspresi murung Heathcliff memberitahuku bahwa pikirannya sedang terbebani oleh berbagai macam masalah yang rumit"
+        },
+        {
+            "id": 19,
+            "model": "히스클리프",
+            "content": "Huh? Uh... ya."
+        },
+        {
+            "id": 20,
+            "content": "Meskipun matanya menatap pemandangan yang bergerak di luar jendela, pikirannya tertuju pada sesuatu yang tidak dapat dilihat matanya. Sesuatu yang berada di balik dinding bangunan."
+        },
+        {
+            "id": 21,
+            "model": "이스마엘",
+            "content": "'Wuthering' Heights..."
+        },
+        {
+            "id": 22,
+            "model": "이스마엘",
+            "content": "Manor itu pasti dibangun di atas bukit yang sangat berangin, ya?"
+        },
+        {
+            "id": 23,
+            "model": "히스클리프",
+            "content": "Yeah. Bener-bener 'wuthering', kayak namanya."
+        },
+        {
+            "id": 24,
+            "model": "히스클리프",
+            "content": "... Nggak ada satupun sudut di tempat itu yang terasa nyaman.."
+        },
+        {
+            "id": 25,
+            "content": "Suara Heathcliff terdengar sangat muram. Para <ruby=Pendosa>Sinners</ruby> lainnya di dalam bus menyadari hal ini dan mulai mengobrol dengannya."
+        },
+        {
+            "id": 26,
+            "model": "이상",
+            "content": "Kembali ke tanah air pasti memunculkan berbagai macam emosi yang rumit."
+        },
+        {
+            "id": 27,
+            "model": "히스클리프",
+            "content": "Tanah air? ya..."
+        },
+        {
+            "id": 28,
+            "model": "히스클리프",
+            "content": "Gua ga lahir di sini, gua dibesarkan di sini... gua rasa emang masih bisa dianggep sebahagi 'tanah air', dalam arti tertentu."
+        },
+        {
+            "id": 29,
+            "model": "히스클리프",
+            "content": "tapi, hal itu ga ngebangkitin perasaan yang sama seperti yang seharusnya ditimbulkan oleh sebuah 'tanah air'."
+        },
+        {
+            "id": 30,
+            "model": "이상",
+            "content": "... Artinya...?"
+        },
+        {
+            "id": 31,
+            "model": "히스클리프",
+            "content": "Lu ga tau berapa kali gua mikirin, bayangin dalam otak gua. Kembali ke manor terkutuk itu, ngancurin semuanya sampe nggak ada yang tersisa..."
+        },
+        {
+            "id": 32,
+            "model": "이스마엘",
+            "content": "Oke, jadi kamu akan menghancurkan semuanya berkeping-keping. Lalu apa?"
+        },
+        {
+            "id": 33,
+            "model": "이스마엘",
+            "content": "Apakah kamu benar-benar nggak belajar apa pun dari apa yang kualami di <ruby=Danau>Lake</ruby> itu?"
+        },
+        {
+            "id": 34,
+            "model": "히스클리프",
+            "content": "... Gua sempet tahu satu hal."
+        },
+        {
+            "id": 35,
+            "model": "히스클리프",
+            "content": "Jika suatu saat gua hilang kendali dan ngedorong diri gua sendiri ampe ambang kehancuran, gua percaya salah satu dari kalian akan narik gua keluar dari situasi itu."
+        },
+        {
+            "id": 36,
+            "model": "이스마엘",
+            "content": "... Kamu ngasih izin ke kami untuk menghajarmu sampai sadar lagi gitu?"
+        },
+        {
+            "id": 37,
+            "model": "히스클리프",
+            "content": "Ya. Jika itu yang harus dilakukan. "
+        },
+        {
+            "id": 38,
+            "model": "료슈",
+            "content": "Menarik. Sejauh mana kita diperbolehkan melakukan kekerasan fisik? Amputasi? Mutilasi saraf?"
+        },
+        {
+            "id": 39,
+            "model": "싱클레어",
+            "content": "Mungkin setidaknya kita bisa menghantam kepalanya dengan sangat keras?"
+        },
+        {
+            "id": 40,
+            "model": "히스클리프",
+            "content": "Sumpah, lho semua anjing dah..."
+        },
+        {
+            "id": 41,
+            "model": "히스클리프",
+            "content": "Seriusan, Ini bukan undangan terbuka untuk jadiin gua sebagai sasaran pelampiasan emosi lu. Gua lagi ga mood untuk—"
+        },
+        {
+            "id": 42,
+            "model": "홍루",
+            "content": "Namun, kurasa dirimu saat ini mampu melakukannya, Heathcliff."
+        },
+        {
+            "id": 43,
+            "model": "히스클리프",
+            "content": "Hah? apa maksud lo 'diriku yang saat ini'?"
+        },
+        {
+            "id": 44,
+            "model": "홍루",
+            "content": "Heathcliff, dirimu saat ini… sangat kekurangan. Kamu miskin, dan kamu tidak punya apa-apa..."
+        },
+        {
+            "id": 45,
+            "model": "히스클리프",
+            "content": "Apa? ‘Miskin’...?"
+        },
+        {
+            "id": 46,
+            "model": "히스클리프",
+            "content": "Baiklah, sekarang lu langsung aja lontarin hinaan pribadi tanpa basa-basi, ya? Gua—"
+        },
+        {
+            "id": 47,
+            "model": "홍루",
+            "content": "Oh, ha ha...  Kurasa kamu salah paham dengan kata-kataku."
+        },
+        {
+            "id": 48,
+            "content": "Hong Lu bukanlah <ruby=Pendosa>Sinner</ruby> yang paling banyak bicara, tetapi ketika dia berbicara... dia biasanya memiliki sesuatu yang berwawasan untuk dikatakan."
+        },
+        {
+            "id": 49,
+            "content": "Namun karena dia tidak pernah mengatakannya dengan cara yang langsung terlihat jelas, kata-katanya sangat rentan terhadap kesalahpahaman..."
+        },
+        {
+            "id": 50,
+            "model": "홍루",
+            "content": "Dalam arti tertentu, kita semua 'kekurangan'... dan itu bisa mengubah banyak hal. Mungkin ada hal-hal yang hanya bisa kita pahami ketika kita tidak memiliki apa pun lagi."
+        },
+        {
+            "id": 51,
+            "model": "돈키호테",
+            "content": "Apakah kemiskinan itu menjelaskan kurangnya warna yang terlihat saat ini...?"
+        },
+        {
+            "id": 52,
+            "content": "Don Quixote memandang segala sesuatu di sekitarnya dengan sedih, lalu memandang dirinya sendiri. Dia seperti hendak menangis."
+        },
+        {
+            "id": 53,
+            "content": "Semua warna di sekitar kita berubah sejak kita memasuki T Corp. melalui <ruby=Belakangan>Backstreets</ruby>"
+        },
+        {
+            "id": 54,
+            "content": "Rasanya seolah-olah semakin banyak warna kita diambil sejak saat itu."
+        },
+        {
+            "id": 55,
+            "model": "로쟈",
+            "content": "Aku penasaran deh kapan kita akan membahas itu~"
+        },
+        {
+            "id": 56,
+            "model": "로쟈",
+            "content": "Haah, mungkin kita akan mendapatkan warna kita kembali bentar lagi..."
+        },
+        {
+            "id": 57,
+            "model": "로쟈",
+            "content": "... Atau itu yang kukira, sejak sepuluh jam yang lalu..."
+        },
+        {
+            "id": 58,
+            "model": "로쟈",
+            "content": "Apa kita akan selamanya tanpa warna? Apakah kita akan terjebak dalam nuansa suram ini selama sisa hidup kita? Serius deh, ga ada yang terlihat enak dalam nuansa sepia ini… Aku bahkan mulai kehilangan semangat hidupku…"
+        },
+        {
+            "id": 59,
+            "model": "로쟈",
+            "content": "Semuanya berwarna cokelat pucat yang menjijikkan! Astaga, bahkan daging pun terlihat busuk dengan warna ini!"
+        },
+        {
+            "id": 60,
+            "model": "그레고르",
+            "content": "... Kayaknya itu sedikit berlebihan?"
+        },
+        {
+            "id": 61,
+            "model": "로쟈",
+            "content": "Oh, dan bagaimana dengan orang-orang itu? Pakaian mereka ada warnanya!"
+        },
+        {
+            "id": 62,
+            "content": "Dengan ekspresi kesal, Rodya memberi isyarat ke arah orang-orang di luar bus."
+        },
+        {
+            "id": 63,
+            "model": "파우스트",
+            "content": "Pembayaran dalam jumlah yang cukup harus dilakukan untuk mengambil kembali warna anda. Perlu ditekankan bahwa pertanyaan ini telah berulang kali dijawab sebanyak dua puluh tiga kali."
+        },
+        {
+            "id": 64,
+            "model": "히스클리프",
+            "content": "Baiklah, gua coba liat. Mantelnya, celananya..."
+        },
+        {
+            "id": 65,
+            "model": "히스클리프",
+            "content": "Hah, orang itu ga kaya. Dia hanya berusaha terlihat seolah-olah dia berduit. Orang kaya sejati ga bakal ragu ngeluarin duit untuk mendapatkan kembali warna di setiap detailnya, bahkan untuk pernak-pernik sepele seperti bingkai kacamata mereka"
+        },
+        {
+            "id": 66,
+            "model": "홍루",
+            "content": "Apakah kamu juga harus hidup tanpa warna saat tinggal di sini, Heathcliff?"
+        },
+        {
+            "id": 67,
+            "model": "히스클리프",
+            "content": "Ga. Masih ada sedikit warna di manor, ya. ...Meskipun masih jauh dari kata cerah."
+        },
+        {
+            "id": 68,
+            "model": "료슈",
+            "content": "Setuju. Ini warna kek tai. Darah seharusnya tetap berwarna merah."
+        },
+        {
+            "id": 69,
+            "model": "히스클리프",
+            "content": "Si malang itu bakal dibegal dengan penampilan begitu. Itu cukup warna untuk menarik perhatian perampok, tapi tidak cukup untuk menjauhkan mereka."
+        },
+        {
+            "id": 70,
+            "content": "Ramalan Heathcliff segera menjadi kenyataan; beberapa pencuri mengepung 'pria yang hanya mencoba terlihat seolah-olah dia kaya raya' dan memukulinya di bagian belakang kepala."
+        },
+        {
+            "id": 71,
+            "model": "돈키호테",
+            "content": "Astaga, mereka benar-benar sekelompok penjahat tidak tahu malu!"
+        },
+        {
+            "id": 72,
+            "model": "돈키호테",
+            "content": "Memangsa warga sipil yang lemah seperti sekumpulan hyena...!"
+        },
+        {
+            "id": 73,
+            "model": "홍루",
+            "content": "Apakah mereka... yang bisa disebut sebagai 'geng'?"
+        },
+        {
+            "id": 74,
+            "model": "히스클리프",
+            "content": "Ck, geng-geng T Corp. jelas pernah mengalami masa yang lebih baik.  Aku bahkan tidak akan menyebut mereka geng... mereka hanyalah orang-orang rendahan yang kehabisan 'waktu'."
+        },
+        {
+            "id": 75,
+            "model": "히스클리프",
+            "content": "Terakhir kali gua di sini, sampah masyarakat kayak mereka bahkan tidak berani merajalela di jalanan dengan begitu kurang ajar."
+        },
+        {
+            "id": 76,
+            "model": "단테",
+            "content": "<... Emang ada geng yang nggak bejat?>"
+        },
+        {
+            "id": 77,
+            "model": "히스클리프",
+            "content": "Tentu saja! Geng yang gua pernah ikutin ga bakal ngeroyok orang miskin, tak bersenjata kayak dia."
+        },
+        {
+            "id": 78,
+            "model": "카론",
+            "content": "Charon mau brum-brum. Nggak bisa brum-brum kalau ada penghalang jalan."
+        },
+        {
+            "id": 79,
+            "model": "베르길리우스",
+            "content": "Yah, tidak ada gunanya menunggu situasi ini terselesaikan dengan sendirinya."
+        },
+        {
+            "id": 80,
+            "content": "Vergilius akhirnya angkat bicara setelah diam-diam mendengarkan diskusi kami selama beberapa menit terakhir."
+        },
+        {
+            "id": 81,
+            "model": "베르길리우스",
+            "content": "Uruslah mereka sebelum Don Quixote mulai membuat keributan."
+        },
+        {
+            "id": 82,
+            "model": "돈키호테",
+            "content": "Ooh! Sebuah penegakan keadilan! Aku berterima kasih padamu!"
+        },
+        {
+            "id": 83,
+            "model": "로쟈",
+            "content": "Dia benar-benar mulai terbiasa akan hal ini, ya..."
+        },
+        {
+            "id": 84,
+            "model": "베르길리우스",
+            "content": "... Haah."
+        }
+    ]
+}

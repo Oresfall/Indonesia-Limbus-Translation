@@ -1,0 +1,142 @@
+{
+  "dataList": [
+    {
+      "id": "UninvitedGuest",
+      "name": "Interloper",
+      "desc": "Ketika Identitas with Interloper is yang kalah, pindah ke a different Identitas without Interloper.",
+      "summary": ""
+    },
+    {
+      "id": "ConnectedPlug",
+      "name": "Plugged In",
+      "desc": "Akhir Giliran:\n- Maks 3\n- Pada 3, menjadi Stagger giliran berikutnya.\n- Pada 3, konsumsi semua Count Charge pada diri sendiri.",
+      "summary": ""
+    },
+    {
+      "id": "AntiSheepGround",
+      "name": "Anti-Ovine Grounding Plug",
+      "desc": "- Maks 1\n- Ketika unit dibawah efek ini menang Clash terhadap the 'Grounding Refusal' Skill, beri 1 Plugged In terhadap target\n- Setengahkan Count Charge pada target\n- Kadaluarsa giliran berikutnya",
+      "summary": ""
+    },
+    {
+      "id": "ThundercloudFormation",
+      "name": "Gathering Lightning Cloud",
+      "desc": "- Maks 5\n- Pada 1 value, gunakan a powerful Skill.\n- Reduced sebanyak 1 pada Akhir Giliran. Peroleh 1 value when Stagger",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4A",
+      "name": "#1 Deployment Effect",
+      "desc": "Identitas Level +2\nKetika yang kalah, peroleh E.G.O Resources berdasarkan the Affinity & Rank dari setiap Skill Attack yang dimiliki unit ini.",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4B",
+      "name": "#2 Deployment Effect",
+      "desc": "SP Pulihkan Efficiency +3\nEntry SP +10 (-10 for Minus Coin Identitas)\nKetika yang kalah, peroleh E.G.O Resources berdasarkan each Skill Attack's Affinity & number.",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4C",
+      "name": "#3 Deployment Effect",
+      "desc": "Offense Level +2\nKetika yang kalah, peroleh E.G.O Resources berdasarkan the Affinity & Rank dari setiap Skill Attack yang dimiliki unit ini.",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4D",
+      "name": "#4 Deployment Effect",
+      "desc": "Defense Level +2\nKetika yang kalah, peroleh E.G.O Resources berdasarkan the Affinity & Rank dari setiap Skill Attack yang dimiliki unit ini.",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4E",
+      "name": "#5 Deployment Effect",
+      "desc": "Starting 2nd giliran: Maks Speed +2\nKetika yang kalah, peroleh E.G.O Resources berdasarkan the Affinity & Rank dari setiap Skill Attack yang dimiliki unit ini.",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4F",
+      "name": "#6 Deployment Effect",
+      "desc": "Maks HP +5%\nKetika yang kalah, peroleh E.G.O Resources berdasarkan the Affinity & Rank dari setiap Skill Attack yang dimiliki unit ini.",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4G",
+      "name": "#7 Deployment Effect",
+      "desc": "Clash Power +1\nEntry SP +15 (-15 for Minus Coin Identitas)\nKetika yang kalah, peroleh E.G.O Resources berdasarkan the Affinity & Rank dari setiap Skill Attack yang dimiliki unit ini.",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4H",
+      "name": "#8 Deployment Effect",
+      "desc": "Damage Diterima -10%\nEntry SP +15 (-15 for Minus Coin Identitas)\nKetika yang kalah, peroleh E.G.O Resources berdasarkan the Affinity & Rank dari setiap Skill Attack yang dimiliki unit ini.",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4I",
+      "name": "#9 Deployment Effect",
+      "desc": "Aggro +5\nEntry SP +20 (-20 for Minus Coin Identitas)\nKetika yang kalah, peroleh E.G.O Resources berdasarkan the Affinity & Rank dari setiap Skill Attack yang dimiliki unit ini.",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4J",
+      "name": "#10 Deployment Effect",
+      "desc": "Damage Diberikan +10%\nEntry SP +20 (-10 for Minus Coin Identitas)\nKetika yang kalah, peroleh E.G.O Resources berdasarkan the Affinity & Rank dari setiap Skill Attack yang dimiliki unit ini.",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4K",
+      "name": "#11 Deployment Effect",
+      "desc": "Final Power +1\nEntry SP +30 (-30 for Minus Coin Identitas)\nKetika yang kalah, peroleh E.G.O Resources berdasarkan the Affinity & Rank dari setiap Skill Attack yang dimiliki unit ini.",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4L",
+      "name": "#12 Deployment Effect",
+      "desc": "Identitas Level +3\nEntry SP +30 (-30 for Minus Coin Identitas)\nKetika yang kalah, peroleh E.G.O Resources berdasarkan the Affinity & Rank dari setiap Skill Attack yang dimiliki unit ini.",
+      "summary": ""
+    },
+    {
+      "id": "BandageOfTheBoundKing",
+      "name": "Bandages of the King in Binds",
+      "desc": "Ketika yang kalah, beri 2 Sinking Potency dan 1 Count terhadap semua musuh.\nBeri Bandages of the King in Binds terhadap target that yang kalah unit ini. Jika target tersebut sudah has that efek, atau jika target tersebut tidak dapat exist, beri it pada musuh acak without that efek",
+      "summary": ""
+    },
+    {
+      "id": "ComeForwardToTheKing",
+      "name": "Moment of Audience",
+      "desc": "Peroleh +{0} Atk Weight ke semua dari unit ini's Skill Attack\nClash Lose: Peroleh 1 Fragile giliran berikutnya",
+      "summary": ""
+    },
+    {
+      "id": "RefractedWill",
+      "name": "Refracted Determination",
+      "desc": "Setengahkan jumlah dari SP lost when kawan is yang kalah as per the Identitas's 'Faktor Dasar pengurang Sanity(SP)'. (dibulatkan ke bawah)",
+      "summary": ""
+    },
+    {
+      "id": "VioletPeccatulumTwo",
+      "name": "Peccatulum Invidiae Class 2",
+      "desc": "- Damage Diberikan +15%\n- Damage Diterima -15%",
+      "summary": ""
+    },
+    {
+      "id": "BigWelcome",
+      "name": "Grand Welcome",
+      "desc": "Akhir Serangan: Jika target kena Stagger atau yang kalah, peroleh +1 Pride E.G.O resource dan +1 E.G.O resource untuk 1 other acak Affinity (3 kali per giliran)",
+      "summary": ""
+    },
+    {
+      "id": "BreathSupport",
+      "name": "Poised Showdown",
+      "desc": "Wave Start: Peroleh 4 Poise Potency dan Count.",
+      "summary": ""
+    },
+    {
+      "id": "FirmWill",
+      "name": "Resilient Determination",
+      "desc": "Tidak lose SP upon kawan defeat.",
+      "summary": ""
+    }
+  ]
+}

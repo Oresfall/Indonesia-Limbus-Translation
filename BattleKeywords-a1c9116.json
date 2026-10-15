@@ -1,0 +1,95 @@
+{
+  "dataList": [
+    {
+      "id": "BurstAgility",
+      "name": "Deathrite【Haste】",
+      "desc": "Stack Dasar: 3\nKetika getting Rupture triggered sebanyak terkena serangan oleh Skill Attack dari a target dengan 10+ Speed, kehilangan 1 Stack dan peroleh +1 Rupture Count\nPada 0 Stack, terima Gluttony damage setara dengan Rupture Potency pada diri sendiri; lalu, efek ini kadaluarsa\n※ Tidak dapat peroleh tambahan Stack dari efek ini while it is sudah aktif",
+      "summary": "Jika kondisi terpenuhi: beri Gluttony bonus damage",
+      "undefined": "-"
+    },
+    {
+      "id": "LegStrength",
+      "name": "Strider【Mao】",
+      "desc": "Stack Maks: 3\nAkhir Giliran: peroleh 5 Haste giliran berikutnya\nReduced sebanyak 1 pada Akhir Giliran",
+      "summary": "Jika kondisi terpenuhi: beri Gluttony bonus damage",
+      "undefined": "-"
+    },
+    {
+      "id": "DarkBeast_LowMorale",
+      "name": "Deception",
+      "desc": "- Moral Rendah\n- Jika Speed unit ini lebih cepat daripada target atau ketika menggunakan Serangan Tanpa Lawan, beri +10% damage terhadap target",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DarkBeast_Panic",
+      "name": "Deception",
+      "desc": "- Panik\n- Jika Speed unit ini lebih cepat daripada target atau ketika menggunakan Serangan Tanpa Lawan, beri +20% damage terhadap target; jika Speed unit ini lebih cepat daripada target, terima -20% damage",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RepressedMurderousIntend",
+      "name": "Repressed Bloodthirst",
+      "desc": "Base Offense Level -10\nBase Defense Level -10",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "WeighedMurderousIntend",
+      "name": "Crushed Bloodthirst",
+      "desc": "Base Offense Level -25\nBase Defense Level -25",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MiddleFingerBook",
+      "name": "The Middle's Vendetta Mark",
+      "desc": "Stack Maks: 10\nKetika attacked sebanyak The Middle, terima +3% damage per Stack (maks 30%)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Persistent",
+      "name": "Persistence",
+      "desc": "Stack Maks: 4\nKetika menerima damage mematikan, 80% peluang to not terima that damage, pulihkan 60 HP, pulih dari Stagger, dan kehilangan efek ini\n\nEfek di atas do not aktifkan under berikut conditions:\n- Ketika the Coin damage diterima exceeds HP maks unit ini\n- Ketika unit ini memiliki the HP Healing Down efek\nReduced sebanyak 1 pada Akhir Giliran",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BackstreetsNight_LowMorale",
+      "name": "Malam di Backstreet",
+      "desc": "Awal Giliran: peroleh 1 Attack Power Up, 1 HP Healing Boost, dan 1 Fragile",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BackstreetsNight_Panic",
+      "name": "Malam di Backstreet",
+      "desc": "Awal Giliran: peroleh 2 Attack Power Up, 2 HP Healing Boost, dan 1 Fragile",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SweeperA",
+      "name": "The First Wave",
+      "desc": "The first wave ends setelah {0} giliran",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SweeperB",
+      "name": "The Second Wave",
+      "desc": "The second wave ends setelah {0} giliran",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SweeperC",
+      "name": "The Third Wave",
+      "desc": "The third wave ends setelah {0} giliran",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

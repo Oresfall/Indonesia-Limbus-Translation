@@ -1,0 +1,203 @@
+{
+  "dataList": [
+    {
+      "id": "ExaminationOfQiu",
+      "name": "A Sliver of Anticipation",
+      "desc": "He's not giving it his semua.\n- Lose 35 Base Offense Level, Lose 35 Base Defense Level\n- Beri +30% damage with Serangan Tanpa Lawan",
+      "summary": ""
+    },
+    {
+      "id": "BurstStop",
+      "name": "Deathrite 【Halt】",
+      "desc": "Stack Dasar: 4\n- Deathrite\n- Ketika getting Rupture triggered selama unit ini memiliki 3+ Bind, kehilangan 1 Stack\n- Ketika kehilangan Stack, naikkan unit ini's Batas Stagger sebanyak 10\n- Pada 0 Stack, naikkan unit ini's Batas Stagger sebanyak Rupture Potency pada diri sendiri, lalu kadaluarsa\n- ※ Tidak dapat peroleh tambahan Stack dari efek ini while it is sudah aktif",
+      "summary": ""
+    },
+    {
+      "id": "BurstSuppress",
+      "name": "Deathrite 【Impede】",
+      "desc": "Stack Dasar: 10\n- Deathrite\n- Ketika unit ini kehilangan other Deathrites' Stack akibat their conditions, kehilangan 1 Stack (maks 4 per giliran)\n- Pada 0 Stack, peroleh 6 Offense Level Down selama giliran berikutnya, lalu kadaluarsa\n- ※ Tidak dapat peroleh tambahan Stack dari efek ini while it is sudah aktif",
+      "summary": ""
+    },
+    {
+      "id": "BurstWave",
+      "name": "Deathrite 【Wane】",
+      "desc": "Stack Dasar: 10\n- Deathrite\nKetika unit that inflicted efek ini triggers Rupture, kehilangan 1 Stack\n- Also kehilangan 1 Stack of a acak Deathrite pada diri sendiri, kecuali for this Deathrite\n- Pada 0 Stack, kadaluarsa\n- ※ Tidak dapat peroleh tambahan Stack dari efek ini while it is sudah aktif",
+      "summary": ""
+    },
+    {
+      "id": "Teaching",
+      "name": "Dialogues",
+      "desc": "Stack Maks: 3\n- Akhir Giliran: pulihkan 5 SP\n- Ketika HP turun menjadi 0 during Pertempuran, pulihkan hingga maks HP (activates as many kali as unit ini memiliki Stack)\n- Activated: {0} time(s)",
+      "summary": ""
+    },
+    {
+      "id": "BurstWeakness",
+      "name": "Deathrite 【Enfeeble】",
+      "desc": "Stack Dasar: 5\n- Deathrite\n- Jika Speed target lebih cepat daripada unit ini, dan jika the perbedaan Speed 5 atau greater: when getting Rupture triggered, kehilangan 1 Stack\n- Ketika kehilangan Stack, peroleh 1 Defense Level Down giliran berikutnya (sekali per giliran)\n- Pada 0 Stack, peroleh 3 Defense Level Down dan 1 Bind giliran berikutnya, lalu kadaluarsa\n- ※ Tidak dapat peroleh tambahan Stack dari efek ini while it is sudah aktif",
+      "summary": ""
+    },
+    {
+      "id": "Qiu_LowMorale",
+      "name": "Jia Qiu",
+      "desc": "- Moral Rendah\n- Beri +10% damage terhadap target yang bukan Hong Lu",
+      "summary": ""
+    },
+    {
+      "id": "Qiu_Panic",
+      "name": "Jia Qiu",
+      "desc": "- Panik\n- Beri +20% damage terhadap target yang bukan Hong Lu",
+      "summary": ""
+    },
+    {
+      "id": "QiuAndHonglu",
+      "name": "My True Heart...",
+      "desc": "- Hong Lu's Skill peroleh +1 Final Power\n- On Menang Clash, 1 kawan(termasuk unit ini) dengan least SP pulihkan 5 SP\n- Ketika kawan mati, remaining kawan pada Akhir Giliran peroleh 1 Attack Power Up giliran berikutnya (sekali per giliran)",
+      "summary": ""
+    },
+    {
+      "id": "ProtectStance",
+      "name": "Protective Stance",
+      "desc": "Stack Maks: 2\nThis efek tidak dapat compound in potency; stacking it hanya extends its duration\nReduced sebanyak 1 pada Akhir Giliran\nKetika unit peroleh efek ini, peroleh efek berikut giliran berikutnya:\n- Peroleh 2 Protection\n- Peroleh 5 Aggro to each of unit ini's Slots",
+      "summary": ""
+    },
+    {
+      "id": "ZiluDebuff",
+      "name": "Bloodthirst Suppressed",
+      "desc": "- Lose 20 Base Offense Level, Lose 20 Base Defense Level",
+      "summary": ""
+    },
+    {
+      "id": "WitheredWood_LowMorale",
+      "name": "Eldtree Mutation",
+      "desc": "- Moral Rendah\n- Peroleh 1 Damage Up, 1 Fragile, dan 1 Rupture Fragility",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "WitheredWood_Panic",
+      "name": "Eldtree Mutation",
+      "desc": "- Panik\n- Peroleh 2 Damage Up, 2 Fragile, dan 2 Rupture Fragility",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EvilHeart_LowMorale",
+      "name": "Heart of Evil",
+      "desc": "- Moral Rendah\nKetika Clash terhadap target dengan Omen Talisman, Clash Power +2\nAwal Giliran: peroleh 2 Damage Up dan 1 Fragile",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EvilHeart_Panic",
+      "name": "Heart of Evil",
+      "desc": "- Moral Rendah\nKetika Clash terhadap target dengan Omen Talisman, Clash Power +3\nAwal Giliran: peroleh 3 Damage Up dan 2 Fragile",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DeepEvilHeart_LowMorale",
+      "name": "Heart of Oppressive Evil",
+      "desc": "- Moral Rendah\nKetika Clash terhadap target dengan Omen Talisman, Clash Power +2\nAwal Giliran: peroleh 3 Damage Up dan 1 Fragile",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DeepEvilHeart_Panic",
+      "name": "Heart of Oppressive Evil",
+      "desc": "- Moral Rendah\nKetika Clash terhadap target dengan Omen Talisman, Clash Power +3\nAwal Giliran: peroleh 4 Damage Up dan 2 Fragile",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "OminousTalisman",
+      "name": "Omen Talisman",
+      "desc": "- Stack Maks: 10\n- Ketika dropping menjadi 0 Stack: terima Gluttony damage dan SP damage setara dengan Rupture Potency pada diri sendiri, lalu kadaluarsa (maks SP damage: 20)\n- Ketika losing Omen Talismans, peroleh Rupture Potency setara dengan jumlah dari Omen Talismans lost; lalu, peroleh setengah dari Rupture Potency lost as Rupture Count (dibulatkan ke bawah)\n※ Tidak dapat peroleh tambahan Stack dari efek ini while it is sudah aktif",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RepressedMurderousIntendTwo",
+      "name": "Concealed Bloodthirst",
+      "desc": "Kehilangan 5 Base Offense Level\nLose 5 Base Defense Level",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UncontrolledChargeAxe_LowMorale",
+      "name": "Charge Circuitry Countercurrent",
+      "desc": "- Moral Rendah\nKetika Clash terhadap target dengan Rupture, peroleh +3 Count Charge dan 1 Fragile (2 kali per giliran)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UncontrolledChargeAxe_Panic",
+      "name": "Charge Circuitry Countercurrent",
+      "desc": "- Panik\nKetika Clash terhadap target dengan Rupture, peroleh +5 Count Charge, 1 Damage Up, dan 2 Fragile (2 kali per giliran)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MadFeather",
+      "name": "Eyeball Pinion",
+      "desc": "- Stack Maks: 10\n- Akhir Giliran: peroleh (Stack / 2) Rupture Count dan Bleed Count (dibulatkan ke bawah)\n- Akhir Giliran: kehilangan 1 Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MadFeather_LowMorale",
+      "name": "Double-edged Feather",
+      "desc": "- Moral Rendah\nAwal Giliran: peroleh 1 Fragile dan 1 HP Healing Boost. Saat Serang, beri 1 Rupture dan 1 Bleed",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MadFeather_Panic",
+      "name": "Double-edged Feather",
+      "desc": "-Panik\nAwal Giliran: peroleh 2 Fragile dan 2 HP Healing Boost. Saat Serang, beri 1 Rupture dan 1 Bleed",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "JarMaster_LowMorale",
+      "name": "Charge Order",
+      "desc": "- Moral Rendah\nAwal Giliran: peroleh 1 Fragile dan beri 1 Damage Up ke semua kawan",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "JarMaster_Panic",
+      "name": "Charge Order",
+      "desc": "- Panik\nAwal Giliran: peroleh 2 Fragile dan beri 2 Damage Up ke semua kawan",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DeepAngry_LowMorale",
+      "name": "Angst",
+      "desc": "- Moral Rendah\nKetika Clash terhadap target dengan Omen Talisman, Clash Power +2\nAwal Giliran: peroleh 2 Damage Up dan 1 Fragile",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DeepAngry_Panic",
+      "name": "Angst",
+      "desc": "- Moral Rendah\nKetika Clash terhadap target dengan Omen Talisman, Clash Power +3\nAwal Giliran: peroleh 3 Damage Up dan 2 Fragile",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TakeBreath_LowMorale",
+      "name": "Catching Breath",
+      "desc": "- Moral Rendah\nAwal Giliran: peroleh 2 Defense Level Up dan kehilangan 2 Poise Potency",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TakeBreath_Panic",
+      "name": "Catching Breath",
+      "desc": "- Panik\nAwal Giliran: peroleh 5 Defense Level Up dan kehilangan 5 Poise Potency",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

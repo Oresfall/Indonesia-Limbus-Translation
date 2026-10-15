@@ -1,0 +1,1127 @@
+{
+  "dataList": [
+    {
+      "id": 2010611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bygone Days",
+          "abName": "Portrait of a Certain Day",
+          "desc": "[EndSkill] Randomly beri (6 + Gloom Reson.) [Sinking] diantara target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 6+ [Sinking], beri 1 [Binding] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Bygone Days",
+          "abName": "Portrait of a Certain Day",
+          "desc": "[EndSkill] Randomly beri (6 + Gloom Reson.) [Sinking] diantara target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 6+ [Sinking], beri 2 [Binding] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Bygone Days",
+          "abName": "Portrait of a Certain Day",
+          "desc": "[EndSkill] Randomly beri (6 + (<style=\"highlight\">Gloom Reson. x1.5</style>)) [Sinking] diantara target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 6+ [Sinking], beri 2 [Binding] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bygone Days",
+          "abName": "Portrait of a Certain Day",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Sinking]. Beri 2 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 6+ [Sinking], beri 1 [Binding] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Bygone Days",
+          "abName": "Portrait of a Certain Day",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Pada 3+ (Gloom Reson.), Atk Weight +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Sinking]. Beri 2 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 6+ [Sinking], beri 1 [Binding] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Bygone Days",
+          "abName": "Portrait of a Certain Day",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Pada 3+ (Gloom Reson.), Atk Weight +1\n[BeforeAttack] Pada 5+ (Gloom Reson.), tambahan Atk Weight +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Sinking]. Beri 2 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 6+ [Sinking], beri 2 [Binding] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fell Bullet",
+          "abName": "Der Fluchschütze",
+          "desc": "Prioritizes targets with the least HP (memprioritaskan kawan)\n[BeforeAttack] Peroleh (Reson. tertinggi + 1) [BoseProjektil] (maks 7)\n[BeforeAttack] Peroleh 1 [Breath] untuk setiap [BoseProjektil] (maks 7)\n[EndSkill] Lose setiap [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Coin ini beri damage only terhadap target utama."
+                },
+                {
+                  "desc": "Jika target utama adalah kawan, beri +8% damage untuk setiap [BoseProjektil] (maks 56%)"
+                },
+                {
+                  "desc": "[AllyKill] Beri 2 [Breath] pada diri sendiri dan 2 kawan acak"
+                },
+                {
+                  "desc": "[AllyKillFail] Peroleh 1 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Coin ini beri damage hanya terhadap sub-target\n- Jika Coin pertama gagal membunuh kawan, 1 acak sub-target menerima damage"
+                },
+                {
+                  "desc": "+2% Damage pada Serangan Critical untuk setiap [BoseProjektil] (maks 14%)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Fell Bullet",
+          "abName": "Der Fluchschütze",
+          "desc": "Prioritizes targets with the least HP (memprioritaskan kawan)\n[BeforeAttack] Peroleh (Reson. tertinggi + 1) [BoseProjektil] (maks 7)\n[BeforeAttack] Peroleh 1 [Breath] untuk setiap [BoseProjektil] (maks 7)\n[EndSkill] Lose setiap [BoseProjektil]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Coin ini beri damage only terhadap target utama.<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Jika target utama adalah kawan, beri <style=\"highlight\">+10%</style> damage untuk setiap [BoseProjektil] (maks <style=\"highlight\">70%</style>)"
+                },
+                {
+                  "desc": "[AllyKill] Beri 3 [Breath] pada diri sendiri dan 2 kawan acak<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[AllyKill] +1 E.G.O resource for the killed kawan's Skill 1 Affinity</style>"
+                },
+                {
+                  "desc": "[AllyKillFail] Peroleh <style=\"highlight\">3</style> [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Coin ini beri damage hanya terhadap sub-target\n- Jika Coin pertama gagal membunuh kawan, 1 acak sub-target menerima damage<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">+5%</style> Damage pada Serangan Critical untuk setiap [BoseProjektil] (maks <style=\"highlight\">35%</style>)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 2 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Fell Bullet",
+          "abName": "Der Fluchschütze",
+          "desc": "Prioritizes targets with the least HP (memprioritaskan kawan)\n[BeforeAttack] Peroleh (Reson. tertinggi + 1) [BoseProjektil] (maks 7)\n<style=\"highlight\">- Jika the said Reson. was a Pride Reson., peroleh (Reson. tertinggi x 2) [BoseProjektil] saja (maks 7)</style>\n[BeforeAttack] Peroleh 1 [Breath] untuk setiap [BoseProjektil] (maks 7)\n[EndSkill] Lose setiap [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Coin ini beri damage only terhadap target utama.<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Jika target utama adalah kawan, beri <style=\"highlight\">+15%</style> damage untuk setiap [BoseProjektil] (maks <style=\"highlight\">105%</style>)"
+                },
+                {
+                  "desc": "[AllyKill] Beri 3 [Breath] pada diri sendiri dan 2 kawan acak<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[AllyKill] +1 E.G.O resource for the killed kawan's Skill 1 dan 2 Affinities</style>"
+                },
+                {
+                  "desc": "[AllyKillFail] Peroleh <style=\"highlight\">3</style> [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Coin ini beri damage hanya terhadap sub-target\n- Jika Coin pertama gagal membunuh kawan, 1 acak sub-target menerima damage<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">+9%</style> Damage pada Serangan Critical untuk setiap [BoseProjektil] (maks <style=\"highlight\">63%</style>)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri <style=\"highlight\">3</style> [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fell Bullet",
+          "abName": "Der Fluchschütze",
+          "desc": "[CantIdentify]\nPrioritizes targets with the least HP (memprioritaskan kawan)\n[BeforeAttack] Peroleh (Reson. tertinggi + 1) [BoseProjektil] (maks 7)\n[BeforeAttack] Beri +2% damage untuk setiap [BoseProjektil] (maks 14%)\n[BeforeAttack] Peroleh 1 [Breath] untuk setiap [BoseProjektil] (maks 7)\n[EndSkill] Lose setiap [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Coin ini beri damage only terhadap target utama."
+                },
+                {
+                  "desc": "Jika target utama adalah kawan, beri +10% damage untuk setiap [BoseProjektil] (maks 70%)"
+                },
+                {
+                  "desc": "Jika target utama adalah kawan, beri +2% damage untuk setiap [Breath] pada diri sendiri (maks 50%)"
+                },
+                {
+                  "desc": "[AllyKill] Beri 2 [Breath] pada diri sendiri dan 3 kawan acak"
+                },
+                {
+                  "desc": "[AllyKill] The next Coin beri +2% damage untuk setiap [BoseProjektil] (maks 14%)"
+                },
+                {
+                  "desc": "[AllyKill] +1 E.G.O resource for the killed kawan's Skill 1 dan 2 Affinities"
+                },
+                {
+                  "desc": "[AllyKillFail] Peroleh 1 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Coin ini beri damage hanya terhadap sub-target\n- Jika Coin pertama gagal membunuh kawan, 1 acak sub-target menerima damage"
+                },
+                {
+                  "desc": "+2% Damage pada Serangan Critical untuk setiap [BoseProjektil] (maks 14%)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Fell Bullet",
+          "abName": "Der Fluchschütze",
+          "desc": "[CantIdentify]\nPrioritizes targets with the least HP (memprioritaskan kawan)\n[BeforeAttack] Peroleh (Reson. tertinggi + 1) [BoseProjektil] (maks 7)\n[BeforeAttack] Beri <style=\"highlight\">+3%</style> damage untuk setiap [BoseProjektil] (maks <style=\"highlight\">21%</style>)\n[BeforeAttack] Peroleh 1 [Breath] untuk setiap [BoseProjektil] (maks 7)\n[EndSkill] Lose setiap [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Coin ini beri damage only terhadap target utama.<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Jika target utama adalah kawan, beri <style=\"highlight\">+12%</style> damage untuk setiap [BoseProjektil] (maks <style=\"highlight\">84%</style>)"
+                },
+                {
+                  "desc": "Jika target utama adalah kawan, beri +2% damage untuk setiap [Breath] pada diri sendiri (maks 50%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[AllyKill] Beri 3 [Breath] pada diri sendiri dan <style=\"highlight\">3</style> kawan acak"
+                },
+                {
+                  "desc": "[AllyKill] The next Coin beri <style=\"highlight\">+5%</style> damage untuk setiap [BoseProjektil] (maks <style=\"highlight\">35%</style>)"
+                },
+                {
+                  "desc": "<style=\"highlight\">[AllyKill] +1 E.G.O resource for the killed kawan's Skill 1, 2, dan 3 Affinities</style>"
+                },
+                {
+                  "desc": "[AllyKillFail] Peroleh <style=\"highlight\">2</style> [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Coin ini beri damage hanya terhadap sub-target\n- Jika Coin pertama gagal membunuh kawan, 1 acak sub-target menerima damage<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">+3%</style> Damage pada Serangan Critical untuk setiap [BoseProjektil] (maks <style=\"highlight\">21%</style>)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri <style=\"highlight\">4</style> [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Fell Bullet",
+          "abName": "Der Fluchschütze",
+          "desc": "[CantIdentify]\nPrioritizes targets with the least HP (memprioritaskan kawan)\n[BeforeAttack] Peroleh (Reson. tertinggi + 1) [BoseProjektil] (maks 7)\n<style=\"highlight\">- Jika the said Reson. was a Pride Reson., peroleh (Reson. tertinggi x 2) [BoseProjektil] saja (maks 7)</style>\n[BeforeAttack] Beri <style=\"highlight\">+4%</style> damage untuk setiap [BoseProjektil] (maks 28%)\n[BeforeAttack] Peroleh 1 [Breath] untuk setiap [BoseProjektil] (maks 7)\n[EndSkill] Lose setiap [BoseProjektil]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Coin ini beri damage only terhadap target utama.<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Jika target utama adalah kawan, beri +15% damage untuk setiap [BoseProjektil] (maks 105%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Jika target utama adalah kawan, beri +2% damage untuk setiap [Breath] pada diri sendiri (maks 50%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">+30% Damage pada Serangan Critical</style>"
+                },
+                {
+                  "desc": "[AllyKill] Beri 3 [Breath] pada diri sendiri dan <style=\"highlight\">4</style> kawan acak"
+                },
+                {
+                  "desc": "[AllyKill] The next Coin beri <style=\"highlight\">+7%</style> damage untuk setiap [BoseProjektil] (maks <style=\"highlight\">49%</style>)"
+                },
+                {
+                  "desc": "[AllyKill] +1 E.G.O resource for the killed kawan's Skill 1, 2, dan 3 Affinities<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[AllyKillFail] Peroleh <style=\"highlight\">3</style> [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Coin ini beri damage hanya terhadap sub-target\n- Jika Coin pertama gagal membunuh kawan, 1 acak sub-target menerima damage<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">+4% Damage pada Serangan Critical untuk setiap [BoseProjektil] (maks 28%)</style>"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri <style=\"highlight\">5</style> [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Great Trichiliocosm [三千大世界]",
+          "abName": "Butterfly of Entangled Lives [羅生蝶]",
+          "desc": "[BeforeAttack] Peroleh (Reson. tertinggi) [Breath] (maks 7)\n- Jika it was an A-Reson., juga peroleh +(Reson. tertinggi / 3) Count [Breath] (maks 2; dibulatkan ke bawah)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 1 [ThreeMirrorpartYiSang] giliran ini dan giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [Combustion] setara dengan ([Sinking] pada target / 3) (maks 5; dibulatkan ke bawah)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri +1 [Combustion] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Aktifkan [Combustion] pada target sekali; lalu, kurangi their [Combustion] Count by 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Great Trichiliocosm [三千大世界]",
+          "abName": "Butterfly of Entangled Lives [羅生蝶]",
+          "desc": "<style=\"highlight\">[BeforeAttack] Jika target utama memiliki 15+ ([Combustion] + [Sinking]), Coin Power +1</style>\n[BeforeAttack] Peroleh (Reson. tertinggi) [Breath] (maks 7)\n- Jika it was an A-Reson., juga peroleh +(Reson. tertinggi / 3) Count [Breath] (maks 2; dibulatkan ke bawah)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">2</style> [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">+2</style> Count [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 1 [ThreeMirrorpartYiSang] giliran ini dan giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [Combustion] setara dengan ([Sinking] pada target / 3) (maks 5; dibulatkan ke bawah)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri +1 [Combustion] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Aktifkan [Combustion] pada target sekali; lalu, kurangi their [Combustion] Count by 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Great Trichiliocosm [三千大世界]",
+          "abName": "Butterfly of Entangled Lives [羅生蝶]",
+          "desc": "[BeforeAttack] Jika target utama memiliki <style=\"highlight\">10</style>+ ([Combustion] + [Sinking]), Coin Power +1\n[BeforeAttack] Peroleh (Reson. tertinggi) [Breath] (maks 7)\n- Jika it was an A-Reson., juga peroleh +(Reson. tertinggi / 3) Count [Breath] (maks 2; dibulatkan ke bawah)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +<style=\"highlight\">3</style> Count [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 1 [ThreeMirrorpartYiSang] giliran ini dan giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [Combustion] setara dengan ([Sinking] pada target / 3) (maks 5; dibulatkan ke bawah)"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri +1 [Combustion] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Aktifkan [Combustion] pada target sekali; lalu, kurangi their [Combustion] Count by 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Great Trichiliocosm [三千大世界]",
+          "abName": "Butterfly of Entangled Lives [羅生蝶]",
+          "desc": "[CantIdentify]\nTarget secara acak\nOn Coin Hit, peroleh 5 [Combustion]; on final Coin Use, Final Power +1 (maks 3; sekali per Coin)\n[BeforeAttack] Peroleh (Reson. tertinggi) [Breath] (maks 7)\n- Jika it was an A-Reson., juga peroleh +(Reson. tertinggi / 3) Count [Breath] (maks 2; dibulatkan ke bawah)\n[BeforeAttack] Base Power -1 untuk setiap Coin Retak (down to -4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [ThreeMirrorpartYiSang] giliran ini dan giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Combustion]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri +1 [Combustion] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnStartCoin] Beri +10% damage untuk setiap 10 ([Combustion] + [Sinking]) pada semua target (maks 40%)",
+                  "summary": "[OnStartCoin] Beri lebih banyak damage untuk setiap 10 ([Combustion] + [Sinking]) pada semua target"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Aktifkan [Combustion] pada target sekali; lalu, kurangi their [Combustion] Count by 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Great Trichiliocosm [三千大世界]",
+          "abName": "Butterfly of Entangled Lives [羅生蝶]",
+          "desc": "[CantIdentify]\nTarget secara acak\nOn Coin Hit, peroleh <style=\"highlight\">4</style> [Combustion]; on final Coin Use, Final Power +1 (maks 3; sekali per Coin)\n[BeforeAttack] Peroleh (Reson. tertinggi) [Breath] (maks 7)\n- Jika it was an A-Reson., juga peroleh +(Reson. tertinggi / 3) Count [Breath] (maks 2; dibulatkan ke bawah)\n[BeforeAttack] Base Power -1 untuk setiap Coin Retak (down to -4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">2</style> [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +<style=\"highlight\">2</style> Count [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [ThreeMirrorpartYiSang] giliran ini dan giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">3</style> [Combustion]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri +1 [Combustion] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnStartCoin] Beri +10% damage untuk setiap 10 ([Combustion] + [Sinking]) pada semua target (maks <style=\"highlight\">50</style>%)",
+                  "summary": "[OnStartCoin] Beri lebih banyak damage untuk setiap 10 ([Combustion] + [Sinking]) pada semua target"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Aktifkan [Combustion] pada target sekali; lalu, kurangi their [Combustion] Count by 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Great Trichiliocosm [三千大世界]",
+          "abName": "Butterfly of Entangled Lives [羅生蝶]",
+          "desc": "[CantIdentify]\nTarget secara acak\nOn Coin Hit, peroleh <style=\"highlight\">3</style> [Combustion]; on final Coin Use, Final Power +1 (maks 3; sekali per Coin)\n[BeforeAttack] Peroleh (Reson. tertinggi) [Breath] (maks 7)\n- Jika it was an A-Reson., juga peroleh +(Reson. tertinggi / 3) Count [Breath] (maks 2; dibulatkan ke bawah)\n[BeforeAttack] Base Power -1 untuk setiap Coin Retak (down to -4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +<style=\"highlight\">3</style> Count [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [ThreeMirrorpartYiSang] giliran ini dan giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">4</style> [Combustion]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri +1 [Combustion] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnStartCoin] Beri +10% damage untuk setiap 10 ([Combustion] + [Sinking]) pada semua target (maks <style=\"highlight\">60</style>%)",
+                  "summary": "[OnStartCoin] Beri lebih banyak damage untuk setiap 10 ([Combustion] + [Sinking]) pada semua target"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Aktifkan [Combustion] pada target sekali; lalu, kurangi their [Combustion] Count by 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Solemn Lament",
+          "abName": "Funeral of the Dead Butterflies",
+          "desc": "[WideAreaRampage]\nKetika memberikan [SinkingWhite] menggunakan efek Skill ini: (Peluang untuk dapat Kepala)% peluang untuk beri Yang Berpulang. Jika unit ini tidak memberikan Yang Berpulang, beri Yang Hidup saja. (menghitung setiap Stack [SinkingWhite] secara terpisah)\n\nJika Lobotomy E.G.O::Solemn Lament Yi Sang menggunakan Skill ini:\n- [BeforeAttack] Peroleh bermacam-macam secara acak dari (Gloom Reson. + 1) [BulletLament] (maks 7)\n- [EndSkill] [ReloadLament]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [SinkingWhite] acak"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [SinkingWhite] acak"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [SinkingWhite] acak"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [SinkingWhite] acak"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Habiskan semua [BulletLament] pada diri sendiri"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [SinkingWhite](Yang Hidup)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [SinkingWhite](Yang Berpulang)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Solemn Lament",
+          "abName": "Funeral of the Dead Butterflies",
+          "desc": "[WideAreaRampage]\nKetika memberikan [SinkingWhite] menggunakan efek Skill ini: (Peluang untuk dapat Kepala)% peluang untuk beri Yang Berpulang. Jika unit ini tidak memberikan Yang Berpulang, beri Yang Hidup saja. (menghitung setiap Stack [SinkingWhite] secara terpisah)\n\nJika Lobotomy E.G.O::Solemn Lament Yi Sang menggunakan Skill ini:\n- [BeforeAttack] Peroleh bermacam-macam secara acak dari (Gloom Reson. + 1) [BulletLament] (maks 7)\n- [EndSkill] [ReloadLament]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [SinkingWhite] acak<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [SinkingWhite] acak<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [SinkingWhite] acak<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [SinkingWhite] acak<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Habiskan semua [BulletLament] pada diri sendiri<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [SinkingWhite](Yang Hidup)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [SinkingWhite](Yang Berpulang)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Beri Gloom damage setara dengan jumlah dari kedua [SinkingWhite] pada target</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Beri Gloom damage setara dengan ([BulletLament] yang dihabiskan Coin ini x 2)% dari damage akhir Coin ini</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Solemn Lament",
+          "abName": "Funeral of the Dead Butterflies",
+          "desc": "[WideAreaRampage]\nKetika memberikan [SinkingWhite] menggunakan efek Skill ini: (Peluang untuk dapat Kepala)% peluang untuk beri Yang Berpulang. Jika unit ini tidak memberikan Yang Berpulang, beri Yang Hidup saja. (menghitung setiap Stack [SinkingWhite] secara terpisah)\n<style=\"highlight\">Clash Power +1 untuk setiap 4 ([Sinking] + kedua [SinkingWhite]) pada target utama (maks 4)</style>\n\nJika Lobotomy E.G.O::Solemn Lament Yi Sang menggunakan Skill ini:\n- [BeforeAttack] Peroleh bermacam-macam secara acak dari (Gloom Reson. + 1) [BulletLament] (maks 7)\n- [EndSkill] [ReloadLament]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [SinkingWhite] acak<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Beri +1 Count [Sinking]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [SinkingWhite] acak<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Beri +1 Count [Sinking]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [SinkingWhite] acak<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Beri +1 Count [Sinking]</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [SinkingWhite] acak<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Beri +1 Count [Sinking]</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Beri 1 [AzureTakeDamageUp] dan 1 [AzureResistDown], giliran ini dan giliran berikutnya</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Habiskan semua [BulletLament] pada diri sendiri<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [SinkingWhite](Yang Hidup)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [SinkingWhite](Yang Berpulang)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri Gloom damage setara dengan jumlah dari kedua [SinkingWhite] pada target<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri Gloom damage setara dengan ([BulletLament] yang dihabiskan Coin ini x 2)% dari damage akhir Coin ini<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Solemn Lament",
+          "abName": "Funeral of the Dead Butterflies",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh +(Reson. tertinggi / 2) Atk Weight (maks 2, dibulatkan ke bawah)\n[BeforeAttack] Base Power -2 untuk setiap Coin Retak (maks -6)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [SinkingWhite](Yang Hidup)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [SinkingWhite](Yang Berpulang)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Solemn Lament",
+          "abName": "Funeral of the Dead Butterflies",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh +(Reson. tertinggi / 2) Atk Weight (maks 2, dibulatkan ke bawah)\n[BeforeAttack] Base Power -2 untuk setiap Coin Retak (maks -6)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [SinkingWhite](Yang Hidup)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [SinkingWhite](Yang Berpulang)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Beri Gloom damage setara dengan jumlah dari kedua [SinkingWhite] pada target</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Solemn Lament",
+          "abName": "Funeral of the Dead Butterflies",
+          "desc": "[CantIdentify]\nTarget secara acak\n<style=\"highlight\">Clash Power +1 untuk setiap 4 ([Sinking] + kedua [SinkingWhite]) pada target utama (maks 4)</style>\n[BeforeAttack] Peroleh +(Reson. tertinggi / 2) Atk Weight (maks 2, dibulatkan ke bawah)\n[BeforeAttack] Base Power -2 untuk setiap Coin Retak (maks -6)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [SinkingWhite](Yang Hidup)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [SinkingWhite](Yang Berpulang)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Beri 1 [AzureTakeDamageUp] dan 1 [AzureResistDown], giliran ini dan giliran berikutnya</style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri Gloom damage setara dengan jumlah dari kedua [SinkingWhite] pada target<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Beri Gloom damage setara dengan [Sinking] pada target</style>t"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

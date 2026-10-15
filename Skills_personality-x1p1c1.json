@@ -1,0 +1,1023 @@
+{
+  "dataList": [
+    {
+      "id": 40002501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Akan Kutangkas",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Sinking"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Akan Ku-Cangkang-kan!",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Sinking; Beri +1 Sinking Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Ini Ideal...",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Sinking"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Sinking"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika SP target di bawah 0, beri 1 Fragile di giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Takda yang Tak Ideal",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hm.",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Paralyze"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Paus pasti bisa.",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Level Offense Down di giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Aku hwalus jaga seimbangku.",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 Attack Power Down di giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Attack Power Down di giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Besar dan Lebih Besar...",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kwadilan!",
+          "desc": "[WinDuel] Peroleh 2 Haste di giliran berikutnya",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kwadilan!!",
+          "desc": "[WinDuel] Peroleh 2 Attack Power Up di giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 2 Bleed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002703,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Kwadilan!!!",
+          "desc": "Pada 10+ Speed, Coin Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 Bleed"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 Bleed"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Bleed count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kwadilan?",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Heh.",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 Poise di giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pwendekan.",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Jika target menerima damage pada giliran ini, beri +30% damage"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Jika target menerima damage pada giliran ini, beri +30% damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002803,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "S.A.A.N.",
+          "desc": "[StartBattle] Peroleh 2 [SlashDamageUp]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 Poise di giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "L.B.",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Serahkan padaku.",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Tremor"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Tremor"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Siapkan le Plat-doo-joor.",
+          "desc": "[WhenUse] Peroleh 3 Defense Power Up di giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan Tremor Burst"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002903,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Mizanplas.",
+          "desc": "Peroleh 3 [Protection] di giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Tremor Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40002904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mm.",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ayo lakukan~",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Sinking"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kweren Sekali~",
+          "desc": "Jika unit ini tidak menerima damage di giliran sebelumnya, Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Sinking"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Rupture"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003003,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Bukan seleraku!",
+          "desc": "Jika unit ini tidak menerima damage di giliran sebelumnya, Coin Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 2 Attack Power Down"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Sinking"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Rupture"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Yamyam?",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hehehe!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Tremor"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Patahkan kaki pake kaki!",
+          "desc": "[WhenUse] Peroleh Attack Power Up dan Damage Up di giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 2 Tremor"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003103,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Mawi!!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Coin berikutnya memiliki +2 Power"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan Tremor Burst"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "... Elu lyihat apha?!",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Heeey!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Tremor Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tadi keren ga?",
+          "desc": "[WinDuel] Beri 3 Defense Power Down",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Tremor"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003203,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Kasih akyu daging!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan Tremor Burst; beri 1 Blunt Fragility"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hajar dia plis!",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hm Hm Hm~",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Bleed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wuenaknyaa!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Bleed"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Bleed"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri +1 Bleed Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003303,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Buat ngemil!",
+          "desc": "Pada 0- SP, Skill Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 6+ [Laceration], beri +20% damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mau jajan enak?",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Swini!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Rupture"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Aku hwarus berani, juga...!",
+          "desc": "[WinDuel] Beri +30% damage",
+          "coinlist": [
+            {},
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003403,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Marinademu...! Kuhwancurkan—",
+          "desc": "[WinDuel] Peroleh 1 Attack Power Up",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 Rupture"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 Rupture"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 Rupture"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bwo! Bwo!",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bwahwan Bwekwalicas!",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Rupture"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 Rupture"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lwanjutkan Opwelasi!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Jika Speed unit ini lebih cepat daripada target, beri +20% damage"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Jika Speed unit ini lebih cepat daripada target, beri +20% damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003503,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Penglwanaman Ahlinywa!",
+          "desc": "Jika target berada di 50%+ HP, beri +20% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Rupture Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kwasih pelwjaran, Cik Gu Eksekutif!",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cwaka Djepit!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 4 Rupture"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hwarus Tharung...",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Rupture Count"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 Pierce Fragility"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 2 Rupture"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003603,
+      "levelList": [
+        {
+          "level": 3,
+          "name": "Hiyah!!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [Burst], beri +10% damage"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [Burst], beri +10% damage"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Pulihkan HP setara dengan 30% damage diberikan"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Aku Bwukan Hama!",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}

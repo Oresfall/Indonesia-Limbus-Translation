@@ -1,0 +1,22 @@
+{
+  "dataList": [
+    {
+      "id": 1067,
+      "panicName": "Nafas Kasar",
+      "lowMoraleDescription": "Awal Giliran: Kehilangan 3 Potency [Breath]",
+      "panicDescription": "Awal Giliran: Kehilangan 5 Potency [Breath]"
+    },
+    {
+      "id": 1068,
+      "panicName": "Buku Teks",
+      "lowMoraleDescription": "Clash Power +1 ketika Clash terhadap target dengan [DuelEdge]\nClash Kehilangan: Peroleh 1 [Vulnerable] giliran berikutnya (sekali per giliran)",
+      "panicDescription": "Clash Power +2 ketika Clash terhadap target dengan [DuelEdge]\nClash Kehilangan: Peroleh 2 [Vulnerable] giliran berikutnya (sekali per giliran)"
+    },
+    {
+      "id": 1069,
+      "panicName": "Gadis Besi",
+      "lowMoraleDescription": "Awal Giliran: peroleh 1 [AttackDown] dan 1 [DefenseUp]",
+      "panicDescription": "Awal Giliran: peroleh 2 [AttackDown] dan 2 [DefenseUp]"
+    }
+  ]
+}

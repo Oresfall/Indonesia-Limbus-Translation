@@ -1,0 +1,229 @@
+{
+  "dataList": [
+    {
+      "id": "NoeulNageuneBuffA3",
+      "name": "Sunset Wayfarer's Sap",
+      "desc": "- Peroleh +50% maks HP (maks 200; mengecualikan Peccatula Invidiae)\n- Hilangkan Batas Stagger pertama unit ini",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "NoeulNageuneBuffA4",
+      "name": "Sunset Wayfarer's Sap",
+      "desc": "- Peroleh +50% maks HP (maks 200; mengecualikan Peccatula Invidiae)\n- Ketika diserang oleh Unbreakable Coin, terima -20% damage",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "NoeulNageuneBuffA5",
+      "name": "Sunset Wayfarer's Sap",
+      "desc": "- Peroleh +50% maks HP (maks 200; mengecualikan Peccatula Invidiae)\n- Hilangkan Batas Stagger pertama unit ini\n- Akhir Giliran: 4 kawan yang memiliki SP terendah memulihkan 4 SP (mengecualikan Panicked atau Corroded kawan)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "NoeulNageuneBuffB3",
+      "name": "Sunset Wayfarer's Moth",
+      "desc": "- Mulai Giliran: Peroleh 1 Offense Level Up untuk setiap unit kawan (termasuk diri sendiri) di faksi yang sama dengan diri sendiri (maks 4)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "NoeulNageuneBuffB4",
+      "name": "Sunset Wayfarer's Moth",
+      "desc": "- Peroleh 1 Stack dari status acak, dipilih dari Slash DMG Naik, Pierce DMG Naik, dan Blunt DMG Naik. Ketika menggunakan E.G.O Skill dari Tipe Serangan yang sesuai, beri +50% damage\n- Saat Serang dengan Unbreakable Coin, beri +20% damage",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "NoeulNageuneBuffB5",
+      "name": "Sunset Wayfarer's Moth",
+      "desc": "- Mulai Giliran: Peroleh 1 Offense Level Up untuk setiap kawan yang kalah di Pertarungan ini (maks 6)\n- Awal Pertarungan: Pada A-Reson., Skill yang merupakan bagian dari A-Reson. tersebut beri +20% damage",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HeatedWingScalesExplain",
+      "name": "Debu Sisik Berpijar",
+      "desc": "- +0.25 ke Resistansi terhadap Tipe dan Afinitas Serangan dari Skill yang Clash terhadap Skill \"Entangled Life - Regresi\" dari \"Butterfly of Entangled Lives::Pupa\"",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TransparentWingScalesExplain",
+      "name": "Debu Sisik Akut",
+      "desc": "- +0.25 ke Resistansi terhadap Tipe dan Afinitas Serangan dari Skill yang Clash terhadap Skill \"Entangled Life - Manifestasi\" dari \"Butterfly of Entangled Lives::Pupa\"",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RustedWingScalesExplain",
+      "name": "Debu Sisik Berkarat",
+      "desc": "- +0.25 ke Resistansi terhadap Tipe dan Afinitas Serangan dari Skill yang Clash terhadap Skill \"Entangled Life - Advent\" dari \"Butterfly of Entangled Lives::Pupa\"",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HeatedWingScales",
+      "name": "Debu Sisik Berpijar",
+      "desc": "- +0.25 ke Resistansi terhadap Tipe dan Afinitas Serangan dari Skill yang Clash terhadap Skill \"Entangled Life - Regresi\" dari \"Butterfly of Entangled Lives::Pupa\"",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TransparentWingScales",
+      "name": "Debu Sisik Akut",
+      "desc": "- +0.25 ke Resistansi terhadap Tipe dan Afinitas Serangan dari Skill yang Clash terhadap Skill \"Entangled Life - Manifestasi\" dari \"Butterfly of Entangled Lives::Pupa\"",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RustedWingScales",
+      "name": "Debu Sisik Berkarat",
+      "desc": "- +0.25 ke Resistansi terhadap Tipe dan Afinitas Serangan dari Skill yang Clash terhadap Skill \"Entangled Life - Advent\" dari \"Butterfly of Entangled Lives::Pupa\"",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StackPast",
+      "name": "Di Masa Lalu (Non Aktif)",
+      "desc": "- Pasif \"Masa Lalu [過去]\" Non Aktif\n- Stack Maks: 30",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StackPresent",
+      "name": "Di Masa Kini (Non Aktif)",
+      "desc": "- Pasif \"Masa Kini [現在]\" Non Aktif\n- Stack Maks: 30",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StackFuture",
+      "name": "Di Masa Depan (Non Aktif)",
+      "desc": "- Pasif \"Masa Depan [未來]\" Non Aktif\n- Stack Maks: 30",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StackPastActivate",
+      "name": "Di Masa Lalu",
+      "desc": "- Pasif \"Masa Lalu [過去]\" diaktifkan\n- Peroleh efek berbeda berdasarkan Stack:\n· 0~10: Skill memberi +1 lebih Burn Potency dan Count\n· 11~20: Clash Power +1; Skill memberi +2 lebih Burn Potency dan +1 lebih Burn Count\n· 21~30: Final Power +2; Skill memberi +3 lebih Burn Potency dan +2 lebih Burn Count\n- Stack Maks: 30",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StackPresentActivate",
+      "name": "Di Masa Kini",
+      "desc": "- Pasif \"Masa Kini [現在]\" diaktifkan\n- Peroleh efek berbeda berdasarkan Stack:\n· 0~10: Skill peroleh +1 lebih Poise Potency dan Count\n· 11~20: Clash Power +1; Skill peroleh +2 lebih Poise Potency dan +1 lebih Poise Count\n· 21~30: Final Power +2; Skill peroleh +3 lebih Poise Potency dan +2 lebih Poise Count\n- Stack Maks: 30",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StackFutureActivate",
+      "name": "Di Masa Depan",
+      "desc": "- Pasif \"Masa Depan [未來]\" diaktifkan\n- Peroleh efek berbeda berdasarkan Stack:\n· 0~10: Skill memberi +1 lebih Bleed Potency dan Count\n· 11~20: Clash Power +1; Skill memberi +2 lebih Bleed Potency dan +1 lebih Bleed Count\n· 21~30: Final Power +2; Skill memberi +3 lebih Bleed Potency dan +2 lebih Bleed Count\n- Stack Maks: 30",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeGap",
+      "name": "Temporal Disjunction",
+      "desc": "- Peroleh 1 Stack setiap kali unit ini berpindah antara Di Masa Lalu / Di Masa Kini / Di Masa Depan\n- Terima +(Stack x 15)% damage (maks 150%)\n- Mulai Giliran: Pada 10 Stack, peroleh 5 Fragile\n- Stack Maks: 10",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "YesdragonSelfRefraction",
+      "name": "Pin Pengubur-bunga [埋花針]",
+      "desc": "- Stack Maks: 10\n- Peroleh 1 Offense Level dan 1 Defense Level untuk setiap 2 Stack\n- Pada 5+ Stack, Final Power +1\n- Pada Stack Maks, Coin Power +1\n- Ketika mengonsumsi Pin Pengubur-bunga, beri 1 E.G.O resource dari Afinitas paling sedikit untuk setiap Stack dikonsumsi",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "CondensedBloodRefraction",
+      "name": "Darah Naga [龍血]",
+      "desc": "- Maks Potency: 50\n- Akhir Giliran: Terima 1% HP damage per Potency (min 1; tidak dapat Stagger dari efek ini)\n- Kehilangan 1 Count ketika menggunakan Skill Defense (sekali per giliran)\n- Akhir Giliran: Gandakan Potency dan kehilangan 1 Count\n- Efek ini hanya dapat dihilangkan dengan mengurangi Count menjadi 0",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DragonLanceRefraction",
+      "name": "Pasak Pengubur-bunga [埋花櫼]",
+      "desc": "- Stack Maks: 3\n- Memperkuat Skill Yinglong tertentu",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "YesdragonPower",
+      "name": "Roh Naga [龍氣]",
+      "desc": "- Terima -100% damage\n- Ketika diserang, kadaluarsa pada Akhir Skill dari Skill yang menyerang unit ini",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "YesdragonWind",
+      "name": "Rahmat Tak Konsisten",
+      "desc": "- Min & Maks Speed +3\n- Clash Power +2\n- Ketika diserang, kadaluarsa pada Akhir Skill dari Skill yang menyerang unit ini",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TagGameBuff",
+      "name": "\"Pengejar\"",
+      "desc": "- Beri -100% damage saat menggunakan Serangan Tanpa Lawan\n- Terima +80% damage dari Serangan Tanpa Lawan\n- Semua unit Peccatulum Invidiae, termasuk unit ini, hanya menggunakan Skill Defense di Skill Slot mereka\n- Akhir Giliran: Kehilangan 1 Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "YesdragonScale",
+      "name": "Raga Sisik",
+      "desc": "- Stack Maks: 20\n- Tidak kadaluarsa pada 0 Stack\n- Kehilangan 1 Stack ketika menerima damage dari Pin Pengubur-bunga\n- Terima +10% damage untuk setiap Stack yang hilang",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ObservationTheRingsRail",
+      "name": "Melihat Tableau",
+      "desc": "- Base Offense Level -20\n- Base Defense Level -20\n- Mulai Giliran: Peroleh 7 Protection jika Murid Ring belum mundur dari Pertarungan ini",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Apresiasi karya seni di galeri membutuhkan kontemplasi yang tidak tergesa-gesa. Harap diingat—ketidaksabaran menumpulkan apresiasi terhadap seni.\""
+    },
+    {
+      "id": "MiddleFingerLeashBuff",
+      "name": "Suppressed Might",
+      "desc": "- Serangan Tanpa Lawan beri -100% damage\n- Akhir Giliran: Jika 3+ kawan dikalahkan pada Pertarungan ini, efek ini kadaluarsa",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ScarBygoneDaysRefraction_LowMorale",
+      "name": "Kasih Sayang dan Kebencian",
+      "desc": "Beri dan terima +10% damage",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ScarBygoneDaysRefraction_Panic",
+      "name": "Kasih Sayang dan Kebencian",
+      "desc": "Beri dan terima +20% damage",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PainfulScarRailway_Panic",
+      "name": "Imitasi Seorang Ayah",
+      "desc": "- Panik\n- Mulai Giliran: Peroleh 5 Burn, +3 Burn Count, 5 Bleed, dan +3 Bleed Count",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PainfulScarRailway_LowMorale",
+      "name": "Imitasi Seorang Ayah",
+      "desc": "- Moral Rendah\n- Mulai Giliran: Peroleh 5 Burn dan 5 Bleed",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "dataList": [
+    {
+      "id": "IndexPrescriptTargetToPersonality",
+      "name": "Target Prescript - The Index",
+      "desc": "Skill Power -2 terhadap dan terima +20% damage dari musuh The Index",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BlessingOfIndexPrescriptEnemy",
+      "name": "Berkah dari Prescript",
+      "desc": "- Level Offense +1 untuk setiap 3 Stack\n- Stack Maks: 9",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IndexPrescript_Base_2nd",
+      "name": "Prescript",
+      "desc": "Terima Prescript: [Perangkat] dibawah kondisi spesifik",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescript diberikan dengan cara apapun, media pengiriman ditentukan layaknya nubuat ilahi. Mereka yang menerimanya tidak memiliki kuasa atas bagaimana Prescript tiba."
+    },
+    {
+      "id": "IndexPrescriptStudent_0",
+      "name": "Prescript: [Perangkat] I",
+      "desc": "Serang Target Prescript.\n\n- Awal Giliran: Peroleh efek ini jika unit ini tidak memiliki Unlock\n- Maksimum stack Berkah dari Prescript yang didapatkan dengan Prescript ini dibatasi hingga 3",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescript diberikan dengan cara apapun, media pengiriman ditentukan layaknya nubuat ilahi. Mereka yang menerimanya tidak memiliki kuasa atas bagaimana Prescript tiba."
+    },
+    {
+      "id": "IndexPrescriptStudent_1",
+      "name": "Prescript: [Perangkat] II",
+      "desc": "Serang Target Prescript dengan Skill yang digunakan di Slot pertama, atau kalahkan target acak.\n\n- Awal Giliran: Peroleh efek ini jika unit ini memiliki Unlock - I\n- Maksimum stack Berkah dari Prescript yang didapatkan dengan Prescript ini dibatasi hingga 6",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescript diberikan dengan cara apapun, media pengiriman ditentukan layaknya nubuat ilahi. Mereka yang menerimanya tidak memiliki kuasa atas bagaimana Prescript tiba."
+    },
+    {
+      "id": "IndexPrescriptStudent_2",
+      "name": "Prescript: [Perangkat] III",
+      "desc": "Stagger atau kalahkan target acak.\n\n- Awal Giliran: Peroleh efek ini jika unit ini memiliki Unlock - II\n- Maksimum stack Berkah dari Prescript yang didapatkan dengan Prescript ini dibatasi hingga 9",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescript diberikan dengan cara apapun, media pengiriman ditentukan layaknya nubuat ilahi. Mereka yang menerimanya tidak memiliki kuasa atas bagaimana Prescript tiba."
+    },
+    {
+      "id": "IndexPrescriptStudent_3",
+      "name": "Prescript: [Perangkat] IV",
+      "desc": "Kalahkan semua rintangan sebelum Prescript berikutnya tiba.\n\n- Awal Giliran: Peroleh efek ini jika unit ini memiliki Unlock - III",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescript diberikan dengan cara apapun, media pengiriman ditentukan layaknya nubuat ilahi. Mereka yang menerimanya tidak memiliki kuasa atas bagaimana Prescript tiba."
+    },
+    {
+      "id": "UnlockBuff_1",
+      "name": "Unlock - I",
+      "desc": "- Level Offense +1, Defense Level +1\n- Akhir Pertempuran: Pulihkan 15 SP",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnlockBuff_2",
+      "name": "Unlock - II",
+      "desc": "- Level Offense +2, Defense Level +2\n- Akhir Pertempuran: Pulihkan 30 SP",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnlockBuff_3",
+      "name": "Unlock - III",
+      "desc": "- Level Offense +3, Defense Level +3\n- Akhir Pertempuran: Pulihkan 45 SP",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "KarmaOfIndexStudent",
+      "name": "Konsekuensi Karma",
+      "desc": "- Awal Giliran:\n· Peroleh 1 Defense Level Down untuk setiap 10 Stack\n· Peroleh 1 Fragile untuk setiap 20 Stack\n- Stack Maks: 100",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Terima Prescript itu dan lakukan perintahyna. Pelaksanaannya terukir sebagai karma, ditarik ke dalam siklus tanpa henti yang berputar kembali ke tangan pelaksananya."
+    },
+    {
+      "id": "Blandishment_Enemy",
+      "name": "Iman Melampaui Keraguan",
+      "desc": "- Min & Maks Speed +1\n- Level Offense +3, Defense Level +3\n- Peroleh +1 lebih Potency Poise dari Skill",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Bukankah... Bukankah ini sudah jelas? Setiap kata yang diberikan itu tak diragukan lagi... t-tanpa keraguan.\""
+    },
+    {
+      "id": "Blandishment_Shin_Enemy",
+      "name": "Shin (心) - Sora",
+      "desc": "- Min & Maks Speed +1\n- Level Offense +2, Defense Level +2\n- Peroleh +1 lebih Potency Poise dan Poise Count dari Skill\n- Beri +(persentase HP yang hilang + 25)% damage (maks 100%)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PressureOfPrescript",
+      "name": "Onus",
+      "desc": "- Beri +25% damage untuk setiap Stack (maks 50%)\n- Dibawah kondisi Effloresced E.G.O::Procuration:\n· Pada 1 Stack, Final Power +1\n· Pada 2 Stack, Final Power +3 saja\n- Stack Maks: 2",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "'A-apa yang harus kulakukan? Apa yang tidak perlu ditanyakan harus dilakukan tanpa diragukan lagi...'"
+    },
+    {
+      "id": "PressureOfPrescript_2nd",
+      "name": "Onus Ekstrim",
+      "desc": "- Beri +50% damage untuk setiap Stack (maks 100%)\n- Dibawah kondisi Effloresced E.G.O::Procuration:\n· Pada 1 Stack, Final Power +2\n· Pada 2 Stack, Plus Coin Power +1 dan Final Power +3 saja\n- Stack Maks: 2\n- Ketika memakai Skill tertentu, dihitung sebagai Onus dan is yang dikonsumsi",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BlindFaith_LowMorale",
+      "name": "Risiko Ketidakpatuhan Prescript",
+      "desc": "- Moral Rendah\n- Beri +20% damage ke target yang memiliki Target Prescript\n- Terima +10% damage dari target yang tidak memiliki Target Prescript",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BlindFaith_Panic",
+      "name": "Risiko Ketidakpatuhan Prescript",
+      "desc": "- Panik\n- Beri +30% damage ke target yang memiliki Target Prescript\n- Terima +20% damage dari target yang tidak memiliki Target Prescript",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "YellowHarpoon",
+      "name": "Sang Kuning Harpun",
+      "desc": "- Awal Giliran: Peroleh 4 Haste dan 8 Poise\n- Akhir Giliran: Peroleh +3 Poise Count jika musuh memiliki Harpun Bersarang",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "YellowHarpoonSin",
+      "name": "Shin(心) - Sang Kuning Harpun",
+      "desc": "- Base Level Offense +3, Base Defense Level +3\n- Pulihkan 3 SP ketika menyerang target yang telah menyerang unit ini pada giliran sebelumnya\n- Pada 0+ SP, peroleh Final Power sebanyak (SP / 10) (dibulatkan ke bawah)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BeeSting",
+      "name": "Harpun Bersarang [Beesting]",
+      "desc": "- Slash Resist. +0.2, Sloth Resist. +0.2\n- Akhir Giliran: Peroleh 2 Bind giliran berikutnya\n- Saat Menyerang: Peroleh 1 Potency Bleed\n- Ketika diserang oleh Vespa, peroleh 2 Dengung Gungnir\n- Aktifkan Bleed pada unit ini sekali ketika efek ini dihapus",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ArtifactBeeSting",
+      "name": "Harpun Bersarang [Waspsting]",
+      "desc": "- Slash Resist. +1, Sloth Resist. +1\n- Akhir Giliran: Peroleh 4 Bind giliran berikutnya\n- Saat Menyerang: Peroleh 3 Potency Bleed\n- Ketika diserang oleh Vespa, peroleh 3 Dengung Gungnir\n- Aktifkan Bleed pada unit ini 2 kali ketika efek ini dihapus",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HornetPoison",
+      "name": "Dengung Gungnir",
+      "desc": "- Ketika diserang oleh Vespa, terima damage tetap setara dengan Potency efek ini\n- Kurangi Count sebanyak 1 setelah Akhir Giliran (Berinteraksi sama dengan Tremor normal pada efek yang menaikkan Tremor Count)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "<color=#fde55d>Mereka yang tertusuk tombak akan hancur berkeping-keping karena serangan beruntun memperkuat kekuatan getarannya.</color>"
+    },
+    {
+      "id": "CriticalDmgUpVespa",
+      "name": "Seni Pedang Apic Flashburst - Hwando",
+      "desc": "Beri +10% damage lebih pada Serangan Critical untuk setiap Stack giliran ini",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "<color=#fde55d>Gaya pedang yang berasal dari Timur, cocok untuk mereka yang menggunakan gerakan lompat cepat yang hampir menyerupai teleportasi.\n\nAnak lelaki itu menghadapi peningkatan kemampuan yang mengancam jiwa dengan tekad yang kuat, dan kelangsungan hidupnya membuktikan nilainya.</color>"
+    },
+    {
+      "id": "Vespa_LowMorale",
+      "name": "Vexation",
+      "desc": "- Moral Rendah\n- Peroleh 1 Pierce Power Up dan 1 Efisiensi Pemulihan SP Menurun",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Vespa_Panic",
+      "name": "Vexation",
+      "desc": "- Panik\n- Peroleh 2 Pierce Power Up, 1 Pierce DMG Naik, dan 2 Efisiensi Pemulihan SP Menurun",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ScarBygoneDays_LowMorale",
+      "name": "Kasih Sayang dan Kebencian",
+      "desc": "Beri +10% damage ke dan terima +10% damage dari Ryōshū",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ScarBygoneDays_Panic",
+      "name": "Kasih Sayang dan Kebencian",
+      "desc": "Beri +20% damage ke dan terima +20% damage dari Ryōshū",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PhantomIncision",
+      "name": "Bladetrail [Bayangan]",
+      "desc": "- Stack Maks: 99\n- Awal Giliran: Peroleh 1 Fragile untuk setiap 10 Stack (maks 5)",
+      "summary": " ",
+      "undefined": "-"
+    },
+    {
+      "id": "PhantomIncisionTotal",
+      "name": "Pedang Dihui Star",
+      "desc": "- Jumlah total dari Bladetrail [Bayangan] Stack di Pertempuran ini",
+      "summary": " ",
+      "undefined": "-"
+    },
+    {
+      "id": "LvDownLittleFingerBoss",
+      "name": "Hormat Diam",
+      "desc": "UNUSED BUFF",
+      "summary": " ",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeGapAb",
+      "name": "Pemisahan",
+      "desc": "- Awal Giliran: Bagian peroleh Perisai setara dengan Stack\n- Pengurangan di Perisai juga mengurangi jumlah Stack",
+      "summary": " ",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeEntangleFour",
+      "name": "Keterikatan Bayangan Empat Kali Lipat",
+      "desc": "Tingkat 4 Keterikatan Bayangan\n- Min & Maks Speed -2 untuk unit ini\n- Saat Menyerang, aktifkan efek berikut:\n  · Beri 1 Racun\n  · Beri 2 Bleed\n  · Beri 1 Bind giliran berikutnya\n  · Beri 2 Burn",
+      "summary": "Tingkat 4 Keterikatan Bayangan",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeEntangleThree",
+      "name": "Keterikatan Bayangan Tiga Kali Lipat",
+      "desc": "Tingkat 3 Keterikatan Bayangan\n- Saat Menyerang, aktifkan efek berikut:\n  · Beri 2 Bleed\n  · Beri 1 Bind giliran berikutnya\n  · Beri 2 Burn",
+      "summary": "Tingkat 3 Keterikatan Bayangan",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeEntangleTwo",
+      "name": "Keterikatan Bayangan Dua Kali Lipat",
+      "desc": "Tingkat 2 Keterikatan Bayangan\n- Saat Menyerang, aktifkan efek berikut:\n  · Beri 1 Bind giliran berikutnya\n  · Beri 2 Burn",
+      "summary": "Tingkat 2 Keterikatan Bayangan",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeEntangleOne",
+      "name": "Keterikatan Bayangan Sekali Lipat",
+      "desc": "Tingkat 1 Keterikatan Bayangan\n- Saat Menyerang, aktifkan efek berikut:\n  · Beri 2 Burn",
+      "summary": "Tingkat 1 Keterikatan Bayangan",
+      "undefined": "-"
+    },
+    {
+      "id": "LittleFingerBoss_Shin",
+      "name": "Shin (心) - Dihui Star",
+      "desc": "- Stack Maks: 3\n- Awal Giliran: Beri efek berikut\n· Peroleh 5 Potency Poise dan +1 Poise Count untuk setiap Stack\n· Peroleh 1 Slash DMG Naik untuk setiap 15% HP yang hilang pada diri sendiri (maks 5)",
+      "summary": " ",
+      "undefined": "-"
+    },
+    {
+      "id": "RyoshuParrySoji",
+      "name": "Memori dan Ingatan yang Berputar dan Terputus",
+      "desc": "- Skill Slot +1\n- Beri +20% damage ke dan terima +20% damage dari Nursefather Pinky; Saat Menang Clash, beri 5 SP damage ke Nursefather Pinky\n- Ketika menerima damage yang akan men-Stagger unit ini, tidak terkena Stagger dan hilangkan Batas Stagger yang dimaksud; lalu, peroleh 1 Attack Power Up giliran berikutnya (sekali per giliran)\n- Untuk Pertempuran ini: Setelah menggunakan Skill, peroleh 1 E.G.O resource dari Afinitas Skill dan 1 E.G.O resource paling sedikit (2 kali per giliran)\n- Tidak Dapat Mundur",
+      "summary": "Jika ada kawan yang masih hidup, HP tidak dapat turun dibawah 1",
+      "undefined": "-"
+    },
+    {
+      "id": "RyoshuStartA1C9P2",
+      "name": "Memori Termutilasi",
+      "desc": "- Skill Slot +1\n- Beri +10% damage ke musuh dari House of Spiders\n- Ketika Stagger, langsung pulih dari Stagger saat dimulainya giliran berikutnya dan peroleh 1 Attack Power Up (sekali per Pertempuran)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Ryoshu_IndexFightBuff",
+      "name": "Memori dan Ingatan yang Termutilasi",
+      "desc": "- Skill Slot +1\n- Beri +10% damage ke musuh dari House of Spiders\n- Ketika menerima damage yang akan men-Stagger unit ini, tidak terkena Stagger dan hilangkan Batas Stagger yang dimaksud; lalu, peroleh 1 Attack Power Up giliran berikutnya (sekali per giliran)\n- Untuk Pertempuran ini: Setelah menggunakan Skill, peroleh 1 E.G.O resource dari Afinitas Skill dan 1 E.G.O resource paling sedikit (2 kali per giliran)\n- Tidak Dapat Mundur",
+      "summary": "Efek Eksklusif Ryōshū",
+      "undefined": "-"
+    },
+    {
+      "id": "Malkuth_Imperfect",
+      "name": "Kuasa Malkuth - Manifestasi Cacat",
+      "desc": "<i><color=#d3a562>Sekilas gambaran kekuatan yang cacat tentang kuasa atas Kerajaan.</color></i>",
+      "summary": " ",
+      "undefined": "-"
+    },
+    {
+      "id": "TimeEntangleDesc",
+      "name": "Keterikatan Bayangan",
+      "desc": "Bayangan akan Terikat\nTingkat Efek akan berubah sesuai kemajuan dari pola pertarungan",
+      "summary": " ",
+      "undefined": "-"
+    },
+    {
+      "id": "IndexPrescriptDon_0",
+      "name": "Prescript: [Perangkat] I",
+      "desc": "Gunakan Skill yang ditandai dengan Tanda dari Prescript atau serang target dengan Skill tertanda.\n\n- Awal Giliran: Peroleh efek ini jika unit ini tidak memiliki Unlock\n- Maksimum stack Berkah dari Prescript yang didapatkan dengan Prescript ini dibatasi hingga 3",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescript diberikan dengan cara apapun, media pengiriman ditentukan layaknya nubuat ilahi. Mereka yang menerimanya tidak memiliki kuasa atas bagaimana Prescript tiba."
+    },
+    {
+      "id": "IndexPrescriptDon_1",
+      "name": "Prescript: [Perangkat] II",
+      "desc": "Serang target dengan Skill tertandai oleh Tanda dari Prescript.\n\n- Awal Giliran: Peroleh efek ini jika unit ini memiliki Unlock - I\n- Maksimum stack Berkah dari Prescript yang didapatkan dengan Prescript ini dibatasi hingga 6",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescript diberikan dengan cara apapun, media pengiriman ditentukan layaknya nubuat ilahi. Mereka yang menerimanya tidak memiliki kuasa atas bagaimana Prescript tiba."
+    },
+    {
+      "id": "IndexPrescriptDon_2",
+      "name": "Prescript: [Perangkat] III",
+      "desc": "Hit a target dengan E.G.O Awakening Skill, atau, in Effloresced E.G.O::Procuration state, 'Skill 3' marked dengan Tanda dari Prescript.\n\n- Awal Giliran: Peroleh efek ini jika unit ini memiliki Unlock - II\n- Maksimum stack Berkah dari Prescript yang didapatkan dengan Prescript ini dibatasi hingga 9",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescript diberikan dengan cara apapun, media pengiriman ditentukan layaknya nubuat ilahi. Mereka yang menerimanya tidak memiliki kuasa atas bagaimana Prescript tiba."
+    },
+    {
+      "id": "IndexPrescriptDon_3",
+      "name": "Prescript: [Perangkat] IV",
+      "desc": "Kalahkan semua musuh sebelum Prescript berikutnya tiba.\n\n- Awal Giliran: Peroleh efek ini jika unit ini memiliki Unlock - III",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescript diberikan dengan cara apapun, media pengiriman ditentukan layaknya nubuat ilahi. Mereka yang menerimanya tidak memiliki kuasa atas bagaimana Prescript tiba."
+    },
+    {
+      "id": "UnlockBuff_Base",
+      "name": "Unlock",
+      "desc": "- Peroleh efek ini ketika over certain Stack Berkah dari Prescript\n- Tingkatan efek meningkat berdasarkan Stack Berkah dari Prescript\n- Maks: Tingkat 3",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnlockBuffAlly_1",
+      "name": "Unlock - I",
+      "desc": "- Defense Level +1\n- Akhir Pertempuran: Pulihkan 5 SP",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnlockBuffAlly_2",
+      "name": "Unlock - II",
+      "desc": "- Defense Level +2\n- Akhir Pertempuran: Pulihkan 10 SP",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnlockBuffAlly_3",
+      "name": "Unlock - III",
+      "desc": "- Defense Level +3\n- Akhir Pertempuran: Pulihkan 15 SP",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Blandishment",
+      "name": "Iman Melampaui Keraguan",
+      "desc": "- Min & Maks Speed +1\n- Level Offense +2, Defense Level +2\n- Peroleh 1 lebih Potency Poise dari Base Skill\n- SP unit ini tidak dapat turun dibawah -15 dari efek kehilangan SP oleh Skill Base Attack unit ini\n- Stack Maks: 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Blandishment_Shin",
+      "name": "Shin (心) - Procuration",
+      "desc": "- Min & Maks Speed +2\n- Level Offense +1, Defense Level +1\n- Peroleh 1 lebih Potency Poise dan Poise Count dari Base Skill\n- Beri +(persentase HP yang hilang / 2)% damage dengan Base Skill (maks 40%)\n- Stack Maks: 1",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

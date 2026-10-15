@@ -1,0 +1,811 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Koridor Nursefather Ring",
+      "model": "앨런",
+      "content": "Ah, kalian sudah datang. Aku sudah menunggu kalian."
+    },
+    {
+      "id": 1,
+      "model": "앨런",
+      "content": "Kami telah memilah dan mengisolasi pintu-pintu dengan kemungkinan tertinggi yang menuju ke galeri Ring."
+    },
+    {
+      "id": 2,
+      "model": "앨런",
+      "content": "Langkah selanjutnya adalah memasuki pintu alternatif yang tadi disebutkan, namun..."
+    },
+    {
+      "id": 3,
+      "model": "뉴키라",
+      "content": "Tunggu sebentar."
+    },
+    {
+      "id": 4,
+      "model": "뉴키라",
+      "content": "... Sebenarnya ada hal lain yang kusembunyikan."
+    },
+    {
+      "id": 5,
+      "model": "단테",
+      "content": "<Huh...?>"
+    },
+    {
+      "id": 6,
+      "model": "앨런",
+      "content": "\"Sembunyikan\"...? Maksudmu ada informasi lain mengenai pintu-pintu ini?"
+    },
+    {
+      "id": 7,
+      "model": "뉴키라",
+      "content": "Yap."
+    },
+    {
+      "id": 8,
+      "model": "뉴키라",
+      "content": "Pintu itu? Kalau ga salah terhubung ke <ruby=Sarang>Nest</ruby> N Corp. Aku pernah lihat Albina masuk ke situ, ngoceh terus tentang kaleng... lupa aku namanya."
+    },
+    {
+      "id": 9,
+      "model": "뉴키라",
+      "content": "Dan pintu kayu dengan perban terlilit di gagangnya... Papa biasa masuk ke sana buat mencoret <ruby=Buku Pembalasan>Book of Vengeance</ruby>. Dari informasi di Buku sih, itu mungkin wilayah kekuasaan yang \"dilindungi\" oleh anak perusahaan Thumb atau sejenisnya."
+    },
+    {
+      "id": 10,
+      "content": "Tidak seperti sebelumnya, saat dia hanya memberikan potongan informasi samar, bahkan hanya tentang satu pintu..."
+    },
+    {
+      "id": 11,
+      "content": "... Kira sekarang memberi Alan informasi intel yang tampak meyakinkan, bahkan bagi seseorang yang sama sekali tidak paham tentang <ruby=Pintu Belakang>Backdoors</ruby> sepertiku."
+    },
+    {
+      "id": 12,
+      "model": "오티스",
+      "content": "Ehem... Dia jauh lebih kooperatif dari yang diperkirakan. Bahkan setelah sosok Alan itu memperlakukannya dengan kasar, dari apa yang saya dengar."
+    },
+    {
+      "id": 13,
+      "model": "단테",
+      "content": "<Ya... Kurasa dia bakal diem karena dendam... Jadi penasaran kenapa dia milih buat bekerja sama dengan kita.>"
+    },
+    {
+      "id": 14,
+      "model": "오티스",
+      "content": "Meskipun begitu, kita tidak boleh menurunkan kewaspadaan, Manajer Eksekutif. Tidak ada yang tahu kapan dia akan membelot dari kita..."
+    },
+    {
+      "id": 15,
+      "model": "뉴키라",
+      "content": "Sialan... Dari tadi aku bisa denger kalian, tahu?"
+    },
+    {
+      "id": 16,
+      "model": "앨런",
+      "content": "Baiklah kalau begitu. Berdasarkan informasi ini... silahkan lanjutkan dengan menyelidiki pintu paling aman terlebih dahulu."
+    },
+    {
+      "id": 17,
+      "model": "앨런",
+      "content": "Sedangkan untuk pintu berisiko tinggi... aku akan terus memeriksanya dan memberi tahu pintu mana saja yang perlu kalian masuki."
+    },
+    {
+      "id": 18,
+      "content": "Alan mengotak-atik perangkat di sekitarnya dan menyinari beberapa pintu dengan cahaya biru."
+    },
+    {
+      "id": 19,
+      "content": "Berarti kita mulai dari situ."
+    },
+    {
+      "id": 20,
+      "model": "단테",
+      "content": "<Kalian mau ke mana duluan?>"
+    },
+    {
+      "id": 21,
+      "model": "히스클리프",
+      "content": "Semuanya sama aja yaelah. Yang deket dulu aja."
+    },
+    {
+      "id": 22,
+      "content": "Lagipula, Alan memang bilang kalau ini yang paling aman... jadi tidak masalah yang mana saja."
+    },
+    {
+      "id": 23,
+      "content": "Saat aku hendak meraih pintu terdekat seperti yang dikatakan Heathcliff, Ryōshū mendadak berbelok, berhenti di depan pintu lain yang berdiri beberapa langkah di sampingnya."
+    },
+    {
+      "id": 24,
+      "model": "료슈",
+      "content": "Pintu ini... terbilang familiar."
+    },
+    {
+      "id": 25,
+      "model": "단테",
+      "content": "<...! Kamu mengenali pintu itu?>"
+    },
+    {
+      "id": 26,
+      "model": "료슈",
+      "content": "Kupikir aku pernah melewatinya beberapa kali saat masih kecil..."
+    },
+    {
+      "id": 27,
+      "content": "Baru saja Ryōshū selesai berbicara, sebuah ingatan yang terfragmentasi, tertutup di beberapa bagian, muncul di benakku."
+    },
+    {
+      "id": 28,
+      "place": "???",
+      "model": "과거료슈2",
+      "content": "Maaf... tadi sakit sekali, ya?"
+    },
+    {
+      "id": 29,
+      "model": "과거료슈2",
+      "content": "Aku... aku harusnya menyelesaikan tugasku lebih cepat."
+    },
+    {
+      "id": 30,
+      "model": "과거료슈2",
+      "content": "Ooh, aku tahu! Ayo kita jalan-jalan!"
+    },
+    {
+      "id": 31,
+      "place": "Koridor Nursefather Ring",
+      "model": "료슈",
+      "content": "*huff*... Namun, aku tak ingat banyak tentang itu."
+    },
+    {
+      "id": 32,
+      "content": "Ingatan barusan... Mungkin ada hubungannya dengan Araya?"
+    },
+    {
+      "id": 33,
+      "model": "단테",
+      "content": "<Ayo mulai dari pintu itu.>"
+    },
+    {
+      "id": 34,
+      "model": "히스클리프",
+      "content": "Oke... Yang ini, kan?"
+    },
+    {
+      "id": 35,
+      "model": "히스클리프",
+      "content": "Gas lah."
+    },
+    {
+      "id": 36,
+      "place": -1,
+      "content": "Tidak sabaran seperti biasa, Heathcliff mendorong pintu hingga terbuka dan melangkah masuk terlebih dahulu. Yang lainnya menyusul, termasuk Kira dan para <ruby=Pendosa>Sinners</ruby> lainnya."
+    },
+    {
+      "id": 37,
+      "place": "Taman, Di Suatu Tempat",
+      "model": "단테",
+      "content": "<Dan tempat ini adalah...?>"
+    },
+    {
+      "id": 38,
+      "model": "파우스트",
+      "content": "Menilai dari kondisinya, tampaknya ini adalah fasilitas kesejahteraan yang terletak di dalam sebuah <ruby=Sarang>Nest</ruby>. Kemungkinan besar tempat ini adalah taman."
+    },
+    {
+      "id": 39,
+      "model": "히스클리프",
+      "content": "Semua orang yang jalan di sini pada bawa hewan—berarti mereka punya duit buat dibuang. Beneran tempat orang kaya, nih."
+    },
+    {
+      "id": 40,
+      "content": "\"Jalan-jalan\" yang disebutkan Ryōshū dalam ingatan masa lalunya... dan pemandangan orang-orang yang memanjakan hewan peliharaan mereka."
+    },
+    {
+      "id": 41,
+      "content": "Potongan-potongan itu menyatu, dan aku menyuarakan ingatan lain yang kulihat saat di <ruby=Rumah Laba-laba>House of Spiders</ruby>."
+    },
+    {
+      "id": 42,
+      "model": "단테",
+      "content": "<Apa kamu pernah ke sini... dengan anak anjing bernama Saru?>"
+    },
+    {
+      "id": 43,
+      "model": "료슈9장",
+      "content": "... Ya. Aku ingat itu."
+    },
+    {
+      "id": 44,
+      "model": "료슈",
+      "content": "Tapi dia bukan anak anjing."
+    },
+    {
+      "id": 45,
+      "model": "료슈",
+      "content": "Saru... sudah agak besar saat itu."
+    },
+    {
+      "id": 46,
+      "place": "Koridor Nursefather Ring, Masa Lalu",
+      "model": "과거료슈2",
+      "content": "Maaf... tadi sakit sekali, ya?"
+    },
+    {
+      "id": 47,
+      "model": "과거료슈2",
+      "content": "Aku... aku harusnya menyelesaikan pekerjaanku lebih cepat."
+    },
+    {
+      "id": 48,
+      "model": "사루",
+      "teller": "Saru",
+      "title": "Rumah Laba-laba",
+      "content": "*merintih*"
+    },
+    {
+      "id": 49,
+      "model": "과거료슈2",
+      "content": "Kenapa dia masih kesakitan...? Padahal aku mememberinya banyak makan..."
+    },
+    {
+      "id": 50,
+      "model": "과거료슈2",
+      "content": "Ooh, aku tahu! Kamu mau jalan-jalan? Kamu suka jalan-jalan, kan, Saru?"
+    },
+    {
+      "id": 51,
+      "model": "사루",
+      "teller": "Saru",
+      "title": "Rumah Laba-laba",
+      "content": "*wuf*"
+    },
+    {
+      "id": 52,
+      "model": "과거료슈2",
+      "content": "Ada Workshop yang selalu Ayah kunjungi—pintu di sana terhubung ke sebuah taman."
+    },
+    {
+      "id": 53,
+      "model": "과거료슈2",
+      "content": "Kita bisa pergi sekarang!"
+    },
+    {
+      "id": 54,
+      "model": "사루",
+      "teller": "Saru",
+      "title": "Rumah Laba-laba",
+      "content": "*engah* *engah*"
+    },
+    {
+      "id": 55,
+      "place": "Suatu Taman",
+      "content": "Ingatan masa kecil Ryōshū membakar penglihatanku secara jelas sebelum akhirnya berlalu."
+    },
+    {
+      "id": 56,
+      "model": "히스클리프",
+      "content": "... Itu dia pas masih bocah?!"
+    },
+    {
+      "id": 57,
+      "model": "돈키호테",
+      "content": "Sungguh... kelembutan seperti itu tampak sangat tidak mirip denganmu, Nak Ryōshū."
+    },
+    {
+      "id": 58,
+      "model": "료슈",
+      "content": "......."
+    },
+    {
+      "id": 59,
+      "model": "료슈2",
+      "content": "Hei, Jam. Siapa yang membolehkanmu perlihatkan ingatanku seenaknya?"
+    },
+    {
+      "id": 60,
+      "model": "단테",
+      "content": "<Bukan, aku... Ayolah. Kau tahu itu bukan sesuatu yang bisa kukendalikan...>"
+    },
+    {
+      "id": 61,
+      "model": "료슈",
+      "content": "Cih... P.S."
+    },
+    {
+      "id": 62,
+      "content": "Dulu di <ruby=Rumah Laba-laba>House of Spiders</ruby>, hanya aku yang bisa melihat masa lalu Ryōshū."
+    },
+    {
+      "id": 63,
+      "content": "Namun kali ini, ingatannya tampak terwujud untuk semua orang di sekitar, persis seperti apa yang kami alami di H Corp. bersama Hong Lu."
+    },
+    {
+      "id": 64,
+      "content": "Yang kemungkinan besar berarti..."
+    },
+    {
+      "id": 65,
+      "model": "뉴키라",
+      "content": "Kalian semua kenapa lihatin aku? Aneh banget, apaan sih."
+    },
+    {
+      "id": 66,
+      "model": "오티스",
+      "content": "... Kamu tidak melihat itu barusan?"
+    },
+    {
+      "id": 67,
+      "model": "뉴키라",
+      "content": "Lihat apaan? Kalian yang pada ngelamun barengan?"
+    },
+    {
+      "id": 68,
+      "model": "단테",
+      "content": "<Sepertinya itu tidak berlaku untuk Kira.>"
+    },
+    {
+      "id": 69,
+      "content": "Lagipula, tidak seperti Lin Daiyu dan Hong Lu, Kira tidak memiliki hubungan langsung dengan Ryōshū. Kurasa itu masuk akal."
+    },
+    {
+      "id": 70,
+      "model": "돈키호테",
+      "content": "Apakah anjing yang menggemaskan itu teman lamamu, Nak Ryōshū?"
+    },
+    {
+      "id": 71,
+      "model": "료슈",
+      "content": "Benar. Teman terbaikku satu-satunya."
+    },
+    {
+      "id": 72,
+      "model": "료슈",
+      "content": "Dan karena hal itu, Saru..."
+    },
+    {
+      "id": 73,
+      "model": "료슈2",
+      "content": "*huff*... selalu dikunci di dalam brankas setiap kali aku harus pergi untuk sebuah tugas. Dengan Spiral yang tertancap padanya."
+    },
+    {
+      "id": 74,
+      "model": "료슈9장",
+      "content": "... Tali pengikat pertama. Jika diingat kembali, mungkin akan menjadi takdir yang lebih baik jika dia mati lebih cepat."
+    },
+    {
+      "id": 75,
+      "model": "돈키호테",
+      "content": "Melakukan kekejaman seperti itu kepada hewan tak berdosa... Bagaimana kejahatan seperti itu bisa dibiarkan...?"
+    },
+    {
+      "id": 76,
+      "model": "단테",
+      "content": "<Apa yang terjadi pada Saru... pada akhirnya?>"
+    },
+    {
+      "id": 77,
+      "model": "료슈",
+      "content": "*huff*... Dia mati sebelum waktunya."
+    },
+    {
+      "id": 78,
+      "model": "료슈",
+      "content": "Aku tak ingat alasannya, tapi ada suatu hari ketika Saru tak berhenti merengek kesakitan. Dan aku... mengurung diri di kamarku, menangis."
+    },
+    {
+      "id": 79,
+      "model": "히스클리프",
+      "content": "<i>Lo</i> yang nangis? Bukan orang lain...?"
+    },
+    {
+      "id": 80,
+      "model": "료슈",
+      "content": "Siapa lagi? T.S. itu aku."
+    },
+    {
+      "id": 81,
+      "content": "Bahkan setelah menyaksikan potongan ingatan itu, Heathcliff tampak sama sekali tidak yakin."
+    },
+    {
+      "id": 82,
+      "model": "료슈",
+      "content": "Dan saat aku berduka... Callisto menawarkan sebuah solusi. Katanya dia akan memberiku sebuah hadiah keesokan harinya."
+    },
+    {
+      "id": 83,
+      "model": "료슈2",
+      "content": "Dan apa yang kuterima adalah..."
+    },
+    {
+      "id": 84,
+      "model": "료슈",
+      "content": "Sesuatu yang dia sebut Pedang Tulang Binatang. Sebuah tanto yang akan merengek dan menggonggong dengan suara Saru setiap kali diayunkan."
+    },
+    {
+      "id": 85,
+      "model": "뉴키라",
+      "content": "Ih—jijik deh."
+    },
+    {
+      "id": 86,
+      "model": "뉴키라",
+      "content": "... Aku slalu ngira ada yang aneh sama paman robot itu... Jadi begitu caranya dia membunuh anjingmu, ya?"
+    },
+    {
+      "id": 87,
+      "model": "료슈",
+      "content": "Tidak. Dia tidak membunuh Saru. Tanto itu masih hidup."
+    },
+    {
+      "id": 88,
+      "model": "단테",
+      "content": "<Barusan kamu bilang <i>hidup</i>?>"
+    },
+    {
+      "id": 89,
+      "model": "히스클리프",
+      "content": "Sialan... Beneran psikopat..."
+    },
+    {
+      "id": 90,
+      "model": "료슈",
+      "content": "Mata Saru tertanam di sana seperti hiasan, dan mereka menatapku seolah menuduh. Jantung kecilnya berdetak seolah gemetar ketakutan."
+    },
+    {
+      "id": 91,
+      "model": "료슈",
+      "content": "Pemandangan yang mengerikan. Dan aku merasa \"iba.\""
+    },
+    {
+      "id": 92,
+      "model": "료슈2",
+      "content": "*huff* Jadi kupersingkat sisa waktunya... dengan tanganku sendiri."
+    },
+    {
+      "id": 93,
+      "model": "히스클리프",
+      "content": "Gua jadi mikir habis denger semua itu... Kenapa lo masih ngurusin hal \"seni\" itu, sih? Jujur—habis ngelihat hal kayak gitu, lo pasti kepengen ngejauh sejauh mungkin, kan?"
+    },
+    {
+      "id": 94,
+      "model": "뉴키라",
+      "content": "Iya kan? Hal-hal yang dia sebut \"karya seni\" itu semuanya kutukan banget. Beneran bikin mimpi buruk."
+    },
+    {
+      "id": 95,
+      "model": "뉴키라",
+      "content": "Kayak, aku belum pernah lihat karya seni Ring selain punya Albina dan Nursefather-nya... mungkin aja aku cuma pemula dalam hal-hal gitu, tapi ya, karya mereka nggak pernah ngasih aura seni sama sekali ke aku."
+    },
+    {
+      "id": 96,
+      "model": "료슈",
+      "content": "Aku berpikiran sama."
+    },
+    {
+      "id": 97,
+      "model": "료슈",
+      "content": "Yah, aku ketakutan pada awalnya. Namun seiring aku mempelajari lebih banyak, ada beberapa aspek yang sesuai dengan seleraku."
+    },
+    {
+      "id": 98,
+      "model": "돈키호테",
+      "content": "Kamu menemukan daya tarik.. pada ciptaan yang aneh itu...?"
+    },
+    {
+      "id": 99,
+      "model": "료슈",
+      "content": "Dari apa yang kamu ceritakan tentang Callisto, tampaknya dia gagal mematuhi sarannya sendiri..."
+    },
+    {
+      "id": 100,
+      "model": "료슈",
+      "content": "Tetapi ada sesuatu yang selalu dia katakan."
+    },
+    {
+      "id": 101,
+      "model": "료슈",
+      "content": "\"Seni itu sepenuhnya subjektif, dan karena itu seseorang tidak boleh mengharapkan pemahaman dari orang lain.\""
+    },
+    {
+      "id": 102,
+      "model": "료슈",
+      "content": "*huff* Hal yang ganjil, hal yang mengerikan... Ada keindahan yang terletak di dalam keganjilan dari semua itu."
+    },
+    {
+      "id": 103,
+      "model": "히스클리프",
+      "content": "... Gua nggak begitu paham, sih, tapi terserah lo deh..."
+    },
+    {
+      "id": 104,
+      "model": "히스클리프",
+      "content": "Tapi buset dah. Gimana caranya lo bisa terbiasa sama hal kayak gitu?"
+    },
+    {
+      "id": 105,
+      "model": "료슈",
+      "content": "Kenapa kamu perlu paham? Kamu bukan seniman."
+    },
+    {
+      "id": 106,
+      "model": "료슈",
+      "content": "Aku terbiasa dengannya, tetapi karya seni instalasi keparat Callisto itu menyebabkan ketakutan di malam hari dan mimpi buruk untuk—"
+    },
+    {
+      "id": 107,
+      "model": "료슈",
+      "content": "......."
+    },
+    {
+      "id": 108,
+      "content": "*gemeretak*"
+    },
+    {
+      "id": 109,
+      "content": "Sarung pedang itu bergerak, dan Ryōshū pun berhenti."
+    },
+    {
+      "id": 110,
+      "content": "Benda itu gemetar, tetapi sekaligus ada keaktifan yang aneh padanya—seolah-olah gemetar di antara rasa takut dan antisipasi."
+    },
+    {
+      "id": 111,
+      "model": "료슈",
+      "content": "Ketakutan di malam hari... menangis karena mimpi buruk... di <ruby=Rumah Laba-laba>House of Spiders</ruby>...?"
+    },
+    {
+      "id": 112,
+      "model": "뉴키라",
+      "content": "Sebenarnya ada orang yang takut sama hal-hal Ring di zamanmu dulu?"
+    },
+    {
+      "id": 113,
+      "model": "료슈",
+      "content": "......."
+    },
+    {
+      "id": 114,
+      "model": "료슈",
+      "content": "Aku harus memeriksa sesuatu. Kita sudah cukup melihat di sini—ayo kembali."
+    },
+    {
+      "id": 115,
+      "model": "단테",
+      "content": "<Iya, ayo. Lagi pula tidak ada hal lain yang perlu diperiksa di sekitar sini.>"
+    },
+    {
+      "id": 116,
+      "content": "Setelah pemeriksaan selesai, kami segera mengikuti Ryōshū kembali."
+    },
+    {
+      "id": 117,
+      "place": "Koridor Nursefather Ring",
+      "content": "Dia berdiri di depan \"karya seni\" yang tertutup kain, tenggelam dalam pikiran."
+    },
+    {
+      "id": 118,
+      "model": "료슈",
+      "content": "Di sini. Dulu ada karya seni besar yang dipajang di sini."
+    },
+    {
+      "id": 119,
+      "model": "료슈",
+      "content": "... Aku tak tahu dorongan apa yang merasukinya, tetapi keparat itu meributkan hal-hal, mengatakan bahwa dia perlu berlatih agar tak kehilangan sentuhannya."
+    },
+    {
+      "id": 120,
+      "place": "Koridor Nursefather Ring, Masa Lalu",
+      "model": "아라야공백",
+      "content": "*hiks* Ibu..."
+    },
+    {
+      "id": 121,
+      "model": "과거료슈3",
+      "content": "... Ada apa?"
+    },
+    {
+      "id": 122,
+      "model": "아라야공백",
+      "content": "Di-di situ..."
+    },
+    {
+      "id": 123,
+      "model": "과거료슈3",
+      "content": "... Kukira aku sudah menyuruhmu untuk tetap mengadakan pameran di kamarmu."
+    },
+    {
+      "id": 124,
+      "model": "약지아비",
+      "content": "Ah, kamu sudah kembali, Yoshihide."
+    },
+    {
+      "id": 125,
+      "model": "약지아비",
+      "content": "Aku memutuskan untuk mencoba seni instalasi dengan skala yang agak lebih besar kali ini, tetapi aku kehabisan ruang di galeriku."
+    },
+    {
+      "id": 126,
+      "model": "료슈딸2",
+      "content": "I-Ibu... orang-orang itu..."
+    },
+    {
+      "id": 127,
+      "model": "약지아비",
+      "content": "Yoshihide tersayang, Araya telah mencapai usia di mana dia dapat diperkenalkan ke dunia estetika. Tentu ini tidak akan menjadi masalah?"
+    },
+    {
+      "id": 128,
+      "model": "과거료슈3",
+      "content": "Tentu saja masalah."
+    },
+    {
+      "id": 129,
+      "model": "과거료슈3",
+      "content": "... Kamu menyukainya dan aku memperoleh selera itu tidak berarti Araya juga akan menyukainya."
+    },
+    {
+      "id": 130,
+      "model": "료슈딸2",
+      "content": "Huwaaa! *hiks*"
+    },
+    {
+      "id": 131,
+      "model": "과거료슈3",
+      "content": "... Ayo kita kembali ke kamar."
+    },
+    {
+      "id": 132,
+      "place": "Koridor Nursefather Ring",
+      "model": "료슈",
+      "content": "... Aku memeluk sesuatu di pelukanku. Itu sedang menangis."
+    },
+    {
+      "id": 133,
+      "place": -1,
+      "model": "료슈",
+      "content": "Saru...? Bukan. Terlalu besar."
+    },
+    {
+      "id": 134,
+      "content": "Ingatan yang terkoyak tak mungkin menjadi utuh kembali tidak peduli berapa banyak potongan yang direkatkan."
+    },
+    {
+      "id": 135,
+      "content": "Kami bisa saja menceritakan kepada Ryōshū semua yang kami ketahui tentang Araya, tapi hal itu tidak akan pernah benar-benar tersampaikan kepadanya."
+    },
+    {
+      "id": 136,
+      "model": "료슈9장",
+      "content": "... Begitu. Kehampaan ini... pasti \"Araya.\""
+    },
+    {
+      "id": 137,
+      "place": "Koridor Nursefather Ring",
+      "content": "Sensasi dan emosi atas apa yang telah dikosongkan mulai terjerat dengan ingatan Ryōshū..."
+    },
+    {
+      "id": 138,
+      "content": "... dan hal itu memungkinkan kita untuk mengenang Araya bersama-sama."
+    },
+    {
+      "id": 139,
+      "content": "Suara gemeretak lembut yang dikeluarkan Araya seolah menunjukkan betapa senangnya dia dengan langkah kecil ini."
+    },
+    {
+      "id": 140,
+      "model": "단테",
+      "content": "<Baiklah. Ayo kita cek pintu berikutnya.>"
+    },
+    {
+      "id": 141,
+      "content": "Kami memasuki beberapa <ruby=Pintu Belakang>Backdoors</ruby> lagi yang ditunjukkan oleh Alan,"
+    },
+    {
+      "id": 142,
+      "content": "tapi sayangnya, tidak ada satupun tempat yang kami datangi dapat membangkitkan ingatan Ryōshū."
+    },
+    {
+      "id": 143,
+      "model": "뉴키라",
+      "content": "Hampir nggak ada apa-apa di sini. Kayaknya kita udah—hmm?"
+    },
+    {
+      "id": 144,
+      "model": "뉴키라",
+      "content": "H-Ha...? Mereka kok bisa masuk ke sini?"
+    },
+    {
+      "id": 145,
+      "content": "Terkejut, Kira menunjuk ke depan, di mana sosok-sosok yang mengenakan topeng hewan sedang mengangkut apa yang tampak seperti gumpalan daging besar yang tersembunyi di balik semacam tenda."
+    },
+    {
+      "id": 146,
+      "model": "단테",
+      "content": "<Penyerang Ring dari sebelumnya...?>"
+    },
+    {
+      "id": 147,
+      "model": "돈키호테",
+      "content": "Bukankah anda telah bersabda bahwa engkau telah menyegel pintu itu sebelumnya? Lalu bagaimana para penjahat ini bisa berdiri di hadapan kita sekali lagi?!"
+    },
+    {
+      "id": 148,
+      "model": "앨런마스크",
+      "content": "Mereka mungkin menyusup melalui rute yang sepenuhnya berbeda. <ruby=Pintu Belakang>Backdoor</ruby> lainnya."
+    },
+    {
+      "id": 149,
+      "model": "앨런마스크",
+      "content": "Seperti yang bisa kalian lihat... tujuan mereka tampaknya adalah untuk mengambil kembali karya seni Nursefather Ring."
+    },
+    {
+      "id": 150,
+      "model": "야수파1",
+      "content": "Cepat, cepat!"
+    },
+    {
+      "id": 151,
+      "model": "야수파2",
+      "content": "Bawa sebanyak mungkin yang kalian bisa sebelum mundur!"
+    },
+    {
+      "id": 152,
+      "model": "뉴키라",
+      "content": "Eh? Bukannya si Paman robot udah ketinggalan jaman? Dia punya banyak penggemar di sini!"
+    },
+    {
+      "id": 153,
+      "model": "료슈",
+      "content": "... Hah. Apa karya seninya memiliki nilai dalam dirinya sendiri,"
+    },
+    {
+      "id": 154,
+      "model": "료슈",
+      "content": "atau ini hanya kasus premi anumerta dari \"efek kematian?\" Pikirkan tentang itu."
+    },
+    {
+      "id": 155,
+      "model": "앨런마스크",
+      "content": "Beberapa benda sudah diambil."
+    },
+    {
+      "id": 156,
+      "model": "앨런마스크",
+      "content": "Tentu saja, benda-benda itu tidak bernilai bagi kedua perusahaan kita..."
+    },
+    {
+      "id": 157,
+      "model": "료슈",
+      "content": "Melihat mereka berkeringat dan kesulitan menyeret karya-karya medioker itu bersama mereka... Cukup lucu."
+    },
+    {
+      "id": 158,
+      "model": "료슈",
+      "content": "Namun membayangkan bagaimana karya-karya itu akan diberi label dengan gagasan menyedihkan tentang \"warisan\" yang terhubung dengan namaku di plak deskripsi mereka...? Sangat tidak menyenangkan."
+    },
+    {
+      "id": 159,
+      "model": "오티스",
+      "content": "Mereka mungkin sibuk mengangkut barang-barang itu untuk saat ini, tetapi ada kemungkinan mereka akan menemukan alasan untuk membahayakan personel Wayfarer dan LCE yang ditempatkan di sini, Manajer Eksekutif."
+    },
+    {
+      "id": 160,
+      "model": "오티스",
+      "content": "Akan lebih bijaksana untuk memusnahkan mereka tanpa menunda-nunda, mengingat reputasi Ring."
+    },
+    {
+      "id": 161,
+      "model": "단테",
+      "content": "<Outis benar. Lebih baik habisi mereka sebelum mereka melakukan hal yang sama.>"
+    },
+    {
+      "id": 162,
+      "model": "단테",
+      "content": "<... Halo, sepertinya kita kedatangan tamu. Tolong bantuannya.>"
+    },
+    {
+      "id": 163,
+      "content": "Radio tidak berdengung dengan balasan dari para <ruby=Pendosa>Sinner</ruby> kali ini... tapi seharusnya tidak apa-apa."
+    }
+  ]
+}

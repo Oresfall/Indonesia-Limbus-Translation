@@ -1,0 +1,69 @@
+{
+    "dataList": [
+        {
+            "id": 9008301,
+            "name": "Cetacean Strand",
+            "desc": "Whale of the Porous Hand menerima damage ketika unit ini dikalahkan."
+        },
+        {
+            "id": 9008302,
+            "name": "Connected Pain",
+            "desc": "Saat mati, beri 10 damage ke connected Mermaids. Lalu, beri 2 Damage Up giliran berikutnya.\nThis efek tidak dapat turun the connected Mermaids' HP di bawah 1."
+        },
+        {
+            "id": 9008401,
+            "name": "Easy Breathing",
+            "desc": "Jika unit ini memiliki <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></link></u>, peroleh 5 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></link></u> upon Menang Clash."
+        },
+        {
+            "id": 9008402,
+            "name": "Two Sides Of a Coin",
+            "desc": "Setiap giliran, jika Coin pertama 'Heads Hits', peroleh 1 Damage Up giliran berikutnya.\nJika Coin pertama 'Tails Hits', peroleh 1 Damage Down giliran berikutnya."
+        },
+        {
+            "id": 9008601,
+            "name": "Ain't That a Prick?",
+            "desc": "Saat Menyerang, jika target memiliki <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, regain SP setara dengan <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> pada target"
+        },
+        {
+            "id": 9008701,
+            "name": "To the Front Lines!!",
+            "desc": "Ketika memperoleh Protection, peroleh 1 tambahan <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protection</color></link></u> jika Speed unit ini berada pada 1"
+        },
+        {
+            "id": 9008702,
+            "name": "Ain't That a Prick?",
+            "desc": "Saat Menyerang, jika target memiliki <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, regain SP setara dengan <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> pada target"
+        },
+        {
+            "id": 9101201,
+            "name": "Two Sides Of a Coin",
+            "desc": "Setiap giliran, jika Coin pertama 'Heads Hits', peroleh 2 Damage Up dan 1 Attack Power Up giliran berikutnya.\nJika Coin pertama 'Tails Hits', peroleh 2 Damage Down dan 1 Attack Power Down giliran berikutnya."
+        },
+        {
+            "id": 9101202,
+            "name": "No... Get Away From Me!",
+            "desc": "Upon Kalah Clash, peroleh 4 Poise dan 3 Poise Count."
+        },
+        {
+            "id": 9101203,
+            "name": "Huzzah, Men!",
+            "desc": "On Critical Hit, peroleh 1 Plus Coin Boost giliran berikutnya.\nPulihkan 15 SP pada diri sendiri.\nSemua other kawan pulihkan 10 SP.\n(Aktifkan sekali per giliran)"
+        },
+        {
+            "id": 9101204,
+            "name": "What Are You Doing?!",
+            "desc": "Being captured in this encounter causes semua kawan to kehilangan 30 SP"
+        },
+        {
+            "id": 9101205,
+            "name": "Ain't That a Prick?",
+            "desc": "Jika target memiliki <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> Saat Menyerang, regain SP setara dengan <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> pada target"
+        },
+        {
+            "id": 9101101,
+            "name": "Cetacean Strand",
+            "desc": "Whale of the Porous Hand menerima damage ketika unit ini dikalahkan."
+        }
+    ]
+}

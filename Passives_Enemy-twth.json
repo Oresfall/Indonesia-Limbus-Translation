@@ -1,0 +1,64 @@
+{
+  "dataList": [
+    {
+      "id": 9104301,
+      "name": "Intense Primary Color - Rouge",
+      "desc": "Sebelum menyerang, jika target tidak memiliki [Laceration], beri +3 [Laceration] Count (sekali per giliran per musuh)"
+    },
+    {
+      "id": 9104302,
+      "name": "Le Fauvisme - Masque de Chien",
+      "desc": "Saat Menyerang dengan Skill, beri 1 [BearClawWound]\n\nPeroleh 1 [Enhancement] giliran berikutnya untuk setiap 4 [BearClawWound] diberikan (2 kali per giliran)",
+      "flavor": "\"The first step is always but a single animal.\"\n\n\"And dengan setiap quest for art dan ferity, another beast is layered atop the previous specimen.'\""
+    },
+    {
+      "id": 9104303,
+      "name": "Welling Inspiration",
+      "desc": "Ketika unit ini atau kawan diserang, peroleh 1 [AttackUp] giliran berikutnya (sekali per Skill, 3 kali per giliran)"
+    },
+    {
+      "id": 9104304,
+      "name": "Sapuan Kuas Final",
+      "desc": "Ketika unit ini terbunuh, beri 3 [BearClawWound] pada 2 musuh acak"
+    },
+    {
+      "id": 9104501,
+      "name": "Intense Primary Color - Bleu",
+      "desc": "Sebelum menyerang, jika target tidak memiliki [Sinking], beri +3 Count [Sinking] (sekali per giliran per musuh)"
+    },
+    {
+      "id": 9104502,
+      "name": "Le Fauvisme - Masque de Chèvre-Hibou",
+      "desc": "Saat Menyerang dengan Skill, beri 1 [EagleClawWound]\n- Jika unit ini memiliki [Agility], beri 1 tambahan [EagleClawWound]\n\nPeroleh 1 [Agility] giliran berikutnya untuk setiap 4 [EagleClawWound] diberikan (2 kali per giliran)",
+      "flavor": "\"There are beasts that fall in dan out of vogue within the School of Fauvism, yes—but a true artist must terima fierce pride in that single animal as the underdrawing which best represents their unique self.\"\n\n\"Despite this wisdom, however, terdapat some who flit dari beast to beast, as though the self is nothing lebih dari a costume to be worn dan discarded... Hm\""
+    },
+    {
+      "id": 9104503,
+      "name": "Alacritous Expression",
+      "desc": "Jika Speed unit ini lebih cepat daripada target, Clash Power +1"
+    },
+    {
+      "id": 9104504,
+      "name": "Sapuan Kuas Final",
+      "desc": "Ketika unit ini terbunuh, beri 3 [EagleClawWound] pada 2 musuh acak"
+    },
+    {
+      "id": 9103401,
+      "name": "Prescript Delivered on Paper Slips",
+      "desc": "Awal Giliran:\n- Peroleh [IndexPrescriptEnemy_0]/[IndexPrescriptEnemy_1]/[IndexPrescriptEnemy_2]/[IndexPrescriptEnemy_3] berdasarkan [BlessingOfIndexPrescriptEnemy] Stack pada diri sendiri\n- Beri [IndexPrescriptTargetToPersonality] to Pendosa acak (dalam Pertempuran Terfokus, attacks prioritaskan Pendosa yang memiliki [IndexPrescriptTargetToPersonality])",
+      "flavor": "\"Some of you may sudah be aware that the Prescripts are delivered through various means. Of these, the Slip Kertas is the most commonplace—dan the most preferred sebanyak many.\""
+    },
+    {
+      "id": 9103402,
+      "name": "Keyakinan Prescript",
+      "desc": "Akhir Giliran: Jika [IndexPrescript_Base] dilakukan giliran ini, pulihkan 5 SP dan peroleh 2 [BlessingOfIndexPrescriptEnemy] (sekali per giliran)\n- Jika unit ini memiliki [IndexPrescriptEnemy_2], atau jika target memiliki [IndexPrescriptTargetToPersonality] ketika unit ini is executing [IndexPrescript_Base], pulihkan 10 SP dan peroleh 3 [BlessingOfIndexPrescriptEnemy] saja\n\nAkhir Giliran: Jika [IndexPrescript_Base] tidak dilakukan giliran ini, peroleh 10 [KarmaOfIndexEnemy]\n- Pada kurang dari 6 [BlessingOfIndexPrescriptEnemy], peroleh 1 [BlessingOfIndexPrescriptEnemy]\n- Pada 9 [BlessingOfIndexPrescriptEnemy], tidak memperoleh [KarmaOfIndexEnemy]",
+      "flavor": "\"Lalu the question we must ask is: How many forms might the Prescripts terima? Do they semua flow dari a single origin, atau are there distinct entities behind setiap?\"\n\n\"Unraveling these mysteries is the purpose of the Society for the Research of the Index. Now, would you like to join us dan explore the answers together?\""
+    },
+    {
+      "id": 9103403,
+      "name": "Proselyte's Blade",
+      "desc": "Beri +2.5% damage terhadap [IndexPrescriptTargetToPersonality] untuk setiap [BlessingOfIndexPrescriptEnemy] pada diri sendiri (maks 20%)\n- Pada 9 [BlessingOfIndexPrescriptEnemy], beri +30% damage terhadap semua target saja\n\nSaat Serang terhadap [IndexPrescriptTargetToPersonality], peroleh 1 [Breath] dan beri 1 [Sinking] (sekali per giliran)\n- Menambah jumlah dari kali efek ini can aktifkan per giliran sebanyak 1 untuk setiap 3 [BlessingOfIndexPrescriptEnemy] (maks 2)",
+      "flavor": "A modest blade, unassuming dan unworthy of note.\nYet in following the Prescript—the fulfilling of its directives, the aid of Messengers that emerge dari unseen places, the teachings of the Proxies—is it slowly perfected menjadi a weapon imbued dengan a singular uniqueness."
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+    "dataList": [
+        {
+            "id": 9009801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Stab",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 4 Bleed"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tear Up Wound",
+                    "desc": "[WinDuel] Pulihkan 5 SP.\nBeri +5% damage per [Laceration] pada target",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Bleed"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Bleed"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Bleed"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009803,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Protect the Town!",
+                    "desc": "[WhenUse] Peroleh 5 Poise",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Peroleh +1 Poise Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Pulihkan 4 SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Peroleh +1 Poise Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Pulihkan 4 SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Peroleh +1 Poise Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Pulihkan 4 SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Peroleh +1 Poise Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Pulihkan 4 SP"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Javelin",
+                    "desc": "[WhenUse] Peroleh 5 Poise dan +2 Poise Count",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Bind dan 2 Damage Down giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009805,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Guard",
+                    "desc": "Ketika attacked selama unit ini memiliki Perisai, peroleh 1 Level Offense Up giliran berikutnya",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Quick Jabs",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri +2 Bleed Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri +1 Bleed Count"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Carve Wound",
+                    "desc": "[WinDuel] Pulihkan 5 SP.\nBeri +5% damage per [Laceration] pada target",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +1 Bleed Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +1 Bleed Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +1 Bleed Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +1 Bleed Count"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009903,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Protect the Town!",
+                    "desc": "[WhenUse] Peroleh 5 Poise",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Peroleh +1 Poise Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Pulihkan 4 SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Peroleh +1 Poise Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Pulihkan 4 SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Peroleh +1 Poise Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Pulihkan 4 SP"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Peroleh +1 Poise Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Pulihkan 4 SP"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Javelin",
+                    "desc": "[WhenUse] Peroleh 5 Poise dan +2 Poise Count",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Bind dan 2 Fragile giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9009905,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Menghindar",
+                    "desc": "[OnSucceedEvade] Peroleh 1 Level Offense Up giliran berikutnya (Maks 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

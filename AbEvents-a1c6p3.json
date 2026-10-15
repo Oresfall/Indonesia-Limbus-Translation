@@ -1,0 +1,86 @@
+{
+  "dataList": [
+    {
+      "id": 816601,
+      "title": "Heathcliff, The Heartbroken",
+      "prevDesc": "",
+      "eventDesc": "Heathcliff the Heartbroken gemetar dan terhuyung.\nCairan apa yang menetes dari mulutnya? Apakah itu darah... atau air mata kesedihan?\n... Ini mungkin kesempatan kita untuk menyampaikan sesuatu kepada Heathcliff.",
+      "behaveDesc": "Siapa yang harus aku pilih?",
+      "successDesc": [
+        "Aku mendekati Heathcliff bersama [{0}] di sisiku.\n\n\"<Heathcliff.>\"\n\nAku mencoba berbicara padanya dengan hati-hati, tapi dia mundur seolah-olah dia takut akan sesuatu.\n\n... Mungkin suaraku tidak bisa menjangkaunya.\n\nAku meminta {0} untuk meneruskan kata-kataku kepada Heathcliff.\n\n\"<Aku tidak bisa berempati dengan semua yang telah kamu lalui. Aku tidak punya pengalamannya...>\"\n\n\"<... Tapi aku tahu bahwa tindakan ini tidak akan melakukan apa pun untuk mengurangi rasa sakitmu.>\"\n\nMungkin kata-kata itu memberikan pengaruh padanya.\n\nHeathcliff the Heartbroken menggeliat dan menggeram pelan, seolah ada sesuatu di dalam yang sakit.\n\nAku tidak tahu apakah ini membantunya, atau apakah yang kami lakukan hanyalah menaburkan garam di atas lukanya, tapi...\n\n... dia bangkit kembali ke kakinya. Aku yakin ini masih jauh dari selesai."
+      ],
+      "failureDesc": [
+        "Aku mendekati Heathcliff bersama [{0}] di sisiku.\n\n\"<Heathcliff.>\"\n\nAku mencoba berbicara padanya dengan hati-hati, tapi dia mundur seolah-olah dia takut akan sesuatu.\n\n... Mungkin suaraku tidak bisa menjangkaunya.\n\nAku meminta {0} untuk meneruskan kata-kataku kepada Heathcliff.\n\n\"<Aku tidak bisa berempati dengan semua yang telah kamu lalui. Aku tidak punya pengalamannya...>\"\n\n\"<... Tapi aku tahu bahwa tindakan ini tidak akan melakukan apa pun untuk mengurangi rasa sakitmu.>\"\n\n\"...!!!!\"\n\nDia tiba-tiba mengeluarkan raungan pilu.\n\nMungkin kata-kataku tidak bisa menembus dirinya, atau mungkin aku baru saja menaburkan garam di lukanya.\n\nTangisan menyakitkan itu menusuk hati kami semua. Hatiku, dan para Sinners..."
+      ]
+    },
+    {
+      "id": 816602,
+      "title": "Heathcliff, The Heartbroken",
+      "prevDesc": "",
+      "eventDesc": "Sekali lagi, Heathcliff the Heartbroken jatuh ke tanah.\n\nDia mengalami hiperventilasi dan menggelengkan kepalanya dengan liar. Itu adalah pemandangan yang sulit untuk dilihat.\n\nCairan itu menggenang dan terus menggenang di tanah sampai menjadi genangan kecil.",
+      "behaveDesc": "Aku sekarang harus memikul kesedihan Heathcliff. Siapa yang akan menemaniku?",
+      "successDesc": [
+        "Sekali lagi, aku mendekati Heathcliff bersama [{0}] di sisiku.\n\n\"<Jangan biarkan kebencian itu melahapmu, Heathcliff.>\"\n\nAh, tidak. Bukan ini...\n\nAku harus mengatakan sesuatu yang benar-benar bisa menjangkau ke dalam hatinya.\n\n\"<Semuanya telah berubah. Kamu, orang-orang di sekitarmu... tidak seperti diri kalian di masa lalu, tidak lagi.>\"\n\n\"<Kamu masih bisa berubah, dan kamu memiliki kemampuan untuk melakukannya. Dan ada orang-orang yang bisa membantumu di sepanjang jalan juga.>\"\n\n\"<Aku akan memutar jam sebanyak yang kamu butuhkan.>\"\n\n\"<Sampai kamu akhirnya bisa melihat jalan yang seharusnya kamu lalui...>\"\n\n... Aku ingin tahu apakah dia bisa mendengar kami.\n\nAku hanya bisa berharap geraman pelan itu adalah tanda positif..."
+      ],
+      "failureDesc": [
+        "Aku mendekati Heathcliff bersama [{0}] di sisiku.\n\n\"<Jangan biarkan kebencian itu melahapmu, Heathcliff.>\"\n\nTidak, aku juga mengatakan sesuatu seperti ini saat Sinclair hampir meleleh waktu itu.\n\nAku harus mengatakan sesuatu yang benar-benar bisa menjangkau ke dalam hati Heathcliff...\n\n\"...!\"\n\nMungkin aku terlalu ragu-ragu.\n\nAtau mungkin dia merasa terancam oleh Sinner di sebelahku, yang berdiri siap dengan senjata mereka terhunus.\n\nHeathcliff the Heartbroken tiba-tiba melompat dan mengambil posisi tegang dan agresif.\n\nMungkin mencoba menenangkannya bukan lagi sebuah pilihan..."
+      ]
+    },
+    {
+      "id": 817101,
+      "title": "Nelly",
+      "prevDesc": "",
+      "eventDesc": "Seorang wanita berdiri di depan kita. Tubuh dan pikirannya telah habis, terbebani, dan tenggelam ke dalam pelupaan waktu.",
+      "behaveDesc": "Siapa yang akan berbicara dengan Nelly?",
+      "successDesc": [
+        "{0} mendekati Nelly.\n\nAda keinginan aneh di matanya.\n\nMungkin itu rasa iri, atau mungkin itu antisipasi...\n\n\"Dia...\"\n\n\"Memberiku cermin yang paling indah, paling memikat. Itu secantik manikur yang indah.\"\n\nNelly bergidik, ditangkap oleh emosi yang tak terlukiskan. Dia bergumam dengan suara dingin dan datar.\n\n\"Di sana, aku melihat. Jenis... jenis kehidupan yang terbentang di depanku.\"\n\n{0} melompat mundur, menjauh dari suara logam yang tiba-tiba, tapi sudah terlambat.\n\nRantai yang meledak dari koper Nelly melilit lengan {0}.\n\nMeskipun pergerakan {0} mungkin terbatas... mungkin ada cara untuk menggunakan itu melawan Nelly.",
+        "{0} mendekati Nelly.\n\nAda keinginan aneh di matanya.\n\nMungkin itu rasa iri, atau mungkin itu antisipasi...\n\n\"Dia...\"\n\n\"Memberiku cermin yang paling indah, paling memikat. Itu secantik manikur yang indah.\"\n\nNelly bergidik, ditangkap oleh emosi yang tak terlukiskan. Dia bergumam dengan suara dingin dan datar.\n\n\"Di sana, aku melihat. Jenis... jenis kehidupan yang terbentang di depanku.\"\n\n{0} melompat mundur, menjauh dari suara logam yang tiba-tiba, tapi sudah terlambat.\n\nRantai yang meledak dari koper Nelly melilit lengan {0}.\n\n\"Aku menolak untuk terikat olehmu... dan Nyonya Catherine. Sudah selesai.\"\n\nMeskipun pergerakan {0} terbatas... mungkin ada cara untuk menggunakan itu melawan Nelly."
+      ],
+      "failureDesc": [
+        "{0} mendekati Nelly.\n\nAda keinginan aneh di matanya.\n\nMungkin itu rasa iri, atau mungkin itu antisipasi...\n\n\"Dia...\"\n\n\"Memberiku cermin yang paling indah, paling memikat. Itu secantik manikur yang indah.\"\n\nNelly bergidik, ditangkap oleh emosi yang tak terlukiskan. Dia bergumam dengan suara dingin dan datar.\n\n\"Di sana, aku melihat. Jenis... jenis kehidupan yang terbentang di depanku.\"\n\nMungkin kesedihan dalam suaranya mengalihkan perhatian {0}.\n\nRantai yang meledak dari koper Nelly melilit seluruh tubuh {0}.\n\n{0} segera dirantai ke pagar, bagian vital mereka terekspos dengan jelas.\n\n... Kita tidak punya pilihan selain melanjutkan pertarungan ini.",
+        "{0} mendekati Nelly.\n\nAda keinginan aneh di matanya.\n\nMungkin itu rasa iri, atau mungkin itu antisipasi...\n\n\"Dia...\"\n\n\"Memberiku cermin yang paling indah, paling memikat. Itu secantik manikur yang indah.\"\n\nNelly bergidik, ditangkap oleh emosi yang tak terlukiskan. Dia bergumam dengan suara dingin dan datar.\n\n\"Di sana, aku melihat. Jenis... jenis kehidupan yang terbentang di depanku.\"\n\nMungkin kesedihan dalam suaranya mengalihkan perhatian {0}.\n\nRantai yang meledak dari koper Nelly melilit seluruh tubuh {0}.\n\n\"Aku menolak untuk terikat olehmu... dan Nyonya Catherine. Sudah selesai.\"\n\n{0} segera dirantai ke pagar, bagian vital mereka terekspos dengan jelas.\n\n... Kita tidak punya pilihan selain melanjutkan pertarungan ini."
+      ]
+    },
+    {
+      "id": 817302,
+      "title": "",
+      "prevDesc": "",
+      "eventDesc": "\"Apa yang... terjadi...?\"\n\nSuara lemah dan putus asa bergema. Suara itu bergetar dengan sangat hebat.\n\n\"Ini sama sekali bukan apa yang aku inginkan, tidak...\"\n\nAku dengan hati-hati mengajukan pertanyaan pada suara itu.\n\n\"<Jadi semua ini adalah...>\"\n\n\"Aku tidak pernah menginginkan Heathcliff yang ada untuk Catherine dan hanya Catherine saja...\"\n\n... Aku rasa dia tidak bisa mendengar suara kita.\n\n\"Semua yang aku inginkan... adalah agar setiap Heathcliff bahagia...\"\n\n\"Semua yang aku inginkan... adalah membunuh setiap keberadaan diriku sendiri...\"\n\n\"Tolong, seseorang... bantu aku.\"\n\n\"Dapatkah seseorang mendengarku?!\"",
+      "behaveDesc": "Berteriak. Berteriak bahwa kita bisa mendengarnya.",
+      "successDesc": [
+        "\"Ini adalah...\"\n\nCahaya hangat dari Golden Bough mulai memancar dari suatu tempat.\n\n\"Heathcliff?! Apakah itu kamu?\"\n\n\"Y-ya, Cathy! Aku kembali! Aku...\"\n\nKesedihan. Kegembiraan. Amarah. Obsesi... Aku bisa merasakan badai emosi mengamuk di dalam diri Heathcliff.\n\n\"Oh... Namun semuanya sunyi... Aku tidak bisa mendengar suaranya...\"\n\nEmosi yang sama dapat dirasakan dari suara Catherine.\n\n\"Sialan...\"\n\nHawa dingin perlahan mengambil alih kehangatan saat cahaya itu meredup.\n\nAku tidak lagi bisa mendengar suara Catherine.\n\n\"Tsk. Aku tahu ini tidak akan semudah itu.\"\n\nTapi Heathcliff menolak untuk membiarkan kekecewaan menahannya. Sebaliknya, dia terus maju dengan tekad.\n\n... Para Sinners lainnya mengikuti, bersiap untuk pertempuran."
+      ],
+      "failureDesc": [
+        "\"<Aku rasa dia tidak bisa mendengar kita...>\"\n\nHeathcliff dan aku berteriak sekeras yang kami bisa, tetapi tidak ada kata-kata kami yang menjangkaunya.\n\nHanya ada keheningan total, kecuali isak tangis Catherine yang tenang.\n\n\"... Tidak apa-apa. Aku tidak mengira ini akan semudah itu.\"\n\n\"Tapi itu... itu suaranya. Aku yakin itu.\"\n\n\"Aku akan berteriak dan berteriak sampai dia mendengarku. Aku akan berteriak bahwa aku tidak akan pernah lari lagi.\"\n\nHeathcliff menggertakkan giginya, bertekad. Para Sinners lainnya membentuk barisan di sampingnya, bersemangat oleh tekadnya.\n\nYa. Kita masih bisa melakukan ini."
+      ]
+    },
+    {
+      "id": 817304,
+      "title": "",
+      "prevDesc": "",
+      "eventDesc": "\"Cathy, aku...!\"\n\nTepat saat Heathcliff mulai berbicara, teriakan melengking merobek kepala kami.\n\n\"Catherine!!! Jangan menghalangiku sekarang!!!\"\n\n\"Kita sudah berjanji, bukan? Kita berjanji untuk membunuh diri kita semua agar Heathcliff bisa menemukan kebahagiaan!!!\"\n\nSuara tajam itu diwarnai dengan kehangatan yang aneh, seperti suara yang berbeda.\n\n\"Tidak, aku...\"\n\nMungkin kedua Catherine sedang berebut kendali.\n\nSalah satu tangannya yang megah berkedut dan terhuyung.\n\n... Mungkin ini kesempatan kita untuk melumpuhkan tangan itu.",
+      "behaveDesc": "Siapa yang akan maju?",
+      "successDesc": [
+        "[{0}] segera tahu apa yang aku incar, dan melompat ke arah tangan itu.\n\n\"I-ini tidak mungkin...!\"\n\nBagus. Kita menangkapnya saat dia tidak waspada... dan melumpuhkan tangan itu.\n\nAku secara naluriah tahu...\n\n... bahwa kita sudah sangat, sangat dekat.",
+        "\"Aku tahu persis apa yang kamu maksud...!\"\n\nHeathcliff menunjukkan ekspresi paling serius yang pernah kulihat darinya saat dia menyerbu ke arah tangan raksasa itu.\n\n\"Agh, Heathcliff...!\"\n\n\"Kembalikan Cathy-ku... Ada begitu banyak hal yang harus kukatakan padanya...!\"\n\nSerangan tiba-tiba Heathcliff membuat tangan itu benar-benar lengah, dan berhasil melumpuhkannya.\n\nAku secara naluriah tahu...\n\n... bahwa kita sudah sangat, sangat dekat."
+      ],
+      "failureDesc": [
+        "[{0}] segera tahu apa yang aku incar, dan melompat ke arah tangan itu.\n\n\"ENYAHLAH!!!\"\n\nMungkin seseorang yang dia anggap tidak relevan, justru perhatiannya tertarik padanya di tengah kekacauan.\n\n{0} nyaris berhasil menunduk di bawah ayunan tangan tersebut.",
+        "\"Aku tahu persis apa yang kamu coba lakukan...!\"\n\nHeathcliff menunjukkan ekspresi paling serius yang pernah kulihat darinya saat dia menyerbu ke arah tangan raksasa itu.\n\n\"Heathcliff?! Bagaimana bisa...!\"\n\nDia segera mengenali Heathcliff, bahkan di tengah semua kekacauan ini.\n\n\"Sial!\"\n\nHeathcliff nyaris berhasil menunduk di bawah ayunan tangan tersebut.\n\n\"<Heathcliff...>\"\n\n\"Jangan terlihat murung begitu, Dante. Beranilah.\"\n\n\"Aku tidak akan menyerah lagi. Aku tidak akan pernah menyerah.\""
+      ]
+    },
+    {
+      "id": 817305,
+      "title": "",
+      "prevDesc": "",
+      "eventDesc": "Sial, ini adalah...\n\n... peti mati Cathy.\n\nSangat dingin... dan gelap di dalam.\n\n... Kamu tetap terjebak di sini selama ini...\n\nHanya demi... kebahagiaanku...\n\nKamu, yang sangat, sangat membenci kegelapan...",
+      "behaveDesc": "Dobrak keluar dari peti mati.",
+      "successDesc": [
+        "Seandainya... seandainya saja aku menunggu untuk mendengar kata-katamu sampai akhir.\n\nSeandainya saja aku... tidak melarikan diri. Seandainya saja aku mendekatimu untuk berbicara denganmu terlebih dahulu.\n\nBetapa bodohnya aku.\n\nTAPI...!\n\n“…!”\n\n\"Jadi kamu sudah membebaskan diri dari peti mati itu, Heathcliff?\"\n\n\"Sia-sia. Semuanya sia-sia...! Kamu seharusnya tetap di sana, mati lemas dalam penyesalan terburuk dalam hidupmu!\"\n\n“Tutup mulutmu.”\n\nAku tidak akan lari lagi. Tidak di sini, di akhir dari segalanya.\n\nAku tahu ini sudah terlambat. Tapi... aku akan mengambil kesempatan ini sebelum hal ini berlalu selamanya.\n\nBahkan jika kesempatan ini tidak akan membawaku pada kebahagiaanku.\n\nBahkan jika jalan ini tidak akan berakhir dengan kebahagiaanmu.\n\nKarena aku tahu pasti bahwa, selama kata-kata kita tidak terucapkan...\n\n... tidak ada yang akan pernah bahagia.\n\n“…Aku mengerti.”\n\n\"Kamu benar. Mengharapkan kebahagiaanmu bahkan tanpa berbicara denganmu terlebih dahulu, karena rasa takut... aku... seharusnya tidak pernah melakukan itu. Aku salah.\"\n\nAku rasa...\n\nAku mendengar suara Cathy."
+      ],
+      "failureDesc": [
+        ""
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "dataList": [
+    {
+      "id": 1010311,
+      "name": "Poised",
+      "desc": "On clash win, peroleh +1 Poise Count.\nCoin Power +1 untuk setiap 5 Poise Count. (Maks 3)"
+    },
+    {
+      "id": 1020211,
+      "name": "Self-charging",
+      "desc": "Peroleh +1 Count Charge setelah attack.\nA acak kawan peroleh +1 Count Charge setelah attack."
+    },
+    {
+      "id": 1050311,
+      "name": "Enduring Spirit",
+      "desc": "Ketika attacked, peroleh +1 Count Charge. (Hingga 6 kali)\nSetelah losing a clash, peroleh +1 Count Charge. (Up 6 kali, counted independently of hits diterima)"
+    },
+    {
+      "id": 1070411,
+      "name": "Bugger…",
+      "desc": "Ketika kawan dikalahkan, kehilangan 10 SP dan peroleh 1 Blunt Power Up giliran berikutnya.\nJika 4 atau lebih surviving unit in the team, termasuk unit ini, are 'N Corp. Fanatics', Coin Power +1."
+    },
+    {
+      "id": 1100211,
+      "name": "Slayer",
+      "desc": "The last Coin on the last skill in the chain beri +20% damage.\nKetikaever kawan other than unit ini peroleh Poise Count, unit ini peroleh +1 Poise Count at a 50% peluang.",
+      "summary": "The last Coin on the last Skill in the chain beri +20% damage. Peroleh tambahan Poise Count"
+    },
+    {
+      "id": 1020411,
+      "name": "Whistles",
+      "desc": "Pada the start of the combat phase, pulihkan 2 kawan dengan the least SP untuk 15 SP.\nJika kawan adalah 'N Corp. Fanatik', juga beri 2 Fanatik."
+    },
+    {
+      "id": 1020431,
+      "name": "Whispers",
+      "desc": "Pada the start of the combat phase, pulihkan 1 kawan dengan the least SP untuk 15 SP.\nJika kawan adalah 'N Corp. Fanatik', juga beri 2 Fanatik."
+    },
+    {
+      "id": 1100511,
+      "name": "Mad Flame",
+      "desc": "Pulihkan 50% lebih sedikit SP dari memenangkan Clash atau mengalahkan musuh.\nJika 5 atau lebih surviving unit, termasuk unit ini, are 'N Corp. Fanatics', they beri +10% damage."
+    },
+    {
+      "id": 1070311,
+      "name": "Raring to Graze",
+      "desc": "Peroleh (Wrath Reson.) Count Charge giliran berikutnya.\nPada 5+ Count Charge, peroleh 1 Haste dan Attack Power Up.\nAlways Aktifkan: Pada the start of the stage, peroleh +3 Ammo."
+    },
+    {
+      "id": 1050611,
+      "name": "Aktifkan rrR-#4 Suit Pressurization",
+      "desc": "Pada akhir giliran, peroleh +2 Maks Speed per 5 Count Charge giliran berikutnya. (Maks 6)\nPada the start of the giliran, jika pada 5+ Count Charge, peroleh 3 Aggro ke unit ini's rightmost slot."
+    },
+    {
+      "id": 1080511,
+      "name": "Filling Fluid",
+      "desc": "Jika unit ini gagal untuk beri HP damage menggunakan attack skills dalam sebuah giliran, peroleh Perisai setara dengan 10% dari Maks HP giliran berikutnya. (Maks 30)"
+    },
+    {
+      "id": 1080211,
+      "name": "Brainwave Focus",
+      "desc": "Pada the start of the combat phase, peroleh (Gloom Reson. / 3) Attack Power Up.\nJika unit ini gagal untuk beri damage giliran ini, kehilangan 15 SP pada akhir giliran."
+    },
+    {
+      "id": 1040511,
+      "name": "Dimensional Demon Edge",
+      "desc": "Upon mengalahkan musuh, peroleh +3 Count Charge (3 kali per giliran)"
+    },
+    {
+      "id": 1040531,
+      "name": "Dimensional Refraction Edge - Type: Blade Mk7",
+      "desc": "Ketika kawan dengan the lowest Maks HP defeats musuh, mereka memperoleh +3 Count Charge (Once per giliran)"
+    },
+    {
+      "id": 1060611,
+      "name": "Cleanup Mastery",
+      "desc": "Jika at 5+ Count Charge saat dimulainya combat phase, peroleh 2 Haste. <style=\"highlight\">Pada 10+ Count Charge, peroleh 1 tambahan Haste.</style>"
+    }
+  ]
+}

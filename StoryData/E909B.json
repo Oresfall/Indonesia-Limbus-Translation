@@ -1,0 +1,473 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Gedung Kantor, Suatu Tempat",
+      "model": "그레고르",
+      "content": "......."
+    },
+    {
+      "id": 1,
+      "model": "그레고르",
+      "content": "Tempat ini..."
+    },
+    {
+      "id": 2,
+      "model": "뉴키라",
+      "content": "Eh? Cuma kantor tua biasa. Aku dah siap-siap lho, kirain kita mau masuk ke zona perang."
+    },
+    {
+      "id": 3,
+      "model": "단테",
+      "content": "<Kamu mengenali tempat ini?>"
+    },
+    {
+      "id": 4,
+      "model": "그레고르",
+      "content": "Hah, tentu saja."
+    },
+    {
+      "id": 5,
+      "model": "그레고르",
+      "content": "Pekerjaan terakhirku sebelum di Limbus Company."
+    },
+    {
+      "id": 6,
+      "model": "그레고르",
+      "content": "... Dan mejaku... di sebelah sana."
+    },
+    {
+      "id": 7,
+      "model": "그레고르",
+      "content": "Ini saran dariku, kawan-kawan. Kalau kamu bekerja di kantor seperti ini, selalu pilih meja sudut yang menghadap ke dinding kalau bisa. Supaya bisa bersembunyi dari bos."
+    },
+    {
+      "id": 8,
+      "model": "그레고르",
+      "content": "Tak terlihat, tak membebani pikiran, tahu kan? Kamu bisa melakukan apapun yang kamu mau dengan begitu. Bekerja, bersantai, atau bahkan panik ketakutan saat mendengar bunyi gemerincing logam terkecil sekalipun... Takkan ada yang sadar—takkan ada yang menganggapmu mengganggu orang lain."
+    },
+    {
+      "id": 9,
+      "content": "... Gregor tersenyum lebar—senyuman pahit yang mengejek dirinya sendiri."
+    },
+    {
+      "id": 10,
+      "model": "그레고르",
+      "content": "Satu-satunya kekurangan dari pengaturan meja ini adalah... orang-orang yang berjalan di belakangku untuk menarik perhatianku."
+    },
+    {
+      "id": 11,
+      "model": "그레고르",
+      "content": "Atasan hanya perlu berteriak \"Hei, Karyawan Veteran!\" dan aku akan langsung bergegas ke mereka, tapi yang lain tak bisa melakukan itu."
+    },
+    {
+      "id": 12,
+      "model": "그레고르",
+      "content": "Jadi kapanpun ada orang yang menghampiriku dari belakang, aku takut kalau aku mungkin... menyebabkan kecelakaan."
+    },
+    {
+      "id": 13,
+      "model": "모제스4",
+      "content": "\"Karyawan Veteran\"... pasti tentang Pekerjaan Khusus Veteran Pascaperang."
+    },
+    {
+      "id": 14,
+      "model": "그레고르",
+      "content": "Benar, tapi aku tak mungkin mengeluh. Tanpa itu, aku takkan mendapatkan pekerjaan tersebut, tahu kan? Tak semua orang cukup beruntung untuk dipertimbangkan dalam hal itu."
+    },
+    {
+      "id": 15,
+      "model": "그레고르",
+      "content": "Keadaanku lebih baik dari kebanyakan orang—"
+    },
+    {
+      "id": 16,
+      "model": "그레고르네부장",
+      "teller": "???",
+      "title": "???",
+      "content": "Gregor?"
+    },
+    {
+      "id": 17,
+      "model": "그레고르",
+      "content": "Hm?! Manajer Kepala—Ted?!"
+    },
+    {
+      "id": 18,
+      "content": "Gregor berbalik dengan cepat, tangannya secara refleks melompat ke lengannya yang lain. Ada pria tak dikenal bersetelan jas bersih berdiri di belakang kami."
+    },
+    {
+      "id": 19,
+      "model": "그레고르",
+      "content": "......."
+    },
+    {
+      "id": 20,
+      "model": "그레고르네부장",
+      "content": "Itu benar-benar dirimu, Gregor!"
+    },
+    {
+      "id": 21,
+      "model": "그레고르네부장",
+      "content": "Dan—kulihat beberapa wajah baru bersamamu..."
+    },
+    {
+      "id": 22,
+      "model": "그레고르네부장",
+      "content": "Oh, tunggu. Oh! Kalian pasti klien yang diminta tim sebelah untuk dikosongkan ruang rapatnya."
+    },
+    {
+      "id": 23,
+      "model": "그레고르네부장",
+      "content": "Dapat pekerjaan baru, ya? Kulihat kamu punya kartu karyawan baru di sana."
+    },
+    {
+      "id": 24,
+      "model": "그레고르",
+      "content": "Y-yah, um... Jadi... Bagaimana kabarmu?"
+    },
+    {
+      "id": 25,
+      "model": "그레고르네부장",
+      "content": "Aku? Masih seperti biasa—cukup baik. Aku tak punya tempat lain untuk pergi, kan?"
+    },
+    {
+      "id": 26,
+      "model": "그레고르",
+      "content": "Aha, ha ha..."
+    },
+    {
+      "id": 27,
+      "model": "그레고르네부장",
+      "content": "Aku tak terkejut kamu menemukan pekerjaan baru secepat ini. Kamu selalu bisa diandalkan."
+    },
+    {
+      "id": 28,
+      "model": "그레고르네부장",
+      "content": "Apa gajinya bagus? Bagaimana kehidupanmu, kawan? Oh ya, apa kamu jadi menjual koin peringatan itu? Sejenis medali, kan? Kuharap kamu mendapat uang yang banyak dari itu."
+    },
+    {
+      "id": 29,
+      "model": "그레고르",
+      "content": "......."
+    },
+    {
+      "id": 30,
+      "model": "그레고르네부장",
+      "content": "Lihatlah aku. Menanyakan \"bagaimana kehidupan\" kepada sesama Warga. Rasanya tak ada orang yang punya hal baik untuk dikatakan soal itu, kan?"
+    },
+    {
+      "id": 31,
+      "model": "그레고르네부장",
+      "content": "Cih. Omong-ngomong... Kuharap tak ada orang yang mengganggumu dengan omong kosong \"Karyawan Veteran\" di sana."
+    },
+    {
+      "id": 32,
+      "model": "그레고르",
+      "content": "Tidak, tidak sama sekali. Tak ada yang seperti itu di sini..."
+    },
+    {
+      "id": 33,
+      "model": "그레고르네부장",
+      "content": "Hei, senang mendengarnya, kawan~ Baguslah kalau kamu tak perlu berurusan dengan Wakil Presiden Eksekutif brengsek itu yang mengganggumu seolah-olah dia sendiri seorang veteran perang."
+    },
+    {
+      "id": 34,
+      "model": "그레고르네부장",
+      "content": "Tahu berapa tahun aku harus mendengarkan pak tua itu menyombongkan bagaimana dia meraup keuntungan dari perang, bangkit dengan usahanya sendiri, tentang bagaimana di setiap bahaya ada peluang yang menunggu untuk ditemukan, bla bla bla—aku seperti menggarami lautan, bukan?"
+    },
+    {
+      "id": 35,
+      "model": "그레고르",
+      "content": "Hah, ha ha."
+    },
+    {
+      "id": 36,
+      "model": "그레고르",
+      "content": "... Orang itu, ya. Apa dia masih mengambil \"jam istirahat sauna\" saat jam kerja?"
+    },
+    {
+      "id": 37,
+      "model": "그레고르네부장",
+      "content": "Haha, menurutmu bagaimana? Kursinya merindukan pantatnya setiap hari."
+    },
+    {
+      "id": 38,
+      "model": "그레고르",
+      "content": "Hahaha..."
+    },
+    {
+      "id": 39,
+      "model": "그레고르네부장",
+      "content": "Oh, dan dengarkan ini. Ingat bagaimana dia biasa memanggil kalian para pekerja khusus sebagai \"Pasukan Nepo\"? Beberapa hari lalu, namanya muncul di laporan HR. Tebak apa isinya."
+    },
+    {
+      "id": 40,
+      "model": "그레고르네부장",
+      "content": "Ternyata dia mengantongi uang suap saat kita memilih Kantor Fixer untuk proyek kemitraan. Heh, akan ada posisi kosong di kantor sebentar lagi."
+    },
+    {
+      "id": 41,
+      "model": "그레고르",
+      "content": "Benarkah? Bukankah dia... kamu tahu, nepo yang sebenarnya? Kurasa dia keluarga presiden."
+    },
+    {
+      "id": 42,
+      "model": "그레고르네부장",
+      "content": "Ya, kawan. Parah <i>sekali</i>. Hanya itu yang dibicarakan orang-orang di dekat dispenser air."
+    },
+    {
+      "id": 43,
+      "model": "그레고르네부장",
+      "content": "Jika ada satu hal yang kupelajari di sini, mereka yang terobsesi dengan \"masa wajarku dulu\" semuanya mirip dengannya."
+    },
+    {
+      "id": 44,
+      "model": "그레고르네부장",
+      "content": "Merek benci fakta bahwa masa kejayaan mereka telah berlalu. Kurang lebih seperti pengalihan dari betapa menyedihkannya mereka sekarang."
+    },
+    {
+      "id": 45,
+      "model": "그레고르",
+      "content": "...!"
+    },
+    {
+      "id": 46,
+      "model": "그레고르네부장",
+      "content": "Dan hei, anak <ruby=Belakangan>Backstreets</ruby> sepertiku tak punya \"masa kejayaan\" untuk dikenang dan dirindukan, kan?"
+    },
+    {
+      "id": 47,
+      "model": "그레고르네부장",
+      "content": "Kutatap ke belakang, dan semuanya suram dan kelam. Tahu kan, kalau kamu pernah mencapai titik terendah, kamu juga tahu satu-satunya jalan tersisa adalah naik."
+    },
+    {
+      "id": 48,
+      "model": "그레고르",
+      "content": "Kamu pernah mengatakan hal seperti itu sebelumnya, ya."
+    },
+    {
+      "id": 49,
+      "model": "그레고르네부장",
+      "content": "Bwahahaha, ya? Kurasa itu filosofi omong kosong khas diriku!"
+    },
+    {
+      "id": 50,
+      "model": "그레고르네부장",
+      "content": "Astaga, lihatlah aku, cerobos di hadapan pelanggan kita. Maaf soal itu, semuanya."
+    },
+    {
+      "id": 51,
+      "model": "단테",
+      "content": "<J-jangan khawatir soal itu.>"
+    },
+    {
+      "id": 52,
+      "model": "그레고르네부장",
+      "content": "Eh? Prostesis yang cukup unik yang kamu punya di sana..."
+    },
+    {
+      "id": 53,
+      "model": "모제스4",
+      "content": "... Tidak masalah. Namun sepertinya anda sedang dalam perjalanan untuk menyerahkan usulan tersebut?"
+    },
+    {
+      "id": 54,
+      "model": "그레고르네부장",
+      "content": "Astaga, aku terlambat...! Terima kasih telah menyadarkanku. Aku bisa dimarahi habis-habisan..."
+    },
+    {
+      "id": 55,
+      "model": "그레고르네부장",
+      "content": "Bagaimanapun juga, Gregor! Hubungi aku kapan-kapan, ya? Mari kita pergi dan berbincang sambil minum atau sejenisnya."
+    },
+    {
+      "id": 56,
+      "model": "그레고르",
+      "content": "... Tentu, jika aku ada kesempatan."
+    },
+    {
+      "id": 57,
+      "content": "Pria yang sepertinya merupakan mantan rekan kerja Gregor itu bergegas pergi, tetapi dia tidak lupa melambaikan tangan kepada kami dengan ramah."
+    },
+    {
+      "id": 58,
+      "model": "홍루",
+      "content": "Fuhu, ada sedikit kemiripan dirinya dari caramu berbicara, Gregor~"
+    },
+    {
+      "id": 59,
+      "model": "그레고르",
+      "content": "Ayolah, aku tidak terdengar tua seperti dia, kan?"
+    },
+    {
+      "id": 60,
+      "model": "모제스4",
+      "content": "*huff*"
+    },
+    {
+      "id": 61,
+      "content": "Moses, yang diam-diam mengamati saat Gregor dan mantan rekan kerjanya mengobrol, menghembuskan aliran asap tipis dan perlahan mulai berbicara."
+    },
+    {
+      "id": 62,
+      "model": "모제스4",
+      "content": "Banyak dari kita yang kembali dari Perang tampaknya menderita kesalahpahaman tertentu."
+    },
+    {
+      "id": 63,
+      "model": "모제스4",
+      "content": "Ketika kita diminta untuk mengingat, itu bukan berarti kita diperintahkan untuk hidup melalui mimpi buruk masa lalu berulang kali."
+    },
+    {
+      "id": 64,
+      "model": "모제스4",
+      "content": "Kita tidak sedang dikutuk untuk menghidupkan kembali rasa sakit dan menderita di dalamnya."
+    },
+    {
+      "id": 65,
+      "model": "모제스4",
+      "content": "Baik Ezra maupun aku, kami... kami berdua masih berusaha untuk bebas dari kesalahpahaman yang kami timbulkan pada diri kami sendiri."
+    },
+    {
+      "id": 66,
+      "model": "그레고르",
+      "content": "... Bukan berarti aku mengingatnya karena aku mau."
+    },
+    {
+      "id": 67,
+      "model": "모제스4",
+      "content": "Yah, jika kamu tidak bisa memaksakan diri untuk melupakannya..."
+    },
+    {
+      "id": 68,
+      "model": "모제스4",
+      "content": "... sebaiknya masukkan juga ke dalam ingatan tentang fakta bahwa Perang memang telah berakhir."
+    },
+    {
+      "id": 69,
+      "model": "그레고르",
+      "content": "......."
+    },
+    {
+      "id": 70,
+      "model": "그레고르",
+      "content": "... Baiklah."
+    },
+    {
+      "id": 71,
+      "model": "그레고르",
+      "content": "Kamu tidak salah soal itu."
+    },
+    {
+      "id": 72,
+      "content": "Gregor menatap lengan kanannya sejenak, merenung dalam diam."
+    },
+    {
+      "id": 73,
+      "model": "그레고르",
+      "content": "... Kawan Manajer."
+    },
+    {
+      "id": 74,
+      "model": "그레고르",
+      "content": "Kurasa aku tak bisa memberimu kepastian apapun, tapi... melanjutkan hidup sepertinya merupakan jawaban terbaik untuk saat ini."
+    },
+    {
+      "id": 75,
+      "model": "그레고르",
+      "content": "Tapi aku ingin bertanya apa kamu tidak apa-apa dengan itu. Aku akan baik-baik saja, tapi kamu yang harus menghadapi dampaknya."
+    },
+    {
+      "id": 76,
+      "content": "Gregor selalu mengatakan hal yang sama kepada mereka yang menderita akibat kekejaman yang melekat dalam kehidupan."
+    },
+    {
+      "id": 77,
+      "content": "Tetaplah hidup. Hiduplah terus."
+    },
+    {
+      "id": 78,
+      "content": "Namun saat bibirnya mengucapkan kata-kata itu, matanya akan memperlihatkan tatapan putus asa dan tak fokus, terbayang di bawah keputusasaan."
+    },
+    {
+      "id": 79,
+      "content": "Hari ini, bagaimanapun juga... Hari ini, warna abu-abu yang suram sepertinya memberi jalan bagi sedikit warna langit biru di baliknya."
+    },
+    {
+      "id": 80,
+      "content": "Ini mungkin tak lebih dari seberkas sinar matahari yang mengintip dari balik awan gelap yang telah lama tersembunyi. Mungkin butuh lebih dari ini agar bayang-bayang sepenuhnya terangkat, tapi..."
+    },
+    {
+      "id": 81,
+      "model": "단테",
+      "content": "<Jangan khawatir. Aku akan baik-baik saja.>"
+    },
+    {
+      "id": 82,
+      "content": "... ini adalah langkah besar baginya untuk mengatasi sedikit saja dari kecemasan terus-menerus dari masa lalunya."
+    },
+    {
+      "id": 83,
+      "place": "Reruntuhan Koridor Nursefather Thumb",
+      "content": "Saat kami keluar dari pintu, kami melihat Outis membelakangi kami, senjatanya sudah terhunus."
+    },
+    {
+      "id": 84,
+      "content": "Tunggu, kurasa dia bahkan tidak mengikuti kita melewati pintu..."
+    },
+    {
+      "id": 85,
+      "model": "단테",
+      "content": "<Hm? Kamu di sini dari tadi?>"
+    },
+    {
+      "id": 86,
+      "model": "오티스",
+      "content": "... Ya. Saya diberitahu oleh sosok Alan itu bahwa seseorang harus tetap di belakang dan menjaga pintu selama operasi ini."
+    },
+    {
+      "id": 87,
+      "model": "오티스",
+      "content": "Jadi saya tetap tinggal, dan..."
+    },
+    {
+      "id": 88,
+      "model": "야수파2",
+      "content": "......."
+    },
+    {
+      "id": 89,
+      "model": "뉴키라",
+      "content": "Weladah...! Orang-orang itu lagi!"
+    },
+    {
+      "id": 90,
+      "model": "료슈",
+      "content": "... Aneh. Koridor bukan tempat untuk pendatang baru berkeliaran sendiri."
+    },
+    {
+      "id": 91,
+      "model": "오티스",
+      "content": "... seperti yang anda lihat, beberapa tamu tak diundang telah memutuskan untuk mengunjungi kita melalui pintu yang berbeda."
+    },
+    {
+      "id": 92,
+      "content": "Aku melihat ke arah luar Outis tepat pada waktunya untuk melihat lebih banyak Fauvis berhamburan ke dalam Koridor melalui <ruby=Pintu Belakang>Backdoors</ruby> yang berbeda."
+    },
+    {
+      "id": 93,
+      "content": "Mereka pasti mencoba mencari cara untuk sampai ke Koridor Nursefather Ring..."
+    },
+    {
+      "id": 94,
+      "model": "단테",
+      "content": "<Yah, kita tidak bisa membiarkan mereka lewat begitu saja, kan?>"
+    },
+    {
+      "id": 95,
+      "model": "단테",
+      "content": "<Bunuh mereka semua.>"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "dataList": [
+    {
+      "id": "DesperadoBuff",
+      "name": "Desperado",
+      "desc": "- Stack Maks: 2\n- Untuk setiap Stack, Skill Base Attack Clash Power +1, Base Power +1\n- Pada 2 Stack, Skill Base Attack Plus Coin Power +1, Minus Coin Power -1\n- Kadaluarsa pada Akhir Giliran",
+      "summary": ""
+    },
+    {
+      "id": "TensionUp",
+      "name": "Hyped-up",
+      "desc": "- Stack Maks: 3\n- Untuk setiap Stack, beri +5% damage with Wrath dan Lust Skill\n- Ketika diserang, naikkan unit ini's Batas Stagger sebanyak (5 x Stack)\n- Kadaluarsa pada Akhir Giliran",
+      "summary": ""
+    },
+    {
+      "id": "PinkPetals",
+      "name": "Pink Petals",
+      "desc": "- Stack Maks: 30\n- Untuk setiap Stack, terima +1% damage when hit sebanyak Gloom Skill (maks 15%)\n- Untuk setiap 10 Stack, peroleh +1 Sinking Count when hit (2 kali per giliran)\n- Ketika Tremor Burst is triggered on unit ini, terima ((Sinking Potency + Pink Petals) / 5) Gloom damage\n- Akhir Giliran: Kehilangan 1 Stack",
+      "summary": ""
+    },
+    {
+      "id": "QueenBeepheromone",
+      "name": "Pheromone",
+      "desc": "- Peroleh +10 Aggro\n- Ketika diserang, beri 3 Burn pada target",
+      "summary": ""
+    },
+    {
+      "id": "QueenBeeMark",
+      "name": "Pheromone Mark",
+      "desc": "- Untuk setiap 3 Burn pada diri sendiri, terima +1% damage when hit (maks 20%)\n- Kadaluarsa pada Akhir Giliran",
+      "summary": ""
+    },
+    {
+      "id": "RunHallway",
+      "name": "Preparing Herd Migration",
+      "desc": "- Stack Maks: 3\n- Awal Pertempuran: Kehilangan 1 Stack\n- Pada 0 Stack, gunakan 'Herd Migration' pada Awal Giliran",
+      "summary": ""
+    },
+    {
+      "id": "NextHallway",
+      "name": "Herd Relocation",
+      "desc": "- Akhir Giliran: pulih dari Stagger dan kabur dari Pertempuran\n(mengecualikan forced Stagger; tidak dapat dihitung sebagai kematian)\n- In Chain Battles, beri unit ini's Slots to a Substituted unit dan pindah ke the rearmost place in the Backup unit' Deployment order",
+      "summary": ""
+    },
+    {
+      "id": "PumpkinJelly",
+      "name": "BongBong Orange",
+      "desc": "- Stack Maks: 1\nAwal Giliran: Pada kurang dari 60% HP, pulihkan 30% HP dan kehilangan efek ini",
+      "summary": ""
+    },
+    {
+      "id": "BestWelfareTeamCaptain",
+      "name": "Welfare Team Captain",
+      "desc": "  - Skill Slot +1\n  - Modify Skill pool: Peroleh 1 copy of Skill 3, but kehilangan 1 copy of Skill 1\n- Menambah jumlah dari Burn, Bleed, Rupture, Sinking, atau Tremor Potency inflicted dengan Skill sebanyak +2 (termasuk 'Unique Status Effects')\n- Base Skill yang memperoleh atau spend Ammo beri +30% damage\n- Saat Pakai with Base Skill yang memperoleh atau spend Ammo, pulihkan 10 SP untuk 1 kawan dengan lowest SP (termasuk unit ini)\n- Saat Membunuh, aktifkan berikut:\n· E.G.O Resource +2 to the Affinity that killed musuh; E.G.O Resource +1 ke semua Affinities\n· Giliran berikutnya, beri the remaining Burn, Bleed, Rupture, Sinking, dan Tremor Potency dan Count on the said musuh secara acak antara semua musuh (min 1)",
+      "summary": ""
+    }
+  ]
+}

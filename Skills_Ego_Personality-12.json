@@ -1,0 +1,884 @@
+{
+  "dataList": [
+    {
+      "id": 2120511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Garden of Thorns",
+          "abName": "Sign of Roses",
+          "desc": "[BeforeAttack] Pada 3+ Reson. tertinggi, Atk Weight +1\n[WhenUse] Beri 1 '(Corresponding Sin Affinity) Damage Up' dan '1 (Corresponding Sin Affinity) Power Up' to (1 + # of Reson. tertinggi) kawan.\n- Pada 4+ Corresponding Reson., beri 1 tambahan '(Corresponding Sin Affinity) Damage Up'",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Pulihkan 1 kawan with HP terendah percentage for 15% HP of their maks HP\n- Pulihkan (Reson. tertinggi - 2) lebih banyak kawan (maks 3)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Garden of Thorns",
+          "abName": "Sign of Roses",
+          "desc": "[BeforeAttack] Peroleh (# of Reson. tertinggi - 2) Atk Weight (Maks 2)\n[WhenUse] Beri 1 '(Corresponding Sin Affinity) Damage Up' dan '1 (Corresponding Sin Affinity) Power Up' to (2 + # of Reson. tertinggi) kawan.\n- Pada 4+ Corresponding Reson., beri 1 tambahan '(Corresponding Sin Affinity) Damage Up'\n- Pada 5+ Corresponding Reson., beri 1 tambahan '(Corresponding Sin Affinity) Power Up'",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Pulihkan 2 kawan with HP terendah percentages for 18% HP of their maks HP\n- Pulihkan (Reson. tertinggi - 2) lebih banyak kawan (maks 3)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Garden of Thorns",
+          "abName": "Sign of Roses",
+          "desc": "[BeforeAttack] Peroleh (# of Reson. tertinggi - 2) Atk Weight (Maks 3)\n[WhenUse] Beri 1 '(Corresponding Sin Affinity) Damage Up' dan '1 (Corresponding Sin Affinity) Power Up' to (4 + # of Reson. tertinggi) kawan.\n- Pada 4+ Corresponding Reson., beri 1 tambahan '(Corresponding Sin Affinity) Damage Up'\n- Pada 5+ Corresponding Reson., beri 1 tambahan '(Corresponding Sin Affinity) Power Up'\n- Pada 6+ Corresponding A-Reson., beri the above effects giliran berikutnya juga",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Pulihkan 4 kawan with HP terendah percentages for 22% HP of their maks HP\n- Pulihkan (Reson. tertinggi - 2) lebih banyak kawan (maks 3)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Garden of Thorns",
+          "abName": "Sign of Roses",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Pada 3+ Reson. tertinggi, Atk Weight +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [AttackDmgDown]. Beri 2 [Binding] giliran berikutnya."
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 'Fragility' dan 1 'Power Down' for the Sin Affinity with the Reson. tertinggi count\n- Pada 4+ Corresponding Reson., beri 1 tambahan '(Corresponding Sin Affinity) Fragility'"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Garden of Thorns",
+          "abName": "Sign of Roses",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh (Reson. tertinggi - 2) Atk Weight (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [AttackDmgDown]. Beri 2 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 'Fragility' dan 1 'Power Down' for the Sin Affinity with the highest Resonance count\n- Pada 4+ Corresponding Reson., beri 1 tambahan '(Corresponding Sin Affinity) Fragility'\n- Pada 5+ Corresponding Reson., beri 1 tambahan '(Corresponding Sin Affinity) Power Down'"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Garden of Thorns",
+          "abName": "Sign of Roses",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh (Reson. tertinggi - 2) Atk Weight (maks 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [AttackDmgDown]. Beri 2 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 'Fragility' dan 1 'Power Down' for the Sin Affinity with the highest Resonance count\n- Pada 4+ Corresponding Reson., beri 1 tambahan '(Corresponding Sin Affinity) Fragility'\n- Pada 5+ Corresponding Reson., beri 1 tambahan '(Corresponding Sin Affinity) Power Down'\n- Pada 6+ Corresponding A-Reson., beri the above effects giliran berikutnya juga"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bygone Days",
+          "abName": "Portrait of a Certain Day",
+          "desc": "[EndSkill] Pulihkan 10 SP pada diri sendiri dan 2 other kawan with the least SP\n- Jika target survives this attack, konsumsi 5 Count [Sinking] pada target, lalu pulihkan tambahan SP(pada diri sendiri & affected kawan) setara dengan [Sinking] Potency pada target (Maks SP pulihkan: 20)\n- Jika target dikalahkan, beri 3 [Sinking] pada 2 musuh acak (Untuk Focused Encounters, acak Parts)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Bygone Days",
+          "abName": "Portrait of a Certain Day",
+          "desc": "[EndSkill] Pulihkan <style=\"highlight\">12</style> SP pada diri sendiri dan 2 other kawan with the least SP\n- Jika target survives this attack, konsumsi 5 Count [Sinking] pada target, lalu pulihkan tambahan SP(pada diri sendiri & affected kawan) setara dengan [Sinking] Potency pada target (Maks SP pulihkan: 20)\n- Jika target dikalahkan, beri 3 [Sinking] dan <style=\"highlight\">1 [Curse]</style> pada 2 musuh acak (Untuk Focused Encounters, acak Parts)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Bygone Days",
+          "abName": "Portrait of a Certain Day",
+          "desc": "[EndSkill] Pulihkan <style=\"highlight\">15</style> SP pada diri sendiri dan 2 other kawan with the least SP\n- Jika target survives this attack, konsumsi <style=\"highlight\">3</style> Count [Sinking] pada target, lalu pulihkan tambahan SP(pada diri sendiri & affected kawan) setara dengan [Sinking] Potency pada target (Maks SP pulihkan: 20)\n- Jika target dikalahkan, beri 3 [Sinking] dan 1 [Curse] on <style=\"highlight\">3</style> musuh acak (Untuk Focused Encounters, acak Parts)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bygone Days",
+          "abName": "Portrait of a Certain Day",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [AzureTakeDamageUp]. Pada 3+ Gloom Reson., beri 1 tambahan [AzureTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Curse]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Bygone Days",
+          "abName": "Portrait of a Certain Day",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [AzureTakeDamageUp]. Beri 1 tambahan [AzureTakeDamageUp] untuk setiap 3 Gloom Reson. (maks 2)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Curse]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Bygone Days",
+          "abName": "Portrait of a Certain Day",
+          "desc": "[CantIdentify]\nTarget secara acak\nJika target memiliki [Curse], beri +50% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [AzureTakeDamageUp]. Beri 1 tambahan [AzureTakeDamageUp] untuk setiap 2 Gloom Reson. (maks 2)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Curse]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Solemn Lament",
+          "abName": "Funeral of the Dead Butterflies",
+          "desc": "Ketika Skill ini memutar Coin, each Coin flips terhadap a acak enemy among its targets.\n- The first Coin always targets target utama.\n- Semua efek 'Saat Serang' dan semua damage dealt by each Coin are inflicted hanya terhadap the acak target the Coin selected.\nKetika memberikan [SinkingWhite] dengan Skill ini effects: (Peluang untuk dapat Kepala)% peluang to beri Yang Berpulang. Jika unit ini tidak memberikan Yang Berpulang, beri Yang Hidup saja. (calculates setiap [SinkingWhite] stack independently)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 acak [SinkingWhite]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 acak [SinkingWhite]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1~2 acak [SinkingWhite]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kehilangan 2~6 SP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 0+ SP, Gunakan Ulang this Coin (5 times maks per Skill)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Solemn Lament",
+          "abName": "Funeral of the Dead Butterflies",
+          "desc": "Ketika Skill ini memutar Coin, each Coin flips terhadap a acak enemy among its targets.\n- The first Coin always targets target utama.\n- Semua efek 'Saat Serang' dan semua damage dealt by each Coin are inflicted hanya terhadap the acak target the Coin selected.\nKetika memberikan [SinkingWhite] dengan Skill ini effects: (Peluang untuk dapat Kepala)% peluang to beri Yang Berpulang. Jika unit ini tidak memberikan Yang Berpulang, beri Yang Hidup saja. (calculates setiap [SinkingWhite] stack independently)\n<style=\"highlight\">[EndSkill] Pulihkan (# dari Coin 3 hits x 2) SP</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 acak [SinkingWhite]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 acak [SinkingWhite]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1~2 acak [SinkingWhite]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kehilangan 2~6 SP<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 0+ SP, Gunakan Ulang this Coin (5 times maks per Skill)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Solemn Lament",
+          "abName": "Funeral of the Dead Butterflies",
+          "desc": "Ketika Skill ini memutar Coin, each Coin flips terhadap a acak enemy among its targets.\n- The first Coin always targets target utama.\n- Semua efek 'Saat Serang' dan semua damage dealt by each Coin are inflicted hanya terhadap the acak target the Coin selected.\nKetika memberikan [SinkingWhite] dengan Skill ini effects: (Peluang untuk dapat Kepala)% peluang to beri Yang Berpulang. Jika unit ini tidak memberikan Yang Berpulang, beri Yang Hidup saja. (calculates setiap [SinkingWhite] stack independently)\n[EndSkill] Pulihkan <style=\"highlight\">(# dari Coin 3 hits x 3)</style> SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 acak [SinkingWhite]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 acak [SinkingWhite]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1~2 acak [SinkingWhite]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kehilangan 2~6 SP<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 0+ SP, Gunakan Ulang this Coin (5 times maks per Skill)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Solemn Lament",
+          "abName": "Funeral of the Dead Butterflies",
+          "desc": "[CantIdentify]\nTarget secara acak\nJika target memiliki kurang dari 0 SP, beri lebih banyak damage the further their SP value is dari 0 (+1% damage untuk setiap missing SP, maks 45%)\nFor targets that are Non-SP Units, beri +1% damage untuk setiap 2 [Sinking] pada target (maks 45%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [SinkingWhite](Yang Hidup)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [SinkingWhite](Yang Berpulang)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Solemn Lament",
+          "abName": "Funeral of the Dead Butterflies",
+          "desc": "[CantIdentify]\nTarget secara acak\nJika target memiliki kurang dari 0 SP, beri lebih banyak damage the further their SP value is dari 0 (+1% damage untuk setiap missing SP, maks 45%)\nFor targets that are Non-SP Units, beri +1% damage untuk setiap 2 [Sinking] pada target (maks 45%)\n<style=\"highlight\">[EnemyKill] Pulihkan 5 SP</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [SinkingWhite](Yang Hidup)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [SinkingWhite](Yang Berpulang)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Beri +3 Count [Sinking]</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Solemn Lament",
+          "abName": "Funeral of the Dead Butterflies",
+          "desc": "[CantIdentify]\nTarget secara acak\nJika target memiliki kurang dari 0 SP, beri lebih banyak damage the further their SP value is dari 0 (+1% damage untuk setiap missing SP, maks 45%)\nFor targets that are Non-SP Units, beri +1% damage untuk setiap 2 [Sinking] pada target (maks 45%)\n[EnemyKill] Pulihkan 5 SP<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [SinkingWhite](Yang Hidup)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [SinkingWhite](Yang Berpulang)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Jika target memiliki 50%- HP, beri Gloom Damage setara dengan \"Semua\" [SinkingWhite] values pada target\n- \"Semua\" = jumlah dari kedua Yang Hidup dan Yang Berpulang pada target</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Christmas Nightmare",
+          "abName": "Cozy Bed",
+          "desc": "[EndSkill] Pada maks HP, pulihkan 10 SP pada Akhir Giliran dan peroleh 1 [Enhancement] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target is in terkena Stagger, Low Morale, atau Panic states, beri 1 [Reduction] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Christmas Nightmare",
+          "abName": "Cozy Bed",
+          "desc": "<style=\"highlight\">Jika target memiliki kurang dari 0 SP, beri +1% damage untuk setiap SP value di bawah 0 (maks 45%)</style>\n[EndSkill] Pada maks HP, pulihkan 10 SP pada Akhir Giliran dan peroleh 1 [Enhancement] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan (2 + Reson. tertinggi)% of the HP yang hilang pada diri sendiri (maks 30% per Skill)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target is in terkena Stagger, Low Morale, atau Panic states, beri 1 [Reduction] giliran berikutnya<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Christmas Nightmare",
+          "abName": "Cozy Bed",
+          "desc": "Jika target memiliki kurang dari 0 SP, beri +1% damage untuk setiap SP value di bawah 0 (maks 45%)\n[EndSkill] Pada maks HP, pulihkan <style=\"highlight\">15</style> SP pada Akhir Giliran dan peroleh 1 [Enhancement] giliran berikutnya<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan (<style=\"highlight\">3</style> + Reson. tertinggi)% of the HP yang hilang pada diri sendiri (maks 30% per Skill)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target is in terkena Stagger, Low Morale, atau Panic states, beri 1 [Reduction] <style=\"highlight\">dan Fragility[TabExplain] terhadap the Affinity of the Reson. tertinggi</style> giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Christmas Nightmare",
+          "abName": "Cozy Bed",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Pulihkan 10 HP pada diri sendiri\n[EndSkill] Pada maks HP, pulihkan 10 SP pada Akhir Giliran dan peroleh 1 [Enhancement] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target is in terkena Stagger, Low Morale, atau Panic states, beri 1 [Reduction] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Christmas Nightmare",
+          "abName": "Cozy Bed",
+          "desc": "[CantIdentify]\nTarget secara acak\n<style=\"highlight\">Jika target memiliki kurang dari 0 SP, beri +1% damage untuk setiap SP value di bawah 0 (maks 45%)</style>\n[BeforeAttack] Pulihkan 10 HP pada diri sendiri\n[EndSkill] Pada maks HP, pulihkan <style=\"highlight\">15</style> SP pada Akhir Giliran dan peroleh 1 [Enhancement] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan (2 + Reson. tertinggi)% of the HP yang hilang (maks 30% per Skill)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target is in terkena Stagger, Low Morale, atau Panic states, beri 1 [Reduction] giliran berikutnya<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Christmas Nightmare",
+          "abName": "Cozy Bed",
+          "desc": "[CantIdentify]\nTarget secara acak\nJika target memiliki kurang dari 0 SP, beri +1% damage untuk setiap SP value di bawah 0 (maks 45%)\n[BeforeAttack] Pulihkan 10 HP pada diri sendiri\n[EndSkill] Pada maks HP, pulihkan <style=\"highlight\">20</style> SP pada Akhir Giliran dan peroleh 1 [Enhancement] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan (<style=\"highlight\">3</style> + Reson. tertinggi)% of the HP yang hilang pada diri sendiri (maks 30% per Skill)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target is in terkena Stagger, Low Morale, atau Panic states, beri 1 [Reduction] <style=\"highlight\">dan 2 Fragility[TabExplain] terhadap the Affinity of the Reson. tertinggi</style> giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Unbrilliant Glory - Flowing",
+          "abName": "Młynar",
+          "desc": "[CantDuel]\nKetika used untuk pertama kalinya in battle, konsumsi 1 fewer Wrath, 2 fewer Sloth, dan 1 fewer Pride E.G.O resources.\nPada 1+ [MlynarWaiting], aktifkan <noparse>Unbrilliant Glory - Incandescence</noparse> saja\nSkill ini does not hit musuh, tidak mengaktifkan Skill Defense, dan efek eksternal tidak dapat aktifkan Skill ini untuk Gunakan ulang\n[EndSkill] Peroleh 1 [MlynarWaiting]\n[EndSkill] Pulihkan 25 SP\n[EndSkill] Peroleh 1 [AttackUp] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Unbrilliant Glory - Flowing",
+          "abName": "Młynar",
+          "desc": "[CantDuel]\nKetika used untuk pertama kalinya in battle, konsumsi 1 fewer Wrath, 2 fewer Sloth, dan 1 fewer Pride E.G.O resources.\nPada 1+ [MlynarWaiting], aktifkan <noparse>Unbrilliant Glory - Incandescence</noparse> saja\nSkill ini does not hit musuh, tidak mengaktifkan Skill Defense, dan efek eksternal tidak dapat aktifkan Skill ini untuk Gunakan ulang\n[EndSkill] Peroleh 1 [MlynarWaiting]\n[EndSkill] Pulihkan 25 SP\n[EndSkill] Peroleh <style=\"highlight\">2</style> [AttackUp] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Unbrilliant Glory - Flowing",
+          "abName": "Młynar",
+          "desc": "[CantDuel]\nKetika used untuk pertama kalinya in battle, konsumsi 1 fewer Wrath, 2 fewer Sloth, dan 1 fewer Pride E.G.O resources.\nPada 1+ [MlynarWaiting], aktifkan <noparse>Unbrilliant Glory - Incandescence</noparse> saja\nSkill ini does not hit musuh, tidak mengaktifkan Skill Defense, dan efek eksternal tidak dapat aktifkan Skill ini untuk Gunakan ulang\n[EndSkill] Peroleh 1 [MlynarWaiting]\n[EndSkill] Pulihkan 25 SP\n[EndSkill] Peroleh 2 [AttackUp] <style=\"highlight\">dan 1 [AttackDmgUp]</style> giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120912,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Unbrilliant Glory - Incandescence",
+          "abName": "Młynar",
+          "desc": "[CantDuel]\nExternal effects tidak dapat aktifkan Skill ini untuk Gunakan ulang\nPada 40 [MlynarWaiting], becomes Clashable\n[WhenUse] Pada 40 [MlynarWaiting], until Skill ini ends, unit ini tidak bisa be terkena Stagger dari taking damage, dan memperoleh Clash Power +20\n\n[BeforeAttack] Konsumsi semua [MlynarWaiting] dan peroleh efek berikut(semua of them dibulatkan ke bawah):\n- Untuk setiap (Stack terkonsumsi / 20), recuperate 1 E.G.O resource (in the following order: Pride, lalu Wrath)\n- Untuk setiap (Stack terkonsumsi / 10), peroleh +1 Atk Weight (maks 4)\n- Untuk setiap (Stack terkonsumsi / 10), peroleh [DefenseUp] (sekali per giliran)\n- Jika 40 Stack was terkonsumsi, the 4th Coin beri +50% damage, dan unit ini memperoleh 2 [Protection] (sekali per giliran)\n\n[BeforeAttack] Beri +5% damage untuk setiap 8 ([Combustion] + [Vibration]) pada target utama (maks 25%)\n[EndSkill] Pulihkan 5 SP untuk setiap target that was terkena Stagger atau killed akibat Skill ini's damage (maks 25)\n[EndSkill] Peroleh 1 [MlynarWaiting]\n[EndBattle] Jika Skill ini did not konsumsi 40 [MlynarWaiting], the leftmost Skill Slot on the Dashboard memperoleh +4 [Aggro] giliran berikutnya (sekali per giliran)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Gunakan Ulang this Coin (([MlynarWaiting] Stack terkonsumsi / 10) - 1) kali (3 times maks)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vibration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Jika this is Coin terakhir, dan jika target memiliki 15+ Potency [Vibration], aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Jika this Coin was used 4 kali, beri Sloth damage setara dengan [Vibration] pada target (maks 5)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Unbrilliant Glory - Incandescence",
+          "abName": "Młynar",
+          "desc": "[CantDuel]\nExternal effects tidak dapat aktifkan Skill ini untuk Gunakan ulang\nPada 40 [MlynarWaiting], becomes Clashable\n[WhenUse] Pada 40 [MlynarWaiting], until Skill ini ends, unit ini tidak bisa be terkena Stagger dari taking damage, dan memperoleh Clash Power +20\n\n[BeforeAttack] Konsumsi semua [MlynarWaiting] dan peroleh efek berikut(semua of them dibulatkan ke bawah):\n- Untuk setiap (Stack terkonsumsi / 20), recuperate 1 E.G.O resource (in the following order: Pride, lalu Wrath)\n- Untuk setiap (Stack terkonsumsi / 10), peroleh +1 Atk Weight (maks 4)\n- Untuk setiap (Stack terkonsumsi / 10), peroleh [DefenseUp] (sekali per giliran)\n- Jika 40 Stack was terkonsumsi, the 4th Coin beri +<style=\"highlight\">80</style>% damage, dan unit ini memperoleh 2 [Protection] (sekali per giliran)\n\n[BeforeAttack] Beri +5% damage untuk setiap 8 ([Combustion] + [Vibration]) pada target utama (maks 25%)\n[EndSkill] Pulihkan 5 SP untuk setiap target that was terkena Stagger atau killed akibat Skill ini's damage (maks 25)\n[EndSkill] Peroleh 1 [MlynarWaiting]\n[EndBattle] Jika Skill ini did not konsumsi 40 [MlynarWaiting], the leftmost Skill Slot on the Dashboard memperoleh +4 [Aggro] giliran berikutnya (sekali per giliran)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Gunakan Ulang this Coin (([MlynarWaiting] Stack terkonsumsi / 10) - 1) kali (3 times maks)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnStartCoin] Jika this Coin isn't Cracked, dan jika it targets 3+ musuh, Coin terakhir to be used beri +10% damage (untuk Pertarungan Terfokus, each Bagian dihitung sebagai 1 target)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Jika this is Coin terakhir, dan jika target memiliki 15+ Potency [Vibration], aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Jika this Coin was used 4 kali, beri Sloth damage setara dengan [Vibration] pada target (maks 5)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Unbrilliant Glory - Incandescence",
+          "abName": "Młynar",
+          "desc": "[CantDuel]\nExternal effects tidak dapat aktifkan Skill ini untuk Gunakan ulang\nPada 40 [MlynarWaiting], becomes Clashable\n[WhenUse] Pada 40 [MlynarWaiting], until Skill ini ends, unit ini tidak bisa be terkena Stagger dari taking damage, dan memperoleh Clash Power +20\n\n[BeforeAttack] Konsumsi semua [MlynarWaiting] dan peroleh efek berikut(semua of them dibulatkan ke bawah):\n- Untuk setiap (Stack terkonsumsi / 20), recuperate 1 E.G.O resource (in the following order: Pride, lalu Wrath)\n- Untuk setiap (Stack terkonsumsi / 10), peroleh +1 Atk Weight (maks 4)\n- Untuk setiap (Stack terkonsumsi / 10), peroleh [DefenseUp] (sekali per giliran)\n- Jika 40 Stack was terkonsumsi, the 4th Coin beri +<style=\"highlight\">100</style>% damage, dan unit ini memperoleh 2 [Protection] (sekali per giliran)\n\n[BeforeAttack] Beri +5% damage untuk setiap 8 ([Combustion] + [Vibration]) pada target utama (maks 25%)\n[EndSkill] Pulihkan 5 SP untuk setiap target that was terkena Stagger atau killed akibat Skill ini's damage (maks 25)\n[EndSkill] Peroleh 1 [MlynarWaiting]\n[EndBattle] Jika Skill ini did not konsumsi 40 [MlynarWaiting], the leftmost Skill Slot on the Dashboard memperoleh +4 [Aggro] giliran berikutnya (sekali per giliran)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Gunakan Ulang this Coin (([MlynarWaiting] Stack terkonsumsi / 10) - 1) kali (3 times maks)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnStartCoin] Jika this Coin isn't Cracked, dan jika it targets 3+ musuh, Coin terakhir to be used beri +<style=\"highlight\">20</style>% damage (untuk Pertarungan Terfokus, each Bagian dihitung sebagai 1 target)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Jika this is Coin terakhir, dan jika target memiliki 15+ Potency [Vibration], aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Jika this Coin was used 4 kali, beri Sloth damage setara dengan [Vibration] pada target (maks <style=\"highlight\">10</style>)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Unbrilliant Glory - Flowing",
+          "abName": "Młynar",
+          "desc": "[CantIdentify]\nTarget secara acak\n[WhenUse] Pada 40 [MlynarWaiting], Base Power +1\n\n[BeforeAttack] Konsumsi semua [MlynarWaiting] dan peroleh efek berikut(semua of them dibulatkan ke bawah):\n- Peroleh (Stack terkonsumsi / 10) [DefenseUp] (sekali per giliran)\n- Jika 40 Stack was terkonsumsi, Coin terakhir beri +110% damage dan unit ini memperoleh 2 [Protection] (sekali per giliran)\n\n[BeforeAttack] Beri +3% damage untuk setiap 6 ([Combustion] + [Vibration]) pada target utama (maks 15%)\n[BeforeAttack] Base Power -4 untuk setiap Coin Retak (maks -16)\n[EndSkill] Peroleh 1 [MlynarWaiting]\n[EndBattle] Jika 40 [MlynarWaiting] was terkonsumsi by Skill ini, the leftmost Skill Slot on the Dashboard memperoleh +8 [Aggro] giliran berikutnya (sekali per giliran)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Vibration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Jika target memiliki 15+ Potency [Vibration], aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Unbrilliant Glory - Flowing",
+          "abName": "Młynar",
+          "desc": "[CantIdentify]\nTarget secara acak\n<style=\"highlight\">Ketika attacking 3+ targets: Jika the Coin 1~3 hit tanpa Retak, Coin terakhir beri +25% damage (sekali per Coin; in Focused Encounters, each Bagian dihitung sebagai 1 target)</style>\n[WhenUse] Pada 40 [MlynarWaiting], Base Power +1\n\n[BeforeAttack] Konsumsi semua [MlynarWaiting] dan peroleh efek berikut(semua of them dibulatkan ke bawah):\n- Peroleh (Stack terkonsumsi / 10) [DefenseUp] (sekali per giliran)\n- Jika 40 Stack was terkonsumsi, Coin terakhir beri +<style=\"highlight\">130</style>% damage dan unit ini memperoleh 2 [Protection] (sekali per giliran)\n\n[BeforeAttack] Beri +3% damage untuk setiap 6 ([Combustion] + [Vibration]) pada target utama (maks 15%)\n[BeforeAttack] Base Power -4 untuk setiap Coin Retak (maks -16)\n[EndSkill] Peroleh 1 [MlynarWaiting]\n[EndBattle] Jika 40 [MlynarWaiting] was terkonsumsi by Skill ini, the leftmost Skill Slot on the Dashboard memperoleh +8 [Aggro] giliran berikutnya (sekali per giliran)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Jika target memiliki 15+ Potency [Vibration], aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Unbrilliant Glory - Flowing",
+          "abName": "Młynar",
+          "desc": "[CantIdentify]\nTarget secara acak\nJika terdapat 3+ targets: Jika the Coin 1~3 hit tanpa Retak, Coin terakhir beri +<style=\"highlight\">30</style>% damage (sekali per Coin; in Focused Encounters, each Bagian dihitung sebagai 1 target)\n[WhenUse] Pada 40 [MlynarWaiting], Base Power +1\n\n[BeforeAttack] Konsumsi semua [MlynarWaiting] dan peroleh efek berikut(semua of them dibulatkan ke bawah):\n- Peroleh (Stack terkonsumsi / 10) [DefenseUp] (sekali per giliran)\n- Jika 40 Stack was terkonsumsi, Coin terakhir beri +<style=\"highlight\">160</style>% damage dan unit ini memperoleh 2 [Protection] (sekali per giliran)\n\n[BeforeAttack] Beri +3% damage untuk setiap 6 ([Combustion] + [Vibration]) pada target utama (maks 15%)\n[BeforeAttack] Base Power -4 untuk setiap Coin Retak (maks -16)\n[EndSkill] Peroleh 1 [MlynarWaiting]\n[EndBattle] Jika 40 [MlynarWaiting] was terkonsumsi by Skill ini, the leftmost Skill Slot on the Dashboard memperoleh +8 [Aggro] giliran berikutnya (sekali per giliran)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Combustion]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Jika target memiliki 15+ Potency [Vibration], aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

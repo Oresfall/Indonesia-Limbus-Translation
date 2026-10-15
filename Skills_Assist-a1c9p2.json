@@ -1,0 +1,170 @@
+{
+  "dataList": [
+    {
+      "id": 40000601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Halangan",
+          "desc": "Beri +50% damage untuk setiap tipe efek negatif pada target (maks 100%)\n[WhenUse] Base Power +1 untuk setiap 2 ([Laceration] + [Vibration]) pada target (maks 5)\n[WhenUse] Peroleh +3 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pemotong Rantai Ganda",
+          "desc": "Beri +50% damage untuk setiap tipe efek negatif pada target (maks 100%)\n[WhenUse] Base Power +1 untuk setiap 2 ([Laceration] + [Vibration]) pada target (maks 5)\n[WhenUse] Peroleh +3 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lempar Harpun",
+          "desc": "Beri +50% damage untuk setiap tipe efek negatif pada target (maks 200%)\n[WhenUse] Peroleh 2 [CriticalDmgUpVespa] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [BeeSting]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Naikkan Batas Stagger sebanyak 80% dari damage yang diberikan"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Penusukan Harpun - Itu Dia.",
+          "desc": "[CantChangeTarget]\nBeri +50% damage untuk setiap tipe efek negatif pada target (maks 300%)\n[WhenUse] Peroleh 5 [CriticalDmgUpVespa] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [ArtifactBeeSting]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Stagger target"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pemanggil Harpun",
+          "desc": "[CantDuel]\nBeri +50% damage untuk setiap tipe efek negatif pada target (maks 200%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hapus Harpun Bersarang pada target"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Serangan Balik.",
+          "desc": "[DuelCounter]\nBeri +50% damage untuk setiap tipe efek negatif pada target (maks 100%)\n[StartBattle] <color=#ff6000><mark color=#ff000040><b><u>Peroleh 1 [SupportProtect]</color></mark></b></u>\n[WhenUse] Peroleh 2 [ResultEnhancement] dan 2 [AttackDmgUp] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000607,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bantuan Pertahanan.",
+          "desc": "[CanDuelGuard]\nSkill ekslusif [SupportProtect]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

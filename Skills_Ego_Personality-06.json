@@ -1,0 +1,1315 @@
+{
+  "dataList": [
+    {
+      "id": 2060411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkillHead] Pulihkan 2 kawan with HP terendah percentages for 10 HP"
+                },
+                {
+                  "desc": "[EndSkillTail] Pulihkan 10 SP for 2 kawan with the least SP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkillHead] Pulihkan 2 kawan with HP terendah percentages for 12 HP"
+                },
+                {
+                  "desc": "[EndSkillTail] Pulihkan 12 SP for 2 kawan with the least SP"
+                },
+                {
+                  "desc": "[CriticalEndSkill] Pulihkan kawan with HP terendah percentage for 6 HP; Pulihkan kawan with the least SP for 6 SP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkillHead] Pulihkan 2 kawan with HP terendah percentages for 15 HP"
+                },
+                {
+                  "desc": "[EndSkillTail] Pulihkan 15 SP for 2 kawan with the least SP"
+                },
+                {
+                  "desc": "[CriticalEndSkill] Pulihkan kawan with HP terendah percentage for 8 HP; Pulihkan kawan with the least SP for 8 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "[CantIdentify] Targets the unit with the least HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 Bind giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Tremor"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "[CantIdentify] Targets the unit with the least HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 Bind giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 Tremor"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Soda",
+          "abName": "Wellcheers",
+          "desc": "[CantIdentify] Targets the unit with the least HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Bind giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 Tremor"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Effervescent Corrosion",
+          "abName": "Ambling Pearl",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri Rupture by (Gluttony Reson. /2)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Bind giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Effervescent Corrosion",
+          "abName": "Ambling Pearl",
+          "desc": "[BeforeAttack] Pada 50%- HP, Atk Weight +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri Rupture by (Gluttony Reson. /2)"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 2 Gluttony Fragility giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Bind giliran berikutnya<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Effervescent Corrosion",
+          "abName": "Ambling Pearl",
+          "desc": "[BeforeAttack] Pada 50%- HP, Atk Weight +1;\nPada 25%- HP, peroleh tambahan Atk Weight +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri Rupture by (Gluttony Reson. /2)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Gluttony Fragility giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Bind giliran berikutnya<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Effervescent Corrosion",
+          "abName": "Ambling Pearl",
+          "desc": "[CantIdentify]\nTargets the unit with the least HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri Rupture Count by (Gluttony Reson. /3)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 20% of damage dealt"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Bind giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Effervescent Corrosion",
+          "abName": "Ambling Pearl",
+          "desc": "[CantIdentify]\nTarget the unit with the least HP\n[BeforeAttack] Pada 50%- HP, Atk Weight +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri Rupture Count by (Gluttony Reson. /3)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 30% of damage dealt"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Bind giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Effervescent Corrosion",
+          "abName": "Ambling Pearl",
+          "desc": "[CantIdentify]\nTarget the unit with the least HP\n[BeforeAttack] Pada 50%- HP, Atk Weight +1\nPada 25%- HP, tambahan Atk Weight +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri Rupture Count by (Gluttony Reson. /3)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 50% of damage dealt"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Bind giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cavernous Wailing",
+          "abName": "Blubbering Toad",
+          "desc": "Jika target memiliki [Vibration], beri +(([Vibration] pada target + Count [Vibration] pada target)/2)% damage (maks 20%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Cavernous Wailing",
+          "abName": "Blubbering Toad",
+          "desc": "Jika target memiliki [Vibration], beri +(([Vibration] pada target + Count [Vibration] pada target)/2)% damage (maks <style=\"highlight\">25%</style>)\n<style=\"highlight\">- Pada 4+ Reson. tertinggi, beri +(5 + ([Vibration] pada target + Count [Vibration] pada target)/2)% damage saja (maks 35%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration] dan <style=\"highlight\">+2 Count [Vibration]</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Aktifkan [Switch_Vibration] menjadi [VibrationEcho]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Cavernous Wailing",
+          "abName": "Blubbering Toad",
+          "desc": "Jika target memiliki [Vibration], beri +(<style=\"highlight\">5 +</style> ([Vibration] pada target + Count [Vibration] pada target)/2)% damage (maks <style=\"highlight\">30%</style>)\n- Pada 4+ Reson. tertinggi, beri +(<style=\"highlight\">7.5 +</style> ([Vibration] pada target + Count [Vibration] pada target)/<style=\"highlight\">1.5</style>)% damage saja (maks <style=\"highlight\">40%</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration] dan <style=\"highlight\">+3</style> Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [Switch_Vibration] menjadi [VibrationEcho]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cavernous Wailing",
+          "abName": "Blubbering Toad",
+          "desc": "[CantIdentify]\nTarget secara acak\nJika target memiliki [Vibration], beri +(([Vibration] pada target + Count [Vibration] pada target)/2)% damage (maks 25%)\n- Pada 4+ Reson. tertinggi, raise the above cap to (maks 35%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration] dan +3 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Cavernous Wailing",
+          "abName": "Blubbering Toad",
+          "desc": "[CantIdentify]\nTarget secara acak\nJika target memiliki [Vibration], beri +(([Vibration] pada target + Count [Vibration] pada target)/2)% damage (maks <style=\"highlight\">30%</style>)\n- Pada 4+ Reson. tertinggi, <style=\"highlight\">beri +(5 + ([Vibration] pada target + Count [Vibration] pada target)/2)% damage saja (maks 40%)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration] dan +3 Count [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Aktifkan [Switch_Vibration] menjadi [VibrationEcho]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Cavernous Wailing",
+          "abName": "Blubbering Toad",
+          "desc": "[CantIdentify]\nTarget secara acak\nJika target memiliki [Vibration], beri +(<style=\"highlight\">5</style> + ([Vibration] pada target + Count [Vibration] pada target)/2)% damage (maks <style=\"highlight\">40%</style>)\n- Pada 4+ Reson. tertinggi, beri +(<style=\"highlight\">7.5</style> + ([Vibration] pada target + Count [Vibration] pada target)/<style=\"highlight\">1.5</style>)% damage saja (maks <style=\"highlight\">50%</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">6</style> [Vibration] dan <style=\"highlight\">+6</style> Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [Switch_Vibration] menjadi [VibrationEcho]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lasso",
+          "abName": "Rose Hunter",
+          "desc": "Coin Power +1 untuk setiap 7 [Burst] pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Snare]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Burst] Count untuk setiap 2 Gluttony Reson. (maks 3)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Lasso",
+          "abName": "Rose Hunter",
+          "desc": "<style=\"highlight\">Jika the sum of unit ini dan target's Speed is 6 atau greater, Coin Power +1</style>\nCoin Power +1 untuk setiap 7 [Burst] pada target (maks 2)\n<style=\"highlight\">[BeforeAttack] Peroleh 2 [Agility] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Snare]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Burst] Count untuk setiap 2 Gluttony Reson. (maks 3)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Randomly beri [Laceration] setara dengan (unit ini's Speed/2) between the targets (maks 3)</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Randomly beri [Burst] setara dengan (unit ini's Speed/2) between the targets (maks 3)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Lasso",
+          "abName": "Rose Hunter",
+          "desc": "Jika the sum of unit ini dan target's Speed is 6 atau greater, Coin Power +1\nCoin Power +1 untuk setiap 7 [Burst] pada target (maks 2)\n[BeforeAttack] Peroleh 2 [Agility] giliran berikutnya<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Snare]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Beri 2 [TakeHpHealReduce] giliran berikutnya</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Burst] Count untuk setiap 2 Gluttony Reson. (maks 3)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Randomly beri [Laceration] setara dengan unit ini's Speed between the targets (maks 7)</style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Randomly beri [Burst] setara dengan unit ini's Speed between the targets (maks 7)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lasso",
+          "abName": "Rose Hunter",
+          "desc": "[CantIdentify]\nTarget secara acak\nCoin Power +1 untuk setiap 7 [Burst] pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Snare]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1% damage untuk setiap [Laceration] pada target (Maks 20%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1% damage untuk setiap [Burst] pada target (Maks 20%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Lasso",
+          "abName": "Rose Hunter",
+          "desc": "[CantIdentify]\nTarget secara acak\n<style=\"highlight\">Jika the sum of unit ini dan target's Speed is 6 atau greater, Coin Power +1</style>\nCoin Power +1 untuk setiap 7 [Burst] pada target (maks 2)\n<style=\"highlight\">[BeforeAttack] Peroleh 2 [Agility] giliran berikutnya</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Snare]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1% damage untuk setiap [Laceration] pada target <style=\"highlight\">(maks 30%)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1% damage untuk setiap [Burst] pada target <style=\"highlight\">(maks 30%)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Lasso",
+          "abName": "Rose Hunter",
+          "desc": "[CantIdentify]\nTarget secara acak\nJika the sum of unit ini dan target's Speed is 6 atau greater, Coin Power +1\nCoin Power +1 untuk setiap 7 [Burst] pada target (maks 2)\n[BeforeAttack] Peroleh 2 [Agility] giliran berikutnya\n<style=\"highlight\">[BeforeAttack] Pada 4+ Gluttony atau Lust Reson., peroleh +1 Atk Weight</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Snare]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Beri 3 [TakeHpHealReduce] giliran berikutnya</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1% damage untuk setiap [Laceration] pada target (maks 30%)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1% damage untuk setiap [Burst] pada target (maks 30%)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tears of the Tarnished Blood - Inception [始]",
+          "abName": "Yinglong",
+          "desc": "[CantDuel]\nIgnores target's Defense Skill\nSkill ini does not hit musuh\n[EndSkill] Peroleh [DragonLance]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "This unit takes fixed damage by Skill ini's Final Power\n- This damage does not Stagger atau kurangi HP unit ini di bawah 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Tears of the Tarnished Blood - Inception [始]",
+          "abName": "Yinglong",
+          "desc": "[CantDuel]\nIgnores target's Defense Skill\nSkill ini does not hit musuh\n[EndSkill] Peroleh [DragonLance]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "This unit takes fixed damage by Skill ini's Final Power\n- This damage does not Stagger atau kurangi HP unit ini di bawah 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tears of the Tarnished Blood - Inception [始]",
+          "abName": "Yinglong",
+          "desc": "[CantDuel]\nIgnores target's Defense Skill\nSkill ini does not hit musuh\n[EndSkill] Peroleh [DragonLance]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "This unit takes fixed damage by Skill ini's Final Power\n- This damage does not Stagger atau kurangi HP unit ini di bawah 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060812,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tears of the Tarnished Blood - The End [終]",
+          "abName": "Yinglong",
+          "desc": "Skill ini tidak mengonsumsi E.G.O Resources\n[CantDuel]\nBeri +2% damage untuk setiap [DragonLance] pada diri sendiri (maks 6%)\nBeri +4% damage untuk setiap [CondensedBlood] pada diri sendiri (maks 20%)\n[WhenUse] Jika target utama memiliki 5+ [Burst], Coin Power +1\n[WhenUse] Pada 3+ [CondensedBlood], Atk Weight +1 dan Base Power +1\n[EndSkill] Hilangkan [DragonLance] dan [CondensedBlood] dari self, lalu mati",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Tears of the Tarnished Blood - The End [終]",
+          "abName": "Yinglong",
+          "desc": "Skill ini tidak mengonsumsi E.G.O Resources\n[CantDuel]\nBeri <style=\"highlight\">+3%</style> damage untuk setiap [DragonLance] pada diri sendiri (maks <style=\"highlight\">9%</style>)\nBeri <style=\"highlight\">+6%</style> damage untuk setiap [CondensedBlood] pada diri sendiri (maks <style=\"highlight\">30%</style>)\n<style=\"highlight\">[WhenUse] Coin Power +1 untuk setiap 5 [Burst] pada target utama (maks 2)</style>\n[WhenUse] Pada 3+ [CondensedBlood], Atk Weight +1 dan Base Power +1\n<style=\"highlight\">- Pada 4+ [CondensedBlood], Atk Weight +2 dan Base Power +2 saja</style>\n[EndSkill] Hilangkan [DragonLance] dan [CondensedBlood] dari self, lalu mati",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Burst] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tears of the Tarnished Blood - The End [終]",
+          "abName": "Yinglong",
+          "desc": "Skill ini tidak mengonsumsi E.G.O Resources\n[CantDuel]\nBeri +3% damage untuk setiap [DragonLance] pada diri sendiri (maks 9%)\nBeri +6% damage untuk setiap [CondensedBlood] pada diri sendiri (maks 30%)\n[WhenUse] Coin Power +1 untuk setiap 5 [Burst] pada target utama (maks <style=\"highlight\">3</style>)\n[WhenUse] Pada 3+ [CondensedBlood], Atk Weight +1 dan Base Power +1\n- Pada 4+ [CondensedBlood], Atk Weight +2 dan Base Power +2 saja\n<style=\"highlight\">- Pada 5+ [CondensedBlood], Atk Weight +3 dan Base Power +3 saja</style>\n[EndSkill] Hilangkan [DragonLance] dan [CondensedBlood] dari self, lalu mati",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Burst] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tears of the Tarnished Blood - Inception [始]",
+          "abName": "Yinglong",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Pada 4+ Reson. tertinggi, Atk Weight +1\n[BeforeAttack] -2 Base Power untuk setiap Coin Retak (maks -8)\n[EndSkill] Peroleh [DragonLance]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Tears of the Tarnished Blood - Inception [始]",
+          "abName": "Yinglong",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Pada 4+ Reson. tertinggi, Atk Weight +1\n[BeforeAttack] -2 Base Power untuk setiap Coin Retak (maks -8)\n[EndSkill] Peroleh [DragonLance]<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tears of the Tarnished Blood - Inception [始]",
+          "abName": "Yinglong",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Pada 4+ Reson. tertinggi, Atk Weight +1\n<style=\"highlight\">- Pada 6+ Reson. tertinggi, Atk Weight +2 saja</style>\n[BeforeAttack] -2 Base Power untuk setiap Coin Retak (maks -8)\n[EndSkill] Peroleh [DragonLance]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "To Remain Oneself [宁作吾]",
+          "abName": "Ling",
+          "desc": "[WhenUse] Peroleh 2 [Breath]\n[BeforeAttack] Pada 5+ (Potency [Breath] + Count [Breath]), Final Power +1\n[BeforeAttack] Jika unit ini memiliki [Cianjing], beri +15% damage\n[BeforeAttack] Jika unit ini memiliki [SeniorCianjing], beri +27% damage\n[EndSkill] Peroleh 5 [Cianjing]\n- Jika unit ini memiliki [Cianjing] atau [SeniorCianjing], konsumsi semua dari it dan peroleh 5 [SeniorCianjing]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Jika unit ini memiliki [Cianjing], beri +(Potency [Breath] / 2)% damage pada Serangan Critical (maks 15%)"
+                },
+                {
+                  "desc": "Jika unit ini memiliki [SeniorCianjing], beri +((Potency [Breath] + Count [Breath]) / 2)% damage pada Serangan Critical (maks 30%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "To Remain Oneself [宁作吾]",
+          "abName": "Ling",
+          "desc": "[WhenUse] Peroleh <style=\"highlight\">3</style> [Breath]\n[BeforeAttack] <style=\"highlight\">Final Power +1 untuk setiap 5 (Potency [Breath] + Count [Breath]) (maks 2)</style>\n[BeforeAttack] Jika unit ini memiliki [Cianjing], peroleh <style=\"highlight\">+1 Atk Weight</style> dan beri +15% damage\n[BeforeAttack] Jika unit ini memiliki [SeniorCianjing], peroleh <style=\"highlight\">+2 Atk Weight</style> dan beri +27% damage\n[EndSkill] Peroleh 5 [Cianjing]\n- Jika unit ini memiliki [Cianjing] atau [SeniorCianjing], konsumsi semua dari it dan peroleh 5 [SeniorCianjing]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Jika unit ini memiliki [Cianjing], beri +(Potency [Breath] / 2)% damage pada Serangan Critical (maks <style=\"highlight\">20</style>%)"
+                },
+                {
+                  "desc": "Jika unit ini memiliki [SeniorCianjing], beri +((Potency [Breath] + Count [Breath]) / 2)% damage pada Serangan Critical (maks <style=\"highlight\">40</style>%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">2</style> [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "To Remain Oneself [宁作吾]",
+          "abName": "Ling",
+          "desc": "[WhenUse] Peroleh <style=\"highlight\">4</style> [Breath]\n[BeforeAttack] Final Power +1 untuk setiap 5 (Potency [Breath] + Count [Breath]) (maks <style=\"highlight\">3</style>)\n<style=\"highlight\">[BeforeAttack] Jika unit ini tidak memiliki [Cianjing] atau [SeniorCianjing], recuperate setengah dari E.G.O resources dan SP terkonsumsi by Skill ini (dibulatkan ke bawah; efek ini applies to Corrosion Skill juga jika it activated akibat the \"To Corrode\" probability when menggunakan the Awakening Skill)</style>\n[BeforeAttack] Jika unit ini memiliki [Cianjing], peroleh +1 Atk Weight dan beri +<style=\"highlight\">25</style>% damage\n[BeforeAttack] Jika unit ini memiliki [SeniorCianjing], peroleh +2 Atk Weight dan beri +<style=\"highlight\">45</style>% damage\n[EndSkill] Peroleh 5 [Cianjing]\n- Jika unit ini memiliki [Cianjing] atau [SeniorCianjing], konsumsi semua dari it dan peroleh 5 [SeniorCianjing]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "Jika unit ini memiliki [Cianjing], beri +(<style=\"highlight\">Potency [Breath]</style>)% damage pada Serangan Critical (maks 20%)"
+                },
+                {
+                  "desc": "Jika unit ini memiliki [SeniorCianjing], beri +(<style=\"highlight\">Potency [Breath] + Count [Breath]</style>)% damage pada Serangan Critical (maks 40%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">3</style> [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "To Remain Oneself [宁作吾]",
+          "abName": "Ling",
+          "desc": "[CantIdentify]\nTarget secara acak\n[WhenUse] Peroleh 2 [Breath] dan +2 Count [Breath]\n[BeforeAttack] Jika unit ini memiliki [Cianjing] atau [SeniorCianjing], Coin Power +1\n[EndSkill] Peroleh 5 [Cianjing]\n- Jika unit ini memiliki [Cianjing] atau [SeniorCianjing], konsumsi semua dari it dan peroleh 5 [SeniorCianjing]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri Pride damage sebanyak 10% of the damage dealt (maks 10)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri Pride damage by 15% of the damage dealt (maks 15)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Jika unit ini memiliki [Cianjing], beri +(Potency [Breath] / 2)% damage pada Serangan Critical (maks 20%)"
+                },
+                {
+                  "desc": "Jika unit ini memiliki [SeniorCianjing], beri +((Potency [Breath] + Count [Breath]) / 2)% damage pada Serangan Critical (maks 40%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri Pride damage by 25% of the damage dealt (maks 25)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "To Remain Oneself [宁作吾]",
+          "abName": "Ling",
+          "desc": "[CantIdentify]\nTarget secara acak\n[WhenUse] Peroleh <style=\"highlight\">3</style> [Breath] dan +<style=\"highlight\">3</style> Count [Breath]\n[BeforeAttack] Jika unit ini memiliki [Cianjing] atau [SeniorCianjing], <style=\"highlight\">peroleh +1 Atk Weight, Base Power +1</style>, dan Coin Power +1\n[EndSkill] Peroleh 5 [Cianjing]\n- Jika unit ini memiliki [Cianjing] atau [SeniorCianjing], konsumsi semua dari it dan peroleh 5 [SeniorCianjing]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri Pride damage sebanyak 10% of the damage dealt (maks 10)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri Pride damage by 15% of the damage dealt (maks 15)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Jika unit ini memiliki [Cianjing], beri +(Potency [Breath] / 2)% damage pada Serangan Critical (maks <style=\"highlight\">30</style>%)"
+                },
+                {
+                  "desc": "Jika unit ini memiliki [SeniorCianjing], beri +((Potency [Breath] + Count [Breath]) / 2)% damage pada Serangan Critical (maks <style=\"highlight\">60</style>%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">2</style> [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri Pride damage by 25% of the damage dealt (maks 25)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "To Remain Oneself [宁作吾]",
+          "abName": "Ling",
+          "desc": "[CantIdentify]\nTarget secara acak\n[WhenUse] Peroleh <style=\"highlight\">4</style> [Breath] dan +<style=\"highlight\">4</style> Count [Breath]\n[BeforeAttack] Jika unit ini memiliki [Cianjing] atau [SeniorCianjing], peroleh +<style=\"highlight\">2</style> Atk Weight, Base Power +<style=\"highlight\">2</style>, dan Coin Power +<style=\"highlight\">2</style>\n[EndSkill] Peroleh 5 [Cianjing]\n- Jika unit ini memiliki [Cianjing] atau [SeniorCianjing], konsumsi semua dari it dan peroleh 5 [SeniorCianjing]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri Pride damage sebanyak 10% of the damage dealt (maks 10)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri Pride damage by 15% of the damage dealt (maks 15)<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "Jika unit ini memiliki [Cianjing], beri +(<style=\"highlight\">Potency [Breath]</style>)% damage pada Serangan Critical (maks 30%)"
+                },
+                {
+                  "desc": "Jika unit ini memiliki [SeniorCianjing], beri +(<style=\"highlight\">Potency [Breath] + Count [Breath]</style>)% damage pada Serangan Critical (maks 60%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Sinking] <style=\"highlight\">dan +2 Count [Sinking]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri Pride damage by 25% of the damage dealt (maks 25)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2061011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Repudiation",
+          "abName": "Penduduk Metropolaris",
+          "desc": "[BeforeAttack] Peroleh +1 Count [Charge]\n[BeforeAttack] Konsumsi hingga 6 Count [Charge] pada diri sendiri; lalu, beri 5 [ChargeForceField] pada diri sendiri dan pada (1 + (Count [Charge] dikonsumsi / 2)) kawan acak lain (maks 5 unit; dibulatkan ke bawah)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count [Charge]"
+                }
+              ]
+            },
+            {}
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Repudiation",
+          "abName": "Penduduk Metropolaris",
+          "desc": "<style=\"highlight\">[WhenUse] Peroleh Clash Power setara dengan Potency [Charge] pada diri sendiri (maks 2)</style>\n[BeforeAttack] Peroleh +<style=\"highlight\">3</style> Count [Charge]\n[BeforeAttack] Konsumsi hingga <style=\"highlight\">8</style> Count [Charge] pada diri sendiri; lalu, beri 5 [ChargeForceField] pada diri sendiri dan pada (1 + (Count [Charge] dikonsumsi / 2)) kawan acak lain (maks <style=\"highlight\">6</style> unit; dibulatkan ke bawah)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count [Charge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Beri 1 [PhotoElectricity]</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Repudiation",
+          "abName": "Penduduk Metropolaris",
+          "desc": "[WhenUse] Peroleh Clash Power setara dengan Potency [Charge] pada diri sendiri (maks <style=\"highlight\">3</style>)\n[BeforeAttack] Peroleh +<style=\"highlight\">5</style> Count [Charge]\n[BeforeAttack] Konsumsi hingga <style=\"highlight\">10</style> Count [Charge] pada diri sendiri; lalu, beri 5 [ChargeForceField] pada diri sendiri dan pada (1 + (Count [Charge] dikonsumsi / 2)) kawan acak lain (maks <style=\"highlight\">7</style> unit; dibulatkan ke bawah)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count [Charge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">2</style> [PhotoElectricity]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2061021,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Repudiation",
+          "abName": "Penduduk Metropolaris",
+          "desc": "[CantIdentify]\nTarget secara acak\nBeri +15% damage terhadap target yang memiliki Perisai\n[BeforeAttack] Base Power -6 untuk setiap Coin Retak (maks -12)\n[BeforeAttack] Peroleh +3 Count [Charge]\n[BeforeAttack] Konsumsi hingga 6 Count [Charge]; lalu, beri 7 [ChargeForceField] pada diri sendiri dan pada (1 + (Count [Charge] dikonsumsi / 2)) kawan acak lain (maks 5 unit; dibulatkan ke bawah)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count [Charge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnStartCoin] Konsumsi hingga 10 Count [Charge]; lalu, Coin ini memperoleh Final Power setara dengan Count yang dikonsumsi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Repudiation",
+          "abName": "Penduduk Metropolaris",
+          "desc": "[CantIdentify]\nTarget secara acak\nBeri +<style=\"highlight\">20</style>% damage terhadap target yang memiliki Perisai\n[BeforeAttack] Base Power -6 untuk setiap Coin Retak (maks -12)\n<style=\"highlight\">[BeforeAttack] Peroleh Final Power setara dengan Potency [Charge] pada diri sendiri (maks 2)</style>\n[BeforeAttack] Peroleh +<style=\"highlight\">4</style> Count [Charge]\n[BeforeAttack] Konsumsi hingga <style=\"highlight\">8</style> Count [Charge] pada diri sendiri; lalu, beri 7 [ChargeForceField] pada diri sendiri dan pada (1 + (Count [Charge] dikonsumsi / 2)) kawan acak lain (maks <style=\"highlight\">6</style> unit; dibulatkan ke bawah)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count [Charge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnStartCoin] Konsumsi hingga 10 Count [Charge]; lalu, Coin ini memperoleh Final Power setara dengan Count yang dikonsumsi"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Beri 1 [PhotoElectricity]</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Repudiation",
+          "abName": "Penduduk Metropolaris",
+          "desc": "[CantIdentify]\nTarget secara acak\nBeri +<style=\"highlight\">25</style>% damage terhadap target yang memiliki Perisai\n[BeforeAttack] Base Power -6 untuk setiap Coin Retak (maks -12)\n[BeforeAttack] Peroleh Final Power setara dengan Potency [Charge] pada diri sendiri (maks <style=\"highlight\">3</style>)\n[BeforeAttack] Peroleh +<style=\"highlight\">5</style> Count [Charge]\n[BeforeAttack] Konsumsi hingga <style=\"highlight\">10</style> Count [Charge] pada diri sendiri; lalu, beri 7 [ChargeForceField] pada diri sendiri dan pada (1 + (Count [Charge] dikonsumsi / 2)) kawan acak lain (maks <style=\"highlight\">7</style> unit; dibulatkan ke bawah)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count [Charge]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnStartCoin] Konsumsi hingga 10 Count [Charge]; lalu, Coin ini memperoleh Final Power setara dengan Count yang dikonsumsi"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">2</style> [PhotoElectricity]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

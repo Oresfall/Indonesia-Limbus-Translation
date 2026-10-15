@@ -1,0 +1,54 @@
+{
+    "dataList": [
+        {
+            "id": 838101,
+            "name": "Festival of Wonders",
+            "desc": "Peroleh 1 [FestivalFever] setiap kali unit ini memberi a positive buff to other kawan dengan efek Skillnya (sekali per type of buff)\n\nAwal Giliran: peroleh [FestivalFever] setara dengan jumlah dari other kawan (maks 3)\nAkhir Giliran: pulihkan SP setara dengan [FestivalFever] pada diri sendiri (tidak mengaktifkan at -45 SP)\n\nAkhir Giliran: at 10+ [FestivalFever], gunakan Skill kuat giliran berikutnya (however, jika 'The Parade Repeats for Eternity' aktif, efek ini tidak mengaktifkan)"
+        },
+        {
+            "id": 838102,
+            "name": "The Parade's Lady",
+            "desc": "Awal Giliran: peroleh 8 [Protection]\n- With setiap kawan kematian, peroleh 1 less [Protection] pada Awal Giliran\nAkhir Giliran: Jika unit ini did not terima any HP damage giliran ini, peroleh 2 [Agility] giliran berikutnya"
+        },
+        {
+            "id": 838103,
+            "name": "The Parade Repeats for Eternity",
+            "desc": "Akhir Giliran: jika pada 5+ [IncompleteParade], gunakan Skill kuat giliran berikutnya"
+        },
+        {
+            "id": 838104,
+            "name": "Parade of Happiness",
+            "desc": "Gains pola baru ketika HP unit ini turun to 66% atau less untuk pertama kalinya\n\nSetelah pattern ubah,\n- Naikkan Min & Maks Speed values sebanyak 1\n- Ubah [BloomingThorns] pada diri sendiri to [BloomingThorns_2nd]\n- Semua kawan peroleh 3 [FestivalFever] dan 3 [BloomingThorns] at setiap giliran"
+        },
+        {
+            "id": 838105,
+            "name": "Eternal Parade of Happiness",
+            "desc": "Gains pola baru ketika HP unit ini turun to 33% atau less untuk pertama kalinya\n\nSetelah pattern ubah,\n- Naikkan Min & Maks Speed values sebanyak 2\n- Uses a powerful Skill; lalu weakens Resistances terhadap Slash, Pierce, dan Blunt (+0.5)\n- Ubah [BloomingThorns] dan [BloomingThorns_2nd] pada diri sendiri to [BloomingThorns_3rd]\n- Semua kawan peroleh 5 [FestivalFever] dan 5 [BloomingThorns] at setiap giliran"
+        },
+        {
+            "id": 838106,
+            "name": "This isn't how it ends",
+            "desc": "Akhir Giliran: Jika tidak ada kawan yang hidup nor Backup kawan, konsumsi semua [FestivalFever] dan [IncompleteParade] giliran berikutnya dan menjadi Stagger (activates immediately jika tidak ada kawan yang hidup pada Awal Giliran)\n\nIn the giliran setelah unit ini kena Stagger, summon 2 Kindred Bloodfiends"
+        },
+        {
+            "id": 838107,
+            "name": "Bloodfeast",
+            "desc": "Jika unit ini is on field, atau is one of the unit that can appear on this Stage, increase [BloodDinner] value sebanyak jumlah dari [Laceration] damage collectively received sebanyak setiap unit. \nKetika unit ini memasuki pertarungan, the sleeping blood drenching the battlefield will fill the surface."
+        },
+        {
+            "id": 838108,
+            "name": "Starved dan Withered",
+            "desc": "Peroleh [StarvingDolcineaOne] saat dimulainya Pertempuran"
+        },
+        {
+            "id": 838901,
+            "name": "The Knight of the White Moon",
+            "desc": "Damage Diterima -20%\nPeroleh 3 [Enhancement] saat Kalah Clash"
+        },
+        {
+            "id": 838902,
+            "name": "A Close Match",
+            "desc": "Pada 10+ Clashes terhadap the same musuh, secara acak peroleh atau kehilangan Clash Power sebanyak (Clash Count / 10) dalam Clash. (dibulatkan ke bawah)"
+        }
+    ]
+}

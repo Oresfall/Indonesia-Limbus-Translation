@@ -1,0 +1,53 @@
+{
+  "dataList": [
+    {
+      "id": "CleanUp_LowMorale",
+      "name": "Organization Compulsion",
+      "desc": "- Moral Rendah\n- Kehilangan 5 SP on Kalah Clash. Peroleh 1 Haste giliran berikutnya ketika diserang (maks 2)",
+      "summary": "Kehilangan 5 SP on Kalah Clash. Peroleh 1 Haste giliran berikutnya ketika diserang",
+      "undefined": "-"
+    },
+    {
+      "id": "CleanUp_Panic",
+      "name": "Organization Compulsion",
+      "desc": "- Panik\n- Peroleh 2 Fragile. Peroleh 1 Haste giliran berikutnya ketika diserang (maks 3)",
+      "summary": "Peroleh 3 Fragile. Peroleh 1 Haste giliran berikutnya ketika diserang",
+      "undefined": "-"
+    },
+    {
+      "id": "Acclamation_LowMorale",
+      "name": "Echoes of the Manor",
+      "desc": "- Moral Rendah\n- Clash Power -1 pada diri sendiri. Beri +10% damage pada Coin Kepala",
+      "summary": "Clash Power -1 pada diri sendiri. Beri +10% damage pada Coin Kepala",
+      "undefined": "-"
+    },
+    {
+      "id": "Acclamation_Panic",
+      "name": "Echoes of the Manor",
+      "desc": "- Panik\n- Clash Power -2 pada diri sendiri. Peroleh 1 Damage Up",
+      "summary": "Clash Power -2 pada diri sendiri. Peroleh 1 Damage Up",
+      "undefined": "-"
+    },
+    {
+      "id": "Unstable_LowMorale",
+      "name": "Splitting",
+      "desc": "- Moral Rendah\n- Kehilangan 2 HP pada diri sendiri setiap Clash. Peroleh 1 Level Offense Up pada Awal Giliran.",
+      "summary": "Kehilangan 2 HP pada diri sendiri setiap Clash",
+      "undefined": "-"
+    },
+    {
+      "id": "Unstable_Panic",
+      "name": "Splitting",
+      "desc": "- Panik\n- Kehilangan 3 HP pada diri sendiri setiap Clash. Peroleh 2 Level Offense Up pada Awal Giliran.",
+      "summary": "Kehilangan 3 HP pada diri sendiri setiap Clash",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPaBa",
+      "name": "Bereavement",
+      "desc": "Akhir Giliran: pada -15 atau higher SP, kehilangan 10 SP.\nKetika diserang, kehilangan 2 SP dan peroleh 1 Level Offense Up giliran berikutnya. (3 kali per giliran)\nAwal Giliran: pada kurang dari 0 SP, peroleh 3 Attack Power Up.",
+      "summary": "Ketika diserang, kehilangan SP dan peroleh 1 Level Offense Up giliran berikutnya.\nAwal Giliran: pada kurang dari 0 SP, peroleh 3 Attack Power Up.",
+      "undefined": "-"
+    }
+  ]
+}

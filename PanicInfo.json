@@ -1,0 +1,142 @@
+{
+  "dataList": [
+    {
+      "id": 1001,
+      "panicName": "Compulsion",
+      "lowMoraleDescription": "Awal Giliran: Peroleh 2 <sprite name=\"Agility\"><color=#f8c200><u><link=\"Agility\">Haste</color></link></u> dan 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>",
+      "panicDescription": "Awal Giliran: Kehilangan 10 HP."
+    },
+    {
+      "id": 1002,
+      "panicName": "Outlash",
+      "lowMoraleDescription": "Awal Giliran: Peroleh 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Attack Power Up</color></link></u> dan 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>",
+      "panicDescription": "Awal Giliran: Random ally loses 20 SP."
+    },
+    {
+      "id": 1003,
+      "panicName": "Overwhelmed",
+      "lowMoraleDescription": "Awal Giliran: Peroleh 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Attack Power Down</color></link></u>",
+      "panicDescription": "Tidak bertindak pada giliran ini."
+    },
+    {
+      "id": 1004,
+      "panicName": "Atrophied",
+      "lowMoraleDescription": "Awal Giliran: Peroleh 2 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Attack Power Down</color></link></u>",
+      "panicDescription": "Awal Giliran: Peroleh 4 <sprite name=\"Reduction\"><color=#e30000><u><link=\"Reduction\">Attack Power Down</color></link></u>"
+    },
+    {
+      "id": 1005,
+      "panicName": "Gelisah",
+      "lowMoraleDescription": "Awal Giliran: Peroleh 1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Damage Up</color></link></u> dan 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>",
+      "panicDescription": "Awal Giliran: Peroleh 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Damage Up</color></link></u> dan 5 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>"
+    },
+    {
+      "id": 1006,
+      "panicName": "Running",
+      "lowMoraleDescription": "Tidak bertindak. Ketika diserang, unit ini kalah setelah akhir skill.",
+      "panicDescription": ""
+    },
+    {
+      "id": 1007,
+      "panicName": "Sorrow",
+      "lowMoraleDescription": "Peroleh 2 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Damage Down</color></link></u> each giliran",
+      "panicDescription": "Peroleh 5 <sprite name=\"AttackDmgDown\"><color=#e30000><u><link=\"AttackDmgDown\">Damage Down</color></link></u> dan 2 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u> each giliran"
+    },
+    {
+      "id": 1008,
+      "panicName": "Maddened",
+      "lowMoraleDescription": "Saat low morale for pertama kalinya, menargetkan unit tanpa pandang bulu",
+      "panicDescription": "Target pandang bulu; Clash Power +1, dan peroleh 2 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Damage Up</color></link></u>"
+    },
+    {
+      "id": 1009,
+      "panicName": "Suicidal",
+      "lowMoraleDescription": "Saat low morale for pertama kalinya, become unable to act",
+      "panicDescription": "Tidak bertindak for 3 giliran. After 3 giliran, unit dies pada giliran start; semua kawannya kehilangan additional 10 SP with every SP loss condition"
+    },
+    {
+      "id": 1010,
+      "panicName": "Wandering",
+      "lowMoraleDescription": "Akhir Giliran: Beri 2 SP damage kepada kawan",
+      "panicDescription": "Akhir Giliran: Beri 5 SP damage kepada kawan. Flees from battle after 3 giliran terlewati"
+    },
+    {
+      "id": 1011,
+      "panicName": "Unstable",
+      "lowMoraleDescription": "Awal Giliran: Peroleh 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Attack Power Up</color></link></u> dan 3 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Bind</color></link></u>",
+      "panicDescription": "Awal Giliran: Menjadi staggered"
+    },
+    {
+      "id": 1012,
+      "panicName": "Dejection",
+      "lowMoraleDescription": "Peroleh 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>; Saat clash, jika ada Coin mendarat di sisi ekor, Clash Power -1 untuk clash tersebut.",
+      "panicDescription": "Peroleh 3 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>; Saat clash, jika ada Coin mendarat di sisi ekor, Clash Power -3 untuk clash tersebut."
+    },
+    {
+      "id": 9999,
+      "panicName": "Panik",
+      "lowMoraleDescription": "",
+      "panicDescription": "Tidak bertindak pada giliran ini."
+    },
+    {
+      "id": 1013,
+      "panicName": "Impurity",
+      "lowMoraleDescription": "Peroleh 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>. Target loses 2 SP jika unit ini loses the clash",
+      "panicDescription": "Peroleh 1 <sprite name=\"Vulnerable\"><color=#e30000><u><link=\"Vulnerable\">Fragile</color></link></u>. Target loses 5 SP jika unit ini loses the clash"
+    },
+    {
+      "id": 1014,
+      "panicName": "Vengeance",
+      "lowMoraleDescription": "Awal Giliran: Peroleh 1 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Attack Power Up</color></link></u> dan 3 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Defense Level Down</color></link></u>. Peroleh <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Damage Up</color></link></u> berdasarkan the amount of damage taken last giliran (1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Damage Up</color></link></u> untuk setiap 3% dari Maks HP lost)",
+      "panicDescription": "Awal Giliran: Peroleh 2 <sprite name=\"Enhancement\"><color=#f8c200><u><link=\"Enhancement\">Attack Power Up</color></link></u> dan 6 <sprite name=\"DefenseDown\"><color=#e30000><u><link=\"DefenseDown\">Defense Level Down</color></link></u>. Peroleh <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Damage Up</color></link></u> berdasarkan the amount of damage taken last giliran (1 <sprite name=\"AttackDmgUp\"><color=#f8c200><u><link=\"AttackDmgUp\">Damage Up</color></link></u> untuk setiap 3% dari Maks HP lost)"
+    },
+    {
+      "id": 1015,
+      "panicName": "Pucat Panik",
+      "lowMoraleDescription": "[MentalSystemResultDecrease_Typo] +2",
+      "panicDescription": "Every Akhir Giliran: Peroleh 2 <sprite name=\"Binding\"><color=#f8c200><u><link=\"Binding\">Bind</color></link></u>.\nEvery Coin unit ini flips lands on tails."
+    },
+    {
+      "id": 1016,
+      "panicName": "Resentment",
+      "lowMoraleDescription": "Awal Giliran: peroleh 2 [AttackDmgUp] dan 3 [DefenseDown]",
+      "panicDescription": "Awal Giliran: peroleh 1 [Enhancement] dan 5 [DefenseDown]"
+    },
+    {
+      "id": 1026,
+      "panicName": "Ruin",
+      "lowMoraleDescription": "Peroleh 3 [Sinking] pada every Akhir Giliran; Clash Power -1",
+      "panicDescription": "Peroleh 5 [Sinking] dan +3 Count [Sinking] pada every Akhir Giliran; Clash Power -2"
+    },
+    {
+      "id": 9994,
+      "panicName": "Love dan Hate",
+      "lowMoraleDescription": "",
+      "panicDescription": "Tidak bertindak pada giliran ini."
+    },
+    {
+      "id": 1065,
+      "panicName": "Shattermark",
+      "lowMoraleDescription": "Clash Power -1, Defense Level -2",
+      "panicDescription": "Clash Power -2, Defense Level -3"
+    },
+    {
+      "id": 1085,
+      "panicName": "Blue Sand",
+      "lowMoraleDescription": "Clash Power -1\nMin & Maks Speed -1",
+      "panicDescription": "Clash Power -2\nMin & Maks Speed -1"
+    },
+    {
+      "id": 1086,
+      "panicName": "Dazzle",
+      "lowMoraleDescription": "Akhir Giliran: Peroleh 1 [Binding] dan 2 [AttackDown] giliran berikutnya",
+      "panicDescription": "Akhir Giliran: Peroleh 1 [Binding] dan 4 [AttackDown] giliran berikutnya"
+    },
+    {
+      "id": 1087,
+      "panicName": "Solitude",
+      "lowMoraleDescription": "Akhir Giliran: Peroleh +2 Count [Sinking]",
+      "panicDescription": "Akhir Giliran: Peroleh +3 Count [Sinking]"
+    }
+  ]
+}

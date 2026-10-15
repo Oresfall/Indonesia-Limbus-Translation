@@ -1,0 +1,58 @@
+{
+  "dataList": [
+    {
+      "id": 1043,
+      "panicName": "Eldtree Mutation",
+      "lowMoraleDescription": "Peroleh 1 [AttackDmgUp], 1 [Vulnerable], dan 1 [BurstVulnerable]",
+      "panicDescription": "Peroleh 2 [AttackDmgUp], 2 [Vulnerable], dan 2 [BurstVulnerable]"
+    },
+    {
+      "id": 1044,
+      "panicName": "Heart of Evil",
+      "lowMoraleDescription": "Clash Power +2 terhadap target dengan [OminousTalisman]\nAwal Giliran: peroleh 2 [AttackDmgUp] dan 1 [Vulnerable]",
+      "panicDescription": "Clash Power +3 terhadap target dengan [OminousTalisman]\nAwal Giliran: peroleh 3 [AttackDmgUp] dan 2 [Vulnerable]"
+    },
+    {
+      "id": 1045,
+      "panicName": "Heart of Oppressive Evil",
+      "lowMoraleDescription": "Clash Power +2 terhadap target dengan [OminousTalisman]\nAwal Giliran: peroleh 3 [AttackDmgUp] dan 1 [Vulnerable]",
+      "panicDescription": "Clash Power +3 terhadap target dengan [OminousTalisman]\nAwal Giliran: peroleh 4 [AttackDmgUp] dan 2 [Vulnerable]"
+    },
+    {
+      "id": 1047,
+      "panicName": "Jia Qiu",
+      "lowMoraleDescription": "Beri +10% damage terhadap target yang bukan Hong Lu",
+      "panicDescription": "Beri +20% damage terhadap target yang bukan Hong Lu"
+    },
+    {
+      "id": 1042,
+      "panicName": "Charge Circuitry Countercurrent",
+      "lowMoraleDescription": "Ketika Clash terhadap target dengan [Burst], peroleh +3 Count [Charge] dan 1 [Vulnerable] (2 kali per giliran)",
+      "panicDescription": "Ketika Clash terhadap target dengan [Burst], peroleh +5 Count [Charge], 1 [AttackDmgUp], dan 2 [Vulnerable] (2 kali per giliran)"
+    },
+    {
+      "id": 9995,
+      "panicName": "Catching Breath",
+      "lowMoraleDescription": "Awal Giliran: peroleh 2 [DefenseUp] dan kehilangan 2 Potency [Breath]",
+      "panicDescription": "Awal Giliran: peroleh 5 [DefenseUp] dan kehilangan 5 Potency [Breath]"
+    },
+    {
+      "id": 1055,
+      "panicName": "Double-edged Feather",
+      "lowMoraleDescription": "Awal Giliran: peroleh 1 Fragile dan 1 HP Healing Boost. Saat Menyerang, beri 1 Rupture dan 1 Bleed",
+      "panicDescription": "Awal Giliran: peroleh 2 Fragile dan 2 HP Healing Boost. Saat Menyerang, beri 1 Rupture dan 1 Bleed"
+    },
+    {
+      "id": 1056,
+      "panicName": "Angst",
+      "lowMoraleDescription": "Clash Power +2 terhadap target dengan [OminousTalisman]\nAwal Giliran: peroleh 2 [AttackDmgUp] dan 1 [Vulnerable]",
+      "panicDescription": "Clash Power +3 terhadap target dengan [OminousTalisman]\nAwal Giliran: peroleh 3 [AttackDmgUp] dan 2 [Vulnerable]"
+    },
+    {
+      "id": 1058,
+      "panicName": "Charge Order",
+      "lowMoraleDescription": "Awal Giliran: peroleh 1 [Vulnerable] dan beri 1 [AttackDmgUp] ke semua kawan",
+      "panicDescription": "Awal Giliran: peroleh 2 [Vulnerable] dan beri 2 [AttackDmgUp] ke semua kawan"
+    }
+  ]
+}

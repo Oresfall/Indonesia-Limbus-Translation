@@ -1,0 +1,19 @@
+{
+  "dataList": [
+    {
+      "id": 9103901,
+      "name": "Ayam Gembul",
+      "desc": "Ketika Terkena: Peroleh 1 [LeakedOutSauce] (6 kali per Pertempuran)"
+    },
+    {
+      "id": 9103902,
+      "name": "Ayam Kosong",
+      "desc": "Awal Giliran: Peroleh 2 [Vulnerable] jika unit ini tidak memiliki Marinade"
+    },
+    {
+      "id": 9104101,
+      "name": "Ampul HP",
+      "desc": "Awal Giliran: Pulihkan 15 HP\nSaat kurang dari 50% HP, pulihkan 15 HP tambahan"
+    }
+  ]
+}

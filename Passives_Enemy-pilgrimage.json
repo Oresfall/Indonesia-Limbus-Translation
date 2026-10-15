@@ -1,0 +1,82 @@
+{
+  "dataList": [
+    {
+      "id": 128901,
+      "name": "Diversion",
+      "desc": "Akhir Giliran: jika unit ini did not terima damage giliran ini, peroleh 2 [Agility] giliran berikutnya\nJika Speed unit ini lebih cepat daripada the attack target's, beri +5% damage untuk setiap 1 perbedaan Speed (maks 50%)"
+    },
+    {
+      "id": 128902,
+      "name": "Dipped Blade",
+      "desc": "Saat Menyerang dengan Serangan Tanpa Lawan, beri 1 [NervousImpairment]"
+    },
+    {
+      "id": 128903,
+      "name": "Abyssal Worship",
+      "desc": "Awal Giliran: pulihkan 3 SP untuk setiap kawan yang bertahan hidup"
+    },
+    {
+      "id": 9102701,
+      "name": "Abyssal Horror",
+      "desc": "Beri +1 lebih [Sinking] Potency Saat Menyerang terhadap target tanpa [Sinking]"
+    },
+    {
+      "id": 9102801,
+      "name": "Abyssal Horror",
+      "desc": "Beri +2 lebih [Sinking] Potency Saat Menyerang terhadap target tanpa [Sinking]"
+    },
+    {
+      "id": 9102802,
+      "name": "Nethersea Brand Utopia",
+      "desc": "Ketika on top of [NetherseaBrandUnit]: peroleh Clash Power +2 dan double jumlah dari [NervousImpairment] diberikan Saat Menyerang"
+    },
+    {
+      "id": 9102901,
+      "name": "Standby",
+      "desc": "Ketika in [WaitingforCommandMod], tidak dapat gunakan Skill Attack hingga menerima damage.\n\nKetika unit ini menerima damage while in [WaitingforCommandMod], enter [ParticipationMod] dan start menggunakan Skill Attack starting giliran berikutnya"
+    },
+    {
+      "id": 9102902,
+      "name": "Combat-Ready",
+      "desc": "Awal Giliran in [ParticipationMod]:\n- Beri 3 [NervousImpairment] untuk semua musuh dengan kurang dari 15 [NervousImpairment]\n- Min & Maks Speed +3\nPeroleh 1 [AttackUp] untuk setiap 10% HP yang hilang (maks 8)\n\nAkhir Giliran in [ParticipationMod]: terima damage tetap setara dengan 10% HP",
+      "summary": ""
+    },
+    {
+      "id": 9102903,
+      "name": "Survival Reflexes",
+      "desc": "Ketika Clash dengan target, atau Saat Menyerang dengan an Unopposed attack, beri 2 [NervousImpairment]\n- Jika unit ini is on top of [NetherseaBrandUnit], beri 1 lebih [NervousImpairment]"
+    },
+    {
+      "id": 9102904,
+      "name": "Nethersea Brand Utopia",
+      "desc": "Ketika on top of [NetherseaBrandUnit]: peroleh Final Power +2 dan Coin Power +2, dan double jumlah dari [NervousImpairment] diberikan Saat Menyerang"
+    },
+    {
+      "id": 9103001,
+      "name": "In-depth Cognition",
+      "desc": "-0.5 untuk semua Affinity Resistances"
+    },
+    {
+      "id": 9103002,
+      "name": "Propagatory Instinct",
+      "desc": "On kematian, hasilkan [NetherseaBrandUnit] in the unit kawan' territory giliran berikutnya."
+    },
+    {
+      "id": 9103003,
+      "name": "Nethersea Brand Utopia",
+      "desc": "Ketika on top of [NetherseaBrandUnit]: peroleh Final Power +1 dan Coin Power +1, dan double jumlah dari [NervousImpairment] diberikan Saat Menyerang"
+    },
+    {
+      "id": 9103101,
+      "name": "Nethersea Brand Utopia",
+      "desc": "Skill Attack designate the closest musuh as target utama, dan select sub-target dari the front\n\n\nKetika on top of [NetherseaBrandUnit]...\n- Designates the furthest musuh as target, dan converts semua coins menjadi [SuperCoin]\n- Peroleh Final Power +2 dan Coin Power +2; double jumlah dari [NervousImpairment] diberikan Saat Menyerang",
+      "summary": "Ketika on top of [NetherseaBrandUnit], enhance Skill"
+    },
+    {
+      "id": 9103201,
+      "name": "Debris Removal",
+      "desc": "Speed unit ini ditetapkan ke 1. Spawns in an inactive state in battles that [NetherseaBrandUnit] may appear.\n\nKetika [NetherseaBrandUnit] appears on the battlefield, unit ini menjadi aktif dan damageable.\n- Ketika HP unit ini turun menjadi 1 dari damage, aktifkan Hand of the Saint dan hilangkan semua [NetherseaBrandUnit] dari the battlefield. Ketika efek ini triggers, Hand of the Saint menjadi inactive selama giliran berikutnya.\n- Unit ini menerima damage hanya dari Skill mainly targeting unit ini, dan it menerima no other damage.\n- Ketika it menjadi inactive, it removes semua efek dari diri sendiri dan memulihkan back ke maks HP.",
+      "summary": "Hapus semua [NetherseaBrandUnit] on the battlefield"
+    }
+  ]
+}

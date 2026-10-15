@@ -1,0 +1,219 @@
+{
+    "dataList": [
+      {
+        "id": 114501,
+        "name": "The Thumb's Officer, Capo IIII",
+        "desc": "Terima -30% damage dari [Combustion], [Laceration], [Vibration], [Burst], dan [Sinking]\n\nKetika flipping a Coin that konsumsi [BulletPropellant]: while not having [BulletPropellant] tidak dapat cancel unit ini's attacks, the Coin's \"beri [Combustion]\" dan \"beri [Combustion] Count\" efek do not aktifkan\n\nDi dalam Clash, beri +(1 + (# of Clashes / 3)) Count [Vibration]\n(maks 3; 3 kali per giliran terhadap target yang sama)"
+      },
+      {
+        "id": 114502,
+        "name": "Ten Blades of the East",
+        "desc": "Pada Awal Pertempuran, dan pada Awal Giliran of memperoleh pola baru:\n- Peroleh 1 [Bothersome]\n- Pulihkan 5 SP untuk setiap 10% HP yang hilang pada diri sendiri (maks 40)"
+      },
+      {
+        "id": 114503,
+        "name": "Chosen Prey",
+        "desc": "Awal Giliran: beri 1 [Prey] terhadap target that dealt the most damage ke unit ini giliran sebelumnya\n\nSetelah Lei Heng attacks target dengan [Prey], jika target is:\n- Stagger, semua musuh kehilangan 10 SP dan peroleh 1 [ParryingResultDown] untuk giliran ini dan giliran berikutnya (sekali per giliran)\n- Defeated, aktifkan efek di atas sekali lebih"
+      },
+      {
+        "id": 114504,
+        "name": "Tiantui Star's Blade [天退星刀]",
+        "desc": "Serangan Tanpa Lawan beri +30% damage Saat Menyerang dan beri 1 [Vulnerable] giliran berikutnya\n\nSkill Coin that spent [BulletPropellant] beri +20% damage Saat Menyerang dan beri 2 [DefenseDown] giliran berikutnya\n\nEfek di atas do not aktifkan jika target equipped a Skill Defense"
+      },
+      {
+        "id": 114505,
+        "name": "Tigermark Round Reload",
+        "desc": "Akhir Giliran: at 90% atau kurang HP, atau pada end of the 2nd giliran, reload [BulletPropellant] dan peroleh pola baru giliran berikutnya\n- Jika unit ini kena Stagger, pulih dari Stagger"
+      },
+      {
+        "id": 114506,
+        "name": "Lei Heng [雷橫]",
+        "desc": "Akhir Giliran: at 80% atau kurang HP, atau pada end of the 4th giliran, peroleh pola baru giliran berikutnya\n- Gunakan serangan kuat ('Tanglecleaver'), repeat setiap 3rd giliran. +10 to Min & Maks Speed untuk giliran in which unit ini menggunakan Skill ini\n- Pada the start of that giliran, peroleh 25 [BattleSense]\n- Jika unit ini kena Stagger, pulih dari Stagger"
+      },
+      {
+        "id": 114507,
+        "name": "Tiantui Star [天退星]",
+        "desc": "Jika HP unit ini dropped to 60% atau di bawah pada Akhir Giliran, atau jika unit ini is set untuk menggunakan serangan kuat ('Tanglecleaver') giliran berikutnya for the second time Pertempuran ini, peroleh pola baru giliran berikutnya\n- Ketika that giliran starts, peroleh 1 [Irritation]\n- Ketika that giliran starts, peroleh 18 [BulletPropellantSpecial] dan reload immediately\n· Jika unit ini spends semua [BulletPropellantSpecial], ubah efek to [BulletPropellant] dan summon 2 dari \"Stern Soldato of the Thumb\" unit giliran berikutnya dan have them supply unit ini dengan [BulletPropellantSpecial]\n- Ketika Stagger, pulih dari Stagger"
+      },
+      {
+        "id": 114508,
+        "name": "Lei Heng, The Pinky's Tiantui Star",
+        "desc": "Akhir Giliran: at 40% atau kurang HP, atau jika unit ini is set untuk menggunakan serangan kuat ('Tanglecleaver') giliran berikutnya for the third time Pertempuran ini, peroleh pola baru giliran berikutnya\n- Replace the powerful attack 'Tanglecleaver' dengan 'Savage Tigerslayer's Perfected Flurry of Blades'. +15 to Min & Maks Speed untuk giliran in which unit ini menggunakan Skill ini\n- Ubah [BattleSense] to [RestoredBattleSense]\n- Ubah [Irritation] to [HugeIrritation]\n- Jika unit ini kena Stagger, pulih dari Stagger"
+      },
+      {
+        "id": 114510,
+        "name": "Chachihu [揷翅虎]",
+        "desc": "Awal Pertempuran: berdasarkan Speed unit ini value,\n- Pulihkan SP setara dengan Speed value. Pada kurang dari 0 SP, double the pulihkan amount\n- Peroleh (Speed Value / 3) [SlashDamageUp] (maks 5)\n\nEncounter Start: jika unit ini memiliki 3+ [Binding], efek di atas tidak mengaktifkan; peroleh [DefenseDown] setara dengan [Binding] pada diri sendiri (maks 9)"
+      },
+      {
+        "id": 114512,
+        "name": "Tiantui Star's Blade - Kepanasan",
+        "desc": "Jika unit ini used serangan kuat ('Tanglecleaver' atau 'Savage Tigerslayer's Perfected Flurry of Blades'), peroleh [Complacency] giliran berikutnya setara dengan jumlah dari kali those skills were used (maks 5)"
+      },
+      {
+        "id": 117101,
+        "name": "Savage Tigermark Support",
+        "desc": "Awal Giliran: peroleh 5 [Vulnerable]\nAkhir Giliran: supply [BulletPropellantSpecial] to Lei Heng\n\nJika unit ini terbunuh, unit ini tidak dapat supply [BulletPropellantSpecial] for Lei Heng; Lei Heng peroleh 1 [Vulnerable] dan 1 [ParryingResultDown] giliran berikutnya"
+      },
+      {
+        "id": 113501,
+        "name": "My Little Brother's Hand I Let Slip",
+        "desc": "Saat Menyerang terhadap musuh, beri 1 [GazeReplica] (sekali per Identitas per giliran)\nKetika attacked sebanyak musuh, beri 1 [GazeReplica] terhadap penyerang (sekali per Identitas per giliran)\nAwal Giliran: jika Hong Lu berada di medan tempur, beri 1 [GazeReplica] terhadap Hong Lu"
+      },
+      {
+        "id": 113502,
+        "name": "Grasp",
+        "desc": "Prioritaskan target dengan [GraspReplica]\nGains pola baru ketika terdapat target dengan [GraspReplica]; +0.1 untuk semua Resistances"
+      },
+      {
+        "id": 113503,
+        "name": "E.G.O Corrosion - N Corp.",
+        "desc": "Setelah entering Pertempuran ini, peroleh 1 [EgoErodeReplica] pada setiap passing Akhir Giliran\n- Akhir Giliran: saat kurang dari 50% HP, atau pada -20 SP atau less, peroleh 1 tambahan [EgoErodeReplica]"
+      },
+      {
+        "id": 113504,
+        "name": "E.G.O Temporary Maks Attunement",
+        "desc": "Jika terdapat 4+ Pendosa dengan 4+ [GazeReplica] Stack, gunakan Skill 'Awe[TabExplain], Contempt[TabExplain] 【Unleashed】' Skill"
+      },
+      {
+        "id": 113505,
+        "name": "Better avert your gazes",
+        "desc": "Where terdapat other kawan yang hidup, jika unit ini menjadi target utama dari 5+ musuh, those musuh kehilangan 10 HP dan SP"
+      },
+      {
+        "id": 113601,
+        "name": "The Cost of Fell Bullets",
+        "desc": "Saat Menyerang, pulihkan 5 SP; saat Kalah Clash, kehilangan 5 SP"
+      },
+      {
+        "id": 113602,
+        "name": "Charge Forth",
+        "desc": "On musuh Kill, peroleh +3 Count [Breath]"
+      },
+      {
+        "id": 113603,
+        "name": "A new era is upon us, my dear fellow.",
+        "desc": "Pada kurang dari -20 SP, gunakan a special pattern"
+      },
+      {
+        "id": 113604,
+        "name": "Please, dedicate yourself for the new ideal.",
+        "desc": "Jika an N Corp. Employee(kecuali Jia Huan)'s HP is kurang dari 50%, gunakan a special pattern"
+      },
+      {
+        "id": 114601,
+        "name": "-",
+        "desc": "HP tidak turun di bawah 50%"
+      },
+      {
+        "id": 114602,
+        "name": "Little Baoyu, the lineage of Family Hierarchs tidak dapat end here...",
+        "desc": "Kehilangan Pertempuran ketika Hong Lu mati. Semua Skill prioritaskan Hong Lu"
+      },
+      {
+        "id": 114603,
+        "name": "Who shall serve the elders, who shall convey the revered Xianhuang Worm's will to Hongyuan lalu?!!!",
+        "desc": "Saat Menyerang setelah Menang Clash terhadap Hong Lu: beri 1 [PileObedient] (sekali per Skill)"
+      },
+      {
+        "id": 114604,
+        "name": "Golden Bough Assimilation - Malattunement",
+        "desc": "Awal Pertempuran: peroleh [GoldenBoughSync]"
+      },
+      {
+        "id": 114605,
+        "name": "Forbidden Pill of Hongyuan - Completed Heixian Bolus [全黑仙丸]",
+        "desc": "Peroleh 1 [AttackUp] dan 1 [DefenseDown] setiap kali unit ini menggunakan a different type of Skill (3 kali per giliran)"
+      },
+      {
+        "id": 114606,
+        "name": "Hongyuan has always been a putty in the hands of the revered Xianren",
+        "desc": "Akhir Giliran: jika Panicked, pulih dari Panik pada Awal Giliran berikutnya dan reset SP ke 0\n\nKetika pulih dari Panik, peroleh 2 [Enhancement] dan 2 [Endurance] giliran berikutnya; jika Hong Lu has [Obedient], pulihkan 15 SP"
+      },
+      {
+        "id": 115201,
+        "name": "Watch this little girl...!",
+        "desc": "Kehilangan Pertempuran ketika Hong Lu mati. Jika terdapat unit ini's summoned unit pada Awal Giliran, pulihkan 10 SP"
+      },
+      {
+        "id": 115202,
+        "name": "Golden Bough Assimilation - Distortion",
+        "desc": "Start of the 2nd Phase: peroleh [GoldenBoughSyncDistorted]"
+      },
+      {
+        "id": 115203,
+        "name": "Every Family Hierarch has the duty to surrender their bodies to the Xianhuang Worm dan his honored will",
+        "desc": "Akhir Giliran: jika Panicked, pulih dari Panik pada Awal Giliran berikutnya dan reset SP ke 0\n\nKetika pulih dari Panik,\n- peroleh 2 [Enhancement], 2 [Endurance], dan 1 [Agility] giliran berikutnya\n- Jika terdapat unit summoned sebanyak unit ini, pulihkan 15 SP\n- Jika Hong Lu has [Obedient], pulihkan 15 SP"
+      },
+      {
+        "id": 115204,
+        "name": "-",
+        "desc": "HP tidak turun di bawah 85%"
+      },
+      {
+        "id": 115205,
+        "name": "-",
+        "desc": "HP tidak turun di bawah 65%"
+      },
+      {
+        "id": 115206,
+        "name": "-",
+        "desc": "HP tidak turun di bawah 50%"
+      },
+      {
+        "id": 115207,
+        "name": "Rot dan Decay in the Husk of Gold dan Jade [金玉其外 敗絮其中]",
+        "desc": "Jika unit ini memiliki 10+ [Burst], terima +10% damage\nJika unit ini memiliki 5+ tipe dari efek negatif, terima +10% damage"
+      },
+      {
+        "id": 115208,
+        "name": "A Family Hierarch tanpa the revered Xianhuang Worm will never serve Hongyuan",
+        "desc": "Pada 0 HP, Bagian \"Tubuh\" menjadi Stagger giliran berikutnya\nThen, this Bagian menjadi Severed, dan Bagian \"Tubuh\" peroleh 2 [Vulnerable]"
+      },
+      {
+        "id": 115209,
+        "name": "-",
+        "desc": "HP tidak turun di bawah 20%"
+      },
+      {
+        "id": 115301,
+        "name": "Witness Me, O Revered Xianren!",
+        "desc": "Ketika unit ini is present, Jia Mu peroleh 200 Perisai for her \"Inti\" dan setiap Bagian"
+      },
+      {
+        "id": 115302,
+        "name": "Duties of the Precious Jade",
+        "desc": "As long as unit ini is present, beri efek berikut ke the caged unit:\n- Menjadi 'lumpuh'\n- Buff, HP, dan SP unit ini tidak dapat berubah"
+      },
+      {
+        "id": 115303,
+        "name": "Departure",
+        "desc": "Ketika unit ini dikalahkan, return the caged karakter to the battle giliran berikutnya"
+      },
+      {
+        "id": 115304,
+        "name": "Refute the Evil; Restore Justice [破邪顯正]",
+        "desc": "Jika unit ini dikalahkan sebanyak the Pendosa, aktifkan efek berikut:\n- Semua kawan pulihkan 10 SP; semua kawan peroleh 2 [AttackDmgUp] giliran berikutnya\n- Beri 5 [Binding], 3 [AttackDown], dan 5 [Vulnerable] terhadap Jia Mu for the next 2 giliran\n- The unit that was caged in unit ini memulihkan hingga 45 SP. Peroleh 2 [Enhancement] upon its return\n- Peroleh 3 E.G.O Resources untuk semua Affinities"
+      },
+      {
+        "id": 115401,
+        "name": "O The Supreme Xianren of Immortality",
+        "desc": "Has the [SupremeEternalLife] efek"
+      },
+      {
+        "id": 115402,
+        "name": "Let us be eternally free dari aging dan kematian",
+        "desc": "HP tidak turun di bawah 1\n\nPada 1 HP, gantikan [SupremeEternalLife] dengan [ImperfectEternalLife]"
+      },
+      {
+        "id": 115403,
+        "name": "Knowledge of Immortality",
+        "desc": "Jika HP unit ini turun menjadi 1 upon terkena serangan, pulihkan 10 SP kepada Pendosa who attacked unit ini; lalu, peroleh 3 acak E.G.O Resources for the least-owned Sin Affinities (activates sekali untuk unit ini)"
+      },
+      {
+        "id": 114513,
+        "name": "Pemulihan Panik",
+        "desc": "Akhir Giliran: jika unit ini is Panicked, reset SP ke 0\n\nKetika pulih dari Panik: pada Awal Giliran berikutnya, pulihkan SP sebanyak HP unit ini yang hilang (maks 30)"
+      }
+    ]
+}

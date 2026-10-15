@@ -1,0 +1,604 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "model": "돈키호테",
+      "content": "Pengalamanku telah mengajariku bahwa... Workshop di sini, yang ditampilkan di tak lain adalah <i>Fixers Monthly</i>, akan menjadi yang terbaik untuk peluang merchandise-mu! Hasil akhir yang bersih dan tanpa cela benar-benar mereka banggakan! Dan mengenai Workshop di sebelahnya—meskipun ia menghasilkan figurin dengan kualitas yang lumayan, kau harus berhati-hati! Karena mereka hanya menjalankan produksi massal produk generik tanpa ada percikan kreativitas sedikit pun!"
+    },
+    {
+      "id": 1,
+      "model": "베스파",
+      "content": "... Terima kasih atas sarannya."
+    },
+    {
+      "id": 2,
+      "model": "돈키호테",
+      "content": "Ah, kau tidak perlu berterima kasih padaku! ... Ehem. Mengenai \"merch\" Fixer, hamba merekomendasikan anda memulai dengan lencana tombol, karena benar-benar nol kekhawatiran bahwa lencana tombol seorang <ruby=Fixer Warna>Color Fixer</ruby> akan mengalami nasib menjadi stok mati, yang menjatuhkan pendapatan anda ke angka negatif—"
+    },
+    {
+      "id": 3,
+      "model": "LCD앵두",
+      "teller": "Radio",
+      "content": "Kegembiraan saat mendampingi sosok yang... terkemuka seperti itu cukup dimengerti, tapi mungkin diskusi semacam itu bisa ditunda untuk nanti dalam misi seperti ini..."
+    },
+    {
+      "id": 4,
+      "model": "돈키호테",
+      "content": "Ah... Ahaha... benar juga. Adalah kemuliaan yang tak terbayangkan, untuk mengambil bagian dalam momen bersejarah seperti misi pertama <ruby=Fixer Warna>Color Fixer</ruby> yang baru ini..."
+    },
+    {
+      "id": 5,
+      "model": "홍루",
+      "content": "Don Quixote, bernapaslah."
+    },
+    {
+      "id": 6,
+      "model": "에즈라",
+      "content": "Jadi, junior... gimana kehidupan <ruby=Fixer Warna>Color Fixer</ruby>? Kamu sudah punya penggemar dan segalanya."
+    },
+    {
+      "id": 7,
+      "model": "베스파",
+      "content": "......."
+    },
+    {
+      "id": 8,
+      "model": "에즈라",
+      "content": "*haah*... Bahkan nggak mau pura-pura dengar aku? Ah, yaudahlah. Dia memang seperti itu kalau lagi gugup, jadi kalian sebaiknya terbiasa dari sekarang. Kalian nggak tahu berapa kali kami bertengkar sampai akhirnya aku terbiasa dengan rajukannya..."
+    },
+    {
+      "id": 9,
+      "model": "에즈라",
+      "content": "Omong-omong... apa ini beneran \"<ruby=Rumah Laba-laba>House of Spiders</ruby>?\" Ini jauh berbeda dari... apa yang aku harapkan."
+    },
+    {
+      "id": 10,
+      "model": "LCD앵두",
+      "teller": "Radio",
+      "content": "Jangan khawatir, karena ini memang tujuan yang benar. Pengamatan cepat telah kulakukan dengan alat berlabel \"kamera multi-sudut\" ini, dan kulihat semua jalan di sekitarmu mengarah ke tak terhingga di segala arah. Memang, tidak diragukan lagi bahwa kalian telah memasuki sarang para penyerang."
+    },
+    {
+      "id": 11,
+      "model": "이상",
+      "content": "Tempat ini adalah..."
+    },
+    {
+      "id": 12,
+      "place": "Koridor The Middle",
+      "model": "모제스1",
+      "content": "*huff* Sebuah \"Koridor.\" Jadi di sinilah mereka telah memintal jaring mereka."
+    },
+    {
+      "id": 13,
+      "model": "이상",
+      "content": "Kegelisahan yang terkandung dalam nama seperti \"<ruby=Rumah Laba-laba>The House of Spiders</ruby>\" tampaknya sulit untuk menyampaikan kesan yang terpancar dari tempat ini, yang lebih mirip supermarket... atau sebuah gudang di sebuah <ruby=Sarang>Nest</ruby>."
+    },
+    {
+      "id": 14,
+      "model": "모제스1",
+      "content": "Ya, meskipun ini lebih seperti gudang kotak mainan daripada tempat lainnya."
+    },
+    {
+      "id": 15,
+      "model": "홍루",
+      "content": "Aku mengenali beberapa mainan ini sebagai mainan yang dibelikan orang tuaku di masa kecilku."
+    },
+    {
+      "id": 16,
+      "model": "이상",
+      "content": "Mainan hanya dijiwai dengan makna ketika mereka dimainkan."
+    },
+    {
+      "id": 17,
+      "model": "이상",
+      "content": "Maka dari itu, seseorang harus bertanya-tanya—mengapa mereka membiarkan ini tak tersentuh di dalam kemasannya, dengan cara yang tampaknya menghambat bahkan tujuan dari kekagumannya yang terpisah?"
+    },
+    {
+      "id": 18,
+      "model": "모제스1",
+      "content": "... Tujuan sebuah objek sering kali ditentukan oleh pemiliknya. Seperti yang ada sekarang, tampaknya \"tujuan\" mereka adalah untuk memajang barang-barangnya, tidak lebih."
+    },
+    {
+      "id": 19,
+      "teller": "TV Model Kuno",
+      "title": "The House of Spiders",
+      "content": "♬Melompati atap-atap di <ruby=Kota>City</ruby>♬"
+    },
+    {
+      "id": 20,
+      "teller": "TV Model Kuno",
+      "title": "The House of Spiders",
+      "content": "♬Untuk melindungi kedamaian dan ketentraman!♬"
+    },
+    {
+      "id": 21,
+      "model": "베스파",
+      "content": "Apa kalian mendengar itu?"
+    },
+    {
+      "id": 22,
+      "model": "에즈라",
+      "content": "Eh? Apa, lagunya?"
+    },
+    {
+      "id": 23,
+      "model": "돈키호테",
+      "content": "L-lagu ini...!"
+    },
+    {
+      "id": 24,
+      "model": "에즈라",
+      "content": "Hah? Apakah ini semacam lagu yang menghancurkan pikiranmu saat mendengarnya?"
+    },
+    {
+      "id": 25,
+      "model": "돈키호테",
+      "content": "Lagu pembuka dari \"<ruby=Ayo Pergi, Poludnitsa!>Let's go, Poludnitsa!</ruby>\", sebuah acara biografi dari Federico yang terkemuka, seorang Fixer Tingkat 1 dari <ruby=Asosiasi>Asosiasi</ruby> Devyat..."
+    },
+    {
+      "id": 26,
+      "model": "LCD앵두",
+      "teller": "Radio",
+      "content": "... Izinkan aku menyelidiki kebenaran klaimnya."
+    },
+    {
+      "id": 27,
+      "model": "모제스1",
+      "content": "... Tidak, tidak perlu menyibukkan diri dengan penelitian semacam itu."
+    },
+    {
+      "id": 28,
+      "model": "모제스1",
+      "content": "Lagu itu sendiri seharusnya tidak menimbulkan kekhawatiran bagi kita. Mari kita menuju ke sumber suaranya."
+    },
+    {
+      "id": 29,
+      "model": "중지제자",
+      "content": "Ooooh... Ohhhhhh...!!"
+    },
+    {
+      "id": 30,
+      "teller": "TV Model Kuno",
+      "title": "The House of Spiders",
+      "content": "Terimalah ini! Breaking~ Slam!"
+    },
+    {
+      "id": 31,
+      "model": "중지제자",
+      "content": "Keren banget... Serius, itu kayak jurus paling gila sepanjang masa..."
+    },
+    {
+      "id": 32,
+      "model": "중지제자",
+      "content": "Menghantam senjata ke tanah, menggunakan pantulannya untuk melompat ke udara demi serangan penutup... Lightning~ Kick!!"
+    },
+    {
+      "id": 33,
+      "model": "중지제자",
+      "content": "Papa, aku harus diajarin cara ngelakuin itu!"
+    },
+    {
+      "id": 34,
+      "model": "중지아비",
+      "content": "Hmm~ Kalau kamu mau mencoba jurus itu, kamu butuh lebih banyak augmentasi kaki dan Tato Pembalasan!"
+    },
+    {
+      "id": 35,
+      "model": "중지제자",
+      "content": "Kalau gitu... Boleh nggak aku pergi sebentar biar aku bisa mencoret dua pembalasan lagi dari buku?"
+    },
+    {
+      "id": 36,
+      "model": "중지아비",
+      "content": "Nggak. Nggak perlu, Nak."
+    },
+    {
+      "id": 37,
+      "model": "중지아vi",
+      "content": "Aku berharap bisa menghindari bertemu badut-badut ini lagi..."
+    },
+    {
+      "id": 38,
+      "model": "중지아비",
+      "content": "Kebetulan yang sangat membingungkan."
+    },
+    {
+      "id": 39,
+      "model": "이상",
+      "content": "......."
+    },
+    {
+      "id": 40,
+      "content": "Beberapa waktu sebelum kelompok tersebut memasuki portal <ruby=Pintu Belakang>Backdoor</ruby>..."
+    },
+    {
+      "id": 41,
+      "place": "beberapa waktu yang lalu, sebelum memasuki Backdoor",
+      "model": "파우스트",
+      "content": "Saat Ryōshū menandatangani kontrak penerimaan, kami juga menerima intel mengenai struktur internal dari <ruby=Rumah Laba-laba>House of Spiders</ruby>."
+    },
+    {
+      "id": 42,
+      "model": "파우스트",
+      "content": "Masalahnya adalah... urutan individu memasuki <ruby=Pintu Belakang>Backdoor</ruby> menentukan tujuan mereka di dalam <ruby=Rumah Laba-laba>House of Spiders</ruby> tanpa pola yang jelas."
+    },
+    {
+      "id": 43,
+      "model": "파우스트",
+      "content": "LCC menyimpulkan bahwa ketidakpastian ini berada di luar ranah analisis..."
+    },
+    {
+      "id": 44,
+      "model": "파우스트",
+      "content": "... namun, variabel seperti itu masih berada dalam kendali Faust."
+    },
+    {
+      "id": 45,
+      "model": "파우스트",
+      "content": "Sebagai demonstrasi, dengan asumsi tidak ada orang lain selain kita yang masuk atau keluar dari <ruby=Rumah Laba-laba>House of Spiders</ruby>, Faust tahu bahwa orang ketiga yang memasuki <ruby=Rumah Laba-laba>House of Spiders</ruby> akan muncul di galeri Nursefather Ring."
+    },
+    {
+      "id": 46,
+      "model": "베르길리우스",
+      "content": "Kalau begitu kita harus berdiskusi dengan LCA untuk menentukan siapa yang akan pergi ke mana."
+    },
+    {
+      "id": 47,
+      "model": "베르길리우스",
+      "content": "Semakin cepat pertemuan itu berlangsung, semakin baik. Semuanya harus mulai melakukan persiapan untuk menyusup ke <ruby=Rumah Laba-laba>House of Spiders</ruby>, kecuali untuk para Pemimpin Tim, Nona Faust, dan... Manajer Dante."
+    },
+    {
+      "id": 48,
+      "model": "베르길리우스",
+      "content": "Mengenai pembagiannya... kami akan memberikan informasinya setelah difinalisasi."
+    },
+    {
+      "id": 49,
+      "place": "Koridor The Middle",
+      "model": "이상",
+      "content": "Kebetulan tidak berperan dalam kehadiran kami di sini."
+    },
+    {
+      "id": 50,
+      "model": "베스파",
+      "content": "......."
+    },
+    {
+      "id": 51,
+      "model": "중지아비",
+      "content": "Tetap saja menyebalkan bagi kami. Sepertinya... sepertinya aku akan bertarung dengan mempertaruhkan nyawaku hari ini. Apalagi dengan berandalan lebah itu di pihak mereka."
+    },
+    {
+      "id": 52,
+      "model": "중지제자",
+      "content": "Wih gila, papa bakal pakai pedang juga? Keren!"
+    },
+    {
+      "id": 53,
+      "model": "중지제자",
+      "content": "Kalau gitu aku bakal... mencoba jurus-jurus papa yang dia pamerkan di lab."
+    },
+    {
+      "id": 54,
+      "model": "중지제자",
+      "content": "Kalian juga lihat itu, kan? Saat papa menaikkan combo counter pada orang-orang bersenjata berbaju zirah hitam itu dan melakukan serangan super, meledakkan mereka sampai berkeping-keping?"
+    },
+    {
+      "id": 55,
+      "model": "중지제자",
+      "content": "Ah, ada Fixer yang menggunakan skill yang mirip dengan papa... Ugh, siapa ya namanya? Orang yang sama yang bekerja di <ruby=Kantor>Office</ruby> Fixer legendaris itu sebelum pindah ke yang lain..."
+    },
+    {
+      "id": 56,
+      "model": "돈키호테",
+      "content": "... Tuan Rinaldo dari <ruby=Kantor>Office</ruby> Charles."
+    },
+    {
+      "id": 57,
+      "model": "중지제자",
+      "content": "Oh iya, bener! Bener! Bukannya dia punya jurus di mana dia bakal menjejerkan, kayak, 10 orang berturut-turut dan menebas mereka semua sekaligus? Keren banget... <size=80%>tapi aku agak terlalu lemah untuk meniru jurus itu</ruby>..."
+    },
+    {
+      "id": 58,
+      "model": "돈키호테",
+      "content": "... Bukankah kau baru saja... menonton biografi seorang Fixer keadilan sampai beberapa saat yang lalu?"
+    },
+    {
+      "id": 59,
+      "model": "중지제자",
+      "content": "Eh? Ohh, \"<ruby=Ayo Pergi, Poludnitsa!>Let's go, Poludnitsa!</ruby>\"? Tentu saja. Aku menonton setiap klip dan animasi terkait Fixer."
+    },
+    {
+      "id": 60,
+      "model": "중지제자",
+      "content": "Kamu juga penggemarnya? Aku mengenali semua lencana di mantelmu itu. Hei, boleh minta satu engga?"
+    },
+    {
+      "id": 61,
+      "model": "돈키호테",
+      "content": "Tidak, aku tidak akan..."
+    },
+    {
+      "id": 62,
+      "model": "돈키호테",
+      "content": "... Karena aku tidak bisa begitu saja menyerahkan simbol Fixer kepada seseorang yang menonton pembantaian seolah-olah dia sedang mengamati sebuah permainan belaka."
+    },
+    {
+      "id": 63,
+      "model": "중지제자",
+      "content": "...?"
+    },
+    {
+      "id": 64,
+      "model": "중지제자",
+      "content": "Ohhh! Jadi kamu sedang memainkan karakter seperti itu, ya? Manis sekali!"
+    },
+    {
+      "id": 65,
+      "model": "중지제자",
+      "content": "Bukankah karakter di episode terbaru <i>FixAtar</i> bicara agak seperti itu? Pria yang merangkak keluar dari lubang di gurun itu..."
+    },
+    {
+      "id": 66,
+      "model": "돈키호테",
+      "content": "... El Bombín."
+    },
+    {
+      "id": 67,
+      "model": "중지제자",
+      "content": "Ya! <ruby=El Bombín dan Sepatu Orennya>El Bombín con Botas Naranjas</ruby>! \"Biarkan amunisi keadilan ini menjatuhkanmu~!\""
+    },
+    {
+      "id": 68,
+      "model": "돈키호테",
+      "content": "... Diam. Aku ingin... Aku ingin kau diam."
+    },
+    {
+      "id": 69,
+      "model": "돈키호테",
+      "content": "Bagaimana seseorang bergulat dengan kontradiksi yaitu mengagumi keadilan para Fixer melalui video dan buku komik mereka... namun berperilaku seperti yang kau lakukan...?"
+    },
+    {
+      "id": 70,
+      "model": "중지제자",
+      "content": "...?"
+    },
+    {
+      "id": 71,
+      "model": "중지제자",
+      "content": "Apa maksudmu? Aku cuma berpikir mereka keren, itu saja."
+    },
+    {
+      "id": 72,
+      "model": "중지제자",
+      "content": "Meskipun tentu saja, nggak ada yang bisa ngalahin papaku dalam hal kekerenan!"
+    },
+    {
+      "id": 73,
+      "model": "모제스1",
+      "content": "Ezra. Apakah kau mengenali sesuatu tentang pedang Nursefather itu?"
+    },
+    {
+      "id": 74,
+      "model": "에즈라",
+      "content": "Mm... cuma satu hal. Itu jelas bukan senjata Workshop, dilihat dari hasil akhirnya."
+    },
+    {
+      "id": 75,
+      "model": "베스파",
+      "content": "Mungkinkah senjatanya berasal dari Workshop yang tidak dapat anda akses, Nona Ezra?"
+    },
+    {
+      "id": 76,
+      "model": "에즈라",
+      "content": "Mungkin saja, tapi benda bercahaya di dalam sarungnya itu... Benda itu pasti sebuah Relik. Ah~ YuRia mungkin bisa memberitahu kita lebih banyak tentang itu kalau dia ada di sini, tapi... bagaimanapun juga, aku yakin itu sangat langka."
+    },
+    {
+      "id": 77,
+      "model": "중지아비",
+      "content": "Hah. Kau punya mata yang jeli untuk senjata."
+    },
+    {
+      "id": 78,
+      "model": "홍루",
+      "content": "... Itu menarik."
+    },
+    {
+      "id": 79,
+      "model": "중지제자",
+      "content": "Eh? Apanya yang menarik?"
+    },
+    {
+      "id": 80,
+      "model": "홍루",
+      "content": "Jumlah sampah di ruangan ini membuatku bertanya-tanya bagaimana benda seperti itu bisa ada di tanganmu. Sejauh yang kutahu, Relik sangat langka dan mahal sehingga Empat Keluarga Hongyuan pun tidak punya banyak, apalagi yang langka."
+    },
+    {
+      "id": 81,
+      "model": "돈키호테",
+      "content": "Sampah...?"
+    },
+    {
+      "id": 82,
+      "model": "모제스1",
+      "content": "... Lantainya dipenuhi dengan wadah mi cup kosong dan bungkus roti panggang... Mereka pasti tidak makan apa-apa selain junk-food setidaknya selama beberapa hari."
+    },
+    {
+      "id": 83,
+      "model": "중지제자",
+      "content": "Papa membelikanku sekotak penuh."
+    },
+    {
+      "id": 84,
+      "model": "중지제자",
+      "content": "Di luar sana, aku selalu kesal karena <ruby=The Middle>Kakak-Kakak</ruby> akan menegurku karena cuma ngemil junk-food kayak gini... Tapi sejak aku datang ke sini, papa membiarkanku makan apa pun yang kumau, sebanyak apa pun yang kumau! Kenapa emangnya?"
+    },
+    {
+      "id": 85,
+      "model": "이상",
+      "content": "... Saya tidak bisa tidak berasumsi bahwa hal itu akan berdampak buruk pada kesehatan anda."
+    },
+    {
+      "id": 86,
+      "model": "중지아비",
+      "content": "Khawatir dia bakal sakit? Itu bukan masalah besar di <ruby=Kota>City</ruby>."
+    },
+    {
+      "id": 87,
+      "model": "중지아비",
+      "content": "Nggak bisa membiarkan hal sepele seperti itu menghentikanku memberi jajanan lezat kepada keluargaku."
+    },
+    {
+      "id": 88,
+      "model": "모제스1",
+      "content": "Sungguh contoh ayah yang luar biasa."
+    },
+    {
+      "id": 89,
+      "model": "모제스1",
+      "content": "Yang mana ini menarik, karena Ryōshū tampaknya tidak memiliki apa-apa selain kebencian untuk kalian semua para Nursefather."
+    },
+    {
+      "id": 90,
+      "model": "중지아비",
+      "content": "... Kau berjalan di garis yang sangat tipis dengan mengoceh tentang anakku padahal kau bahkan tidak mengenalnya dengan baik."
+    },
+    {
+      "id": 91,
+      "model": "중지아비",
+      "content": "... Aku nggak tahu tentang ayah-ayahnya yang lain, tapi cinta orang tuaku untuk Yoshihide, <i>putriku</i>, selalu benar-benar tulus."
+    },
+    {
+      "id": 92,
+      "place": "Di Suatu Mall, Masa Lalu",
+      "model": "중지아비",
+      "content": "Seneng ga, cantikku? Menikmati perjalanan menyenangkan bersama Papamu?"
+    },
+    {
+      "id": 93,
+      "model": "과거료슈3",
+      "content": "Lumayan, kurasa."
+    },
+    {
+      "id": 94,
+      "model": "과거료슈3",
+      "content": "Kamu yakin nggak belanja berlebihan?"
+    },
+    {
+      "id": 95,
+      "model": "중지아비",
+      "content": "Sudah lama sekali sejak putriku sendiri memintaku untuk membelikan sesuatu untuknya. Uang bukan masalah!"
+    },
+    {
+      "id": 96,
+      "model": "과거료슈3",
+      "content": "Aku cuma mau beberapa baju olahraga buat dipakai di sekitar rumah."
+    },
+    {
+      "id": 97,
+      "model": "과거료슈3",
+      "content": "Nggak ingat pernah minta... boneka beruang raksasa itu."
+    },
+    {
+      "id": 98,
+      "model": "중지아비",
+      "content": "Eh? Seorang adik yang dekat denganku bilang kalau setiap anak zaman sekarang membawa sesuatu seperti ini."
+    },
+    {
+      "id": 99,
+      "model": "과거료슈3",
+      "content": "<i>Anak-anak</i> adalah kata kuncinya di sana."
+    },
+    {
+      "id": 100,
+      "model": "과거료슈3",
+      "content": "Lagipula, bukannya boneka beruang ini seharusnya warna merah?"
+    },
+    {
+      "id": 101,
+      "model": "중지아비",
+      "content": "Mau aku putar balik?"
+    },
+    {
+      "id": 102,
+      "model": "과거료슈3",
+      "content": "... Enggak. Ungu nggak masalah bagiku."
+    },
+    {
+      "id": 103,
+      "model": "중지아비",
+      "content": "Anakku, kalau kamu pernah menemukan apapun yang nggak kamu suka, kamu bisa bicara padaku. Aku akan selalu memastikan untuk membalas kesalahannya... nggak peduli yang harus kulakukan untuk mencapainya."
+    },
+    {
+      "id": 104,
+      "place": "Koridor The Middle",
+      "model": "중지아비",
+      "content": "Kalau dia menginginkan sesuatu, aku akan mengosongkan kantongku untuk mendapatkannya buat dia, bahkan jika itu berarti aku harus meminjam uang dari <ruby=The Middle>Adik-Adik</ruby>ku dan mengambil risiko kehilangan muka."
+    },
+    {
+      "id": 105,
+      "model": "중지아비",
+      "content": "Dan kalau dia ingin melakukan sesuatu... Aku membiarkannya bebas, asalkan itu tidak melanggar aturan <ruby=Rumah Laba-laba>House of Spiders</ruby>."
+    },
+    {
+      "id": 106,
+      "model": "중지아비",
+      "content": "Karena itulah <i>keluarga</i>. Sedikit pengorbanan bukan apa-apa kalau itu untuk salah satu dari kita."
+    },
+    {
+      "id": 107,
+      "model": "홍루",
+      "content": "Tapi... Ryōshū meninggalkan <ruby=Rumah Laba-laba>House of Spiders</ruby>, terlepas dari semuanya."
+    },
+    {
+      "id": 108,
+      "model": "홍루",
+      "content": "Pernahkah kamu mempertanyakan dirimu sendiri... mengapa?"
+    },
+    {
+      "id": 109,
+      "model": "중지아비",
+      "content": "... Pasti karena si cebol itu, jelas. Aku pasti sudah mematahkan leher bocah kecil itu seandainya aku tahu dia akan menghalangi masa depan cerah Yoshihide-ku."
+    },
+    {
+      "id": 110,
+      "model": "이상",
+      "content": "Saya tidak perlu mendengar lebih banyak untuk mengetahui..."
+    },
+    {
+      "id": 111,
+      "model": "이상",
+      "content": "... bahwa anda bukanlah ayah yang baik baginya."
+    },
+    {
+      "id": 112,
+      "model": "베스파",
+      "content": "Pemimpin Tim. Berapa lama lagi kita akan menuruti sampah itu?"
+    },
+    {
+      "id": 113,
+      "model": "돈키호테",
+      "content": "Aku setuju dengan <ruby=Fixer Warna>Color Fixer</ruby> yang terhormat. Sudah saatnya kita menunjukkan kepada mereka arti keadilan."
+    },
+    {
+      "id": 114,
+      "model": "모제스1",
+      "content": "*huff* Jangan terburu-buru. Lagipula aku baru saja mau mulai."
+    },
+    {
+      "id": 115,
+      "model": "모제스1",
+      "content": "Ini LCD. Menghadapi Nursefather Middle."
+    },
+    {
+      "id": 116,
+      "model": "모제스1",
+      "content": "Yah, aku yakin anda sudah memantau situasi di sini, Manajer Dante. Jadi..."
+    },
+    {
+      "id": 117,
+      "model": "모제스1",
+      "content": "... silahkan lanjutkan sesuai rencana."
+    }
+  ]
+}

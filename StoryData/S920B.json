@@ -1,0 +1,348 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Lorong Tim Riset LCE",
+      "content": "Kami melanjutkan perjalanan menuju koridor yang dipenuhi mayat dan puing-puing."
+    },
+    {
+      "id": 1,
+      "model": "그레고르",
+      "content": "Aku berharap kita bisa bertemu orang lain yang masih sadar, seperti Nona Alyssa..."
+    },
+    {
+      "id": 2,
+      "model": "검지제자2",
+      "teller": "???",
+      "title": "???",
+      "content": "Aduh! K-kamu baru saja menginjak tanganku, Pak!"
+    },
+    {
+      "id": 3,
+      "model": "그레고르",
+      "content": "Ups, maaf..."
+    },
+    {
+      "id": 4,
+      "model": "그레고르",
+      "content": "... Tunggu, barusan... suara penyintas?"
+    },
+    {
+      "id": 5,
+      "content": "Semua orang berbalik, mendengar nada waspada dalam suara Gregor."
+    },
+    {
+      "id": 6,
+      "content": "Seorang penyintas yang sendirian, satu-satunya yang tampak sadar di antara tubuh-tubuh yang tertimbun puing, menatap kami dengan wajah meringis kesakitan."
+    },
+    {
+      "id": 7,
+      "model": "이상",
+      "content": "Apakah anda... baik-baik saja?"
+    },
+    {
+      "id": 8,
+      "model": "검지제자2",
+      "teller": "???",
+      "title": "???",
+      "content": "Aku... aku tidak baik-baik saja. Ini sakit sekali. Aku sudah menunggu di sini sangat lama, tapi tidak ada yang datang..."
+    },
+    {
+      "id": 9,
+      "model": "검지제자2",
+      "teller": "???",
+      "title": "???",
+      "content": "Aku mengobrol dengan orang di sebelahku ini hanya supaya tetap sadar... T-tapi lalu dia tiba-tiba berhenti bicara—sudah 10 menit berlalu. Kami bahkan sudah bertukar nama!"
+    },
+    {
+      "id": 10,
+      "model": "뫼르소",
+      "content": "Anda pasti merujuk pada pria ini. Dia berpura-pura mati, namun denyut nadinya belum berhenti."
+    },
+    {
+      "id": 11,
+      "model": "검지제자2",
+      "teller": "???",
+      "title": "???",
+      "content": "A-apaaa?"
+    },
+    {
+      "id": 12,
+      "content": "Pria berjas itu berhenti berpura-pura mati dan perlahan membuka matanya."
+    },
+    {
+      "id": 13,
+      "model": "라비",
+      "teller": "???",
+      "title": "???",
+      "content": "Ah, aku ketahuan."
+    },
+    {
+      "id": 14,
+      "model": "라비",
+      "teller": "???",
+      "title": "???",
+      "content": "Mengobrol tentang makanan yang akan kita makan setelah kita keluar dari sini selagi perlahan remuk oleh puing-puing di atas kita...."
+    },
+    {
+      "id": 15,
+      "model": "라비",
+      "teller": "???",
+      "title": "???",
+      "content": "Maksudku, kamu tahu kan apa yang terjadi pada karakter yang bilang \"setelah kita selamat dari ini\"..."
+    },
+    {
+      "id": 16,
+      "model": "검지제자2",
+      "teller": "???",
+      "title": "???",
+      "content": "Aku... aku ingin es krim vanila dengan taburan almond setelah kita selamat dari ini... Dan juga roti lapis, dengan keju yang banyaaak sekali! Bagaimana denganmu, Ravi?"
+    },
+    {
+      "id": 17,
+      "model": "라비",
+      "title": "???",
+      "content": "……."
+    },
+    {
+      "id": 18,
+      "model": "그레고르",
+      "content": "... Butuh bantuan?"
+    },
+    {
+      "id": 19,
+      "model": "라비",
+      "title": "???",
+      "content": "Ya, tolong."
+    },
+    {
+      "id": 20,
+      "model": "단테",
+      "content": "<... Ayo bantu mereka keluar.>"
+    },
+    {
+      "id": 21,
+      "content": "Dengan bantuan para <ruby=Pendosa>Sinners</ruby>, kedua karyawan yang terjebak di bawah reruntuhan itu berhasil membebaskan diri."
+    },
+    {
+      "id": 22,
+      "model": "라비",
+      "title": "???",
+      "content": "Hn. Hanya kaki kiriku. Selain itu aku baik-baik saja."
+    },
+    {
+      "id": 23,
+      "model": "검지제자2",
+      "teller": "???",
+      "title": "???",
+      "content": "Aduh! Aku... aku rasa lengan kananku p-patah, um, tapi beri waktu beberapa hari dengan banyak almon dan ikan, d-dan itu akan kembali seperti baru."
+    },
+    {
+      "id": 24,
+      "model": "검지제자2",
+      "content": "Oh. T-terima kasih sudah mengeluarkan kami dari sana. Aku Sora."
+    },
+    {
+      "id": 25,
+      "model": "라비",
+      "title": "???",
+      "content": "Kami bisa hidup sehari lagi berkat kalian. Kalian bisa memanggilku Ravi."
+    },
+    {
+      "id": 26,
+      "model": "라비",
+      "title": "???",
+      "content": "Ngomong-ngomong... Boleh aku tanya kalian dari departemen mana?"
+    },
+    {
+      "id": 27,
+      "model": "그레고르",
+      "content": "Uh... belum pernah melihat kami sebelumnya? Kami ke sini untuk <ruby=Pemeriksaan Rutin>regular check-up</ruby> terakhir kali."
+    },
+    {
+      "id": 28,
+      "model": "라비",
+      "content": "Oh. Kami karyawan baru. Ini hari pertama kerja kami."
+    },
+    {
+      "id": 29,
+      "model": "그레고르",
+      "content": "K-karyawan baru...?"
+    },
+    {
+      "id": 30,
+      "model": "라비",
+      "content": "Iya. Ada lowongan kerja baru untuk Departemen Pemurnian Enkephalin LCE. Hari ini adalah Hari ke-1 bagi kami para karyawan baru."
+    },
+    {
+      "id": 31,
+      "model": "라비",
+      "content": "Kami sedang dalam perjalanan menemui peneliti yang seharusnya menangani orientasi kami... lalu <i>ini</i> terjadi."
+    },
+    {
+      "id": 32,
+      "model": "검지제자2",
+      "content": "P-perlengkapan ini... Ini pertama kalinya aku memakainya. Semakin aku melihatnya, semakin itu membuatku penasaran."
+    },
+    {
+      "id": 33,
+      "model": "단테",
+      "content": "<... Bagaimana kalian bisa terjebak di bawah puing-puing?>"
+    },
+    {
+      "id": 34,
+      "model": "이상",
+      "content": "Mohon ceritakan, bagaimana anda sekalian bisa terjebak di bawah puing-puing?"
+    },
+    {
+      "id": 35,
+      "model": "검지제자2",
+      "content": "Y-yah... aku tadi sedang berjalan melewati koridor dan berhenti sebentar..."
+    },
+    {
+      "id": 36,
+      "model": "검지제자2",
+      "content": "Aku... aku orangnya sangat ceroboh. Begitu ada s-sesuatu di pikiranku, aku tidak bisa mengerjakan banyak hal sekaligus... sama sekali tidak bisa."
+    },
+    {
+      "id": 37,
+      "model": "이상",
+      "content": "Saya dapat memahaminya. Peneliti sering kali tenggelam ke dalam lubuk pikiran mereka ketika percikan inspirasi muncul."
+    },
+    {
+      "id": 38,
+      "model": "검지제자2",
+      "content": "Aku punya ide u-untuk eksperimen perlengkapan E.G.O... d-dan aku tidak bisa lanjut jalan tanpa membereskannya di kepalaku terlebih dahulu."
+    },
+    {
+      "id": 39,
+      "model": "이상",
+      "content": "Perlengkapan E.G.O, anda bilang... Mungkinkah yang anda maksud adalah belenggu di pergelangan tangan anda tersebut?"
+    },
+    {
+      "id": 40,
+      "model": "검지제자2",
+      "content": "I-itu benar. Ini bukan yang paling mudah digunakan... tapi ini adalah satu-satunya E.G.O milikku."
+    },
+    {
+      "id": 41,
+      "model": "그레고르",
+      "content": "……."
+    },
+    {
+      "id": 42,
+      "model": "료슈",
+      "content": "Potong omong kosongnya dan langsung ke apa yang terjadi selanjutnya."
+    },
+    {
+      "id": 43,
+      "model": "검지제자2",
+      "content": "M-maaf. Itu terjadi... t-tiba-tiba... Kami mendengar suara keras datang dari ujung koridor yang lain dan orang-orang mulai berlarian... Saat itulah... l-langit-langitnya runtuh."
+    },
+    {
+      "id": 44,
+      "model": "검지제자2",
+      "content": "Haah... A-andai saja aku tidak melamun... aku tidak akan terjebak di bawah reruntuhan."
+    },
+    {
+      "id": 45,
+      "model": "그레고르",
+      "content": "... Aku tidak akan menyebutmu beruntung, tapi terjebak di bawah reruntuhan mungkin justru yang menyelamatkanmu dari para penyusup yang menyerang fasilitas ini. Mereka sudah membunuh banyak orang."
+    },
+    {
+      "id": 46,
+      "model": "검지제자2",
+      "content": "Apa? S-selagi kami terjebak...?"
+    },
+    {
+      "id": 47,
+      "model": "이상",
+      "content": "... Belasungkawa saya untuk anda. Saya menyesal karena tidak memiliki kata-kata lebih lanjut untuk disampaikan."
+    },
+    {
+      "id": 48,
+      "model": "라비",
+      "content": "Apakah kalian bisa menemukan... penyintas lainnya?"
+    },
+    {
+      "id": 49,
+      "model": "이상",
+      "content": "Perkiraan sekitar 20 jasad. Sebagaimana keberuntungan berpihak, pemimpin tim dan yang lainnya berhasil berkumpul kembali."
+    },
+    {
+      "id": 50,
+      "model": "라비",
+      "content": "Syukurlah kalau begitu...."
+    },
+    {
+      "id": 51,
+      "model": "이상",
+      "content": "Dan anda... Apakah anda yakin bahwa anda baik-baik saja? Sungguh luar biasa bahwa seorang pendatang baru di sebuah korporasi tetap begitu tenang dalam menghadapi krisis seperti ini."
+    },
+    {
+      "id": 52,
+      "model": "라비",
+      "content": "Kami dilatih untuk situasi seperti ini, jadi aku tidak sepenuhnya tidak siap... Hanya saja tidak pernah menyangka hal seperti ini akan terjadi di Hari ke-1..."
+    },
+    {
+      "id": 53,
+      "model": "그레고르",
+      "content": "... Tetap saja, itu cukup mengesankan bagi orang baru."
+    },
+    {
+      "id": 54,
+      "model": "라비",
+      "content": "Bagaimanapun juga, ke mana kalian akan pergi?"
+    },
+    {
+      "id": 55,
+      "model": "그레고르",
+      "content": "Oh, benar. Kami sedang mencari lift. Kurasa itu ada di suatu tempat ke arah ini... tapi aku tidak yakin."
+    },
+    {
+      "id": 56,
+      "model": "검지제자2",
+      "content": "Oh, l-liftnya...! Aku... aku tahu di mana itu. Bolehkah aku ikut dengan kalian?"
+    },
+    {
+      "id": 57,
+      "model": "료슈",
+      "content": "... Pimpin jalan."
+    },
+    {
+      "id": 58,
+      "model": "호엔하임",
+      "teller": "Radio",
+      "content": "*bzzt*... komponen-komponen ini... *bzzt*..."
+    },
+    {
+      "id": 59,
+      "model": "검지제자2",
+      "content": "Aku... aku mendengar suara dari ujung radio yang lain... Apakah itu tim kalian?"
+    },
+    {
+      "id": 60,
+      "model": "단테",
+      "content": "<Panggilannya terputus-putus...>"
+    },
+    {
+      "id": 61,
+      "model": "그레고르",
+      "content": "Hmm, sepertinya kita sudah melewati radius transmisi... Aku penasaran bagaimana kabar lainnya."
+    },
+    {
+      "id": 62,
+      "model": "검지제자2",
+      "content": "Aku... aku harap aku bisa mendapatkan kabar terbaru tentang rekan-rekanku juga..."
+    },
+    {
+      "id": 63,
+      "model": "라비",
+      "content": "Aku juga merasakan hal yang sama..."
+    },
+    {
+      "id": 64,
+      "content": "Kedua peneliti LCE itu menghela napas cemas selagi kami bergegas menuju ke arah lift."
+    }
+  ]
+}

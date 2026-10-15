@@ -1,0 +1,322 @@
+{
+  "dataList": [
+    {
+      "id": "Bothersome",
+      "name": "Severing Slash [切斬]",
+      "desc": "- Target's Slash Resistance dihitung sebagai 'Lemah'(1.5). (tidak mengaktifkan terhadap target dengan 1.5 atau lebih tinggi Slash Resistance)\n- Kadaluarsa pada Akhir Giliran",
+      "summary": ""
+    },
+    {
+      "id": "VibrationIgnition",
+      "name": "Tremor - Scorch",
+      "desc": "- Pada Tremor Burst, terima Wrath Damage setara dengan (sum of Tremor Potency dan Burn Potency / 2), dan kehilangan 1 Burn Count\n- Ketika diserang sebanyak Skill yang mengaktifkan Tremor Burst, naikkan Batas Stagger unit ini sebanyak efek's Potency\n- Akhir Giliran: kurangi the Count sebanyak 1\n(Interacts the same way as normal Tremor does to efek that naikkan atau kurangi Tremor Potency/Count)",
+      "summary": ""
+    },
+    {
+      "id": "BulletPropellant",
+      "name": "Tigermark Round",
+      "desc": "- Ammo Unik\n- Digunakan oleh Skill tertentu\n- Stack Maks: 6",
+      "summary": ""
+    },
+    {
+      "id": "BulletPropellantSpecial",
+      "name": "Savage Tigermark Round",
+      "desc": "- Ammo Unik\n- Digunakan oleh Skill tertentu (actives the same way as Tigermark Round does)\n- Potency dan Count dari efek ini are \"Loaded Ammo\" dan \"Remaining Ammo\", masing-masing\n· Maks Potency (Loaded Ammo): 6\n- Coin that spent this Ammo beri +30% damage, dan beri double the normal jumlah dari Burn Potency dan Count\n- Ketika semua Loaded Ammo dan Remaining Ammo are spent, converts back to Tigermark Round",
+      "summary": ""
+    },
+    {
+      "id": "Prey",
+      "name": "Prey",
+      "desc": "- Dalam Clash dengan musuh, Clash Power -5\n- Awal Pertempuran:\n· Jika unit ini equipped Skill Attack, beri -50% damage terhadap Lei Heng dengan Skill Attack\n· Jika unit ini equipped a Skill Defense, terima -75% damage dari Lei Heng\n- Jika unit ini menang Clash terhadap Lei Heng while dibawah efek ini, peroleh 3 of the least-owned E.G.O Resources\n- Kadaluarsa pada Akhir Giliran; unit ini memulihkan 10 SP",
+      "summary": ""
+    },
+    {
+      "id": "Complacency",
+      "name": "Kepanasan",
+      "desc": "- Stack Maks: 5\n- Awal Giliran: peroleh Clash Power Down dan Fragile setara dengan the Stack\n- Kadaluarsa pada Akhir Giliran",
+      "summary": ""
+    },
+    {
+      "id": "BattleSense",
+      "name": "Inner Strength [底力]",
+      "desc": "- Stack Maks: 25\n- Dikonsumsi oleh Skill tertentu; pada Akhir Giliran, pulihkan SP setara dengan the Stack yang dikonsumsi pada akhir giliran\n- Peroleh 1 Stack untuk setiap Clash (maks 5 per Skill). Saat Kalah Clash, kehilangan the Stack diperoleh dari the said Clash\n- Peroleh 2 Stack ketika hitting dengan Serangan Tanpa Lawan (maks 10 per Skill)\n- Akhir Giliran: giliran berikutnya, peroleh Haste berdasarkan the total Stack yang dikonsumsi giliran ini (1 Haste per 25 Stack; maks 2)\n- Gains a different buff ketika menggunakan a specific pattern",
+      "summary": ""
+    },
+    {
+      "id": "RestoredBattleSense",
+      "name": "Extreme Strength [極力]",
+      "desc": "- Stack Maks: 50\n- Counts as \"Inner Strength\". Dikonsumsi oleh Skill tertentu; pada Akhir Giliran, pulihkan SP setara dengan the Stack yang dikonsumsi pada akhir giliran.\n- Peroleh 2 Stack untuk setiap Clash (maks 10 per Skill). Saat Kalah Clash, kehilangan the Stack diperoleh dari the said Clash\n- Peroleh 3 Stack ketika hitting dengan Serangan Tanpa Lawan (maks 15 per Skill)\n- Akhir Giliran: giliran berikutnya, peroleh Haste berdasarkan the total Stack yang dikonsumsi giliran ini (1 Haste per 25 Stack, maks 5)",
+      "summary": ""
+    },
+    {
+      "id": "Irritation",
+      "name": "Tiantui Star [天退星]",
+      "desc": "- Awal Giliran: peroleh 1 Damage Up dan 1 Power Up untuk setiap 20% HP yang hilang pada diri sendiri (maks 3 setiap)\n- Beri +2 lebih Tremor Potency dengan Skill unit ini\n- Jika Speed unit ini lebih cepat daripada target sebanyak 3 atau lebih, beri +(perbedaan Speed x 5)% damage (maks 20%)\n- Ubah Coin terakhir dari 'Triple Slash - Burst' to an Unbreakable Coin\n- This buff changes menjadi Shin (心) - Tiantui Star [天退星] ketika menggunakan a specific pattern",
+      "summary": ""
+    },
+    {
+      "id": "HugeIrritation",
+      "name": "Shin (心) - Tiantui Star [天退星]",
+      "desc": "- Awal Giliran: peroleh 1 Damage Up dan 1 Power Up untuk setiap 15% HP yang hilang pada diri sendiri (maks 5 setiap)\n- Beri +3 lebih Tremor Potency dan +1 lebih Tremor Count dengan Skill unit ini\n- Jika Speed unit ini lebih cepat daripada target sebanyak 3 atau lebih, beri +(perbedaan Speed x 5)% damage (maks 20%)\n- Ubah Coin terakhir dari 'Double Slash - Blast' dan 'Triple Slash - Burst' menjadi Unbreakable Coin",
+      "summary": ""
+    },
+    {
+      "id": "ReloadKeepAmmo",
+      "name": "Reload - Tactical",
+      "desc": "- Restore Ammo unit ini to its maximum capacity (tidak dapat discard any remaining Ammo)",
+      "summary": ""
+    },
+    {
+      "id": "BeastEyes_LowMorale",
+      "name": "Beastly Instinct - Moral Rendah",
+      "desc": "- Beri +(HP percentage difference / 2)% damage ke target dengan higher HP percentages that unit ini's (maks 10%)\n- Awal Giliran: peroleh 1 Final Power Up, 1 Damage Up, dan 1 Fragile",
+      "summary": ""
+    },
+    {
+      "id": "BeastEyes_Panic",
+      "name": "Beastly Instinct - Panik",
+      "desc": "- Beri +(HP percentage difference)% damage ke target dengan higher HP percentages that unit ini's (maks 25%)\n- Awal Giliran: peroleh 1 Coin Power Up, 2 Damage Up, dan 2 Fragile\n- Next Awal Giliran: pulihkan SP setara dengan unit ini's persentase HP yang hilang (maks 25)",
+      "summary": ""
+    },
+    {
+      "id": "DisengageCombat",
+      "name": "Escape Battle",
+      "desc": "- Akhir Giliran: pulih dari Stagger dan kabur dari Pertempuran (mengecualikan Stagger terpaksa; tidak dapat dihitung sebagai kematian)",
+      "summary": ""
+    },
+    {
+      "id": "Chesed_Mercy",
+      "name": "Chesed's Mercy",
+      "desc": "- Averages the Offense Level dan Defense Level dari semua unit\n- Setelah the Chesed efek activates, allied Identitas peroleh 3 Offense Levels dan 6 Defense Levels\n- First-time Unleashing Efek: \"Chesed's Mercy\" lasts for the duration of Pertempuran ini",
+      "summary": ""
+    },
+    {
+      "id": "Ryoshu_Attackup",
+      "name": "Memori Termutilasi",
+      "desc": "[Efek Eksklusif Ryōshū]\n- Beri +(Current Giliran Count x 2.5)% damage terhadap Lei Heng di Pertempuran ini (maks 30%)",
+      "summary": ""
+    },
+    {
+      "id": "Honglu_EGOResourceup",
+      "name": "My Heart, My Own Thoughts...",
+      "desc": "[Hong Lu Exclusive Efek]\n- Untuk Pertempuran ini: setelah memakai a Skill Attack, peroleh 2 tambahan E.G.O resource dari Afinitas Skill (sekali per giliran)",
+      "summary": ""
+    },
+    {
+      "id": "BudgetBulletPropellant",
+      "name": "Propellant Ammo",
+      "desc": "- Ammo Unik\n- Digunakan oleh Skill tertentu\n- Stack Maks: 4",
+      "summary": ""
+    },
+    {
+      "id": "NEgoFleshSpatula_LowMorale",
+      "name": "Flesh Scoop",
+      "desc": "- Moral Rendah\nAwal Giliran: Peroleh 5 Bleed dan 1 Attack Power Up",
+      "summary": ""
+    },
+    {
+      "id": "NEgoFleshSpatula_Panic",
+      "name": "Flesh Scoop",
+      "desc": "- Moral Rendah\nAwal Giliran: Peroleh 10 Bleed dan 2 Attack Power Up",
+      "summary": ""
+    },
+    {
+      "id": "LeRegole_LowMorale",
+      "name": "Le Regole",
+      "desc": "- Moral Rendah\n- Jika unit ini diberikan 2+ Tremor giliran sebelumnya, peroleh 1 Sloth DMG Naik\n- Jika unit ini diberikan 2+ Burn giliran sebelumnya, peroleh 1 Wrath DMG Naik\n- Jika unit ini failed untuk beri anything, peroleh 2 Defense Level Down",
+      "summary": ""
+    },
+    {
+      "id": "LeRegole_Panic",
+      "name": "Le Regole",
+      "desc": "- Moral Rendah\n- Jika unit ini diberikan 2+ Tremor giliran sebelumnya, peroleh 2 Sloth DMG Naik\n- Jika unit ini diberikan 2+ Burn giliran sebelumnya, peroleh 2 Wrath DMG Naik\n- Jika unit ini failed untuk beri anything, peroleh 3 Defense Level Down",
+      "summary": ""
+    },
+    {
+      "id": "GazeReplica",
+      "name": "Tatapan",
+      "desc": "- Stack Maks: 7\n- Terima dan beri +10% damage dari dan terhadap Jia Huan\n- Pada 7 Stack, converts to Contempt",
+      "summary": ""
+    },
+    {
+      "id": "ContemptReplica",
+      "name": "Contempt",
+      "desc": "- Stack Maks: 1\n- Terima dan beri -50% damage dari dan terhadap Jia Huan\n- Target dengan Contempt tidak dapat peroleh Tatapan\n- Kadaluarsa pada Akhir Giliran",
+      "summary": ""
+    },
+    {
+      "id": "GraspReplica",
+      "name": "Grasp",
+      "desc": "- Stack Maks: 4\n- Akhir Giliran: peroleh 10 Bind giliran berikutnya\n- Akhir Giliran: kehilangan 1 Stack",
+      "summary": ""
+    },
+    {
+      "id": "EgoErodeReplica",
+      "name": "E.G.O Corrosion - N Corp.",
+      "desc": "- Stack Maks: 10\n- The following efek aktifkan pada setiap Awal Giliran:\n· Kehilangan SP sebanyak efek's Stack\n· Peroleh 1 Attack Power Up untuk setiap 3 Stack\n- Pada Stack Maks, terima 5% HP damage pada Akhir Giliran",
+      "summary": ""
+    },
+    {
+      "id": "BoseProjektilReplica",
+      "name": "Torn Memory",
+      "desc": "Stack Maks: 7",
+      "summary": ""
+    },
+    {
+      "id": "EgoErodeContempt_LowMorale",
+      "name": "Soft Goldcasted Heart",
+      "desc": "- Moral Rendah\n- Awal Giliran: Peroleh 1 Attack Power Up dan 1 Fragile",
+      "summary": ""
+    },
+    {
+      "id": "EgoErodeContempt_Panic",
+      "name": "Soft Goldcasted Heart",
+      "desc": "- Panik\n- Awal Giliran: Peroleh 2 Attack Power Up dan 2 Fragile",
+      "summary": ""
+    },
+    {
+      "id": "EgoErodeMemory_LowMorale",
+      "name": "Heart Toward the New Era",
+      "desc": "- Moral Rendah\n- Saat Menyerang, konsumsi 3 SP pada diri sendiri untuk beri 2 Sinking",
+      "summary": ""
+    },
+    {
+      "id": "EgoErodeMemory_Panic",
+      "name": "Heart Toward the New Era",
+      "desc": "- Moral Rendah\n- Saat Menyerang, beri 3 Sinking dan peroleh 1 Sinking",
+      "summary": ""
+    },
+    {
+      "id": "PileObedient",
+      "name": "Heaping Obedience",
+      "desc": "- Akhir Giliran: at 3 Stack, ubah efek ini to Hollow Obedience giliran berikutnya",
+      "summary": ""
+    },
+    {
+      "id": "Obedient",
+      "name": "Hollow Obedience",
+      "desc": "- Clash Power -2 in Clashes terhadap Jia Mu\n- Kadaluarsa ketika SP unit ini reaches 45, atau ketika the Stack turun menjadi 0\n- Akhir Giliran: kehilangan 1 Stack",
+      "summary": ""
+    },
+    {
+      "id": "ExpensiveJade",
+      "name": "Precious Jade's Buaian",
+      "desc": "- Masuk an 'Immobilized' state dimana buff, HP, dan SP unit ini tidak dapat berubah. Forms a Precious Jade connected ke unit ini",
+      "summary": ""
+    },
+    {
+      "id": "FamilyTreasure",
+      "name": "Explosive Amusement",
+      "desc": "- On Akhir Giliran:\n· Stack Dasar: 1\n· The unit connected ke unit ini memulihkan 25% HP dan kehilangan 20 SP\n· Peroleh 1 Stack\n· Pada 3 Stack, gunakan a self-detonation Skill. Jika unit ini terbunuh sebanyak self-detonation, beri the caged karakter dengan 3 Hollow Obedience giliran berikutnya",
+      "summary": ""
+    },
+    {
+      "id": "OutpouringAnger",
+      "name": "Rampage",
+      "desc": "- Jika the 'You do not know the fathoms of the eye's powers, its special nature' Skill's target utama is Hong Lu, ignore semua efek Skill dan ubah semua Coin pada Skill tersebut menjadi Unbreakable Coin",
+      "summary": ""
+    },
+    {
+      "id": "Honglu_Xi",
+      "name": "Happiness",
+      "desc": "- Hong Lu's Clash Power +1\n- Ketika terdapat 1 atau lebih kawan yang hidup di Pertempuran ini: saat menerima fatal damage, Hong Lu tidak mati dan memulihkan 50% HP saja\n- Nullfies efek that giliran unit ini menjadi a Precious Jade sekali. Ketika clash terhadap Skill that giliran unit ini menjadi a Precious Jade, Clash Power +5; jika unit ini wins that Clash, unit ini tidak dapat menjadi a Precious Jade, recovers dari Stagger, reduces Jia Mu's SP sebanyak 10, dan memberi 2 Fragile terhadap Jia Mu\nSaat Menang Clash terhadap Jia Mu, peroleh 1 acak E.G.O Resource setiap dari 3 of the E.G.O Affinities dengan the least jumlah dari resource",
+      "summary": ""
+    },
+    {
+      "id": "Honglu_Le",
+      "name": "Happiness, Joy",
+      "desc": "- Hong Lu's Final Power +1\n- Pada Menang Clash, pulihkan 5 SP untuk 1 kawan dengan the least SP (termasuk unit ini)\n- Ketika terdapat 1 atau lebih kawan yang hidup di Pertempuran ini: saat menerima fatal damage, Hong Lu tidak mati dan memulihkan 50% HP saja\nSaat Menang Clash terhadap Jia Mu, peroleh 1 acak E.G.O Resource setiap dari 3 of the E.G.O Affinities dengan the least jumlah dari resource",
+      "summary": ""
+    },
+    {
+      "id": "Honglu_Ai",
+      "name": "Happiness, Joy, Sorrow",
+      "desc": "- Hong Lu's Final Power +3\n- Pada Menang Clash, pulihkan 5 SP untuk 1 kawan dengan the least SP (termasuk unit ini)\n- Ketika kawan terbunuh, the remaining kawan pada Akhir Giliran peroleh 1 Attack Power Up giliran berikutnya (sekali per giliran)\n- Ketika terdapat 1 atau lebih kawan yang hidup di Pertempuran ini: saat menerima fatal damage, Hong Lu tidak mati dan memulihkan 50% HP saja\nSaat Menang Clash terhadap Jia Mu, peroleh 1 acak E.G.O Resource setiap dari 3 of the E.G.O Affinities dengan the least jumlah dari resource",
+      "summary": ""
+    },
+    {
+      "id": "Honglu_Nu",
+      "name": "Happiness, Joy, Sorrow, Wrath",
+      "desc": "- Hong Lu's Final Power +5\n- Allies pulihkan 5 SP pada setiap Awal Giliran (termasuk unit ini)\n- Ketika kawan terbunuh, the remaining kawan pada Akhir Giliran peroleh 1 Attack Power Up giliran berikutnya (sekali per giliran)\n- Ketika terdapat 1 atau lebih kawan yang hidup di Pertempuran ini: saat menerima fatal damage, Hong Lu tidak mati dan memulihkan 50% HP saja\n- Menambah damage yang diberikan sebanyak 30% of the total HP percentage unit ini memiliki secara kumulatif lost during Pertempuran ini (maks 100%)\nSaat Menang Clash terhadap Jia Mu, peroleh 1 acak E.G.O Resource setiap dari 3 of the E.G.O Affinities dengan the least jumlah dari resource",
+      "summary": ""
+    },
+    {
+      "id": "SupremeEternalLife",
+      "name": "Sublime Immortality",
+      "desc": "- Awal Giliran: Jia Mu's \"Inti\" dan setiap Bagian peroleh 5% of setiap of their maks HP as Perisai",
+      "summary": ""
+    },
+    {
+      "id": "ImperfectEternalLife",
+      "name": "Imperfect Immortality",
+      "desc": "- Absorbed ketika struck oleh Skill tertentu of Jia Mu\n- Jika efek ini was diberikan terhadap Jia Mu, peroleh 1 Fragile per Stack; at 5 Stack, menjadi Stagger",
+      "summary": ""
+    },
+    {
+      "id": "GoldenBoughSync",
+      "name": "Malattunement",
+      "desc": "- Base Offense Level +2, Base Defense Level +2",
+      "summary": ""
+    },
+    {
+      "id": "GoldenBoughSyncDistorted",
+      "name": "Supernatural, Strength, Chaos, dan Spirits",
+      "desc": "- Base Offense Level +4, Base Defense Level +4",
+      "summary": ""
+    },
+    {
+      "id": "LastingHongwonWill_LowMorale",
+      "name": "Inherited Will of Hongyuan",
+      "desc": "- Moral Rendah\n- Peroleh 2 Attack Power Up dan 1 Bind\n- Ketika Bagian \"Tubuh\" kalah Clash terhadap Hong Lu: Bagian \"Tubuh\" peroleh 1 Damage Up dan 1 Fragile giliran berikutnya (sekali per giliran)",
+      "summary": ""
+    },
+    {
+      "id": "LastingHongwonWill_Panic",
+      "name": "Inherited Will of Hongyuan",
+      "desc": "- Panik\n- Peroleh 2 Attack Power Up dan 2 Bind\n- Ketika Bagian \"Tubuh\" kalah Clash terhadap Hong Lu: Bagian \"Tubuh\" peroleh 2 Damage Up dan 2 Fragile giliran berikutnya (sekali per giliran)",
+      "summary": ""
+    },
+    {
+      "id": "LongLastingHongwonWill_LowMorale",
+      "name": "Infinitely Bequeathing Will of Hongyuan",
+      "desc": "- Moral Rendah\n- Peroleh 2 Attack Power Up dan 1 Fragile\n- Unit yang dihasilkan oleh unit ini peroleh 3 Defense Level Down\n- Beri +20% damage. Jika the Palanquin Bagian's HP turun menjadi 0, beri -10% damage saja",
+      "summary": ""
+    },
+    {
+      "id": "LongLastingHongwonWill_Panic",
+      "name": "Infinitely Bequeathing Will of Hongyuan",
+      "desc": "- Panik\n- Peroleh 2 Attack Power Up dan 2 Fragile\n- Unit yang dihasilkan oleh unit ini peroleh 6 Defense Level Down\n- Beri +30% damage. Jika the Palanquin Bagian's HP turun menjadi 0, beri -15% damage saja",
+      "summary": ""
+    },
+    {
+      "id": "YisangParryGubo",
+      "name": "Tanggung Jawab",
+      "desc": "Dalam Clash terhadap Gubo, Clash Power +2",
+      "summary": ""
+    },
+    {
+      "id": "HongluParryGahwan",
+      "name": "The Will to Confront",
+      "desc": "Dalam Clash terhadap Jia Huan, Clash Power +2",
+      "summary": ""
+    },
+    {
+      "id": "GahwanEgoContempt",
+      "name": "Volatile E.G.O Attunement - Contempt",
+      "desc": "- Perlengkapan E.G.O extracted oleh N Corp. Selama the user meets the aptitude requirements, the lack of experience may cause issues.\n- Stack Maks: 5\n- Offense Level, Defense Level -7\n- Pada Menang Clash, peroleh 1 Stack\n- Kehilangan 1 Offense Level dan peroleh 1 Defense Level untuk setiap Stack\n- Pada Stack Maks: giliran berikutnya, peroleh 2 Protection dan reset the Stack menjadi 0",
+      "summary": ""
+    },
+    {
+      "id": "GuboEgoShooter",
+      "name": "Volatile E.G.O Attunement - Fell Bullet",
+      "desc": "- Perlengkapan E.G.O extracted oleh N Corp. Selama the user meets the aptitude requirements, the lack of experience may cause issues.\n- Stack Maks: 5\n- Offense Level, Defense Level -2\n- Saat Kalah Clash, peroleh 1 Stack\n- Peroleh 1 Offense Level dan kehilangan 1 Defense Level untuk setiap Stack\n- Pada Stack Maks: giliran berikutnya, peroleh 2 Damage Up dan reset the Stack menjadi 0",
+      "summary": ""
+    },
+    {
+      "id": "FellBulletMarkReplica",
+      "name": "Stigmatized",
+      "desc": "- Tageted sebanyak Gubo\n- Kadaluarsa pada Akhir Giliran",
+      "summary": ""
+    }
+  ]
+}

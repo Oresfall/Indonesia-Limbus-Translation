@@ -1,0 +1,726 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Koridor Nursefather Ring",
+      "model": "앨런",
+      "content": "Ah, selamat datang."
+    },
+    {
+      "id": 1,
+      "model": "오티스",
+      "content": "... Pertanyaan."
+    },
+    {
+      "id": 2,
+      "model": "오티스",
+      "content": "Apa sebenarnya tujuan memverifikasi setiap <ruby=Pintu Belakang>Backdoors</ruby> di dalam <ruby=Rumah Laba-laba>House of Spiders</ruby>?"
+    },
+    {
+      "id": 3,
+      "model": "앨런",
+      "content": "Oh, Hohenheim belum memberitahumu?"
+    },
+    {
+      "id": 4,
+      "model": "앨런",
+      "content": "Informasi apapun mengenai pintu-pintu ini memiliki nilai yang sangat besar bagi kami. Belum lagi atasan meminta kami untuk merestrukturisasi <ruby=Rumah Laba-laba>House of Spiders</ruby> menjadi pangkalan operasi secepat mungkin, meskipun kami harus sedikit terburu-buru."
+    },
+    {
+      "id": 5,
+      "model": "앨런",
+      "content": "Ini hanya spekulasi saja, tapi saya cukup yakin kalau mereka sedang bersiap untuk semacam konflik. Kantung-kantung kecil berisi keselamatan mutlak ini sangat berharga selama \"operasi\" tersebut, seperti yang sudah anda ketahui—"
+    },
+    {
+      "id": 6,
+      "model": "그레고르",
+      "content": "... Tunggu, berhenti di situ. Apa? Konflik apa? Operasi apa? Apa kamu mau bilang kalau atasanmu sedang bersiap untuk perang?"
+    },
+    {
+      "id": 7,
+      "model": "이스마엘",
+      "content": "Aku cuma merasa tidak ada nada waspada yang cukup di suaranya, mengingat... mengingat apa yang dia katakan. Bersiap untuk apa...?"
+    },
+    {
+      "id": 8,
+      "model": "오티스",
+      "content": "Bahkan tidak berusaha menyembunyikannya lagi, ya."
+    },
+    {
+      "id": 9,
+      "model": "앨런",
+      "content": "Hm? Apa aku mengatakan sesuatu?"
+    },
+    {
+      "id": 10,
+      "model": "이상",
+      "content": "... Haruskah anda bertanya untuk mengetahuinya?"
+    },
+    {
+      "id": 11,
+      "model": "앨런",
+      "content": "Aha... Kupikir semua orang sudah tahu. Maksud saya, ini sudah menjadi rahasia umum pada titik ini."
+    },
+    {
+      "id": 12,
+      "model": "앨런",
+      "content": "L Corp. telah runtuh. W Corp. goyah di ambang kehancuran."
+    },
+    {
+      "id": 13,
+      "model": "앨런",
+      "content": "Anda menyebut kami \"calon W Corp.\". Kami menyebut Limbus Company sebagai \"calon L Corp.\". Artinya, kita memiliki tujuan yang sama."
+    },
+    {
+      "id": 14,
+      "model": "오티스",
+      "content": "......."
+    },
+    {
+      "id": 15,
+      "model": "앨런",
+      "content": "Tapi tidak seperti L Corp. lama yang sudah mati dan musnah, W Corp. saat ini masih bertahan, meskipun mengalami penurunan pesat dalam beberapa tahun terakhir."
+    },
+    {
+      "id": 16,
+      "model": "앨런",
+      "content": "Dan seperti yang kita semua tahu, perusahaan-perusahaan di <ruby=Kota>City</ruby> tidak bernilai banyak kecuali mereka memiliki kekuatan militer untuk menyokongnya, bukan?"
+    },
+    {
+      "id": 17,
+      "model": "앨런",
+      "content": "Sangat wajar jika konflik bisnis akan berujung pada konflik fisik juga."
+    },
+    {
+      "id": 18,
+      "model": "앨런",
+      "content": "Meskipun ini hanya pembicaraan seorang ketua tim semata. Siapa yang tahu apa yang dipikirkan oleh atasan di perusahaan kami?"
+    },
+    {
+      "id": 19,
+      "model": "앨런마스크",
+      "content": "Bagaimanapun juga, banyak kolaborasi membuahkan hasil yang didapat hari ini. Ini akan berdampak cukup baik pada metrik kinerja kami, dan kami bahkan tidak menderita banyak kerugian."
+    },
+    {
+      "id": 20,
+      "model": "앨런마스크",
+      "content": "Saya dapat secara aman mengatakan bahwa kalian harus mengharapkan ulasan positif dari kami mengenai kolaborasi ini."
+    },
+    {
+      "id": 21,
+      "content": "Setelah mengucapkan perpisahan kepada Alan, kami kembali ke pangkalan depan..."
+    },
+    {
+      "id": 22,
+      "place": "Pangkalan Depan House of Spiders",
+      "content": "... dan membagikan semua hal yang telah terjadi sejauh ini kepada Hohenheim."
+    },
+    {
+      "id": 23,
+      "content": "Hohenheim dan Faust keduanya tampaknya tidak bersedia mendiskusikan topik tentang \"konflik\" yang membayang..."
+    },
+    {
+      "id": 24,
+      "content": "Jadi kami memutuskan untuk memperiksakan kembali ingatan dan pedang Ryōshū."
+    },
+    {
+      "id": 25,
+      "model": "히스클리프",
+      "content": "... Woi, Hohenheim. Hasilnya dah keluar belom?"
+    },
+    {
+      "id": 26,
+      "model": "호엔하임",
+      "content": "Belum, Asisten. Aku ingat betul baru memberitahumu 3 menit yang lalu kalau ini akan memakan waktu sekitar 20 menit lagi. Kamu sudah lupa?"
+    },
+    {
+      "id": 27,
+      "model": "료슈",
+      "content": "Dia bicara terlalu banyak."
+    },
+    {
+      "id": 28,
+      "content": "Ryōshū terdengar kesal saat dia memarahi Heathcliff, tetapi aku bisa merasakan gelombang kecemasan yang jelas dari caranya terus mengisap rokoknya hingga ke puntung dalam interval yang semakin pendek."
+    },
+    {
+      "id": 29,
+      "model": "호엔하임",
+      "content": "*uhuk* Ruangan ini mungkin lebih banyak asap daripada oksigen pada titik ini... Bisa tolong kurangi sedikit? Kamu secara praktis seperti mesin yang terbakar."
+    },
+    {
+      "id": 30,
+      "model": "료슈2",
+      "content": "Kalau begitu percepat, Kacamata. Bakal cabut begitu dengar hasilnya."
+    },
+    {
+      "id": 31,
+      "model": "호엔하임",
+      "content": "... Kalian berdua perlu belajar menghargai bahwa segala sesuatu butuh waktu. Ya, \"waktu\" memang relatif, tetapi fakta bahwa aku berhasil menyelesaikan analisis mendalam terhadap barang semisterius ini dalam satu hari adalah penyelesaian yang sangat cepat dan karena itu pantas kalian apresiasi."
+    },
+    {
+      "id": 32,
+      "model": "호엔하임",
+      "content": "Aku telah berusaha mengendalikan bagian diriku yang lebih memanjakan diri akhir-akhir ini, tetapi aku percaya pencapaian ini pantas untuk dijelaskan lebih lanjut; adalah kebenaran nyata bahwa hasil seperti ini tidak dapat direplikasi jika bukan karena otak jeniusku. Pergilah ke koridor dan panggil peneliti manapun yang lewat lalu beritahu mereka tentang waktu penyelesaianku yang luar biasa, dan kamu akan mendengar mereka berkata, \"Wah, sudah selesai?\" Dan untuk itu, aku akan menjawab—"
+    },
+    {
+      "id": 33,
+      "model": "료슈2",
+      "content": "D.I.M.A.S."
+    },
+    {
+      "id": 34,
+      "content": "Tampak jelas lelah dengan kedua <ruby=Pendosa>Sinner</ruby> yang bergantian mendesaknya untuk memberikan hasil, Hohenheim sepertinya mempercepat analisis... dan berhasil mencapai garis akhir jauh lebih cepat daripada 20 menit."
+    },
+    {
+      "id": 35,
+      "model": "히스클리프",
+      "content": "Wah, udah selesai?!"
+    },
+    {
+      "id": 36,
+      "model": "호엔하임",
+      "content": "Ya, ada kalanya hasil tes diekstraksi lebih awal dari jangka waktu yang diperkirakan. Banyak dari kejadian itu dengan mudah dikaitkan dengan kejeniusanku yang bekerja."
+    },
+    {
+      "id": 37,
+      "model": "료슈2",
+      "content": "... Lalu kenapa kamu tidak mengatakan apa-apa? Berikan H.T. sekarang."
+    },
+    {
+      "id": 38,
+      "model": "호엔하임",
+      "content": "Kamu memang menyuruhku untuk \"diamkan itu mulut atau sebagainya,\" jadi aku berusaha mengamati manfaat pasti dari melakukan hal tersebut."
+    },
+    {
+      "id": 39,
+      "model": "료슈2",
+      "content": "……."
+    },
+    {
+      "id": 40,
+      "model": "뉴키라",
+      "content": "Ha! Kamu pikir Yoshihide bakal <i>pernah</i> pakai singkatan umum secara langsung?"
+    },
+    {
+      "id": 41,
+      "model": "뉴키라",
+      "content": "Bagaimana kalau itu sesuatu seperti, um. \"Duh, Istirahatlah. Masih Ada Sesok.\"?"
+    },
+    {
+      "id": 42,
+      "model": "호엔하임",
+      "content": "... Dan putusanmu atas interpretasinya?"
+    },
+    {
+      "id": 43,
+      "model": "료슈",
+      "content": "*huff* ... Itu <i>tepatnya</i> apa yang kumaksud. Dia lebih baik daripada <ruby=Sinclair>T.L.K.</ruby> dalam beberapa hal."
+    },
+    {
+      "id": 44,
+      "model": "단테",
+      "content": "<... lancarnya dia berbohong selagi bernapas.>"
+    },
+    {
+      "id": 45,
+      "content": "Pada saat itu, aku mungkin melihat sekilas sarung pedang itu bergetar sedikit di atas perangkat pemeriksaan."
+    },
+    {
+      "id": 46,
+      "content": "Hampir seolah-olah sedang terkikik."
+    },
+    {
+      "id": 47,
+      "model": "호엔하임",
+      "content": "Baiklah kalau begitu, aku akan langsung masuk ke intinya. Pertama, ingatan saat dia dipuji karena masakannya telah terhapus."
+    },
+    {
+      "id": 48,
+      "model": "뉴키라",
+      "content": "Hah? Cuma itu?!"
+    },
+    {
+      "id": 49,
+      "model": "호엔하임",
+      "content": "Tentu tidak."
+    },
+    {
+      "id": 50,
+      "model": "호엔하임",
+      "content": "Kedua... sebuah nama telah terhapus dari ingatannya."
+    },
+    {
+      "id": 51,
+      "model": "호엔하임",
+      "content": "Apakah kamu ingat nama pria yang sedang bekerja bersama Manajer Saude?"
+    },
+    {
+      "id": 52,
+      "model": "료슈",
+      "content": "... Effie?"
+    },
+    {
+      "id": 53,
+      "model": "호엔하임",
+      "content": "Aku pasti akan bertanya dalam bentuk \"pernah\", jika dialah yang kurujuk."
+    },
+    {
+      "id": 54,
+      "model": "싱클레어",
+      "content": "Untung Nona Saude tidak ada di sini untuk mendengar itu..."
+    },
+    {
+      "id": 55,
+      "model": "료슈2",
+      "content": "... Anak itu. Benar, aku tidak ingat namanya."
+    },
+    {
+      "id": 56,
+      "model": "단테",
+      "content": "<Dia lupa... nama Pilot?>"
+    },
+    {
+      "id": 57,
+      "model": "호엔하임",
+      "content": "Di antara ingatan lain yang terhapus secara acak adalah 172 jam kisah petualangan Don Quixote dan jenis makanan yang dia berikan kepada burung camar."
+    },
+    {
+      "id": 58,
+      "model": "돈키호테",
+      "content": "C-celaka! Apakah anda mengatakan bahwa ingatan yang paling berharga bagi nak Ryōshū dan diriku... telah dilemparkan ke dalam jurang kehancuran total...?"
+    },
+    {
+      "id": 59,
+      "model": "로쟈",
+      "content": "Lihat, Donqui, aku bukannya mau jahat di sini, tapi..."
+    },
+    {
+      "id": 60,
+      "model": "로쟈",
+      "content": "... itu tampaknya cukup bisa diterima, bukan...? Demi imbalan mencabut pedang seperti itu..."
+    },
+    {
+      "id": 61,
+      "model": "이스마엘",
+      "content": "Kalau kita lihat dari jumlahnya saja, aku tidak bisa bilang biayanya \"bisa diterima.\" Itu menghapus ingatan bernilai beberapa hari hanya untuk satu tebasan, bukan?"
+    },
+    {
+      "id": 62,
+      "model": "로쟈",
+      "content": "Ya maksudku, memang. Tapi itu terdengar seperti ingatan yang tidak penting, kan? Greg dan Heath selalu lupa banyak hal, apa bedanya dengan ini?"
+    },
+    {
+      "id": 63,
+      "model": "호엔하임",
+      "content": "Sifat yang tampaknya \"tidak penting\" dari ingatan-ingatan khusus ini tidak dicapai hanya karena keberuntungan."
+    },
+    {
+      "id": 64,
+      "model": "호엔하임",
+      "content": "... Faktanya, hal itu tampaknya dipengaruhi oleh sarung pedang Arayashiki—atau, lebih tepatnya, kekuatan E.G.O milik Araya."
+    },
+    {
+      "id": 65,
+      "model": "료슈2",
+      "content": "... Begitu."
+    },
+    {
+      "id": 66,
+      "content": "Ryōshū menatap ke arah sarung pedang dengan tatapan ragu dan hampa di matanya."
+    },
+    {
+      "id": 67,
+      "content": "Semua yang tersisa dari Araya dalam ingatan Ryōshū hanyalah ruang kosong di mana pecahan-pecahan keberadaannya dulu berada, terputus dan terhapus kembali..."
+    },
+    {
+      "id": 68,
+      "model": "호엔하임",
+      "content": "Meskipun membutuhkan waktu yang cukup lama, sarung pedang itu tampaknya... ya, mampu memilih ingatan mana dari <ruby=Pendosa>Sinner</ruby> Ryōshū yang akan dihapus sebagai imbalan penggunaan Arayashiki."
+    },
+    {
+      "id": 69,
+      "model": "료슈9장",
+      "content": "Terdengar seperti... aku harus bersyukur, kalau begitu."
+    },
+    {
+      "id": 70,
+      "content": "... tapi Ryōshū memandang sarung pedang itu dengan tatapan konfliktual,"
+    },
+    {
+      "id": 71,
+      "content": "seolah-olah untuk memperkirakan garis luar dari kehampaan yang ditinggalkannya."
+    },
+    {
+      "id": 72,
+      "model": "뉴키라",
+      "content": "Ooh, jadi itu punya semacam jeda waktu pendinginan? Dia bisa menggunakannya kapan saja selama dia memberinya waktu untuk memilih ingatan yang sepele?"
+    },
+    {
+      "id": 73,
+      "model": "호엔하임",
+      "content": "Aku tidak akan terburu-buru mengabaikannya sebagai hal \"sepele.\" Ingatan tentang saat kamu dipuji karena masakanmu—itu adalah ingatan yang cukup berharga, bukan?"
+    },
+    {
+      "id": 74,
+      "model": "파우스트",
+      "content": "... Anda telah melakukan kalkulasi terbalik dari biaya Relik."
+    },
+    {
+      "id": 75,
+      "model": "호엔하임",
+      "content": "Ya. Menurut pengukuran kami, pedang itu tampaknya memperhitungkan \"bobot\" dari setiap ingatan saat menghitung biaya untuk menggunakannya."
+    },
+    {
+      "id": 76,
+      "model": "호엔하임",
+      "content": "Menjadi cukup jelas bahwa dibutuhkan lebih dari sekadar ingatan \"ringan\" untuk menggunakannya dengan benar."
+    },
+    {
+      "id": 77,
+      "model": "호엔하임",
+      "content": "Jadi, apakah ingatannya telah dipulihkan?"
+    },
+    {
+      "id": 78,
+      "model": "파우스트",
+      "content": "Seperti yang diduga, upaya untuk mengingat keberadaan makhluk yang terhapus berujung pada... kegagalan."
+    },
+    {
+      "id": 79,
+      "model": "호엔하임",
+      "content": "Itu... cukup mengecilkan hati."
+    },
+    {
+      "id": 80,
+      "model": "단테",
+      "content": "<... Tapi tidak semuanya hilang.>"
+    },
+    {
+      "id": 81,
+      "model": "단테",
+      "content": "<Hanya dengan mengetahui bahwa ada sesuatu yang pernah berada di ruang negatif itu...>"
+    },
+    {
+      "id": 82,
+      "model": "단테",
+      "content": "<... banyak hal masih bisa dikenang.>"
+    },
+    {
+      "id": 83,
+      "model": "단테",
+      "content": "<Seperti yang Ryōshū katakan. Dilupakan, tetapi tidak hilang.>"
+    },
+    {
+      "id": 84,
+      "model": "히스클리프",
+      "content": "……."
+    },
+    {
+      "id": 85,
+      "model": "료슈9장",
+      "content": "... Jam."
+    },
+    {
+      "id": 86,
+      "model": "료슈9장",
+      "content": "Kamu baru saja melangkahkan kaki ke dunia S.A.N.G.R.I.A."
+    },
+    {
+      "id": 87,
+      "content": "Dia memberikan senyuman paling singkat, lalu menyebarkannya dengan gumpalan asap rokok."
+    },
+    {
+      "id": 88,
+      "model": "료슈2",
+      "content": "... Mengumpulkan <ruby=R.E.>G.B.</ruby> akan memulihkannya."
+    },
+    {
+      "id": 89,
+      "model": "료슈",
+      "content": "Apa yang dulu ada di sini, di dalam kantung kehampaan di hatiku. Satu-satunya milikku..."
+    },
+    {
+      "id": 90,
+      "content": "Tatapan Ryōshū menelusuri hal yang tak kasat mata, yang tak dapat dirasakan."
+    },
+    {
+      "id": 91,
+      "place": -1,
+      "content": "Beberapa hari berlalu melintasi kami."
+    },
+    {
+      "id": 92,
+      "content": "Kami tidak menghabiskan hari-hari itu dengan berdiam diri—kami mengunjungi Saude dan Pilot dalam masa pemulihan, melakukan beberapa pekerjaan aneh di sana-sini seperti membantu menekan pelanggaran penahanan <ruby=Distorsi>Distortion</ruby> yang disebabkan oleh karyawan baru LCE..."
+    },
+    {
+      "id": 93,
+      "content": "Namun dengan semua benang yang terlepas telah terikat, kami akhirnya berhasil, setelah sekian lama..."
+    },
+    {
+      "id": 94,
+      "place": "Di atas Mephistopheles",
+      "model": "단테",
+      "content": "<Agaknya terasa seperti... kita pulang lagi.>"
+    },
+    {
+      "id": 95,
+      "content": "... kembali ke bis."
+    },
+    {
+      "id": 96,
+      "model": "로쟈",
+      "content": "Hah~! Bisku yang manis! Kursinya mungkin butuh sedikit bantalan, tapi tidak ada yang seperti ini di luar sana! Hnh!"
+    },
+    {
+      "id": 97,
+      "model": "뉴키라",
+      "content": "Weh, ini kendaraan kalian? Keren banget..."
+    },
+    {
+      "id": 98,
+      "model": "파우스트",
+      "content": "……."
+    },
+    {
+      "id": 99,
+      "model": "카론",
+      "content": "Heh."
+    },
+    {
+      "id": 100,
+      "content": "Di antara kedua individu yang tampak agak senang dengan keheranan Kira, Hohenheim menyela untuk memperingatkan kami tentang beberapa hal yang harus diwaspadai."
+    },
+    {
+      "id": 101,
+      "model": "호엔하임",
+      "content": "Aku meminta Ketua Tim Alan untuk mengatur koordinat ke suatu tempat sedekat mungkin dengan <ruby=Sarang>Nest</ruby>. Teruslah mengemudi melewati pintu, dan itu akan membawamu tepat ke tempat kosong di jalan raya."
+    },
+    {
+      "id": 102,
+      "model": "호엔하임",
+      "content": "Jangan ragu atau menginjak rem, karena jika kebetulan ada mobil yang mengemudi di belakangmu, mobil itu akan menabrak bis."
+    },
+    {
+      "id": 103,
+      "model": "카론",
+      "content": "Mengangguk."
+    },
+    {
+      "id": 104,
+      "model": "히스클리프",
+      "content": "Jadi kenapa kalian berdua ada di sini di atas bis? Memutuskan buat gabung ke tim yang lebih baik, ya?"
+    },
+    {
+      "id": 105,
+      "model": "호엔하임",
+      "content": "Aku harus mengakui adanya tingkat ketertarikan tertentu untuk mendengar tentang pencapaian kalian, tetapi untuk menyertai kalian melaluinya adalah masalah yang sama sekali berbeda, bukan? Aku di sini hanya untuk menyesuaikan koordinat kalian."
+    },
+    {
+      "id": 106,
+      "model": "호엔하임",
+      "content": "... Omong-omong, bagaimana tepatnya kamu berhasil melarikan diri dari kurunganmu?"
+    },
+    {
+      "id": 107,
+      "model": "뉴키라",
+      "content": "Aku bilang ke mereka kalau aku punya beberapa hal untuk membantumu, dan mereka membiarkanku keluar setelah menyuruhku mencoret-coret beberapa dokumen."
+    },
+    {
+      "id": 108,
+      "model": "뉴키라",
+      "content": "Kurungan isolasi membosankan banget, jadi kupikir aku bisa menghirup udara segar. Mumpung lagi jalan-jalan, sekalian saja berpamitan, kan?"
+    },
+    {
+      "id": 109,
+      "model": "호엔하임",
+      "content": "... Begitu. Kamu memanfaatkan fakta bahwa para karyawan baru tidak memiliki dendam terhadapmu."
+    },
+    {
+      "id": 110,
+      "model": "호엔하임",
+      "content": "Kupikir aku telah menyuruh mereka untuk menanamkan pada para karyawan baru bahwa tahanan harus diperlakukan sebagai pengecualian dari—ah, benar. Orang yang bertanggung jawab atas pelatihan itu saat ini sedang dirawat di bangsal pemulihan jangka panjang. Lebih banyak masalah yang berakar dari kekurangan tenaga kerja—sebaiknya aku memasukkan ini ke dalam laporan."
+    },
+    {
+      "id": 111,
+      "model": "단테",
+      "content": "<Kelihatannya mereka berdua di sini untuk melihat kita pergi.>"
+    },
+    {
+      "id": 112,
+      "model": "호엔하임",
+      "content": "Kalau begitu... waktunya untuk perpisahan, kurasa."
+    },
+    {
+      "id": 113,
+      "model": "호엔하임",
+      "content": "Hm. Mungkin aku sudah terlalu terbiasa melihat wajah kalian—mengucapkan selamat tinggal tidak keluar semudah yang kuperkirakan."
+    },
+    {
+      "id": 114,
+      "model": "이상",
+      "content": "Hari reuni lainnya pasti menanti di masa depan."
+    },
+    {
+      "id": 115,
+      "model": "파우스트",
+      "content": "Saya akan menghargainya jika reuni seperti itu memiliki probabilitas yang rendah."
+    },
+    {
+      "id": 116,
+      "model": "호엔하임",
+      "content": "Meskipun aku tidak sangat menyukai statistik matematika seperti teori probabilitas, aku berharap prediksimu tepat sekali."
+    },
+    {
+      "id": 117,
+      "model": "호엔하임",
+      "content": "Baiklah kalau begitu."
+    },
+    {
+      "id": 118,
+      "model": "뉴키라",
+      "content": "... Hei, Yoshihide."
+    },
+    {
+      "id": 119,
+      "model": "료슈",
+      "content": "Apa?"
+    },
+    {
+      "id": 120,
+      "model": "뉴키라",
+      "content": "Kita... aku tidak akan bilang kalau kita persisnya \"keluarga\", tapi..."
+    },
+    {
+      "id": 121,
+      "model": "뉴키라",
+      "content": "... Dengar, ada banyak hal yang ingin kukatakan padamu, dan banyak hal yang ingin kudengar darimu. Oke? Jadi..."
+    },
+    {
+      "id": 122,
+      "model": "뉴키라",
+      "content": "S.B.Y."
+    },
+    {
+      "id": 123,
+      "model": "뉴키라",
+      "content": "Aku melakukannya dengan benar kan?"
+    },
+    {
+      "id": 124,
+      "model": "료슈2",
+      "content": "*huff*"
+    },
+    {
+      "id": 125,
+      "model": "료슈",
+      "content": "Singkatkan jadi \"B.\""
+    },
+    {
+      "id": 126,
+      "model": "료슈",
+      "content": "Dan panggil aku Ryōshū, bukan Yoshihide."
+    },
+    {
+      "id": 127,
+      "model": "료슈",
+      "content": "Lebih menyukai gema nama itu."
+    },
+    {
+      "id": 128,
+      "content": "Setelah serangkaian ucapan selamat tinggal, keduanya turun dari bis, dan..."
+    },
+    {
+      "id": 129,
+      "content": "... tidak lama setelah mesin-mesin mulai berbunyi, roda bis akhirnya mulai berputar,"
+    },
+    {
+      "id": 130,
+      "content": "membawa kami semakin dekat menuju portal yang sangat terang dan cukup masif untuk menelan seluruh bis."
+    },
+    {
+      "id": 131,
+      "content": "Yah, berangkat ke tujuan kita berikutnya, kurasa..."
+    },
+    {
+      "id": 132,
+      "model": "단테",
+      "content": "<... Oh, benar. Ke mana tujuan kita selanjutnya?>"
+    },
+    {
+      "id": 133,
+      "model": "파우스트",
+      "content": "Dante menanyakan tentang tujuan berikutnya, Vergilius."
+    },
+    {
+      "id": 134,
+      "model": "히스클리프",
+      "content": "Hah! Nah gitu dong, baru pas. Sialan, udah lama banget gua gak denger pertanyaan itu."
+    },
+    {
+      "id": 135,
+      "model": "이스마엘",
+      "content": "Ya, minimal jangan semangat banget. Kapan jawaban dari pertanyaan itu pernah membawa kita ke tempat yang tidak benar-benar aneh?"
+    },
+    {
+      "id": 136,
+      "content": "Vergilius memberiku senyuman tipis dan tahu seolah-olah untuk membenarkan ucapan pesimistis Ishmael, lalu menyampaikan komentar yang terdengar terlalu santai untuk bobotnya."
+    },
+    {
+      "id": 137,
+      "model": "베르길리우스",
+      "content": "Hm. \"Benar-benar aneh,\" ya? ... Kalau begitu, biarkan aku bilang saja bahwa ini sudah saatnya kita menghadapi pemandangan seperti itu."
+    },
+    {
+      "id": 138,
+      "model": "베르길리우스",
+      "content": "Tujuan kita berikutnya adalah <ruby=Distrik>District</ruby> 14."
+    },
+    {
+      "id": 139,
+      "model": "베르길리우스",
+      "content": "Dengan kata lain, Manajer Dante, kita sekarang dalam perjalanan menuju N Corp."
+    },
+    {
+      "id": 140,
+      "teller": "Pendosa",
+      "title": "LCB",
+      "content": "......."
+    },
+    {
+      "id": 141,
+      "model": "싱클레어",
+      "content": "Jadi kita <i>memang</i> pergi ke sana, bagaimanapun juga. N Corp."
+    },
+    {
+      "id": 142,
+      "model": "그레고르",
+      "content": "... Banyak wajah di sana yang lebih baik tidak aku lihat."
+    },
+    {
+      "id": 143,
+      "content": "Saat <ruby=Pendosa>Sinners</ruby> lainnya menyuarakan berbagai keluhan dan ketidakpuasan mereka terhadap N Corp.,"
+    },
+    {
+      "id": 144,
+      "content": "Meursault, yang kemungkinan memiliki sejarah paling banyak dengan <ruby=Sayap>Wing</ruby> tersebut, hanya membuka korannya seperti biasa dan mulai membacanya dengan ekspresi yang sama dan tak berubah."
+    },
+    {
+      "id": 145,
+      "model": "뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 146,
+      "content": "Seolah-olah baginya, tidak ada dari hal ini yang mengubah apapun."
+    },
+    {
+      "id": 147,
+      "model": "카론",
+      "content": "Sekarang berangkat. Vroom-vroom."
+    },
+    {
+      "id": 148,
+      "content": "Dengan itu, bis melanjutkan perjalanannya menuju ke sebuah kisah yang lain."
+    }
+  ]
+}

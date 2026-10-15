@@ -1,0 +1,22 @@
+{
+  "dataList": [
+    {
+      "id": 1017,
+      "panicName": "Organization Compulsion",
+      "lowMoraleDescription": "Kehilangan 5 SP on Kalah Clash. Peroleh 1 [Agility] giliran berikutnya ketika diserang (maks 2)",
+      "panicDescription": "Peroleh 2 [Vulnerable]. Peroleh 1 [Agility] giliran berikutnya ketika diserang (maks 3)"
+    },
+    {
+      "id": 1018,
+      "panicName": "Echoes of the Manor",
+      "lowMoraleDescription": "Clash Power -1 pada diri sendiri. Beri +10% damage pada Coin Kepala",
+      "panicDescription": "Clash Power -2 pada diri sendiri. Peroleh 1 [AttackDmgUp]"
+    },
+    {
+      "id": 1020,
+      "panicName": "Splitting",
+      "lowMoraleDescription": "Kehilangan 2 HP pada diri sendiri setiap Clash. Peroleh 1 [AttackUp] pada Awal Giliran. ",
+      "panicDescription": "Kehilangan 3 HP pada diri sendiri setiap Clash. Peroleh 2 [AttackUp] pada Awal Giliran. "
+    }
+  ]
+}

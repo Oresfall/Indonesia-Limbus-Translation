@@ -1,0 +1,244 @@
+{
+  "dataList": [
+    {
+      "id": 90001,
+      "name": "Verminous Body",
+      "desc": "Pada akhir giliran, pulihkan 5 HP."
+    },
+    {
+      "id": 90002,
+      "name": "Nutritive Reinforcements",
+      "desc": "Setelah mengalahkan musuh, pulihkan 20 HP, dan peroleh 5 Defense Power Up giliran berikutnya."
+    },
+    {
+      "id": 90003,
+      "name": "Sharp Edge",
+      "desc": "Saat serang, beri 1-2 Bleed.\nJika unit is Marked, attack them first."
+    },
+    {
+      "id": 90004,
+      "name": "Lemah Morale",
+      "desc": "Ketika kawan mati, secara permanen peroleh 1 Fragile."
+    },
+    {
+      "id": 90005,
+      "name": "Retribution",
+      "desc": "Ketika HP turun di bawah 50%, peroleh 5 Attack Power Up giliran berikutnya."
+    },
+    {
+      "id": 90006,
+      "name": "Mind Wave",
+      "desc": "Saat serang, target kehilangan 10 SP."
+    },
+    {
+      "id": 9000101,
+      "name": "Injured Augmentation",
+      "desc": "Pada the start of the giliran, jika saat kurang dari 50% HP, pulihkan 1 HP."
+    },
+    {
+      "id": 9000102,
+      "name": "Augmented Body",
+      "desc": "Pada the start of the giliran, jika saat kurang dari 50% HP, pulihkan 2 HP."
+    },
+    {
+      "id": 9000103,
+      "name": "Corroded Augmentation",
+      "desc": "Pada the start of the giliran, jika saat kurang dari 50% HP, pulihkan 4 HP."
+    },
+    {
+      "id": 9100301,
+      "name": "Big Boss",
+      "desc": "Ketika unit ini dikalahkan, semua its kawan kehilangan 45 SP."
+    },
+    {
+      "id": 9100302,
+      "name": "Not Me Boys!",
+      "desc": "Unit ini kehilangan 15 SP whenever kawan dikalahkan."
+    },
+    {
+      "id": 9100401,
+      "name": "Hora de Fiesta",
+      "desc": "Pada the start of the giliran, semua kawan pulihkan 10 SP.\nPada 20+ SP, peroleh 1 Attack Power Up dan 1 Defense Power Up at awal giliran."
+    },
+    {
+      "id": 9100402,
+      "name": "Se Acabó la Fiesta",
+      "desc": "Ketika unit ini dikalahkan, semua its kawan kehilangan 45 SP."
+    },
+    {
+      "id": 9002801,
+      "name": "HP Bullets",
+      "desc": "Pada the start of the giliran, pulihkan 15 HP.\nPada kurang dari 50% HP, pulihkan 15 tambahan HP."
+    },
+    {
+      "id": 9003201,
+      "name": "Noble be Thy Sacrifice",
+      "desc": "Ketika kawan dikalahkan, peroleh 1 Attack Power Up giliran berikutnya."
+    },
+    {
+      "id": 9003801,
+      "name": "Joy of Execution",
+      "desc": "Setelah mengalahkan musuh, peroleh 2 Damage Up giliran berikutnya."
+    },
+    {
+      "id": 9100501,
+      "name": "Hammer of the One Who Grips",
+      "desc": "Pada the start of the giliran, semua kawan pulihkan 10 SP.\nKetika unit ini dikalahkan, semua its kawan kehilangan 45 SP."
+    },
+    {
+      "id": 9100601,
+      "name": "Persistence",
+      "desc": "Ketika HP turun di bawah 50%, hilangkan semua status negatif efek giliran berikutnya, dan peroleh 4 Fanatik, 1 Attack Power Up, dan 1 Defense Power Up setiap giliran."
+    },
+    {
+      "id": 9100502,
+      "name": "Thou Shalt Hammer",
+      "desc": "Jika unit ini is Fanatik, beri +50% damage."
+    },
+    {
+      "id": 9004601,
+      "name": "Mechanical Mentality",
+      "desc": "Sanity is fixed at 0."
+    },
+    {
+      "id": 9004602,
+      "name": "Solid Exterior",
+      "desc": "Terima half as much damage dari <sprite name=\"Laceration\"><color=#f8c200><u><link=\"Laceration\">Bleed</color></link></u> dan <sprite name=\"Combustion\"><color=#f8c200><u><link=\"Combustion\">Burn</color></link></u>."
+    },
+    {
+      "id": 9004603,
+      "name": "Caution: Unsteady",
+      "desc": "Batas Stagger unit ini naik sebanyak 50% lebih ketika affected sebanyak Tremor Burst"
+    },
+    {
+      "id": 9004604,
+      "name": "Caution: Delicate",
+      "desc": "Terima +30% damage dari <sprite name=\"Burst\"><color=#f8c200><u><link=\"Burst\">Rupture</color></link></u> (Rounded down)"
+    },
+    {
+      "id": 9004901,
+      "name": "Damageable Disuniter",
+      "desc": "Setelah being staggered, beri 1 less Rupture dan Rupture Count"
+    },
+    {
+      "id": 9005001,
+      "name": "Damageable Thumper",
+      "desc": "Setelah being staggered, beri 1 less Tremor dan Tremor Count"
+    },
+    {
+      "id": 9100701,
+      "name": "Overheating Attack Function",
+      "desc": "Ketika staggering unit dengan attack, peroleh 3 Damage Up giliran berikutnya."
+    },
+    {
+      "id": 9100702,
+      "name": "Breakable Disuniter",
+      "desc": "Setelah being staggered, beri 3 less Rupture dan Rupture Count"
+    },
+    {
+      "id": 9100703,
+      "name": "Breakable Thumper",
+      "desc": "Setelah being staggered, beri 3 less Tremor dan Tremor Count"
+    },
+    {
+      "id": 9100801,
+      "name": "Spanner Up",
+      "desc": "Peroleh Resonant sebanyak jumlah dari heads Coin that successfully hit during a giliran. (Maks 10)"
+    },
+    {
+      "id": 9100802,
+      "name": "Rosespanner Workshop Rep",
+      "desc": "Beri lebih Tremor sebanyak jumlah dari kawan yang memiliki died this wave"
+    },
+    {
+      "id": 9100803,
+      "name": "Guess I'm the Last",
+      "desc": "Ketika alone, peroleh 1 Resonant dan 1 Tremor Sync setiap giliran."
+    },
+    {
+      "id": 9100804,
+      "name": "I've Got No Choice",
+      "desc": "Ketika alone, marks the last unit that attacked this karakter as a target giliran berikutnya."
+    },
+    {
+      "id": 9100901,
+      "name": "Entangling Curse Talisman",
+      "desc": "Peroleh Entangled Curse Talismans sebanyak jumlah dari clashes unit engaged in during a giliran."
+    },
+    {
+      "id": 9100902,
+      "name": "Strangling Curse Talisman",
+      "desc": "Pada 10 Entangled Curse Talismans, naikkan stagger threshold sebanyak 10, lalu hilangkan the status."
+    },
+    {
+      "id": 9100903,
+      "name": "Multiplying Curse Talisman",
+      "desc": "Pada 30% atau kurang HP, beri +1 Reattached Curse Talisman"
+    },
+    {
+      "id": 9100904,
+      "name": "Encroaching Curse Talisman",
+      "desc": "Pada 30% atau kurang HP, jika target memiliki 5+ Reattached Curse Talisman setelah attack is finished, beri 2 Paralyze giliran berikutnya."
+    },
+    {
+      "id": 9006201,
+      "name": "Floods of Sorrow",
+      "desc": "Tails Coin beri 2 Sinking"
+    },
+    {
+      "id": 9006202,
+      "name": "Kesedihan Melimpah",
+      "desc": "Pada akhir giliran, kehilangan 5 SP"
+    },
+    {
+      "id": 9006101,
+      "name": "Intoxication",
+      "desc": "Pada 5 Morale Boost, peroleh 5 Mabuk."
+    },
+    {
+      "id": 9006102,
+      "name": "Hangover Cure",
+      "desc": "Pada 5 Mabuk, uses a defense skill."
+    },
+    {
+      "id": 9006801,
+      "name": "Healing Ampule Injection",
+      "desc": "Pada the start of the giliran, pulihkan 20 HP."
+    },
+    {
+      "id": 9006802,
+      "name": "Emergency Ampule Administration",
+      "desc": "Pada kurang dari 25% HP, pulihkan hingga 40% dari Maks HP (One-time hanya)"
+    },
+    {
+      "id": 9007001,
+      "name": "Golden Time",
+      "desc": "Pada akhir giliran, jika the HP is antara 12% dan 24%, instantly pulihkan hingga 65% dari Maks HP, dan pulih dari stagger. (One-time hanya)"
+    },
+    {
+      "id": 9007002,
+      "name": "Time Reversion Retroaction",
+      "desc": "Setelah mengaktifkan Golden Time, peroleh 3 Fragile at giliran end."
+    },
+    {
+      "id": 9005401,
+      "name": "Terror Perangkat",
+      "desc": "Ketika kawan attacks another kawan, beri 3 SP damage"
+    },
+    {
+      "id": 9006901,
+      "name": "Healing Ampule Injection",
+      "desc": "Pada the start of the giliran, pulihkan 20 HP."
+    },
+    {
+      "id": 9006902,
+      "name": "Emergency Ampule Administration",
+      "desc": "Pada kurang dari 25% HP, pulihkan hingga 40% dari Maks HP (One-time hanya)"
+    },
+    {
+      "id": 9006803,
+      "name": "Emergency Ampule Overdose",
+      "desc": "HP tidak turun di bawah 1;\nJika at 60- HP saat dimulainya giliran, enter a powered-up state."
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "dataList": [
+    {
+      "id": 940000501,
+      "name": "The Inner Self",
+      "desc": "Starting dari Giliran 3: peroleh 2 [AttackUp] pada setiap Awal Giliran"
+    },
+    {
+      "id": 940000502,
+      "name": "Widening Knowledge",
+      "desc": "Before Attack: the targeted musuh peroleh +1 Blunt Resist. (resets setelah Skill ends)"
+    },
+    {
+      "id": 940000503,
+      "name": "Spirit of Fixers",
+      "desc": "Hapus Batas Stagger pertama dari unit ini\nKetika diserang, peroleh 1 [Protection], 1 [AttackUp], dan pulihkan 3 SP (sekali per giliran)"
+    },
+    {
+      "id": 940000504,
+      "name": "The Tianya Sword",
+      "desc": "Akhir Giliran: at 15+ Potency [Breath], halve Potency [Breath] dan peroleh efek berikut:\n- Semua kawan, termasuk unit ini, pulihkan 10 HP\n- Semua kawan, termasuk unit ini, pulihkan 3 SP\n- Setengahkan semua efek negatif yang dapat dihilangkan dari semua kawan, termasuk unit ini"
+    },
+    {
+      "id": 940000505,
+      "name": "How to Prepare for War",
+      "desc": "Awal Pertempuran: memulihkan 10 SP, peroleh 2 [AttackUp], dan 2 [DefenseUp]"
+    },
+    {
+      "id": 940000506,
+      "name": "How to Survive",
+      "desc": "Di Pertempuran ini, ketika unit ini menerima damage yang membawa HP mereka turun hingga 0, batalkan damage tersebut; lalu, HP unit ini tidak dapat turun di bawah 1 untuk giliran ini. (sekali per Pertempuran)"
+    },
+    {
+      "id": 940000507,
+      "name": "Apathetic Response",
+      "desc": "Ketika other kawan are hit, peroleh 1 [AttackUp]; lalu, peroleh 2 [Agility] giliran berikutnya (sekali per giliran)"
+    },
+    {
+      "id": 940000508,
+      "name": "POW Torture Technique",
+      "desc": "Saat Menyerang: jika target memiliki [Binding] atau [Laceration], peroleh 1 Clash Power Up giliran berikutnya (2 kali per giliran)"
+    },
+    {
+      "id": 940000509,
+      "name": "The Reassuring Heart",
+      "desc": "Awal Giliran: semua kawan, termasuk unit ini, memulihkan 5 SP\nAwal Pertempuran: jika target utama's SP is setara dengan atau di atas dari unit ini's, peroleh 1 [Protection] (sekali per giliran)"
+    },
+    {
+      "id": 940000510,
+      "name": "God of Gamblers",
+      "desc": "Saat Menang Clash tanpa losing any Coin: tidak peduli dengan whether yang diserang atau not, jika setiap Coin flipped sebanyak that Skill, turun hingga Coin terakhir, flipped heads, Coin terakhir beri +30% damage"
+    },
+    {
+      "id": 940000511,
+      "name": "My Bestie dan a Rival",
+      "desc": "Awal Giliran: jika Sinner Sinclair is participating in pertempuran ini, unit ini dan Sinclair both peroleh 2 [AttackUp] dan 2 [DefenseUp] (tidak dapat count jika he is a Backup Unit)"
+    },
+    {
+      "id": 940000512,
+      "name": "The Hierarch of Hongyuan",
+      "desc": "Awal Giliran: beri 1 [DefenseUp] ke semua kawan, termasuk unit ini"
+    },
+    {
+      "id": 940000513,
+      "name": "The Hierarch of Hongyuan",
+      "desc": "Awal Giliran: beri 1 [AttackUp] dan 1 [DefenseUp] ke semua kawan, termasuk unit ini"
+    },
+    {
+      "id": 940000514,
+      "name": "The Hierarch of Hongyuan",
+      "desc": "Awal Giliran: beri 2 [AttackUp] dan 2 [DefenseUp] ke semua kawan, termasuk unit ini"
+    },
+    {
+      "id": 940000515,
+      "name": "The Hierarch of Hongyuan",
+      "desc": "Awal Giliran: beri 3 [AttackUp] dan 3 [DefenseUp] ke semua kawan, termasuk unit ini"
+    },
+    {
+      "id": 940000516,
+      "name": "Jin Gang Bolus",
+      "desc": "Saat Kalah Clash, peroleh 1 [Protection] dan 3 [DefenseUp] (2 kali per giliran)"
+    },
+    {
+      "id": 940000517,
+      "name": "Jin Gang Bolus",
+      "desc": "Saat Kalah Clash, peroleh 1 [Protection], 1 [AttackUp], dan 3 [DefenseUp] (2 kali per giliran)"
+    },
+    {
+      "id": 940000518,
+      "name": "Jin Gang Bolus",
+      "desc": "Saat Kalah Clash, peroleh 2 [Protection], 1 [AttackUp], dan 3 [DefenseUp] (2 kali per giliran)"
+    },
+    {
+      "id": 940000519,
+      "name": "Jin Gang Bolus",
+      "desc": "Saat Kalah Clash, peroleh 2 [Protection], 1 [AttackUp], dan 4 [DefenseUp] (2 kali per giliran)"
+    },
+    {
+      "id": 940000520,
+      "name": "Jin Gang Bolus",
+      "desc": "Saat Kalah Clash, peroleh 3 [Protection], 1 [AttackUp], dan 4 [DefenseUp] (2 kali per giliran)"
+    }
+  ]
+}

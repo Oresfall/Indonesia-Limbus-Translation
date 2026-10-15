@@ -1,0 +1,886 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Lorong Tim Riset LCE",
+      "model": "중지제자",
+      "content": "Uh, halo, temen-temen mainku! Kayaknya aku sisa satu ruangan lagi nih buat nemuin kalian!"
+    },
+    {
+      "id": 1,
+      "model": "중지제자",
+      "content": "Mirip banget sama lagu petak umpet yang papa sering nyanyiin pas kita main!"
+    },
+    {
+      "id": 2,
+      "place": "Tim Riset LCE Unit Keamanan",
+      "model": "로쟈",
+      "content": "... Oke! Mati kita. Dia pasti bakal masuk ke unit penahanan ini sebentar lagi."
+    },
+    {
+      "id": 3,
+      "place": "Lorong Tim Riset LCE",
+      "model": "에즈라",
+      "content": "*huff* *huff* Detektif! Aku berhasil mancing Peccatula yang kabur ke arah sini! Sepertinya mereka punya Peccatula Tahap 3 juga!"
+    },
+    {
+      "id": 4,
+      "model": "오티스",
+      "content": "Apakah kita memiliki semua yang dibutuhkan untuk strategi kita, Manajer?"
+    },
+    {
+      "id": 5,
+      "model": "로쟈",
+      "content": "Jadiii~ Kamu yakin soal ini? Maksudku, aku emang udah jelasin semua yang aku tahu ke kamu, tapi... seluruh rencananya kan keluar dari kepalamu."
+    },
+    {
+      "id": 6,
+      "model": "모제스2",
+      "content": "Jika anda membicarakan tentang validasi silang, anda akan senang mendengar bahwa tinjauan kami terhadap Log Observasi telah memverifikasi kemanjuran rencana ini. Saya tidak melihat alasan untuk membuat perubahan di menit-menit terakhir."
+    },
+    {
+      "id": 7,
+      "model": "로쟈",
+      "content": "Oke, tapi gimana kalau nggak jalan sesuai rencana? Gimana kalau ada yang salah, atau... Yah, kamu nyiapin Rencana B nggak buat jaga-jaga?"
+    },
+    {
+      "id": 8,
+      "model": "모제스2",
+      "content": "Saya tidak menyiapkannya."
+    },
+    {
+      "id": 9,
+      "model": "로쟈",
+      "content": "... Eh?"
+    },
+    {
+      "id": 10,
+      "model": "오티스",
+      "content": "Kepercayaan diri yang mengesankan. Bukankah kebanyakan orang menyiapkan Rencana B ketika mereka memiliki keraguan sedikit pun tentang Rencana A mereka?"
+    },
+    {
+      "id": 11,
+      "model": "모제스2",
+      "content": "Mengapa harus ada Rencana B padahal ini bahkan bukan Rencana A saya? Tidak ada Rencana B."
+    },
+    {
+      "id": 12,
+      "model": "모제스2",
+      "content": "Kita kalah jumlah dan kalah persenjataan; ini hanyalah satu-satunya cara bagi kita untuk mengulur waktu."
+    },
+    {
+      "id": 13,
+      "model": "모제스2",
+      "content": "Apakah Perang dulu berbeda? Anda harus tahu bahwa perencanaan yang sempurna jarang menghasilkan eksekusi yang sempurna."
+    },
+    {
+      "id": 14,
+      "model": "오티스",
+      "content": "... Hm."
+    },
+    {
+      "id": 15,
+      "model": "로쟈",
+      "content": "Yah~ Kurasa Moses nggak punya nyawa cadangan buat dibuang-buang kayak kita. Dia nggak bakal berani asal-asalan dalam situasi hidup dan mati ini."
+    },
+    {
+      "id": 16,
+      "model": "모제스2",
+      "content": "... Voila."
+    },
+    {
+      "id": 17,
+      "place": "Tim Riset LCE Unit Keamanan",
+      "model": "중지제자",
+      "content": "Apaan nih? Ooh, kelihatannya aneh banget..."
+    },
+    {
+      "id": 18,
+      "model": "중지제자",
+      "content": "Ini bunga ya...? Aku nggak inget pernah motong-motong benda yang kayak begini tadi..."
+    },
+    {
+      "id": 19,
+      "model": "중지제자",
+      "content": "Kelihatannya nggak bisa ngomong juga, jadi... Oh, apa kamu kayak lagi manggil aku buat ndeket?"
+    },
+    {
+      "id": 20,
+      "model": "중지제자",
+      "content": "Ooh~ Aku tahu apa yang terjadi di sini! Kamu lagi coba mengulur waktu—"
+    },
+    {
+      "id": 21,
+      "model": "중지제자",
+      "content": "Huh?"
+    },
+    {
+      "id": 22,
+      "model": "머금은목화1",
+      "content": "…!"
+    },
+    {
+      "id": 23,
+      "model": "중지제자",
+      "content": "Nngh... Apa-apaan sih kamu? Coba nancep dan nyedot darahku sampe kering, huh?!"
+    },
+    {
+      "id": 24,
+      "model": "중지제자",
+      "content": "Mimpi aja sana, bodoh! Hah, gampang banget!"
+    },
+    {
+      "id": 25,
+      "place": "Lorong Tim Riset LCE",
+      "model": "이스마엘",
+      "content": "Dia cuma... memotongnya gitu aja?"
+    },
+    {
+      "id": 26,
+      "model": "로쟈",
+      "content": "Tunggu, kamu bisa memotongnya begitu aja?"
+    },
+    {
+      "id": 27,
+      "model": "오티스",
+      "content": "Kita harus segera melakukan penyesuaian pada rencana ini untuk—"
+    },
+    {
+      "id": 28,
+      "model": "모제스3",
+      "content": "Tidak, perkembangan itu adalah bagian dari rencana."
+    },
+    {
+      "id": 29,
+      "model": "모제스2",
+      "content": "Setiap kali rasa kesepian yang menghancurkan itu datang, dia pasti menahannya dengan menenggelamkan diri dalam buku komik dan video gim."
+    },
+    {
+      "id": 30,
+      "model": "모제스2",
+      "content": "Dan itulah satu-satunya hubungannya dengan apa yang dia sebut sebagai \"ayah\"... Dia terobsesi dengan gim bukan sekadar sebagai \"hiburan\"—baginya, itu adalah cara bertahan hidup, itulah yang membuatnya tetap bertahan. Lalu..."
+    },
+    {
+      "id": 31,
+      "model": "이스마엘",
+      "content": "Hmm... kalau itu benar, berarti dia bakal ngelawan <ruby=Abnormalitas>Abnormality</ruby> itu kayak lagi main video gim."
+    },
+    {
+      "id": 32,
+      "model": "이스마엘",
+      "content": "Biasanya, kalau langsung masuk ke \"pertarungan bos\" tanpa persiapan, strategi utamanya adalah..."
+    },
+    {
+      "id": 33,
+      "model": "모제스3",
+      "content": "... Membereskan kroco-kroco yang menghalangi jalan."
+    },
+    {
+      "id": 34,
+      "model": "모제스3",
+      "content": "Tapi aturan itu tidak berlaku untuk \"bos\" ini. Dia bisa menebas kroco-kroco itu sesukanya, tapi itu hanya akan membuatnya semakin tertutup oleh gossypium."
+    },
+    {
+      "id": 35,
+      "model": "모제스3",
+      "content": "Anda pernah melawannya sebelumnya, bukan? Begitu anda tertutup oleh gossypium-nya..."
+    },
+    {
+      "id": 36,
+      "model": "이스마엘",
+      "content": "... Bakal jadi hampir mustahil bahkan buat menangkis serangan Drenched Gossypium."
+    },
+    {
+      "id": 37,
+      "place": "Tim Riset LCE Unit Keamanan",
+      "model": "이스마엘",
+      "content": "Kekuatannya bakal terkumpul terlalu besar."
+    },
+    {
+      "id": 38,
+      "model": "머금은목화1",
+      "content": "…!"
+    },
+    {
+      "id": 39,
+      "model": "중지제자",
+      "content": "Apa ini kayak fase kebal? Kamu nancepin batang ke kroco-kroco itu buat kasih dirimu semacam buff pemulihan, kan?"
+    },
+    {
+      "id": 40,
+      "model": "중지제자",
+      "content": "Kalo gitu aku harus habisin kroco-kroconya dulu—!"
+    },
+    {
+      "id": 41,
+      "model": "중지제자",
+      "content": "Agh, sialan...!"
+    },
+    {
+      "id": 42,
+      "model": "머금은목화2",
+      "content": "…!"
+    },
+    {
+      "id": 43,
+      "model": "중지제자",
+      "content": "A-apa yang terjadi?! Pedangku nggak— Kapan monster itu berubah jadi merah...!?"
+    },
+    {
+      "id": 44,
+      "place": "Lorong Tim Riset LCE",
+      "model": "모제스2",
+      "content": "Rencana ini tidak akan berhasil jika Nursefather-nya bergabung dengannya lebih awal dari yang diperkirakan. Kita beruntung."
+    },
+    {
+      "id": 45,
+      "model": "오티스",
+      "content": "... <ruby=Abnormalitas>Abnormality</ruby> ini menghadirkan tantangan yang sulit diatasi sendirian. Kita bisa menerapkan strategi yang sama terhadap Nursefather Middle nanti."
+    },
+    {
+      "id": 46,
+      "model": "오티스",
+      "content": "Kita belum sepenuhnya aman, tapi ini adalah strategi yang cukup cer—"
+    },
+    {
+      "id": 47,
+      "model": "중지아비",
+      "content": "Nah, itu kalian! Dari tadi ngumpet di sini terus kayak sekumpulan ayam penakut, eh?"
+    },
+    {
+      "id": 48,
+      "model": "오티스",
+      "content": "…?"
+    },
+    {
+      "id": 49,
+      "model": "중지아비",
+      "content": "Aw, apa kalian nggak liat papa ngerakit kit plamo-nya? Pas model kit-nya punya terlalu banyak sisa potongan yang tajam kayak begini..."
+    },
+    {
+      "id": 50,
+      "model": "이스마엘",
+      "content": "... Merunduk!"
+    },
+    {
+      "id": 51
+    },
+    {
+      "id": 52,
+      "place": "Tim Riset LCE Unit Keamanan"
+    },
+    {
+      "id": 53,
+      "place": "Lorong Tim Riset LCE",
+      "model": "중지아비",
+      "content": "……."
+    },
+    {
+      "id": 54,
+      "model": "중지아비",
+      "content": "... kamu harus motong mereka semua sebelum mulai ngerakit."
+    },
+    {
+      "id": 55,
+      "model": "오티스",
+      "content": "... Dia menghancurkan setiap Peccatulum dan akar di sekitarnya dengan satu ayunan...!"
+    },
+    {
+      "id": 56,
+      "model": "로쟈",
+      "content": "Dan ngerusak langit-langitnya juga sampe hancur total..."
+    },
+    {
+      "id": 57,
+      "place": "Tim Riset LCE Unit Keamanan",
+      "model": "중지아비",
+      "content": "Yo~! Papa pulang~"
+    },
+    {
+      "id": 58,
+      "model": "중지아비",
+      "content": "Mau duduk manis di situ seharian, princessku?"
+    },
+    {
+      "id": 59,
+      "place": "Lorong Tim Riset LCE",
+      "model": "LCD앵두",
+      "content": "... Membelah Gossypium bahkan sebelum ada bunganya yang sempat mendarat..."
+    },
+    {
+      "id": 60,
+      "model": "중지아비",
+      "content": "Kenapa harus pakai otak kalau punya otot?"
+    },
+    {
+      "id": 61,
+      "model": "중지아비",
+      "content": "Makasih ya udah biarin anakku main sama kalian. Ini petak umpet, kan? Keberatan nggak kalau aku yang gantiin dia bentar?"
+    },
+    {
+      "id": 62,
+      "model": "모제스1",
+      "content": "*haah...*"
+    },
+    {
+      "id": 63,
+      "model": "모제스1",
+      "content": "Sepertinya... kita berhasil mengulur waktu."
+    },
+    {
+      "id": 64,
+      "model": "에즈라",
+      "content": "Nngh... Ini dia! Kita terpaksa harus ngelawan orang ini!"
+    },
+    {
+      "id": 65,
+      "model": "에즈라",
+      "content": "Tim bus, kalian siap?"
+    },
+    {
+      "id": 66,
+      "model": "이스마엘",
+      "content": "Ten—"
+    },
+    {
+      "id": 67,
+      "model": "로쟈",
+      "content": "Huh...? Ishy—"
+    },
+    {
+      "id": 68,
+      "model": "오티스",
+      "content": "Mereka berdua jatuh pingsan. Apa—"
+    },
+    {
+      "id": 69,
+      "model": "오티스",
+      "content": "……."
+    },
+    {
+      "id": 70,
+      "model": "에즈라",
+      "content": "Hah...?"
+    },
+    {
+      "id": 71,
+      "model": "에즈라",
+      "content": "Haaaaah?"
+    },
+    {
+      "id": 72,
+      "model": "에즈라",
+      "content": "Hei... hei! Ada apa? Semuanya?"
+    },
+    {
+      "id": 73,
+      "model": "모제스1",
+      "content": "……."
+    },
+    {
+      "id": 74,
+      "model": "에즈라",
+      "content": "Dasar brengsek, apa yang kamu lakuin ke mereka? Kenapa mereka semua tiba-tiba—"
+    },
+    {
+      "id": 75,
+      "model": "중지아비",
+      "content": "Apa? Aku bahkan belum angkat jari. Baiklah, kamu bakal ditulis di buku karena coba menyalahkanku buat masalah ini."
+    },
+    {
+      "id": 76,
+      "model": "LCD앵두",
+      "content": "... Ini tidak ada hubungannya dengan pria itu, ataupun dengan <ruby=Distorsi>Distortion</ruby>..."
+    },
+    {
+      "id": 77,
+      "model": "에즈라",
+      "content": "Terus, apa lagi yang bisa kita— Apa— Aku bener-bener bisa gila di sini! Bangun! Ayo!"
+    },
+    {
+      "id": 78,
+      "model": "모제스1",
+      "content": "Ezra, mengguncang mereka sepertinya bukan solusi untuk mengembalikan kesadaran mereka."
+    },
+    {
+      "id": 79,
+      "model": "에즈라",
+      "content": "... Oke. Kalau gitu aku bakal coba tarik perhatian bajingan itu, sementara—"
+    },
+    {
+      "id": 80,
+      "model": "모제스1",
+      "content": "Tenanglah. Aku rasa kita bisa... aku rasa kita semua bisa selamat dari ini."
+    },
+    {
+      "id": 81,
+      "model": "모제스1",
+      "content": "*haah...*"
+    },
+    {
+      "id": 82,
+      "place": "Lorong Tim Riset LCE",
+      "model": "모제스1",
+      "content": "Metode standar untuk mengalahkan <ruby=Abnormalitas>Abnormality</ruby> ini... adalah dengan mengikis mutiaranya secara bertahap. Namun jika seseorang menghancurkan \"mutiara\" itu, dan hanya mutiaranya saja, dalam satu serangan..."
+    },
+    {
+      "id": 83,
+      "model": "모제스1",
+      "content": "Aeng-du. Bagaimana keadaan lenganmu?"
+    },
+    {
+      "id": 84,
+      "model": "LCD앵두",
+      "content": "Aku tidak akan berhenti sampai lengan ini benar-benar terkoyak dari tubuhku."
+    },
+    {
+      "id": 85,
+      "model": "모제스1",
+      "content": "Ezra. Ingat ruangan yang penuh sesak dengan Peccatula itu?"
+    },
+    {
+      "id": 86,
+      "model": "에즈라",
+      "content": "Yap!"
+    },
+    {
+      "id": 87,
+      "model": "모제스1",
+      "content": "Baiklah. Kalau begitu..."
+    },
+    {
+      "id": 88,
+      "content": "……."
+    },
+    {
+      "id": 89,
+      "model": "중지아비",
+      "content": "Phew! Seru banget kan tadi? Kelihatannya putri kecilku udah belajar banyak juga."
+    },
+    {
+      "id": 90,
+      "model": "중지아비",
+      "content": "Senang melihat kalian para kutu buku nggak cuma asal bicara. Trik pertama yang kalian pakai ke aku tadi bener-bener terasa gigitannya—mayat-mayat tersengat itu, yah... mengejutkan."
+    },
+    {
+      "id": 91,
+      "model": "중지아비",
+      "content": "Masih punya mainan lain buat dilempar ke aku, atau stoknya udah habis?"
+    },
+    {
+      "id": 92,
+      "model": "모제스1",
+      "content": "Akan segera menutup toko, tapi... biarkan saya memberikan sesuatu yang ekstra secara gratis."
+    },
+    {
+      "id": 93,
+      "model": "중지아비",
+      "content": "Oh?"
+    },
+    {
+      "id": 94,
+      "model": "모제스1",
+      "content": "Kami akan kembali dengan stoknya, jadi... nikmatilah ini untuk sementara waktu."
+    },
+    {
+      "id": 95,
+      "model": "모제스1",
+      "content": "Ezra, buka itu!"
+    },
+    {
+      "id": 96,
+      "model": "에즈라",
+      "content": "Paham...!"
+    },
+    {
+      "id": 97
+    },
+    {
+      "id": 98,
+      "place": "Lorong Tim Riset LCE",
+      "model": "에즈라",
+      "content": "Bener-bener monster... Udah berapa banyak augmentasi yang dia punya? Ini berlebihan, apalagi buat Middle..."
+    },
+    {
+      "id": 99,
+      "model": "모제스1",
+      "content": "<ruby=Abnormalitas>Abnormality</ruby> itu menutupinya dengan racun korosif yang melumpuhkan... dan menumpahkan seember penuh larva yang merayap untuk memakan kulitnya..."
+    },
+    {
+      "id": 100,
+      "model": "모제스1",
+      "content": "... namun, tak satu pun dari mereka berhasil melukainya."
+    },
+    {
+      "id": 101,
+      "model": "중지아비2",
+      "content": "Racun? Apa itu beneran cuma buat pemanis aja? Kalian payah banget milih mainan."
+    },
+    {
+      "id": 102,
+      "model": "모제스1",
+      "content": "*haah...*"
+    },
+    {
+      "id": 103,
+      "model": "모제스1",
+      "content": "Benar-benar bocah yang merepotkan. Apa anda semerepotkan ini juga dengan mainan anda sewaktu kecil?"
+    },
+    {
+      "id": 104,
+      "model": "중지아비2",
+      "content": "Maaf ya, aku gampang bosen sama sesuatu."
+    },
+    {
+      "id": 105,
+      "model": "중지아비2",
+      "content": "Dan kalau aku udah bosen sama sesuatu, aku bakal hancurin. Dan sekarang karena aku bosen sama semuanya... aku nggak punya alasan buat ragu."
+    },
+    {
+      "id": 106,
+      "model": "모제스1",
+      "content": "……."
+    },
+    {
+      "id": 107,
+      "model": "모제스1",
+      "content": "Bagaimana dengan... Model Kit Iron Host Mk4?"
+    },
+    {
+      "id": 108,
+      "model": "LCD앵두",
+      "content": "... Nona Ketua Tim? Sekarang bukan waktunya untuk membicarakan hal yang tidak relevan..."
+    },
+    {
+      "id": 109,
+      "model": "에즈라",
+      "content": "Ssh, biarin keajaibannya terjadi...!"
+    },
+    {
+      "id": 110,
+      "model": "중지아비2",
+      "content": "... Gimana kamu bisa tahu seri legendaris itu?"
+    },
+    {
+      "id": 111,
+      "model": "모제스1",
+      "content": "Seri Mk4 adalah produk terakhir yang pernah dirilis sebelum pabrik mainan itu tutup. Tentu saja, stoknya sangat terbatas."
+    },
+    {
+      "id": 112,
+      "model": "모제스1",
+      "content": "Dan satu-satunya orang yang memahami signifikansi sebenarnya dari hal itu adalah... tragisnya, tidak lain hanyalah seorang anak laki-laki tertentu."
+    },
+    {
+      "id": 113,
+      "model": "중지아비2",
+      "content": "……."
+    },
+    {
+      "id": 114,
+      "model": "모제스1",
+      "content": "Tidak ada, <i>tidak ada satu pun</i> yang peduli betapa berartinya hal ini bagi anda, bukan? Dunia tidak akan pernah melihat mainan seperti itu lagi—itu adalah rilis tunggal, jauh berbeda dari apa yang sudah anda miliki di rumah, namun..."
+    },
+    {
+      "id": 115,
+      "model": "LCD앵두",
+      "content": "... Dia menunjukkan ekspresi yang aneh. Mungkin ingatan tertentu sedang menguasainya."
+    },
+    {
+      "id": 116,
+      "model": "에즈라",
+      "content": "Detektif berhasil melihat isi hatinya... dan menemukan <ruby=Distorsi>Distortion</ruby> yang bersembunyi di dalam sana."
+    },
+    {
+      "id": 117,
+      "model": "모제스1",
+      "content": "... Ezra, sekarang!"
+    },
+    {
+      "id": 118,
+      "model": "에즈라",
+      "content": "Oke! Satu ronde lagi pakai sarung tangan bertenaga ini, kan?"
+    },
+    {
+      "id": 119,
+      "model": "모제스1",
+      "content": "Serang dia, serangan frontal! Aku akan merantainya dengan pipaku!"
+    },
+    {
+      "id": 120,
+      "model": "모제스1",
+      "content": "*haah...*"
+    },
+    {
+      "id": 121,
+      "model": "중지아비2",
+      "content": "Apa-apaan... Benda ungu apaan nih?"
+    },
+    {
+      "id": 122,
+      "model": "중지아비2",
+      "content": "Kamu ngelakuin semua permainan otak itu cuma buat masangin aku... borgol mainan ini?"
+    },
+    {
+      "id": 123,
+      "model": "모제스1",
+      "content": "Bukan sesuatu yang mewah—saya hanya memverbalisasikan apa yang saya lihat di dalam diri anda... dengan cara yang meyakinkan."
+    },
+    {
+      "id": 124,
+      "model": "중지아비2",
+      "content": "Hah!"
+    },
+    {
+      "id": 125,
+      "model": "중지아비2",
+      "content": "Tsk... coba buat lepas malah makin kenceng ya?"
+    },
+    {
+      "id": 126,
+      "model": "에즈라",
+      "content": "Kita harus manfaatin kesempatan ini sebanyak mungkin... Aeng-du!"
+    },
+    {
+      "id": 127,
+      "model": "LCD앵두",
+      "content": "Pedang Tanah Air... <ruby=Akupuntur Menukik Valorbound>Valorbound Acupuncture Dive (勇躍一刺)."
+    },
+    {
+      "id": 128,
+      "model": "LCD앵두",
+      "content": "Jika bilah ini begitu cepat hingga melampaui segala upaya untuk mengarahkan jalurnya..."
+    },
+    {
+      "id": 129,
+      "model": "LCD앵두",
+      "content": "... maka lintasan yang tidak membungkuk seperti anak panah yang dilepaskan akan menyerang dengan tepat—!"
+    },
+    {
+      "id": 130,
+      "model": "중지아비2",
+      "content": "……."
+    },
+    {
+      "id": 131,
+      "model": "에즈라",
+      "content": "Graah...!"
+    },
+    {
+      "id": 132,
+      "model": "LCD앵두팔다침",
+      "content": "Nona Ezra!"
+    },
+    {
+      "id": 133,
+      "model": "중지아비2",
+      "content": "Sarung tangannya buat pengalih... sementara pedang cepatnya ngincer kepalaku. Itu permainan kalian?"
+    },
+    {
+      "id": 134,
+      "model": "LCD앵두팔다침",
+      "content": "... Bagaimana... dia bisa melepaskan dirinya...?"
+    },
+    {
+      "id": 135,
+      "model": "모제스4",
+      "content": "Ngh... Kaki orang itu..."
+    },
+    {
+      "id": 136,
+      "model": "중지아비2",
+      "content": "Nggak nyangka bakal ngelihat Batu Moonlight, ya?"
+    },
+    {
+      "id": 137,
+      "model": "중지아비2",
+      "content": "Aku cuma perlu bebasin satu kaki ini. Sayangnya tanganku nggak bebas buat buka bukunya, tapi..."
+    },
+    {
+      "id": 138,
+      "model": "모제스4",
+      "content": "Agh... sialan..."
+    },
+    {
+      "id": 139,
+      "model": "중지아비2",
+      "content": "Tapi maksa aku buat ngerasain hari itu lagi adalah kejahatan yang... bahkan nggak perlu ditulis di buku."
+    },
+    {
+      "id": 140,
+      "model": "중지아비2",
+      "content": "Kematianmu nggak bakal indah, nona!"
+    },
+    {
+      "id": 141,
+      "model": "모제스4",
+      "content": "Bahkan ungu pekat pun nggak berhasil... Sial, Moonlight itu...!"
+    },
+    {
+      "id": 142,
+      "model": "중지아비2",
+      "content": "Apa trik itu... tadinya dimaksudkan buat ngerusak kepalaku juga?"
+    },
+    {
+      "id": 143,
+      "model": "중지아비2",
+      "content": "Mengesankan, serius. Kamu bikin salah satu Batu Moonlight terbaik yang ditawarkan M Corp.... jadi buram total."
+    },
+    {
+      "id": 144,
+      "model": "LCD앵두팔다침",
+      "content": "Agh... *uhuk*"
+    },
+    {
+      "id": 145,
+      "model": "LCD앵두팔다침",
+      "content": "... Bilahnya patah... Aku bahkan gagal menggoresnya sedikit pun."
+    },
+    {
+      "id": 146,
+      "model": "중지아비2",
+      "content": "Kalau kamu sih... Kamu menerjangku meski tahu kalau kedua lenganmu bakal robek di kecepatan itu?"
+    },
+    {
+      "id": 147,
+      "model": "LCD앵두팔다침",
+      "content": "Karena begitulah... seorang Salsu harus melakukannya..."
+    },
+    {
+      "id": 148,
+      "model": "중지아비2",
+      "content": "... Asal tahu aja, meski aku gampang bosen, aku sering bener-bener terpikat sama rilisan baru yang keren."
+    },
+    {
+      "id": 149,
+      "model": "중지아비2",
+      "content": "Jadi, kurasa kalian layak dapet pujian."
+    },
+    {
+      "id": 150,
+      "model": "중지아비2",
+      "content": "Kalian bener-bener... gambaran dari keberanian. Lihat gimana lenganmu yang robek masih mencengkeram gagang pedang itu!"
+    },
+    {
+      "id": 151,
+      "model": "중지아비2",
+      "content": "Wah, kalian beneran bikin aku lumayan capek... aku ngefans banget sama pertarungan penuh trik kayak begini."
+    },
+    {
+      "id": 152,
+      "model": "모제스4",
+      "content": "Dan berkat itu, kami berhasil mengulur cukup waktu..."
+    },
+    {
+      "id": 153,
+      "model": "중지아비2",
+      "content": "Hah, gitu ya? Aku bisa denger ada sesuatu yang dateng ke sini. Punya monster lagi buat aku, eh...?"
+    },
+    {
+      "id": 154,
+      "model": "LCD앵두팔다침",
+      "content": "Apa... apa masih ada... <ruby=Abnormalitas>Abnormality</ruby> atau <ruby=Distorsi>Distortion</ruby>... *uhuk* yang tersisa?"
+    },
+    {
+      "id": 155,
+      "model": "에즈라",
+      "content": "... Heh. Kita punya sesuatu yang lebih buruk."
+    },
+    {
+      "id": 156,
+      "model": "중지아비2",
+      "content": "…!"
+    },
+    {
+      "id": 157
+    },
+    {
+      "id": 158
+    },
+    {
+      "id": 159,
+      "model": "베스파",
+      "content": "Mohon maaf atas keterlambatannya, Ketua Tim."
+    },
+    {
+      "id": 160,
+      "model": "베스파",
+      "content": "Mereka sengaja mengulur waktu untuk urusan dokumennya."
+    },
+    {
+      "id": 161,
+      "model": "모제스4",
+      "content": "……."
+    },
+    {
+      "id": 162,
+      "model": "모제스4",
+      "content": "Tentu saja. Sudah biasa bagi  <ruby=Asosiasi>Association</ruby> Hana, apalagi untuk hal seperti ini."
+    },
+    {
+      "id": 163,
+      "model": "모제스4",
+      "content": "Saya asumsikan anda lulus evaluasi?"
+    },
+    {
+      "id": 164,
+      "model": "베스파",
+      "content": "Sudah. Dan ditetapkan sebagai Color."
+    },
+    {
+      "id": 165,
+      "model": "에즈라",
+      "content": "Lebah kecil! ... Jangan—*uhuk*—bilang.... Kamu tadi sengaja diem di balik tembok biar bisa masuk dengan dramatis, ya?"
+    },
+    {
+      "id": 166,
+      "model": "베스파",
+      "content": "*haah...* Mengapa saya harus melakukan itu? Saya langsung menuju ke sini secepat mungkin, menembus setiap dinding di antara saya dan posisi anda."
+    },
+    {
+      "id": 167,
+      "model": "중지아비2",
+      "content": "... Belum ada yang pernah ngalahin kekuatanku, bahkan pas aku masih aktif di bisnis ini."
+    },
+    {
+      "id": 168,
+      "model": "중지아비2",
+      "content": "Ini seru. Siapa namamu, kawan? Kayaknya aku belum pernah denger orang kayak kamu pas masa kejayaanku dulu."
+    },
+    {
+      "id": 169,
+      "model": "베스파",
+      "content": "Bukankah kau sampah Finger yang berisik? Yang busuk pula..."
+    },
+    {
+      "id": 170,
+      "model": "중지아비2",
+      "content": "Hngh...!"
+    },
+    {
+      "id": 171,
+      "model": "베스파",
+      "content": "Aku tidak akan memberimu kehormatan untuk mengetahui namaku, sampah Middle."
+    },
+    {
+      "id": 172,
+      "model": "에즈라",
+      "content": "Hei, Junior~ *uhuk* Apa... apa nama yang sangat aku rekomendasiin itu disetujuin...?"
+    },
+    {
+      "id": 173,
+      "model": "베스파",
+      "content": "... Sudah. Ada... pilihan lain, tapi... *haah...* Ya, itu namanya."
+    },
+    {
+      "id": 174,
+      "model": "에즈라",
+      "content": "Heh heh... Keren~ Kalau gitu—*uhuk*—om monster, siap-siap masuk catatan sebagai korban pertama <i><ruby=Sang Kuning Harpun>The Yellow Harpoon</ruby></i>!"
+    },
+    {
+      "id": 175,
+      "model": "에즈라",
+      "content": "Aku yakin kamu bisa tahu dari namanya, tapi akulah yang dapet ide nama itu!"
+    }
+  ]
+}

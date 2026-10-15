@@ -1,0 +1,39 @@
+{
+  "dataList": [
+    {
+      "id": "KeptBlood",
+      "name": "Stored Blood",
+      "desc": "- Maks Value: 10\n- Kehilangan 1 value setiap kali unit ini kehilangan 5% HP.\n- Saat Serang, pulihkan 1% dari HP unit ini",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodyCrave",
+      "name": "Bloodtinged Craving",
+      "desc": "- Peroleh 1 Clash Power Up dan 1 Damage Up\n- Saat Serang, peroleh 1 Stored Blood\n- Jika unit ini did not peroleh Stored Blood giliran ini, peroleh 2 Fragile, 1 Haste, dan 4 Level Offense Up giliran berikutnya saja dari efek di atas",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodPocket_LowMorale",
+      "name": "Bloodthirst",
+      "desc": "Awal Giliran: Peroleh 1 Fragile dan Damage Up",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodPocket_Panic",
+      "name": "Bloodthirst",
+      "desc": "Awal Giliran: Peroleh 2 Fragile dan Damage Up",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HardenedBlood",
+      "name": "Coagulated Blood",
+      "desc": "Peroleh Level Offense dan Defense Level setara dengan nilainya (maks 5)",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

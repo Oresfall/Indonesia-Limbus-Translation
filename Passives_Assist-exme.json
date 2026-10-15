@@ -1,0 +1,65 @@
+{
+  "dataList": [
+    {
+      "id": 40003801,
+      "name": "Limbus Company Specialized Custom Prosthetic Prototype mk5 - Tangan Dokkaebi",
+      "desc": "Awal Pertarungan: Peroleh [AengduNewArm]\n\nJika terdapat kawan dengan kurang dari 50% HP di medan tempur mengecualikan unit ini, peroleh 1 [SupportProtect] (sekali per giliran)",
+      "summary": "Peroleh [SupportProtect]",
+      "flavor": "\"Kalau dilihat dari luar, ini ga ada bedanya dengan prostetik yang biasa kau lihat di Nest atau Backstreet lain... Tapi rupanya, lengan prostetik khusus ini dibuat pakai teknologi yang cuma ada di Limbus Company. Aku jadi penasaran... teknologi macam apa itu...\"\n\n\"Karena pengembangan prototipe ini dipimpin sama Departemen LCD, tebakanku ini pasti ada hubungannya dengan kekuatan Distorsi... Ah, bukan berarti aku tahu pasti soal hal itu—soalnya aku cuma ditugaskan buat mengantarkannya saja. Ini cuma spekulasi semata, sungguh. Lagipula, aku ragu kalau ini cuma sekadar lengan prostetik biasa yang dipakai untuk memperkuat tubuh.\""
+    },
+    {
+      "id": 40003802,
+      "name": "Demonfire Spinecleaver",
+      "desc": "Akhir Skill: Peroleh 1 [WindBlade] untuk setiap 3 [Breath] (maks 5, 2 kali per giliran)\n\nPada Base Attack Akhir Skill: Pada 15+ [WindBlade], aktifkan \"Setarakan Keseimbangan - Kilauan Kobaran Api\" pada musuh (sekali per giliran)\n\nPada Kalah Clash Skill Defense, jika unit ini memiliki 3+ [Agility], unit ini tidak dapat Stagger dari menerima damage hingga akhir Skill Defense, dan aktifkan \"Untuk Ambil Tulang Mereka\" terhadap musuh yang menyerang (2 kali per giliran, mengecualikan Stagger terpaksa)",
+      "summary": "Aktifkan Skill tambahan ketika kondisi terpenuhi"
+    },
+    {
+      "id": 40003803,
+      "name": "Swiftblade",
+      "desc": "Saat Crit, peroleh 1 [Agility] giliran berikutnya (3 kali per Skill, 2 kali per giliran)",
+      "summary": "Peroleh [Agility]"
+    },
+    {
+      "id": 40003804,
+      "name": "Ke Tempat Aku Harus Kembali",
+      "desc": "Ketika 3 atau lebih kawan Blade Lineage telah dikalahkan:\n- Ketika memperoleh Potency [Breath]/Count menggunakan Skill unit ini dan efek Coin: Peroleh 1 lebih dari masing-masing\n- Ketika 5 atau lebih kawan Blade Lineage telah dikalahkan, peroleh 2 lebih dari masing-masing saja\n- Awal Pertarungan: Beri [SwordPlayOfTheHomeland] pada diri sendiri",
+      "summary": ""
+    },
+    {
+      "id": 40004001,
+      "name": "Buronan",
+      "desc": "Saat memasuki Pertarungan pertama kalinya, peroleh [BrandedKimSatgat]"
+    },
+    {
+      "id": 40004002,
+      "name": "Tanggung Jawab Seorang Salsu",
+      "desc": "Pada 1 Count [Breath], kehilangan 10 HP daripada kehilangan Count [Breath] (efek ini tidak dapat Stagger unit ini dan tidak menurunkan HP unit ini di bawah 1)\n\nBeri +(Persentase HP yang hilang pada diri sendiri / 2) damage pada Serangan Critical dengan Base Skill (maks 50%)"
+    },
+    {
+      "id": 40004003,
+      "name": "Seni Pedang Tanah Air",
+      "desc": "Awal Pertarungan: Jika Reson. Pride diaktifkan,\n- Peroleh (Reson. Pride x 2) [Breath] (maks 8)\n- Beri 1 [SlashResultUp] dan 1 [CriticalDamageUp] pada semua Sinner dan Assist Unit mengecualikan unit ini (untuk target Blade Lineage, gandakan efek ini)\n\nAkhir Giliran: Peroleh ([Breath] pada diri sendiri / 4) [Agility] giliran berikutnya (maks 6, dibulatkan ke bawah)"
+    },
+    {
+      "id": 40004004,
+      "name": "Mentor Blade Lineage",
+      "desc": "Ketika memperoleh Potency [Breath]/Count menggunakan Skill unit ini dan efek Coin: Beri 1 Potency [Breath] dan 1 Count [Breath] on the Sinner dan 2 Assist Unit that do not have [Breath] atau have the lowest Potency [Breath] (mengecualikan unit ini)\n- Untuk Blade Lineage kawan, beri 3 Potency [Breath] dan +2 Count [Breath] saja\n\nKetika a Blade Lineage Sinner atau Assist Unit dikalahkan, unit ini loses 10 SP"
+    },
+    {
+      "id": 40004005,
+      "name": "Ambil Dagingku Untuk Ambil Tulang Mereka",
+      "desc": "Di Pertarungan ini, ketika unit ini menerima damage yang membawa HP-nya turun ke 0, tiadakan damage itu; lalu, HP unit ini tidak dapat turun di bawah 1 untuk giliran tersebut (sekali per Pertarungan)\n\nAkhir Giliran: Pada 30+ Potency [Breath], tetapkan Speed unit ini ke 20 giliran berikutnya dan gunakan \"Ambil Dagingku\" pada Skill Slot paling kiri\n- Jika \"Ambil Dagingku\" tidak tersedia karena efek Skill, efek ini tidak diaktifkan"
+    },
+    {
+      "id": 40004006,
+      "name": "Nasib Kalah",
+      "desc": "Kalah dari Pertarungan jika unit ini terbunuh",
+      "flavor": "Seseorang mungkin hilang dan tersesat ke jalan yang salah, namun deviasi dari alur waktu dan takdir tidak diperbolehkan oleh \"dia.\""
+    },
+    {
+      "id": 40003901,
+      "name": "Tas Dimensional [Ezra]",
+      "desc": "Awal Pertarungan: Peroleh 1 [DimensionalBagEzraA]\n\nJika unit ini menggunakan senjata Workshop terkini lebih dari sekali, ganti senjata pada giliran berikutnya\n\nDaftar senjata:\n- Sarung Tangan Allas Workshop\n- Palu Nester Workshop\n- Bor Palu Screw Atelier\n- Sarung Tangan Namir Workshop\n- Kapak YuRia Atelier"
+    }
+  ]
+}

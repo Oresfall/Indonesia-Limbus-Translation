@@ -1,0 +1,130 @@
+{
+  "dataList": [
+    {
+      "id": "BloodyHand",
+      "name": "Bloodied Hand",
+      "desc": "- Maks Value: 10\n- NIlai Dasar: 0\n- Pada 10 Stack: beri +1 tambahan Rupture Saat Menyerang dengan Skill unit ini",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloomingThorns",
+      "name": "Blooming Thorn",
+      "desc": "- Maks Value: 10\n- Ketika menerima damage dari Skill, beri Bleed setara dengan half dari Stack efek ini terhadap the Penyerang (rounded up)",
+      "summary": "Beri Bleed setara dengan Stack terhadap the Penyerang",
+      "undefined": "-"
+    },
+    {
+      "id": "BloomingThorns_2nd",
+      "name": "Bloodwoven Thorn",
+      "desc": "- Any efek yang memperoleh Blooming Thorn peroleh efek ini saja\n- Maks Value: 10\n- Awal Giliran: peroleh 1 Level Offense Up per 3 Stack (maks 3)\n- Ketika menerima damage dari Skill, beri Bleed setara dengan Stack efek ini terhadap the Penyerang, lalu kehilangan 1 Stack (rounded up)\n- Saat Menyerang, beri +1 lebih Bleed dan Bleed Count dengan efek Skill unit ini\n- Ketika applying Level Offense Up atau Defense Level Up ke kawan lain dengan efek Coin Skill, beri 1 Clash Power Up giliran berikutnya juga\n- Semua Skill yang konsumsi Bloodfeast peroleh Coin Power +1",
+      "summary": "Beri Bleed on the Penyerang setara dengan Stack\nInflict +1 lebih Potency Bleed & Count\nBeri 1 Clash Power Up ke kawan\nJika Skill konsumsi Bloodfeast, Coin Power +1",
+      "undefined": "-"
+    },
+    {
+      "id": "BloomingThorns_3rd",
+      "name": "Bloodmolded Thorn",
+      "desc": "- Any efek yang memperoleh Blooming Thorn peroleh efek ini saja\n- Maks Value: 10\n- Awal Giliran: peroleh 1 Level Offense Up per 2 Stack (maks 5)\n- Ketika menerima damage dari Skill, beri Bleed setara dengan Stack efek ini terhadap the Penyerang, lalu kehilangan 1 Stack (rounded up)\n- Saat Menyerang, beri +2 lebih Bleed dan Bleed Count dengan efek Skill unit ini\n- Ketika applying Level Offense Up atau Defense Level Up ke kawan lain dengan efek Coin Skill, beri 2 Clash Power Up giliran berikutnya juga\n- Semua Skill yang konsumsi Bloodfeast peroleh Coin Power +2 dan beri +50% damage\n- Ketika memakai 'The Parade Repeats for Eternity' Skill, daripada pemulihan HP, pulihkan the same value as SP",
+      "summary": "Beri Bleed on the Penyerang setara dengan Stack\nInflict +2 lebih Potency Bleed & Count\nBeri 2 Clash Power Up ke kawan\nJika Skill konsumsi Bloodfeast, Coin Power +2 dan beri +50% damage",
+      "undefined": "-"
+    },
+    {
+      "id": "FestivalFever",
+      "name": "Festive Fever",
+      "desc": "- Maks Value: 10\n- Awal Giliran: peroleh 1 Level Offense Up per 3 Stack (maks 3)\n- Used for special skills",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IncompleteParade",
+      "name": "Imperfect Parade",
+      "desc": "- Maks Value: 50\n- Peroleh 2 ketika a Bloodbag mati\n- Peroleh 3 ketika a Bloodfiend mati\n- Awal Giliran: peroleh 1 Fragile setiap kali unit ini konsumsi 5 cumulative Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FamineBloodDolci_LowMorale",
+      "name": "Bridle of Nihility",
+      "desc": "- Moral Rendah\n- Awal Giliran: peroleh 1 Attack Power Up dan 3 Defense Level Down\n- Akhir Giliran: terima 5 SP damage",
+      "summary": "Peroleh 1 Attack Power Up & 3 Defense Level Down",
+      "undefined": "-"
+    },
+    {
+      "id": "FamineBloodDolci_Panic",
+      "name": "Bridle of Nihility",
+      "desc": "- Panik\n- Awal Giliran: peroleh 2 Attack Power Up dan 6 Defense Level Down\n- Akhir Giliran: pulihkan 10 SP",
+      "summary": "Peroleh 2 Attack Power Up & 6 Defense Level Down",
+      "undefined": "-"
+    },
+    {
+      "id": "StarvingDolcineaOne",
+      "name": "Withered",
+      "desc": "- Starved for blood for a long, long time.\n- Kehilangan 35 Base Level Offense\n- Kehilangan 35 Base Defense Level",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StarvingDolcineaServant",
+      "name": "Withered",
+      "desc": "- Starved for blood for a long, long time.\n- Kehilangan 15 Base Level Offense\n- Kehilangan 15 Base Defense Level",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ThornyFall_LowMorale",
+      "name": "Thorns",
+      "desc": "Menang Clash: peroleh 1 Damage Up",
+      "summary": "Menang Clash: peroleh 1 Damage Up",
+      "undefined": "-"
+    },
+    {
+      "id": "ThornyFall_Panic",
+      "name": "Thorns",
+      "desc": "Menang Clash: peroleh 1 Damage Up\nAkhir Giliran: peroleh 2 Clash Power Up giliran berikutnya",
+      "summary": "Menang Clash: peroleh 1 Damage Up",
+      "undefined": "-"
+    },
+    {
+      "id": "HonorableDuel_Don",
+      "name": "Honorable Duel",
+      "desc": "A Reminisced Tale of Adventures\nBecome immensely powerful",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HonorableDuel_Knight",
+      "name": "Honorable Duel",
+      "desc": "Reminisced Tales of Adventure",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StarvingPriestOne",
+      "name": "Withered",
+      "desc": "- Starved for blood for a long, long time.\n- Kehilangan 15 Base Level Offense\n- Kehilangan 15 Base Defense Level",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FamineBloodPriestServant_LowMorale",
+      "name": "Lapar",
+      "desc": "- Moral Rendah\n- Awal Giliran: peroleh 1 Clash Power Up dan 3 Defense Level Down\n- Akhir Giliran: terima 5 SP damage",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FamineBloodPriestServant_Panic",
+      "name": "Lapar",
+      "desc": "- Panik\n- Awal Giliran: peroleh 2 Clash Power Up dan 6 Defense Level Down\n- Akhir Giliran: pulihkan 10 SP",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnstoppableFunny",
+      "name": "Unstoppable Bliss",
+      "desc": "On Death:\n- Peroleh 1 E.G.O resource for 3 least-owned E.G.O resource\n- Beri +3 Bleed Count terhadap musuh (prioritaskan unit that killed unit ini)\n- Semua kawan at 5+ Festive Fever peroleh 1 Haste giliran berikutnya\n- Semua kawan tanpa Festive Fever peroleh 1 Clash Power Up",
+      "summary": "Peroleh 1 of setiap 3 E.G.O resource\nInflict +3 Bleed Count",
+      "undefined": "-"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "dataList": [
+    {
+      "id": 1038,
+      "panicName": "Malam di Backstreet",
+      "lowMoraleDescription": "Awal Giliran: peroleh 1 [Enhancement], 1 [TakeHpHealIncrease], dan 1 [Vulnerable]",
+      "panicDescription": "Awal Giliran: peroleh 2 [Enhancement], 2 [TakeHpHealIncrease], dan 1 [Vulnerable]"
+    },
+    {
+      "id": 1039,
+      "panicName": "Deception",
+      "lowMoraleDescription": "Jika Speed unit ini lebih cepat daripada target atau ketika menggunakan Serangan Tanpa Lawan, beri +10% damage terhadap target",
+      "panicDescription": "Jika Speed unit ini lebih cepat daripada target atau ketika menggunakan Serangan Tanpa Lawan, beri +20% damage terhadap target; jika Speed unit ini lebih cepat daripada target, terima -20% damage"
+    }
+  ]
+}

@@ -1,0 +1,1729 @@
+{
+  "dataList": [
+    {
+      "id": 808202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Deep Thrust",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 Bleed giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The Gripping",
+          "desc": "[StartBattle] Gazes menjadi target selama giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cackle",
+          "desc": "[WhenUse] Beri 10 SP damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 Attack Power Up giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sin-skewering Nail",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 N Corp’s Paku giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 N Corp’s Paku giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 N Corp’s Paku giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808206,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Purify",
+          "desc": "[WhenUse] Jika target’s HP di bawah 30%, Skill Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 N Corp’s Paku"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 N Corp’s Paku"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 N Corp’s Paku"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 5+ N Corp’s Paku, Stagger them dan hilangkan the Paku"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808208,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I Shall Claim Your Life!",
+          "desc": "[DefeatDuel] User menjadi Stagger",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Stagger target dan beri 10 Fragile giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808210,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "You Are Nothing",
+          "desc": "[OnSucceedEvade] Beri 5 SP damage",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Protoplast’s Wings",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Protoplast’s Wings",
+          "coinlist": [
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Innocent Flutters",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Bind giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Paralyze giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Bind giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Paralyze giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Bind giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Paralyze giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Bind giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Paralyze giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Broken Wings",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Bind giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Paralyze giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Bind giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Paralyze giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Broken Wings",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Bind giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Paralyze giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Bind giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Paralyze giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808306,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Enraged Flutters",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808307,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Noble Purification",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Fragile giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Bleed giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Fragile giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Bleed giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Fragile giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Bleed giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808308,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Honorable Grip",
+          "desc": "[WhenUse] Jika target’s HP di bawah 30%, +100% Damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Jika target’s HP di bawah 30%, kill them dan pulihkan 30 HP\nPeroleh 2 Attack Power Up giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808309,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Repent!!",
+          "desc": "[WhenUse] Jika target’s HP di bawah 30%, +100% Damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 Fragile giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 Bleed giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808310,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Peerless Flesh",
+          "coinlist": [
+            {
+              "coindescs": [
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Clap",
+          "keywords": [
+            "Reduction"
+          ],
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Attack Power Down giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Powerful Clap",
+          "keywords": [
+            "Reduction"
+          ],
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 3 Attack Power Down giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tail Whip",
+          "keywords": [
+            "Vulnerable"
+          ],
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Fragile giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 3 Fragile giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pressing Sac",
+          "keywords": [
+            "Binding"
+          ],
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Bind giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Blood Cannon",
+          "keywords": [
+            "Bleeding"
+          ],
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 Bleed"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 20 Bleed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808406,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Clotting",
+          "keywords": [
+            "Bleeding"
+          ],
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 30 Bleed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Claw",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Bleed giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Constant Voltage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Rupture giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Electromotive Pursuit",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Rupture giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 4 Rupture giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Howl",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Bind giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 4 Defense Power Down"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Electrified Howl",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 3 Rupture giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lightning Rod",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Rupture giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 5 Rupture giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808507,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Red Bolts",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 Rupture giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808508,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Howl",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Bind giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 4 Defense Power Down"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gigit",
+          "desc": "[WhenUse] Peroleh 2 Self-charge\n[DefeatDuel] Kehilangan 1 Self-charge",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Bleed dan +2 Bleed Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tusukan Ekor",
+          "desc": "[WhenUse] Peroleh 2 Self-charge\n[DefeatDuel] Kehilangan 1 Self-charge",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Bleed dan +2 Bleed Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Bind giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lilitan Kumparan",
+          "desc": "[WhenUse] Peroleh 2 Self-charge\n[DefeatDuel] Kehilangan 1 Self-charge",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Fragile"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 2 Bind giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Beban Listrik",
+          "desc": "[WhenUse] Peroleh 1 Self-charge\nBeri +10% damage ke target dengan Paralyze",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Paralyze"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Melepas Kelistrikan",
+          "desc": "[WhenUse] Peroleh 1 Self-charge\nBeri +10% damage ke target dengan Paralyze",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Paralyze"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Membuang Listrik",
+          "desc": "[WhenUse] Peroleh 1 Self-charge\nBeri +20% damage ke target dengan Paralyze",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Fragile"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 Paralyze"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808607,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Membuang Listrik Daya Tinggi",
+          "desc": "Pada 11+ Self-charge, beri +10% Damage untuk setiap Count of Self-charge over 10\nSpend semua Self-charge",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Fragile"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki Capacitor, beri 40% dari damage yang diberikan as damage tetap"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Paralyze dan 1 Capacitor"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808608,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Menggulung",
+          "desc": "Jika skill ini is on a slot, peroleh Perisai sebanyak bagian \"kepala\"'s current HP",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808609,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kepala Menggeliat",
+          "desc": "Target musuh dengan HP paling sedikit\n[WhenUse] Habiskan 2 Self-charge\n[DefeatDuel] Kehilangan 2 Self-charge",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Paralyze"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808610,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ekor Menggeliat",
+          "desc": "Target musuh dengan HP paling sedikit\n[WhenUse] Habiskan 2 Self-charge\n[DefeatDuel] Kehilangan 3 Self-charge",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Paralyze"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gloomy Moan",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Sinking"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Raging Withdrawal",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Sinking Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Sinking"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sorrowful Recoil",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Rupture Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Rupture"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sorrowful Torrent",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Rupture Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Rupture"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 2 Rupture"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cries Seeking Something",
+          "desc": "[WhenUse] Munculkan an Old Umbrella giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 Sinking"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri +15% damage untuk setiap Old Umbrella"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Waiting",
+          "desc": "[StartBattle] Semua musuh kehilangan 20 SP",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Scattering Sorrow",
+          "desc": "[EndSkill] Beri +2 Rupture Count dan +2 Sinking Count untuk semua musuh",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Entangling Talisman",
+          "desc": "[WhenUse] Beri 2 Jeratan Jimat Terkutuk",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Rupture dan +2 Rupture Count giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cumulating Curse",
+          "desc": "[WhenUse] Beri 1 Jeratan Jimat Terkutuk",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri Jeratan Jimat Terkutuk sebanyak target's Jeratan Jimat Terkutuk"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 5 Rupture giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 2 Rupture dan +2 Rupture Count giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "So That No One Will Cry",
+          "desc": "[EndBattle] Hapus semua Reattached Curse Talisman",
+          "coinlist": [
+            {},
+            {},
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 Paralyze giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 5 Bind giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Transferring Talisman",
+          "desc": "[WhenUse] Hapus semua Jeratan Jimat Terkutuk dari target; Peroleh the same jumlah dari Reattached Curse Talisman",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 808905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Proliferating Curse",
+          "desc": "[WhenUse] Beri Jeratan Jimat Terkutuk sebanyak target's Jeratan Jimat Terkutuk",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wanna Get Drunk?",
+          "desc": "In a clash, beri 1 Morale Boost",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 Tremor dan +2 Tremor Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Let's Share the Drink!",
+          "desc": "In a clash, beri 2 Morale Boost\n[WhenUse] Pulihkan 5% HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Bind giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "This is Semua I Got!",
+          "desc": "In a clash, beri 2 Morale Boost\nPrioritaskan musuh dengan Tremor",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan Tremor Burst sebanyak target's Tremor Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'll Have This!",
+          "desc": "[CantDuel]\nTidak dapat be redirected\nPrioritaskan musuh dengan Morale Boost\nJika target memiliki no Mabuk, Clash Power +5",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki Morale Boost, beri +10% damage untuk setiap Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki Mabuk, beri 0 damage, dan user kehilangan 50 HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hapus semua Morale Boost atau Mabuk"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'll Have This!",
+          "desc": "Prioritaskan musuh dengan Morale Boost\nJika target memiliki no Mabuk, Clash Power +5",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki Morale Boost, beri +100% damage untuk setiap Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki Mabuk, beri 0 damage, dan user kehilangan 50 HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hapus semua Morale Boost atau Mabuk"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Not This Time!",
+          "desc": "Prioritaskan Fairy Wine",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika this attacks Fairy Wine, pulihkan 10% HP giliran berikutnya, dan peroleh 2 Attack Power Up, 2 Haste, dan 2 Protection"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809007,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "You Like This Brew?",
+          "desc": "[WhenUse] Peroleh 1 Bind giliran berikutnya",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fairy Wine",
+          "desc": "[WhenUse] Ubah opponent's Morale Boost menjadi Mabuk",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Skim Wounds",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki Bleed, beri 1 Paralyze"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Bleed Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 2+ Bleed Count, beri 5 Bleed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Entangled Injury",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki Bleed, beri 1 Bind giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Bleed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Smeared Flesh",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Bleed"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki Bleed, pulihkan 20 HP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 2+ Bleed Count, beri 5 Bleed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Casting Shade",
+          "desc": "[WhenUse] Munculkan a Giant Clover giliran berikutnya\n[DefeatDuel] The Giant Clover spawns dengan 70% HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Hapus semua Bleed Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Churning",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan sebanyak 1% dari Maks HP per target's Bleed\nHilangkan semua Bleed Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sprout",
+          "desc": ""
+        }
+      ]
+    },
+    {
+      "id": 809402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Golden Fruit",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[DefeatDuel] Terima 20 damage"
+                },
+                {
+                  "desc": "[DefeatDuel] Kehilangan 1 Golden Sheen"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Solid Gold",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Serap Nutrisi",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] \"Inti\" memulihkan 3 HP"
+                }
+              ]
+            },
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Deteriorating Flesh",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Bleed Count giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Fragile giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Entangle",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] \"Inti\" memulihkan 10 HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 Bleed giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hantam",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Burn"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Burn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tekanan Bawah",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Burn Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Terobos Masuk",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Burn"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Naikkan Batas Stagger sebanyak 20% dari damage yang diberikan"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Burn"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Naikkan Batas Stagger sebanyak 20% dari damage yang diberikan"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Burn"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Naikkan Batas Stagger sebanyak 20% dari damage yang diberikan"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kesedihan Melimpah",
+          "desc": "[DefeatDuel] Peroleh 1 Unresolved Sorrow",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Target kehilangan 15 SP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Naikkan Batas Stagger sebanyak 50% dari damage yang diberikan"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Heated Cries",
+          "desc": "[WinDuel] Peroleh 1 Haste dan 1 Attack Power Up giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Wavering Emotions"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Sinking Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 809606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Heated Screams",
+          "desc": "[WinDuel] Peroleh 1 Haste dan 1 Attack Power Up giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Wavering Emotions"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Sinking"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Wavering Emotions"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Sinking"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

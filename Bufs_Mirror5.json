@@ -1,0 +1,359 @@
+{
+  "dataList": [
+    {
+      "id": "MD511",
+      "name": "Level Offense Up I",
+      "desc": "Level Offense +1"
+    },
+    {
+      "id": "MD512",
+      "name": "Defense Level Up",
+      "desc": "Defense Level +2"
+    },
+    {
+      "id": "MD513",
+      "name": "Resilient I",
+      "desc": "Defense Level +1, Maks HP +2.5%"
+    },
+    {
+      "id": "MD514",
+      "name": "Growth I",
+      "desc": "Maks HP +5%"
+    },
+    {
+      "id": "MD515",
+      "name": "Skill Defense Up",
+      "desc": "Skill Defense Final Power +1"
+    },
+    {
+      "id": "MD516",
+      "name": "Terima Less Damage",
+      "desc": "Damage Diterima -5%"
+    },
+    {
+      "id": "MD521",
+      "name": "Level Offense Up II",
+      "desc": "Level Offense +2"
+    },
+    {
+      "id": "MD522",
+      "name": "Body Up I",
+      "desc": "Level Offense +1, Defense Level +1, Maks HP +2.5%"
+    },
+    {
+      "id": "MD523",
+      "name": "Keen I",
+      "desc": "Level Offense +1, Maks HP +5%"
+    },
+    {
+      "id": "MD524",
+      "name": "Resilient II",
+      "desc": "Defense Level +1, Maks HP +7.5%"
+    },
+    {
+      "id": "MD525",
+      "name": "Resilient III",
+      "desc": "Defense Level +2, Maks HP +5%"
+    },
+    {
+      "id": "MD526",
+      "name": "Growth II",
+      "desc": "Maks HP +10%"
+    },
+    {
+      "id": "MD527",
+      "name": "Headstrong I",
+      "desc": "Damage Diterima -7.5%, Damage Diberikan +7.5%"
+    },
+    {
+      "id": "MD531",
+      "name": "Keen II",
+      "desc": "Level Offense +2, Maks HP +7.5%"
+    },
+    {
+      "id": "MD532",
+      "name": "Keen III",
+      "desc": "Level Offense +3, Maks HP +5%"
+    },
+    {
+      "id": "MD533",
+      "name": "Resilient IV",
+      "desc": "Defense Level +3, Maks HP +7.5%"
+    },
+    {
+      "id": "MD534",
+      "name": "Resilient V",
+      "desc": "Defense Level +4, Maks HP +5%"
+    },
+    {
+      "id": "MD535",
+      "name": "Growth III",
+      "desc": "Maks HP +15%"
+    },
+    {
+      "id": "MD536",
+      "name": "Clash Power Boost",
+      "desc": "Clash Power +1, Maks HP +7.5%"
+    },
+    {
+      "id": "MD537",
+      "name": "Final Power Boost",
+      "desc": "Final Power +1, Maks HP +5%"
+    },
+    {
+      "id": "MD538",
+      "name": "Base Power Boost",
+      "desc": "Base Power +1, Maks HP +2.5%"
+    },
+    {
+      "id": "MD541",
+      "name": "Keen IV",
+      "desc": "Level Offense +3, Maks HP +15%"
+    },
+    {
+      "id": "MD542",
+      "name": "Body Up II",
+      "desc": "Level Offense +2, Defense Level +3, Maks HP +10%"
+    },
+    {
+      "id": "MD543",
+      "name": "Body Up III",
+      "desc": "Level Offense +3, Defense Level +2, Maks HP +10%"
+    },
+    {
+      "id": "MD544",
+      "name": "Growth IV",
+      "desc": "Maks HP +30%"
+    },
+    {
+      "id": "MD545",
+      "name": "Clash Power Spurt",
+      "desc": "Clash Power +1, Maks HP +15%"
+    },
+    {
+      "id": "MD546",
+      "name": "Final Power Spurt",
+      "desc": "Final Power +1, Maks HP +12.5%"
+    },
+    {
+      "id": "MD547",
+      "name": "Base Power Spurt",
+      "desc": "Base Power +1, Maks HP +10%"
+    },
+    {
+      "id": "MD548",
+      "name": "Brutality",
+      "desc": "Plus Coin Power +1, Minus Coin Power -1"
+    },
+    {
+      "id": "MD549",
+      "name": "Headstrong II",
+      "desc": "Damage Diterima -25%, Damage Diberikan +25%"
+    },
+    {
+      "id": "MD5Base",
+      "name": "Mounting Trials",
+      "desc": ""
+    },
+    {
+      "id": "MD551",
+      "name": "Keen V",
+      "desc": "Level Offense +4, Maks HP +10%, Damage Diberikan +5%"
+    },
+    {
+      "id": "MD552",
+      "name": "Body Up IV",
+      "desc": "Level Offense +3, Defense Level +3, Maks HP +7.5%, Damage Diberikan +5%"
+    },
+    {
+      "id": "MD553",
+      "name": "Body Up V",
+      "desc": "Level Offense +4, Defense Level +2, Maks HP +5%, Damage Diberikan +5%"
+    },
+    {
+      "id": "MD554",
+      "name": "Growth V",
+      "desc": "Level Offense +1, Maks HP +25%, Damage Diberikan +5%"
+    },
+    {
+      "id": "MD555",
+      "name": "Clash Power Up II",
+      "desc": "Clash Power +1, Level Offense +1, Maks HP +10%, Damage Diberikan +5%"
+    },
+    {
+      "id": "MD556",
+      "name": "Final Power Up II",
+      "desc": "Final Power +1, Level Offense +1, Maks HP +7.5%, Damage Diberikan +5%"
+    },
+    {
+      "id": "MD557",
+      "name": "Base Power Up II",
+      "desc": "Base Power +1, Level Offense +1, Maks HP +5%, Damage Diberikan +5%"
+    },
+    {
+      "id": "MD558",
+      "name": "Brutality II",
+      "desc": "Plus Coin Power +1, Minus Coin Power -1, Damage Diberikan +5%"
+    },
+    {
+      "id": "MD561",
+      "name": "Keen VI",
+      "desc": "Level Offense +5, Maks HP +10%, Damage Diberikan +5%"
+    },
+    {
+      "id": "MD562",
+      "name": "Resilient VI",
+      "desc": "Level Offense +2, Defense Level +6, Maks HP +10%, Damage Diberikan +5%"
+    },
+    {
+      "id": "MD563",
+      "name": "Body Up VI",
+      "desc": "Level Offense +5, Defense Level +2, Maks HP +5%, Damage Diberikan +5%"
+    },
+    {
+      "id": "MD564",
+      "name": "Growth VI",
+      "desc": "Level Offense +2, Maks HP +25%, Damage Diberikan +5%"
+    },
+    {
+      "id": "MD565",
+      "name": "Clash Power Up III",
+      "desc": "Clash Power +1, Level Offense +2, Maks HP +10%, Damage Diberikan +5%"
+    },
+    {
+      "id": "MD566",
+      "name": "Final Power Up III",
+      "desc": "Final Power +1, Level Offense +2, Maks HP +7.5%, Damage Diberikan +5%"
+    },
+    {
+      "id": "MD567",
+      "name": "Base Power Up III",
+      "desc": "Base Power +1, Level Offense +2, Maks HP +5%, Damage Diberikan +5%"
+    },
+    {
+      "id": "MD568",
+      "name": "Brutality III",
+      "desc": "Plus Coin Power +1, Minus Coin Power -1, Damage Diberikan +5%"
+    },
+    {
+      "id": "MD571",
+      "name": "Keen VII",
+      "desc": "Level Offense +5, Maks HP +20%, Damage Diberikan +7.5%"
+    },
+    {
+      "id": "MD572",
+      "name": "Resilient VII",
+      "desc": "Level Offense +2, Defense Level +6, Maks HP +20%, Damage Diberikan +7.5%"
+    },
+    {
+      "id": "MD573",
+      "name": "Body Up VII",
+      "desc": "Level Offense +5, Defense Level +2, Maks HP +15%, Damage Diberikan +7.5%"
+    },
+    {
+      "id": "MD574",
+      "name": "Growth VII",
+      "desc": "Level Offense +2, Maks HP +35%, Damage Diberikan +7.5%"
+    },
+    {
+      "id": "MD575",
+      "name": "Clash Power Up IV",
+      "desc": "Clash Power +1, Level Offense +2, Maks HP +20%, Damage Diberikan +7.5%"
+    },
+    {
+      "id": "MD576",
+      "name": "Final Power Up IV",
+      "desc": "Final Power +1, Level Offense +2, Maks HP +17.5%, Damage Diberikan +7.5%"
+    },
+    {
+      "id": "MD577",
+      "name": "Base Power Up IV",
+      "desc": "Base Power +1, Level Offense +2, Maks HP +15%, Damage Diberikan +7.5%"
+    },
+    {
+      "id": "MD578",
+      "name": "Brutality IV",
+      "desc": "Plus Coin Power +1, Minus Coin Power -1, Damage Diberikan +7.5%"
+    },
+    {
+      "id": "MD581",
+      "name": "Keen VIII",
+      "desc": "Level Offense +6, Maks HP +30%, Damage Diberikan +7.5%"
+    },
+    {
+      "id": "MD582",
+      "name": "Resilient VIII",
+      "desc": "Level Offense +3, Defense Level +6, Maks HP +30%, Damage Diberikan +7.5%"
+    },
+    {
+      "id": "MD583",
+      "name": "Body Up VIII",
+      "desc": "Level Offense +5, Defense Level +4, Maks HP +22.5%, Damage Diberikan +7.5%"
+    },
+    {
+      "id": "MD584",
+      "name": "Growth VIII",
+      "desc": "Level Offense +3, Maks HP +45%, Damage Diberikan +7.5%"
+    },
+    {
+      "id": "MD585",
+      "name": "Clash Power Up V",
+      "desc": "Clash Power +2, Level Offense +1, Maks HP +25%, Damage Diberikan +7.5%"
+    },
+    {
+      "id": "MD586",
+      "name": "Final Power Up V",
+      "desc": "Final Power +2, Level Offense +1, Maks HP +20%, Damage Diberikan +7.5%"
+    },
+    {
+      "id": "MD587",
+      "name": "Base Power Up V",
+      "desc": "Base Power +2, Level Offense +1, Maks HP +15%, Damage Diberikan +7.5%"
+    },
+    {
+      "id": "MD588",
+      "name": "Brutality V",
+      "desc": "Plus Coin Power +2, Minus Coin Power -2, Damage Diberikan +7.5%"
+    },
+    {
+      "id": "MD591",
+      "name": "Keen IX",
+      "desc": "Level Offense +8, Maks HP +40%, Damage Diberikan +10%"
+    },
+    {
+      "id": "MD592",
+      "name": "Resilient IX",
+      "desc": "Level Offense +3, Defense Level +9, Maks HP +40%, Damage Diberikan +10%"
+    },
+    {
+      "id": "MD593",
+      "name": "Body Up IX",
+      "desc": "Level Offense +6, Defense Level +5, Maks HP +32.5%, Damage Diberikan +10%"
+    },
+    {
+      "id": "MD594",
+      "name": "Growth IX",
+      "desc": "Level Offense +3, Maks HP +72.5%, Damage Diberikan +10%"
+    },
+    {
+      "id": "MD595",
+      "name": "Clash Power Up VI",
+      "desc": "Clash Power +2, Level Offense +2, Maks HP +40%, Damage Diberikan +10%"
+    },
+    {
+      "id": "MD596",
+      "name": "Final Power Up VI",
+      "desc": "Final Power +2, Level Offense +2, Maks HP +35%, Damage Diberikan +10%"
+    },
+    {
+      "id": "MD597",
+      "name": "Base Power Up VI",
+      "desc": "Base Power +2, Level Offense +2, Maks HP +30%, Damage Diberikan +10%"
+    },
+    {
+      "id": "MD598",
+      "name": "Brutality VI",
+      "desc": "Plus Coin Power +2, Minus Coin Power -2, Damage Diberikan +10%"
+    }
+  ]
+}

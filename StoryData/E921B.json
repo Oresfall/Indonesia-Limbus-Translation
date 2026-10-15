@@ -1,0 +1,483 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Toko Roti, Distrik 14",
+      "model": "빵가게주인",
+      "content": "Ah... aku tahu siapa yang kalian cari."
+    },
+    {
+      "id": 1,
+      "content": "Pemilik toko roti itu adalah seorang wanita yang memegang keranjang anyaman yang sama dengan yang ada di foto. Dia melirik sekilas ke arah foto yang kuacungkan padanya lalu mengangguk cepat."
+    },
+    {
+      "id": 2,
+      "model": "빵가게주인",
+      "content": "Pria ini... dia bekerja di <ruby=Pengalengan>Cannery</ruby>-17 tepat di sebelah. Dia pelanggan tetap."
+    },
+    {
+      "id": 3,
+      "model": "빵가게주인",
+      "content": "Dia biasanya mampir setiap pagi untuk membeli roti isi untuk dibagikan kepada rekan kerjanya. Tapi, belakangan ini dia tidak kelihatan."
+    },
+    {
+      "id": 4,
+      "model": "오티스",
+      "content": "Dan rekan-rekan kerja itu, saya berasumsi mereka mengenakan seragam yang sama?"
+    },
+    {
+      "id": 5,
+      "content": "Menanyakan pertanyaan itu demi mewakiliku, Outis menunjukkan foto lain kepada si tukang roti."
+    },
+    {
+      "id": 6,
+      "model": "빵가게주인",
+      "content": "Mungkin? Dia juga selalu memakainya. Kutebak itu seragam <ruby=Pengalengan>Cannery</ruby>."
+    },
+    {
+      "id": 7,
+      "model": "오티스",
+      "content": "Ini mengonfirmasi petunjuk kita, Manajer Eksekutif. Beberapa pertanyaan di <ruby=Pengalengan>Cannery</ruby> itu seharusnya bisa membawa kita ke informasi yang kita butuhkan."
+    },
+    {
+      "id": 8,
+      "model": "단테",
+      "content": "<Ya, kamu benar. Tapi...>"
+    },
+    {
+      "id": 9,
+      "model": "단테",
+      "content": "<... Hanya saja dia tampaknya tidak terlalu peduli sama sekali. Dia salah satu orang di foto yang tidak terpengaruh oleh Distorsi, kan? Kupikir dia adalah kenalan dekat...>"
+    },
+    {
+      "id": 10,
+      "model": "오티스",
+      "content": "Izinkan saya untuk memverifikasi, Manajer Eksekutif."
+    },
+    {
+      "id": 11,
+      "model": "오티스",
+      "content": "Apakah anda tahu nama dari pelanggan tetap yang anda bicarakan ini?"
+    },
+    {
+      "id": 12,
+      "model": "빵가게주인",
+      "content": "Namanya? Apa seharusnya aku mengetahuinya?"
+    },
+    {
+      "id": 13,
+      "content": "Meskipun aku tidak berharap dia benar-benar tahu namanya, sikap apatis yang terlihat jelas dalam suaranya membuatku ragu."
+    },
+    {
+      "id": 14,
+      "model": "오티스",
+      "content": "Dia mengambil foto anda. Bukankah wajar jika berasumsi bahwa anda mengenal baik dirinya?"
+    },
+    {
+      "id": 15,
+      "model": "빵가게주인",
+      "content": "Oh, itu."
+    },
+    {
+      "id": 16,
+      "content": "Sikap si tukang roti berubah saat Outis mendesak poin tersebut. Dia memberikan senyuman yang aneh dan meresahkan sebelum menarik sesuatu dari saku celemeknya."
+    },
+    {
+      "id": 17,
+      "content": "Sebuah objek tipis dan bulat... seperti kaleng."
+    },
+    {
+      "id": 18,
+      "model": "빵가게주인",
+      "content": "Dia bilang dia akan memberiku lima <ruby=Pengalaman Dalam Kaleng>Canned Experiences</ruby> ini secara gratis jika aku mengizinkannya mengambil fotoku. Bahkan dia bilang dia akan menambahkan Docugraph bangunan pilihanku!"
+    },
+    {
+      "id": 19,
+      "model": "빵가게주인",
+      "content": "Dia membuat Docugraph bangunan, kan? Kudengar dia bahkan terkadang melakukan perjalanan kerja ke <ruby=Sarang>Nest</ruby>. Jadi aku memintanya untuk mencarikanku Docugraph dari rumah mewah menawan yang kulihat di pinggiran <ruby=Sarang>Nest</ruby>."
+    },
+    {
+      "id": 20,
+      "model": "빵가게주인",
+      "content": "Aku tahu aku tidak akan pernah mampu membeli tempat seindah itu... Tapi dengan cara ini, setidaknya aku bisa <i>mengalami</i> seperti apa rasanya. Dan astaga, itu... semua yang pernah kuharapkan... Hehe..."
+    },
+    {
+      "id": 21,
+      "content": "Aku tidak bisa menjelaskannya dengan pasti, tapi ada kengerian tersendiri pada senyuman melamun dan penuh kebahagiaan di wajah si tukang roti itu yang membuatku merinding."
+    },
+    {
+      "id": 22,
+      "model": "오티스",
+      "content": "Ehem..."
+    },
+    {
+      "id": 23,
+      "model": "돈키호테",
+      "content": "Uhm... Nak Meursault..."
+    },
+    {
+      "id": 24,
+      "model": "돈키호테",
+      "content": "Apakah <ruby=Pengalaman Dalam Kaleng>Canned Experiences</ruby> ini benar-benar memiliki keajaiban seperti itu? Sampai merenggut seluruh akal sehat dari raut wajah seseorang...?"
+    },
+    {
+      "id": 25,
+      "model": "뫼르소",
+      "content": "Barang tersebut mempertahankan permintaan yang tinggi di seluruh Kota. Distrik 14 hanyalah salah satu dari beberapa pasar."
+    },
+    {
+      "id": 26,
+      "model": "돈키호테",
+      "content": "Apakah maksudmu... bahwa mereka yang memanjakan diri dalam <ruby=Pengalaman Dalam Kaleng>Canned Experiences</ruby> dapat merasakan bertualang dalam ekspedisi ke <ruby=Danau Besar>The Great Lake</ruby> dan melompat bungee dari puncak gedung pencakar langit di sana sembari mereka tetap duduk di tempat mereka berada?"
+    },
+    {
+      "id": 27,
+      "model": "뫼르소",
+      "content": "Mereka dapat melakukannya. Namun..."
+    },
+    {
+      "id": 28,
+      "model": "돈키호테",
+      "content": "Oho...! Sebuah kaleng ajaib, yang memungkinkan seseorang untuk mengejar impian apapun yang dibayangkan oleh hati! Sungguh, aku mengakui jiwaku sendiri... sangat tergoda..."
+    },
+    {
+      "id": 29,
+      "model": "뫼르소",
+      "content": "... itu berbeda dengan mengejar impian."
+    },
+    {
+      "id": 30,
+      "model": "돈키호테",
+      "content": "Hmm?"
+    },
+    {
+      "id": 31,
+      "model": "뫼르소",
+      "content": "<ruby=Pengalaman Dalam Kaleng>Canned Experiences</ruby> yang diproduksi secara massal dibuat dari <ruby=Adonan Pengalaman>Experience Batter</ruby> dasar yang dicampur dengan berbagai informasi yang dimodifikasi. Produk akhir yang dihasilkan memungkinkan stimulasi yang kuat melalui ingatan yang diubah. Oleh karena itu, hal itu tidak seperti \"impian\" seperti yang dinyatakan oleh Don Quixote."
+    },
+    {
+      "id": 32,
+      "model": "뫼르소",
+      "content": "Sepotong ingatan yang disempurnakan di sepanjang berbagai tahap pemrosesan dari produksi <ruby=Pengalengan>Canneries</ruby> tidak setara dengan pengalaman yang asli. Artinya, penggunaan kata \"pengalaman\" dalam pernyataan dia sebelumnya juga harus diubah."
+    },
+    {
+      "id": 33,
+      "model": "이스마엘",
+      "content": "Ingatan yang diubah untuk stimulasi yang kuat... Itu terdengar sangat mencurigakan."
+    },
+    {
+      "id": 34,
+      "model": "돈키호테",
+      "content": "Hmm... Bagaimana hal ini bisa menodai berkah yang diberikan oleh kaleng tersebut? Petualangan dan kisah-kisah, sebetulnya, memang cenderung sedikit dilebih-lebihkan!"
+    },
+    {
+      "id": 35,
+      "model": "뫼르소",
+      "content": "Itu karena ingatan yang disediakan oleh <ruby=Pengalaman Dalam Kaleng>Canned Experiences</ruby> sangatlah jelas."
+    },
+    {
+      "id": 36,
+      "model": "뫼르소",
+      "content": "Statistik telah menunjukkan bahwa para pengguna kaleng menafsirkan hal tersebut sebagai pengalaman otentik dan menjadi ketergantungan padanya."
+    },
+    {
+      "id": 37,
+      "model": "뫼르소",
+      "content": "Penyebab yang memungkinkan dari pembentukan pola ketergantungan adalah karena <ruby=Pengalaman Dalam Kaleng>Canned Experiences</ruby> memungkinkan seseorang untuk merasa seolah-olah telah mencapai impian yang, pada kenyataannya, tidak mungkin terjadi."
+    },
+    {
+      "id": 38,
+      "model": "돈키호테",
+      "content": "Apakah kamu mengisyaratkan... bahwa para pengguna dibuat puas dengan melahap impian palsu yang disimpan dalam kaleng siap pakai?"
+    },
+    {
+      "id": 39,
+      "model": "이상",
+      "content": "Yang lebih buruk lagi, sang pengguna mungkin tidak lagi berjuang untuk mengejar impian di dunia nyata,"
+    },
+    {
+      "id": 40,
+      "model": "이상",
+      "content": "karena semakin manis dan indahnya suatu impian dihias, maka akan semakin mustahil impian itu tampaknya untuk digapai dengan tangan sendiri."
+    },
+    {
+      "id": 41,
+      "model": "돈키호테",
+      "content": "... Menjadi alasan untuk menyerah, alih-alih menghasut seseorang untuk maju melangkah...! Sungguh, bukankah itu membatalkan arti dari bermimpi itu sendiri, jika impian yang dihasilkan tidak membangkitkan semangat untuk memacu kuda menuju ke sana?!"
+    },
+    {
+      "id": 42,
+      "model": "뫼르소",
+      "content": "Apakah hal itu membatalkan artinya, saya tidak dapat mengetahuinya."
+    },
+    {
+      "id": 43,
+      "model": "뫼르소",
+      "content": "Tetapi barang itu laku keras."
+    },
+    {
+      "id": 44,
+      "model": "돈키호테",
+      "content": "......."
+    },
+    {
+      "id": 45,
+      "model": "빵가게주인",
+      "content": "Jadi? Berapa banyak yang akan kalian beli?"
+    },
+    {
+      "id": 46,
+      "model": "이스마엘",
+      "content": "Beli apa?"
+    },
+    {
+      "id": 47,
+      "model": "빵가게주인",
+      "content": "Kalian datang menerobos masuk dengan semua pertanyaan ini, dan aku sudah cukup sabar untuk menjawabnya dengan sopan, bukan? Tidakkah kalian seharusnya berhutang satu atau dua pembelian padaku?"
+    },
+    {
+      "id": 48,
+      "model": "빵가게주인",
+      "content": "Kalian tidak berniat pergi begitu saja tanpa membeli satu potong roti pun setelah memenuhi toko rotiku dan menakut-nakuti pelangganku, kan...?"
+    },
+    {
+      "id": 49,
+      "content": "... Argumennya sebenarnya masuk akal. Dengan seluruh kelompok kami yang berkumpul di sekeliling, para pejalan kaki memberi kami jarak yang lebar dan bergegas pergi, sembari berbisik-bisik di antara mereka sendiri. Tidak ada yang mau masuk dan membeli roti seperti itu."
+    },
+    {
+      "id": 50,
+      "model": "로쟈",
+      "content": "Aduh, bu! Aku kan sudah hampir mengosongkan rakmu, iya kan?"
+    },
+    {
+      "id": 51,
+      "model": "히스클리프",
+      "content": "... Lo udah beli? Terus di mana lo simpen semua itu, hah?"
+    },
+    {
+      "id": 52,
+      "model": "로쟈",
+      "content": "Apakah kamu masih harus bertanya? Ya jelas udah kumakan sebagian lah! Dan sisanya tersimpan aman di saku mantelku biar kita semua bisa berbagi nanti~"
+    },
+    {
+      "id": 53,
+      "model": "단테",
+      "content": "<Jadi kamu sudah memakan sebagian...>"
+    },
+    {
+      "id": 54,
+      "model": "단테",
+      "content": "<Mari kita beli sedikit lagi. Memang benar kita menakut-nakuti pelanggan lain.>"
+    },
+    {
+      "id": 55,
+      "model": "파우스트",
+      "content": "... Dimengerti. Mengingat bahwa pengeluaran dilakukan untuk memfasilitasi operasi ini, kurangnya penganggaran sebelumnya seharusnya tidak menimbulkan masalah."
+    },
+    {
+      "id": 56,
+      "model": "뉴김삿갓",
+      "content": "Oh, mantap! Roti beras wijen buatku, tolong."
+    },
+    {
+      "id": 57,
+      "model": "단테",
+      "content": "<?!>"
+    },
+    {
+      "id": 58,
+      "content": "... Itu Kim. Dia benar-benar punya bakat untuk muncul di saat-saat yang paling tidak terduga."
+    },
+    {
+      "id": 59,
+      "model": "에즈라",
+      "content": "Hei, Tuan! Dari mana saja kamu selama ini?!"
+    },
+    {
+      "id": 60,
+      "model": "뉴김삿갓",
+      "content": "Tunggu, tunggu."
+    },
+    {
+      "id": 61,
+      "model": "에즈라",
+      "content": "...?"
+    },
+    {
+      "id": 62,
+      "model": "뉴김삿갓",
+      "content": "Silahkan marah padaku sesukamu, tapi beri aku waktu sebentar."
+    },
+    {
+      "id": 63,
+      "content": "Ezra berhenti, menunggu dalam antisipasi yang bingung..."
+    },
+    {
+      "id": 64,
+      "content": "... hanya agar Kim bisa mengambil roti beras wijen dari tangan si tukang roti dan melahapnya."
+    },
+    {
+      "id": 65,
+      "model": "뉴김삿갓",
+      "content": "... Baiklah. Aku siap."
+    },
+    {
+      "id": 66,
+      "model": "에즈라",
+      "content": "Benar-benar membuang roti!"
+    },
+    {
+      "id": 67,
+      "model": "뉴김삿갓",
+      "content": "Gah...!"
+    },
+    {
+      "id": 68,
+      "content": "Tinju kemarahan Ezra menghantam langsung ke ulu hati Kim, membuatnya terlipat ke tanah seperti karung kentang yang remuk saat dia berguling menjauh."
+    },
+    {
+      "id": 69,
+      "content": "... Jika terus begini, pemiliknya mungkin akan mulai menagih kita untuk seluruh toko roti berikutnya, termasuk atapnya. Sebaiknya pergi dari sini."
+    },
+    {
+      "id": 70,
+      "place": "Jalan Butter, Distrik 14",
+      "model": "뫼르소",
+      "content": "Manajer."
+    },
+    {
+      "id": 71,
+      "content": "Meursault mendekatiku saat kami berjalan menyusuri jalan, dengan Ezra dan Kim yang masih bertengkar di belakang kami."
+    },
+    {
+      "id": 72,
+      "content": "Dia memegang gulungan sesuatu yang berwarna cokelat dan melingkar erat."
+    },
+    {
+      "id": 73,
+      "model": "단테",
+      "content": "<Hmm...?>"
+    },
+    {
+      "id": 74,
+      "model": "뫼르소",
+      "content": "Saya telah menyelesaikan pencucian film tersebut, sesuai dengan instruksi anda."
+    },
+    {
+      "id": 75,
+      "model": "단테",
+      "content": "<Oh, jadi ini film yang ada di dalam tabung yang kamu goyang-goyangkan itu. Uh... Apakah aku tinggal membuka gulungannya?>"
+    },
+    {
+      "id": 76,
+      "model": "뫼르소",
+      "content": "Posisikan searah dengan matahari atau sumber cahaya lainnya. Karena film ini merupakan film pembalik, gambar-gambar seharusnya dapat terlihat seperti saat foto tersebut diambil."
+    },
+    {
+      "id": 77,
+      "content": "... Aku tidak tahu apa arti \"film pembalik\", tapi aku melakukan apa yang dikatakannya dan membuka gulungan film itu."
+    },
+    {
+      "id": 78,
+      "model": "단테",
+      "content": "<Oke... Aku bisa melihatnya. Wah, ini lumayan keren!>"
+    },
+    {
+      "id": 79,
+      "model": "이스마엘",
+      "content": "Oh, apakah kelihatan? Boleh aku lihat juga...?"
+    },
+    {
+      "id": 80,
+      "model": "그레고르",
+      "content": "Geser sedikit ke sini. Biarkan aku ikut melihatnya juga."
+    },
+    {
+      "id": 81,
+      "content": "Sulit untuk melihat detailnya karena gambarnya terlalu kecil, tapi aku masih bisa memastikan bahwa potongan film itu dipenuhi dengan foto-foto yang hampir identik."
+    },
+    {
+      "id": 82,
+      "model": "싱클레어",
+      "content": "Hmm...? Apakah ini orang yang sama di setiap foto? Dengan pose yang sama di semuanya?"
+    },
+    {
+      "id": 83,
+      "model": "그레고르",
+      "content": "Huh, kamu benar... Tidak, tunggu sebentar..."
+    },
+    {
+      "id": 84,
+      "model": "그레고르",
+      "content": "Lihat bagian lengan di sini? Semakin jauh kamu melihat ke sepanjang potongan filmnya, posisinya menjadi semakin rendah..."
+    },
+    {
+      "id": 85,
+      "model": "이스마엘",
+      "content": "Ya... dan bagian kepalanya tampak seperti sedang menoleh ke kanan."
+    },
+    {
+      "id": 86,
+      "model": "싱클레어",
+      "content": "... Huh?"
+    },
+    {
+      "id": 87,
+      "content": "Kami semua sedang menyipitkan mata menatap bingkai-bingkai kecil pada film tersebut ketika Sinclair tiba-tiba tersentak dan menjadi kaku seolah-olah dia telah melihat sesuatu yang seharusnya tidak dia lihat."
+    },
+    {
+      "id": 88,
+      "content": "Sesaat kemudian, seluruh warna di wajahnya memudar."
+    },
+    {
+      "id": 89,
+      "model": "단테",
+      "content": "<... Sinclair? Ada apa?>"
+    },
+    {
+      "id": 90,
+      "model": "싱클레어",
+      "content": "Ini mengingatkanku pada... sesuatu yang kupelajari di sekolah."
+    },
+    {
+      "id": 91,
+      "model": "싱클레어",
+      "content": "Kamu menggambar sebuah gambar di sudut tumpukan catatan atau buku yang tebal. Di tempat yang sama persis di setiap halaman."
+    },
+    {
+      "id": 92,
+      "model": "싱클레어",
+      "content": "Kamu memulainya dengan lengan di bawah. Kemudian kamu membuat satu perubahan kecil pada setiap halaman... menggeser lengan ke atas semakin tinggi... sampai lengannya terangkat sepenuhnya."
+    },
+    {
+      "id": 93,
+      "model": "싱클레어",
+      "content": "Dan ketika kamu membalik halaman-halaman itu dengan cukup cepat, gambar-gambarnya berhenti terlihat seperti gambar yang terpisah. Sosok yang diam itu mulai bergerak."
+    },
+    {
+      "id": 94,
+      "model": "싱클레어",
+      "content": "Kelas itu disebut... \"Pengantar Gambar Bergerak.\""
+    },
+    {
+      "id": 95,
+      "model": "싱클레어",
+      "content": "Aku ingat guru itu berkata... bahwa rekaman video yang kita tonton semuanya dibuat dengan cara yang... sama..."
+    },
+    {
+      "id": 96,
+      "model": "단테",
+      "content": "<Jadi maksud kamu kalau ini adalah...>"
+    },
+    {
+      "id": 97,
+      "model": "오티스",
+      "content": "Ini adalah urutan berkelanjutan dari gambar yang diam..."
+    },
+    {
+      "id": 98,
+      "model": "뫼르소",
+      "content": "Susunan dari bingkai-bingkai tersebut menunjukkan bahwa potongan film ini sangat mungkin merupakan sebuah rekaman—sebuah pelanggaran terhadap Tabu N Corp."
+    }
+  ]
+}

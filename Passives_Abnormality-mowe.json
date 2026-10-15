@@ -1,0 +1,84 @@
+{
+  "dataList": [
+    {
+      "id": 835001,
+      "name": "Stored Blood",
+      "desc": "Pada Akhir Giliran, depending on the [KeptBlood] Stack pada diri sendiri:\n- Pada 5 atau lebih sedikit Stack: peroleh 1 [Binding], 1 [Vulnerable], dan 1 [AttackDown] giliran berikutnya untuk setiap (6 - Stack)\n- Pada lebih dari 5 Stack: peroleh 2 [AttackUp] dan 2 [DefenseUp] giliran berikutnya untuk setiap (Stack - 5)"
+    },
+    {
+      "id": 835002,
+      "name": "Must Retain Blood",
+      "desc": "Gains pola baru ketika [KeptBlood] reaches 0 untuk pertama kalinya\nFix unit ini's speed to 10 ketika menggunakan Skill 'I Am... The Prince... of the Parade...!'"
+    },
+    {
+      "id": 835003,
+      "name": "The Prince's Frenzy",
+      "desc": "Ketika unit ini reaches 30% HP, peroleh [BloodyCrave]"
+    },
+    {
+      "id": 835004,
+      "name": "Hardblood Glaive",
+      "desc": "Prioritaskan target dengan the highest sum of [Laceration] Potency dan Count\nSaat Serang, jika target memiliki [Laceration], pulihkan 2% HP"
+    },
+    {
+      "id": 835005,
+      "name": "Sanguivore - Coagulation",
+      "desc": "Ketika unit ini memiliki [Laceration]:\n- Peroleh 1 Level Offense Up dan 1 Defense Level Up untuk setiap 5 [Laceration] (maks 10)\n- Peroleh 1 Clash Power Up untuk setiap 10 [Laceration] (maks 5)\n- Damage diterima dari [Laceration] -50% (dibulatkan ke bawah)"
+    },
+    {
+      "id": 9014501,
+      "name": "Blood Coagulation",
+      "desc": "Peroleh +1 [Laceration] Count setiap kali unit ini diserang\nAkhir Giliran: konsumsi 3 [Laceration] Count pada diri sendiri untuk peroleh 1 [HardenedBlood]"
+    },
+    {
+      "id": 9014502,
+      "name": "Thirst for Blood",
+      "desc": "Prioritaskan target dengan [Laceration]\nAkhir Giliran: jika unit ini failed untuk beri any damage giliran ini, peroleh 2 [Vulnerable] dan 2 [AttackUp] giliran berikutnya"
+    },
+    {
+      "id": 9014503,
+      "name": "Bloodsucking",
+      "desc": "Damage diterima dari [Laceration] -10% (dibulatkan ke bawah)\nSaat Serang, jika target memiliki [Laceration], pulihkan 10% dari damage yang diberikan"
+    },
+    {
+      "id": 9014801,
+      "name": "Rough Bloodsucking",
+      "desc": "Damage diterima dari [Laceration] -20% (dibulatkan ke bawah)\nSaat Serang, jika target memiliki [Laceration], pulihkan 15% dari damage yang diberikan"
+    },
+    {
+      "id": 9014802,
+      "name": "Power Leakage",
+      "desc": "Every time unit ini diserang, jika penyerang used Skill yang memperoleh [Charge], penyerang steals 1 [Charge] Count dari unit ini.\n(Once per Skill. Tidak aktif jika unit ini tidak memiliki [Charge])"
+    },
+    {
+      "id": 9015101,
+      "name": "Blood to Brain",
+      "desc": "Damage diterima dari [Laceration] -30% (dibulatkan ke bawah)\nSaat Serang, jika target memiliki [Laceration], pulihkan 15% dari damage yang diberikan"
+    },
+    {
+      "id": 9015102,
+      "name": "Prosthesis Model - L37",
+      "desc": "Awal Giliran: Pada kurang dari 5 [Charge] Count, peroleh 1 [Reduction]\nAwal Giliran: Pada 5+ [Charge] Count, peroleh 2 [ParryingResultUp]"
+    },
+    {
+      "id": 9015201,
+      "name": "A Young Kindred",
+      "desc": "Damage diterima dari [Laceration] -30% (dibulatkan ke bawah)\nSaat Serang, jika target memiliki [Laceration], pulihkan 25% dari damage yang diberikan"
+    },
+    {
+      "id": 9014803,
+      "name": "Tenacious",
+      "desc": "Self-diberikan damage karena Skill unit ini tidak dapat kurangi HP unit ini under 1"
+    },
+    {
+      "id": 834801,
+      "name": "Burst Bloodbag",
+      "desc": "Awal Pertempuran: starts Pertempuran hanya dengan half dari maks HP"
+    },
+    {
+      "id": 834802,
+      "name": "The Seventh Kindred",
+      "desc": "Peroleh +1 Slot untuk setiap kawan at 1 HP (2 kali maks)"
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Kabin Kelas Ekonomi Kereta WARP",
+      "model": "단테",
+      "content": "<Ruangan ini...>"
+    },
+    {
+      "id": 1,
+      "model": "카세티",
+      "teller": "???",
+      "title": "???",
+      "content": "Ada apa... dengan raut wajah kalian itu?"
+    },
+    {
+      "id": 2,
+      "model": "카세티",
+      "teller": "???",
+      "title": "???",
+      "content": "Kalian sedang menghadap sang Pangeran. Di mana senyuman kalian?"
+    },
+    {
+      "id": 3,
+      "model": "파우스트",
+      "content": "Dia... pasti <ruby=Iblis Darah>Bloodfiend</ruby> yang menyebabkan wabah ini. Dia adalah target kita."
+    },
+    {
+      "id": 4,
+      "model": "카세티",
+      "teller": "???",
+      "title": "???",
+      "content": "Berlututlah dan bersujudlah di hadapan bangsawan!"
+    },
+    {
+      "id": 5,
+      "model": "그레고르",
+      "content": "... Kamu pikir kamu siapa sampai berani menuntut hal itu?"
+    },
+    {
+      "id": 6,
+      "model": "카세티",
+      "teller": "???",
+      "title": "???",
+      "content": "Aku akan menyampaikan hal ini kepada kalian sekali saja, jadi dengarkan baik-baik."
+    },
+    {
+      "id": 7,
+      "model": "카세티",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "Kalian boleh memanggilku sebagai Pangeran Cassetti, <ruby=Keturunan>Kindred</ruby> Keenam yang sedang mengungsi dari <ruby=Keluarga>Family</ruby>-nya, dan pangeran sah yang akan memerintah atas kalian!"
+    },
+    {
+      "id": 8,
+      "model": "돈키호테",
+      "content": "Apakah kamukah penjahat... yang telah membawa kehancuran dan pembantaian ke atas kapal ini?"
+    },
+    {
+      "id": 9,
+      "model": "카세티",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "Kamu orang yang banyak bicara, sangat tidak sopan di hadapan Pangeranmu. Namun, rasa kenyang yang menyenangkan ini membuatku berada dalam suasana hati yang cukup dermawan."
+    },
+    {
+      "id": 10,
+      "model": "카세티",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "Seperti yang pasti telah kalian lihat dalam perjalanan kalian ke sini... tempat ini adalah aula perjamuan untuk pesta yang paling megah."
+    },
+    {
+      "id": 11,
+      "model": "카세티",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "Tidak peduli berapa banyak <ruby=Kantung Darah>Bloodbags</ruby> yang kubuat, tidak peduli berapa banyak dari mereka yang kulahap... manusia tidak pernah berhenti berdatangan! Aku hanya menikmati apa yang mereka berikan ke dalam mulutku!"
+    },
+    {
+      "id": 12,
+      "model": "이상",
+      "content": "... Dia mengenakan topeng demi tujuan bersenang-senang."
+    },
+    {
+      "id": 13,
+      "model": "오티스",
+      "content": "Jika kita benar-benar akan bertukar sapa, mengapa anda tidak melepas topeng itu? Atau apakah anda tidak mengenal etika dasar?"
+    },
+    {
+      "id": 14,
+      "model": "카세티",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "Oh, ini... topeng ini!"
+    },
+    {
+      "id": 15,
+      "model": "카세티",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "Tidak mau lepas. Tidak bisa melepasnya. Tidak boleh melepasnya! Tidak ada Pangeran tanpa topeng ini!"
+    },
+    {
+      "id": 16,
+      "model": "카세티",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "Kita sangat, sangat buruk rupa di balik topeng ini; jadi kita semua memutuskan untuk menyembunyikan betapa menjijikkannya kita sekarang. Tapi begitu aku sudah meminum darah kalian sampai kenyang, maka semuanya akan kembali seperti dulu. Baru setelah itulah aku bisa membuka topengku..."
+    },
+    {
+      "id": 17,
+      "model": "료슈",
+      "content": "Siapa yang menjahit topeng itu ke wajah anda? Hasilnya lumayan juga."
+    },
+    {
+      "id": 18,
+      "model": "카세티",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "Tentu saja ini luar biasa! Ha ha! Karena topeng ini dibuat oleh tak lain dan tak bukan si <ruby=Tukang Cukur>Barber</ruby> yang hebat dan terpandang, yang namanya pun tidak berani kusebutkan! Tapi... tapi ini sangat sakit...!"
+    },
+    {
+      "id": 19,
+      "model": "카세티",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "Tidak, tidak! Aku sedang tersenyum! Lihat, lihat betapa lebarnya aku tersenyum dan tertawa! HAHAHA! HA! HAAA... YA, AKULAH SANG PANGERAN, ITULAH DIRIKU!"
+    },
+    {
+      "id": 20,
+      "model": "히스클리프",
+      "content": "Dia emang orgil, kan?"
+    },
+    {
+      "id": 21,
+      "model": "히스클리프",
+      "content": "Oke, udah kelar ketawa-ketawanya? Siap-siap aja, lo bakal gue hajar abis-abisan."
+    },
+    {
+      "id": 22,
+      "model": "카세티",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "Aku... aku menikmati hal-hal seperti kau dan teman-temanmu."
+    },
+    {
+      "id": 23,
+      "model": "카세티",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "Jangan menangis, meraung dan membungkuk serta merengek di atas tanah demi nyawa kalian..."
+    },
+    {
+      "id": 24,
+      "model": "카세티",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "Terjanglah aku sebagai gantinya, hm?! Agresi itu, darah yang mendidih, oh, betapa aku menyukai panasnya!"
+    },
+    {
+      "id": 25,
+      "model": "히스클리프",
+      "content": "Memangnya lo apa, bego? Liat sekeliling. Kita ada tiga belas orang dan lo cuma sendirian."
+    },
+    {
+      "id": 26,
+      "model": "파우스트",
+      "content": "Jangan lengah, Heathcliff. Entitas ini telah berhasil mengubah penumpang yang tak terhitung jumlahnya di kereta ini menjadi <ruby=Kantung Darah>Bloodbags</ruby>-nya."
+    },
+    {
+      "id": 27,
+      "model": "히스클리프",
+      "content": "Gue nggak bakal lengah. Tapi... kita udah ngebantai banyak banget <ruby=Kantung Darah>Bloodbags</ruby> sampe nggak kehitung lagi jumlahnya, kan?"
+    },
+    {
+      "id": 28,
+      "model": "카세티",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "Bahkan tidak bisa menghitungnya...? Oh tidak, tidak... padahal hitungan itu sangat penting! Aku harus terus menghitung tamu-tamu kita! Oh ya, tentu saja! Aku ingat untuk selalu menghitung tamu-tamu tersayang kita! Ya... Ya! Benar!"
+    },
+    {
+      "id": 29,
+      "model": "카세티",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "Kalian tidak tahu betapa kuatnya aku. Dan aku tidak akan menyerahkan takhta kerajaan yang sedang berkembang ini kepada kalian!"
+    },
+    {
+      "id": 30,
+      "model": "카세티",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "Yang perlu kulakukan hanyalah duduk di sini tanpa melakukan apa-apa, dan para <ruby=Kantung Darah>Bloodbags</ruby> akan datang sendiri di hadapanku! Tidak ada surga seperti ini di luar sana... kalian tidak tahu apa yang harus kulakukan untuk menciptakan tempat ini!"
+    },
+    {
+      "id": 31,
+      "model": "카세티",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "Ohh, betapa gembiranya para leluhurku, andai mereka ada di sini untuk menyaksikan ciptaanku! Kelimpahan yang luar biasa ini... kesenangan ini... oh, kebebasan ini...!"
+    },
+    {
+      "id": 32,
+      "model": "카세티",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "Tapi kerajaan ini milikku! Aku yang membuatnya! Aku tidak akan memberikannya, tidak!"
+    },
+    {
+      "id": 33,
+      "model": "파우스트",
+      "content": "Ini cukup aneh."
+    },
+    {
+      "id": 34,
+      "model": "파우스트",
+      "content": "Tampaknya <ruby=Iblis Darah>Bloodfiend</ruby> ini meninggalkan gerbong ini hanya pada kesempatan langka..."
+    },
+    {
+      "id": 35,
+      "model": "파우스트",
+      "content": "... Namun kita telah melihat tanda-tanda pengaruh buruknya di setiap gerbong yang telah kita kunjungi sejauh ini."
+    },
+    {
+      "id": 36,
+      "model": "홍루",
+      "content": "Kalau begitu, apa yang dia maksud dengan bagaimana \"<ruby=Kantung Darah>Bloodbags</ruby> datang sendiri\" di hadapannya pastilah..."
+    },
+    {
+      "id": 37,
+      "model": "북부대검",
+      "teller": "Sasha",
+      "title": "MultiCrack Office",
+      "content": "TUNGGU SEBENTAR!"
+    },
+    {
+      "id": 38,
+      "model": "카세티",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "GYAH!!!"
+    },
+    {
+      "id": 39,
+      "content": "Seseorang tiba-tiba dan dengan panik menyerbu masuk ke gerbong ini."
+    },
+    {
+      "id": 40,
+      "content": "Itu adalah Sasha, Fixer yang kita temui di salah satu gerbong sebelumnya."
+    },
+    {
+      "id": 41,
+      "content": "Cassetti menciut di singgasananya karena gangguan mendadak ini, ketakutan tampak jelas di wajahnya."
+    },
+    {
+      "id": 42,
+      "model": "돈키호테",
+      "content": "Ah, itu kamu! Demi— Apakah kamu benar-benar melakukan perjalanan ke sini untuk membantu kami dalam misi kami?!"
+    },
+    {
+      "id": 43,
+      "model": "돈키호테",
+      "content": "Lihatlah! Penjahat itu adalah <ruby=Iblis Darah>Bloodfiend</ruby> yang bertanggung jawab atas tragedi yang telah terjadi di dalam kereta ini!"
+    },
+    {
+      "id": 44,
+      "model": "돈키호테",
+      "content": "Bantulah kami menyembelih anjing itu dan pada akhirnya pimpin para penumpang yang telah kamu lindungi sejauh ini untuk keluar dari kereta ini!"
+    },
+    {
+      "id": 45,
+      "model": "파우스트",
+      "content": "<ruby=Iblis Darah>Bloodfiends</ruby>..."
+    },
+    {
+      "id": 46,
+      "model": "파우스트",
+      "content": "... Bagaimana jika ada lebih dari satu <ruby=Iblis Darah>Bloodfiend</ruby> di dalam sini, yang masih mampu berpikir rasional...?"
+    },
+    {
+      "id": 47,
+      "model": "북부대검",
+      "teller": "Sasha",
+      "title": "MultiCrack Office",
+      "content": "Sial, kalian benar-benar berhasil sampai sejauh ini? Kurasa <ruby=Sayap>Wings</ruby> tidak memberikan kontrak kepada sembarang orang."
+    },
+    {
+      "id": 48,
+      "model": "북부대검",
+      "teller": "Sasha",
+      "title": "MultiCrack Office",
+      "content": "Gua... dulu juga berjuang mati-matian. Sampe jadi orang terakhir yang masih hidup..."
+    },
+    {
+      "id": 49,
+      "model": "로쟈",
+      "content": "Apa sih yang sedang dia bicarakan?"
+    },
+    {
+      "id": 50,
+      "model": "북부대검",
+      "teller": "Sasha",
+      "title": "MultiCrack Office",
+      "content": "Tapi apa hasilnya bagiku? Sendirian, tiga dari empat lengan gua putus gitu aja."
+    },
+    {
+      "id": 51,
+      "model": "북부대검",
+      "teller": "Sasha",
+      "title": "MultiCrack Office",
+      "content": "Agak lucu bagaimana sudut pandang tentang hidup bisa berubah total saat kamu benar-benar, benar-benar berada dalam kesulitan. Kurasa pikiran terakhir gua adalah..."
+    },
+    {
+      "id": 52,
+      "model": "북부대검",
+      "teller": "Sasha",
+      "title": "MultiCrack Office",
+      "content": "\"Sialan... gua... ga mau mati...\""
+    },
+    {
+      "id": 53,
+      "model": "단테",
+      "content": "<…….>"
+    },
+    {
+      "id": 54,
+      "model": "북부대검",
+      "teller": "Sasha",
+      "title": "MultiCrack Office",
+      "content": "Jadi gua berlutut dan memohon. Gua beritahu kalau..."
+    },
+    {
+      "id": 55,
+      "model": "파우스트",
+      "content": "Don Quixote, awas!"
+    },
+    {
+      "id": 56,
+      "model": "북부대검",
+      "teller": "Sasha",
+      "title": "MultiCrack Office",
+      "content": "... Gua bakal lakuin apapun untuk tetap hidup!"
+    },
+    {
+      "id": 57,
+      "content": "Darah dengan cepat mengkristal di sekitar Sasha seperti baju zirah saat dia mengayunkan pedang besarnya ke arah para <ruby=Pendosa>Sinner</ruby>, menyerang mereka bahkan sebelum teriakan terburu-buru Faust benar-benar menghilang."
+    },
+    {
+      "id": 58,
+      "model": "히스클리프",
+      "content": "... Agh!"
+    },
+    {
+      "id": 59,
+      "model": "카세티",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "Apa..."
+    },
+    {
+      "id": 60,
+      "model": "카세티",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "... Apa yang kukatakan tadi?! Aku memerintahkanmu untuk memberiku peringatan sebelum melompat masuk seperti itu!"
+    },
+    {
+      "id": 61,
+      "model": "카세티",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "Tidakkah kamu tahu betapa berisiknya lengan bodohmu itu? Kukira <ruby=Keluarga>Family</ruby> sudah datang menjemputku!"
+    },
+    {
+      "id": 62,
+      "model": "북부대검혈귀",
+      "teller": "Sasha",
+      "title": "Bloodfiend",
+      "content": "Saya minta maaf, Tuan Cassetti."
+    },
+    {
+      "id": 63,
+      "model": "카세티",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "Ah... izinkan aku memperkenalkan <ruby=Keturunan>Kindred</ruby>-ku kepada kalian, yang pertama dariku sejak pelarianku, demi kerajaan yang ingin kubangun."
+    },
+    {
+      "id": 64,
+      "model": "카세티",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "<ruby=Keturunan>Kindred</ruby>-ku, pengiring setiaku... yang akan berada di sisiku saat aku membangun dinasti milikku sendiri, <ruby=Keluarga>Family</ruby>-ku..."
+    },
+    {
+      "id": 65,
+      "model": "북부대검혈귀",
+      "teller": "Sasha",
+      "title": "Bloodfiend",
+      "content": "Tuan Cassetti, saya bermaksud memilih yang lebih kuat dari kumpulan itu untuk dikirim ke gerbong ini seperti yang anda perintahkan kepada saya, tapi... manusia di gerbong saya semuanya lemah. Jadi saya persembahkan di hadapan anda kelompok ini dari gerbong kelas satu."
+    },
+    {
+      "id": 66,
+      "model": "파우스트",
+      "content": "<ruby=Keturunan>Kindred</ruby>..."
+    },
+    {
+      "id": 67,
+      "model": "파우스트",
+      "content": "Apakah anda bahkan menyadari sifat sebenarnya dari seorang \"<ruby=Keturunan>Kindred</ruby>?\""
+    },
+    {
+      "id": 68,
+      "model": "북부대검혈귀",
+      "teller": "Sasha",
+      "title": "Bloodfiend",
+      "content": "Nggak juga, tapi gua bisa kasih tahu ini ke lo."
+    },
+    {
+      "id": 69,
+      "model": "북부대검혈귀",
+      "teller": "Sasha",
+      "title": "Bloodfiend",
+      "content": "Saat gua menerima darah tuanku ke dalam pembuluh darah gua... rasanya seolah-olah gue terlahir kembali."
+    },
+    {
+      "id": 70,
+      "model": "파우스트",
+      "content": "Begitu ya. <ruby=Keturunan>Kindred</ruby> dari seorang <ruby=Iblis Darah>Bloodfiend</ruby> adalah seperti sub-entitas dari <ruby=Iblis Darah>Bloodfiend</ruby> tersebut, serupa dalam konsep dengan sub-entitas yang diciptakan oleh <ruby=Distorsi>Distortion</ruby> atau <ruby=Abnormalitas>Abnormalities</ruby>."
+    },
+    {
+      "id": 71,
+      "model": "파우스트",
+      "content": "Pasti keputusasaanlah yang mendorong anda untuk menerima tawaran itu meskipun kurangnya informasi."
+    },
+    {
+      "id": 72,
+      "model": "북부대검혈귀",
+      "teller": "Sasha",
+      "title": "Bloodfiend",
+      "content": "Mungkin. Itulah... mungkin yang terlintas di kepalaku sebelum aku menjadi seorang <ruby=Keturunan>Kindred</ruby>."
+    },
+    {
+      "id": 73,
+      "model": "돈키호테",
+      "content": "Kamu telah berkomplot dengan penjahat ini... selama ini? Sebagai kacungnya?"
+    },
+    {
+      "id": 74,
+      "model": "돈키호테",
+      "content": "Bahkan sejak saat itu, saat kami pertama kali melihatmu...?"
+    },
+    {
+      "id": 75,
+      "model": "북부대검혈귀",
+      "teller": "Sasha",
+      "title": "Bloodfiend",
+      "content": "Nona, Lo ga tau betapa paniknya gua saat ada yang nyebut \"mata merah.\" Meskipun nggak ngaruh juga buat curiga ama gue, karena mataku cuma prostetik."
+    },
+    {
+      "id": 76,
+      "model": "돈키호테",
+      "content": "K-kalau begitu... para penumpang yang tadinya berada di bawah perlindunganmu..."
+    },
+    {
+      "id": 77,
+      "model": "카세티",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "Bukankah sudah kukatakan padamu... bahwa hitungan itu penting?"
+    },
+    {
+      "id": 78,
+      "model": "카세티",
+      "teller": "Cassetti",
+      "title": "Bloodfiend",
+      "content": "Semakin panjang barisannya... semakin baik."
+    },
+    {
+      "id": 79,
+      "teller": "Bloodbags",
+      "title": "Bloodbag",
+      "content": "Ksshhh..."
+    },
+    {
+      "id": 80,
+      "content": "Puluhan <ruby=Kantung Darah>Bloodbags</ruby> mulai berjalan gontai ke dalam ruangan dari belakang Sasha.\n... Sosok yang lebih kecil di antara mereka menarik perhatianku."
+    },
+    {
+      "id": 81,
+      "content": "... Pikiranku segera tertuju pada anak kecil yang memegang ujung mantel Don Quixote."
+    },
+    {
+      "id": 82,
+      "model": "단테",
+      "content": "<…….>"
+    },
+    {
+      "id": 83,
+      "content": "Aku tahu bahwa para penumpang sudah mati saat kita menyadari Sasha adalah seorang <ruby=Iblis Darah>Bloodfiend</ruby>. Tapi... kuharap kita tidak akan diperlihatkan pemandangan ini."
+    },
+    {
+      "id": 84,
+      "model": "돈키호테",
+      "content": "……."
+    },
+    {
+      "id": 85,
+      "model": "돈키호테",
+      "content": "Tadi ada... seorang anak..."
+    },
+    {
+      "id": 86,
+      "model": "북부대검혈귀",
+      "teller": "Sasha",
+      "title": "Bloodfiend",
+      "content": "Yap. Anak kecil itu pingin jadi Fixer kalau dia besar nanti."
+    },
+    {
+      "id": 87,
+      "model": "북부대검혈귀",
+      "teller": "Sasha",
+      "title": "Bloodfiend",
+      "content": "Untungnya dia nggak akan besar. Gua bisa memberitahumu berdasarkan otoritas yang sah bahwa \"hidup\" sebagai <ruby=Kantung Darah>Bloodbag</ruby> jauh lebih baik daripada kerja paksa yang merupakan kehidupan seorang Fixer. Percayalah."
+    },
+    {
+      "id": 88,
+      "model": "돈키호테",
+      "content": "... Jaga lidah kejimu itu."
+    },
+    {
+      "id": 89,
+      "model": "북부대검혈귀",
+      "teller": "Sasha",
+      "title": "Bloodfiend",
+      "content": "Bermimpi menjadi Fixer yang terkenal dan dihormati? Penegak keadilan? bodoh banget lo, itu semua selalu berakhir dengan kekecewaan yang menghancurkan. Atau kematian sangat, sangat dini."
+    },
+    {
+      "id": 90,
+      "model": "돈키호테",
+      "content": "Diam... DIAM!"
+    },
+    {
+      "id": 91,
+      "content": "Don Quixote tidak memberi Sasha waktu untuk menyelesaikan kalimatnya; dia sudah menerjang dengan kecepatan penuh ke arahnya dengan tombak yang terhunus."
+    }
+  ]
+}

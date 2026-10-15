@@ -1,0 +1,532 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Backstreets dari Distrik 8, Pintu Masuk",
+      "model": "그레고르",
+      "content": "S-Saude?!"
+    },
+    {
+      "id": 1,
+      "model": "이스마엘",
+      "content": "Dan hei, Pilot… kan? Kamu..."
+    },
+    {
+      "id": 2,
+      "model": "뉴소드",
+      "content": "Ada apa? Kalian semua seperti sedang melihat hantu. Pilot, bukankah kau bilang kau sudah membagikan kabarku kepada mereka terakhir kali?"
+    },
+    {
+      "id": 3,
+      "model": "뉴파일럿",
+      "content": "S-sudah! Saya sudah melakukannya, Nyonya!"
+    },
+    {
+      "id": 4,
+      "model": "그레고르",
+      "content": "Oh…! Ya! Dia pernah!"
+    },
+    {
+      "id": 5,
+      "content": "Para <ruby=Pendosa>Sinners</ruby> masing-masing pulih dari keterkejutan awal melihat mereka lagi..."
+    },
+    {
+      "id": 6,
+      "content": "... dan tak lama kemudian, wajah mereka mulai berseri dengan senyum lega."
+    },
+    {
+      "id": 7,
+      "model": "뉴소드",
+      "content": "Yah, senang melihat keadaan di sini tidak banyak berubah."
+    },
+    {
+      "id": 8,
+      "model": "단테",
+      "content": "<Saude… Kami sangat senang melihatmu baik-baik saja.>"
+    },
+    {
+      "id": 9,
+      "model": "뉴소드",
+      "content": "Tick-tock untukmu juga. Senang melihat roda gigimu berputar dengan baik."
+    },
+    {
+      "id": 10,
+      "content": "Saude tersenyum dengan seringai yang familier. Dia tampak tidak banyak berubah sejak terakhir kali kita bertemu, kecuali beberapa perbedaan kecil."
+    },
+    {
+      "id": 11,
+      "content": "Pakaian dan lencananya, contohnya."
+    },
+    {
+      "id": 12,
+      "model": "오티스",
+      "content": "Terakhir kali saya ingat, anda dipromosikan, bukan? Izinkan saya mengucapkan selamat kepada anda."
+    },
+    {
+      "id": 13,
+      "model": "뉴소드",
+      "content": "Uhm... ya, ha ha."
+    },
+    {
+      "id": 14,
+      "content": "Atau kilasan melankolis, yang menggantung di senyumnya dan berkedip di matanya."
+    },
+    {
+      "id": 15,
+      "model": "그레고르",
+      "content": "Hei...!"
+    },
+    {
+      "id": 16,
+      "model": "오티스",
+      "content": "Saya hanya mengucapkan selamat atas promosi yang didapatkannya dan mengakui pencapaiannya yang luar biasa. Saya tidak mengerti apa masalah anda di sini."
+    },
+    {
+      "id": 17,
+      "model": "그레고르",
+      "content": "Tapi kita semua tahu makna yang dibawa promosi itu..."
+    },
+    {
+      "id": 18,
+      "model": "오티스",
+      "content": "Memang, dan itu sangat mendalam. Lagipula, apa artinya sebuah promosi yang diraih tanpa menumpahkan darah?"
+    },
+    {
+      "id": 19,
+      "model": "그레고르",
+      "content": "Kau… kau benar-benar keterlaluan…"
+    },
+    {
+      "id": 20,
+      "model": "오티스",
+      "content": "Kalau begitu, izinkan saya bertanya sesuatu. Jika semua orang bersikap seperti anda di dekatnya, menghindari fakta, menutup-nutupi apa yang terjadi, dari mana dia akan mendapatkan pengakuan dan penghiburan minimum yang layak diterimanya?"
+    },
+    {
+      "id": 21,
+      "model": "그레고르",
+      "content": "……."
+    },
+    {
+      "id": 22,
+      "model": "뉴소드",
+      "content": "Menutup-nutupi justru lebih baik. Saya bahkan pernah mendengar beberapa dari mereka berbisik bahwa saya membiarkan rekan saya mati hanya agar saya bisa mendapatkan promosi."
+    },
+    {
+      "id": 23,
+      "model": "뉴소드",
+      "content": "Jadi, dalam hal itu… saya menghargai sikap anda, Outis."
+    },
+    {
+      "id": 24,
+      "model": "오티스",
+      "content": "… Hm."
+    },
+    {
+      "id": 25,
+      "model": "뉴소드",
+      "content": "Kalau mau teknis, saya memang mati... hanya saja otak saya utuh. Bahkan ampul regenerasi K Corp. tidak akan bisa menghidupkan saya jika tidak utuh."
+    },
+    {
+      "id": 26,
+      "model": "싱클레어",
+      "content": "...! Kalau begitu, Effie mungkin juga—"
+    },
+    {
+      "id": 27,
+      "model": "뉴소드",
+      "content": "Sepertinya mereka langsung mengincar kepala Effie saat mereka menusuknya dengan prostetik."
+    },
+    {
+      "id": 28,
+      "model": "뉴소드",
+      "content": "... Menurut otopsi koroner."
+    },
+    {
+      "id": 29,
+      "model": "싱클레어",
+      "content": "……."
+    },
+    {
+      "id": 30,
+      "model": "이스마엘",
+      "content": "Ampul K Corp.... Asuransi Jiwa... keduanya tidak bisa menghidupkan seseorang dengan otak yang rusak."
+    },
+    {
+      "id": 31,
+      "model": "뉴소드",
+      "content": "... Ya, begitulah."
+    },
+    {
+      "id": 32,
+      "model": "뉴소드",
+      "content": "Lagipula, lagipula. Jangan larut dalam hal-hal yang menyedihkan."
+    },
+    {
+      "id": 33,
+      "model": "뉴소드",
+      "content": "Kita di sini untuk bekerja, mari kita selesaikan pekerjaan. Jadi mari kita bicara tentang pekerjaan, oke? Pilot?"
+    },
+    {
+      "id": 34,
+      "model": "뉴파일럿",
+      "content": "Uh! Siap, Nyonya!"
+    },
+    {
+      "id": 35,
+      "model": "뉴파일럿",
+      "content": "B-baik, mari lihat. Secara kebetulan, saya berteman dengan seseorang yang punya hubungan dengan keluarga Jia! Jadi saya bawa mereka kemari!"
+    },
+    {
+      "id": 36,
+      "model": "뉴소드",
+      "content": "……."
+    },
+    {
+      "id": 37,
+      "model": "그레고르",
+      "content": "Hei, … c-cuma itu aja?"
+    },
+    {
+      "id": 38,
+      "model": "뉴파일럿",
+      "content": "I-iya pak. Pengarahan selesai."
+    },
+    {
+      "id": 39,
+      "content": "Tepat saat semua orang tertegun dalam keheningan setelah pengarahan yang paling tidak informatif dan tidak membantu yang pernah kami alami..."
+    },
+    {
+      "id": 40,
+      "content": "... Ishmael adalah yang pertama sadar. Dia menatap Saude."
+    },
+    {
+      "id": 41,
+      "model": "이스마엘",
+      "content": "... Saude, bisakah kami mengandalkanmu untuk penjelasan lebih lanjut di sini?"
+    },
+    {
+      "id": 42,
+      "model": "뫼르소",
+      "content": "Pengarahan tersebut adalah demonstrasi yang baik mengenai perlunya edukasi mengenai prinsip '5W + 1H'."
+    },
+    {
+      "id": 43,
+      "model": "뉴소드",
+      "content": "Haha. Sepertinya kita akan memiliki *banyak* hal untuk didiskusikan begitu kita kembali, Pilot."
+    },
+    {
+      "id": 44,
+      "model": "뉴파일럿",
+      "content": "Uhh… Apa saya melakukan kesalahan?!"
+    },
+    {
+      "id": 45,
+      "model": "그레고르",
+      "content": "Sst. Sst! Pilot, kawan, sudahlah. Kamu hanya menggali lubang yang lebih dalam dengan setiap kata yang kamu ucapkan."
+    },
+    {
+      "id": 46,
+      "content": "Gregor dengan cepat mencondongkan tubuh untuk memperingatkan Pilot, tetapi sepertinya sudah terlambat. Kerutan yang hampir tidak terlihat sudah terbentuk di antara alis Saude."
+    },
+    {
+      "id": 47,
+      "model": "뉴소드",
+      "content": "... Sebelum memulai operasi prioritas tinggi ini, perlu bagi kami untuk menemukan individu dengan koneksi ke H Corp."
+    },
+    {
+      "id": 48,
+      "model": "뉴소드",
+      "content": "Jadi kami sebagai Unit Observasi Awal ditugaskan, dan... kami berhasil menjalin hubungan dengan seorang individu."
+    },
+    {
+      "id": 49,
+      "model": "홍루",
+      "content": "Ooh~ Seseorang dari keluargaku?"
+    },
+    {
+      "id": 50,
+      "model": "뉴소드",
+      "content": "Tidak. Kami sudah mencoba, tetapi keluargamu terbukti menjadi kulit kacang yang cukup sulit untuk dipecahkan. Namun, saat kami membuang waktu berharga kami dengan semua petunjuk kami, Pilot menempuh metode yang tidak konvensional untuk menjalin hubungan ini."
+    },
+    {
+      "id": 51,
+      "model": "뉴소드",
+      "content": "Saya benar-benar tidak menahan diri dalam memberikan pujian saat itu, dan begini caramu..."
+    },
+    {
+      "id": 52,
+      "model": "뉴파일럿",
+      "content": "Nnh..."
+    },
+    {
+      "id": 53,
+      "model": "뉴소드",
+      "content": "Hm. Kolaborator kita adalah mantan karyawan keluarga Jia. Setelah meninggalkan keluarga tersebut, dia sekarang menjalankan bisnis penginapan."
+    },
+    {
+      "id": 54,
+      "model": "오티스",
+      "content": "Maka kemungkinan besar dia sangat jauh dari politik keluarga; kecil kemungkinan baginya untuk menyerang kita karena perbedaan kepentingan."
+    },
+    {
+      "id": 55,
+      "model": "뉴소드",
+      "content": "Ya. Dan menurut laporan Pilot, dia masih memandang keluarga Jia secara positif."
+    },
+    {
+      "id": 56,
+      "teller": "???",
+      "title": "???",
+      "content": "Bagaimana mungkin tidak, mengingat berkah yang telah mereka berikan kepada saya?"
+    },
+    {
+      "id": 57,
+      "content": "Sebuah suara asing menyela percakapan, seolah untuk melanjutkan penjelasan Saude."
+    },
+    {
+      "id": 58,
+      "model": "경도",
+      "content": "Saya dengan rendah hati menghadirkan diri di hadapan persekutuan tuan muda Baoyu. Tolong, panggil saya Qingtao."
+    },
+    {
+      "id": 59,
+      "content": "Dia menyapa kami dengan cara yang paling sopan sebelum menyatukan tangannya dalam gerakan yang aneh."
+    },
+    {
+      "id": 60,
+      "model": "단테",
+      "content": "<... Oh, apakah begini cara orang saling menyapa di sini?>"
+    },
+    {
+      "id": 61,
+      "model": "홍루",
+      "content": "Yap, itu disebut 'gestur baoquan'. Mempertemukan kepalan tangan dan telapak tangan untuk menunjukkan rasa hormat dan kedamaian terhadap penerimanya."
+    },
+    {
+      "id": 62,
+      "model": "돈키호테",
+      "content": "Aha! Para ksatria saling menyapa dengan menjabat tangan satu sama lain untuk tujuan yang sama. Sungguh, engkau benar-benar seseorang yang memiliki jiwa ksatria!"
+    },
+    {
+      "id": 63,
+      "model": "경도",
+      "content": "Ah, benar! Banyak yang saya khawatirkan tentang kualitas orang-orang yang mengelilingi tuan muda, tetapi saya melihat bahwa dia berada di antara orang-orang yang bijaksana dalam cara-cara barat."
+    },
+    {
+      "id": 64,
+      "model": "경도",
+      "content": "Saya bersujud di hadapan luasnya pengetahuan anda! Sungguh kemurahan hati yang agung, membuka saluran air kebijaksanaan untuk memuaskan tanah yang gersang."
+    },
+    {
+      "id": 65,
+      "model": "단테",
+      "content": "<…….>"
+    },
+    {
+      "id": 66,
+      "model": "단테",
+      "content": "<... Sesuatu terasa familier tentang ini.>"
+    },
+    {
+      "id": 67,
+      "model": "로쟈",
+      "content": "Nggak, dia sudah makin jarang banyak bicara kalau sedang menjilat akhir-akhir ini... tidak seperti orang ini, jelas."
+    },
+    {
+      "id": 68,
+      "model": "단테",
+      "content": "<Itu benar. Dia agak... bagaimana aku mengatakannya, uh... agak berlebihan.>"
+    },
+    {
+      "id": 69,
+      "model": "싱클레어",
+      "content": "Apa yang kalian bicarakan...?"
+    },
+    {
+      "id": 70,
+      "model": "경도",
+      "content": "Berkumunikasi hanya dengan suara jam berdetak... ini adalah sesuatu yang sudah saya ketahui sebelumnya, namun..."
+    },
+    {
+      "id": 71,
+      "model": "경도",
+      "content": "... pemandangan pertukaran yang paling membuat penasaran untuk disaksikan secara langsung! Singkat perjalanan ini mungkin, namun saya akan mendapati diri saya terhibur sepenuhnya! Ha ha!"
+    },
+    {
+      "id": 72,
+      "model": "로쟈",
+      "content": "Mungkin taburan rasa tidak hormat yang halus itulah yang mengingatkanmu pada rasa yang biasanya..."
+    },
+    {
+      "id": 73,
+      "model": "오티스",
+      "content": "... Tunggu, apakah ini tentang saya? Anda berani...!?"
+    },
+    {
+      "id": 74,
+      "model": "뉴소드",
+      "content": "Ahem..."
+    },
+    {
+      "id": 75,
+      "content": "Apakah semua penjilatan yang dia lakukan itu dimaksudkan sebagai sumber kebanggaan baginya atau sesuatu...?"
+    },
+    {
+      "id": 76,
+      "content": "Outis menggelengkan kepalanya dengan rasa jijik yang jelas dan melangkah ke arah saya."
+    },
+    {
+      "id": 77,
+      "model": "오티스",
+      "content": "Kita tidak sama sedikit pun, Manajer Eksekutif!"
+    },
+    {
+      "id": 78,
+      "model": "오티스",
+      "content": "Saya tidak pernah sekalipun mengucapkan sanjungan kosong seperti itu di hadapan anda, yang tidak berisi apa pun selain omong kosong dan superlatif—!"
+    },
+    {
+      "id": 79,
+      "model": "뉴소드",
+      "content": "Saya akan menyerahkan panduan <ruby=Belakangan>Backstreets</ruby> ini kepadanya. Yah, sepertinya di sinilah—"
+    },
+    {
+      "id": 80,
+      "content": "Saude terdiam, matanya tertuju pada Vergilius yang berdiri agak jauh dari kami."
+    },
+    {
+      "id": 81,
+      "model": "뉴소드",
+      "content": "Jadi akhirnya saya bisa bertemu dengan <ruby=Sang Merah Netra>Red Gaze</ruby>, secara langsung. Saya sudah menantikan hari ini sejak lama."
+    },
+    {
+      "id": 82,
+      "model": "뉴소드",
+      "content": "... Effie pasti senang bisa ada di sini."
+    },
+    {
+      "id": 83,
+      "model": "뉴파일럿",
+      "content": "M-manajer..."
+    },
+    {
+      "id": 84,
+      "model": "베르길리우스",
+      "content": "……."
+    },
+    {
+      "id": 85,
+      "content": "Vergilius tampak merasakan tatapannya yang tertuju padanya, dan berjalan ke arah kami setelah mengangguk sedikit ke arahnya."
+    },
+    {
+      "id": 86,
+      "model": "베르길리우스",
+      "content": "Manajer Saude."
+    },
+    {
+      "id": 87,
+      "model": "베르길리우스",
+      "content": "Jangan membuat ini lebih lama dari yang seharusnya. Saya tidak senang membantu urusan anda—saya lebih suka melupakan hal ini sesegera mungkin."
+    },
+    {
+      "id": 88,
+      "model": "뉴소드",
+      "content": "Oh, ayolah! Ini adalah operasi kolaborasi pertama kita yang bersejarah, bukan? Tidak bisakah anda meluangkan sedikit lebih banyak waktu bersama kami~?"
+    },
+    {
+      "id": 89,
+      "model": "그레고르",
+      "content": "Pemandu itu... benar-benar melakukan sesuatu? Orang itu?"
+    },
+    {
+      "id": 90,
+      "model": "뉴소드",
+      "content": "Ya. Sayangnya, LCC memiliki urusan sendiri untuk diselesaikan hari ini, jadi saya tidak akan menemani LCB kali ini. Dan <ruby=Sang Merah Netra>Red Gaze</ruby> akan membantu kami menyelesaikannya."
+    },
+    {
+      "id": 91,
+      "model": "카론",
+      "content": "Bawa Mephi ke sana. Vroom-vroom."
+    },
+    {
+      "id": 92,
+      "model": "뉴소드",
+      "content": "Hm... mungkin tidak terlalu disayangkan, kalau dipikir-pikir. Saya merasa setiap misi dengan LCB selalu menjadi perjuangan berat untuk menyelesaikan apa pun..."
+    },
+    {
+      "id": 93,
+      "model": "로쟈",
+      "content": "Y-yah, kau tahu... saat itu, kami..."
+    },
+    {
+      "id": 94,
+      "model": "뉴소드",
+      "content": "Ha ha, bercanda kok. Saya yakin kita akan memiliki kesempatan lain untuk bekerja sama lagi."
+    },
+    {
+      "id": 95,
+      "model": "뉴파일럿",
+      "content": "Bos, kita tidak punya banyak waktu...!"
+    },
+    {
+      "id": 96,
+      "model": "이스마엘",
+      "content": "Tunggu, sebelum kalian pergi... kurasa kau berhutang penjelasan pada kami, Vergilius."
+    },
+    {
+      "id": 97,
+      "model": "베르길리우스",
+      "content": "... Saya akan menyerahkan detailnya kepada Nona Faust. Saya cukup sibuk."
+    },
+    {
+      "id": 98,
+      "model": "파우스트",
+      "content": "Baiklah."
+    },
+    {
+      "id": 99,
+      "content": "Vergilius berbalik dan pergi menuju Mephistopheles dengan ekspresi yang agak tidak senang."
+    },
+    {
+      "id": 100,
+      "model": "뉴소드",
+      "content": "Oke kalau begitu. Sampai jumpa."
+    },
+    {
+      "id": 101,
+      "model": "뉴파일럿",
+      "content": "L-lain kali, aku akan tunjukkan pada kalian! Aku akan tunjukkan bahwa aku bisa memikul tanggung jawabku sendiri!"
+    },
+    {
+      "id": 102,
+      "model": "뉴파일럿",
+      "content": "K-kau tahu, ya ampun, terakhir kali kita bertemu aku benar-benar sangat menyedihkan..."
+    },
+    {
+      "id": 103,
+      "model": "뉴소드",
+      "content": "Pilot. Kompetensi ditunjukkan melalui tindakan, bukan kata-kata."
+    },
+    {
+      "id": 104,
+      "content": "Saude dan Pilot mengangguk ringan kepada kami sebelum mengikuti Vergilius."
+    },
+    {
+      "id": 105,
+      "content": "Beberapa <ruby=Pendosa>Sinners</ruby> membuka mulut mereka untuk berbicara, ragu-ragu, lalu menutupnya lagi. Kami membiarkan mereka pergi tanpa sepatah kata pun."
+    },
+    {
+      "id": 106,
+      "content": "Mungkin kami tidak tahu apa yang bisa kami katakan agar perpisahan ini tidak terasa canggung."
+    },
+    {
+      "id": 107,
+      "model": "경도",
+      "content": "Baiklah. Silakan, lewat sini."
+    },
+    {
+      "id": 108,
+      "content": "Atau mungkin kami hanya sadar akan orang ini yang bertanggung jawab atas kualitas masa tinggal kami."
+    }
+  ]
+}

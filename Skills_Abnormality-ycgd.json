@@ -1,0 +1,477 @@
+{
+  "dataList": [
+    {
+      "id": 815101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Terjun",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Combustion] dan +2 [Combustion] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tebasan Ekor",
+          "desc": "[WinDuel] Jika target memiliki [Combustion], Base Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Combustion] dan +2 [Combustion] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hembusan Nafas",
+          "desc": "[WhenUse] Jika target memiliki 5+ [Combustion], Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Combustion] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 [CrimsonTakeDamageUp] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 8 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 [CrimsonTakeDamageUp] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Counter",
+          "desc": "[WhenUse] Jika target memiliki 5+ [Combustion], Coin Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [AttackDmgUp_Weak] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Melompat Masuk",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Sinking] dan +2 Count [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Sinking] dan +2 Count [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mematahkan",
+          "desc": "[WinDuel] Jika target memiliki [Sinking], Base Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Sinking] dan +3 Count [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bom Air",
+          "desc": "[WhenUse] Jika target memiliki 5+ [Sinking], Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 8 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 2 [AzureTakeDamageUp] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Menghindar",
+          "desc": "[OnSucceedEvade] Beri 2 [Sinking]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tarikan dari Pedang",
+          "desc": "[WhenUse] Peroleh 2 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Paralyzer",
+          "desc": "[WhenUse] Peroleh 2 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [AttackDmgUp] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Paralysis] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Paralysis] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Slay",
+          "desc": "[WinDuel] Peroleh +1 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [Breath] dan +1 Count [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [SlashDamageUp] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [SlashResistDown] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Menggulingkan",
+          "desc": "[WinDuel] Peroleh +3 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 3 [Breath] dan +1 Count [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [SlashDamageUp] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [SlashResistDown]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Paralysis] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri +3 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Untuk Ambil Tulang Mereka",
+          "desc": "[StartBattle] Peroleh 50 Perisai\n[WhenUse] Jika Perisai isn't fully depleted, Clash Power +5",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [SlashResistDown]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+100% Damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 [Laceration] dan +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika Perisai isn't fully depleted, divide [Grudge] value sebanyak Atk Weight dan beri it as damage tetap."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815306,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Menghindar",
+          "desc": "[OnSucceedEvade] Peroleh 4 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815307,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ambil Dagingku",
+          "desc": "Peroleh X [Grudge] giliran berikutnya (X = Damage dealt sebanyak Skill that diaktifkan the Counter Skill)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Untuk Ambil Tulang Mereka",
+          "desc": "[StartBattle] Peroleh 200 Perisai\n[WhenUse] Peroleh +3 Count [Breath]\n[WhenUse] Jika Perisai isn't fully depleted, Clash Power +10",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [SlashResistDown]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+100% Damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Paralysis] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 [Laceration] dan +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika Perisai isn't fully depleted, divide [Grudge] value sebanyak Atk Weight dan beri it as damage tetap."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815408,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tarian Pedang",
+          "desc": "[EnemyKill] Peroleh 3 [AttackUp] dan 3 [DefenseUp] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815409,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Untuk Ambil Tulang Mereka",
+          "desc": "[CantChangeTarget]\nPrioritaskan unit dengan HP paling sedikit\n[EnemyKill] Double the [Grudge] value.\n[EnemyKill] Pulihkan HP setara dengan [Grudge] value",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri damage tetap setara dengan [Grudge] value."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

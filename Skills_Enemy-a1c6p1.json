@@ -1,0 +1,1631 @@
+{
+    "dataList": [
+        {
+            "id": 9011401,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Oi, Oi",
+                    "desc": "[WhenUse] Coin Power +1 terhadap target dengan [Paralysis]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 5 [Vibration] dan +2 Count [Vibration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011402,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "This'll Sting!",
+                    "desc": "[WhenUse] Coin Power +1 terhadap target dengan [Vibration]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 5 [Vibration] dan +1 Count [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 [Paralysis] giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011403,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Found a Gap!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]"
+                                },
+                                {
+                                    "desc": "If the target is Staggered by [VibrationExplosion], reuse Coin"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011501,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Don't You Stop Now",
+                    "desc": "[WhenUse] Coin Power +1 terhadap target dengan [Paralysis]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [Vibration] dan +4 Count [Vibration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011502,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Dizzy, Eh?!",
+                    "desc": "[WhenUse] Coin Power +1 terhadap target dengan [Vibration]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [Vibration] dan +3 Count [Vibration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [Paralysis] giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011503,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "The Topsy-Turvy!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]"
+                                },
+                                {
+                                    "desc": "If the target is Staggered by [VibrationExplosion], reuse Coin"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "H-hurt",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "...Brea...",
+                    "desc": "[WhenUse] Jika target memiliki 3+ [Burst] Potency, Base Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 [DefenseDown]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 [DefenseDown]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011603,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Weakness...",
+                    "desc": "[WhenUse] Jika target memiliki [Burst], Base Power +1 untuk setiap 3 [Burst] Potency pada target (maks 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 6 [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 4 [DefenseDown]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 2 [Paralysis] giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011604,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Berta...",
+                    "desc": "Jika unit ini memiliki sisa Perisai HP pada Akhir Giliran, peroleh 1 [AttackUp] giliran berikutnya",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Exten...",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +3 [Burst] Count"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "A-armor Br-",
+                    "desc": "[WhenUse] Jika target memiliki 3+ [Burst] Count, Base Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 [AttackDown]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 [AttackDown]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011703,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Cut You...",
+                    "desc": "[WhenUse] Jika target memiliki [Burst], Base Power +1 untuk setiap 2 [Burst] Count pada target (maks 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +4 [Burst] Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 4 [AttackDown]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 2 [Paralysis] giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "...rd...",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Jika unit ini memiliki sisa Perisai HP pada Akhir Giliran, peroleh 1 [AttackUp] giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Taking Ca...",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 4 [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Remo...ve...",
+                    "desc": "[WhenUse] Jika target memiliki 3+ [Burst] Potency, Base Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [DefenseDown]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [DefenseDown]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 6 [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011803,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hold... Them Ba...",
+                    "desc": "[WhenUse] Beri 3 SP damage\n[WhenUse] Jika target memiliki [Burst], Base Power +1 untuk setiap 4 [Burst] Potency pada target (maks 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 6 [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 6 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 [DefenseDown]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 [Paralysis] giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Cou...",
+                    "desc": "Jika target memiliki [Burst], Final Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "M...ove",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +3 [Burst] Count"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Cepat... Out of My...",
+                    "desc": "[WhenUse] Jika target memiliki 3+ [Burst] Count, Base Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [AttackDown]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +3 [Burst] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [AttackDown]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 6 [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011903,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Break...through",
+                    "desc": "[WhenUse] Beri 3 SP damage\n[WhenUse] Jika target memiliki [Burst], Base Power +1 untuk setiap 3 [Burst] Count pada target (maks 3)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +4 [Burst] Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 8 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 [AttackDown]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 [Paralysis] giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "...nter...",
+                    "desc": "Jika target memiliki [Burst], Final Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Defense Nullification Technique",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [DefenseDown] giliran berikutnya"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 1 [DefenseDown] giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Grasping Vulnerabilities",
+                    "desc": "[WhenUse] Jika Speed Unit ini lebih cepat daripada target, pulihkan 3 SP pada diri sendiri",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [Binding] giliran berikutnya"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 1 [Vulnerable]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [DefenseDown] giliran berikutnya"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 1 [Vulnerable] giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Armor Fracture",
+                    "desc": "[WhenUse] Jika Speed Unit ini lebih cepat daripada target, beri 1 [SlashResistDown]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 [Vulnerable]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [DefenseDown] giliran berikutnya"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [DefenseDown] giliran berikutnya"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 1 [Vulnerable] giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Menghindar",
+                    "desc": "[OnSucceedEvade] Pulihkan 3 SP pada diri sendiri",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Counterattack",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [AttackDown] giliran berikutnya"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 1 [AttackDown] giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Neutralization Technique",
+                    "desc": "[WhenUse] Jika Speed Unit ini lebih cepat daripada target, pulihkan 3 SP pada diri sendiri",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [Binding] giliran berikutnya"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 2 [Paralysis]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [AttackDown] giliran berikutnya"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 2 [Paralysis] giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Immobilisation",
+                    "desc": "[WhenUse] Jika Speed Unit ini lebih cepat daripada target, beri 1 [SlashResistDown]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [Paralysis]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [AttackDown] giliran berikutnya"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [AttackDown] giliran berikutnya"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 2 [Paralysis] giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Menghindar",
+                    "desc": "[OnSucceedEvade] Pulihkan 3 SP pada diri sendiri",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Parrying",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [AttackDown] giliran berikutnya"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 2 [DefenseDown] giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Suppression",
+                    "desc": "[WhenUse] Jika Speed Unit ini lebih cepat daripada target, pulihkan 5 SP pada diri sendiri",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Peroleh 2 [Agility] giliran berikutnya"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [Paralysis]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [DefenseDown] giliran berikutnya"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [Paralysis] giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Restraining Technique",
+                    "desc": "[WhenUse] Jika Speed Unit ini lebih cepat daripada target, beri 2 [SlashResistDown]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [Vulnerable]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 3 [DefenseDown]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [AttackDown] giliran berikutnya"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [DefenseDown] giliran berikutnya"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Peroleh 3 [Agility] giliran berikutnya"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [SlashResistDown] giliran berikutnya"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [Paralysis] giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Housekeeping",
+                    "desc": "[WhenUse] Jika Speed Unit ini lebih cepat daripada target, Clash Power +3",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 15 [Laceration] dan +3 [Laceration] Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [Paralysis] giliran berikutnya"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Jika Speed Unit ini lebih cepat daripada target sebanyak 3 atau lebih, gunakan ulang Skill ini (sekali)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012205,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Menghindar",
+                    "desc": "[OnSucceedEvade] Pulihkan 5 SP pada diri sendiri",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Ratcatching",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 1 [Binding] giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Twisting",
+                    "desc": "[WinDuel] If the target's HP is pada 100%, beri +30% damage\n[DefeatDuel] Peroleh 3 [DefenseDown]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri +2 [Laceration] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Jika target memiliki 5+ [Laceration] Potency, beri 1 [Paralysis] giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Exacerbate Wound",
+                    "desc": "[WinDuel] Peroleh 1 [SlashResultUp]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 6 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 2 [Binding] giliran berikutnya"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Jika target memiliki 7+ [Laceration] Potency, beri 20% damage yang diberikan sebagai bonus damage"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Jika target memiliki 7+ [Laceration] Potency, beri 20% damage yang diberikan sebagai bonus damage"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012304,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Menghindar",
+                    "desc": "[OnSucceedEvade] Pulihkan 3 SP pada diri sendiri",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012403,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Nerve Mutilation",
+                    "desc": "[WinDuel] Peroleh 1 [SlashResultUp]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 6 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 2 [Paralysis] giliran berikutnya"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Jika target memiliki 7+ [Laceration] Potency, beri 20% damage yang diberikan sebagai bonus damage"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Jika target memiliki 7+ [Laceration] Potency, beri 20% damage yang diberikan sebagai bonus damage"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012501,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Rat Hunt",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 5 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [Binding] giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012502,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Rat Herding",
+                    "desc": "[WinDuel] If the target's HP is pada 80%+, beri +50% damage\n[DefeatDuel] Peroleh 2 [DefenseDown]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri +2 [Laceration] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Jika target memiliki 5+ [Laceration] Potency, beri 20% damage yang diberikan sebagai bonus damage"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012503,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Interloper Banishment",
+                    "desc": "[WhenUse] Jika unit ini's Speed is faster than target's sebanyak 3 atau lebih, gunakan ulang Skill ini (sekali)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 10 [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 1 [Vulnerable]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Raise target's Batas Stagger by value setara dengan [Laceration] pada target"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 2 [Paralysis] giliran berikutnya"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Jika target memiliki 12+ [Laceration], beri 3 [AttackDown]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Jika target memiliki 15+ [Laceration] Potency, beri 2 [Vulnerable] giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012504,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Box Conferment",
+                    "desc": "[WhenUse] Jika Speed Unit ini lebih cepat daripada target sebanyak 3 atau lebih, Clash Power +2\n[WinDuel] Pulihkan 10 SP pada diri sendiri",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 [DefenseDown]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 10 [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 10 [Combustion]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012505,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Menghindar",
+                    "desc": "[OnSucceedEvade] Pulihkan 5 SP pada diri sendiri",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Housekeeping Start",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 4 [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 4 [Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 1 [Binding] giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Interloper Reception",
+                    "desc": "[WinDuel] Peroleh 1 [PlusCoinValueUp]\n[DefeatDuel] Peroleh 3 [Sinking]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 8 [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +3 Count [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012603,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Reception Arts 2: Bind",
+                    "desc": "[WhenUse] Base Power +1 untuk setiap 5 [Sinking] Potency pada target (maks 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 [Binding] giliran berikutnya"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [DefenseDown]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 [Binding] giliran berikutnya"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [DefenseDown]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Jika target memiliki 8+ [Sinking] Potency, Gunakan ulang this Coin (maks 1 kali)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 4 [DefenseDown] 4 dan 1 [Vulnerable]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012604,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Bertahan",
+                    "desc": "Jika Unit ini memiliki Perisai HP pada Akhir Giliran, lower Stagger threshold by 10\nIf unit ini's Perisai HP is depleted, the last attacker memulihkan 10 SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Commence Housekeeping",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 4 [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 4 [Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 1 [Paralysis] giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Interloper Response",
+                    "desc": "[WinDuel] Peroleh 1 [PlusCoinValueUp]\n[DefeatDuel] Peroleh 3 [Sinking]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +3 Count [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +3 Count [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012703,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Reception Arts 2: Topple",
+                    "desc": "Base Power +1 untuk setiap 5 [Sinking] Potency pada target (maks 2)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 [Paralysis] giliran berikutnya"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [AttackDown]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 [Paralysis] giliran berikutnya"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [AttackDown]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Jika target memiliki 4+ Count [Sinking], Gunakan ulang this Coin (maks 1 kali)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 4 [AttackDown] dan 1 [Paralysis] giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9012704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Bertahan",
+                    "desc": "Jika Unit ini memiliki Perisai HP pada Akhir Giliran, lower Stagger threshold by 10\nIf unit ini's Perisai HP is depleted, the last attacker memulihkan 10 SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101401,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Knocking",
+                    "desc": "[WhenUse] Jika target memiliki 5+ [Sinking] Potency, beri 1 [AttackDown]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 4 [Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 [Binding] giliran berikutnya"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 4 [Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 [Paralysis] giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101402,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Time tuk bebersi!",
+                    "desc": "[WhenUse] Jika target memiliki 10 atau kurang SP, beri 2 [AttackDown]\n[WinDuel] Beri 1 [Vulnerable]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 Plus Coin Drop giliran berikutnya"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +3 Count [Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [Vulnerable] giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101403,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "As Mistress Commands...!",
+                    "desc": "[WhenUse] Base Power +1 untuk setiap 3 [Sinking] Potency pada target (maks 3)\n[WinDuel] Semua kawan pulihkan 5 SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 8 [Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri +2 Count [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 8 [Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri +2 Count [Sinking]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [EchoOfMansion] giliran berikutnya"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 8 [Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri +2 Count [Sinking]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101404,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Not Even a Speck Debu!",
+                    "desc": "[StartBattle] Beri 3 [AttackUp] dan pulihkan 15 SP for semua kawan, termasuk unit ini\n[StartBattle] Beri 1 [Vulnerable] ke kawan lainnya",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri Gloom Affinity bonus damage setara dengan [Sinking] Potency pada target. Kurangi Count [Sinking] pada target sebanyak 1"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri Gloom Affinity bonus damage setara dengan [Sinking] Potency pada target. Kurangi Count [Sinking] pada target sebanyak 1"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri Gloom Affinity bonus damage setara dengan [Sinking] Potency pada target. Kurangi Count [Sinking] pada target sebanyak 1"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 4 [Sinking]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Jika target memiliki 3+ Count [Sinking], Gunakan ulang this Coin (dua kali)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101405,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Slippery Rat!",
+                    "desc": "Jika Unit ini memiliki Perisai HP pada Akhir Giliran, lower Stagger threshold by 50\nIf unit ini's Perisai HP is depleted, all enemies pulihkan 10 SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9011404,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Bertahan",
+                    "desc": "",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        }
+    ]
+}

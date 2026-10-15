@@ -1,0 +1,120 @@
+{
+    "dataList": [
+        {
+            "id": 9008801,
+            "name": "Ineffable Shape",
+            "desc": "Ketika killed in combat, beri 10 SP damage ke unit that attacked it last"
+        },
+        {
+            "id": 9008901,
+            "name": "Pallidification",
+            "desc": "Peroleh 2 Level Offense dan Defense Level untuk setiap living Pallidified kawan (not counting unit ini)"
+        },
+        {
+            "id": 9008902,
+            "name": "Crashing Filth",
+            "desc": "Pada 10% dari Maks HP, beri 20 SP damage Saat Menyerang, beri 1 Pallid Noise giliran berikutnya, lalu mati."
+        },
+        {
+            "id": 9008903,
+            "name": "Spreading Flames",
+            "desc": "Jika terdapat surviving Pallidified kawan pada Akhir Giliran, semua musuh dengan 20 atau lebih SP kehilangan 1 SP untuk setiap surviving Pallidified kawan (not counting unit ini)"
+        },
+        {
+            "id": 9009001,
+            "name": "Spreading Flames",
+            "desc": "Jika terdapat surviving Pallidified kawan pada Akhir Giliran, semua musuh dengan 20 atau lebih SP kehilangan 1 SP untuk setiap surviving Pallidified kawan (not counting unit ini)"
+        },
+        {
+            "id": 9009101,
+            "name": "Healing Kebencian",
+            "desc": "Jika terdapat surviving Pallidified kawan pada Akhir Giliran, semua other Pallidified kawan pulihkan (# of other Pallidified kawan * 3) HP"
+        },
+        {
+            "id": 9009201,
+            "name": "Cumulating Organic Material",
+            "desc": "Defense Level +1 untuk setiap kawan yang bertahan hidup (not counting unit ini)"
+        },
+        {
+            "id": 9009202,
+            "name": "Disintegrating Inorganic Material",
+            "desc": "Peroleh 1 Fragile giliran berikutnya jika kawan mati"
+        },
+        {
+            "id": 9009301,
+            "name": "Intertwined Organic Material",
+            "desc": "Level Offense +1 untuk setiap kawan yang bertahan hidup (not counting unit ini)"
+        },
+        {
+            "id": 9009302,
+            "name": "Scattered Inorganic Material",
+            "desc": "Peroleh 1 Attack Power Down giliran berikutnya jika kawan mati"
+        },
+        {
+            "id": 9009401,
+            "name": "Organic Breathing",
+            "desc": "Jika unit ini dealt the final blow, beri 5 Poise untuk semua Pallidified kawan. Beri 1 Poise Count"
+        },
+        {
+            "id": 9009501,
+            "name": "Organic Hardening",
+            "desc": "Jika unit ini dealt the final blow, beri 1 Protection dan 2 Defense Level Up ke semua kawan."
+        },
+        {
+            "id": 9009601,
+            "name": "Tato Pembalasan",
+            "desc": "Every time a Middle kawan terbunuh in this encounter, peroleh 1 Level Offense Up (Maks 5)"
+        },
+        {
+            "id": 9009602,
+            "name": "Little Pembalasan",
+            "desc": "Upon Kalah Clash, peroleh 1 Minus Coin Boost giliran berikutnya (2 kali per giliran)"
+        },
+        {
+            "id": 9009603,
+            "name": "Multifold Retribution",
+            "desc": "Use \"Multifold Retribution' at 20% atau kurang HP. (Once per wave)"
+        },
+        {
+            "id": 9009604,
+            "name": "Chains of Loyalty",
+            "desc": "Ketika a Middle kawan terbunuh, peroleh 1 Plus Coin Boost giliran berikutnya."
+        },
+        {
+            "id": 809901,
+            "name": "The Big Brother",
+            "desc": "Semua kawan pulihkan 10 SP pada Awal Giliran",
+            "summary": ""
+        },
+        {
+            "id": 809902,
+            "name": "Chains of Loyalty",
+            "desc": "Ketika kawan dari the Middle terbunuh, peroleh 1 Plus Coin Boost giliran berikutnya. (Maks 2)",
+            "summary": ""
+        },
+        {
+            "id": 809903,
+            "name": "Domineer",
+            "desc": "Jika musuh that attacked unit ini gagal untuk beri lebih dari 12 HP damage dengan their Skill, musuh kehilangan 10 SP",
+            "summary": ""
+        },
+        {
+            "id": 809904,
+            "name": "Brush it Off",
+            "desc": "Ketika in panic, pulih dari panic saat dimulainya giliran berikutnya dan reset SP ke 0.",
+            "summary": ""
+        },
+        {
+            "id": 809905,
+            "name": "In the World of Bristly",
+            "desc": "Peroleh 6 Defense Level Down giliran berikutnya setelah kalah Clash 3 kali",
+            "summary": ""
+        },
+        {
+            "id": 9008904,
+            "name": "",
+            "desc": "Mulai encounter dengan -20 SP.",
+            "summary": ""
+        }
+    ]
+}

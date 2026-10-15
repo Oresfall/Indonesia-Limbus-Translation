@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": "956801_1_1",
+      "content": "<color=#ebcaa2>Semua kawan memulihkan semua HP dan SP</color>"
+    },
+    {
+      "id": "956801_2_1",
+      "content": "Pada Pertarungan ini, <color=#ebcaa2>semua kawan</color> peroleh {0}"
+    },
+    {
+      "id": "956801_3_1",
+      "content": "Peroleh {0} E.G.O resource untuk semua Afinitas"
+    },
+    {
+      "id": "956401_1",
+      "content": "Di dalam Pertarungan terhadap Butterfly of Entangled Lives::Imago di Section 5, batalkan efek pertama dari Pasif \"Masa Lalu\":\n\"Ketika diserang oleh Sinner, Butterfly of Entangled Lives memberi Burn dan Burn Count pada Sinner yang dimaksud\""
+    },
+    {
+      "id": "956401_2",
+      "content": "Di dalam Pertarungan terhadap Butterfly of Entangled Lives::Imago di Section 5, nonaktifkan efek kedua dari Pasif \"Masa Lalu\":\n\"Skill khusus 'Kalpāgni' Butterfly of Entangled Lives 'Di Masa Lalu' peroleh Final Power dan Coin terakhirnya memberi SP damage Saat Menyerang\""
+    },
+    {
+      "id": "956401_3",
+      "content": "Di dalam Pertarungan terhadap Butterfly of Entangled Lives::Imago di Section 5, nonaktifkan efek ketiga dari Pasif \"Masa Lalu\":\n\"Butterfly of Entangled Lives memberi HP Healing Down dan Wrath Fragility pada para Sinner yang memiliki Burn yang cukup\""
+    },
+    {
+      "id": "956501_1",
+      "content": "Di dalam Pertarungan terhadap Butterfly of Entangled Lives::Imago di Section 5, nonaktifkan efek pertama dari Pasif \"Masa Kini\":\n\"Ketika Butterfly of Entangled Lives menyerang secara Critical, tidak akan kehilangan Poise Count; peroleh jumlah besar dari Potency Poise dan Count pada Awal Giliran\""
+    },
+    {
+      "id": "956501_2",
+      "content": "Di dalam Pertarungan terhadap Butterfly of Entangled Lives::Imago di Section 5, nonaktifkan efek kedua dari Pasif \"Masa Kini\":\n\"Skill khusus 'Hukuman Orang Jahat' Butterfly of Entangled Lives 'Di Masa Kini' peroleh Final Power dan Coin terakhirnya menaikkan Batas Stagger Saat Menyerang\""
+    },
+    {
+      "id": "956501_3",
+      "content": "Di dalam Pertarungan terhadap Butterfly of Entangled Lives::Imago di Section 5, nonaktifkan efek ketiga dari Pasif \"Masa Kini\":\n\"Butterfly of Entangled Lives memberi damage lebih pada Serangan Critical berdasarkan Potency Poise dan Count-nya\""
+    },
+    {
+      "id": "956601_1",
+      "content": "Di dalam Pertarungan terhadap Butterfly of Entangled Lives::Imago di Section 5, batalkan efek pertama dari Pasif \"Masa Depan\":\n\"Mulai Giliran: para Sinner peroleh Bleed Count\""
+    },
+    {
+      "id": "956601_2",
+      "content": "Di dalam Pertarungan terhadap Butterfly of Entangled Lives::Imago di Section 5, nonaktifkan efek kedua dari Pasif \"Masa Depan\": \n\"Skill eksklusif 'Bunga Darah' Butterfly of Entangled Lives 'Di Masa Depan' peroleh Final Power; Saat Menyerang, Coin terakhirnya memulihkan HP pada diri sendiri\""
+    },
+    {
+      "id": "956601_3",
+      "content": "Di dalam Pertarungan terhadap Butterfly of Entangled Lives::Imago di Section 5, nonaktifkan efek ketiga dari Pasif \"Masa Depan\":\n\"Butterfly of Entangled Lives memulihkan HP tiap kali Bleed diaktifkan pada dirinya ataupun pada Sinner\""
+    },
+    {
+      "id": "955601_1_1",
+      "content": "[Semua musuh dan kawan memperoleh efek positif berikut selama Section ini]"
+    },
+    {
+      "id": "955601_1_2",
+      "content": "- Peroleh +50% maks HP (maks 200; mengecualikan Peccatula Invidiae)"
+    },
+    {
+      "id": "955601_1_3",
+      "content": "- Hilangkan Batas Stagger pertama"
+    },
+    {
+      "id": "955601_2_1",
+      "content": "[Semua musuh dan kawan memperoleh efek positif berikut selama Section ini]"
+    },
+    {
+      "id": "955601_2_2",
+      "content": "- Mulai Giliran: Peroleh 1 Level Offense Up untuk setiap unit kawan (termasuk diri sendiri) di faksi yang sama dengan diri sendiri (maks 4)"
+    },
+    {
+      "id": "955101_1_1",
+      "content": "[Semua musuh dan kawan memperoleh efek positif berikut selama Section ini]"
+    },
+    {
+      "id": "955101_1_2",
+      "content": "- Peroleh +50% maks HP (maks 200; mengecualikan Peccatula Invidiae)"
+    },
+    {
+      "id": "955101_1_3",
+      "content": "- Ketika diserang oleh Unbreakable Coin, terima -20% damage"
+    },
+    {
+      "id": "955101_2_1",
+      "content": "[Semua musuh dan kawan memperoleh efek positif berikut selama Section ini]"
+    },
+    {
+      "id": "955101_2_2",
+      "content": "- Peroleh 1 Stack dari status acak, dipilih dari Slash DMG Naik, Pierce DMG Naik, dan Blunt DMG Naik. Ketika menggunakan E.G.O Skill dari Tipe Serangan yang sesuai, beri +50% damage"
+    },
+    {
+      "id": "955101_2_3",
+      "content": "- Saat Serang dengan Unbreakable Coin, beri +20% damage"
+    },
+    {
+      "id": "956701_1_1",
+      "content": "[Semua kawan memperoleh efek positif berikut selama Section ini]"
+    },
+    {
+      "id": "956701_1_2",
+      "content": "- Peroleh +50% maks HP (maks 200; mengecualikan Peccatula Invidiae)"
+    },
+    {
+      "id": "956701_1_3",
+      "content": "- Hilangkan Batas Stagger pertama"
+    },
+    {
+      "id": "956701_1_4",
+      "content": "- Akhir Giliran: 4 kawan yang memiliki SP terendah memulihkan 4 SP (sekali per giliran; mengecualikan unit di bawah efek yang menahan pemulihan SP)"
+    },
+    {
+      "id": "956701_2_1",
+      "content": "[Semua kawan memperoleh efek positif berikut selama Section ini]"
+    },
+    {
+      "id": "956701_2_2",
+      "content": "- Mulai Giliran: Peroleh 1 Level Offense Up untuk setiap kawan yang kalah di Pertarungan ini (maks 6)"
+    },
+    {
+      "id": "956701_2_3",
+      "content": "- Awal Pertarungan: Pada A-Reson., Skill yang merupakan bagian dari A-Reson. tersebut beri +20% damage"
+    }
+  ]
+}

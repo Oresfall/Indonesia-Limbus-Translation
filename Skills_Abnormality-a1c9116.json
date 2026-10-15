@@ -1,0 +1,249 @@
+{
+    "dataList": [
+        {
+            "id": 112701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "No More Tests",
+                    "desc": "[WhenUse] Peroleh 3 [HitDamageUp] giliran berikutnya\n[WhenUse] Jika target utama memiliki 3+ [MiddleFingerBook], ubah semua Coin pada Skill ini menjadi [SuperCoin]",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 [Binding] giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Promised Suffering",
+                    "desc": "Prioritaskan target dengan the highest [MiddleFingerBook] Stack\n[WhenUse] Jika target memiliki 3+ [MiddleFingerBook], ubah semua Coin pada Skill ini menjadi [SuperCoin]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 [Vulnerable] giliran ini dan giliran berikutnya"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 [Vulnerable] giliran ini dan giliran berikutnya"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri ([MiddleFingerBook] pada target x 3) Blunt bonus damage"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Hapus semua [MiddleFingerBook] pada target"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112703,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Enough games",
+                    "desc": "[StartBattle] Pulihkan semua kawan' SP sebanyak 10\n[EndBattle] Jika terdapat Panicked kawan, pulih them dari Panik pada Awal Giliran berikutnya dan reset their SP ke 0\n[EndBattle] Beri 1 [HitResultUp] ke semua kawan, termasuk unit ini",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "COMPLETE AND TOTAL EXTERMINATION!!!",
+                    "desc": "Dapat Clash dengan Skill ini tanpa peduli dengan Speed\nJika target utama memiliki 5+ [MiddleFingerBook], Final Power +5\n[EndSkill] Hapus [MiddleFingerBook] dari semua target that were hit",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri ([MiddleFingerBook] pada target x 10) Blunt bonus damage"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Startling Strike",
+                    "desc": "[WhenUse] Jika target memiliki 5+ [Burst], Clash Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Perforating Kill",
+                    "desc": "[WhenUse] Jika target memiliki 5+ [Burst], Clash Power +1\n[WhenUse] Peroleh 3 [LegStrength]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Jika target memiliki [BurstAgility], peroleh 1 [Agility] giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112603,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Etching Strike",
+                    "desc": "[WhenUse] Jika target memiliki 5+ [Burst], Coin Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri [BurstAgility]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112604,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Cursewrit Butcherblade - Blinkstep",
+                    "desc": "Prioritaskan target dengan [BurstAgility]\nBeri +15% damage untuk setiap 2 perbedaan Speed antara unit ini dan target (maks 60%)\n[WhenUse] Coin Power +1 untuk setiap 5 [Burst] pada target (maks 2)\n[WhenUse] Base Power +1 untuk setiap 2 [Burst] Count pada target (maks 3)\n[EndSkill] Pada 10+ Speed, dan jika target dikalahkan, Gunakan ulang Skill ini terhadap a musuh acak (sekali per giliran)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +3 [Burst] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 5 [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Jika target memiliki [BurstAgility], beri +50% damage"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 5 [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112605,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Cursewrit",
+                    "desc": "[DuelCounter]\n[WhenUse] Jika target memiliki [BurstAgility], beri +1 lebih [Burst] Count dengan Skill ini",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +1 [Burst] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +1 [Burst] Count"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

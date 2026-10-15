@@ -1,0 +1,28 @@
+{
+    "dataList": [
+        {
+            "id": 9009801,
+            "name": "Suppressed Pallidification",
+            "desc": "Pada Awal Giliran, peroleh Level Offense dan Defense Level sebanyak jumlah dari kawan yang hidup (not termasuk unit ini)",
+            "summary": ""
+        },
+        {
+            "id": 9009802,
+            "name": "Captain's Orders",
+            "desc": "Pada Awal Giliran, pulihkan SP sebanyak (# of other kawan yang hidup x 3)",
+            "summary": ""
+        },
+        {
+            "id": 9009803,
+            "name": "Injected Hatred dan Animosity",
+            "desc": "Akhir Giliran: Pada 50%- HP, peroleh 1 Attack Power Up giliran berikutnya. (sekali per encounter)",
+            "summary": ""
+        },
+        {
+            "id": 9009804,
+            "name": "Crashing Pallidification",
+            "desc": "Akhir Giliran: Pada kurang dari 0 SP, 50% chance to ubah Skill patterns.",
+            "summary": ""
+        }
+    ]
+}

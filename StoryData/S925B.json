@@ -1,0 +1,484 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Lorong Tim Riset LCE",
+      "model": "단테",
+      "content": "<Masih ga ada sinyal?>"
+    },
+    {
+      "id": 1,
+      "model": "그레고르",
+      "content": "... Masih tidak ada. Kita tidak bisa hubungi kabar lainnya..."
+    },
+    {
+      "id": 2,
+      "model": "그레고르",
+      "content": "Tapi yah, aku tidak akan berasumsi buruk... Tidak ada kabar berarti kabar baik, kan?"
+    },
+    {
+      "id": 3,
+      "model": "이상",
+      "content": "Nona Alyssa... terus menghantuiku. Seandainya kita menemukan solusinya sebelum spiral itu semakin dalam..."
+    },
+    {
+      "id": 4,
+      "model": "검지제자2",
+      "content": "Spiral...?"
+    },
+    {
+      "id": 5,
+      "model": "검지제자2",
+      "content": "Oh, Senjata buatan bengkel ya? Yang butuh password buat dibuka!"
+    },
+    {
+      "id": 6,
+      "model": "이상",
+      "content": "Betul... Senjata yang merepotkan."
+    },
+    {
+      "id": 7,
+      "model": "검지제자2",
+      "content": "Uhm... Aku... Aku tahu prinsip dasarnya, tapi satu-satunya orang yang tahu password-nya adalah pelaku yang menikam korban... T-tapi aku akan berusaha untuk menyelidikinya!"
+    },
+    {
+      "id": 8,
+      "model": "이상",
+      "content": "……."
+    },
+    {
+      "id": 9,
+      "model": "료슈",
+      "content": "……."
+    },
+    {
+      "id": 10,
+      "model": "그레고르",
+      "content": "Oh, itu akan sangat membantu. Jadi, Sora... kamu tertarik dengan perlengkapan Workshop, ya?"
+    },
+    {
+      "id": 11,
+      "model": "검지제자2",
+      "content": "Iya! Udah jadi minatku sejak lama. Mungkin itu alasan satu-satunya aku diterima di sini."
+    },
+    {
+      "id": 12,
+      "model": "라비",
+      "content": "Hmm...? Terus kamu ngapain di LCE? Bukannya harusnya kamu di L—"
+    },
+    {
+      "id": 13,
+      "model": "료슈",
+      "content": "Hey. Bocah."
+    },
+    {
+      "id": 14,
+      "model": "라비",
+      "content": "Ya?"
+    },
+    {
+      "id": 15,
+      "model": "료슈",
+      "content": "Kamu menghalangiku. Minggir sana, cepat."
+    },
+    {
+      "id": 16,
+      "model": "라비",
+      "content": "Ah—maaf."
+    },
+    {
+      "id": 17,
+      "model": "단테",
+      "content": "<…?>"
+    },
+    {
+      "id": 18,
+      "content": "Mendengar perintah kasar Ryoshu, Ravi mundur dengan canggung, ekspresinya sedikit berubah malu."
+    },
+    {
+      "id": 19,
+      "content": "Normalnya sih Gregor sama Yi Sang akan menegur Ryoshu karena bersikap tidak sopan ke orang yang baru kita temui, tapi karena keadaannya begini..."
+    },
+    {
+      "id": 20,
+      "content": "Mereka cuma melihat Ravi mundur selangkah dengan santai ke tempatnya."
+    },
+    {
+      "id": 21,
+      "model": "그레고르",
+      "content": "Baiklah, Sora, gimana kalau kamu ngobrol sama aku tentang Workshop? Kita tidak tahu tentang perlengkapan Workshop sebanyak yang kamu pikirkan."
+    },
+    {
+      "id": 22,
+      "model": "검지제자2",
+      "content": "B-beneran? Boleh, aku suka berbincang dengan orang."
+    },
+    {
+      "id": 23,
+      "model": "라비",
+      "content": "<i>Aku</i> juga kok..."
+    },
+    {
+      "id": 24,
+      "model": "이상",
+      "content": "Ravi ya? Kamu juga kelihatannya ingin mengenal teknologi moderen, sebagaimana layaknya seorang peneliti berjiwa ilmiah."
+    },
+    {
+      "id": 25,
+      "model": "이상",
+      "content": "Kau dan aku, juga dengan Dante, harus bertukar pandangan mengenai hal ini."
+    },
+    {
+      "id": 26,
+      "model": "단테",
+      "content": "<Tapi kenapa...?>"
+    },
+    {
+      "id": 27,
+      "model": "라비",
+      "content": "Tapi kenapa...?"
+    },
+    {
+      "id": 28,
+      "model": "이상",
+      "content": "Ahh, aku senang kau berbagi entusiasme kami, dante! Sini—di antara kita bertiga, aku sangat berharap kita dapat terlibat dalam diskusi akademi yang sangat berbobot."
+    },
+    {
+      "id": 29,
+      "content": "Aku tiba-tiba terseret ke dalam simposium akademis Yi Sang yang canggung dan terburu-buru, tertinggal satu langkah di belakang Gregor dan Sora."
+    },
+    {
+      "id": 30,
+      "model": "검지제자2",
+      "content": "Kalian semua baik sekali... T-terimakasih sudah begitu baik denganku."
+    },
+    {
+      "id": 31,
+      "model": "검지제자2",
+      "content": "Aku s-suka orang-orang baik. Rekan kerjaku cukup dingin, j-jadi aku sering merasa terasingkan. Aku y-yakin mereka habis ini akan memarahiku karena melamun dan tertinggal."
+    },
+    {
+      "id": 32,
+      "model": "그레고르",
+      "content": "Ayolah. Tidak mungkin mereka memperlakukan sesama peneliti terutama setelah yang kamu alami. Toh kamu juga bukan yang menyebabkan ini juga, kan? Kurasa kau tidak bersalah."
+    },
+    {
+      "id": 33,
+      "model": "단테",
+      "content": "<Memang benar sih...>"
+    },
+    {
+      "id": 34,
+      "content": "Kata-kata Gregor mengingatkanku pada semua rencana yang kami gagalkan—lebih tepatnya, rencana Saude—yang meninggalkan sedikit penyesalan di benakku."
+    },
+    {
+      "id": 35,
+      "model": "검지제자2",
+      "content": "Ah, d-dia pasti pemimpin kalian."
+    },
+    {
+      "id": 36,
+      "model": "료슈",
+      "content": "Kau buruk dalam membaca orang."
+    },
+    {
+      "id": 37,
+      "model": "단테",
+      "content": "<... Kamu bilang aku ga ada aura pemimpin?>"
+    },
+    {
+      "id": 38,
+      "model": "료슈",
+      "content": "Heh. Aku cuma bilang kalau kamu lebih dari sekedar \"pemimpin.\""
+    },
+    {
+      "id": 39,
+      "content": "... Aku ga tau sih yang dimaksdud Ryoshu, tapi aku mengangguk saja."
+    },
+    {
+      "id": 40,
+      "model": "이상",
+      "content": "Mm. Aku setuju."
+    },
+    {
+      "id": 41,
+      "model": "검지제자2",
+      "content": "Aku sudah menduganya, J-jadi dia pemimpin kalian."
+    },
+    {
+      "id": 42,
+      "model": "검지제자2",
+      "content": "P-pemimpin... seseorang yang sulit ditebak, ya..."
+    },
+    {
+      "id": 43,
+      "model": "검지제자2",
+      "content": "lebih keren kalau pemimpinnya ada aura m-misterius"
+    },
+    {
+      "id": 44,
+      "model": "단테",
+      "content": "<B-beneran?>"
+    },
+    {
+      "id": 45,
+      "model": "그레고르",
+      "content": "Kamu ngapain malu gitu?"
+    },
+    {
+      "id": 46,
+      "model": "검지제자2",
+      "content": "I-itu sebenarnya alasan aku bergabung di sini. Sebelumya aku bekerja di F-Fixer Office, tapi bisa dibilang aku direkrut."
+    },
+    {
+      "id": 47,
+      "model": "이상",
+      "content": "Direkrut? Kalau dipikir-pikir, 12 dari kami juga \"direkrut\" oleh Nona Faust."
+    },
+    {
+      "id": 48,
+      "model": "이상",
+      "content": "Nona Ryoshu, apakah kamu juga... dijanjikan sesuatu oleh Nona Faust?"
+    },
+    {
+      "id": 49,
+      "model": "료슈",
+      "content": "Yeah."
+    },
+    {
+      "id": 50,
+      "model": "이상",
+      "content": "Aku agak malu mengakuinya... tapi akan kukatakan, karena rasa sakitnya telah berkurang seiring dengan waktu."
+    },
+    {
+      "id": 51,
+      "model": "이상",
+      "content": "Sebelumnya aku tidak yakin dengan apa yang Nona Faust janjikan akan datang... setidaknya dengan sepenuh hati."
+    },
+    {
+      "id": 52,
+      "model": "이상",
+      "content": "Saat itu, aku hanya berpikir kalau itu adalah mimpi saja."
+    },
+    {
+      "id": 53,
+      "model": "이상",
+      "content": "Seandainya aku lebih menaruh harapan... mungkin aku tidak akan menghabiskan waktu lama tenggelam dalam keputusasaan."
+    },
+    {
+      "id": 54,
+      "model": "이상",
+      "content": "Sebaliknya, kamu... tidak pernah meragukan kata-kata Nona Faust sejak saat kamu naik bus."
+    },
+    {
+      "id": 55,
+      "model": "료슈",
+      "content": "... Hmph."
+    },
+    {
+      "id": 56,
+      "model": "그레고르",
+      "content": "Ya... Awalnya sih Ryoshu seperti anggota tim yang tidak waras, tapi toh dia satu-satunya yang bisa menahan diri."
+    },
+    {
+      "id": 57,
+      "content": "Kalau dipikir-pikir, Aku ga pernah lihat Ryoshu menolak pekerjaannya, walaupun dia terlihat enggan sih."
+    },
+    {
+      "id": 58,
+      "content": "Terlepas kontrak atau tidak... Aku ragu dia bisa sampai sejauh ini bersama Vergilius dan aku kalau-kalau dia hanya setengah percaya pada janji bahwa keinginannya akan dikabulkan."
+    },
+    {
+      "id": 59,
+      "model": "료슈",
+      "content": "Bukan berarti aku percaya sejak awal."
+    },
+    {
+      "id": 60,
+      "model": "료슈",
+      "content": "Lebih ke arah aku ga bisa tidak percaya dengan janjinya."
+    },
+    {
+      "id": 61,
+      "model": "료슈",
+      "content": "Rambut Putih..."
+    },
+    {
+      "id": 62,
+      "model": "료슈",
+      "content": "Begini dia awalnya memulai:"
+    },
+    {
+      "id": 63,
+      "model": "료슈",
+      "content": "\"Sungguh luar biasa...\""
+    },
+    {
+      "id": 64,
+      "place": -1,
+      "model": "파우스트",
+      "content": "Sungguh luar biasa..."
+    },
+    {
+      "id": 65,
+      "model": "파우스트",
+      "content": "... bahwa benang itu tidak putus. Bahwa kamu masih memegang erat sehelai benang itu."
+    },
+    {
+      "id": 66,
+      "model": "과거료슈3",
+      "content": "... Kamu lihat apa sampe ngomong begitu?"
+    },
+    {
+      "id": 67,
+      "model": "파우스트",
+      "content": "Darah dari luka yang kau buat, dan juga luka yang ditimbulkan padamu... membentuk garis merah tua yang jelas."
+    },
+    {
+      "id": 68,
+      "model": "파우스트",
+      "content": "Tempat itu... adalah ruang yang hanya kamu bisa buka. Tempatnya mungkin berada di jantung jaring laba-laba, tetapi <i>mereka</i> tidak memiliki cara untuk membukanya."
+    },
+    {
+      "id": 69,
+      "model": "파우스트",
+      "content": "Izinkan aku mengatakan bahwa anda membuat pilihan paling bijaksana, mengingat keadaan anda. "
+    },
+    {
+      "id": 70,
+      "model": "과거료슈3",
+      "content": "……."
+    },
+    {
+      "id": 71,
+      "model": "과거료슈3",
+      "content": "Siapa yang mengirim mu?"
+    },
+    {
+      "id": 72,
+      "model": "과거료슈3",
+      "content": "Aku memotong sendiri jalan keluarku dari bajingan itu yang memanggil diri mereka \"Nursefathers.\" Kamu pikir aku tidak bisa memotong lidahmu setelah semua itu?"
+    },
+    {
+      "id": 73,
+      "model": "파우스트",
+      "content": "Aku sangat tahu—anda bahkan telah merencanakannya dalam pikiranmu sendiri untuk sampai di sini. Anda tidak akan ragu untuk membunuhku jika anda memutuskan bahwa aku sedikitpun menghalangi tujuan anda."
+    },
+    {
+      "id": 74,
+      "model": "파우스트",
+      "content": "Tapi setelah anda menyembunyikan anak kecil tersebut di tempat yang orang lain tak bisa buka, yang tersisa untukmu hanyalah waktu untuk membawanya kembali."
+    },
+    {
+      "id": 75,
+      "model": "파우스트",
+      "content": "Waktu tunggunya mencakup waktu yang tidak terlalu pendek, ataupun terlalu lama. Aku bayangkan anda memilih sisi yang aman—sekitar 5 tahun."
+    },
+    {
+      "id": 76,
+      "model": "과거료슈3",
+      "content": "……."
+    },
+    {
+      "id": 77,
+      "model": "파우스트",
+      "content": "Ikutlah denganku, dan akan saya bantu anda menyelapkan House of Spiders itu... beserta bertemu kembali dengan putri anda dalam waktu 2 tahun."
+    },
+    {
+      "id": 78,
+      "model": "과거료슈3",
+      "content": "Kontrak, ya? Siapa orang yang harus kubunuh?"
+    },
+    {
+      "id": 79,
+      "model": "파우스트",
+      "content": "……."
+    },
+    {
+      "id": 80,
+      "model": "파우스트",
+      "content": "Bukan bunuh. Selamatkan."
+    },
+    {
+      "id": 81,
+      "model": "과거료슈3",
+      "content": "Selamat...kan?"
+    },
+    {
+      "id": 82,
+      "model": "파우스트",
+      "content": "<ruby=Hadapi Dosa>Face the sin</ruby>..."
+    },
+    {
+      "id": 83,
+      "model": "파우스트",
+      "content": "<ruby=Selamatkan E.G.O.>Save the E.G.O.</ruby>"
+    },
+    {
+      "id": 84,
+      "model": "파우스트",
+      "content": "Itulah kalimat pertama yang anda harus ingat di Limbus Company"
+    },
+    {
+      "id": 85,
+      "model": "과거료슈3",
+      "content": "... Memusingkan.."
+    },
+    {
+      "id": 86,
+      "model": "파우스트",
+      "content": "Apakah itu terlalu sulit untuk anda?"
+    },
+    {
+      "id": 87,
+      "model": "과거료슈3",
+      "content": "... Bukan, hanya saja ini rokok pertamaku setelah sekian lama."
+    },
+    {
+      "id": 88,
+      "place": "Lorong Tim Riset LCE",
+      "model": "단테",
+      "content": "<…….>"
+    },
+    {
+      "id": 89,
+      "model": "단테",
+      "content": "<Tempat kamu sembunyikan putrimu... beneran aman?>"
+    },
+    {
+      "id": 90,
+      "model": "료슈",
+      "content": "Yeah."
+    },
+    {
+      "id": 91,
+      "model": "료슈",
+      "content": "Tempat itu... hampir sepenuhnya terputus dari aliran waktu di luar."
+    },
+    {
+      "id": 92,
+      "model": "단테",
+      "content": "<Terputus dari aliran waktu? Apakah tempat itu dibuat dari Singularity milik T Corp.?>"
+    },
+    {
+      "id": 93,
+      "model": "료슈",
+      "content": "Ya. Sudah ku coba beberapa kali."
+    },
+    {
+      "id": 94,
+      "model": "료슈",
+      "content": "Eksperimen tak terhitung yang kulakukan dan sumpah yang kuucapkan seharusnya masih ada di sini, di ingatanku yang sudah hancur."
+    },
+    {
+      "id": 95,
+      "model": "료슈",
+      "content": "Itulah kenapa aku yakin bahwa saat waktunya tiba, House of Spiders akan mengikuti benang yang melilit tubuhku dan membawaku kembali, atau aku akan mengikuti benang tersebut kembali ke mereka. Selama benang ingatan ini tidak hilang... selama kontraknya berlaku..."
+    },
+    {
+      "id": 96,
+      "model": "단테",
+      "content": "<Ya. Kontraknya... akan terpenuhi.>"
+    }
+  ]
+}

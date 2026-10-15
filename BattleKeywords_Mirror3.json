@@ -1,0 +1,229 @@
+{
+  "dataList": [
+    {
+      "id": "MDcFaBa",
+      "name": "Beri tambahan Burn",
+      "desc": "Beri +1 lebih Burn dengan Skill"
+    },
+    {
+      "id": "MDcFaBb",
+      "name": "Beri tambahan Bleed",
+      "desc": "Beri +1 lebih Bleed dengan Skill"
+    },
+    {
+      "id": "MDcFaBc",
+      "name": "Beri tambahan Tremor",
+      "desc": "Beri +1 lebih Tremor dengan Skill"
+    },
+    {
+      "id": "MDcFaBd",
+      "name": "Beri tambahan Rupture",
+      "desc": "Beri +1 lebih Rupture dengan Skill"
+    },
+    {
+      "id": "MDcFaBe",
+      "name": "Beri tambahan Sinking",
+      "desc": "Beri +1 lebih Sinking dengan Skill"
+    },
+    {
+      "id": "MDcFaBf",
+      "name": "Slash Boost",
+      "desc": "Slash damage +15%"
+    },
+    {
+      "id": "MDcFaBg",
+      "name": "Pierce Boost",
+      "desc": "Pierce damage +15%"
+    },
+    {
+      "id": "MDcFaBh",
+      "name": "Blunt Boost",
+      "desc": "Blunt damage +15%"
+    },
+    {
+      "id": "MDcFbBa",
+      "name": "Affinity Res Up (Kec. Wrath)",
+      "desc": "Resistance terhadap semua Affinities -0.1 (Kecuali Wrath)"
+    },
+    {
+      "id": "MDcFbBb",
+      "name": "Affinity Res Up (Kec. Lust)",
+      "desc": "Resistance terhadap semua Affinities -0.1 (Kecuali Lust)"
+    },
+    {
+      "id": "MDcFbBc",
+      "name": "Affinity Res Up (Kec. Sloth)",
+      "desc": "Resistance terhadap semua Affinities -0.1 (Kecuali Sloth)"
+    },
+    {
+      "id": "MDcFbBd",
+      "name": "Affinity Res Up (Kec. Glut.)",
+      "desc": "Resistance terhadap semua Affinities -0.1 (Kecuali Gluttony)"
+    },
+    {
+      "id": "MDcFbBe",
+      "name": "Affinity Res Up (Kec. Gloom)",
+      "desc": "Resistance terhadap semua Affinities -0.1 (Kecuali Gloom)"
+    },
+    {
+      "id": "MDcFbBf",
+      "name": "Affinity Res Up (Kec. Pride)",
+      "desc": "Resistance terhadap semua Affinities -0.1 (Kecuali Pride)"
+    },
+    {
+      "id": "MDcFbBg",
+      "name": "Affinity Res Up (Kec. Envy)",
+      "desc": "Resistance terhadap semua Affinities -0.1 (Kecuali Envy)"
+    },
+    {
+      "id": "MDcFbBh",
+      "name": "Maks HP +",
+      "desc": "Maks HP +15%"
+    },
+    {
+      "id": "MDcFcBa",
+      "name": "Slot Weight +",
+      "desc": "Slot Weight +1"
+    },
+    {
+      "id": "MDcFcBb",
+      "name": "Siphon Damage",
+      "desc": "Saat Menyerang, pulihkan 5% dari damage yang diberikan as HP"
+    },
+    {
+      "id": "MDcFcBc",
+      "name": "Boost Speed",
+      "desc": "Maks Speed +1"
+    },
+    {
+      "id": "MDcFcBd",
+      "name": "Sanity Attack",
+      "desc": "Saat Menyerang, beri 2 SP damage tetap"
+    },
+    {
+      "id": "MDcFcBe",
+      "name": "Keenness",
+      "desc": "Awal Giliran: peroleh 1 Damage Up jika unit ini memberi damage setidaknya sekali giliran sebelumnya"
+    },
+    {
+      "id": "MDcFcBf",
+      "name": "Regroup",
+      "desc": "Awal Giliran: Peroleh 3 Offense Level Up jika unit ini did not terima HP damage giliran sebelumnya"
+    },
+    {
+      "id": "MDcFcBg",
+      "name": "Serangan Tanpa Lawan Boost",
+      "desc": "Final Power +1 ke Serangan Tanpa Lawan"
+    },
+    {
+      "id": "MDcFcBh",
+      "name": "Clash Attack Boost",
+      "desc": "Final Power +1 dalam Clash"
+    },
+    {
+      "id": "MDHcFaBa",
+      "name": "Defense Level Up",
+      "desc": "Defense Level +4"
+    },
+    {
+      "id": "MDHcFaBb",
+      "name": "Defense Power Up",
+      "desc": "Skill Defense Base Power +2"
+    },
+    {
+      "id": "MDHcFaBc",
+      "name": "Maks HP Up",
+      "desc": "Maks HP +10%"
+    },
+    {
+      "id": "MDHcFaBd",
+      "name": "Damage Diterima Menurun",
+      "desc": "Damage Diterima -10%"
+    },
+    {
+      "id": "MDHcFbBa",
+      "name": "Offense Level Up",
+      "desc": "Offense Level +3, Maks HP +5%"
+    },
+    {
+      "id": "MDHcFbBb",
+      "name": "Final Power Up",
+      "desc": "Final Power +1, Maks HP +5%"
+    },
+    {
+      "id": "MDHcFbBc",
+      "name": "Base Power Up",
+      "desc": "Base Power +1, Maks HP +5%"
+    },
+    {
+      "id": "MDHcFbBd",
+      "name": "Damage Diberikan Up",
+      "desc": "Beri +15% damage, Maks HP +5%"
+    },
+    {
+      "id": "MDHcFcBa",
+      "name": "Final Power Up I",
+      "desc": "Final Power +1, Maks HP +15%"
+    },
+    {
+      "id": "MDHcFcBb",
+      "name": "Final Power Up II",
+      "desc": "Final Power +2, Defense Level -4, Maks HP +15%"
+    },
+    {
+      "id": "MDHcFcBc",
+      "name": "Base Power Up I",
+      "desc": "Base Power +1, Maks HP +10%"
+    },
+    {
+      "id": "MDHcFcBd",
+      "name": "Base Power Up II",
+      "desc": "Base Power +2, Defense Level -4, Maks HP +10%"
+    },
+    {
+      "id": "MDHcFcBe",
+      "name": "Coin Power Up I",
+      "desc": "Plus Coin Power +1, Minus Coin Power -1"
+    },
+    {
+      "id": "MDHcFcBf",
+      "name": "Overload I",
+      "desc": "Offense Level +7, Defense Level -7"
+    },
+    {
+      "id": "MDHcFdBa",
+      "name": "Final Power Up III",
+      "desc": "Final Power +2, Defense Level +6, Maks HP +10%"
+    },
+    {
+      "id": "MDHcFdBb",
+      "name": "Final Power Up IV",
+      "desc": "Final Power +3, Maks HP +10%"
+    },
+    {
+      "id": "MDHcFdBc",
+      "name": "Coin Power Up II",
+      "desc": "Plus Coin Power +1, Minus Coin Power -1, Maks HP +15%"
+    },
+    {
+      "id": "MDHcFdBd",
+      "name": "Base Power Up III",
+      "desc": "Base Power +2, Defense Level +3, Maks HP +10%"
+    },
+    {
+      "id": "MDHcFdBe",
+      "name": "Overload II",
+      "desc": "Offense Level +10, Defense Level -7"
+    },
+    {
+      "id": "MDHcFdBf",
+      "name": "Resilient",
+      "desc": "Maks HP +25%, Defense Level +5"
+    },
+    {
+      "id": "MDHcFdBg",
+      "name": "Headstrong",
+      "desc": "Beri +50% damage dan terima -50% damage"
+    }
+  ]
+}

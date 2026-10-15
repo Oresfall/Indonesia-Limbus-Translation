@@ -1,0 +1,417 @@
+{
+  "dataList": [
+    {
+      "id": 9013601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "...tukan",
+          "desc": "[WhenUse] Jika target memiliki 5+ [Sinking], beri 1 [AttackDown]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Binding] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Paralysis] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "...tuk bebersi",
+          "desc": "[WhenUse] Jika target memiliki 10 atau kurang SP, beri 2 [AttackDown]\n[WinDuel] Beri 1 [Vulnerable]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [PlusCoinValueDown] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vulnerable] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "...rintah...!",
+          "desc": "[WhenUse] Base Power +1 untuk setiap 3 [Sinking] pada target (maks 3)\n[WinDuel] Semua kawan pulihkan 5 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 8 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri +2 Count [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 8 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri +2 Count [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 8 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri +2 Count [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "...Debu",
+          "desc": "[WhenUse] Base Power +1 untuk setiap 6 [Sinking] pada target (maks 3)\n[WhenUse] Beri +10% damage untuk setiap 6 Count [Sinking] pada target (maks 30%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri Gloom Affinity bonus damage setara dengan [Sinking] pada target. Kurangi Count [Sinking] pada target sebanyak 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri Gloom Affinity bonus damage setara dengan [Sinking] pada target. Kurangi Count [Sinking] pada target sebanyak 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri Gloom Affinity bonus damage setara dengan [Sinking] pada target."
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 3+ Count [Sinking], Gunakan ulang this Coin (dua kali)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Slipp...",
+          "desc": "Jika Unit ini memiliki Perisai HP pada Akhir Giliran, lower Stagger threshold by 50",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Damn Pl...",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [AttackUp] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [AttackUp] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Aku akan Menyesa...",
+          "desc": "[WinDuel] Base Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [AttackDown], beri 20% damage yang diberikan sebagai bonus Blunt damage"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [AttackDown], beri 20% damage yang diberikan sebagai bonus Blunt damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Buat Semua...",
+          "desc": "[WinDuel] Jika target memiliki 2+ [AttackDown], Base Power +1\n[WhenUse] Jika target memiliki [DefenseDown], beri 30% damage yang diberikan sebagai bonus Blunt damage",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 4 SP pada diri sendiri"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 4 SP pada diri sendiri"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 4 SP pada diri sendiri"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "... ove You",
+          "desc": "Prioritaskan target dengan the most efek negatif\n[WinDuel] Coin Power +1 untuk setiap 3 [DefenseDown] pada target (maks 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vulnerable]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vulnerable] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Paralysis] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +30% damage untuk setiap 2 [AttackDown] pada target (maks 120%)"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Jika target memiliki 3+ efek negatif, gunakan ulang coin ini (sekali)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bertahan",
+          "desc": "[StartBattle] Peroleh 20 additional Perisai HP untuk setiap kawan yang hidup",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Maj...",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [DefenseDown] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "...te",
+          "desc": "[WhenUse] Jika target memiliki 2+ efek negatif, Base Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [DefenseDown] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fl...he",
+          "desc": "[WhenUse] Jika target memiliki 4+ efek negatif, Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [PenetrateTakeDamageUp] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Binding] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cou...oit",
+          "desc": "[WhenUse] Jika target memiliki 5+ efek negatif, Base Power +2\n[WhenUse] Jika target memiliki 5+ efek negatif, beri +30% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vulnerable]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vulnerable] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 5+ efek negatif, gunakan ulang coin ini (maks 2 kali)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hilangkan 1 satu efek negatif acak yang dapat dihapus pada target"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "...",
+          "desc": "[OnSucceedEvade] Pulihkan 5 SP (maks 2 kali)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

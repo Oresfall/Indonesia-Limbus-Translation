@@ -1,0 +1,1090 @@
+{
+  "dataList": [
+    {
+      "id": 2080511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Blind Obsession",
+          "abName": "Dream-Devouring Siltcurrent",
+          "desc": "[EndSkill] Pulihkan 15 SP for 4 kawan with the least SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Peroleh +3 Count Charge"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Give +1 Poise Count to 1 acak kawan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Blind Obsession",
+          "abName": "Dream-Devouring Siltcurrent",
+          "desc": "[EndSkill] Pulihkan 20 SP for 4 kawan with the least SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Peroleh +4 Count Charge"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Give +1 Poise Count to 1 acak kawan"
+                },
+                {
+                  "desc": "[EndSkillHead] Beri 1 [PenetrateResultUp] dan 1 [AttackDmgUp] to 4 kawan with the highest SP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Blind Obsession",
+          "abName": "Dream-Devouring Siltcurrent",
+          "desc": "[EndSkill] Pulihkan 25 SP for 4 kawan with the least SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +6 Count Charge"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Give +2 Poise Count to 1 acak kawan"
+                },
+                {
+                  "desc": "[EndSkill] Beri 2 [PenetrateResultUp] dan 2 [AttackDmgUp] to 4 kawan with the highest SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Blind Obsession",
+          "abName": "Dream-Devouring Siltcurrent",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 Poise dan +1 Poise Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Pride Fragility giliran ini dan giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Blind Obsession",
+          "abName": "Dream-Devouring Siltcurrent",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Pulihkan 3% dari Maks HP pada diri sendiri"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 Poise dan +1 Poise Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Pride Fragility giliran ini dan giliran berikutnya"
+                },
+                {
+                  "desc": "[EndSkillTail] Beri 2 Damage Up giliran ini dan giliran berikutnya to 4 kawan with the least SP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Blind Obsession",
+          "abName": "Dream-Devouring Siltcurrent",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 3% dari Maks HP pada diri sendiri"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 Poise dan +1 Poise Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Pride Fragility giliran ini dan giliran berikutnya"
+                },
+                {
+                  "desc": "[EndSkill] Beri 2 Damage Up giliran ini dan giliran berikutnya to 4 kawan with the least SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wingbeat",
+          "abName": "Fairy Festival",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 15% dari Maks HP pada diri sendiri"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Kehilangan 1~2 SP"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gunakan Ulang this Coin (5 kali per Skill)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan self by 4~8% of damage dealt"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [ShamrockTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1~3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Wingbeat",
+          "abName": "Fairy Festival",
+          "desc": "Jika Skill ini's healing exceeds unit ini's maks HP, redirect the excess healing to 1 kawan with the least HP percentage saja",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan <style=\"highlight\">18%</style> dari Maks HP pada diri sendiri"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Kehilangan 1~2 SP"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gunakan Ulang this Coin (5 kali per Skill)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan self by <style=\"highlight\">6~10</style>% of damage dealt"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [ShamrockTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1~3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Wingbeat",
+          "abName": "Fairy Festival",
+          "desc": "Jika Skill ini's healing exceeds unit ini's maks HP, redirect the excess healing to 1 kawan with the least HP percentage saja",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan <style=\"highlight\">20</style>% dari Maks HP pada diri sendiri"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Kehilangan 1~2 SP"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Gunakan Ulang this Coin (5 kali per Skill)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan self by <style=\"highlight\">8~12</style>% of damage dealt"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [ShamrockTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1~<style=\"highlight\">4</style> [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wingbeat",
+          "abName": "Fairy Festival",
+          "desc": "[CantIdentify]\nTargets the unit with the least Core HP\n[BeforeAttack] Beri 5% HP damage ke at most 5 acak other kawan\n- Pulihkan HP pada diri sendiri setara dengan the damage dealt ke kawan.\n- Jika unit ini dealt damage ke seorang kawan, peroleh 2 [Enhancement] giliran ini, dan peroleh 2 [Agility] giliran berikutnya.\n(Once per giliran. The 'dealt damage' includes damage dealt to Perisai HP. Efek ini can kill kawan.)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Pulihkan self sebanyak 10% of damage dealt"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Beri 1~4 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Wingbeat",
+          "abName": "Fairy Festival",
+          "desc": "[CantIdentify]\nTargets the unit with the least Core HP\n<style=\"highlight\">[BeforeAttack] Peroleh (# of Reson. tertinggi -2) Atk Weight (maks 1)</style>\n[BeforeAttack] Beri 5% HP damage ke at most 5 acak other kawan\n- Pulihkan HP pada diri sendiri setara dengan the damage dealt ke kawan.\n- Jika unit ini dealt damage ke seorang kawan, peroleh 2 [Enhancement] giliran ini, dan peroleh 2 [Agility] giliran berikutnya.\n(Once per giliran. The 'dealt damage' includes damage dealt to Perisai HP. Efek ini can kill kawan.)\n<style=\"highlight\">[EndSkill] Jika Skill ini's healing exceeds unit ini's maks HP, peroleh (excess pulihkan/maks HP) x 10 [AttackUp] giliran berikutnya. (maks 3 per giliran)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Pulihkan self by <style=\"highlight\">15</style>% of damage dealt"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Beri <style=\"highlight\">2~5</style> [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Wingbeat",
+          "abName": "Fairy Festival",
+          "desc": "[CantIdentify]\nTargets the unit with the least Core HP\n[BeforeAttack] Peroleh (# of Reson. tertinggi -2) Atk Weight (maks <style=\"highlight\">2</style>)\n[BeforeAttack] Beri 5% HP damage ke at most 5 acak other kawan\n- Pulihkan HP pada diri sendiri setara dengan the damage dealt ke kawan.\n- Jika unit ini dealt damage ke seorang kawan, peroleh 2 [Enhancement] giliran ini, dan peroleh 2 [Agility] giliran berikutnya.\n(Once per giliran. The 'dealt damage' includes damage dealt to Perisai HP. Efek ini can kill kawan.)\n[EndSkill] Jika Skill ini's healing exceeds unit ini's maks HP, peroleh (excess pulihkan/maks HP) x 10 [AttackUp] giliran berikutnya. (maks <style=\"highlight\">6</style> per giliran)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Pulihkan self by <style=\"highlight\">20</style>% of damage dealt"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Beri <style=\"highlight\">3~6</style> [Laceration]"
+                },
+                {
+                  "desc": "[EnemyKill] Peroleh 1[Enhancement] giliran berikutnya (maks 3)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bygone Days",
+          "abName": "Portrait of a Certain Day",
+          "desc": "[BeforeAttack] Pada 4+ Reson. tertinggi, peroleh +1 Atk Weight\n[EndSkill] Pulihkan 2 kawan with HP terendah percentages by (5 + ([Sinking] pada target utama + Count [Sinking] pada target utama)/3)% HP (maks 15%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [UninvitedGuestPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Bygone Days",
+          "abName": "Portrait of a Certain Day",
+          "desc": "[BeforeAttack] Pada 4+ Reson. tertinggi, peroleh +1 Atk Weight\n<style=\"highlight\">- Jika the said Reson. was a Gloom Reson., peroleh +1 Atk Weight</style>\n[EndSkill] Pulihkan 2 kawan with HP terendah percentages by (<style=\"highlight\">10</style> + ([Sinking] pada target utama + Count [Sinking] pada target utama)/3)% HP (maks 15%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Curse]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Pada 4+ Gloom Reson., beri 1 [AzureTakeDamageUp]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [UninvitedGuestPersonality]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Bygone Days",
+          "abName": "Portrait of a Certain Day",
+          "desc": "[BeforeAttack] Pada 4+ Reson. tertinggi, peroleh +1 Atk Weight\n- Jika the said Reson. was a Gloom Reson., peroleh +1 Atk Weight\n[EndSkill] Pulihkan 2 kawan with HP terendah percentages by (10 + ([Sinking] pada target utama + Count [Sinking] pada target utama)/3)% HP (maks <style=\"highlight\">20</style>%)\n<style=\"highlight\">- Jika the Reson. tertinggi was a 4+ Gloom Reson., pulihkan 10% lebih banyak of the maks HP</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">+3</style> Count [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">2</style> [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 4+ Gloom Reson., beri 1 [AzureTakeDamageUp]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [UninvitedGuestPersonality]<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bygone Days",
+          "abName": "Portrait of a Certain Day",
+          "desc": "[CantIdentify]\nPrioritizes targets yang memiliki the most [Sinking]\n[BeforeAttack] Lose HP sebanyak 10% dari Maks HP (does not get terkena Stagger akibat efek ini)\n[EndSkill] Pulihkan 3 other kawan with HP terendah percentages by (5 + (([Sinking] pada target utama + Count [Sinking] pada target utama))/3)% HP (maks 10%)\n- Pada 4+ Reson. tertinggi, pulihkan 1 tambahan kawan",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 3+ Gloom Reson., beri 1 [AzureTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [UninvitedGuestPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Bygone Days",
+          "abName": "Portrait of a Certain Day",
+          "desc": "[CantIdentify]\nPrioritizes targets yang memiliki the most [Sinking]\n[BeforeAttack] Lose HP sebanyak 10% dari Maks HP (does not get terkena Stagger akibat efek ini)\n[EndSkill] Pulihkan 3 other kawan with HP terendah percentages by (<style=\"highlight\">10</style> + ([Sinking] pada target utama + Count [Sinking] pada target utama)/3)% HP (maks <style=\"highlight\">15</style>%)\n- Pada 4+ Reson. tertinggi, pulihkan 1 tambahan kawan",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 3+ Gloom Reson., beri 1 [AzureTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [UninvitedGuestPersonality]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [EchoOfMansion] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Bygone Days",
+          "abName": "Portrait of a Certain Day",
+          "desc": "[CantIdentify]\nPrioritizes targets yang memiliki the most [Sinking]\n[BeforeAttack] Lose HP sebanyak 10% dari Maks HP (does not get terkena Stagger akibat efek ini)\n[EndSkill] Pulihkan 3 other kawan with HP terendah percentages by (10 + ([Sinking] pada target utama + Count [Sinking] pada target utama)/3)% HP (maks 15%)\n- Pada 4+ Reson. tertinggi, pulihkan 1 tambahan kawan\n<style=\"highlight\">- Jika the said Reson. was a Gloom Reson., pulihkan tambahan 5% HP</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">+3</style> Count [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">Untuk setiap 3</style> Gloom Reson., beri 1 [AzureTakeDamageUp] <style=\"highlight\">(maks 2)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [UninvitedGuestPersonality]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [EchoOfMansion] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Christmas Nightmare",
+          "abName": "Cozy Bed",
+          "desc": "[BeforeAttack] Peroleh (Reson. tertinggi + 5) Count [Vibration] (maks 10)\n[EndSkill] Jika terdapat any targets in terkena Stagger, Low Morale, atau Panic states, pulihkan 10 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +5 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Christmas Nightmare",
+          "abName": "Cozy Bed",
+          "desc": "<style=\"highlight\">Jika target memiliki kurang dari 0 SP, beri +1% damage untuk setiap SP value di bawah 0 (maks 45%)</style>\n[BeforeAttack] Peroleh (Reson. tertinggi + 5) Count [Vibration] (maks 10)\n[EndSkill] Jika terdapat any targets in terkena Stagger, Low Morale, atau Panic states, pulihkan 10 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +5 Count [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target isn't in terkena Stagger, Low Morale, atau Panic states, beri 5 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target isn't in terkena Stagger, Low Morale, atau Panic states, aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Christmas Nightmare",
+          "abName": "Cozy Bed",
+          "desc": "Jika target memiliki kurang dari 0 SP, beri +1% damage untuk setiap SP value di bawah 0 (maks 45%)\n[BeforeAttack] Peroleh (Reson. tertinggi + 5) Count [Vibration] (maks 10)\n[EndSkill] Jika terdapat any targets in terkena Stagger, Low Morale, atau Panic states, pulihkan 10 SP<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +5 Count [Vibration]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target isn't in terkena Stagger, Low Morale, atau Panic states, beri 5 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target isn't in terkena Stagger, Low Morale, atau Panic states, aktifkan [VibrationExplosion] <style=\"highlight\">dua kali</style>; lalu, kurangi Count [Vibration] target sebanyak 2"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Christmas Nightmare",
+          "abName": "Cozy Bed",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh (Reson. tertinggi + 5) Count [Vibration] (maks 10)\n[BeforeAttack] Pulihkan 10 HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +5 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Christmas Nightmare",
+          "abName": "Cozy Bed",
+          "desc": "[CantIdentify]\nTarget secara acak\n<style=\"highlight\">Jika target utama is in terkena Stagger, Low Morale, atau Panic states, Base Power +1</style>\n[BeforeAttack] Peroleh (Reson. tertinggi + 5) Count [Vibration] (maks 10)\n[BeforeAttack] Pulihkan 10 HP\n<style=\"highlight\">[EndSkill] Pulihkan 5 SP untuk setiap enemy that is in terkena Stagger, Low Morale, atau Panic states</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +5 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target isn't in terkena Stagger, Low Morale, atau Panic states, beri 5 [Sinking] dan +2 Count [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target isn't in terkena Stagger, Low Morale, atau Panic states, aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Christmas Nightmare",
+          "abName": "Cozy Bed",
+          "desc": "[CantIdentify]\nTarget secara acak\nJika target utama is in terkena Stagger, Low Morale, atau Panic states, Base Power +<style=\"highlight\">2</style>\n[BeforeAttack] Peroleh (Reson. tertinggi + 5) Count [Vibration] (maks 10)\n[BeforeAttack] Pulihkan 10 HP\n[EndSkill] Pulihkan 5 SP untuk setiap enemy that is in terkena Stagger, Low Morale, atau Panic states<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +5 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target isn't in terkena Stagger, Low Morale, atau Panic states, beri 5 [Sinking] dan +2 Count [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target isn't in terkena Stagger, Low Morale, atau Panic states, aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target isn't in terkena Stagger, Low Morale, atau Panic states, aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hundred-Footed Death Maggot [蝍蛆殺]",
+          "abName": "Centipede Apostle",
+          "desc": "[EndSkill] Beri [CentipedePoison] setara dengan the sum of the types of negative effects pada diri sendiri dan target utama (maks 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 4+ Gluttony atau Gloom Reson., beri [CentipedePoison] by Reson. (maks 4)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Hundred-Footed Death Maggot [蝍蛆殺]",
+          "abName": "Centipede Apostle",
+          "desc": "[EndSkill] Beri [CentipedePoison] setara dengan the sum of the types of negative effects pada diri sendiri dan target utama (maks <style=\"highlight\">8</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 4+ Gluttony atau Gloom Reson., beri [CentipedePoison] by Reson. (maks 4)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hundred-Footed Death Maggot [蝍蛆殺]",
+          "abName": "Centipede Apostle",
+          "desc": "[EndSkill] Beri [CentipedePoison] setara dengan the sum of the types of negative effects pada diri sendiri dan target utama (maks <style=\"highlight\">10</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">2</style> [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">2</style> [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 4+ Gluttony atau Gloom Reson., beri [CentipedePoison] by Reson. (maks <style=\"highlight\">5</style>)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hundred-Footed Death Maggot [蝍蛆殺]",
+          "abName": "Centipede Apostle",
+          "desc": "[CantIdentify]\nTarget secara acak\n[EndSkill] Beri [CentipedePoison] setara dengan the sum of the types of negative effects pada diri sendiri dan target utama (maks 8)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 4+ Gluttony atau Gloom Reson., beri [CentipedePoison] by Reson. (maks 4)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Hundred-Footed Death Maggot [蝍蛆殺]",
+          "abName": "Centipede Apostle",
+          "desc": "[CantIdentify]\nTarget secara acak\n[EndSkill] Beri [CentipedePoison] setara dengan the sum of the types of negative effects pada diri sendiri dan target utama (maks <style=\"highlight\">10</style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 4+ Gluttony atau Gloom Reson., beri [CentipedePoison] by Reson. (maks 4)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hundred-Footed Death Maggot [蝍蛆殺]",
+          "abName": "Centipede Apostle",
+          "desc": "[CantIdentify]\nTarget secara acak\n[EndSkill] Beri [CentipedePoison] setara dengan the sum of the types of negative effects pada diri sendiri dan target utama (maks 10<style=\"highlight\"></style>)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 4+ Gluttony atau Gloom Reson., beri [CentipedePoison] by Reson. (maks <style=\"highlight\">5</style>)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2081011,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tidal Elegy",
+          "abName": "Skadi",
+          "desc": "Ketika menyerang hanya a single target(di Pertemuan Terfokus, Inti dan its connected Parts dihitung sebagai a single target), Coin Power +2 dan beri +100% damage\n[WhenUse] Jika target utama memiliki 4+ [Sinking], Clash Power +1\n[BeforeAttack] Jika target utama memiliki higher than 1 Gloom Resist., beri +2% damage untuk setiap 0.1 excess Resist. (maks 10%)\n[BeforeAttack] Pada 2+ Gloom Reson., beri +5% damage untuk setiap Gloom Reson. (maks 20%)\n[EndSkill] Jika 1 atau lebih targets are killed, beri ([Sinking] Potency on each target / 2) Gloom damage terhadap 2 musuh acak (maks 15; memprioritaskan targeted musuh with the most [Sinking] Potency)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 1 [Binding] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika terdapat terkena Stagger, Bagian broken, atau killed unit among the targets, beri 2 [Sinking] terhadap a acak non-targeted enemy (sekali per giliran; in Focused Encounters, each Bagian dihitung sebagai 1 target)"
+                },
+                {
+                  "desc": "- Jika there is just a single target, beri it to 3 targets saja"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Tidal Elegy",
+          "abName": "Skadi",
+          "desc": "Ketika menyerang hanya a single target(di Pertemuan Terfokus, Inti dan its connected Parts dihitung sebagai a single target), Coin Power +2 dan beri +100% damage\n[WhenUse] Jika target utama memiliki 4+ [Sinking], Clash Power +1\n[BeforeAttack] Jika target utama memiliki higher than 1 Gloom Resist., beri +<style=\"highlight\">3</style>% damage untuk setiap 0.1 excess Resist. (maks <style=\"highlight\">15</style>%)\n[BeforeAttack] Pada 2+ Gloom Reson., beri +<style=\"highlight\">8</style>% damage untuk setiap Gloom Reson. (maks <style=\"highlight\">32</style>%)\n[EndSkill] Jika 1 atau lebih targets are killed, beri ([Sinking] Potency on each target / 2) Gloom damage terhadap 2 musuh acak (maks 15; memprioritaskan targeted musuh with the most [Sinking] Potency)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">2</style> [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">2</style> [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 1 [Binding] giliran berikutnya<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika terdapat terkena Stagger, Bagian broken, atau killed unit among the targets, beri 2 [Sinking] terhadap a acak non-targeted enemy (sekali per giliran; untuk Pertarungan Terfokus, each Bagian dihitung sebagai 1 target)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Ketika menyerang hanya a single target, beri it to 3 targets saja<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tidal Elegy",
+          "abName": "Skadi",
+          "desc": "Ketika menyerang hanya a single target(di Pertemuan Terfokus, Inti dan its connected Parts dihitung sebagai a single target), Coin Power +2 dan beri +100% damage\n[WhenUse] <style=\"highlight\">Clash Power +1 untuk setiap 4 [Sinking] pada target utama (maks 2)</style>\n[BeforeAttack] Jika target utama memiliki higher than 1 Gloom Resist., beri +<style=\"highlight\">5</style>% damage untuk setiap 0.1 excess Resist. (maks <style=\"highlight\">20</style>%)\n[BeforeAttack] Pada 2+ Gloom Reson., beri +<style=\"highlight\">10</style>% damage untuk setiap Gloom Reson. (maks <style=\"highlight\">40</style>%)\n[EndSkill] Jika 1 atau lebih targets are killed, beri ([Sinking] Potency on each target / 2) Gloom damage terhadap 2 musuh acak (maks 15; memprioritaskan targeted musuh with the most [Sinking] Potency)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">3</style> [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">3</style> [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri <style=\"highlight\">2</style> [Binding] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika terdapat terkena Stagger, Bagian broken, atau killed unit among the targets, beri 2 [Sinking] terhadap a acak non-targeted enemy (sekali per giliran; in Focused Encounters, each Bagian dihitung sebagai 1 target)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Ketika menyerang hanya a single target, beri it to 3 targets saja<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2081021,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tidal Elegy",
+          "abName": "Skadi",
+          "desc": "[CantIdentify]\nTarget secara acak\n[WhenUse] Jika target utama memiliki 5+ [Sinking], Clash Power +1\n[BeforeAttack] Peroleh efek berikut untuk setiap 3 Reson. tertinggi\n- Peroleh +1 Atk Weight (maks 2)\n- Beri +15% damage (maks 30%)\n[EndSkill] Beri 1 [HitDamageUp] giliran berikutnya to (Reson. tertinggi) kawan acak (termasuk unit ini; maks 4 kawan; sekali per giliran)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Tidal Elegy",
+          "abName": "Skadi",
+          "desc": "[CantIdentify]\nTarget secara acak\n[WhenUse] <style=\"highlight\">Clash Power +1 untuk setiap 5 [Sinking] pada target utama (maks 2)</style>\n[BeforeAttack] Peroleh efek berikut untuk setiap 3 Reson. tertinggi\n- Peroleh +1 Atk Weight (maks 2)\n- Beri +15% damage (maks 30%)\n[EndSkill] Beri 1 [HitDamageUp] giliran berikutnya to (Reson. tertinggi) kawan acak (termasuk unit ini; maks 4 kawan; sekali per giliran)\n<style=\"highlight\">- Jika the said Reson. was a Gloom Reson. atau an A-Reson., beri 1 [AzureDamageUp] juga</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vibration]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Jika terdapat terkena Stagger, Bagian broken, atau killed unit among the targets, beri 1 [AzureTakeDamageUp] giliran berikutnya terhadap a acak non-targeted enemy (sekali per giliran; untuk Pertarungan Terfokus, each Bagian dihitung sebagai 1 target)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tidal Elegy",
+          "abName": "Skadi",
+          "desc": "[CantIdentify]\nTarget secara acak\n[WhenUse] Clash Power +1 untuk setiap 5 [Sinking] pada target utama (maks <style=\"highlight\">3</style>)\n[BeforeAttack] Peroleh efek berikut untuk setiap 3 Reson. tertinggi <style=\"highlight\">(jika it was a Gloom Reson., untuk setiap 2 Reson. tertinggi)</style>\n- Peroleh +1 Atk Weight (maks 2)\n- Beri +15% damage (maks 30%)\n[EndSkill] Beri 1 [HitDamageUp] giliran berikutnya to (Reson. tertinggi) kawan acak (termasuk unit ini; maks 4 kawan; sekali per giliran)\n- Jika the said Reson. was a Gloom Reson. atau an A-Reson., beri 1 [AzureDamageUp] juga",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">2</style> [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">2</style> [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika terdapat terkena Stagger, Bagian broken, atau killed unit among the targets, beri 1 [AzureTakeDamageUp] giliran berikutnya terhadap a acak non-targeted enemy (sekali per giliran; untuk Pertarungan Terfokus, each Bagian dihitung sebagai 1 target)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

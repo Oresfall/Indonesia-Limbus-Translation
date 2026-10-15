@@ -1,0 +1,235 @@
+{
+  "dataList": [
+    {
+      "id": 40000701,
+      "name": "Pilihan Terakhir",
+      "desc": "Akhir Giliran: Jika semua kawan kecuali untuk unit ini tidak dapat bergerak karena efek eksternal, gunakan 'Penyelarasan A.B.S Maksimum 【Degradasi Corrosion】' giliran berikutnya",
+      "flavor": "'Sudah kuduga... Semuanya...'"
+    },
+    {
+      "id": 40000702,
+      "name": "Tahan Api",
+      "desc": "Damage dari [Combustion] tidak dapat Stagger unit ini dan tidak mengurangi HP unit ini dibawah 1; unit ini tidak dapat dilumpuhkan karena efek eksternal\n\nTerima -50% damage dari [Combustion]"
+    },
+    {
+      "id": 40000703,
+      "name": "Peningkatan Penyelarasan E.G.O",
+      "desc": "Awal Pertempuran: Peroleh [LvUpFireFly]\n\nSaat Serang: Pada kurang dari 70% HP, beri 1 [Combustion] ke target dan diri sendiri"
+    },
+    {
+      "id": 40000704,
+      "name": "Peningkatan Resonansi E.G.O",
+      "desc": "Awal Giliran: Peroleh 1 [AttackUp] untuk setiap kawan memakai perlengkapan E.G.O"
+    },
+    {
+      "id": 40000705,
+      "name": "Seperti Ngengat pada Api",
+      "desc": "Unit ini memprioritaskan menyerang musuh dengan maks HP paling rendah\n\nPulihkan 10 SP ketika membunuh musuh dengan damage [Combustion] atau Skill Attack yang beri [Combustion] (maks sekali per giliran)"
+    },
+    {
+      "id": 40000706,
+      "name": "Nasib Kalah",
+      "desc": "Kalah Pertempuran ini jika unit ini terbunuh setelah Hohenheim terbunuh",
+      "flavor": "Seseorang mungkin hilang dan tersesat ke jalan yang salah, namun deviasi dari alur waktu dan takdir tidak diperbolehkan oleh \"dia.\""
+    },
+    {
+      "id": 40000801,
+      "name": "Jangan Remehkan Attunement E.G.O Markas Besar dan Corrosionnya",
+      "desc": "Awal Pertempuran: Peroleh [LvUpHohenheimBigBird]"
+    },
+    {
+      "id": 40000802,
+      "name": "Manual Kemahiran Perlengkapan E.G.O",
+      "desc": "Awal Giliran: Peroleh 1 [DefenseUp] untuk setiap kawan memakai perlengkapan E.G.O",
+      "flavor": "Ditulis oleh Hohenheim."
+    },
+    {
+      "id": 40000803,
+      "name": "Jangan Mengikuti Cahaya Dengan Buta ketika Tersesat di Hutan Hitam",
+      "desc": "Awal Giliran: Jika unit ini tidak memiliki [LanternHohenheimBigBird], peroleh 1 [LanternHohenheimBigBird]\n\n<color=#ff6000><mark=#ff000040><b><u>Akhir Giliran: Pada 20 [LanternHohenheimBigBird], beri [DelusionHohenheimBigBird] ke musuh yang menggunakan serangan kuatnya giliran berikutnya</u></b></mark></color>"
+    },
+    {
+      "id": 40000804,
+      "name": "Dazzling Lamp",
+      "desc": "Unit ini prioritaskan menyerang musuh dengan Maks Speed tercepat\n\nKetika chaining Skill, unit ini can draw musuh' attack toward self tidak peduli dengan Speed (Pertempuran Terfokus hanya)"
+    },
+    {
+      "id": 40000805,
+      "name": "Matanya Mengawasi Keseluruhan dari Hutan Hitam",
+      "desc": "Awal Giliran: Beri ([Binding] pada diri sendiri /2) [Agility] ke kawan (mengecualikan unit ini) dengan Speed paling lambat giliran berikutnya (maks 2, dibulatkan ke bawah)\n\nJika unit ini memiliki Speed paling lambat, beri +10% damage dengan Skill Base Attack\n- Jika Speed unit ini is 1, beri +20% damage saja"
+    },
+    {
+      "id": 40000806,
+      "name": "Nasib Kalah",
+      "desc": "Kalah Pertempuran ini jika unit ini terbunuh setelah Alyssa terbunuh",
+      "flavor": "Seseorang mungkin hilang dan tersesat ke jalan yang salah, namun deviasi dari alur waktu dan takdir tidak diperbolehkan oleh \"dia.\""
+    },
+    {
+      "id": 40000901,
+      "name": "Sang Kuning Harpun (dinamai oleh: Ezra)",
+      "desc": "Awal Pertempuran: Peroleh [YellowHarpoon]\n\nAwal Giliran: Jika unit ini memiliki 0+ SP dan Nursefather Middle memiliki 2 [ReinforcedTattooSpider], peroleh [YellowHarpoonSin]\n\nPada kurang dari 0 SP, kehilangan [YellowHarpoonSin]",
+      "flavor": "<color=#fde55d>\"Oke, dengerin. Dengerin aku, Bayi Lebah!\nKau mahir dengan harpun, iya kan?\nKau menggunakan tombak spesial super manis, kan?\nDan kamu mengincar untuk Warna Kuning, kan?\nBam! Itu dia!\n\n<b>Sang Kuning Harpun</b>!!!\"</color>"
+    },
+    {
+      "id": 40000902,
+      "name": "Tawon dari Kantor Distortion Detective",
+      "desc": "Pada giliran Moses memakai 'Nafas Dalam Asap Merah', unit ini peroleh [YellowHarpoonSin] secara permanen"
+    },
+    {
+      "id": 40000904,
+      "name": "Nasib Kalah",
+      "desc": "Kalah Pertempuran ini jika unit ini terbunuh",
+      "flavor": "Seseorang mungkin hilang dan tersesat ke jalan yang salah, namun deviasi dari alur waktu dan takdir tidak diperbolehkan oleh \"dia.\""
+    },
+    {
+      "id": 40001001,
+      "name": "Pemulihan Panik - Kontemplasi Mendalam",
+      "desc": "Awal Pertempuran: Peroleh [MosesWarPTSD]\n\nAkhir Giliran: Jika unit ini Panik, reset SP ke 0"
+    },
+    {
+      "id": 40001002,
+      "name": "Crimson Point",
+      "desc": "Jika Nursefather Middle memiliki Lævateinn, unit ini peroleh [MosesSin] dan menggunakan 'Nafas Dalam Asap Merah' setiap giliran\n\nJika unit ini memiliki [MosesRedBreathCharge], menjadi imun terhadap Panik\n\n<color=#ff6000><mark color=#ff000040><b><u>Akhir Giliran: Pada 3 [MosesRedBreathCharge], gunakan Skill kuat</color></mark></b></u>",
+      "flavor": "Konsentrasi menjadi satu titik yang merupakan tekanan fisik dan tumpuk lapisannya menjadi pilar silinder—kemudian hempaskan ke satu titik yang lain."
+    },
+    {
+      "id": 40001003,
+      "name": "Nasib Kalah",
+      "desc": "Kalah Pertempuran ini jika unit ini terbunuh",
+      "flavor": "Seseorang mungkin hilang dan tersesat ke jalan yang salah, namun deviasi dari alur waktu dan takdir tidak diperbolehkan oleh \"dia.\""
+    },
+    {
+      "id": 40001101,
+      "name": "Tas Dimensional [Ezra]",
+      "desc": "Awal Pertempuran: Peroleh 1 [DimensionalBagEzraA]\n\nJika unit ini menggunakan senjata Workshop terkini lebih dari sekali, ganti senjata pada giliran berikutnya\n\nDaftar senjata:\n- Sarung Tangan Workshop Allas\n- Palu Workshop Nester\n- Sekrup Atelier Bor Palu\n- Sarung Tangan Panjang Workshop Namir"
+    },
+    {
+      "id": 40001102,
+      "name": "Detekti—Maksudku, Ketua Tim! Kita Akan Mendukungmu!",
+      "desc": "Rotasi senjata unit ini ditetapkan ke 'Atelier YuRia Golden Retriever Spesial Buatan Tangan-Kapak Eksklusif' dimulai dari giliran Moses memakai 'Nafas Dalam Asap Merah'\n\nUnit ini peroleh [MiddleFingerEzraSin] dimulai dari giliran Moses memakai 'Nafas Dalam Asap Merah'",
+      "flavor": "\"Remember that case in that hotel dengan the Bloodfiend? Man, that was sick.\""
+    },
+    {
+      "id": 40001104,
+      "name": "Nasib Kalah",
+      "desc": "Kalah Pertempuran ini jika unit ini terbunuh",
+      "flavor": "Seseorang mungkin hilang dan tersesat ke jalan yang salah, namun deviasi dari alur waktu dan takdir tidak diperbolehkan oleh \"dia.\""
+    },
+    {
+      "id": 40001201,
+      "name": "Sang Merah Netra",
+      "desc": "Akhir Giliran: Beri 3 [Binding] giliran berikutnya terhadap musuh dengan 50% atau lebih HP\n<color=#ff6000><mark=#ff000040><b><u>Enemies that are about untuk menggunakan Skill Attack terhadap unit ini peroleh 1 [Reduction]</u></b></mark></color>"
+    },
+    {
+      "id": 40001202,
+      "name": "Gladius Putih-membara",
+      "desc": "Beri 1 [AaCfPcBiv2] Saat Menyerang dengan Skill Gladius",
+      "summary": ""
+    },
+    {
+      "id": 40001203,
+      "name": "Tangisan Darah",
+      "desc": "Saat Pakai Skill: Terima 3% dari maks HP sebagai damage tetap (damage ini tidak dapat membunuh unit ini).\nSaat Serang dengan Skill: Pulihkan 10% dari HP damage yang diberikan",
+      "summary": ""
+    },
+    {
+      "id": 40001204,
+      "name": "Penghalang Darah",
+      "desc": "Setiap giliran, semua kawan, termasuk unit ini, peroleh Perisai HP",
+      "summary": ""
+    },
+    {
+      "id": 40001205,
+      "name": "Shin (心) - Sang Merah Netra",
+      "desc": "Ketika 'Nursefather Thumb - Valencina' memiliki [ObsessionAndGreed], unit ini peroleh [VergiliusSin] giliran berikutnya",
+      "summary": ""
+    },
+    {
+      "id": 40001206,
+      "name": "Effloresced E.G.O::Lavacrum Sanguinis",
+      "desc": "Memasuki status Effloresced[TabExplain] E.G.O::Lavacrum Sanguinis, dan peroleh efek berikut:\n- Peroleh 3 Haste setiap giliran\n- Menjadi imun terhadap [Laceration] damage\n- Membuka Skill Manifestasi E.G.O",
+      "summary": ""
+    },
+    {
+      "id": 40001208,
+      "name": "Nasib Kalah",
+      "desc": "Kalah Pertempuran ini jika unit ini terbunuh",
+      "flavor": "Seseorang mungkin hilang dan tersesat ke jalan yang salah, namun deviasi dari alur waktu dan takdir tidak diperbolehkan oleh \"dia.\""
+    },
+    {
+      "id": 40001209,
+      "name": "The Guide",
+      "desc": "Mengamati perintah Dante dan menyesuaikan target Skillnya",
+      "summary": "",
+      "flavor": "'Mengikuti alur...'"
+    },
+    {
+      "id": 40001302,
+      "name": "Membongkar Prostesis",
+      "desc": "Beri +40% damage ke <Mechanical Amalgam> dan <Distortion>\n\nSaat Bunuh, semua other kawan pulihkan 20 SP (sekali per giliran)",
+      "flavor": "Smoke War Ke-2 adalah konflik antara manusia dan manusia yang telah kehilangan kemanusiaannya."
+    },
+    {
+      "id": 40001306,
+      "name": "Shin (心) - Sinclair Tertentu",
+      "desc": "Awal Giliran: Peroleh [WillAwakenSinclair] (sekali per Pertempuran)"
+    },
+    {
+      "id": 40001309,
+      "name": "Menahan Asapnya",
+      "desc": "Unit ini tidak dapat terima SP damage karena efek eksternal dan tidak dapat menjadi lumpuh\n\nJika kawan menjadi lumpuh karena efek eksternal sebelum Akhir Giliran, gunakan 'Redakan Asapnya[TabExplain]'",
+      "flavor": "Asap dari Perang Ke-2 tidak berbeda dengan sifat dari yang Pertama—itu menginvasi pikiran dan mengaburkan penghakiman sang korban.\nBertahan hidup hanya disediakan untuk mereka yang telah menerima Asap sebagai bagian dari kehidupan mereka."
+    },
+    {
+      "id": 40001308,
+      "name": "Menaruh Telingaku ke Batin Diri, Berpegang pada Representasi dari Suaranya...",
+      "desc": "Peroleh [SignAwakenSinclair] dan [LimitedAwakenSinclair] ketika musuh dengan 1,000+ maks HP terbunuh (sekali per Pertempuran)\n- Setelah itu, ubah semua Coin menjadi [SuperCoin] ketika unit ini menggunakan Pride, Wrath, Envy Skill"
+    },
+    {
+      "id": 40001301,
+      "name": "Pasukan Operasi Lintas Udara Khusus - Abraxas Chariot",
+      "desc": "Target dengan kurang dari 20 [Burst] tidak kehilangan [Burst] Count ketika unit ini menyerang mereka dengan Skill yang beri [Burst] Potency atau Count",
+      "flavor": "Perang gerilya memainkan peran penting selama Perang Asap Ke-2.\nYang paling ditakuti di antara para pelaku penyergapan ini tidak lain adalah pasukan terjun payung yang turun langsung ke zona tempur dan membalikkan keadaan pertempuran secara tak terduga.\nPara prajurit terjun payung ini akan muncul entah dari mana dengan memanfaatkan teknologi seperti Singularitas Sayap—mereka akan segera melaksanakan misi mereka, dan begitu tujuan mereka tercapai, mereka akan menghilang tanpa jejak.\n\"The Abraxas Chariot\" adalah salah satu kelompok yang paling ditakuti dalam Perang tersebut bersama dengan pasukan terjun payung seperti \"Descenders of 101 Doors\" dan \"The Dimension Roamers.\""
+    },
+    {
+      "id": 40001304,
+      "name": "Halberd dan Pedang Bastard",
+      "desc": "Akhir Serangan: Hapus 1 efek positif dari target dan beri 4 [Burst] (sekali per giliran)\n\nAkhir Giliran: Hapus 1 efek negatif dari diri sendiri dan peroleh 5 [Breath] dan +2 Count [Breath]",
+      "flavor": "Mengacungkan sebuah halberd tanpa nama dan sebilah pedang bastard, pemuda yang mengenakan jubah hijau kusam itu akan memporak-porandakan barisan musuh sebelum lenyap tanpa jejak begitu dia selesai.\nBeberapa orang menyebutnya sebagai The Green Damnation, sementara yang lain menyebutnya The Green Deliverance."
+    },
+    {
+      "id": 40001307,
+      "name": "Sign - Manifestasi dari Masa Depan",
+      "desc": "Semua kawan, termasuk unit ini, peroleh 1 lebih E.G.O resource ketika menggunakan Skill\n\nAkhir Giliran: Pulihkan 6 SP untuk setiap Sinner lain yang hadir di Pertempuran"
+    },
+    {
+      "id": 40001310,
+      "name": "Nasib Kalah",
+      "desc": "Kalah Pertempuran ini jika unit ini terbunuh",
+      "flavor": "Seseorang mungkin hilang dan tersesat ke jalan yang salah, namun deviasi dari alur waktu dan takdir tidak diperbolehkan oleh \"dia.\""
+    },
+    {
+      "id": 40001401,
+      "name": "Shin (心) - Sang Merah Netra",
+      "desc": "Awal Pertempuran: Peroleh [VergiliusSin]"
+    },
+    {
+      "id": 40001501,
+      "name": "Mengarungi Mimpi, Diri Tak Dapat Ditemukan [無我夢中]",
+      "desc": "Awal Giliran: Peroleh [CutbondRyoshu] setara dengan hitungan giliran terkini\nPeroleh 1 [CutbondRyoshu] untuk setiap Coin yang digunakan unit ini",
+      "flavor": "'Aku harus membuatnya tampak seolah-olah Araya sudah keluar dengan selamat dari House of Spiders.'\n\n'Aku akan merekayasanya dengan mengangkat bilah pedang ini terhadap para Nursefather—itu seharusnya bisa meyakinkan cerita bahwa aku sedang mencoba menghentikan mereka agar tidak mengejar Araya.'"
+    },
+    {
+      "id": 40001502,
+      "name": "Seperti Naraka Avīci dan Raurava [阿鼻叫喚]",
+      "desc": "Awal Pertempuran: Peroleh [HeavenlyKillerStar] dan tetapkan SP pada -44\n\nKetika menerima SP damage termasuk efek disebabkan oleh Sinking, terima (SP damage x 3) HP damage saja",
+      "flavor": "'Aku yang paling tahu tentang seberapa kuat dan tangguh dari para Nursefather.'\n\n'Jika aku ingin menipu mereka, aku harus merekayasa tindakan nekat dengan semua yang aku miliki.'\n\n'Rencanakan bagaimana aku akan menghadapi setiap dari mereka—bagaimana pedang mereka akan berbenturan dengan pedangku.'\n\n'Aku mungkin akan kehilangan kendali atas pikiranku sendiri, tetapi aku <i>akan</i> memastikan untuk membayangkan gambaran itu di kepalaku berulang kali.'"
+    },
+    {
+      "id": 40001503,
+      "name": "Terputus dan Robek Bahkan Hingga Bentuknya Terurai [支離滅裂]",
+      "desc": "Saat Menyerang, beri 1 [CutoffRyoshu]\n- Awal Giliran: Beri 1 lebih [CutoffRyoshu] untuk setiap 10 [CutbondRyoshu] pada diri sendiri (maks 4)\n\nKetika diserang, terima -([CutbondRyoshu] pada diri sendiri + [CutoffRyoshu] pada target)% damage (maks 90%)\n\nJika jika terdapat musuh yang memiliki 100 [CutoffRyoshu] setelah unit ini menyelesaikan semua serangan dengan Skillnya, gunakan Skill kuat pada target",
+      "flavor": "'Aku tidak cukup kuat untuk membunuh para Nursefather—ini aku tahu. Tapi aku masih bisa melumpuhkan dan menahan mereka, meskipun hanya untuk sementara.'\n\n'Dan kemudian...'\n\n'Dan lalu, aku akan pergi...'\n\n'Aku akan pergi dan kembali menjadi lebih kuat.'\n\n'Mengamankan bantuan dari seseorang yang lebih kuat dariku, atau memperoleh lebih banyak kawan... Apa pun pilihannya, aku harus kembali dengan cara yang pasti untuk menghadapi mereka sekali dan untuk selamanya.'"
+    }
+  ]
+}

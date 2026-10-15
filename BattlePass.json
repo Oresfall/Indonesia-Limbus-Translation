@@ -1,0 +1,268 @@
+{
+  "dataList": [
+    {
+      "id": "battlepass_battlepass",
+      "content": "Battle Pass"
+    },
+    {
+      "id": "battlepass_passmission",
+      "content": "Misi Pass"
+    },
+    {
+      "id": "battlepass_dailymission",
+      "content": "Harian"
+    },
+    {
+      "id": "battlepass_weeklymission",
+      "content": "Mingguan"
+    },
+    {
+      "id": "battlepass_seasonmission",
+      "content": "Musiman"
+    },
+    {
+      "id": "battlepass_freeandpaid",
+      "content": "Paid {0} Free {1}"
+    },
+    {
+      "id": "battlepass_mission_tag_normal",
+      "content": "Reguler"
+    },
+    {
+      "id": "battlepass_mission_tag_battle",
+      "content": "Pertempuran"
+    },
+    {
+      "id": "battlepass_remain_time",
+      "content": "Tersisa {0} hari {1} jam"
+    },
+    {
+      "id": "battlepass_ask_purchase_limbus_pass",
+      "content": "Membeli Limbus Pass akan memberikan keuntungan berikut selama {0}:"
+    },
+    {
+      "id": "battlepass_limbus_pass_benefit_reward",
+      "content": "Hadiah Limbus Pass Tersedia"
+    },
+    {
+      "id": "battlepass_limbus_pass_benefit_ex_reward",
+      "content": "Hadiah Level Maksimal Pass Ditingkatkan"
+    },
+    {
+      "id": "battlepass_level_up",
+      "content": "Peningkatan Level Pass"
+    },
+    {
+      "id": "battlepass_level_up_ask",
+      "content": "Tingkatkan level Pass menggunakan [Paid Lunacy]?"
+    },
+    {
+      "id": "battlepass_level_upgrade",
+      "content": "Naik Level Pass"
+    },
+    {
+      "id": "battlepass_level_max",
+      "content": "<color=#f8c200>Level Maksimal Pass</color> telah tercapai."
+    },
+    {
+      "id": "battlepass_purchase_level_up_failed",
+      "content": "Tidak Dapat Membeli Level Pass"
+    },
+    {
+      "id": "lack_if_paid_lunacy",
+      "content": "Paid Lunacy Tidak Mencukupi"
+    },
+    {
+      "id": "remain_days_with_label",
+      "content": "Tersisa {0}h"
+    },
+    {
+      "id": "remain_hours_with_label",
+      "content": "Tersisa {0}j"
+    },
+    {
+      "id": "remain_minutes_with_label",
+      "content": "Tersisa {0}m"
+    },
+    {
+      "id": "update_progress",
+      "content": "Progres Diperbarui"
+    },
+    {
+      "id": "able_to_acquire_ex_pass_level_reward",
+      "content": "Berhak mendapatkan hadiah Level Maksimal Pass"
+    },
+    {
+      "id": "ask_to_use_paid_lunacy_to_level_up_pass",
+      "content": "Gunakan {0} Paid Lunacy untuk membeli Level Pass?"
+    },
+    {
+      "id": "battlepass_purchase_level_up",
+      "content": "Beli Level Pass"
+    },
+    {
+      "id": "lack_of_paid_lunacy",
+      "content": "Paid Lunacy anda tidak mencukupi."
+    },
+    {
+      "id": "only_paid_lunacy_for_battlepass_levelup",
+      "content": "※ Pembelian Level Battle Pass memerlukan 300 Paid Lunacy."
+    },
+    {
+      "id": "buy_battlepass_word",
+      "content": "Beli"
+    },
+    {
+      "id": "battlepass_level_ex_reward",
+      "content": "Hadiah Level Maksimal Pass"
+    },
+    {
+      "id": "battlepass_progress",
+      "content": "XP Battle Pass"
+    },
+    {
+      "id": "battlepass_free",
+      "content": "Free"
+    },
+    {
+      "id": "battlepass_limbuspass",
+      "content": "Limbus Pass"
+    },
+    {
+      "id": "battlepass_unable_levelup_by_level",
+      "content": "Level Maksimal Tercapai"
+    },
+    {
+      "id": "battlepass_reward_opened_at",
+      "content": "Update {0}"
+    },
+    {
+      "id": "battlepass_package_purchase",
+      "content": "Paket <font=\"BebasKai SDF\">LIMBUS PASS</style>"
+    },
+    {
+      "id": "battlepass_package_desc_level",
+      "content": "Berisi berbagai hadiah termasuk 「Banner Spesial Paket Limbus Pass」"
+    },
+    {
+      "id": "battlepass_package_desc_banner",
+      "content": "+ Aktivasi [LIMBUS PASS]"
+    },
+    {
+      "id": "battlepass_package_ask_purchase",
+      "content": "Gunakan {0} Paid Lunacy untuk membeli Paket ini?"
+    },
+    {
+      "id": "battlepass_package_warning",
+      "content": "※ Barang ini akan langsung digunakan setelah pembelian; pengembalian dana mungkin dibatasi."
+    },
+    {
+      "id": "battlepass_limbus_pass_benefit_ex_box_reward",
+      "content": "Terima Hadiah EX Level Maksimal Pass berikut setelah pembelian"
+    },
+    {
+      "id": "battlepass_limbus_pass_benefit_ex_box_reward_count",
+      "content": "<size=75%>(Pada Level Pass anda, anda dapat memperoleh <style=\"highlightConverted\">{1}</style> Peti Egoshard Nominasi Season {0} setelah pembelian)</size>"
+    },
+    {
+      "id": "battlepass_select_product_popup_title",
+      "content": "Pilih Pass/Paket"
+    },
+    {
+      "id": "only_paid_lunacy_for_battlepass_levelup_with_number",
+      "content": "※ Pembelian Level Pass memerlukan {0} Paid Lunacy."
+    },
+    {
+      "id": "battle_pass_package_button_desc",
+      "content": "Berbagai Hadiah\nTermasuk Banner Spesial"
+    },
+    {
+      "id": "battle_pass_select_popup_package_desc",
+      "content": "Berbagai Hadiah\nTermasuk Banner Spesial"
+    },
+    {
+      "id": "battle_pass_select_popup_limbus_desc",
+      "content": "◆ Membuka Hadiah Limbus Pass\n◆ Meningkatkan Hadiah EX Level Maksimal Pass"
+    },
+    {
+      "id": "battle_pass_package_purchase_popup_desc",
+      "content": "◆ Segera dapatkan 10 Level Pass setelah pembelian.\n◆ Termasuk konten berikut."
+    },
+    {
+      "id": "battle_pass_limbus_purchase_popup_desc",
+      "content": "◆ Terima berbagai hadiah dari Limbus Pass.\n◆ Terima 3 Peti Egoshard Nominasi [Season 3] sebagai ganti 1 dari Hadiah EX Level Maksimal Pass."
+    },
+    {
+      "id": "battle_pass_package_button_desc_with_limbus",
+      "content": "Berbagai Hadiah\nTermasuk Banner Spesial\n+ [LIMBUS PASS]"
+    },
+    {
+      "id": "battle_pass_package_purchase_popup_desc_in_box",
+      "content": "- Banner Spesial Paket Limbus Pass\n- Tiket Peningkat Level IV"
+    },
+    {
+      "id": "until_season_4_start",
+      "content": "~ Hingga Update Season 4"
+    },
+    {
+      "id": "until_season_5_start",
+      "content": "Hingga Update Season 6"
+    },
+    {
+      "id": "battlepass_ask_purchase_limbus_pass_package",
+      "content": "Membeli Paket Limbus Pass akan\nmemberikan keuntungan berikut selama {0}:"
+    },
+    {
+      "id": "battlepass_purchase_desc_pass",
+      "content": "Berbagai hadiah yang termasuk dalam Limbus Pass"
+    },
+    {
+      "id": "battlepass_purchase_desc_ex",
+      "content": "Terima <style=\"highlightConverted\">{1}</style> Peti Egoshard Nominasi Season 7 dari Hadiah Level Maksimal Pass+ sebagai ganti <style=\"highlightConverted\">{0}</style>"
+    },
+    {
+      "id": "battlepass_purchase_desc_pass_level",
+      "content": "Segera dapatkan 10 Level Pass setelah pembelian"
+    },
+    {
+      "id": "battlepass_purchase_desc_level_ticket",
+      "content": "Tiket Peningkat Level VI"
+    },
+    {
+      "id": "battlepass_purchase_desc_special_banner",
+      "content": "Banner Spesial Paket Limbus Pass"
+    },
+    {
+      "id": "battlepass_purchase_desc_policy",
+      "content": "※ Barang ini akan langsung digunakan setelah pembelian; pengembalian dana akan dibatasi.\n\n※ Battle Pass dijamin akan berlangsung [setidaknya 90 hari sejak dimulainya Season].\nTanggal berakhir tepatnya dari Battle Pass akan diumumkan saat [Panduan untuk Season mendatang] berikutnya diunggah.\nHarap diperhatikan bahwa tanggal pembelian Battle Pass anda tidak berpengaruh pada durasi aktif Battle Pass."
+    },
+    {
+      "id": "owned_count",
+      "content": "Dimiliki: {0}"
+    },
+    {
+      "id": "battle_pass_package_button_desc_with_limbus_2",
+      "content": "◆ Segera dapatkan 10 LV Pass setelah pembelian\n◆ Terima sebuah Banner Spesial\n◆ Tiket Peningkat Level VI"
+    },
+    {
+      "id": "battle_pass_product_limbus_desc_summary",
+      "content": "◆ Membuka Hadiah Limbus Pass\n◆ Meningkatkan Hadiah EX Level Maksimal Pass"
+    },
+    {
+      "id": "battle_pass_product_package_with_limbus_desc_summary",
+      "content": "◆ Limbus Pass Season 6\n◆ Segera dapatkan 10 LV Pass setelah pembelian\n◆ Tiket Peningkat Level V\n◆ Banner Spesial Paket Limbus"
+    },
+    {
+      "id": "battle_pass_product_package_without_limbus_desc_summary",
+      "content": "◆ Segera dapatkan 10 LV Pass setelah pembelian\n◆ Tiket Peningkat Level V\n◆ Banner Spesial Paket Limbus x2"
+    },
+    {
+      "id": "battle_pass_sale_10",
+      "content": "Diskon 10%"
+    },
+    {
+      "id": "until_season_6_start",
+      "content": "- Hingga Update Season 7"
+    }
+  ]
+}

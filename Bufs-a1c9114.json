@@ -1,0 +1,46 @@
+{
+  "dataList": [
+    {
+      "id": "A1c971a",
+      "name": "Boiling Wrath",
+      "desc": "Every Awal Giliran: peroleh Burn setara dengan Giliran Count",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "A1c971b",
+      "name": "Propagating Gloom",
+      "desc": "Akhir Giliran: at 1 Stack, beri damage setara dengan HP unit saat ini terhadap musuh dengan least HP, lalu die\nReduced sebanyak 1 pada Akhir Giliran",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "A1c971c",
+      "name": "Perpetuating Gluttony",
+      "desc": "Awal Giliran: peroleh 1 HP pulihkan boost setiap 2 giliran (maks 5)\nAwal Giliran: peroleh 1 Damage Up dan 1 Clash Power Up untuk setiap 10 HP healed (maks 5)\n\nHP Healed: {0}",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "A1c971d",
+      "name": "Gasping Breath",
+      "desc": "Ketika memperoleh Poise, peroleh 3 tambahan Poise atau +2 tambahan Poise Count",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "A1c971e",
+      "name": "Wounded Wound",
+      "desc": "Saat Serang, beri 2 tambahan Bleed atau +1 tambahan Bleed Count",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "A1c971f",
+      "name": "Lazy Sloth",
+      "desc": "Reduced sebanyak 1 pada Akhir Giliran.\nFails Extra Condition at 0",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

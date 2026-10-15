@@ -1,0 +1,491 @@
+{
+    "dataList": [
+        {
+            "id": 9016201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hardblood Stab",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hardblood Cleave",
+                    "desc": "[WhenUse] Jika target memiliki 8+ [Laceration], beri +20% damage",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Pada 6+ [Laceration], peroleh 1 [HardenedBlood]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Peroleh 8 [Laceration] dan 1 [BloodScissor]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hardblood Powercleave",
+                    "desc": "[WhenUse] Jika target memiliki 6+ [Laceration], Base Power +1\nBeri +5% damage untuk setiap [HardenedBlood] (maks 25%)\n[EndSkill] Konsumsi semua [HardenedBlood] dan [BloodScissor]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 [Laceration] dan +2 [Laceration] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Pulihkan ([Laceration] pada target)% HP (maks 20%)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Counter",
+                    "desc": "[WhenUse] Base Power +1 untuk setiap [HardenedBlood] pada diri sendiri",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 2 [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "It's a Festival, a Festival!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Let's Dress Up",
+                    "desc": "[WhenUse] Jika target memiliki 6+ [Laceration], beri +20% damage",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Jika target memiliki 5+ [Laceration], peroleh 1 [HardenedBlood]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016603,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "We've an Event untuk You!",
+                    "desc": "[WhenUse] Konsumsi hingga 50 [BloodDinner]; peroleh 1 [BloodScissor] dan pulihkan 3 SP untuk setiap 10 [BloodDinner] yang dikonsumsi\n[WhenUse] Jika unit ini failed to konsumsi [BloodDinner] dengan Skill ini, peroleh 5 [Laceration] dan 1 [HardenedBlood].\n[WhenUse] Jika target memiliki 5+ [Laceration], Coin Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016604,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Don't Rush Me",
+                    "desc": "[WhenUse] Jika target memiliki 5+ [Laceration], Coin Power +1\n[WhenUse] Clash Power +1 untuk setiap [BloodScissor] (maks 3)\nBeri +7% damage untuk setiap [HardenedBlood] (maks 35%)\n[EndSkill] Konsumsi semua [HardenedBlood]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 8 [Laceration]"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Konsumsi hingga 5 [BloodScissor] dan beri +(20 * yang dikonsumsi [BloodScissor])% damage (maks 100%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Pulihkan ([Laceration] Potency pada target)% HP (maks 30%)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016605,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Counter",
+                    "desc": "[WhenUse] Pada 1+ [BloodScissor], Base Power +1\n[WhenUse] Pada 3+ [HardenedBlood], Coin Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Please answer the survey.",
+                    "desc": "[WhenUse] Peroleh 5 [Laceration] dan +1 [Laceration] Count",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Don't! Don't Cut Me Off!",
+                    "desc": "[WhenUse] Peroleh 5 [Laceration] dan +1 [Laceration] Count",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Jika target memiliki 5+ [Laceration], peroleh 1 [BloodyHand]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016703,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Faded Patience",
+                    "desc": "[WhenUse] Konsumsi hingga 50 [BloodDinner]; peroleh 1 [BloodyHand] untuk setiap 10 [BloodDinner] yang dikonsumsi\n[WhenUse] Jika target memiliki 5+ [Laceration], Coin Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[EndSkill] Jika unit ini failed to konsumsi [BloodDinner] dengan Skill ini, peroleh 10 [Laceration] dan 1 [BloodyHand]."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Endless Atonement",
+                    "desc": "[WhenUse] Jika target memiliki 5+ [Laceration], Coin Power +1\n[WhenUse] Clash Power +1 untuk setiap [HardenedBlood] pada diri sendiri\n[DefeatDuel] Kehilangan 2 [BloodyHand]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Konsumsi semua [BloodyHand] untuk beri +3 [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Konsumsi semua [HardenedBlood] pada diri sendiri to increase [BloodDinner] sebanyak (yang dikonsumsi [HardenedBlood] x 3) dan peroleh 5 [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Pulihkan ([Laceration] pada target)% HP (maks 30%)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016705,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Counter",
+                    "desc": "[WhenUse] Pada 1+ [BloodyHand], Base Power +1\n[WhenUse] Pada 3+ [HardenedBlood], Coin Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Welcome to the Festival of Wonders!",
+                    "desc": "[WhenUse] Pada 5+ [FestivalFever], Final Power +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 [Laceration] dan +2 [Laceration] Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 3 [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Join the Joyful Parade!",
+                    "desc": "[WhenUse] Final Power +1 untuk setiap 5 [FestivalFever] pada diri sendiri atau setiap 6 [Laceration] pada target (maks 3)\n[WhenUse] Pada kurang dari 20 [BloodDinner], peroleh 20 [Laceration] dan immediately aktifkan it sekali, lalu kurangi [Laceration] Count sebanyak 1\n[EndSkill] Konsumsi 20 [BloodDinner]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Peroleh 1 [HardenedBlood] untuk setiap 6 [Laceration] pada target (maks 2)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[WinDuelAttack] Beri 4 [Laceration] dan +3 [Laceration] Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Peroleh 2~3 [BloomingThorns]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016803,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Blossom your Smiles of Joy!",
+                    "desc": "[WhenUse] Pada 5+ [FestivalFever], Coin Power +1\n[WhenUse] Jika target memiliki 6+ [Laceration], Clash Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[WinDuelAttack] Peroleh 2 [FestivalFever]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Eternal Kingdom of Happiness, La Manchaland!",
+                    "desc": "[WhenUse] Pada kurang dari 40 [BloodDinner], peroleh 20 [Laceration] dan +2 [Laceration] Count, immediately aktifkan it dua kali, lalu kurangi [Laceration] Count sebanyak 2\n[EndSkill] Konsumsi 40 [BloodDinner]\n[EndBattle] Konsumsi semua [HardenedBlood] dan [FestivalFever]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri [Laceration] dan [Burst] setara dengan [HardenedBlood] pada diri sendiri"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Pulihkan ([FestivalFever] x 4)% HP (maks 40%)"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Peroleh 5 [BloomingThorns]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016805,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Menghindar",
+                    "desc": "[WhenUse] Pada 5+ [FestivalFever], Final Power +2\n[StartBattle] Peroleh 3 [FestivalFever]\n[OnDefeatEvade] Kehilangan 3 [FestivalFever]",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        }
+    ]
+}

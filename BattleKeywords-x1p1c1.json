@@ -1,0 +1,30 @@
+{
+  "dataList": [
+    {
+      "id": "LeakedOutSauce",
+      "name": "Saus Marinade Bocor",
+      "desc": "- Akhir Giliran: Peroleh 1 Haste di giliran berikutnya untuk setiap 2 Stack (maks 10)\n- Kadaluarsa saat Akhir Giliran",
+      "summary": ""
+    },
+    {
+      "id": "DeliciousSauce",
+      "name": "Resep Saus Emas",
+      "desc": "- Clash Power +2",
+      "summary": ""
+    },
+    {
+      "id": "Yummy_Lowmorale",
+      "name": "Wuenak",
+      "desc": "- Moral Rendah\n- Awal Giliran: Peroleh 1 Fragile",
+      "summary": "Peroleh Fragile",
+      "undefined": "-"
+    },
+    {
+      "id": "Yummy_Panic",
+      "name": "Wuenak",
+      "desc": "- Panik\n- Awal Giliran: Peroleh 2 Fragile",
+      "summary": "Peroleh Fragile",
+      "undefined": "-"
+    }
+  ]
+}

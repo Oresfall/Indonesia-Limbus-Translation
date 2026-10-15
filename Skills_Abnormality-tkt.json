@@ -1,0 +1,528 @@
+{
+  "dataList": [
+    {
+      "id": 827701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Are You Afraid?",
+          "desc": "Ketika in [TimeAcceleration] state, Clash Power +1\n[DefeatDuel] Pada 75%- HP, konsumsi 50 [LimitedTime] dan peroleh 1 [Protection] (sekali per giliran)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Punishment Untuk Time Killers",
+          "desc": "Ketika in [TimeAcceleration] state, Clash Power +2\n[WhenUse] Pada 500+ [LimitedTime], beri +1 [Laceration] Count\n[WhenUse] Pada 300+ [LimitedTime], konsumsi 25 [LimitedTime] dan beri +1 lebih [Laceration] Potency dan Count dengan Skill ini",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Extraction",
+          "desc": "Ketika in [TimeAcceleration] state, Coin Power +1\n[WhenUse] Pada 75%- HP, konsumsi 50 [LimitedTime] dan peroleh Clash Power +2 (sekali per giliran)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mutilate",
+          "desc": "[WhenUse] Pada 75%- HP, konsumsi 75 [LimitedTime] dan peroleh Clash Power +2\n[BeforeAttack] Ketika in [TimeAcceleration] state, peroleh +1 Atk Weight",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 8 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Time to be Saved",
+          "desc": "[CantDuel]\nInflict [TimeKillerWatch] terhadap target yang menggunakan Skill Attack terhadap unit ini\n[StartBattle] Konsumsi 200 [LimitedTime] dan peroleh [TimeAcceleration] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Menghindar",
+          "desc": "[WhenUse] Base Power +1 untuk setiap 100 [LimitedTime] pada diri sendiri",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Are You Afraid?",
+          "desc": "Ketika in [TimeAcceleration] state, Clash Power +1\n[DefeatDuel] Pada 75%- HP, konsumsi 50 [OwnTime] dan peroleh 1 [Protection] (sekali per giliran)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Punishment Untuk Time Killers",
+          "desc": "Ketika in [TimeAcceleration] state, Clash Power +2\n[WhenUse] Pada 500+ (sum of [OwnTime] on semua Parts), beri +1 [Laceration] Count\n[WhenUse] Pada 300+ (sum of [OwnTime] on semua Parts), konsumsi 25 [OwnTime] dan beri +1 lebih [Laceration] Potency dan Count dengan Skill ini",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Extraction",
+          "desc": "Ketika in [TimeAcceleration] state, Coin Power +1\n[WhenUse] Pada 75%- HP, konsumsi 50 [OwnTime] dan peroleh Clash Power +2 (sekali per giliran)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mutilate",
+          "desc": "[WhenUse] Pada 75%- HP, konsumsi 75 [OwnTime] dan peroleh Clash Power +2\n[BeforeAttack] Ketika in [TimeAcceleration] state, peroleh +1 Atk Weight\n[BeforeAttack] Pada 60%- HP, konsumsi 10 [OwnTime] dan peroleh +1 Atk Weight",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 8 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Time to be Saved",
+          "desc": "[CantDuel]\nInflict [TimeKillerWatch] terhadap target yang menggunakan Skill Attack terhadap unit ini\n[StartBattle] Konsumsi 200 [OwnTime] dan peroleh [TimeAcceleration] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827806,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Menghindar",
+          "desc": "[WhenUse] Base Power +1 untuk setiap 100 sum of [OwnTime] across semua Parts (maks 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827807,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Timekilling Time",
+          "desc": "[CantDuel]\nUnit ini's Speed is fixed at 24.\nTidak dapat Stagger giliran ini.\n[WhenUse] Terima a total of 400 [OwnTime] dari everyone, lalu konsumsi it.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Erase target's time. Once unit ini erases target's time, semua Parts pulih [OwnTime] to their maks values dan peroleh 10 Haste dan 10 Attack Power Up giliran berikutnya."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tick",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tock",
+          "desc": "[WhenUse] Jika target memiliki 5+ [Laceration], Clash Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ticktick-Tock",
+          "desc": "[WhenUse] Jika target memiliki 5+ [Laceration], Clash Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 Burn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tock",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827707,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "My...",
+          "desc": "[DefeatDuel] Peroleh 1 [Vulnerable]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827708,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Running Out of Time",
+          "desc": "[DefeatDuel] Peroleh 1 [Vulnerable]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 827808,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "We Need More Time!",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}

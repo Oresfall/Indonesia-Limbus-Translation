@@ -1,0 +1,64 @@
+{
+  "dataList": [
+    {
+      "id": "MRcAfBa",
+      "name": "Gossypium",
+      "desc": "Ketika the Drenched Gossypium is in a Red-stained Gossypium state, peroleh (Gossypium value/2) Bleed dan Bleed Count pada Akhir Giliran",
+      "summary": "Akhir Giliran: Peroleh (Gossypium value/2) Bleed dan Bleed Count"
+    },
+    {
+      "id": "MRcAfBb",
+      "name": "Red-stained Gossypium",
+      "desc": "Awal Giliran: Double the Bleed dan Bleed Count applied oleh Skill Attack.\nJika target memiliki Gossypium, peroleh Clash Power +(Gossypium value/2)",
+      "summary": "Peroleh Clash Power +(Gossypium value/2)"
+    },
+    {
+      "id": "MRcAiBa",
+      "name": "Ember",
+      "desc": "Maks 5\nSetelah memperoleh Ember, ubah beberapa Skill non-Wrath setara dengan nilai dari Ember menjadi Wrath Affinity Skill.\nKetika Bagian \"Sayap\" rusak, beri Shimmering Ember setara dengan nilai dari Ember pada penyerang terakhir; lalu, semua Ember pada diri sendiri kadaluarsa.",
+      "summary": ""
+    },
+    {
+      "id": "MRcAiBb",
+      "name": "Shimmering Ember",
+      "desc": "Maks 5\nPeroleh Spark ketika diserang oleh Skill tertentu. Semua Shimmering Ember kadaluarsa.",
+      "summary": ""
+    },
+    {
+      "id": "MRcAiBc",
+      "name": "Spark",
+      "desc": "Awal Pertempuran: beri Burn setara dengan Burn pada diri sendiri terhadap 2 adjacent(berdasarkan Speed) unit.\nTidak dapat peroleh Ember ketika unit ini memiliki Spark.\nAkhir Giliran: kurangi nilainya sebanyak 1",
+      "summary": ""
+    },
+    {
+      "id": "MRcAmBa",
+      "name": "Contempt",
+      "desc": "Akhir Giliran: Kehilangan 3 E.G.O Resource of the Affinity corresponding to the selected Skill Affinity.\nAkhir Giliran: Peroleh 3 Damage Down giliran berikutnya.",
+      "summary": ""
+    },
+    {
+      "id": "MRcAmBb",
+      "name": "Grasp",
+      "desc": "Maks 3\nTidak dapat bertindak\nAkhir Giliran: pada 2- value, beri damage setara dengan setengah dari Maks HP target. Lalu, semua Parts of Spiral of Contempt memulihkan the same jumlah dari HP as the damage yang diberikan oleh efek ini.\nAkhir Giliran: kurangi nilainya sebanyak 1.\nJika efek ini brings HP target turun hingga 0, target can no longer be healed.",
+      "summary": ""
+    },
+    {
+      "id": "MRcAmBc",
+      "name": "Tatapan",
+      "desc": "Beri +10% damage untuk setiap nilai Tatapan\nAkhir Giliran: at 7 Tatapan, peroleh 15 Bleed dan gantikan efek ini dengan Contempt.",
+      "summary": ""
+    },
+    {
+      "id": "MRcAmBd",
+      "name": "Semua-beholding Tatapan",
+      "desc": "Peroleh 1 pada setiap Akhir Giliran.\nAkhir Giliran: semua unit dengan Tatapan terima (4 x value) damage HP tetap dan (4 x value) SP damage tetap.",
+      "summary": ""
+    },
+    {
+      "id": "MRcAmBbDisplay",
+      "name": "Grasp",
+      "desc": "Maks 3\nTidak dapat bertindak\nAkhir Giliran: pada 2- value, beri damage setara dengan setengah dari Maks HP target. Lalu, semua Parts of Spiral of Contempt memulihkan the same jumlah dari HP as the damage yang diberikan oleh efek ini.\nAkhir Giliran: kurangi nilainya sebanyak 1.\nJika efek ini brings HP target turun hingga 0, target can no longer be healed.",
+      "summary": ""
+    }
+  ]
+}

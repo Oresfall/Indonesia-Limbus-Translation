@@ -1,0 +1,186 @@
+{
+  "dataList": [
+    {
+      "id": "BloodScissor",
+      "name": "Blood-tinged Scissorblades",
+      "desc": "- Maks Value: 10\n- Stage 1 Blood-tinged Scissorblades\n- Used for special skills",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodScissorTwo",
+      "name": "Blood-tinged Scissorblades II",
+      "desc": "- Maks Value: 20\n- Stage 2 Blood-tinged Scissorblades\n- Awal Giliran: peroleh 1 Level Offense Up dan 1 Defense Level Down untuk setiap 5 Stack\n- Digunakan untuk Skill tertentu",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodScissorThree",
+      "name": "Blood-tinged Scissorblades III",
+      "desc": "- Maks Value: 30\n- Stage 3 Blood-tinged Scissorblades\n- Awal Giliran: peroleh 2 Level Offense Up dan 1 Defense Level Down untuk setiap 5 Stack\n- Digunakan untuk Skill tertentu",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodDinner",
+      "name": "Bloodfeast",
+      "desc": "- Maks Value: 999\n- Stores semua Bleed damage yang diberikan in this zone\n- Reset ketika pindah ke zona lain\n- This value is shared sebanyak semua karakter\n- Among kawan, jika terdapat higher Kindred who also konsumsi Bloodfeast in the same giliran, unit ini tidak bisa konsumsi Bloodfeast hingga kawan tersebut mengonsumsinya dahulu.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodDinner_Accumulation",
+      "name": "Bloodfeast Consumed",
+      "desc": "- Maks Value: 999\n- Total Bloodfeast dikonsumsi di Pertempuran ini: {0}",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FamineBlood_LowMorale",
+      "name": "Lapar",
+      "desc": "- Moral Rendah\n- Awal Giliran: peroleh 1 Bind dan 3 Attack Power Up. Akhir Giliran: terima 5 SP damage",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FamineBlood_Panic",
+      "name": "Lapar",
+      "desc": "- Panik\nAwal Giliran: Peroleh 2 Bind dan 4 Attack Power Up.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DuelDeclaration_Camille",
+      "name": "Declared Duel - Camille",
+      "desc": "- Dalam Clash antara unit that inflicted Declared Duel dan unit dengan status, the declarer has +1 Clash Power. Saat Serang, the declarer peroleh 1 Haste giliran berikutnya. (4 kali per giliran)\n- Kadaluarsa ketika unit memberi Declared Duel pada target lain. \n- Digantikan ketika unit lain memberi Declared Duel pada target yang sama.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RecklessDuel",
+      "name": "Foolhardy Duel",
+      "desc": "Akhir Giliran: peroleh 1 Clash Power Up giliran berikutnya untuk setiap 10% of the HP yang hilang. (maks 5)\nAkhir Giliran: peroleh 1 Bind giliran berikutnya untuk setiap 10% of the HP yang hilang. (maks 5)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ConcentratedAttack",
+      "name": "Focused Attack",
+      "desc": "Used on certain Slots",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TrulyWeak",
+      "name": "The Lemah",
+      "desc": "- Beri -10% damage\n- Akhir Giliran: Kurangi Value sebanyak 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RealPaperBear",
+      "name": "An Actual Bear",
+      "desc": "- It eats people. How fearsome!",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodScissorScars",
+      "name": "Deep Laceration",
+      "desc": "- Pada Kalah Clash: peroleh +3 Bleed Count dan aktifkan Bleed pada diri sendiri. Lalu, kehilangan 1 Bleed Count.\n- Kadaluarsa pada Akhir Giliran",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LineCutting",
+      "name": "Sewing Target",
+      "desc": "- Diprioritaskan oleh ???.\n- Kadaluarsa pada Akhir Giliran",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StarvingBarberOne",
+      "name": "Layu",
+      "desc": "- Haus darah untuk waktu yang sangat, sangat lama.\n- Lose 15 Base Level Offense\n- Lose 15 Base Defense Level",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StarvingBarberTwo",
+      "name": "Layu",
+      "desc": "- Haus darah untuk waktu yang sangat, sangat lama.\n- Lose 25 Base Level Offense\n- Lose 25 Base Defense Level",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodShooting",
+      "name": "Blood-shooting!!",
+      "desc": "Saat Mati:\n- Bloodfeast +30\n- peroleh 2 E.G.O resource for the least-owned E.G.O resource\n- Giliran berikutnya: semua kawan peroleh 0.1 ke semua Phys. Resistances. Efek ini can stack. (maks 5)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RighteousFeeling",
+      "name": "HOW RIGHTEOUS!!",
+      "desc": "- Pada setiap Akhir Giliran: peroleh 1 Haste, 3 Level Offense Up, dan 3 Defense Level Down giliran berikutnya\n- Peroleh 2 tambahan Level Offense Up setelah setiap 3 cumulative giliran (maks 6)\n- On Menang Clash, pulihkan 3 SP\n- Saat Membunuh, peroleh 1 Clash Power Up giliran berikutnya (sekali per giliran)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DuelDeclarationMeursault",
+      "name": "Declared Duel - Meursault",
+      "desc": "- Dalam Clash antara unit that inflicted Declared Duel dan unit dengan status, the declarer has +1 Clash Power. Saat Serang, the declarer peroleh 1 Haste giliran berikutnya. (4 kali per giliran)\n- Kadaluarsa ketika unit memberi Declared Duel pada target lain. \n- Digantikan ketika unit lain memberi Declared Duel pada target yang sama.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ConcentratedAttackMeursault",
+      "name": "Focused Attack - Meursault",
+      "desc": "<Pertempuran Terfokus Only>\nUnit that inflicted this Focused Attack peroleh efek berikut berdasarkan target Slot's Focused Attack Stack.\n  · 1x Stack: Peroleh Clash Power +1\n  · 2x Stack: Peroleh Base Power +1\n  · 3x Stack: Peroleh Base Power +1 dan Coin Power +1\n- Kadaluarsa jika, for a giliran, unit that inflicted it fails to hit the Slot inflicted with their Focused Attack.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Duello_LowMorale",
+      "name": "Duel Specialist",
+      "desc": "- Moral Rendah\n- Awal Giliran: Peroleh 2 Level Offense Up. Pada Kalah Clash, peroleh 1 Defense Level Down(maks 3 per giliran). Min. Speed -1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Duello_Panic",
+      "name": "Duel Specialist",
+      "desc": "- Panik\n- Awal Giliran: Peroleh 4 Level Offense Up. Pada Kalah Clash, peroleh 2 Defense Level Down(maks 6 per giliran). Min. Speed -1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RighteousFeelingSancho",
+      "name": "I will terima responsibility, through my bloody tears.",
+      "desc": "- Peroleh 1 tambahan Hardblood setiap kali unit ini peroleh Hardblood. (5 kali per giliran)\n- Pada setiap Akhir Giliran: peroleh 2 Haste dan 3 Level Offense Up giliran berikutnya\n- Peroleh 2 tambahan Level Offense Up setelah setiap 3 cumulative giliran (maks 6)\n- On Menang Clash, pulihkan 3 SP\n- Saat Membunuh, peroleh 1 Clash Power Up giliran berikutnya (sekali per giliran)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnfinishedDreamSancho",
+      "name": "In which is recounted the thralldom to blood thicker than water.",
+      "desc": "- Peroleh 2 tambahan Hardblood setiap kali unit ini peroleh Hardblood. (5 kali per giliran)\n- Pada setiap Akhir Giliran: peroleh 2 Haste dan 3 Level Offense Up giliran berikutnya\n- Peroleh 2 tambahan Level Offense Up setelah setiap 3 cumulative giliran (maks 6)\n- On Menang Clash, pulihkan 3 SP\n- Saat Membunuh, peroleh 2 Clash Power Up giliran berikutnya (sekali per giliran)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FragmentOfHopeSancho",
+      "name": "Which treats the banquet of blood for the Family's suffering.",
+      "desc": "Peroleh Clash Power Up setara dengan Stack\nBeri +10% damage",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FragmentOfHopeTwoSancho",
+      "name": "Of how a lone Bloodfiend came to bear the guilt of slaying the Father who forsook his Children.",
+      "desc": "- Clash Power +4 untuk setiap value\n- Beri Perisai pada diri sendiri dan semua kawan at Awal Pertempuran\n- Beri +20% damage\n- Saat Serang, beri 1 damage tetap juga",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

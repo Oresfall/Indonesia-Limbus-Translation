@@ -1,0 +1,827 @@
+{
+    "dataList": [
+        {
+            "id": 851001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Crying Slap",
+                    "desc": "[WhenUse] Target kehilangan 15 SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 5 Sinking dan +5 Sinking Count"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 851002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Gloomy Slap",
+                    "desc": "[StartDuel] Target memulihkan 5 SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[AlwaysUse] Beri SP damage sebanyak setengah dari damage displayed"
+                                },
+                                {
+                                    "desc": "[AlwaysUse] No HP damage is dealt"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 851003,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Melty Eyeball",
+                    "desc": "[WhenUse] Target kehilangan 5 SP\nJika target’s SP di bawah 0, +10% Damage",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri bonus damage sebanyak target’s Sinking"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri bonus SP damage sebanyak target’s Sinking"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 851004,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Gushing Gloom",
+                    "desc": "[WhenUse] Target kehilangan 5 SP\nTarget musuh dengan the most Sinking",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +3 Sinking Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri bonus damage sebanyak target’s Sinking"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri bonus SP damage sebanyak target’s Sinking"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 851005,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Eyeball Weight",
+                    "desc": "[DefeatDuel] Cancel semua skills\n[DefeatDuel] Peroleh 3 Fragile\nJika target di bawah 0 SP, +10% Damage",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Double target’s Sinking dan its Count"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 851006,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Melted Eyeball",
+                    "desc": "[WhenUse] Target kehilangan 5 SP\nJika target’s SP di bawah 0, +10% Damage",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri bonus SP damage sebanyak target’s Sinking"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 851007,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Melted Eyeball",
+                    "desc": "[WhenUse] Target kehilangan 5 SP\nJika target’s SP di bawah 0, +10% Damage",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri bonus damage sebanyak target’s Sinking"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 851008,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Croohoo",
+                    "desc": "[StartBattle] Peroleh 2 Protection",
+                    "coinlist": []
+                }
+            ]
+        },
+        {
+            "id": 851901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Booting Town Tour",
+                    "desc": "[WhenUse] Peroleh +4 Count Charge",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 851902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Welcome to the Tour",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 1 Plus Coin Drop giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 851903,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Please Cooperate!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 Paralyze giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 851904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Processing Transfer Reg",
+                    "desc": "[WhenUse] Habiskan semua Count Charge",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Put target in Penahanan"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 851905,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pleased to Meet You, Dear Neighbor",
+                    "desc": "[CantDuel]\nAttacks target in Penahanan",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 10 Burn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 851906,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "System Error Detected",
+                    "desc": "Menjadi Stagger giliran berikutnya",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Habiskan 2 Charge untuk beri 5 Burn"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Habiskan 2 Charge untuk beri 5 Burn"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 851907,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Processing Computation",
+                    "desc": "[WhenUse] Peroleh 5 Protection",
+                    "coinlist": []
+                }
+            ]
+        },
+        {
+            "id": 851908,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Rebooting…",
+                    "desc": "",
+                    "coinlist": []
+                }
+            ]
+        },
+        {
+            "id": 851909,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Processing Transfer Reg",
+                    "desc": "[CantDuel]\n[CantChangeTarget]\nTarget unit dengan most HP\n[WhenUse] Habiskan semua Charge",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Put target in Penahanan"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Do Not Masuk",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 1 Rupture"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Subdue",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 3 Rupture"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +3 Rupture Count"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Forbid Entry",
+                    "desc": "[DefeatDuel] Pulihkan 10 HP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +2 Rupture Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri HP damage setara dengan Rupture Potency\nHilangkan semua Rupture dari target"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Suspicious Individuals",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 3 Rupture"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Restrain",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 3 Rupture"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "No Trespassing",
+                    "desc": "Target unit dengan the most HP",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Jika Coin 1 lands Heads, +10% Damage"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Jika Coin 2 lands Heads, +10% Damage"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Jika Coin 2 & 3 land Heads, +30% Damage"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Dāna",
+                    "desc": "[WhenUse] Beri 2 Protection ke kawan acak lain",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 Damage Down giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Expound Sutras",
+                    "desc": "[WhenUse] Beri 2 Attack Power Up ke kawan acak lain",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Attack Power Up ke kawan acak lain giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852703,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Mahāsrī",
+                    "desc": "[WhenUse] Give 3 Protection giliran berikutnya",
+                    "coinlist": []
+                }
+            ]
+        },
+        {
+            "id": 852704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Svāhā",
+                    "desc": "[WhenUse] Give 3 Damage Up giliran berikutnya",
+                    "coinlist": []
+                }
+            ]
+        },
+        {
+            "id": 852705,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Prajñāpāramitā",
+                    "desc": "[CantIdentify] Target unit dengan the most Karma\nBeri damage lebih based pada target’s Karma (+2% per Count)\nJika target memiliki no Karma, -50% Damage",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Jika target memiliki Karma, beri 50 Karma"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852706,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Dhyāna",
+                    "desc": "[WinDuel] Setengahkan status negatif efek pada unit ini",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Attack Power Down giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852707,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Compulsory Offering",
+                    "desc": "[DefeatDuel] Beri 20 Karma ke kawan acak lain giliran berikutnya",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 20 Karma"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852708,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sluggard Waker",
+                    "desc": "[DefeatDuel] Beri 20 Karma ke kawan acak lain giliran berikutnya",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 10 Karma"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 10 Karma"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852709,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Mantra",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Hapus 3 E.G.O resource of a acak Affinity"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Hapus 3 E.G.O resource of a acak Affinity"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852710,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Sluggard Waker",
+                    "desc": "[CantDuel]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 Samsara"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 3 Paralyze giliran berikutnya"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "Beri 3 Fragile giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852711,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Bodhi Svāhā",
+                    "desc": "[WhenUse] Peroleh 10 Damage Up\nTarget Stagger musuh first",
+                    "coinlist": []
+                }
+            ]
+        },
+        {
+            "id": 852801,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Drive",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 1 Damage Down giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852802,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "…Be Cleansed",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 1 Bind giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852803,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Inquisitional Retribution",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 Paralyze giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Rápidamente~",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 1 Plus Coin Drop giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 852902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Pañata Party~!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Plus Coin Drop giliran berikutnya"
+                                }
+                            ]
+                        },
+                        {},
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 Fragile giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 853001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Flesh Surge",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 2 Paralyze giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 853002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Dominate Mind",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 Damage Down giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,368 @@
+{
+  "dataList": [
+    {
+      "id": "loginui_sign_in_with_google",
+      "content": "Masuk dengan Google"
+    },
+    {
+      "id": "loginui_sign_in_with_apple",
+      "content": "Masuk dengan Apple"
+    },
+    {
+      "id": "loginui_sign_in_with_steam",
+      "content": "Masuk dengan Steam"
+    },
+    {
+      "id": "loginui_sign_in_with_guest",
+      "content": "Masuk sebagai tamu"
+    },
+    {
+      "id": "loginui_sign_out_current_account",
+      "content": "Keluar"
+    },
+    {
+      "id": "loginui_sign_out_current_account_desc",
+      "content": "Keluar dari akun saat ini?\nJika anda bermain sebagai tamu, data anda mungkin akan hilang."
+    },
+    {
+      "id": "loginui_sign_out_switch_account_desc",
+      "content": "Keluar dari akun saat ini\ndan beralih ke akun yang dipilih?\nJika anda bermain sebagai tamu, data anda mungkin akan hilang."
+    },
+    {
+      "id": "switch_account",
+      "content": "Ganti Akun"
+    },
+    {
+      "id": "user_agreements",
+      "content": "Ketentuan Layanan"
+    },
+    {
+      "id": "title_game_data_download",
+      "content": "Unduh Data Game"
+    },
+    {
+      "id": "content_game_data_download",
+      "content": "Mengunduh {0} data."
+    },
+    {
+      "id": "content_game_data_download_description",
+      "content": "Anda akan dikembalikan ke layar judul jika perangkat anda tidak memiliki ruang penyimpanan yang cukup."
+    },
+    {
+      "id": "content_game_data_download_recommend",
+      "content": "Disarankan menggunakan koneksi Internet langsung (Wi-Fi)."
+    },
+    {
+      "id": "switch_allcacheclear",
+      "content": "Hapus semua cache"
+    },
+    {
+      "id": "switch_oldcacheclear",
+      "content": "Hapus cache lama"
+    },
+    {
+      "id": "networkingerror_content",
+      "content": "Jaringan tidak stabil.\nSilakan periksa koneksi Internet anda."
+    },
+    {
+      "id": "networkingerror_close",
+      "content": "Tutup"
+    },
+    {
+      "id": "networkingerror_retry",
+      "content": "Coba Lagi"
+    },
+    {
+      "id": "loginui_ok",
+      "content": "Konfirmasi"
+    },
+    {
+      "id": "login_cancel",
+      "content": "Batal"
+    },
+    {
+      "id": "loginui_loading_battlehint",
+      "content": "Tips Pertempuran"
+    },
+    {
+      "id": "servererror_content",
+      "content": "Terjadi kesalahan server.\nSilakan coba lagi dalam beberapa saat."
+    },
+    {
+      "id": "forcequit_content",
+      "content": "Tidak dapat mengoperasikan game.\nMenutup sekarang."
+    },
+    {
+      "id": "serverstate_openpreparation",
+      "content": "Semuanya masih sedang dipersiapkan!"
+    },
+    {
+      "id": "serverstate_regularcheck",
+      "content": "Server saat ini sedang dalam pemeliharaan rutin."
+    },
+    {
+      "id": "serverstate_temporary_check",
+      "content": "Server saat ini sedang dalam pemeliharaan sementara."
+    },
+    {
+      "id": "serverstate_verify_invaliduser",
+      "content": "Akun tidak ada atau telah ditutup."
+    },
+    {
+      "id": "serverstate_verify_ban",
+      "content": "Akun ini dilarang untuk bermain."
+    },
+    {
+      "id": "serverstate_verify_invalidauth",
+      "content": "Terjadi kesalahan.\nSilakan masuk kembali."
+    },
+    {
+      "id": "guestlogin_failed_try_newguest",
+      "content": "Gagal Masuk Tamu.\nAkun sudah tertaut, atau akun Tamu tidak ada.\n\nApakah anda ingin membuat akun Tamu baru?"
+    },
+    {
+      "id": "secession_remain_days",
+      "content": "Akun saat ini dalam masa penutupan.\nWaktu Tersisa: {0}H {1}J {2}M\n\nAnda dapat memulihkan akun jika masuk sekarang.\nPulihkan akun?"
+    },
+    {
+      "id": "secession_canceled",
+      "content": "Akun berhasil dipulihkan."
+    },
+    {
+      "id": "serverstate_verify_invalidclientversion",
+      "content": "Versi game tidak mutakhir.\nSilakan perbarui ke versi terbaru."
+    },
+    {
+      "id": "create_guest",
+      "content": "Buat Akun Tamu"
+    },
+    {
+      "id": "ask_to_remove_all_cache",
+      "content": "Hapus semua cache?"
+    },
+    {
+      "id": "networkingerror_update",
+      "content": "Buka Store"
+    },
+    {
+      "id": "speed_hack_warning",
+      "content": "Penggunaan program pihak ketiga yang tidak resmi telah terdeteksi."
+    },
+    {
+      "id": "serverstate_verify_ban_startdate",
+      "content": "Tanggal"
+    },
+    {
+      "id": "serverstate_verify_ban_reason",
+      "content": "Deskripsi"
+    },
+    {
+      "id": "serverstate_verify_ban_reason_refund",
+      "content": "Penyalahgunaan sistem pengembalian dana Open Market"
+    },
+    {
+      "id": "serverstate_verify_ban_reason_cheat",
+      "content": "Catatan aktivitas game yang tidak normal"
+    },
+    {
+      "id": "serverstate_blocking_endpoint",
+      "content": "Fungsi ini sedang dalam pemeliharaan."
+    },
+    {
+      "id": "serverstate_verify_invaliduuid",
+      "content": "Permintaan ini telah diproses.\nSilakan mulai ulang game untuk menyinkronkan."
+    },
+    {
+      "id": "login_scene_mini_story_warning_spoiler_format",
+      "content": "Cerita ini berlangsung setelah Cerita Utama Bab {0}. Apakah anda ingin tetap melihat cerita ini?"
+    },
+    {
+      "id": "login_scene_mini_story_unlock_code_105",
+      "content": "5"
+    },
+    {
+      "id": "login_scene_mini_story_unlock_code_9105",
+      "content": "5.5"
+    },
+    {
+      "id": "switch_clearcatalog",
+      "content": "Hapus Katalog"
+    },
+    {
+      "id": "panel_clearcatalog",
+      "content": "Hapus katalog?"
+    },
+    {
+      "id": "serverstate_error_thirdparty_api",
+      "content": "Kesalahan koneksi server eksternal. Silakan coba lagi nanti."
+    },
+    {
+      "id": "servererror_invalid_purchasing_package",
+      "content": "Transaksi gagal."
+    },
+    {
+      "id": "forcequit_cache_initialize_fail",
+      "content": "Gagal menjalankan Game Client dengan benar.\nSilakan periksa status jaringan anda dan coba lagi.\nInkuiri: limbussupport+bug@projmoon.com"
+    },
+    {
+      "id": "push_notification_message_full_stamina_default_title",
+      "content": "Limbus Company"
+    },
+    {
+      "id": "push_notification_message_full_stamina_default_text",
+      "content": "Enkephalin telah terisi sepenuhnya."
+    },
+    {
+      "id": "push_notification_message_full_stamina_1_title",
+      "content": "Enkephalin Terisi"
+    },
+    {
+      "id": "push_notification_message_full_stamina_1_text",
+      "content": "Perhatiannya, walaupun tak ada yang mengkhawatirkan. Idealnya, tujuan saya di sini adalah memberi tahu anda bahwasanya Enkephalin telah terisi penuh. Itulah pesan yang ingin saya sampaikan."
+    },
+    {
+      "id": "push_notification_message_full_stamina_2_title",
+      "content": "Enkephalin Terisi"
+    },
+    {
+      "id": "push_notification_message_full_stamina_2_text",
+      "content": "Pengisian ulang Enkephalin telah selesai. Manajer terhormat, konversi modul Enkephalin disarankan demi efisiensi."
+    },
+    {
+      "id": "push_notification_message_full_stamina_3_title",
+      "content": "Enkephalin Terisi"
+    },
+    {
+      "id": "push_notification_message_full_stamina_3_text",
+      "content": "MANAJER TERHORMAT!!! TANGKI BAHAN BAKAR SUDAH DIISI ULANG!!! MARI BERKUMPUL, KARENA PERTUALANGAN KITA HARUS BERLANJUT!!!"
+    },
+    {
+      "id": "push_notification_message_full_stamina_4_title",
+      "content": "Enkephalin Terisi"
+    },
+    {
+      "id": "push_notification_message_full_stamina_4_text",
+      "content": "E.T.(Enkephalin Terisi.)"
+    },
+    {
+      "id": "push_notification_message_full_stamina_5_title",
+      "content": "Enkephalin Terisi"
+    },
+    {
+      "id": "push_notification_message_full_stamina_5_text",
+      "content": "Enkephalin telah terisi penuh, manajer."
+    },
+    {
+      "id": "push_notification_message_full_stamina_6_title",
+      "content": "Enkephalin Terisi"
+    },
+    {
+      "id": "push_notification_message_full_stamina_6_text",
+      "content": "Woow~ Enkephalinnya sudah penuh~ Kamu ingin ngecek tidak?"
+    },
+    {
+      "id": "push_notification_message_full_stamina_7_title",
+      "content": "Enkephalin Terisi"
+    },
+    {
+      "id": "push_notification_message_full_stamina_7_text",
+      "content": "Itu, uh. Enkeph—? ... Zat hijaunya dah penuh. Ayo kesini, ya?"
+    },
+    {
+      "id": "push_notification_message_full_stamina_8_title",
+      "content": "Enkephalin Terisi"
+    },
+    {
+      "id": "push_notification_message_full_stamina_8_text",
+      "content": "Enkephalin sudah terisi kembali... Hm. Ya, bis sudah siap untuk perlayaran selanjutnya. Ayo."
+    },
+    {
+      "id": "push_notification_message_full_stamina_9_title",
+      "content": "Enkephalin Terisi"
+    },
+    {
+      "id": "push_notification_message_full_stamina_9_text",
+      "content": "Dante~ Enkephalinnya penuh nih! Jangan lupa untuk konversi jadi modul, ya!"
+    },
+    {
+      "id": "push_notification_message_full_stamina_11_title",
+      "content": "Enkephalin Terisi"
+    },
+    {
+      "id": "push_notification_message_full_stamina_11_text",
+      "content": "Hai, manajer... kamu... sibuk tidak? I-ini tidak serius sih, tapi... Enkephalinnya hampir meluap..."
+    },
+    {
+      "id": "push_notification_message_full_stamina_12_title",
+      "content": "Enkephalin Terisi"
+    },
+    {
+      "id": "push_notification_message_full_stamina_12_text",
+      "content": "Melapor kepada Manajer Eksekutif. Enkephalin telah terisi penuh. Bolehkah saya menyarankan agar anda menggunakan atau mengkonversinya?"
+    },
+    {
+      "id": "push_notification_message_full_stamina_13_title",
+      "content": "Enkephalin Terisi"
+    },
+    {
+      "id": "push_notification_message_full_stamina_13_text",
+      "content": "Uhh, manajer? Kamu di sana? Itu, uh, tangki bahan bakarnya sudah penuh... Mungkin kamu mau cek?"
+    },
+    {
+      "id": "push_notification_message_full_stamina_14_title",
+      "content": "Enkephalin Terisi"
+    },
+    {
+      "id": "push_notification_message_full_stamina_14_text",
+      "content": "Waktu istirahat anda sudah selesai, Manajer Dante. Jangan biarkan bis berhenti terlalu lama."
+    },
+    {
+      "id": "push_notification_message_full_stamina_15_title",
+      "content": "Enkephalin Terisi"
+    },
+    {
+      "id": "push_notification_message_full_stamina_15_text",
+      "content": "Mephi kenyang. Charon, waktunya brrm-brrm."
+    },
+    {
+      "id": "custom_localize_button",
+      "content": "Pilih Bahasa Kustom"
+    },
+    {
+      "id": "custom_localize_title",
+      "content": "Pilih Bahasa Kustom"
+    },
+    {
+      "id": "custom_localize_desc",
+      "content": "※ Mulai ulang game untuk menerapkan perubahan bahasa."
+    },
+    {
+      "id": "steam_overlay_cannot_activate_title",
+      "content": "Kesalahan Transaksi Steam"
+    },
+    {
+      "id": "steam_overlay_cannot_activate_text",
+      "content": "Silakan aktifkan opsi [Aktifkan Steam Overlay saat di dalam game]\ndari properti game Steam - Umum,\nlalu mulai ulang game."
+    },
+    {
+      "id": "servererror_remain_restore_purchasing",
+      "content": "Transaksi masih berlangsung.\nSilakan gunakan tombol [Pulihkan Pembelian] dan coba lagi."
+    },
+    {
+      "id": "invalid_login_no_guest_uid",
+      "content": "Akun Tamu tidak ada,\natau telah dihapus."
+    },
+    {
+      "id": "invalid_login_is_not_guest",
+      "content": "Akun Tamu ini sudah tertaut ke sebuah platform.\nSilakan gunakan tombol [Ganti Akun] untuk masuk ke platform tertaut anda."
+    },
+    {
+      "id": "try_new_guest",
+      "content": "Buat akun Tamu baru?"
+    },
+    {
+      "id": "need_verify_integrity_steam",
+      "content": "Sumber daya yang hilang terdeteksi.\nSilakan gunakan fungsi \"Verifikasi integritas file game\" milik Steam."
+    }
+  ]
+}

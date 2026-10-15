@@ -1,0 +1,179 @@
+{
+  "dataList": [
+    {
+      "id": 950101,
+      "name": "Reminisced Augmentation",
+      "desc": "Awal Giliran: Pada kurang dari 50% HP, pulihkan 20% HP"
+    },
+    {
+      "id": 950901,
+      "name": "Hora de Fiesta",
+      "desc": "Awal Giliran: saat kurang dari 50% HP, peroleh 1 [Enhancement] dan 1 [Endurance]"
+    },
+    {
+      "id": 951001,
+      "name": "Blue Resin",
+      "desc": "Ketika an Eye Bagian breaks, musuh dengan the least SP kehilangan 35 SP"
+    },
+    {
+      "id": 951701,
+      "name": "Noble be Thy Sacrifice",
+      "desc": "Ketika kawan mati, peroleh 1 [Enhancement] giliran berikutnya"
+    },
+    {
+      "id": 951702,
+      "name": "Joy of Execution",
+      "desc": "Saat Membunuh, peroleh 2 [AttackDmgUp] giliran berikutnya"
+    },
+    {
+      "id": 951703,
+      "name": "Thou Shalt Hammer",
+      "desc": "Awal Giliran: Jika unit ini memiliki [Assemble], peroleh 5 [AttackDmgUp]"
+    },
+    {
+      "id": 951801,
+      "name": "Lightning Rod",
+      "desc": "Ketika the Telephone Pole diserang, beri 2 [ElectricShock] pada penyerang giliran ini.\nPada 5+ [DogThunder], semua Parts will beri 3 [ElectricShock] pada penyerang, starting giliran berikutnya.\n(Lasts hingga [DogThunder] reaches 0.)\nKetika diserang sebanyak a Sloth attack, jumlah dari [ElectricShock] diberikan is halved. (rounded up)"
+    },
+    {
+      "id": 951802,
+      "name": "Lightning",
+      "desc": "Selama the Telephone Pole isn’t broken, peroleh 1 [DogThunder] setelah attack\nKetikaever the Telephone Pole diserang, kehilangan 1 [DogThunder]"
+    },
+    {
+      "id": 951803,
+      "name": "Breaking Pieces",
+      "desc": "Ketika the telephone pole kena Stagger atau Broken, kehilangan semua [DogThunder];\nSemua Skill Attack of the Alleyway Watchdog will lalu be canceled untuk giliran ini"
+    },
+    {
+      "id": 951901,
+      "name": "Initiating Town Tour",
+      "desc": "Awal Giliran: Pada 10+ Count [Charge], peroleh pola baru"
+    },
+    {
+      "id": 952001,
+      "name": "Damage Detected!",
+      "desc": "On kematian, kqe-1j-23 menerima 100 damage, menjadi Stagger giliran berikutnya, dan is prohibited dari menggunakan semua Skill yang beri [Duress] for the rest of Pertempuran"
+    },
+    {
+      "id": 952101,
+      "name": "Kantung Darah",
+      "desc": "Jika unit ini memiliki [BloodPocket]:\n- The Body's Wrath Resist. -50%\n- The Body's Gloom Resist. +50%"
+    },
+    {
+      "id": 952102,
+      "name": "Fluid Sac",
+      "desc": "Jika unit ini memiliki [WaterPocket], pulihkan its \"Inti\" sebanyak (Stack x 20)"
+    },
+    {
+      "id": 952201,
+      "name": "Pulsating Lengan",
+      "desc": "Awal Giliran: peroleh [Enhancement] dan [Protection] sebanyak [AggressiveBokgak] Stack"
+    },
+    {
+      "id": 952202,
+      "name": "Damaged Lengan",
+      "desc": "Kehilangan 1 [AggressiveBokgak] whenever unit ini menerima 1+ damage dari attacks"
+    },
+    {
+      "id": 952203,
+      "name": "Regenerating Shell",
+      "desc": "Akhir Giliran: jika unit didn’t terima any damage dari attacks during the giliran, pulihkan 5% HP dan peroleh 1 [AggressiveBokgak]"
+    },
+    {
+      "id": 952204,
+      "name": "Frantic Eyes",
+      "desc": "Behavior depends on the [AggressiveBokgak] Stack.\nUses agresif Skill at 4+ [AggressiveBokgak], dan menjadi defensive saat kurang dari 4"
+    },
+    {
+      "id": 952401,
+      "name": "HP Bullets",
+      "desc": "Awal Giliran: pulihkan 15 HP\nPada kurang dari 50% HP, pulihkan 15 tambahan HP"
+    },
+    {
+      "id": 952701,
+      "name": "Berlebihan HP Bullet",
+      "desc": "Awal Giliran: peroleh 2 [AttackDmgUp] dan 2 [Vulnerable]"
+    },
+    {
+      "id": 952702,
+      "name": "HP Ampule Injection",
+      "desc": "Awal Giliran: Jika HP unit ini is not at full, pulihkan 25% HP (maks 3 kali; pulih dari Stagger jika unit ini kena Stagger)"
+    },
+    {
+      "id": 952801,
+      "name": "Amplified Aggression",
+      "desc": "Ketika diserang, peroleh 1 [AggressiveBokgak]\nAkhir Giliran: Pada 4+ [AggressiveBokgak], enter [Enrage] state"
+    },
+    {
+      "id": 952802,
+      "name": "Frenzy",
+      "desc": "In the [Enrage] state, peroleh 3 [Enhancement] dan 3 [Vulnerable], peroleh a new Skill pattern, dan tidak memperoleh [AggressiveBokgak] ketika diserang"
+    },
+    {
+      "id": 952803,
+      "name": "Shimmering Rage",
+      "desc": "Pada kurang dari 50% HP, enters [Enrage] setiap giliran"
+    },
+    {
+      "id": 952901,
+      "name": "Rotting Skin",
+      "desc": "Awal Giliran: Pada kurang dari 50% HP, ketika diserang, beri 3 [Racun] terhadap penyerang"
+    },
+    {
+      "id": 952902,
+      "name": "Molt",
+      "desc": "Setelah this Bagian rusak, jika the other Arm is not broken pada end of berikut giliran, this Bagian regenerates dengan the same HP as the other Arm; lalu, pulihkan \"Inti\" sebanyak jumlah dari the regenerated Arm's HP\n\nKetika both Lengan telah rusak, peroleh a new Skill pattern"
+    },
+    {
+      "id": 952903,
+      "name": "Pained Writhing",
+      "desc": "Peroleh 5 [Vulnerable] dan beri 10 [Racun] terhadap semua musuh setiap giliran"
+    },
+    {
+      "id": 952904,
+      "name": "Wriggling Insting",
+      "desc": "Behavior depends on the [AggressiveBokgak] Stack.\nUses agresif Skill at 4+ [AggressiveBokgak] Stack, dan menjadi defensive at 0"
+    },
+    {
+      "id": 953301,
+      "name": "Overflowing Ecstasy",
+      "desc": "Starting dari giliran 3, menjadi [Cromer_Ecstasy] setiap 2 giliran"
+    },
+    {
+      "id": 953302,
+      "name": "Blooming Purity",
+      "desc": "Akhir Giliran: Jika Kromer’s main body is brought to kurang dari 50% HP, she peroleh [Cromer_Madness] for the remaining giliran"
+    },
+    {
+      "id": 953303,
+      "name": "Flawless Flesh",
+      "desc": "Ketika the Arm rusak, Bagian peroleh 2 [Reduction]"
+    },
+    {
+      "id": 953401,
+      "name": "Dhyāna",
+      "desc": "Jika terdapat kawan yang hidup, peroleh 10 [Protection] pada setiap Awal Giliran"
+    },
+    {
+      "id": 953402,
+      "name": "Putaran Karma",
+      "desc": "Semua unit transfer 10 of their [Cycle] to their target Saat Menyerang\n([Cycle] Stack transferred meningkat sebanyak 5 per jumlah Clash)\n[Cycle] is not transferred to My Form Empties as long as its kawan are alive"
+    },
+    {
+      "id": 953403,
+      "name": "Anatman",
+      "desc": "Awal Giliran: jika the Mūrti rusak, beri 30 [Cycle] dan 3 [Vulnerable] ke kawan acak lain, peroleh a new Skill pattern, dan enter an Indiscriminate mode of Anatman (Non-Self)."
+    },
+    {
+      "id": 953404,
+      "name": "Nirmāna",
+      "desc": "Ketika the Mūrti recovers, its Maks HP increases sebanyak 20%."
+    },
+    {
+      "id": 953501,
+      "name": "Bhaishajya",
+      "desc": "Awal Giliran: fully pulihkan HP"
+    }
+  ]
+}

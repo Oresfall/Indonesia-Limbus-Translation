@@ -1,0 +1,149 @@
+{
+  "dataList": [
+    {
+      "id": 860501,
+      "name": "Portrait Bayangan Sighting",
+      "desc": "Jika Skill Slot is attached to the Master's Portrait, a shockwave in the same color as the aura around the Master's Portrait occurs ketika the Portrait is revealed"
+    },
+    {
+      "id": 860502,
+      "name": "Throwing Out the Interloper",
+      "desc": "Ketika the Portraits are present:\n- Akhir Giliran: Once 3 giliran have passed since the Portraits have appeared...\n     - Beri [UninvitedGuest] to the earliest-Deployed musuh tanpa [UninvitedGuest]\n     - Incinerate semua Portraits. Beri double jumlah dari fake Portraits burned as [Sinking] Potency dan Count terhadap semua musuh. Peroleh [AttackUp] dan [Protection] giliran berikutnya"
+    },
+    {
+      "id": 860503,
+      "name": "Interloper Hunt",
+      "desc": "Jika target memiliki [UninvitedGuest], Clash Power +1 dan beri +20% damage"
+    },
+    {
+      "id": 860507,
+      "name": "Ooh, Dear Master...",
+      "desc": "Ketika the Portraits are present, kurangi Affinity & Attack Type Resistances sebanyak 0.5, dan peroleh 8 [Protection].\nJika musuh dikalahkan the Master's Portrait, beri [UninvitedGuest] ke unit that dikalahkan it; lalu peroleh 0.5 Phys. Resistances dan 5 Fragile selama giliran berikutnya."
+    },
+    {
+      "id": 860505,
+      "name": "You Must Be the Interloper's Family?",
+      "desc": "Ketika musuh has [UninvitedGuest], beri [UninvitedGuest] terhadap musuh tanpa [UninvitedGuest] setiap kali unit ini kehilangan 10% of its HP (maks 4 musuh)"
+    },
+    {
+      "id": 860601,
+      "name": "Peering Tatapan",
+      "desc": "As long as unit ini exists, beri 1 [Sinking] Potency dan Count setiap giliran"
+    },
+    {
+      "id": 860602,
+      "name": "Interloper",
+      "desc": "Ketika unit ini dikalahkan, beri [UninvitedGuest] terhadap musuh that attacked unit ini last\n- Jika 4+ musuh have [UninvitedGuest], efek ini tidak mengaktifkan"
+    },
+    {
+      "id": 860701,
+      "name": "Peering Tatapan",
+      "desc": "As long as unit ini exists, beri 1 [Sinking] Potency dan Count setiap giliran"
+    },
+    {
+      "id": 860702,
+      "name": "Interloper",
+      "desc": "Ketika unit ini dikalahkan, beri [UninvitedGuest] terhadap musuh that attacked unit ini last\n- Jika 4+ musuh have [UninvitedGuest], efek ini tidak mengaktifkan"
+    },
+    {
+      "id": 860801,
+      "name": "A Familiar Connector",
+      "desc": "Untuk setiap [ConnectedPlug], peroleh 1 Min. Speed value, 1 [Vulnerable], dan 1 [AttackDmgUp]\nKetika unit ini kena Stagger giliran berikutnya karena having 3 [ConnectedPlug], peroleh 4 [Vulnerable]"
+    },
+    {
+      "id": 860802,
+      "name": "Overcurrent",
+      "desc": "Akhir Giliran: Untuk setiap 10 [Charge] Count pada diri sendiri, peroleh 1 [VioletDamageUp] giliran berikutnya (maks 2)"
+    },
+    {
+      "id": 860803,
+      "name": "Want to be Free",
+      "desc": "Pada 25% HP, starting giliran ini, peroleh 1 dari berikut setiap giliran. The values are cumulative dan do not kadaluarsa.\n- Peroleh 1 [ParryingResultUp]\n- Peroleh 1 [AttackDmgUp]\n- Peroleh 1 [Vulnerable]"
+    },
+    {
+      "id": 860804,
+      "name": "Generator",
+      "desc": "Akhir Giliran: Jika unit ini tidak memiliki [ConnectedPlug] dan [ThundercloudFormation], summon a Generator sekali giliran berikutnya."
+    },
+    {
+      "id": 862801,
+      "name": "Gathering Lightning Cloud",
+      "desc": "Akhir Giliran: Beri 4 [ThundercloudFormation] to the Dreaming Electric Sheep giliran berikutnya.\nDoes not beri lebih dari efek ini jika it sudah has efek ini."
+    },
+    {
+      "id": 862802,
+      "name": "Detached Anti-Ovine Grounding Plug",
+      "desc": "Ketika diserang, beri 1 [AntiSheepGround] to the Penyerang (sekali per giliran)"
+    },
+    {
+      "id": 862803,
+      "name": "Safety Plug",
+      "desc": "Reduces semua damage diterima ke 0"
+    },
+    {
+      "id": 862901,
+      "name": "Prelude of the Banquet",
+      "desc": "Giliran 2 Start: Summon the retinue of the King in Binds.\nThe King has twelve retainers. Upon the kematian of a retainer, another will fill its place hingga terdapat none."
+    },
+    {
+      "id": 862902,
+      "name": "Closing of the Banquet",
+      "desc": "Ketika semua retainers are dikalahkan, the King joins the fight."
+    },
+    {
+      "id": 862903,
+      "name": "NOTHING TO SEE HERE",
+      "desc": "NOTHING TO SEE HERE"
+    },
+    {
+      "id": 862904,
+      "name": "Snapping Bandages",
+      "desc": "Ketika Bagian \"Tubuh\" telah dihancurkan, beri [BandageOfTheBoundKing] pada semua musuh."
+    },
+    {
+      "id": 828001,
+      "name": "Retainer of the King in Binds",
+      "desc": "- Peroleh [BandageOfTheBoundKing] dan [BigWelcome] untuk Pertempuran ini.\n- Pada setiap Awal Giliran, the King in Binds blesses unit ini dengan grace.\n- The grace of the King in Binds changes setiap giliran, in berikut order: [Enhancement], SP Pulihkan, dan HP Pulihkan. Jika terdapat kurang dari 6 surviving Retainers(Peccatulum Invidiae), boost the grace's strength."
+    },
+    {
+      "id": 828002,
+      "name": "NOTHING TO SEE HERE",
+      "desc": "NOTHING TO SEE HERE"
+    },
+    {
+      "id": 828003,
+      "name": "LOOK AWAY!",
+      "desc": "LOOK AWAY!"
+    },
+    {
+      "id": 860506,
+      "name": "Refracted Struggle",
+      "desc": "Pada 10+ Clashes terhadap the same musuh, secara acak peroleh atau kehilangan Clash Power sebanyak (Clash Count / 10) dalam Clash. (dibulatkan ke bawah)"
+    },
+    {
+      "id": 828004,
+      "name": "Peccatulum Invidiae Class 2",
+      "desc": "Beri +15% damage dan terima -15% damage"
+    },
+    {
+      "id": 828005,
+      "name": "Refracted Mind",
+      "desc": "Entry SP +30"
+    },
+    {
+      "id": 828006,
+      "name": "Refracted Mind",
+      "desc": "Entry SP -20"
+    },
+    {
+      "id": 828007,
+      "name": "Refracted Mind",
+      "desc": "Entry SP +45"
+    },
+    {
+      "id": 828008,
+      "name": "Refracted Mind",
+      "desc": "Entry SP +20"
+    }
+  ]
+}

@@ -1,0 +1,4294 @@
+{
+  "dataList": [
+    {
+      "id": 2010111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Crow’s Eye View",
+          "abName": "Yi Sang",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 2 [Reduction]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Agility] ke semua kawan giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Crow’s Eye View",
+          "abName": "Yi Sang",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Reduction]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Agility] ke semua kawan giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Crow’s Eye View",
+          "abName": "Yi Sang",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Reduction]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Agility] ke semua kawan giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Binding] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "4th Match Flame",
+          "abName": "Scorched Girl",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 2 [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "4th Match Flame",
+          "abName": "Scorched Girl",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 4 [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "4th Match Flame",
+          "abName": "Scorched Girl",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 6 [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "4th Match Flame",
+          "abName": "Scorched Girl",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "4th Match Flame",
+          "abName": "Scorched Girl",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "4th Match Flame",
+          "abName": "Scorched Girl",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 6 [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wishing Cairn",
+          "abName": "Pagoda Veneration",
+          "desc": "Target the rearmost unit (In regular encounters)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [AmberTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 2 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Wishing Cairn",
+          "abName": "Pagoda Veneration",
+          "desc": "Target the rearmost unit (In regular encounters)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [AmberTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 3 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wishing Cairn",
+          "abName": "Pagoda Veneration",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [AmberTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 2 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Wishing Cairn",
+          "abName": "Pagoda Veneration",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [AmberTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Paralysis]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 3 [Binding] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Representation Emitter",
+          "abName": "Faust",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Pulihkan 8 SP untuk 4 kawan dengan the least SP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Representation Emitter",
+          "abName": "Faust",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Pulihkan 10 SP untuk 4 kawan dengan the least SP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Representation Emitter",
+          "abName": "Faust",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Pulihkan 12 SP untuk 4 kawan dengan the least SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fluid Sac",
+          "abName": "Headless Ichthys",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Pulihkan 10 SP untuk semua kawan"
+                },
+                {
+                  "desc": "[EndSkill] Pulihkan semua kawan for 10% dari Maks HP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Fluid Sac",
+          "abName": "Headless Ichthys",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Pulihkan 15 SP untuk semua kawan"
+                },
+                {
+                  "desc": "[EndSkill] Pulihkan semua kawan for 15% dari Maks HP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Fluid Sac",
+          "abName": "Headless Ichthys",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Pulihkan 15 SP untuk semua kawan"
+                },
+                {
+                  "desc": "[EndSkill] Pulihkan semua kawan for 15% dari Maks HP"
+                },
+                {
+                  "desc": "[EndSkillHead] Pulihkan 10 SP untuk semua kawan"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fluid Sac",
+          "abName": "Headless Ichthys",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 SP damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Reduction] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Fluid Sac",
+          "abName": "Headless Ichthys",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 20 SP damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Reduction] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Fluid Sac",
+          "abName": "Headless Ichthys",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 20 SP damage"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Beri 10 SP damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Reduction] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hex Nail",
+          "abName": "Hurting Teddy Bear",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [PenetrateTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [VioletTakeDamageUp]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Hex Nail",
+          "abName": "Hurting Teddy Bear",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [PenetrateTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [VioletTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 3 [Curse]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hex Nail",
+          "abName": "Hurting Teddy Bear",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [PenetrateTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [VioletTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 3 [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 3 Paku"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [Curse], beri +50% damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hex Nail",
+          "abName": "Hurting Teddy Bear",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [PenetrateTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [VioletTakeDamageUp]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Hex Nail",
+          "abName": "Hurting Teddy Bear",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [PenetrateTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [VioletTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Curse]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hex Nail",
+          "abName": "Hurting Teddy Bear",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [PenetrateTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [VioletTakeDamageUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Paku"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [Curse], beri +50% damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "La Sangre de Sancho",
+          "abName": "Don Quixote",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 4 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "La Sangre de Sancho",
+          "abName": "Don Quixote",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Pulihkan sebanyak 50% dari damage yang diberikan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "La Sangre de Sancho",
+          "abName": "Don Quixote",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 8 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan sebanyak 50% dari damage yang diberikan"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fluid Sac",
+          "abName": "Headless Ichthys",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Aktifkan [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 15 SP damage"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Fluid Sac",
+          "abName": "Headless Ichthys",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 25 SP damage"
+                },
+                {
+                  "desc": "Jika target kena Stagger, di Moral Rendah, atau in Panik, beri 30% dari damage yang diberikan as bonus damage"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Fluid Sac",
+          "abName": "Headless Ichthys",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 25 SP damage"
+                },
+                {
+                  "desc": "Jika target kena Stagger, di Moral Rendah, atau in Panik, beri 30% dari damage yang diberikan as bonus damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fluid Sac",
+          "abName": "Headless Ichthys",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Fluid Sac",
+          "abName": "Headless Ichthys",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 7 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 7 [Sinking]"
+                },
+                {
+                  "desc": "Jika target is NOT Stagger, di Moral Rendah, nor in Panik, beri 50% dari damage yang diberikan as bonus damage"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Fluid Sac",
+          "abName": "Headless Ichthys",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 [Sinking]"
+                },
+                {
+                  "desc": "Jika target is NOT Stagger, di Moral Rendah, nor in Panik, beri 50% dari damage yang diberikan as bonus damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Forest for the Flames",
+          "abName": "Ryōshū",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 4 [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Forest for the Flames",
+          "abName": "Ryōshū",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 [Vulnerable] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Forest for the Flames",
+          "abName": "Ryōshū",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vulnerable] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 [Vulnerable] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "4th Match Flame",
+          "abName": "Scorched Girl",
+          "desc": "Skill Power +2 terhadap unit yang memiliki [Combustion]\n[EnemyKill] Peroleh 1 [Enhancement] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "4th Match Flame",
+          "abName": "Scorched Girl",
+          "desc": "Skill Power +2 terhadap unit yang memiliki [Combustion]\n[EnemyKill] Peroleh 2 [Enhancement] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "4th Match Flame",
+          "abName": "Scorched Girl",
+          "desc": "Skill Power +2 terhadap unit yang memiliki [Combustion]\nBeri +5% damage per 1 [Combustion] pada target (Maks 100%)\n[EnemyKill] Peroleh +2 [Enhancement] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "4th Match Flame",
+          "abName": "Scorched Girl",
+          "desc": "[CantIdentify]\nTarget secara acak\nSkill Power +2 terhadap unit yang memiliki [Combustion]\n[EnemyKill] Peroleh 2 [Enhancement] giliran berikutnya\n[EnemyKillFail] Peroleh 10 [Combustion] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "4th Match Flame",
+          "abName": "Scorched Girl",
+          "desc": "[CantIdentify]\nTarget secara acak\nSkill Power +4 terhadap unit yang memiliki [Combustion]\n[EnemyKill] Peroleh 3 [Enhancement] giliran berikutnya\n[EnemyKillFail] Peroleh 3 [Enhancement] dan 10 [Combustion] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "4th Match Flame",
+          "abName": "Scorched Girl",
+          "desc": "[CantIdentify]\nTarget secara acak\nSkill Power +4 terhadap unit yang memiliki [Combustion]\nBeri +5% damage per 1 [Combustion] pada target (Maks 100%)\n[EnemyKill] Peroleh 3 [Enhancement] giliran berikutnya\n[EnemyKillFail] Peroleh 3 [Enhancement] dan 10 [Combustion] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Combustion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chains of Others",
+          "abName": "Meursault",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 3 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Reduction] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [Reduction] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Chains of Others",
+          "abName": "Meursault",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 5 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Reduction] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 4 [Reduction] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Peroleh 2 Protection giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Chains of Others",
+          "abName": "Meursault",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 3 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Reduction] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 3 [Reduction] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 Protection giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Screwloose Wallop",
+          "abName": "You Want To Get Beat? Hurtily?",
+          "desc": "[EndSkill] Peroleh 3 Protection",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 3 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Screwloose Wallop",
+          "abName": "You Want To Get Beat? Hurtily?",
+          "desc": "[EndSkill] Peroleh 3 Protection\n[EndSkill] Peroleh 1 Surgery giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 3 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Screwloose Wallop",
+          "abName": "You Want To Get Beat? Hurtily?",
+          "desc": "[EndSkill] Peroleh 2 Surgery giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 3 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Screwloose Wallop",
+          "abName": "You Want To Get Beat? Hurtily?",
+          "desc": "[EndSkill] Peroleh 2 Surgery giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 3 [Paralysis]"
+                },
+                {
+                  "desc": "Naikkan Batas Stagger sebanyak 30% dari damage yang diberikan"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pursuance",
+          "abName": "Heavenly Executor’s Scribe",
+          "desc": "[EndSkill] Pulihkan 2 other kawan dengan HP paling sedikit for 15% dari Maks HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Aktifkan [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Pursuance",
+          "abName": "Heavenly Executor’s Scribe",
+          "desc": "[EndSkill] Pulihkan 2 other kawan dengan HP paling sedikit for 30% dari Maks HP; Beri 2 Protection giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pursuance",
+          "abName": "Heavenly Executor’s Scribe",
+          "desc": "[CantIdentify] Target secara acak\n[EndSkill] Beri 1 [Vulnerable] dan 2 [AttackDmgUp] giliran berikutnya to 2 other kawan dengan HP paling sedikit",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Aktifkan [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Pursuance",
+          "abName": "Heavenly Executor’s Scribe",
+          "desc": "[CantIdentify] Target secara acak\n[EndSkill] Beri 2 [Vulnerable] dan 3 [AttackDmgUp] giliran berikutnya to 2 other kawan dengan HP paling sedikit",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Land of Illusion",
+          "abName": "Hong Lu",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 2 [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Land of Illusion",
+          "abName": "Hong Lu",
+          "desc": "[EndSkill] Pulihkan 15 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Land of Illusion",
+          "abName": "Hong Lu",
+          "desc": "[EndSkill] Pulihkan 15 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Sinking]"
+                },
+                {
+                  "desc": "[EndSkill] Giliran berikutnya: -2 SP Loss Efficiency ke semua kawan; -2 to jumlah dari SP lost dari E.G.O gunakan"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Roseate Desire",
+          "abName": "Pink Shoes",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Defense Power Down"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [DefenseDown]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Roseate Desire",
+          "abName": "Pink Shoes",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Defense Power Down"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [DefenseDown]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Roseate Desire",
+          "abName": "Pink Shoes",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Defense Power Down"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [DefenseDown]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Roseate Desire",
+          "abName": "Pink Shoes",
+          "desc": "[CantIdentify]\nTarget unit dengan Speed tercepat",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Defense Power Down"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [DefenseDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Beri 4 [Binding] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Roseate Desire",
+          "abName": "Pink Shoes",
+          "desc": "[CantIdentify]\nTarget unit dengan Speed tercepat",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Defense Power Down"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [DefenseDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Binding] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Roseate Desire",
+          "abName": "Pink Shoes",
+          "desc": "[CantIdentify]\nTarget unit dengan Speed tercepat",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Defense Power Down"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [DefenseDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Binding] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bodysack",
+          "abName": "Heathcliff",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Peroleh 1 [Enhancement] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Peroleh 2 [Agility] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Bodysack",
+          "abName": "Heathcliff",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [Enhancement] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 3 [Agility] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Bodysack",
+          "abName": "Heathcliff",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [Enhancement] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 3 [Agility] giliran berikutnya"
+                },
+                {
+                  "desc": "[EnemyKill] Peroleh 2 [Enhancement] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Telepole",
+          "abName": "Alleyway Watchdog",
+          "desc": "Habiskan 5 Count [Charge] untuk peroleh +3 Skill Power",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Peroleh +3 Count [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Telepole",
+          "abName": "Alleyway Watchdog",
+          "desc": "[WhenUse] Peroleh Count [Charge] sebanyak Reson. Envy\nSpend 5 Count [Charge] untuk peroleh +3 Skill Power",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Peroleh +5 Count [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Telepole",
+          "abName": "Alleyway Watchdog",
+          "desc": "[WhenUse] Peroleh Count [Charge] sebanyak Reson. Envy\nSpend 5 Count [Charge] untuk peroleh +3 Skill Power (Maks 12)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Peroleh +5 Count [Charge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Telepole",
+          "abName": "Alleyway Watchdog",
+          "desc": "[CantIdentify] Target secara acak\nSpend semua Count [Charge] untuk peroleh +6 Skill Power",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Peroleh 3 [Vulnerable] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Telepole",
+          "abName": "Alleyway Watchdog",
+          "desc": "[CantIdentify] Target secara acak\n[WhenUse] Peroleh Count [Charge] sebanyak Reson. Envy\nSpend semua Count [Charge] untuk peroleh +10 Skill Power",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Peroleh 3 [Vulnerable] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Telepole",
+          "abName": "Alleyway Watchdog",
+          "desc": "[CantIdentify] Target secara acak\n[WhenUse] Peroleh Count [Charge] sebanyak Reson. Envy\nSpend semua Count [Charge] untuk peroleh +15 Skill Power",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Peroleh 3 [Vulnerable] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Snagharpoon",
+          "abName": "Ishmael",
+          "desc": "Target the rearmost unit (In regular encounters)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Snagharpoon",
+          "abName": "Ishmael",
+          "desc": "Target the rearmost unit (In regular encounters)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Snagharpoon",
+          "abName": "Ishmael",
+          "desc": "Target the rearmost unit (In regular encounters)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Roseate Desire",
+          "abName": "Pink Shoes",
+          "desc": "Target the rearmost unit (In regular encounters)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 Offense Level Down"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Roseate Desire",
+          "abName": "Pink Shoes",
+          "desc": "Target the rearmost unit (In regular encounters)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 7 Offense Level Down"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Roseate Desire",
+          "abName": "Pink Shoes",
+          "desc": "Target the rearmost unit (In regular encounters)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 Offense Level Down"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Paralysis]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Binding] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Roseate Desire",
+          "abName": "Pink Shoes",
+          "desc": "[CantIdentify]\nTarget unit dengan Speed tercepat",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 Offense Level Down"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Paralysis]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 4 [Binding] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Roseate Desire",
+          "abName": "Pink Shoes",
+          "desc": "[CantIdentify]\nTarget unit dengan Speed tercepat",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 7 Offense Level Down"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Paralysis]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Binding] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Roseate Desire",
+          "abName": "Pink Shoes",
+          "desc": "[CantIdentify]\nTarget unit dengan Speed tercepat",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 Offense Level Down"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Paralysis]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Binding] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ardor Blossom Star",
+          "abName": "Ardor Blossom Moth",
+          "desc": "Target the rearmost unit (In regular encounters)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Beri [Combustion] sebanyak setengah dari Wrath Reson."
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 3 [Combustion] on 3 musuh acak"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ardor Blossom Star",
+          "abName": "Ardor Blossom Moth",
+          "desc": "Target the rearmost unit (In regular encounters)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Naikkan Batas Stagger sebanyak 40% dari damage yang diberikan"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [Combustion] sebanyak Wrath Reson."
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 3 [Combustion] on 3 musuh acak"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ardor Blossom Star",
+          "abName": "Ardor Blossom Moth",
+          "desc": "Target the rearmost unit (In regular encounters)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Naikkan Batas Stagger sebanyak 40% dari damage yang diberikan"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [Combustion] sebanyak Wrath Reson."
+                },
+                {
+                  "desc": "[EndSkillHead] Beri 5 [Combustion] on 3 musuh acak"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ardor Blossom Star",
+          "abName": "Ardor Blossom Moth",
+          "desc": "[CantIdentify]\nTarget secara acak\n[WhenUse] Kehilangan HP sebanyak 10% dari Maks HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri [Combustion] sebanyak Wrath Reson. pada semua unit"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ardor Blossom Star",
+          "abName": "Ardor Blossom Moth",
+          "desc": "[CantIdentify]\nTarget secara acak\n[WhenUse] Kehilangan HP sebanyak 10% dari Maks HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri [Combustion] sebanyak (2x) Wrath Reson. pada semua unit"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Naikkan Batas Stagger sebanyak 60% dari damage yang diberikan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ardor Blossom Star",
+          "abName": "Ardor Blossom Moth",
+          "desc": "[CantIdentify]\nTarget secara acak\n[WhenUse] Kehilangan HP sebanyak 10% dari Maks HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Beri [Combustion] sebanyak (2 * Wrath Reson.) pada semua unit"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Naikkan Batas Stagger sebanyak 60% dari damage yang diberikan"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "What is Cast",
+          "abName": "Rodion",
+          "desc": "Jika target memiliki 50%+ HP, beri +10% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "What is Cast",
+          "abName": "Rodion",
+          "desc": "Jika target memiliki 50%+ HP, beri +30% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "What is Cast",
+          "abName": "Rodion",
+          "desc": "Jika target memiliki 50%+ HP, beri +30% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 Efisiensi Pemulihan SP giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh -2 SP Loss Efficiency giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "4th Match Flame",
+          "abName": "Scorched Girl",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "4th Match Flame",
+          "abName": "Scorched Girl",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Wrath Fragility giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "4th Match Flame",
+          "abName": "Scorched Girl",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Combustion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "4th Match Flame",
+          "abName": "Scorched Girl",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Wrath Fragility giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rime Shank",
+          "abName": "Baba Yaga",
+          "desc": "Jika target’s HP is di atas 50%, beri +10% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Aktifkan [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Rime Shank",
+          "abName": "Baba Yaga",
+          "desc": "Jika target’s HP is di atas 50%, beri +30% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Rime Shank",
+          "abName": "Baba Yaga",
+          "desc": "Jika target’s HP is di atas 50%, beri +30% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Sinking]\n[OnSucceedAttack] Beri +5 Count [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2090321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rime Shank",
+          "abName": "Baba Yaga",
+          "desc": "[CantIdentify]\nTarget unit dengan the most HP\nJika target’s HP is di atas 50%, +10% Damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Aktifkan [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +4 Count [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Rime Shank",
+          "abName": "Baba Yaga",
+          "desc": "[CantIdentify]\nTarget unit dengan the most HP\nJika target’s HP is di atas 50%, +30% Damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +6 Count [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Rime Shank",
+          "abName": "Baba Yaga",
+          "desc": "[CantIdentify]\nTarget unit dengan the most HP\nJika target’s HP is di atas 50%, +30% Damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 [Sinking]\n[OnSucceedAttack] Beri +8 Count [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Branch of Knowledge",
+          "abName": "Sinclair",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 6 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kehilangan 10 SP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Branch of Knowledge",
+          "abName": "Sinclair",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 12 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Kehilangan 10 SP"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Pulihkan 10 SP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Branch of Knowledge",
+          "abName": "Sinclair",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 12 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Kehilangan 10 SP. <style=\"highlight\">Peroleh 1 [Enhancement] giliran berikutnya</style>"
+                },
+                {},
+                {
+                  "desc": "[OnSucceedAttackTail] Peroleh 10 SP. <style=\"highlight\">Peroleh 1 Protection giliran berikutnya</style>"
+                },
+                {}
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Impending Day",
+          "abName": "Doomsday Calendar",
+          "desc": "Jika target’s HP di bawah 25%, beri +10% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] Pulihkan semua kawan for 10% of their Maks HP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Impending Day",
+          "abName": "Doomsday Calendar",
+          "desc": "Jika target’s HP di bawah 25%, beri +20% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] Peroleh 1 [Enhancement] giliran berikutnya"
+                },
+                {
+                  "desc": "[EnemyKill] Pulihkan semua kawan for 15% of their Maks HP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Impending Day",
+          "abName": "Doomsday Calendar",
+          "desc": "Jika target’s HP di bawah 25%, +40% Damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKill] Peroleh 1 [Enhancement] giliran berikutnya"
+                },
+                {
+                  "desc": "[EnemyKill] Pulihkan semua kawan for 15% of their Maks HP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Impending Day",
+          "abName": "Doomsday Calendar",
+          "desc": "[CantIdentify]\nTarget secara acak\nJika target’s HP di bawah 25%, +15% Damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKillFail] Peroleh 10 [Laceration] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Impending Day",
+          "abName": "Doomsday Calendar",
+          "desc": "[CantIdentify]\nTarget secara acak\nJika target’s HP di bawah 25%, +25% Damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKillFail] Peroleh 10 [Laceration] giliran berikutnya"
+                },
+                {
+                  "desc": "[EnemyKillFail] Peroleh 3 [Enhancement] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Impending Day",
+          "abName": "Doomsday Calendar",
+          "desc": "[CantIdentify]\nTarget secara acak\nJika target’s HP di bawah 25%, +50% Damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EnemyKillFail] Peroleh 10 [Laceration] giliran berikutnya"
+                },
+                {
+                  "desc": "[EnemyKillFail] Peroleh 3 [Enhancement] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "To Páthos Máthos",
+          "abName": "Outis",
+          "desc": "Jika target memiliki kurang dari 50% HP, beri +10% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "To Páthos Máthos",
+          "abName": "Outis",
+          "desc": "Jika target memiliki kurang dari 50% HP, beri +30% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "To Páthos Máthos",
+          "abName": "Outis",
+          "desc": "Jika target memiliki kurang dari 50% HP, beri +30% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Burst]"
+                },
+                {
+                  "desc": "[EnemyKill] Give 1 [AttackDmgUp] ke kawan acak"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ebony Stem",
+          "abName": "Ebony Queen's Apple",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ebony Stem",
+          "abName": "Ebony Queen's Apple",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Gluttony Fragility"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ebony Stem",
+          "abName": "Ebony Queen's Apple",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ebony Stem",
+          "abName": "Ebony Queen's Apple",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 Gluttony Fragility"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ya Śūnyatā Tad Rūpam",
+          "abName": "My Form Empties",
+          "desc": "[EndSkill] Pulihkan 12 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Lust Fragility"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ya Śūnyatā Tad Rūpam",
+          "abName": "My Form Empties",
+          "desc": "[EndSkill] Pulihkan 18 SP\n[EndSkill] Beri 1 [Enhancement] to 2 acak other kawan",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Lust Fragility"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ya Śūnyatā Tad Rūpam",
+          "abName": "My Form Empties",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Lust Fragility"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Beri 1 [Vulnerable]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Peroleh 1 [Vulnerable]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ya Śūnyatā Tad Rūpam",
+          "abName": "My Form Empties",
+          "desc": "[CantIdentify]\nTarget secara acak\n[EndSkill] Beri 1 [Enhancement] to 2 acak other kawan",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 Lust Fragility"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vulnerable]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Peroleh 2 [Vulnerable]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120111,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Suddenly, One Day",
+          "abName": "Gregor",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 dari status acak, dipilih dari [Combustion], [Laceration], [Vibration], [Burst], dan [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Suddenly, One Day",
+          "abName": "Gregor",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 dari status acak, dipilih dari [Combustion], [Laceration], [Vibration], [Burst], dan [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Suddenly, One Day",
+          "abName": "Gregor",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 dari status acak, dipilih dari [Combustion], [Laceration], [Vibration], [Burst], dan [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120211,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Legerdemain",
+          "abName": "Golden Apple",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 2 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Legerdemain",
+          "abName": "Golden Apple",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 4 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Legerdemain",
+          "abName": "Golden Apple",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120221,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Legerdemain",
+          "abName": "Golden Apple",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 2 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Legerdemain",
+          "abName": "Golden Apple",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Paralysis]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Muckworm]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Legerdemain",
+          "abName": "Golden Apple",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Paralysis]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 [Muckworm]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lantern",
+          "abName": "Faelantern",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 40% dari damage yang diberikan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Lantern",
+          "abName": "Faelantern",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 60% dari damage yang diberikan"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lantern",
+          "abName": "Faelantern",
+          "desc": "[CantIdentify] \nTarget unit dengan the most HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 20% dari damage yang diberikan"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Lantern",
+          "abName": "Faelantern",
+          "desc": "[CantIdentify] \nTarget unit dengan the most HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 30% dari damage yang diberikan"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 5 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Telepole",
+          "abName": "Alleyway Watchdog",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +10 Count [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Telepole",
+          "abName": "Alleyway Watchdog",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +10 Count [Charge]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Give Count [Charge] ke semua kawan sebanyak Reson. Envy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Telepole",
+          "abName": "Alleyway Watchdog",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +10 Count [Charge]"
+                },
+                {
+                  "desc": "[EndSkill] Give Count [Charge] ke semua kawan sebanyak Reson. Envy"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Telepole",
+          "abName": "Alleyway Watchdog",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +10 Count [Charge] dan 10 [Burst]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Telepole",
+          "abName": "Alleyway Watchdog",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +10 Count [Charge] dan 10 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Give +10 Count [Charge], 5 [Vulnerable], dan 10 [Burst] ke semua kawan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Telepole",
+          "abName": "Alleyway Watchdog",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +10 Count [Charge] dan 10 [Burst]"
+                },
+                {
+                  "desc": "[EndSkill] Give 5 [Vulnerable], 10 [Burst], dan +12 Count [Charge] ke semua kawan"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Telepole",
+          "abName": "Alleyway Watchdog",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Paralysis]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +5 Count [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Telepole",
+          "abName": "Alleyway Watchdog",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Paralysis]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +7 Count [Charge]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 Envy Power Up dan 1 [Agility] ke 2 kawan acak giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Telepole",
+          "abName": "Alleyway Watchdog",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Paralysis]"
+                },
+                {
+                  "desc": "[EndSkill] Peroleh +7 Count [Charge]"
+                },
+                {
+                  "desc": "[EndSkillHead] Beri 1 Envy Power Up dan 1 [Agility] ke 2 kawan acak giliran berikutnya, dan unit ini peroleh +3 Count [Charge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2020421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Telepole",
+          "abName": "Alleyway Watchdog",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Paralysis]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +7 Count [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Telepole",
+          "abName": "Alleyway Watchdog",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Paralysis]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +10 Count [Charge]"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Beri 2 [Paralysis] dan 2 [Binding] pada 2 acak unit giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Telepole",
+          "abName": "Alleyway Watchdog",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Paralysis]"
+                },
+                {
+                  "desc": "[EndSkill] Peroleh +10 Count [Charge]"
+                },
+                {
+                  "desc": "[EndSkillTail] Beri 2 [Paralysis] dan 2 [Binding] pada 2 acak unit giliran berikutnya, peroleh +3 Count [Charge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lifetime Stew",
+          "abName": "Basilisoup",
+          "desc": "[BeforeAttack] Boost damage berdasarkan current Lust resource (Hingga 25%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Combustion] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Lifetime Stew",
+          "abName": "Basilisoup",
+          "desc": "[BeforeAttack] Boost damage berdasarkan current Lust resource (Hingga 50%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Combustion] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2030421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lifetime Stew",
+          "abName": "Basilisoup",
+          "desc": "[CantIdentify]\nTarget unit dengan the most HP\n\n[BeforeAttack] Boost damage berdasarkan current Lust resource (Hingga 25%)\nThen spend Lust resource sebanyak (Lust Reson.); further boost damage sebanyak 5% per resource spent",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Combustion] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Lifetime Stew",
+          "abName": "Basilisoup",
+          "desc": "[CantIdentify]\nTarget unit dengan the most HP\n\n[BeforeAttack] Boost damage berdasarkan current Lust resource (Hingga 50%)\nThen spend Lust resource sebanyak (Lust Reson.); further boost damage sebanyak 10% per resource spent",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +4 [Combustion] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lifetime Stew",
+          "abName": "Basilisoup",
+          "desc": "[CantIdentify]\nTarget unit dengan HP paling sedikit\nJika target kawan, this beri 0 damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Jika target kawan, pulihkan them for 5% of user’s Maks HP"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Beri 7 [Combustion]; jika target kawan, beri 2 [Agility] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Lifetime Stew",
+          "abName": "Basilisoup",
+          "desc": "[CantIdentify]\nTarget unit dengan HP paling sedikit\nJika target kawan, this beri 0 damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Jika target kawan, pulihkan them for 10% of user’s Maks HP"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Beri 7 [Combustion]; jika target kawan, beri 2 [Agility] dan 1 <sprite name=\"GainSinStockAdder\"><color=#f8c200><u><link=\"GainSinStockAdder\">E.G.O Resource Amp</color></link></u> giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lifetime Stew",
+          "abName": "Basilisoup",
+          "desc": "[CantIdentify]\nTarget unit dengan HP paling sedikit\n\n[BeforeAttack] Habiskan 3 acak E.G.O resource to boost damage sebanyak 10%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Combustion] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Lifetime Stew",
+          "abName": "Basilisoup",
+          "desc": "[CantIdentify]\nTarget unit dengan HP paling sedikit\n\n[BeforeAttack] Habiskan 3 acak E.G.O resource to boost damage sebanyak 20%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Combustion] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Lifetime Stew",
+          "abName": "Basilisoup",
+          "desc": "[CantIdentify]\nTarget unit dengan HP paling sedikit\n\n[BeforeAttack] Habiskan 3 acak E.G.O resource to boost damage sebanyak 30%",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Combustion] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dimension Shredder",
+          "abName": "Wayward Passenger",
+          "desc": "Target the rearmost unit (In regular encounters)\n\n[BeforeAttack] Habiskan Count [Charge] untuk beri damage lebih (Maks 50%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri bonus Pride damage sebanyak (Target’s [Burst] x 7.5)% dari damage yang diberikan, dan kurangi [Burst] Count sebanyak 5 (Maks 75%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Dimension Shredder",
+          "abName": "Wayward Passenger",
+          "desc": "Target the rearmost unit (In regular encounters)\n\n[BeforeAttack] Habiskan Count [Charge] untuk beri damage lebih (Maks <style=\"highlight\">75</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] <style=\"highlight\">Jika Count [Charge] was spent, beri 3 [DimensionRift]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri bonus Pride damage sebanyak (Target’s [Burst] x <style=\"highlight\">10</style>)% dari damage yang diberikan, dan kurangi [Burst] Count sebanyak 5 (Maks <style=\"highlight\">100</style>%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Dimension Shredder",
+          "abName": "Wayward Passenger",
+          "desc": "Target the rearmost unit (In regular encounters)\n\n[BeforeAttack] Habiskan Count [Charge] untuk beri damage lebih (Maks 75%)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika Count [Charge] was spent, beri <style=\"highlight\">5</style> [DimensionRift]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri bonus Pride damage sebanyak (Target’s [Burst] x 10)% dari damage yang diberikan, dan kurangi [Burst] Count sebanyak 5 (Maks 100)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dimension Shredder",
+          "abName": "Wayward Passenger",
+          "desc": "[CantIdentify]\nTarget a acak unit\n\n[BeforeAttack] Habiskan Count [Charge] untuk beri damage lebih (Maks 50%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri bonus Pride damage sebanyak (Target’s [Burst] x 7.5)% dari damage yang diberikan, dan kurangi [Burst] Count sebanyak 5 (Maks 75%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Dimension Shredder",
+          "abName": "Wayward Passenger",
+          "desc": "[CantIdentify]\nTarget a acak unit\n\n[BeforeAttack] Habiskan Count [Charge] untuk beri damage lebih (Maks <style=\"highlight\">75</style>%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Jika Count [Charge] was spent, beri 3 [DimensionRift]</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">6</style> [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri bonus Pride damage sebanyak (Target’s [Burst] x <style=\"highlight\">10</style>)% dari damage yang diberikan, dan kurangi [Burst] Count sebanyak 5 (Maks <style=\"highlight\">100</style>%)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Dimension Shredder",
+          "abName": "Wayward Passenger",
+          "desc": "[CantIdentify]\nTarget a acak unit\n\n[BeforeAttack] Habiskan Count [Charge] untuk beri damage lebih (Maks 75%)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika Count [Charge] was spent, beri <style=\"highlight\">5</style> [DimensionRift]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri bonus Pride damage sebanyak (Target’s [Burst] x 10)% dari damage yang diberikan, dan kurangi [Burst] Count sebanyak 5 (Maks 100)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dimension Shredder",
+          "abName": "Wayward Passenger",
+          "desc": "Target the rearmost unit (In regular encounters)\n\n[BeforeAttack] Peroleh +3 Count [Charge]; Peroleh 2 [Agility] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vulnerable] dan 2 [DimensionRift]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Dimension Shredder",
+          "abName": "Wayward Passenger",
+          "desc": "Target the rearmost unit (In regular encounters)\n\n[BeforeAttack] Peroleh +5 Count [Charge]; Peroleh 2 [Agility] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vulnerable] dan 4 [DimensionRift]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2060321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dimension Shredder",
+          "abName": "Wayward Passenger",
+          "desc": "[CantIdentify]\nTarget unit dengan the most HP\n\n[BeforeAttack] Peroleh 2 [Agility] giliran berikutnya\nSpend 10 Count [Charge] untuk beri +1 lebih [Vulnerable] dan [DimensionRift] Saat Menyerang dengan Skill ini",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vulnerable] dan 3 [DimensionRift]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Dimension Shredder",
+          "abName": "Wayward Passenger",
+          "desc": "[CantIdentify]\nTarget unit dengan the most HP\n\n[BeforeAttack] Peroleh <style=\"highlight\">3</style> [Agility] giliran berikutnya\nSpend 10 Count [Charge] untuk beri <style=\"highlight\">+2</style> lebih [Vulnerable] dan [DimensionRift] Saat Menyerang dengan Skill ini",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vulnerable] dan 4 [DimensionRift]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Capote",
+          "abName": "Brazen Bull",
+          "desc": "[EndSkill] Peroleh 1 [Agility], 1 Wrath Power Up, dan 1 Blunt Power Up giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [Vibration] sebanyak [Combustion] pada target"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion], lalu kurangi Count [Vibration] sebanyak 3; jika the [VibrationExplosion] Stagger target, beri +1 [Combustion] Count on 5 musuh acak"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Capote",
+          "abName": "Brazen Bull",
+          "desc": "[EndSkill] Peroleh 2 [Agility], 1 Wrath Power Up, dan 1 Blunt Power Up giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 7 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [Vibration] sebanyak [Combustion] pada target"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Combustion] on 5 musuh acak"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion], lalu kurangi Count [Vibration] sebanyak 2; jika the [VibrationExplosion] Stagger target, beri +2 [Combustion] Count on 5 musuh acak"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Capote",
+          "abName": "Brazen Bull",
+          "desc": "[EndSkill] Peroleh 2 [Agility], 1 Wrath Power Up, dan 1 Blunt Power Up giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [Vibration] sebanyak [Combustion] pada target"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Combustion] on 5 musuh acak"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion], lalu kurangi Count [Vibration] sebanyak 2; jika the [VibrationExplosion] Stagger target, beri +3 [Combustion] Count on 5 musuh acak"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2050421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Capote",
+          "abName": "Brazen Bull",
+          "desc": "[CantIdentify]\nTarget secara acak\n[EndSkill] Peroleh 1 [Agility], 1 Wrath Power Up, dan 1 Blunt Power Up giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [Vibration] sebanyak [Combustion] pada target"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion], lalu kurangi Count [Vibration] sebanyak 3; jika the [VibrationExplosion] Stagger target, beri +2 [Combustion] Count on 5 acak unit"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Capote",
+          "abName": "Brazen Bull",
+          "desc": "[CantIdentify]\nTarget secara acak\n[EndSkill] Peroleh 2 [Agility], 1 Wrath Power Up, dan 1 Blunt Power Up giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [Vibration] sebanyak [Combustion] pada target"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Combustion] on 5 acak unit"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion], lalu kurangi Count [Vibration] sebanyak 2; jika the [VibrationExplosion] Stagger target, beri +3 [Combustion] Count on 5 acak unit"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Capote",
+          "abName": "Brazen Bull",
+          "desc": "[CantIdentify]\nTarget secara acak\n[EndSkill] Peroleh 2 [Agility], 1 Wrath Power Up, dan 1 Blunt Power Up giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 12 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [Vibration] sebanyak [Combustion] pada target"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Combustion] on 5 acak unit"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion], lalu kurangi Count [Vibration] sebanyak 2; jika the [VibrationExplosion] Stagger target, beri +4 [Combustion] Count on 5 acak unit"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Capote",
+          "abName": "Brazen Bull",
+          "desc": "[EndSkill] Beri 1 Wrath DMG Naik ke semua kawan giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 7 SP damage"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Capote",
+          "abName": "Brazen Bull",
+          "desc": "[EndSkill] Beri 1 Wrath DMG Naik ke semua kawan giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 15 SP damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2080421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Capote",
+          "abName": "Brazen Bull",
+          "desc": "[CantIdentify]\nTarget secara acak\n[EndSkill] Give 1 Wrath Fragility, dan 1 Wrath DMG Naik ke semua unit giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 7 SP damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion], lalu lalu kurangi Count [Vibration] target sebanyak 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Capote",
+          "abName": "Brazen Bull",
+          "desc": "[CantIdentify]\nTarget secara acak\n[EndSkill] Give 1 Wrath Fragility, dan 1 Wrath DMG Naik ke semua unit giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 15 SP damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion], lalu kurangi Count [Vibration] sebanyak 2; jika the [VibrationExplosion] Stagger target, beri +2 [Combustion] Count on 3 acak unit"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sunshower",
+          "abName": "Drifting Fox",
+          "desc": "[BeforeAttack] Peroleh +4 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Aktifkan [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Sunshower",
+          "abName": "Drifting Fox",
+          "desc": "[BeforeAttack] Peroleh +6 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Aktifkan [VibrationExplosion]; Beri +2 Count [Sinking]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Sunshower",
+          "abName": "Drifting Fox",
+          "desc": "[BeforeAttack] Peroleh +7 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Aktifkan [VibrationExplosion]; Beri +3 Count [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2110421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sunshower",
+          "abName": "Drifting Fox",
+          "desc": "[CantIdentify]\nTarget unit dengan HP paling sedikit\n[BeforeAttack] Peroleh +5 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Aktifkan [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Sunshower",
+          "abName": "Drifting Fox",
+          "desc": "[CantIdentify]\nTarget unit dengan HP paling sedikit\n[BeforeAttack] Peroleh +7 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Aktifkan [VibrationExplosion]; Beri +2 Count [Sinking] dan [Burst] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Sunshower",
+          "abName": "Drifting Fox",
+          "desc": "[CantIdentify]\nTarget unit dengan HP paling sedikit\n[BeforeAttack] Peroleh +7 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Aktifkan [VibrationExplosion]; Beri +3 Count [Sinking] dan [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "AEDD",
+          "abName": "Shock Centipede",
+          "desc": "[BeforeAttack] Peroleh +5 Count [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [EmittedCurrent]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "AEDD",
+          "abName": "Shock Centipede",
+          "desc": "[BeforeAttack] Peroleh +7 Count [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 [EmittedCurrent]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "AEDD",
+          "abName": "Shock Centipede",
+          "desc": "[BeforeAttack] Peroleh +10 Count [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 15 [EmittedCurrent]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2120421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "AEDD",
+          "abName": "Shock Centipede",
+          "desc": "[CantIdentify]\nPrioritaskan unit dengan [Charge]\n[BeforeAttack] Peroleh +5 Count [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [EmittedCurrent] dan +5 Count [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "AEDD",
+          "abName": "Shock Centipede",
+          "desc": "[CantIdentify]\nPrioritaskan unit dengan [Charge]\n[BeforeAttack] Peroleh +7 Count [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 [EmittedCurrent] dan +5 Count [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "AEDD",
+          "abName": "Shock Centipede",
+          "desc": "[CantIdentify]\nPrioritaskan unit dengan [Charge]\n[BeforeAttack] Peroleh +10 Count [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 15 [EmittedCurrent] dan +7 Count [Charge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "AEDD",
+          "abName": "Shock Centipede",
+          "desc": "[BeforeAttack] Peroleh +1 Count [Charge] untuk setiap 10% dari HP yang hilang (Maks 5)\nPeroleh 2 [Agility] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "AEDD",
+          "abName": "Shock Centipede",
+          "desc": "[BeforeAttack] Peroleh +1 Count [Charge] untuk setiap 10% dari HP yang hilang (Maks 7)\nPeroleh 2 [Agility] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Paralysis] dan 1 Gloom Fragility"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "AEDD",
+          "abName": "Shock Centipede",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh +1 Count [Charge] untuk setiap 10% dari HP yang hilang (Maks 5)\nPeroleh 2 [Agility] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Habiskan semua Count [Charge] untuk beri bonus Gloom damage sebanyak (Count [Charge] * 1.5)% dari damage yang diberikan (Maks 30%)"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Setelah the attack, kehilangan 10% dari Maks HP untuk peroleh +7 Count [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "AEDD",
+          "abName": "Shock Centipede",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh +1 Count [Charge] untuk setiap 10% dari HP yang hilang (Maks 7)\nPeroleh 2 [Agility] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Habiskan semua Count [Charge] untuk beri bonus Gloom damage sebanyak (Count [Charge] * 2.5)% dari damage yang diberikan (Maks 50%)"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Setelah the attack, kehilangan 10% dari Maks HP untuk peroleh +10 Count [Charge]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "AEDD",
+          "abName": "Shock Centipede",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh +1 Count [Charge] untuk setiap 10% dari HP yang hilang (Maks 7)\nPeroleh 2 [Agility] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Habiskan semua Count [Charge] untuk beri bonus Gloom damage sebanyak (Count [Charge] * 2.5)% dari damage yang diberikan (Maks 50%)"
+                },
+                {
+                  "desc": "[EndSkill] Habiskan semua Count [Charge]"
+                },
+                {
+                  "desc": "[EndSkillTail] Kehilangan HP sebanyak 10% dari Maks HP untuk peroleh +10 Count [Charge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sunshower",
+          "abName": "Drifting Fox",
+          "desc": "[BeforeAttack] Give 1 Sloth Power Up, 1 Sloth DMG Naik, dan 2 Protection ke semua kawan giliran ini dan giliran berikutnya",
+          "coinlist": [
+            {}
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Sunshower",
+          "abName": "Drifting Fox",
+          "desc": "[BeforeAttack] Give 1 Sloth Power Up, 2 Sloth DMG Naik, dan 3 Protection ke semua kawan giliran ini dan giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Pulihkan 15 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2010521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sunshower",
+          "abName": "Drifting Fox",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh 1 Sloth Power Up dan 1 Sloth DMG Naik giliran ini dan the next 2 giliran",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [AmberTakeDamageUp] dan 1 [PenetrateTakeDamageUp] giliran ini dan giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Sunshower",
+          "abName": "Drifting Fox",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh 2 Sloth Power Up dan 2 Sloth DMG Naik giliran ini dan the next 2 giliran",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [AmberTakeDamageUp] dan 2 [PenetrateTakeDamageUp] giliran ini dan giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040311,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mata Merah",
+          "abName": "Spider Bud",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 3+ [Binding], beri 1 Plus Coin Drop giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Mata Merah",
+          "abName": "Spider Bud",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 3+ [Binding], beri 1 Plus Coin Drop giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika Speed target is slower than user's, beri 2 Slash Fragility giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Mata Merah",
+          "abName": "Spider Bud",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 3+ [Binding], beri 1 Plus Coin Drop giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika Speed target is slower than user's, beri 2 Slash Fragility giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040321,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mata Merah",
+          "abName": "Spider Bud",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 3+ [Binding], beri 2 Plus Coin Drop giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Mata Merah",
+          "abName": "Spider Bud",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 3+ [Binding], beri 2 Plus Coin Drop giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika Speed target is slower than user's, beri 1-3 Slash Fragility giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mata Merah (Terbuka)",
+          "abName": "Spider Bud",
+          "desc": "Jika main Speed target is slower than user's sebanyak 3 atau lebih, Coin Power +4",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 3+ [Binding], beri +20% damage"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Mata Merah (Terbuka)",
+          "abName": "Spider Bud",
+          "desc": "Jika main Speed target is slower than user's sebanyak 3 atau lebih, Coin Power +4",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 3+ [Binding], beri +20% damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika skill ini staggers atau defeats a target, pulihkan user dan kawan dengan HP paling sedikit sebanyak 10% dari Maks HP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Mata Merah (Terbuka)",
+          "abName": "Spider Bud",
+          "desc": "Jika main Speed target is slower than user's sebanyak 3 atau lebih, Coin Power +7",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 3+ [Binding], beri +40% damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika skill ini staggers atau defeats a target, pulihkan user dan kawan dengan HP paling sedikit sebanyak 10% dari Maks HP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2040421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mata Merah (Terbuka)",
+          "abName": "Spider Bud",
+          "desc": "[CantIdentify]\nTarget secara acak\nJika main Speed target is slower than user's sebanyak 3 atau lebih, Final Power +7",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 3+ [Binding], beri +30% damage"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Mata Merah (Terbuka)",
+          "abName": "Spider Bud",
+          "desc": "[CantIdentify]\nTarget secara acak\nJika main Speed target is slower than user's sebanyak 3 atau lebih, Final Power +7",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 3+ [Binding], beri +30% damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika skill ini staggers atau defeats a target, pulihkan user dan kawan dengan HP paling sedikit sebanyak 10% dari Maks HP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Mata Merah (Terbuka)",
+          "abName": "Spider Bud",
+          "desc": "[CantIdentify]\nTarget secara acak\nJika main Speed target is slower than user's sebanyak 3 atau lebih, Final Power +10",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 3+ [Binding], beri +50% damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika skill ini staggers atau defeats a target, pulihkan user dan kawan dengan HP paling sedikit sebanyak 10% dari Maks HP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ya Śūnyatā Tad Rūpam",
+          "abName": "My Form Empties",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Reduction] giliran berikutnya"
+                },
+                {
+                  "desc": "[EndSkill] Pulihkan 12 SP untuk 4 other kawan dengan the least SP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ya Śūnyatā Tad Rūpam",
+          "abName": "My Form Empties",
+          "desc": "[BeforeAttack] Pada 15+ SP, peroleh +1 Atk Weight",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Reduction] giliran berikutnya"
+                },
+                {
+                  "desc": "[EndSkill] Pulihkan 17 SP untuk 4 other kawan dengan the least SP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ya Śūnyatā Tad Rūpam",
+          "abName": "My Form Empties",
+          "desc": "[BeforeAttack] Pada 15+ SP, peroleh +2 Atk Weight",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Reduction] giliran berikutnya"
+                },
+                {
+                  "desc": "[EndSkill] Pulihkan 25 SP untuk 4 other kawan dengan the least SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2070421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ya Śūnyatā Tad Rūpam",
+          "abName": "My Form Empties",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [DefenseDown] menjadi 1 acak other kawan"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [DefenseUp] giliran berikutnya."
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [AttackDmgUp] giliran berikutnya."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Ya Śūnyatā Tad Rūpam",
+          "abName": "My Form Empties",
+          "desc": "[CantIdentify]\nTarget Secara acak\n[BeforeAttack] Pada -15 atau lower SP, peroleh +1 Atk Weight",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [DefenseDown] menjadi 1 acak other kawan"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [DefenseUp] giliran berikutnya."
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [AttackDmgUp] giliran berikutnya."
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Pulihkan 4 SP pada diri sendiri"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Ya Śūnyatā Tad Rūpam",
+          "abName": "My Form Empties",
+          "desc": "[CantIdentify]\nTarget Secara acak\n[BeforeAttack] Pada -15 atau lower SP, peroleh +2 Atk Weight",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [DefenseDown] menjadi 1 acak other kawan"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [DefenseUp] giliran berikutnya."
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [AttackDmgUp] giliran berikutnya."
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Pulihkan 4 SP pada diri sendiri"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Beri 1 [Vulnerable]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

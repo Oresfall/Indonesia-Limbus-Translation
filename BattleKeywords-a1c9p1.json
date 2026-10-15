@@ -1,0 +1,206 @@
+{
+  "dataList": [
+    {
+      "id": "MuscleContraction",
+      "name": "Aktivitas Myofiber Otomatis",
+      "desc": "- Stack Maks: 2\n- Beri +15% damage per Stack\n- Awal Pertempuran: Pada 2 Stack, ubah semua Coin dari Skill Attack unit ini menjadi Unbreakable Coin.\n- Akhir Serangan: Kehilangan efek ini",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DuelEdge",
+      "name": "Duel Kian Memanas",
+      "desc": "- Stack Maks: 20\n- 'Murid The Thumb - Lucio' peroleh Skill Power dan beri damage lebih untuk setiap Clash dengan unit ini\n- Kadaluarsa pada Akhir Giliran jika unit ini tidak Clash dengan 'Murid The Thumb - Lucio' giliran ini",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HostageCharon",
+      "name": "Situasi Sandera",
+      "desc": "- Ketika Clash dengan 'Murid The Thumb - Lucio', Clash Power -1\n- Beri -20% damage ke 'Murid The Thumb - Lucio'",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SeveredTendon",
+      "name": "Tendon Terputus",
+      "desc": "- Stack Maks: 3\n- Skill Base Attack Base Power -1 untuk setiap Stack\n- Akhir Giliran: Kehilangan 1 Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HowDareYouApple",
+      "name": "Beraninya Kau...!",
+      "desc": "- Stack Maks: 4\n- Beri +20% damage untuk setiap Stack\n- Dikonsumsi ketika memakai Skill tertentu",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RapidGrowthApple",
+      "name": "Pertumbuhan Pesat",
+      "desc": "- Stack Maks: 3\n- Kehilangan 1 Defense Level untuk setiap Stack; minimum Defense Level karena efek ini: 1\n- Kehilangan efek ini ketika semua Lengan telah rusak",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HumanFleshTheRings",
+      "name": "Bahan Corpus",
+      "desc": "- Stack Maks: 2\n- Charge Unik (Potency tetap)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BoneBladeTheRings",
+      "name": "Artwork: Fascia",
+      "desc": "- Awal Giliran: Peroleh 4 Base Power Up\n- Ketika memberi Bleed dengan Skill Attack, beri tambahan 2 Potency Bleed",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnsteadyTheRings",
+      "name": "Armor Retak-Gemparan",
+      "desc": "- Stack Maks: 3\n- Ketika memakai 'Daging Tertindas', kehilangan 10 Final Power untuk setiap Stack\n- Pada 3 Stack setelah memakai 'Daging Tertindas', kehilangan efek ini dan menjadi Stagger hingga giliran berikutnya",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IronMaiden_LowMorale",
+      "name": "Gadis Besi",
+      "desc": "- Moral Rendah\n- Awal Giliran: Peroleh 1 Level Offense Down dan 1 Defense Level Up",
+      "summary": "Awal Giliran: Peroleh 1 Level Offense Down dan 1 Defense Level Up",
+      "undefined": "-"
+    },
+    {
+      "id": "IronMaiden_Panic",
+      "name": "Gadis Besi",
+      "desc": "- Panik\n- Awal Giliran: Peroleh 2 Level Offense Down dan 2 Defense Level Up",
+      "summary": "Awal Giliran: Peroleh 2 Level Offense Down dan 2 Defense Level Up",
+      "undefined": "-"
+    },
+    {
+      "id": "DicipleLittleFinger",
+      "name": "Pedang Moonlit Azure",
+      "desc": "- Stack Maks: 50\n- Awal Giliran: Peroleh 5 Perisai untuk setiap Stack\n- +1% Damage pada Serangan Critical untuk setiap Stack\n- Kehilangan 1 Stack saat terserang",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RyoshuSlotPlusA1C9",
+      "name": "Aroma dari Masa Lampau",
+      "desc": "- Skill Slot +1\n- Beri +10% damage ke musuh dari House of Spiders\n- Ketika Stagger, langsung pulih dari Stagger saat dimulainya giliran berikutnya dan peroleh 1 Attack Power Up (sekali per Pertempuran)\n- Tidak Dapat Mundur",
+      "summary": "Beri damage lebih ke musuh dari House of Spiders",
+      "undefined": "-"
+    },
+    {
+      "id": "ObservationMoses",
+      "name": "Pengamatan Tajam",
+      "desc": "- Tidak dapat ditarget untuk Terpesona\n- Beri +25% damage ke Fairy",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "CalmAnalysisMoses",
+      "name": "Analisis Tanpa Masalah",
+      "desc": "- Beri +25% damage ke Faelantern",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TeachersCommand",
+      "name": "Perintah Nursefather dari Thumb",
+      "desc": "- Kehilangan 5 Offense Levels",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RyoshuStartA1C9",
+      "name": "Kebangkitan Kegembiraan Terpendam",
+      "desc": "- Beri +10% damage ke musuh dari House of Spiders\n- Ketika Stagger, langsung pulih dari Stagger saat dimulainya giliran berikutnya dan peroleh 1 Attack Power Up (sekali per Pertempuran)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BreathLoss_LowMorale",
+      "name": "Nafas Kasar",
+      "desc": "Awal Giliran: Kehilangan 3 Potency Poise",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BreathLoss_Panic",
+      "name": "Nafas Kasar",
+      "desc": "Awal Giliran: Kehilangan 5 Potency Poise",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IndexPrescriptTargetMarkToEnemy",
+      "name": "Tanda dari Prescript",
+      "desc": "- Beri Tanda dari Prescript ke Skill Base Attack pada Dashboard unit ini",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IndexPrescriptTargetToEnemy",
+      "name": "Target Prescript",
+      "desc": "- Terima +10% damage dari unit The Index\n- Efek ini diberikan pada satu target tiap giliran berapapun jumlah unit The Index yang dikerahkan",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BlessingOfIndexPrescriptAlly",
+      "name": "Berkah dari Prescript",
+      "desc": "- Level Offense +1 untuk setiap 3 Stack\n- Stack Maks: 9",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "IndexPrescript_Base",
+      "name": "Prescript",
+      "desc": "- Terima 'Prescript: [Slip Kertas]' dibawah kondisi spesifik",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescript diberikan dengan cara apapun, media pengiriman ditentukan layaknya nubuat ilahi. Mereka yang menerimanya tidak memiliki kuasa atas bagaimana Prescript tiba."
+    },
+    {
+      "id": "IndexPrescriptFaust_0",
+      "name": "Prescript: [Slip Kertas] I",
+      "desc": "Gunakan Skill yang ditandai dengan Tanda dari Prescript atau serang target dengan Skill tertanda.\n\n- Awal Giliran: Pada 0~2 Berkah dari Prescript, peroleh efek ini \n- Maksimum stack Berkah dari Prescript yang didapatkan dengan Prescript ini dibatasi hingga 3",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescript diberikan dengan cara apapun, media pengiriman ditentukan layaknya nubuat ilahi. Mereka yang menerimanya tidak memiliki kuasa atas bagaimana Prescript tiba."
+    },
+    {
+      "id": "IndexPrescriptFaust_1",
+      "name": "Prescript: [Slip Kertas] II",
+      "desc": "Serang target dengan Skill tertandai oleh Tanda dari Prescript.\n\n- Awal Giliran: Pada 3~5 Berkah dari Prescript, peroleh efek ini\n- Maksimum stack Berkah dari Prescript yang didapatkan dengan Prescript ini dibatasi hingga 6",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescript diberikan dengan cara apapun, media pengiriman ditentukan layaknya nubuat ilahi. Mereka yang menerimanya tidak memiliki kuasa atas bagaimana Prescript tiba."
+    },
+    {
+      "id": "IndexPrescriptFaust_2",
+      "name": "Prescript: [Slip Kertas] III",
+      "desc": "Serang target dengan Skill Kebangkitan E.G.O atau 'Skill 3' yang ditandai dengan Tanda dari Prescript.\n\n- Awal Giliran: Pada 6~8 Berkah dari Prescript, peroleh efek ini\n- Maksimum stack Berkah dari Prescript yang didapatkan dengan Prescript ini dibatasi hingga 9",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescript diberikan dengan cara apapun, media pengiriman ditentukan layaknya nubuat ilahi. Mereka yang menerimanya tidak memiliki kuasa atas bagaimana Prescript tiba."
+    },
+    {
+      "id": "IndexPrescriptFaust_3",
+      "name": "Prescript: [Slip Kertas] IV",
+      "desc": "Kalahkan semua musuh sebelum Prescript berikutnya tiba.\n\n- Awal Giliran: Pada 9 Berkah dari Prescript, peroleh efek ini",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prescript diberikan dengan cara apapun, media pengiriman ditentukan layaknya nubuat ilahi. Mereka yang menerimanya tidak memiliki kuasa atas bagaimana Prescript tiba."
+    },
+    {
+      "id": "KarmaOfIndexAlly",
+      "name": "Konsekuensi Karma",
+      "desc": "- Awal Giliran:\n· Peroleh 1 Defense Level Down untuk setiap 10 Stack\n· Peroleh 1 Fragile untuk setiap 20 Stack\n- Stack Maks: 100",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Terima Prescript itu dan lakukan perintahyna. Pelaksanaannya terukir sebagai karma, ditarik ke dalam siklus tanpa henti yang berputar kembali ke tangan pelaksananya."
+    }
+  ]
+}

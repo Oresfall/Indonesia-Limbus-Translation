@@ -1,0 +1,117 @@
+{
+  "dataList": [
+    {
+      "id": "TipsinessRail",
+      "name": "Mabuk",
+      "desc": "Clash Power -{0} (Maks 5)",
+      "summary": "Lose Clash Power sebanyak Count efek"
+    },
+    {
+      "id": "PassedPortal_Red",
+      "name": "Dimensi Penuh Darah",
+      "desc": "Pass through the Dimensional Rift to beri +{0}0% damage"
+    },
+    {
+      "id": "PassedPortal_Green",
+      "name": "Dimensi Penuh Racun",
+      "desc": "Pass through the Dimensional Rift untuk memperoleh +20% maks HP"
+    },
+    {
+      "id": "PassedPortal_Yellow",
+      "name": "Dimensi Penuh Guncangan",
+      "desc": "Pass through the Dimensional Rift untuk memperoleh {0} Speed"
+    },
+    {
+      "id": "PassedPortal_Blue",
+      "name": "Dimensi Penuh Listrik",
+      "desc": "Pass through the Dimensional Rift untuk memperoleh Coin Power +{0}"
+    },
+    {
+      "id": "FairyCharm",
+      "name": "Charmed",
+      "desc": "- Semua damage yang diberikan ke Fairy dikurang menjadi 0.\n- Kadaluarsa when Fairy mati.",
+      "summary": "Damage fixed menjadi 0"
+    },
+    {
+      "id": "DecoyRegenerated",
+      "name": "Regenerate",
+      "desc": "Number of Charmed Units +1 setiap kali a part is restored",
+      "summary": ""
+    },
+    {
+      "id": "WaveFoxUmbrella",
+      "name": "Protection Umbrella",
+      "desc": "Semua parts peroleh Protection setara dengan {0}\nKetika menggunakan Waiting Skill, Summon {0} Old Umbrella\n1 Spent setiap kali an Umbrella rusak."
+    },
+    {
+      "id": "InterlockingTime_Re",
+      "name": "Interlocking Time",
+      "desc": "Kurangi final damage sebanyak 30% dan store it. Pada 3 Count, terima damage tetap sebanyak 2 kali the accumulated damage, dan peroleh 3 Bind giliran berikutnya.",
+      "summary": "Kurangi final damage sebanyak 30% dan store it. Pada 3 Count, terima damage tetap sebanyak 2 kali the accumulated damage, dan peroleh 3 Bind giliran berikutnya."
+    },
+    {
+      "id": "TimeRental_Re",
+      "name": "Borrowed Time",
+      "desc": "Pada Akhir Giliran, peroleh 3 Haste, 2 Damage Up, dan 2 Offense Level Up; Jika hanya 1 Count remains pada akhir Giliran, peroleh 3 Bind, 1 Attack Power Down, dan 2 Fragile giliran berikutnya",
+      "summary": "Pada Akhir Giliran, peroleh 3 Haste, 2 Damage Up, dan 2 Offense Level Up; Jika hanya 1 Count remains pada akhir Giliran, peroleh 3 Bind, 1 Attack Power Down, dan 2 Fragile giliran berikutnya"
+    },
+    {
+      "id": "ReattachedCurseTag_Re",
+      "name": "Reattached Curse Talisman",
+      "desc": "Pada 9+, peroleh 5 Bind pada awal giliran.\nPada 12+, peroleh 5 Attack Power Down pada awal giliran. (Maks 12)",
+      "summary": "Pada 9+, peroleh 5 Bind pada awal giliran.\nPada 12+, peroleh 5 Attack Power Down pada awal giliran."
+    },
+    {
+      "id": "WrappedCurseTagRe",
+      "name": "Jeratan Jimat Terkutuk",
+      "desc": "Beri +1% damage per Count\nPada 9+ Count, peroleh 2 Attack Power Down at awal giliran (Maks 9)",
+      "summary": " "
+    },
+    {
+      "id": "AccumulatedMasa Lalu",
+      "name": "Accumulated Masa Lalu",
+      "desc": "Peroleh 11 pada akhir Giliran.\nSpent completely when Bagian \"Tubuh\" rusak.",
+      "summary": ""
+    },
+    {
+      "id": "PrepareSinRose",
+      "name": "Crown of Thorns",
+      "desc": "Generates a Rose unit whose Affinity corresponds to the most-owned Skill Affinity of target inflicted dengan efek ini",
+      "summary": ""
+    },
+    {
+      "id": "BloomingRose",
+      "name": "Blooming Sin",
+      "desc": "Pada Akhir Giliran\n- Peroleh 1 Count.\n- {2} kehilangan HP setara dengan 25% dari Maks HP.\n- Lose 10% of {1} E.G.O resource.\n- The Sign of Roses pulihkan 5% dari Maks HP.\n\nPada 4 Count,\n- {2} mati.\n- Kehilangan semua dari {1} E.G.O resource.",
+      "summary": ""
+    },
+    {
+      "id": "EatingSin",
+      "name": "Drenched Sin",
+      "desc": "Peroleh Maks HP sebanyak {0}%(E.G.O resource drained).\n\nPada Death\n- Regain {0} of {1} E.G.O resource.\n- {2} pulihkan HP sebanyak (25% of Identitas's Maks HP x Blooming Sin Stack at kematian).",
+      "summary": ""
+    },
+    {
+      "id": "EnhanceRose",
+      "name": "Power-up State",
+      "desc": "Power-up State passive diaktifkan",
+      "summary": ""
+    },
+    {
+      "id": "RailLine2Buff",
+      "name": "Mirror Refraction",
+      "summary": ""
+    },
+    {
+      "id": "FullBloomRose",
+      "name": "Bloomed Rose",
+      "summary": ""
+    },
+    {
+      "id": "KalpaVine",
+      "name": "Brambles of Eternity",
+      "desc": "Semua karakter beri -{0}0% damage\nSemua karakter menerima -{0}0% damage",
+      "summary": ""
+    }
+  ]
+}

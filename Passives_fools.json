@@ -1,0 +1,19 @@
+{
+  "dataList": [
+    {
+      "id": 899901,
+      "name": "Got Permen?",
+      "desc": "Awal Giliran: in Deployment Order, beri [CandyForCharon] terhadap 1 musuh tanpa [CandyForCharon]"
+    },
+    {
+      "id": 899902,
+      "name": "The Red Aura",
+      "desc": "Awal Pertempuran: Vergilius peroleh a certain jumlah dari Perisai that lasts for the duration of Pertempuran\nTurn ends ketika Perisai rusak"
+    },
+    {
+      "id": 899903,
+      "name": "Vroom-vroom. Angry now",
+      "desc": "Ketika Perisai is depleted, peroleh pola baru\n- Tetapkan Speed ke 20\n- No longer menerima any HP damage"
+    }
+  ]
+}

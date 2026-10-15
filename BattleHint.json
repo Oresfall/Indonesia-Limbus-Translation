@@ -1,0 +1,144 @@
+{
+  "dataList": [
+    {
+      "id": "1",
+      "content": "Dibutuhkan Enkephalin Module untuk mengambil hadiah setelah menyelesaikan ekspedisi Mirror Dungeon."
+    },
+    {
+      "id": "2",
+      "content": "Setiap skill terdiri dari setidaknya 1 Koin."
+    },
+    {
+      "id": "3",
+      "content": "Coin Power dapat meningkat atau menurun tergantung pada sisi mana ia mendarat."
+    },
+    {
+      "id": "4",
+      "content": "Sisi Coin juga memengaruhi aktivasi efek skill tertentu."
+    },
+    {
+      "id": "5",
+      "content": "Unit dapat jatuh ke dalam kondisi Panic ketika Sanity mereka turun di bawah ambang batas tertentu."
+    },
+    {
+      "id": "6",
+      "content": "Sinners dengan Sanity rendah akan terkena Corroded oleh E.G.O."
+    },
+    {
+      "id": "7",
+      "content": "Corroded Sinners akan menyerang secara membabi buta, jadi berhati-hatilah."
+    },
+    {
+      "id": "8",
+      "content": "Potensi efek status menunjukkan seberapa besar damage yang akan dihasilkannya."
+    },
+    {
+      "id": "9",
+      "content": "Setelah digunakan, skill diubah menjadi sumber daya E.G.O yang sesuai dengan Sin Affinity mereka."
+    },
+    {
+      "id": "10",
+      "content": "Mengalahkan Abnormalities berkali-kali akan meningkatkan Observation Levelnya, memungkinkan anda memberikan damage yang lebih baik pada pertemuan di masa mendatang."
+    },
+    {
+      "id": "11",
+      "content": "Skill yang membutuhkan sumber daya akan dibatalkan jika karakter tidak memiliki jumlah yang diperlukan."
+    },
+    {
+      "id": "12",
+      "content": "Speed ditentukan secara acak dalam rentang tertentu di setiap giliran."
+    },
+    {
+      "id": "13",
+      "content": "Speed menentukan formasi unit dalam pertempuran."
+    },
+    {
+      "id": "14",
+      "content": "Pada awal pertempuran, karakter anda akan mengambil Sin Resistances dari E.G.O tingkat terendah yang mereka lengkapi."
+    },
+    {
+      "id": "15",
+      "content": "Setelah seorang Pendosa menggunakan E.G.O, Sin Resistances mereka diperbarui; namun, nilai apa pun yang seharusnya diturunkan justru akan tetap seperti semula."
+    },
+    {
+      "id": "16",
+      "content": "Defense Skill yang dihasilkan akan mengisi slot skill terbawah Pendosa, menggantikan skill atau E.G.O saat ini."
+    },
+    {
+      "id": "17",
+      "content": "Membatalkan E.G.O sebelum menggunakannya akan mengembalikan sumber dayanya."
+    },
+    {
+      "id": "18",
+      "content": "Jika 2+ skill dengan Sin yang sama berada dalam satu rantai, Sin Resonance akan aktif dan memperkuat serangan anda."
+    },
+    {
+      "id": "19",
+      "content": "Jika 3+ skill dengan Sin yang sama berada dalam urutan langsung, Absolute Resonance akan aktif dan memperkuat serangan anda."
+    },
+    {
+      "id": "20",
+      "content": "Semakin lama Clashes berlangsung, semakin tinggi damage akhir yang dihasilkan pemenang."
+    },
+    {
+      "id": "21",
+      "content": "Ketika HP karakter turun di bawah Batas Stagger, mereka menjadi rentan terhadap semua serangan dan tidak dapat bertindak hingga akhir giliran berikutnya."
+    },
+    {
+      "id": "22",
+      "content": "Di dalam Dungeon, anda dapat memulihkan diri dan menyimpan progres anda di Checkpoints."
+    },
+    {
+      "id": "23",
+      "content": "Setiap Identity memiliki Combat Passive dan Support Passive."
+    },
+    {
+      "id": "24",
+      "content": "Identities yang berpartisipasi dalam pertempuran menggunakan Combat Passive."
+    },
+    {
+      "id": "25",
+      "content": "Sinners yang tidak berpartisipasi langsung dalam pertempuran akan memberikan bantuan dengan Support Passive mereka."
+    },
+    {
+      "id": "26",
+      "content": "Bagian tubuh Abnormalities mungkin memiliki Resistance dan perilaku yang berbeda."
+    },
+    {
+      "id": "27",
+      "content": "Saat menghadapi Abnormalities dalam Focused Encounters, anda mungkin menemukan situasi yang mengharuskan anda membuat pilihan; tergantung hasilnya, anda mungkin menerima berbagai efek atau bahkan E.G.O. Gifts."
+    },
+    {
+      "id": "28",
+      "content": "Masih dimungkinkan untuk lulus checks bahkan tanpa Sin yang disyaratkan."
+    },
+    {
+      "id": "29",
+      "content": "Anda dapat memperoleh E.G.O Gifts baik dari checks maupun pertempuran saat anda melalui Dungeon."
+    },
+    {
+      "id": "30",
+      "content": "Ketika musuh kehabisan Sanity dan jatuh ke dalam kondisi Panic, mereka menderita efek negatif."
+    },
+    {
+      "id": "31",
+      "content": "Jika HP karakter yang terkena Stagger turun di bawah Batas Stagger berikutnya, mereka akan menerima damage ekstra."
+    },
+    {
+      "id": "32",
+      "content": "Count dari status effect menunjukkan berapa lama efek tersebut akan bertahan atau berapa kali efek tersebut akan aktif selama pertempuran."
+    },
+    {
+      "id": "33",
+      "content": "Skill E.G.O ditempatkan di bagian bawah kolom Pendosa."
+    },
+    {
+      "id": "34",
+      "content": "Clashes terjadi ketika dua Attack Skill saling menargetkan satu sama lain."
+    },
+    {
+      "id": "35",
+      "content": "Combat Passive dan Support Passive memerlukan Sin Affinities tertentu untuk dirantai atau sumber daya dimiliki agar dapat aktif."
+    }
+  ]
+}

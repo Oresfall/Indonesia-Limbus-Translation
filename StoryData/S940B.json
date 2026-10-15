@@ -1,0 +1,838 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Koridor The Pinky",
+      "model": "단테",
+      "content": "<Apa ada orang yang beneran tinggal di sini...?>"
+    },
+    {
+      "id": 1,
+      "model": "뫼르소",
+      "content": "Meskipun tanda-tanda hunian sangat minim, terdapat bukti pembersihan rutin."
+    },
+    {
+      "id": 2,
+      "model": "료슈",
+      "content": "......."
+    },
+    {
+      "id": 3,
+      "model": "료슈",
+      "content": "Tempat ini tidak berubah sedikit pun."
+    },
+    {
+      "id": 4,
+      "content": "Keheningan yang aneh memenuhi ruangan yang kami masuki."
+    },
+    {
+      "id": 5,
+      "content": "Ruangan itu benar-benar sunyi dan tidak memiliki kehangatan apa pun."
+    },
+    {
+      "id": 6,
+      "content": "Ryōshū melangkah masuk melewati ambang pintu dengan sangat hati-hati."
+    },
+    {
+      "id": 7,
+      "model": "료슈",
+      "content": "......."
+    },
+    {
+      "id": 8,
+      "model": "료슈",
+      "content": "Saat aku membuka laci ini..."
+    },
+    {
+      "id": 9,
+      "model": "료슈",
+      "content": "... dulu ada... sebuah tas sekolah."
+    },
+    {
+      "id": 10,
+      "place": -1,
+      "model": "료슈딸",
+      "content": "Mama... Mama!"
+    },
+    {
+      "id": 11,
+      "model": "료슈딸",
+      "content": "Apa mama pernah melihat barang seperti ini di luar?"
+    },
+    {
+      "id": 12,
+      "model": "과거료슈3",
+      "content": "... Tidak."
+    },
+    {
+      "id": 13,
+      "model": "료슈딸",
+      "content": "Tapi ini sangat cantik."
+    },
+    {
+      "id": 14,
+      "model": "과거료슈3",
+      "content": "Hei, kenapa tidak kau lepaskan tas sekolah itu? Kau sudah menggendongnya sepanjang hari."
+    },
+    {
+      "id": 15,
+      "model": "료슈딸",
+      "content": "Ini namanya \"ran-do-seru\"!"
+    },
+    {
+      "id": 16,
+      "model": "료슈딸",
+      "content": "Karena aku masih SD! <i>S-D</i>!"
+    },
+    {
+      "id": 17,
+      "model": "과거료슈3",
+      "content": "Makanlah semangka ini. Rasanya manis."
+    },
+    {
+      "id": 18,
+      "model": "료슈딸",
+      "content": "......."
+    },
+    {
+      "id": 19,
+      "model": "료슈딸",
+      "content": "Wah. Ini sangat manis... Semangka ini goks abis!"
+    },
+    {
+      "id": 20,
+      "model": "과거료슈3",
+      "content": "... Uh-huh."
+    },
+    {
+      "id": 21,
+      "model": "료슈딸",
+      "content": "... Mama tidak paham, ya?"
+    },
+    {
+      "id": 22,
+      "model": "과거료슈3",
+      "content": "Nuh-uh..."
+    },
+    {
+      "id": 23,
+      "model": "료슈딸",
+      "content": "Goks itu singkatan \"Gokil\", yang artinya enak banget!"
+    },
+    {
+      "id": 24,
+      "model": "과거료슈3",
+      "content": "... Singkatan yang nggak jelas, menurutku."
+    },
+    {
+      "id": 25,
+      "model": "료슈딸",
+      "content": "Maksud Mama \"Gaje?\""
+    },
+    {
+      "id": 26,
+      "model": "과거료슈3",
+      "content": "......."
+    },
+    {
+      "id": 27,
+      "model": "료슈딸",
+      "content": "Oke, cukup. Aku akan mengajari Mama semua yang kupelajari di sekolah! Mulai hari ini!"
+    },
+    {
+      "id": 28,
+      "model": "과거료슈3",
+      "content": "... Aku tidak perlu tahu."
+    },
+    {
+      "id": 29,
+      "model": "과거료슈3",
+      "content": "Tidak peduli seberapa populer hal itu sekarang. Seiring waktu, semuanya akan menjadi tua, usang, dan memalukan karena ketinggalan zaman."
+    },
+    {
+      "id": 30,
+      "model": "료슈딸",
+      "content": "Tapi Mama, ini bakal seru."
+    },
+    {
+      "id": 31,
+      "model": "료슈딸",
+      "content": "Dan Mama kan sangat peduli tentang estetika penyingkatan, kan?"
+    },
+    {
+      "id": 32,
+      "model": "료슈딸",
+      "content": "Mama harus belajar ini kalau tidak mau ketinggalan zaman! Serius deh, jangan Gaptek!"
+    },
+    {
+      "id": 33,
+      "model": "과거료슈3",
+      "content": "... Gaptek?"
+    },
+    {
+      "id": 34,
+      "model": "료슈딸",
+      "content": "Artinya... \"Ga<b>gap</b>... <b>Tek</b>nologi.\" Ta-da! Itulah Gaptek!"
+    },
+    {
+      "id": 35,
+      "model": "료슈딸",
+      "content": "... Daaan begini cara menyingkat yang lainnya."
+    },
+    {
+      "id": 36,
+      "model": "료슈딸",
+      "content": "Lihat, lihat! Oke?"
+    },
+    {
+      "id": 37,
+      "model": "과거료슈3",
+      "content": "Ya."
+    },
+    {
+      "id": 38,
+      "model": "료슈딸",
+      "content": "Ugh, Gaptek! Coba yang satu ini!"
+    },
+    {
+      "id": 39,
+      "model": "과거료슈3",
+      "content": "G.T."
+    },
+    {
+      "id": 40,
+      "model": "료슈딸",
+      "content": "Mama mulai paham!"
+    },
+    {
+      "id": 41,
+      "model": "료슈",
+      "content": "Aku tidak..."
+    },
+    {
+      "id": 42,
+      "place": "Koridor The Pinky",
+      "model": "료슈",
+      "content": "Aku tidak paham, bisa kau mengulanginya... sekali lagi...?"
+    },
+    {
+      "id": 43,
+      "content": "Penglihatan itu perlahan terangkat dari kami bagaikan kabut yang menghilang..."
+    },
+    {
+      "id": 44,
+      "content": "... meninggalkan ruangan kosong yang penuh sarang laba-laba."
+    },
+    {
+      "id": 45,
+      "model": "소지제자",
+      "content": "Sarang laba-laba adalah..."
+    },
+    {
+      "id": 46,
+      "model": "소지제자",
+      "content": "... hal yang sangat sulit disingkirkan begitu mereka menempel."
+    },
+    {
+      "id": 47,
+      "model": "오티스",
+      "content": "......."
+    },
+    {
+      "id": 48,
+      "model": "소지제자",
+      "content": "Aku akan memberikan jawaban sebelum pertanyaan diajukan. Seperti halnya alasan kalian datang ke sini, di sini terdapat sesuatu yang telah kalian semua... hilangkan."
+    },
+    {
+      "id": 49,
+      "model": "뫼르소",
+      "content": "Tidak ada yang hilang. Kami di sini untuk mengambil kembali apa yang dicuri dari kami."
+    },
+    {
+      "id": 50,
+      "model": "소지제자",
+      "content": "... Benarkah?"
+    },
+    {
+      "id": 51,
+      "model": "소지제자",
+      "content": "Orang dewasa yang nakal suka melontarkan pertanyaan lucu kepada anak-anak yang sebenarnya cukup kejam."
+    },
+    {
+      "id": 52,
+      "model": "소지제자",
+      "content": "Kamu lebih sayang mama atau ayahmu? Kamu lebih suka es krim stroberi atau es krim cokelat?"
+    },
+    {
+      "id": 53,
+      "model": "소지제자",
+      "content": "Mungkin guruku, Yoshihide... masih menganggap kalian semua hanyalah anak kecil."
+    },
+    {
+      "id": 54,
+      "model": "료슈",
+      "content": "Langsung ke intinya, atau kau akan merasakan sendiri bagaimana tepatnya gurumu kehilangan lidahnya."
+    },
+    {
+      "id": 55,
+      "model": "소지제자",
+      "content": "Aku menyajikan di hadapanmu, Yoshihide... dan rekan-rekanmu... sebuah pilihan."
+    },
+    {
+      "id": 56,
+      "model": "소지제자",
+      "content": "<ruby=Ranting Emas>Golden Boughs</ruby>... dan sang anak. Jika kalian hanya bisa kembali dengan salah satu dari keduanya..."
+    },
+    {
+      "id": 57,
+      "model": "소지제자",
+      "content": "... mana yang akan kalian pilih?"
+    },
+    {
+      "id": 58,
+      "place": -1,
+      "model": "소지아비2",
+      "content": "Kau menjadi semakin mirip denganku."
+    },
+    {
+      "id": 59,
+      "model": "과거료슈3",
+      "content": "... Apa aku punya pilihan? Bagaimanapun juga, aku adalah darah dagingmu."
+    },
+    {
+      "id": 60,
+      "teller": "???",
+      "title": "???",
+      "content": "......."
+    },
+    {
+      "id": 61,
+      "teller": "???",
+      "title": "???",
+      "content": "... Bya!"
+    },
+    {
+      "id": 62,
+      "model": "소지아비2",
+      "content": "......."
+    },
+    {
+      "id": 63,
+      "model": "소지아비2",
+      "content": "Jadi, dialah anaknya."
+    },
+    {
+      "id": 64,
+      "model": "검지아비",
+      "content": "Ya, benar. Anak dari darahmu... anak yang sangat berharga."
+    },
+    {
+      "id": 65,
+      "model": "검지아비",
+      "content": "Bakatnya, kemampuannya untuk \"merasakan\" aliran waktu... sangat presisi. Dia membuatmu terlihat sangat tumpul jika dibandingkan, Dihui Star."
+    },
+    {
+      "id": 66,
+      "model": "소지아비2",
+      "content": "......."
+    },
+    {
+      "id": 67,
+      "model": "검지아비",
+      "content": "Untuk sekarang, kita akan memberinya cukup ruang untuk memahami dan mengalami \"waktu\" saat dia berinteraksi dengan dunia dengan caranya sendiri."
+    },
+    {
+      "id": 68,
+      "model": "엄지아비",
+      "content": "Ugh... Kalau begitu, akan butuh waktu selamanya sebelum dia bisa berguna."
+    },
+    {
+      "id": 69,
+      "model": "약지아비",
+      "content": "Fuhu... semakin banyak perhatian yang kita berikan dalam menempa dan memahat bahan ini, maka ia akan menjadi semakin layak."
+    },
+    {
+      "id": 70,
+      "model": "중지아비",
+      "content": "Aww, lihat anak ini! Dia barusan tersenyum padaku! Apa kalian lihat?"
+    },
+    {
+      "id": 71,
+      "model": "중지아비",
+      "content": "Jadi... namanya dia nanti siapa?"
+    },
+    {
+      "id": 72,
+      "model": "약지아비",
+      "content": "Tampaknya itu harus menjadi subjek berikutnya di meja kita. Secara pribadi, aku lebih suka jika dia dinamai Elisa—"
+    },
+    {
+      "id": 73,
+      "model": "검지아비",
+      "content": "... Mm."
+    },
+    {
+      "id": 74,
+      "model": "검지아비",
+      "content": "\"Yoshihide\" seharusnya menjadi nama yang bagus untuknya."
+    },
+    {
+      "id": 75,
+      "model": "엄지아비",
+      "content": "... Kata Prescript?"
+    },
+    {
+      "id": 76,
+      "model": "검지아비",
+      "content": "Ya."
+    },
+    {
+      "id": 77,
+      "model": "엄지아비",
+      "content": "*huff* Yah, apa pun yang dikatakan Prescript berhargamu itu berlaku, kan? Lagipula itu lebih baik daripada nama sampah seperti Elisa atau semacamnya."
+    },
+    {
+      "id": 78,
+      "model": "약지아비",
+      "content": "Aku akan menghargai jika kamu menyimpan komentar tentang selera penamaanku untuk dirimu sendiri, Valencina."
+    },
+    {
+      "id": 79,
+      "teller": "???",
+      "title": "???",
+      "content": "... Mya!"
+    },
+    {
+      "id": 80,
+      "model": "중지아비",
+      "content": "Lihat dia... Sepertinya dia suka nama Yoshihide. Oke kalau begitu! Kau akan menjadi Yoshihide mulai sekarang, Yoshihide!"
+    },
+    {
+      "id": 81,
+      "model": "소지아비2",
+      "content": "......."
+    },
+    {
+      "id": 82,
+      "model": "검지아비",
+      "content": "Kau rawat dia untuk sementara waktu, Dihui Star."
+    },
+    {
+      "id": 83,
+      "model": "소지아비2",
+      "content": "Kenapa harus... aku?"
+    },
+    {
+      "id": 84,
+      "model": "검지아비",
+      "content": "Yah, karena dia adalah darah dagingmu. Dia hampir seperti salinan dirimu... kecuali matanya."
+    },
+    {
+      "id": 85,
+      "model": "소지아비2",
+      "content": "Kau tahu bukan itu yang kutanyakan. Aku bertanya kenapa harus—!"
+    },
+    {
+      "id": 86,
+      "model": "검지아비",
+      "content": "... Bagi kami, yang dibuang di sini, tidak ada yang kurang bermakna daripada pertanyaan \"kenapa.\""
+    },
+    {
+      "id": 87,
+      "model": "중지아비",
+      "content": "Yoooo, kalian lihat ini? Lihat bagaimana dia mengambil mainan itu?"
+    },
+    {
+      "id": 88,
+      "model": "엄지아비",
+      "content": "Hah... Apa dia masih meributkan soal itu? Tidak pernah bosan mengeluh, ya?"
+    },
+    {
+      "id": 89,
+      "model": "소지아비2",
+      "content": "... Kata si bajingan rendah yang sudah tidak disukai oleh Famiglia-nya sendiri. Satu kata lagi keluar dari mulutmu, dan aku akan..."
+    },
+    {
+      "id": 90,
+      "model": "중지아비",
+      "content": "Gaes! Jangan berkelahi! Jangan sebelum kita masang taruhan! Dan kamu—apa kamu tidak akan menghentikan mereka?"
+    },
+    {
+      "id": 91,
+      "model": "검지아비",
+      "content": "Hm..."
+    },
+    {
+      "id": 92,
+      "model": "검지아비",
+      "content": "Beginilah cara kita akan terjerat. Setiap pukulan, setiap pertengkaran adalah tarikan yang membawa kita semakin dekat... Jalinan ikatan dan karma kita melengkapi jaring yang merupakan <ruby=Rumah Laba-laba>House of Spiders</ruby>."
+    },
+    {
+      "id": 93,
+      "model": "검지아비",
+      "content": "Sekarang saatnya bagi kita masing-masing untuk melakukan yang terbaik demi anak berharga ini yang akhirnya diberikan kepada kita."
+    },
+    {
+      "id": 94,
+      "model": "소지아비2",
+      "content": "......."
+    },
+    {
+      "id": 95,
+      "teller": "???",
+      "title": "???",
+      "content": "... Ma!"
+    },
+    {
+      "id": 96,
+      "model": "소지아비2",
+      "content": "Kau... "
+    },
+    {
+      "id": 97,
+      "teller": "???",
+      "title": "???",
+      "content": "... Bya!"
+    },
+    {
+      "id": 98,
+      "model": "소지아비2",
+      "content": "... Ini adalah permintaan pertama dan terakhirku padamu: jangan menjadi sepertiku."
+    },
+    {
+      "id": 99,
+      "model": "소지아비2",
+      "content": "Sebelum kau datang padaku, aku... tidak tahu apa-apa selain kebebasan dan kenyamanan di dunia yang hanya milikku."
+    },
+    {
+      "id": 100,
+      "model": "소지아비2",
+      "content": "Sampai mereka menerobos masuk ke duniaku, menyeretku keluar dari sana, dan melemparku ke selokan ini."
+    },
+    {
+      "id": 101,
+      "model": "소지아비2",
+      "content": "Dan lalu kau terlahir."
+    },
+    {
+      "id": 102,
+      "model": "소지아비2",
+      "content": "Kerutan menutupi kulitku bagaikan selimut yang kusut, dan aku menyadari bahwa aku telah menjadi rusak secara permanen."
+    },
+    {
+      "id": 103,
+      "model": "소지아비2",
+      "content": "Seiring kau tumbuh dewasa, begitu pula kesengsaraanku..."
+    },
+    {
+      "id": 104,
+      "model": "소지아비2",
+      "content": "... sampai aku tidak menjadi apa-apa selain sekam yang keriput dan layu."
+    },
+    {
+      "id": 105,
+      "model": "소지아비2",
+      "content": "Sekam yang ada hanya untuk melahirkanmu ke dunia ini..."
+    },
+    {
+      "id": 106,
+      "model": "소지아비2",
+      "content": "Itulah sebabnya kau tidak boleh menjadi sepertiku."
+    },
+    {
+      "id": 107,
+      "model": "소지아비2",
+      "content": "Semakin kemiripan kita tumbuh, akan semakin jelas bahwa aku hanyalah sumber nutrisi bagimu untuk dimakan. Aku akan dihisap sampai kering hingga layu dan menyusut menjadi tidak berarti..."
+    },
+    {
+      "id": 108,
+      "model": "소지아비2",
+      "content": "Jadi jangan berani-berani menjadi sepertiku."
+    },
+    {
+      "id": 109,
+      "model": "소지아비2",
+      "content": "Oke?"
+    },
+    {
+      "id": 110,
+      "model": "과거료슈3",
+      "content": "... *huff*"
+    },
+    {
+      "id": 111,
+      "model": "소지아비2",
+      "content": "......."
+    },
+    {
+      "id": 112,
+      "model": "소지아비2",
+      "content": "Kau sudah mulai merokok?"
+    },
+    {
+      "id": 113,
+      "model": "과거료슈3",
+      "content": "Ya."
+    },
+    {
+      "id": 114,
+      "model": "소지아비2",
+      "content": "... Beri aku korekmu."
+    },
+    {
+      "id": 115,
+      "model": "소지아비2",
+      "content": "Hari saat kau pulang ke rumah setelah menerima augmentasi okular tempur itu..."
+    },
+    {
+      "id": 116,
+      "model": "소지아비2",
+      "content": "... dan menatapku dengan mata merah yang persis seperti mataku, aku menyadari dengan ngeri..."
+    },
+    {
+      "id": 117,
+      "model": "소지아비2",
+      "content": "Kau menjadi sepertiku."
+    },
+    {
+      "id": 118,
+      "model": "소지아비2",
+      "content": "Kau makhluk yang menjijikkan."
+    },
+    {
+      "id": 119,
+      "model": "과거료슈3",
+      "content": "... Tidak bisa dihindari."
+    },
+    {
+      "id": 120,
+      "model": "과거료슈3",
+      "content": "Bagaimanapun, aku anakmu."
+    },
+    {
+      "id": 121,
+      "place": "Koridor The Pinky",
+      "model": "료슈",
+      "content": "Aku tidak sedang ingin meladeni teka-tekimu."
+    },
+    {
+      "id": 122,
+      "model": "소지제자",
+      "content": "Dalam hal ini, apakah aku yang rendah hati ini boleh memahami maksudmu sebagai penolakan untuk menyerahkan salah satu dari mereka?"
+    },
+    {
+      "id": 123,
+      "model": "소지제자",
+      "content": "Aku khawatir guruku tidak menyukai orang yang serakah..."
+    },
+    {
+      "id": 124,
+      "model": "료슈",
+      "content": "Bawa dia padaku."
+    },
+    {
+      "id": 125,
+      "model": "료슈",
+      "content": "Aku akan bicara dengannya, dan jika dia tidak mau mendengarkan, aku akan membelahnya secara vertikal dari tenggorokannya."
+    },
+    {
+      "id": 126,
+      "model": "료슈",
+      "content": "Dan jika itu masih tidak berhasil, aku akan menghancurkan kepala para Nursefather satu per satu sampai seseorang menyerah dan bicara. Percayalah, aku akan melakukannya."
+    },
+    {
+      "id": 127,
+      "model": "소지아비",
+      "content": "Kepala bisa dipenggal, lidah bisa dipotong, wajah bisa digiling menjadi mulsa, dan anggota tubuh bisa diamputasi, tapi..."
+    },
+    {
+      "id": 128,
+      "model": "소지아비",
+      "content": "... ini, tidak bisa kau putuskan."
+    },
+    {
+      "id": 129,
+      "model": "소지아비",
+      "content": "Benar-benar keras kepala, bukan? Benang ini."
+    },
+    {
+      "id": 130,
+      "model": "소지아비",
+      "content": "Aku setuju."
+    },
+    {
+      "id": 131,
+      "model": "료슈",
+      "content": "......."
+    },
+    {
+      "id": 132,
+      "model": "소지아비",
+      "content": "Tidak terlihat, tidak berwujud, namun ada dengan gigih..."
+    },
+    {
+      "id": 133,
+      "model": "소지아비",
+      "content": "... dan benar-benar tidak terputuskan."
+    },
+    {
+      "id": 134,
+      "content": "Sang Nursefather mengangkat tangannya, mengangkat benang merah yang menambatkan dirinya dan Ryōshū bersama-sama."
+    },
+    {
+      "id": 135,
+      "content": "Saat tangannya menyentuhnya, benang itu menjadi terlihat jelas, seolah-olah memang selalu ada di sana."
+    },
+    {
+      "id": 136,
+      "model": "소지아비",
+      "content": "Tapi jika itu satu-satunya hal yang kau genggam..."
+    },
+    {
+      "id": 137,
+      "model": "소지아비",
+      "content": "Jika satu-satunya hal yang mengikatmu ke tempat ini..."
+    },
+    {
+      "id": 138,
+      "model": "소지아비",
+      "content": "... adalah benang tunggal itu..."
+    },
+    {
+      "id": 139,
+      "model": "소지아비",
+      "content": "Bukankah lebih baik bagimu untuk memutusnya saja?"
+    },
+    {
+      "id": 140,
+      "model": "소지아비",
+      "content": "Aku mengatakan ini padamu, karena tidak seperti Nursefather lainnya, kita memiliki hubungan darah."
+    },
+    {
+      "id": 141,
+      "model": "소지아비",
+      "content": "Dengan kata lain, aku memberimu kesempatan untuk bebas."
+    },
+    {
+      "id": 142,
+      "model": "소지아비",
+      "content": "Karena aku tahu akhir tak terelakkan yang akan kau temui sekarang setelah kau kembali ke sini."
+    },
+    {
+      "id": 143,
+      "model": "소지아비",
+      "content": "... Kecuali jika kau memutus benang itu sebelum masuk lebih dalam ke dalam Rumah, tentu saja."
+    },
+    {
+      "id": 144,
+      "model": "소지아비",
+      "content": "Ini adalah jalan keluarmu, cara untuk menyelamatkan dirimu dari nasib yang mengerikan."
+    },
+    {
+      "id": 145,
+      "model": "소지아비",
+      "content": "Atau..."
+    },
+    {
+      "id": 146,
+      "model": "소지아비",
+      "content": "... apakah <ruby=Ranting Emas>Golden Boughs</ruby> itu benar-benar sangat penting bagimu?"
+    },
+    {
+      "id": 147,
+      "model": "소지아비",
+      "content": "... Apa jawaban mereka atas pertanyaanku, Ren?"
+    },
+    {
+      "id": 148,
+      "model": "소지제자",
+      "content": "... Mereka tidak memberikan jawaban, Guru. Bisa jadi mereka ingin mengklaim keduanya—"
+    },
+    {
+      "id": 149,
+      "model": "소지아비",
+      "content": "Tidak."
+    },
+    {
+      "id": 150,
+      "model": "소지아비",
+      "content": "Balas dendam telah menyempitkan pandangannya terhadap semua hal lainnya... sesederhana itu."
+    },
+    {
+      "id": 151,
+      "model": "소지아비",
+      "content": "Dia tahu kembali ke sarang Laba-laba ini akan mengikatnya dalam jaring-jaringnya, namun dia cukup bodoh untuk melakukannya..."
+    },
+    {
+      "id": 152,
+      "model": "소지아비",
+      "content": "Apa lagi penjelasan lainnya?"
+    },
+    {
+      "id": 153,
+      "model": "료슈",
+      "content": "Kau... tidak akan mengerti."
+    },
+    {
+      "id": 154,
+      "model": "료슈",
+      "content": "Seseorang sepertimu yang tidak melakukan apa pun selain menyalahkanku atas kesengsaraanmu..."
+    },
+    {
+      "id": 155,
+      "model": "료슈",
+      "content": "... dan gemetar karena kebencian setiap kali aku memanggilmu."
+    },
+    {
+      "id": 156,
+      "model": "료슈",
+      "content": "Jadi, aku telah mengubur kata itu seumur hidupku. Kata yang seharusnya kugunakan untuk memanggilmu."
+    },
+    {
+      "id": 157,
+      "model": "소지아비",
+      "content": "......."
+    },
+    {
+      "id": 158,
+      "model": "료슈",
+      "content": "Kau bahkan tidak sanggup ketika aku—atau siapa pun, sebenarnya—memanggilmu dengan sebutan itu. Saking tidak sanggupnya sampai-sampai kau—"
+    },
+    {
+      "id": 159,
+      "model": "소지아비",
+      "content": "... Tidak."
+    },
+    {
+      "id": 160,
+      "model": "소지아비",
+      "content": "Karena gema dari kata itu membawa..."
+    },
+    {
+      "id": 161,
+      "model": "소지아비",
+      "content": "... tidak ada apa-apa selain kesengsaraan bagiku."
+    },
+    {
+      "id": 162,
+      "model": "료슈",
+      "content": "......."
+    },
+    {
+      "id": 163,
+      "model": "소지아비",
+      "content": "Itukah sebabnya kau membawa anak itu ke sini?"
+    },
+    {
+      "id": 164,
+      "place": -1,
+      "model": "료슈딸",
+      "content": "... ma!"
+    },
+    {
+      "id": 165,
+      "model": "료슈딸",
+      "content": "Itu mama!"
+    }
+  ]
+}

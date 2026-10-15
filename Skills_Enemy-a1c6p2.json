@@ -1,0 +1,1196 @@
+{
+  "dataList": [
+    {
+      "id": 9012801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cegah Para Kriminal",
+          "desc": "[WhenUse] Jika target memiliki [Laceration], pulihkan 4 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Eksekusi Peraturan",
+          "desc": "[WhenUse] Jika target memiliki 5+ [Laceration], Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [Laceration], pulihkan 5 SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [Laceration], pulihkan 5 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bunuh Para Kriminal",
+          "desc": "[WinDuel] Jika target memiliki [Laceration], peroleh 1 [Enhancement] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 5+ [Laceration], beri 20% damage yang diberikan sebagai bonus damage"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 [DefenseDown]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 5+ [Laceration], beri 20% damage yang diberikan sebagai bonus damage"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 [DefenseDown]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bertahan",
+          "desc": "Jika Unit ini memiliki Perisai HP pada Akhir Giliran, peroleh 2 [AttackDmgUp] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Singkirkan Para Kriminal",
+          "desc": "[WhenUse] Jika target memiliki [Laceration], pulihkan 4 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Aturan Dipatuhi",
+          "desc": "[WhenUse] Jika target memiliki 4+ [Laceration] Count, Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [Laceration], pulihkan 5 SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [Laceration], pulihkan 5 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hukum para Kriminal",
+          "desc": "[WinDuel] Jika target memiliki [Laceration], peroleh 1 [Enhancement] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 4+ [Laceration] Count, beri 20% damage yang diberikan sebagai bonus damage"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 [DefenseDown]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 4+ [Laceration] Count, beri 20% damage yang diberikan sebagai bonus damage"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 [DefenseDown]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9012904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bertahan",
+          "desc": "Jika Unit ini memiliki Perisai HP pada Akhir Giliran, peroleh 2 [AttackDmgUp] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Eksekusi Hukuman",
+          "desc": "[WinDuel] Jika target memiliki 5+ [Laceration], gunakan ulang Skill ini (sekali)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration] dan +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mendisiplinkan Kriminal",
+          "desc": "Jika target memiliki 5+ [Laceration], beri +30% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [Laceration], Beri 2 [AttackDown] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri [Burst] setara dengan ([Laceration]/2) pada target"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [Laceration], pulihkan 7 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pelanggaran Klausul",
+          "desc": "Coin Power +1 untuk setiap 3 [Laceration] pada target (maks 3)\n[WinDuel] Jika target memiliki 6+ [Laceration], beri +40% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 8 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [Laceration], pulihkan 5 SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri [Burst] setara dengan [Laceration] pada target"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [Laceration], pulihkan 10 SP"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Jika target memiliki 5+ [Laceration], gunakan ulang Skill ini (sekali)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Menghindar",
+          "desc": "[OnSucceedEvade] Peroleh [Enhancement] (maks 1)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sketch",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Brushstroke",
+          "desc": "Jika target memiliki 5+ [Laceration], Base Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [Laceration], pulihkan 5 SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [Laceration], pulihkan 5 SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri [Burst] setara dengan [Laceration] pada target"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sanguine Dots",
+          "desc": "[WinDuel] Jika target memiliki [Laceration], peroleh 1 [Enhancement] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 5+ [Laceration], beri 20% damage yang diberikan sebagai bonus damage"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 [DefenseDown]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 5+ [Laceration], beri 20% damage yang diberikan sebagai bonus damage"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 [DefenseDown]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 5+ [Laceration], gunakan ulang Skill ini (maks 1 kali)"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 2 [DefenseDown]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bertahan",
+          "desc": "Jika Unit ini memiliki Perisai HP pada Akhir Giliran, peroleh 3 [AttackDmgUp] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Line Art",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stroke",
+          "desc": "Jika target memiliki 5+ [Laceration], Base Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [Laceration], pulihkan 5 SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [Laceration], pulihkan 5 SP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri [Burst] setara dengan [Laceration] pada target"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sanguine Points",
+          "desc": "[WinDuel] Jika target memiliki [Laceration], peroleh 1 [Enhancement] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 4+ [Laceration] Count, beri 20% damage yang diberikan sebagai bonus damage"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 [DefenseDown]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 4+ [Laceration] Count, beri 20% damage yang diberikan sebagai bonus damage"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 [DefenseDown]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 4+ [Laceration] Count, gunakan ulang Skill ini (maks 1 kali)"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 2 [DefenseDown]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bertahan",
+          "desc": "Jika Unit ini memiliki Perisai HP pada Akhir Giliran, peroleh 3 [AttackDmgUp] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Coloring",
+          "desc": "[WinDuel] Jika target memiliki 5+ [Laceration], gunakan ulang Skill ini on a random enemy saat Akhir Attack (sekali)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +4 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sanguine Pointillism",
+          "desc": "Jika target memiliki 5+ [Laceration], beri +30% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [Laceration], Beri 2 [AttackDown] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [AttackDown] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri [Burst] setara dengan [Laceration] pada target"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pointillism",
+          "desc": "Coin Power +1 untuk setiap 3 [Laceration] pada target (maks 4)\n[WinDuel] Jika target memiliki 6+ [Laceration], beri +40% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri [Burst] Count setara dengan [Laceration] Count pada target"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri [Burst] setara dengan [Laceration] pada target"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bloody of the Valley",
+          "desc": "[WinDuel] Jika target memiliki [Laceration], peroleh 1 [Enhancement] giliran berikutnya\n[WinDuel] Jika target memiliki 10+ [Laceration], peroleh 1 [Enhancement] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [DefenseDown]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [DefenseDown]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 5+ [Laceration], gunakan ulang Skill ini (3 times maks)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Kurangi [Laceration] Count pada target sebanyak 1"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 2 [DefenseDown]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Menghindar",
+          "desc": "[OnSucceedEvade] Peroleh [Enhancement] (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Normal Attack 1",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [AttackDown] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [AttackDown] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 2 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Normal Attack 2",
+          "desc": "[WhenUse] Jika target memiliki [AttackDown], beri +20% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [HitResistDown]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [HitResistDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 [DefenseDown] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Normal Attack 3",
+          "desc": "[WhenUse] Jika target memiliki 2+ [AttackDown], Clash Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vulnerable]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Binding] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 4 SP pada diri sendiri"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [DefenseDown]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 4 SP pada diri sendiri"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [DefenseDown]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 4 SP pada diri sendiri"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [DefenseDown]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Normal Attack 4",
+          "desc": "Prioritaskan target dengan the most efek negatif\n[WhenUse] Clash Power +1 untuk setiap 3 [DefenseDown] pada target (maks 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vulnerable]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vulnerable] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Paralysis] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +20% damage untuk setiap 2 [AttackDown] pada target (maks 100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Jika target memiliki 3+ efek negatif, gunakan ulang coin ini (maks 1 kali)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9013505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Serangan Balik",
+          "desc": "Jika target memiliki [Vulnerable], Base Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Damn Plebs...!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [AttackUp] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [AttackUp] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Akan Kusingkirkan Dirimu",
+          "desc": "[WinDuel] Base Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [AttackDown], beri 20% damage yang diberikan sebagai bonus Blunt damage"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [AttackDown], beri 20% damage yang diberikan sebagai bonus Blunt damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Buat Semua Right Again",
+          "desc": "[WinDuel] Jika target memiliki 2+ [AttackDown], Base Power +1\n[WhenUse] Jika target memiliki [AttackDown], beri +30% damage",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 4 SP pada diri sendiri"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 4 SP pada diri sendiri"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 4 SP pada diri sendiri"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Get Crushed",
+          "desc": "Prioritaskan target dengan the most efek negatif\n[WinDuel] Coin Power +1 untuk setiap 3 [AttackDown] pada target (maks 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vulnerable]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vulnerable] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Paralysis] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +30% damage untuk setiap 2 [AttackDown] pada target (maks 120%)"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Jika target memiliki 3+ efek negatif, gunakan ulang coin ini (maks 1 kali)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bertahan",
+          "desc": "[StartBattle] Peroleh 20 additional Perisai HP untuk setiap surviving kawan lain",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pukulan Tongkat",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Smackdown",
+          "desc": "[WinDuel] Peroleh 1 [Enhancement] dan 1 Damage Up giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [Laceration] setara dengan [Burst] pada target"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pergolakan",
+          "desc": "Jika target memiliki 5+ [Burst], Clash Power +1\nJika target memiliki 5+ [Laceration], Clash Power +1\n[WinDuel] Beri +3 [Burst] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Coin berikutnya memiliki +1 Power"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Coin berikutnya memiliki +2 Power"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Paralysis] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri bonus Pierce damage setara dengan ([Laceration] x [Laceration] Count)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bertahan",
+          "desc": "[WhenUse] Peroleh 1 [Enhancement] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Serangan Balik",
+          "desc": "[WhenUse] Peroleh 1 [Enhancement] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+    "dataList": [
+        {
+            "id": 806301,
+            "name": "Ferocious Acidic Crust",
+            "desc": "Ketika bagian \"kepala\" rusak, the part has -2 Skill Final Power"
+        },
+        {
+            "id": 806302,
+            "name": "Stolen Rupturing Shell",
+            "desc": "Ketika the shell rusak, the part has -2 Skill Final Power"
+        },
+        {
+            "id": 806303,
+            "name": "Emergency Nutrient Supply",
+            "desc": "Setelah unit ini defeats its kawan, pulihkan sebanyak 5% dari Maks HP.\nPada akhir giliran, jika unit ini memiliki healed 15% dari Maks HP dengan efek di atas, restore the shell."
+        },
+        {
+            "id": 806304,
+            "name": "A Crab-eat-crab World",
+            "desc": "Pada kurang dari 70% HP, Brutal Pummelling, Powerful! Pummel, dan Foaming skills target another kawan dengan HP terendah.\nKetika menyerang kawan, memulihkan HP sebanyak the damage yang diberikan.\nKetika defeating kawan, memulihkan HP sebanyak double the damage yang diberikan."
+        },
+        {
+            "id": 806305,
+            "name": "Looming Presence",
+            "desc": "Awal Giliran: Semua musuh kehilangan 10 SP"
+        }
+    ]
+}

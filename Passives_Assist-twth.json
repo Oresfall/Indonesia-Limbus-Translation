@@ -1,0 +1,19 @@
+{
+  "dataList": [
+    {
+      "id": 40003701,
+      "name": "Thermal Weapon",
+      "desc": "Mulai Pertempuran dengan [HeatingWireOffSpider]\n\nAwal Giliran: Pada 2+ [ReinforcedTattooSpiderDaughterTwo], peroleh [HeatingWireOnSpiderTwo] dan juga beri [Combustion] dengan Skill yang beri [Laceration]"
+    },
+    {
+      "id": 40003702,
+      "name": "<s>The Middle</s>",
+      "desc": "Jika unit ini serang dengan lebih dari 2 Skill, peroleh 1 [ReinforcedTattooSpiderDaughterTwo] untuk setiap Skill berlebih yang kena"
+    },
+    {
+      "id": 40003703,
+      "name": "Kebencian",
+      "desc": "Ketika diserang oleh Skill, peroleh 2 [ResentmentSpiderDaughterTwo] (sekali per Skill)\n\nKetika kawan diserang, peroleh 1 [ResentmentSpiderDaughterTwo] (sekali per Skill)\n\nPada maks [ResentmentSpiderDaughterTwo] Stack, gunakan serangan kuat\n\nAkhir Giliran: Pada kurang dari 80% / 60% / 40% HP, maks out unit ini's [ResentmentSpiderDaughterTwo] Stack"
+    }
+  ]
+}

@@ -1,0 +1,954 @@
+{
+  "dataList": [
+    {
+      "id": 124701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ironsteed Trample",
+          "desc": "[WhenUse] Jika target memiliki 6+ ([Burst] + [Vibration]), Base Power +3\n[DefeatDuel] Kurangi target's Potency [Vibration] sebanyak 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 124702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rupturing Trample",
+          "desc": "[WhenUse] Base Power +2 untuk setiap 4 ([Burst] + [Vibration]) pada target (maks 4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 124703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Line-Crushing Cavalry Charge",
+          "desc": "[WhenUse] Jika target memiliki 6+ ([Burst] + [Vibration]), Base Power +2\n[WhenUse] Pada -30 atau lower SP, unit ini's Coin always flip Tails\n[DefeatDuel] Kurangi target's Potency [Vibration] sebanyak 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 8 [Burst] dan +5 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 124704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Trample dan Decapitate",
+          "desc": "[WhenUse] Base Power +2 untuk setiap 4 ([Burst] + [Vibration]) pada target (maks 4)\n- Pada 15+ ([Burst] + [Vibration]) pada target, Minus Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 124705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Filthy snakes... I'll crush you semua...",
+          "desc": "[WhenUse] Base Power +2 untuk setiap 4 ([Burst] + [Vibration]) pada target utama (maks 4)\n[DefeatDuel] Base Power -8\n[DefeatDuel] Beri -80% damage dan damage yang diberikan Skill ini tidak dapat Stagger target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu kurangi Count [Vibration] target sebanyak 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [SweptAwayWei] terhadap sub-target giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 124706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Swiftsteed Linebreaker",
+          "desc": "[WhenUse] Base Power +2 untuk setiap 4 ([Burst] + [Vibration]) pada target utama (maks 6)\n[DefeatDuel] Base Power -5\n[DefeatDuel] Beri -80% damage dan damage yang diberikan Skill ini tidak dapat Stagger target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika it's target utama, beri +5 [Vibration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 3 [Vibration] terhadap 1 sub-target"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu kurangi Count [Vibration] target sebanyak 1"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri [SweptAwayWei] terhadap sub-target giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 124707,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "You Shall Not Pass...!",
+          "desc": "Prioritaskan target dengan the least Potency [Vibration]\n[WhenUse] Jika target tidak memiliki [Vibration], Base Power -5\n[BeforeAttack] Jika target tidak memiliki [Vibration], beri -90% damage\n[DefeatDuel] Base Power -4\n[DefeatDuel] Damage yang diberikan Skill ini tidak dapat Stagger target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 124708,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mad Steed's Voidrender",
+          "desc": "Beri +1% damage untuk setiap 1% HP yang hilang pada diri sendiri (maks 80%)\n[BeforeAttack] Pada 50% atau kurang HP, peroleh +2 lebih Atk Weight\n[BeforeAttack] Jika unit ini tidak memiliki [LegStrengthHorse], Skill ini beri +120% damage; lalu, peroleh 2 [Vulnerable] giliran berikutnya\n[DefeatDuel] Base Power -12\n[DefeatDuel] Beri -80% damage dan damage yang diberikan Skill ini tidak dapat Stagger target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Burst]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 5 [Burst] dan +5 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Vibration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 5 [Vibration] dan +5 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu kurangi Count [Vibration] target sebanyak 1"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Aktifkan [VibrationExplosion]; lalu kurangi Count [Vibration] target sebanyak 1."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 127201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Frontal Swirl (前旋斬)",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 5 [Laceration] pada target (maks 2)\n[WhenUse] Peroleh 1 [SipOfAlcoholJin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 127202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Way of the Open-throat Chugging (咽道酒)",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 5 [Laceration] pada target (maks 2)\n[WhenUse] Peroleh 1 [SipOfAlcoholJin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 5+ [Laceration], beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 127203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Waterfall (落酒)",
+          "desc": "[WhenUse] Jika target memiliki 5+ [Laceration], Coin Power +1\n[WhenUse] Base Power +1 untuk setiap [DrunkBlood] Count pada target (maks 2)\n[WinDuel] Peroleh 1 [SipOfAlcoholJin]\n[DefeatDuel] Kehilangan 2 [SipOfAlcoholJin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri +3 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 127204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Drunklaim (取)",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 5 [Laceration] pada target (maks 2)\n[WhenUse] Base Power +1 untuk setiap [DrunkBlood] pada target (maks 2)\n[WhenUse] Pada 3+ [SipOfAlcoholJin], ubah semua Coin menjadi [SuperCoin]\n[DefeatDuel] Beri -80% damage dan damage yang diberikan Skill ini tidak dapat Stagger target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Beri +1% damage untuk setiap ([Laceration] + [Laceration] Count) pada target (maks 20%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika unit ini memiliki 3+ [SipOfAlcoholJin], reuse Skill ini sekali (sekali per Skill)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 127205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Penggalan Maut Sesungguhnya (眞鎭終斬)",
+          "desc": "[WhenUse] Coin Power +5 untuk setiap 6 [Laceration] pada target (maks 10)\n[WhenUse] Jika target memiliki [DrunkBlood], ubah semua Coin menjadi [SuperCoin]\n[DefeatDuel] Beri -80% damage dan damage yang diberikan Skill ini tidak dapat Stagger target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Beri +1% damage untuk setiap ([Laceration] + [Laceration] Count) pada target (maks 100%)"
+                },
+                {
+                  "desc": "Beri +10% damage untuk setiap [DrunkBlood] pada target (maks 50%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [SipOfAlcoholJin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri ([DrunkBlood] pada target x 5) Lust damage (maks 25)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 127206,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Intoxicated Leaning (醉靠)",
+          "desc": "[WhenUse] Peroleh 10 Perisai untuk setiap [SipOfAlcoholJin] pada diri sendiri (maks 50)\n[WhenUse] Jika target memiliki [DrunkBlood], beri 5 [Laceration]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 127207,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Drunken Returning Strike (醉回攻)",
+          "desc": "[DuelCounter]\n[WhenUse] Beri +20% damage untuk setiap [SipOfAlcoholJin] pada diri sendiri (maks 100%)\n[WhenUse] Jika target memiliki [DrunkBlood], beri +50% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [SlashResistDown] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri ([DrunkBlood] pada target x 5) Lust damage (maks 25)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 127208,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ultimate Penggalan Maut Sesungguhnya (眞-眞鎭終斬)",
+          "desc": "Prioritaskan Jia Xichun\n[CantChangeTarget]\n[WhenUse] Jika Speed unit ini lebih cepat daripada target, Coin Power +1\n[WhenUse] Peroleh 1 [AttackUp] dan 1 [Agility] giliran berikutnya untuk setiap [SipOfAlcoholJin] pada diri sendiri (maks 3)\n[WinDuel] Peroleh +7 Atk Weight",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Beri +1% damage untuk setiap ([Laceration] + [Laceration] Count) pada target (maks 100%)"
+                },
+                {
+                  "desc": "Beri +10% damage untuk setiap [DrunkBlood] pada target (maks 50%)"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 10 [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri ([DrunkBlood] pada target x 10) Lust damage (maks 50)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 127209,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Drunken Decapitation Bladefall (落醉斬)",
+          "desc": "[WhenUse] Base Power +1 untuk setiap 5 [Breath] pada diri sendiri (maks 2)\n[WhenUse] Jika Speed unit ini lebih cepat daripada target, Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Ultimate Penggalan Maut Sesungguhnya (眞-眞鎭終斬) beri +20% damage"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Gunakan ulang Coin ini (5 kali maks)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 127210,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Drunken Shadowwalking (醉影步)",
+          "desc": "[WhenUse] Base Power +6 untuk setiap 2 kawan yang bertahan hidup (maks 12)\n[OnSucceedEvade] Peroleh 3 [Breath]\n[EndBattle] Peroleh +2 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Penggalan Maut Sesungguhnya",
+          "desc": "[StartBattle] HP tidak turun di bawah 1 sebelum Skill ini berakhir.\n[WhenUse] Peroleh 10 [AttackUp]\n[WhenUse] Peroleh 5 [Enhancement]\n[WhenUse] Peroleh 10 [AttackDmgUp]\n[DefeatDuel] Beri -80% damage dan damage yang diberikan Skill ini tidak dapat Stagger target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Beri +1% damage untuk setiap ([Laceration] + [Laceration] Count) pada target (maks 100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 5 [SipOfAlcohol]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hantaman Ke bawah",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stick Combo",
+          "desc": "[WinDuel] Beri +30% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Powerful Swing",
+          "desc": "[WinDuel] Peroleh 1 [Enhancement]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Counter",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Growth",
+          "desc": "[DefeatDuel] Beri -80% damage dan damage yang diberikan Skill ini tidak dapat Stagger target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri +2 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri +3 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri +20% damage"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri +50% damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Spirit Talisman School - Vilerage",
+          "desc": "[WhenUse] Final Power +1 untuk setiap 4 [Burst] pada target (maks 4)\n[DefeatDuel] Beri -50% damage dan damage yang diberikan Skill ini tidak dapat Stagger target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 [OminousTalisman]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 [OminousTalisman]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Hapus semua [OminousTalisman] pada target"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Oh, damn...",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115707,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "What is this foolish pretend-fight?",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vulnerable] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115708,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "...",
+          "desc": "[WhenUse] Jika target memiliki 3+ tipe dari efek negatif, Base Power +1\n[WhenUse] Coin Power +1 untuk setiap 6 [Burst] pada target (maks 2)\n[DefeatDuel] Peroleh 1 [Vulnerable]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "Beri 5 SP damage"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                },
+                {
+                  "desc": "Beri 5 SP damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115709,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "What's this Child's Play?",
+          "desc": "[WhenUse] Pulihkan 15 SP\n[WhenUse] Jika target memiliki 3+ tipe dari efek negatif, Base Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

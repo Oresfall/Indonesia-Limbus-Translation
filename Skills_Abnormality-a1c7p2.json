@@ -1,0 +1,432 @@
+{
+  "dataList": [
+    {
+      "id": 838101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Walk With Grace...",
+          "desc": "Prioritaskan an unstaggered kawan. Jika target kawan, peroleh Clash Power +10, dan fix the damage ke 0 at semua kali\nClash Power +1 untuk setiap 3 [Laceration] pada target (maks 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]\n- Jika target kawan, gantikan efek ini dengan 3 [AttackUp] hingga giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Move With Beauty...",
+          "desc": "Prioritaskan an unstaggered kawan. Jika target kawan, peroleh Clash Power +10, dan fix the damage ke 0 at semua kali\nClash Power +1 untuk setiap 3 [Laceration] pada target (maks 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count\n- Jika target kawan, gantikan efek ini dengan 3 [DefenseUp] hingga giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Beckon the Audience Hither...",
+          "desc": "[WhenUse] Final Power +1 untuk setiap 5 [FestivalFever] pada diri sendiri atau setiap 6 [Laceration] pada target (maks 4)\n[WhenUse] Pada kurang dari 15 [BloodDinner], peroleh 15 [Laceration] dan immediately aktifkan it sekali, lalu kurangi [Laceration] Count sebanyak 1 (saat kurang dari 10% HP, aktifkan hanya the part dari efek ini where unit ini peroleh [Laceration] Potency dan Count)\n[EndSkill] Konsumsi 15 [BloodDinner]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [AttackUp] dan 1 [DefenseUp] untuk setiap 6 [Laceration] pada target (maks 3 of setiap)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Beri +5 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 3 [BloomingThorns]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Parade of Wonders",
+          "desc": "[CantIdentify]\nPrioritaskan musuh for its target utama, dan prioritaskan kawan for its sub-target. Jika target kawan, Clash Power +10 dan always fix the damage ke 0.\n[WhenUse] Clash Power +1 untuk setiap 20 [BloodDinner_Accumulation] sebanyak unit ini (maks 10)\n[WhenUse] Pada kurang dari 25 [BloodDinner], peroleh 25 [Laceration], immediately aktifkan it sekali, lalu kehilangan 1 [Laceration] Count (saat kurang dari 10% HP, aktifkan hanya the part dari efek ini where unit ini peroleh [Laceration] Potency dan Count)\n[EndSkill] Konsumsi 25 [BloodDinner]\n[EndBattle] Konsumsi semua [FestivalFever]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [AttackUp] dan [DefenseUp] hingga giliran berikutnya berdasarkan [FestivalFever] (1 per 3 [FestivalFever], maks 3 of setiap)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count\n- Jika target kawan, gantikan efek ini dengan 5 [BloomingThorns]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The Parade Repeats for Eternity",
+          "desc": "[WhenUse] Clash Power +1 untuk setiap 20 [BloodDinner_Accumulation] sebanyak unit ini (maks 10)\n[WhenUse] Pada kurang dari 50 [BloodDinner], peroleh 25 [Laceration], +2 [Laceration] Count, immediately aktifkan it dua kali, lalu kurangi [Laceration] Count sebanyak 2 (saat kurang dari 10% HP, aktifkan hanya the part dari efek ini where unit ini peroleh [Laceration] Potency dan Count)\n[WhenUse] Konsumsi setengah dari [BloodDinner]\n[EndBattle] Konsumsi semua [IncompleteParade]\n[EndBattle] Peroleh 10 [FestivalFever]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan sebanyak 25% dari damage yang diberikan"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan sebanyak 25% dari damage yang diberikan"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan sebanyak 50% dari damage yang diberikan"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration] dan 5 [Burst]"
+                },
+                {
+                  "desc": "[EndCoin] Peroleh 1 [BloomingThorns] untuk setiap 10 [BloodDinner] yang dikonsumsi sebanyak Skill ini (maks 10)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "And that's semua it does...",
+          "desc": "[DuelCounter]\n[WhenUse] Pada 5+ [FestivalFever], Clash Power +3\n[StartBattle] Peroleh 5 [BloomingThorns]\n[DefeatDuel] Kehilangan 5 [BloomingThorns]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838107,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The Finale",
+          "desc": "[WhenUse] Konsumsi setengah dari [BloodDinner]\n[WinDuel] Beri +([BloodDinner] yang dikonsumsi sebanyak Skill ini)% damage (maks 150%)\n[DefeatDuel] Beri -50% damage, dan the damage dari Skill ini tidak men-Stagger target\n[EndSkill] Unit ini's SP turun to -45",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +6 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Beri 6 [Burst]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Beri +6 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[EndCoin] Peroleh 1 [BloomingThorns] untuk setiap 10 [BloodDinner] yang dikonsumsi sebanyak Skill ini (maks 10)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dragon of the Spring",
+          "desc": "[WhenUse] Peroleh 2 [Agility] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [Agility] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vulnerable] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lotus in Autumn",
+          "desc": "[WhenUse] Peroleh 2 [Agility] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [Agility] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vulnerable] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Faint Trace",
+          "desc": "[WhenUse] Peroleh 3 [Agility] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [SlashTakeDamageUp]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pallid Trace",
+          "desc": "Jika user's Speed lebih cepat daripada target sebanyak 5+, Clash Power +5",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 100 Bonus Damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Red Arwe",
+          "desc": "[WhenUse] Peroleh 2 [Agility] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 50 Bonus Damage"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 50 Bonus Damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Blak Arwe",
+          "desc": "[WhenUse] Peroleh 2 [Agility] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [MentalCrack]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [MentalCrack]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838907,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mirror of Water",
+          "desc": "[CanDuelGuard]\n[WhenUse] Peroleh 3 [Protection]\n[WinDuel] Beri HP damage setara dengan the final Clash Power dari Skill ini",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838908,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Electron Accelerator Rail Activation",
+          "desc": "[StartBattle] Peroleh 10 [Enhancement] dan [Agility] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 838909,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Arwe",
+          "desc": "[WhenUse] Peroleh 5 [PenetrateDamageUp]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1728 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "model": "료슈",
+      "content": "Ini..."
+    },
+    {
+      "id": 1,
+      "model": "료슈",
+      "content": "Ini seutas benang."
+    },
+    {
+      "id": 2,
+      "place": "Koridor The Pinky",
+      "content": "Ryōshū melilitkan jari-jarinya di sekeliling pedang yang menusuk Nursefather Pinky."
+    },
+    {
+      "id": 3,
+      "content": "pedangnya lalu terurai menjadi seutas benang di tangannya."
+    },
+    {
+      "id": 4,
+      "place": -1,
+      "model": "료슈",
+      "content": "Anak-anak bisa merasakannya, seolah berdasarkan insting:"
+    },
+    {
+      "id": 5,
+      "model": "료슈",
+      "content": "Siapapun yang menyayangi mereka, siapapun yang membenci mereka,"
+    },
+    {
+      "id": 6,
+      "model": "료슈",
+      "content": "siapapun yang berniat jahat, dan siapapun yang memberi perhatian."
+    },
+    {
+      "id": 7,
+      "model": "료슈",
+      "content": "Para Nursefather yang membesarkanku."
+    },
+    {
+      "id": 8,
+      "model": "엄지아비",
+      "content": "Tiket! *burp* Pernah menuangkan nasi ke dalam semangkuk vodka?"
+    },
+    {
+      "id": 9,
+      "model": "료슈",
+      "content": "Masing-masing dengan cara mereka sendiri yang khas,"
+    },
+    {
+      "id": 10,
+      "model": "검지아비",
+      "content": "Sayang, cerita mana yang harus kubacakan untukmu hari ini?"
+    },
+    {
+      "id": 11,
+      "model": "료슈",
+      "content": "Masing-masing tidak berubah dan tidak kenal kompromi,"
+    },
+    {
+      "id": 12,
+      "model": "중지아비",
+      "content": "Hei, Cantik! Katakan saja jika ada sesuatu yang menarik perhatianmu! Ayah akan membelikan seluruh rak itu untukmu."
+    },
+    {
+      "id": 13,
+      "model": "료슈",
+      "content": "Masing-masing dengan porsi kasih sayang yang berbeda,"
+    },
+    {
+      "id": 14,
+      "model": "약지아비",
+      "content": "Sekarang, tolong tanamkan pelajaran ini di hatimu: Di atas batu pengetahuanlah keindahan dan kekuatan dibangun—pelajaran estetikamu dimulai sekarang, Yoshihide, agar suatu hari nanti kamu bisa menciptakan galerimu sendiri."
+    },
+    {
+      "id": 15,
+      "model": "료슈",
+      "content": "Masing-masing dengan bagian perhatian mereka sendiri."
+    },
+    {
+      "id": 16,
+      "model": "소지아비2",
+      "content": "Jangan berani-berani tersenyum."
+    },
+    {
+      "id": 17,
+      "model": "소지아비2",
+      "content": "Aku menderita dalam kesengsaraan seperti ini—adil rasanya jika kau juga menderita."
+    },
+    {
+      "id": 18,
+      "model": "료슈",
+      "content": "Terlepas dari semua itu, mereka adalah orang tuaku."
+    },
+    {
+      "id": 19,
+      "model": "료슈",
+      "content": "Sebuah nyawa kecil meronta bergeliat di tanganku."
+    },
+    {
+      "id": 20,
+      "model": "료슈",
+      "content": "Ia bergantung padaku, ia menyambutku—matanya mengikuti setiap gerak-gerik yang kubuat."
+    },
+    {
+      "id": 21,
+      "model": "료슈",
+      "content": "Ia tidak bisa bertahan hidup sendirian."
+    },
+    {
+      "id": 22,
+      "model": "료슈",
+      "content": "Tanpa perhatianku, waktunya akan berakhir sebelum waktunya."
+    },
+    {
+      "id": 23,
+      "place": "Koridor The Index, Masa Lalu",
+      "model": "검지아비",
+      "content": "Perasaan itu disebut \"belas kasihan.\""
+    },
+    {
+      "id": 24,
+      "model": "과거료슈2",
+      "content": "Belas kasihan? Apa itu?"
+    },
+    {
+      "id": 25,
+      "model": "검지아비",
+      "content": "Ingat buku yang kita baca kemarin? Sang ular menelan katak..."
+    },
+    {
+      "id": 26,
+      "model": "검지아비",
+      "content": "... tapi ia menangis keras saat merasakan katak itu meronta di tenggorokannya."
+    },
+    {
+      "id": 27,
+      "model": "과거료슈2",
+      "content": "Ya."
+    },
+    {
+      "id": 28,
+      "model": "검지아비",
+      "content": "Ular itu menangis karena ia merasa belas kasihan."
+    },
+    {
+      "id": 29,
+      "model": "검지아비",
+      "content": "Sang ular mengasihani si katak, mengetahui rasa sakit yang akan diderita mangsanya saat dilahap. Ia berduka karena nyawa katak itu akan terputus."
+    },
+    {
+      "id": 30,
+      "model": "과거료슈2",
+      "content": "Oke."
+    },
+    {
+      "id": 31,
+      "model": "과거료슈2",
+      "content": "Apakah ayah-ayahku yang lain merasakannya padaku juga?"
+    },
+    {
+      "id": 32,
+      "model": "검지아비",
+      "content": "Tidak, aku tidak tahu apakah..."
+    },
+    {
+      "id": 33,
+      "model": "검지아비",
+      "content": "Aku rasa tidak banyak dari kami yang mampu merasa belas kasihan."
+    },
+    {
+      "id": 34,
+      "model": "검지아비",
+      "content": "Karena ini... adalah <ruby=Rumah Laba-laba>House of Spiders</ruby>, sayang."
+    },
+    {
+      "id": 35,
+      "model": "검지아비",
+      "content": "Dan <ruby=Laba-laba>The Spiders</ruby>... <i>berburu</i>."
+    },
+    {
+      "id": 36,
+      "model": "과거료슈2",
+      "content": "... Berburu."
+    },
+    {
+      "id": 37,
+      "model": "과거료슈2",
+      "content": "Aku juga harus melakukannya, kan?"
+    },
+    {
+      "id": 38,
+      "model": "과거료슈2",
+      "content": "Dengan pedang ini."
+    },
+    {
+      "id": 39,
+      "model": "검지아비",
+      "content": "Ya, saat waktunya tiba."
+    },
+    {
+      "id": 40,
+      "model": "과거료슈2",
+      "content": "Tapi ini aneh."
+    },
+    {
+      "id": 41,
+      "model": "과거료슈2",
+      "content": "Mengapa aku tidak diizinkan mencabut pedangnya? Ia selalu tersarung."
+    },
+    {
+      "id": 42,
+      "model": "검지아비",
+      "content": "Itu juga—kamu akan tahu saat waktunya tiba."
+    },
+    {
+      "id": 43,
+      "model": "과거료슈2",
+      "content": "Apa aku bakal dapat alat bip ajaib kayak punya ayah suatu hari nanti?"
+    },
+    {
+      "id": 44,
+      "model": "과거료슈2",
+      "content": "Alat itu memberitahumu segalanya, kan?"
+    },
+    {
+      "id": 45,
+      "model": "검지아비",
+      "content": "Kamu tidak akan mendapatkannya, tidak."
+    },
+    {
+      "id": 46,
+      "model": "과거료슈2",
+      "content": "... Oke. Tapi aku masih bisa merasakan \"belas kasihan.\" Cuma aku yang bisa."
+    },
+    {
+      "id": 47,
+      "model": "과거료슈2",
+      "content": "Jadi bolehkah aku... memelihara Saru?"
+    },
+    {
+      "id": 48,
+      "model": "검지아비",
+      "content": "Kamu boleh, tapi aku tidak merekomendasikannya."
+    },
+    {
+      "id": 49,
+      "model": "검지아비",
+      "content": "Membiarkan sesuatu yang kamu hargai berakar di hatimu... dan ia akan mengukir lubang menganga yang jauh lebih besar dari dirinya sendiri saat ia diambil darimu."
+    },
+    {
+      "id": 50,
+      "model": "과거료슈2",
+      "content": "……."
+    },
+    {
+      "id": 51,
+      "place": -1,
+      "model": "료슈",
+      "content": "Kata-katanya selalu lembut, namun nada pengamatan yang dingin mengkhianati kepura-puraan itu."
+    },
+    {
+      "id": 52,
+      "model": "료슈",
+      "content": "Tapi saat itu, aku kelelahan karena rentetan cacian tiada henti dari Nursefather lainnya..."
+    },
+    {
+      "id": 53,
+      "model": "료슈",
+      "content": "... jadi aku tertarik pada caranya bicara yang misterius. Bagiku, setidaknya, kupikir ada kehangatan tertentu di dalamnya..."
+    },
+    {
+      "id": 54,
+      "model": "료슈",
+      "content": "Niat tulus untuk menyampaikan sesuatu padaku."
+    },
+    {
+      "id": 55,
+      "place": "Kamar Ryōshū, Masa Lalu",
+      "model": "과거료슈2",
+      "content": "... Tidak."
+    },
+    {
+      "id": 56,
+      "model": "소지아비2",
+      "content": "\"Tidak?\" Kamu percaya bisa membatalkan ini hanya dengan kata \"tidak?\""
+    },
+    {
+      "id": 57,
+      "model": "소지아비2",
+      "content": "Aku ingat kamu membual dengan cukup yakin bahwa kamu telah menghilangkan sikap itu darinya, Valencina. Apa yang terjadi?"
+    },
+    {
+      "id": 58,
+      "model": "엄지아비",
+      "content": "Hah! Halo, bocah ini praktis <i>terbuat</i> dari bahan yang sama denganmu, tahu."
+    },
+    {
+      "id": 59,
+      "model": "엄지아비",
+      "content": "Dia pasti mendapatkan sifat buruk itu darimu."
+    },
+    {
+      "id": 60,
+      "model": "중지아비",
+      "content": "Ayolah, guys. Anaknya ada di sini, tahu?"
+    },
+    {
+      "id": 61,
+      "model": "소지아비2",
+      "content": "... Rien, berikan itu padaku."
+    },
+    {
+      "id": 62,
+      "model": "검지아비",
+      "content": "……."
+    },
+    {
+      "id": 63,
+      "model": "엄지아비",
+      "content": "Masih belum paham cara menghadapi Rien?"
+    },
+    {
+      "id": 64,
+      "model": "엄지아비",
+      "content": "Orang gila itu bahkan tidak akan mengangkat jari kecuali kamu menyebutkan dengan tepat apa yang kamu butuhkan."
+    },
+    {
+      "id": 65,
+      "model": "소지아비2",
+      "content": "... Berikan aku <ruby=Spiral Kura-kura Zenon>Zenon's Tortoise Spiral</ruby>."
+    },
+    {
+      "id": 66,
+      "model": "검지아비",
+      "content": "Mm. Ini untukmu."
+    },
+    {
+      "id": 67,
+      "model": "소지아비2",
+      "content": "……."
+    },
+    {
+      "id": 68,
+      "model": "과거료슈2",
+      "content": "…!"
+    },
+    {
+      "id": 69,
+      "model": "과거료슈2",
+      "content": "Saru!!"
+    },
+    {
+      "id": 70,
+      "model": "소지아비2",
+      "content": "Kamu tahu cara membukanya, kan?"
+    },
+    {
+      "id": 71,
+      "model": "소지아비2",
+      "content": "Kamu akan mendapatkan kata sandinya setelah kamu kembali dengan tugas yang selesai."
+    },
+    {
+      "id": 72,
+      "model": "소지아비2",
+      "content": "Tunda, dan Saru akan mati."
+    },
+    {
+      "id": 73,
+      "model": "과거료슈2",
+      "content": "……."
+    },
+    {
+      "id": 74,
+      "model": "소지아비2",
+      "content": "Apa kamu paham apa artinya mati?"
+    },
+    {
+      "id": 75,
+      "model": "소지아비2",
+      "content": "Apa artinya memotong cukup dalam untuk membunuh?"
+    },
+    {
+      "id": 76,
+      "place": -1,
+      "model": "료슈",
+      "content": "Aku tahu persis bagaimana dan di mana harus menusuk untuk memadamkan nyawa dengan satu dorongan."
+    },
+    {
+      "id": 77,
+      "model": "료슈",
+      "content": "Semua berkat latihan tak terhitung yang kuhabiskan pada target, boneka, manekin, dan potongan daging."
+    },
+    {
+      "id": 78,
+      "teller": "Target dari House of Spiders",
+      "title": "???",
+      "content": "Hrrk...!"
+    },
+    {
+      "id": 79,
+      "model": "료슈",
+      "content": "Seseorang yang tak kukenal. Setelan oranye."
+    },
+    {
+      "id": 80,
+      "model": "료슈",
+      "content": "Selera busana yang mengerikan."
+    },
+    {
+      "id": 81,
+      "model": "료슈",
+      "content": "Targetnya karyawan bank besar. Dan aku tak tahu apapun selain itu. Tak perlu tahu."
+    },
+    {
+      "id": 82,
+      "model": "료슈",
+      "content": "Saat itu, aku mulai memahami apa artinya mati."
+    },
+    {
+      "id": 83,
+      "model": "료슈",
+      "content": "Mati berarti segalanya berakhir."
+    },
+    {
+      "id": 84,
+      "place": "Koridor The Pinky, Masa Lalu",
+      "model": "과거료슈2",
+      "content": "... Kata sandinya. Sekarang."
+    },
+    {
+      "id": 85,
+      "model": "소지아비2",
+      "content": "... Apa kamu menebas targetnya?"
+    },
+    {
+      "id": 86,
+      "model": "소지아비2",
+      "content": "Ini baru... 2 jam."
+    },
+    {
+      "id": 87,
+      "model": "과거료슈2",
+      "content": "... Kata sandinya."
+    },
+    {
+      "id": 88,
+      "model": "소지아비2",
+      "content": "Bagaimana kamu bisa melewati para Fixer yang menjaga target?"
+    },
+    {
+      "id": 89,
+      "model": "과거료슈2",
+      "content": "Tebas mereka semua sampai mati. Enggak peduli gimana caranya."
+    },
+    {
+      "id": 90,
+      "model": "소지아비2",
+      "content": "……."
+    },
+    {
+      "id": 91,
+      "model": "료슈",
+      "content": "Dia menatapku dengan tatapan aneh, dan mulutnya..."
+    },
+    {
+      "id": 92,
+      "model": "료슈",
+      "content": "Mulutnya terbuka dengan ekspresi yang sama-sama tak bisa dijelaskan. Mungkin itu tawa—atau sebaliknya. Aku tak punya cara untuk mengetahuinya."
+    },
+    {
+      "id": 93,
+      "model": "료슈",
+      "content": "Saru selamat, seperti yang dijanjikan."
+    },
+    {
+      "id": 94,
+      "model": "료슈",
+      "content": "Tapi tiap kali ia bernapas, aku bisa mendengar bengeknya dan perjuangannya mencari udara..."
+    },
+    {
+      "id": 95,
+      "model": "료슈",
+      "content": "... dan ekornya tak lagi bergoyang girang saat melihatku."
+    },
+    {
+      "id": 96,
+      "place": "Koridor The Ring, Masa Lalu",
+      "model": "약지아비",
+      "content": "Yoshihide, aku telah menyiapkan sesuatu untuk merayakan ulang tahunmu."
+    },
+    {
+      "id": 97,
+      "model": "약지아비",
+      "content": "Nama yang kuberikan pada pedang ini... adalah \"pedang Tulang Binatang Saru.\""
+    },
+    {
+      "id": 98,
+      "model": "약지아비",
+      "content": "Ukuran yang menggemaskan agar pas dengan genggaman telapak tanganmu."
+    },
+    {
+      "id": 99,
+      "model": "과거료슈2",
+      "content": "……."
+    },
+    {
+      "id": 100,
+      "model": "약지아비",
+      "content": "Suatu hari nanti, Yoshihide, aku ingin memiliki anakku sendiri... Seorang anak yang dilengkapi dengan daging dan darahku."
+    },
+    {
+      "id": 101,
+      "model": "약지아비",
+      "content": "Aku menantikan momen itu dengan penuh semangat setiap harinya."
+    },
+    {
+      "id": 102,
+      "place": -1,
+      "model": "료슈",
+      "content": "Sensasi gagang di telapak tanganku adalah jenis cinta murni yang hanya bisa ia berikan."
+    },
+    {
+      "id": 103,
+      "model": "료슈",
+      "content": "Bukan pertama kalinya kurasakan hal seperti itu."
+    },
+    {
+      "id": 104,
+      "model": "료슈",
+      "content": "Aroma alkohol yang menempel padanya, dan memar yang ia tinggalkan di tubuhku."
+    },
+    {
+      "id": 105,
+      "model": "료슈",
+      "content": "Nada hangat suara yang tak pernah ragu membacakanku buku, meski pria itu selalu menutup bukunya tepat sebelum akhir cerita."
+    },
+    {
+      "id": 106,
+      "model": "료슈",
+      "content": "Keinginan untuk melihatku hanya berjalan di jalan yang nyaman, yang disertai rasa posesif yang begitu sengit hingga hanya terpuaskan dengan mencampakkan ke lubang neraka semua orang yang menghalanginya."
+    },
+    {
+      "id": 107,
+      "model": "료슈",
+      "content": "Gairah untuk membentukku menjadi satu-satunya makhluk di dunia yang memahaminya, dengan mencurahkan ke dalam diriku tiap pengetahuan artistik yang ia miliki..."
+    },
+    {
+      "id": 108,
+      "model": "료슈",
+      "content": "Dan jeritan sunyi dari dia yang tak tahan menatapku—atau membiarkanku menatapnya."
+    },
+    {
+      "id": 109,
+      "model": "료슈",
+      "content": "Kelima utas benang ini terpilin menjadi tali yang mengikat menjadi diriku yang sekarang."
+    },
+    {
+      "id": 110,
+      "model": "료슈",
+      "content": "Dan tali itu terbentang di sepanjang jalan menuju—"
+    },
+    {
+      "id": 111,
+      "place": "Koridor The Index, Masa Lalu",
+      "model": "검지아비",
+      "content": "Oh, ini?"
+    },
+    {
+      "id": 112,
+      "model": "검지아비",
+      "content": "Sayang. Ini... disebut \"spiral.\""
+    },
+    {
+      "id": 113,
+      "model": "검지아비",
+      "content": "Sekali ia bersarang di dalam tubuh, gerakan sekecil apa pun akan membuatnya menggali lebih dalam ke daging... memaksa korbannya untuk tetap diam sempurna."
+    },
+    {
+      "id": 114,
+      "model": "검지아비",
+      "content": "Awalnya mungkin tak terasa lebih menyakitkan daripada tusukan duri, tapi makin kamu mencoba mencabutnya, ia makin mengebor ke dalam tubuh."
+    },
+    {
+      "id": 115,
+      "model": "검지아비",
+      "content": "Tapi seberapa dalam pun ia terus menggali, ia tidak akan pernah sampai ke sisi lain.\nMakin ia mendekati akhir, ia menjadi makin lambat—ia tidak pernah bisa mencapai titik akhirnya."
+    },
+    {
+      "id": 116,
+      "model": "검지아비",
+      "content": "Kamu tahu apa lagi yang memiliki sifat itu?"
+    },
+    {
+      "id": 117,
+      "model": "검지아비",
+      "content": "\"Keraguan.\""
+    },
+    {
+      "id": 118,
+      "model": "과거료슈1",
+      "content": "Enggak, Ayah."
+    },
+    {
+      "id": 119,
+      "model": "과거료슈1",
+      "content": "Ini petak umpet beku!"
+    },
+    {
+      "id": 120,
+      "model": "검지아비",
+      "content": "... Apa itu... petak umpet beku?"
+    },
+    {
+      "id": 121,
+      "model": "과거료슈1",
+      "content": "Jadi ini seperti permainan di mana, saat ayah membeku, aku menyentuh ayah dan berkata \"Cair!\" Lalu ayah bisa mulai bergerak lagi!"
+    },
+    {
+      "id": 122,
+      "model": "검지아비",
+      "content": "Aku mengerti."
+    },
+    {
+      "id": 123,
+      "model": "검지아비",
+      "content": "Kalau begitu aku... aku akan terus menunggu sampai putriku tersayang memutuskan untuk mencairkanku."
+    },
+    {
+      "id": 124,
+      "place": -1,
+      "model": "료슈",
+      "content": "Aku tak bisa mengerti apa maksudnya saat itu."
+    },
+    {
+      "id": 125,
+      "model": "료슈",
+      "content": "\"Spiral\" yang menusuk Saru lalu digunakan untuk menusuk puluhan nyawa lainnya, dan lalu puluhan lagi setelahnya..."
+    },
+    {
+      "id": 126,
+      "model": "료슈",
+      "content": "Sampai suatu hari, sebuah patok keraguan, yang bentuknya persis seperti Spiral itu, menancap di dalam diriku juga."
+    },
+    {
+      "id": 127,
+      "model": "료슈",
+      "content": "Benang menjadi simpul, kusut dan melilit tanpa henti menjadi gumpalan benang yang berantakan."
+    },
+    {
+      "id": 128,
+      "model": "료슈딸",
+      "content": "Lihat, mama! Aku membuat sarang laba-laba. Tapi kalau mama memutarnya begini..."
+    },
+    {
+      "id": 129,
+      "model": "료슈딸",
+      "content": "Ta-da! Ia jadi tangga. Keren, kan?"
+    },
+    {
+      "id": 130,
+      "model": "과거료슈3",
+      "content": "Apa kamu..."
+    },
+    {
+      "id": 131,
+      "model": "과거료슈3",
+      "content": "... bosan?"
+    },
+    {
+      "id": 132,
+      "model": "료슈딸",
+      "content": "Enggak kok! Aku bisa banget main sendiri!"
+    },
+    {
+      "id": 133,
+      "model": "과거료슈3",
+      "content": "......."
+    },
+    {
+      "id": 134,
+      "model": "과거료슈3",
+      "content": "Kamu enggak mau pergi ke sekolah?"
+    },
+    {
+      "id": 135,
+      "model": "료슈딸",
+      "content": "... Wah."
+    },
+    {
+      "id": 136,
+      "model": "료슈딸",
+      "content": "Mau! Aku mau!"
+    },
+    {
+      "id": 137,
+      "model": "료슈",
+      "content": "Araya pasti berumur sekitar 8 tahun saat itu."
+    },
+    {
+      "id": 138,
+      "model": "료슈",
+      "content": "Saat melihat binar di mata itu, tiba-tiba aku menginginkan rokok yang sudah kutinggalkan... dan anehnya, di saat yang sama aku tidak merindukannya sama sekali."
+    },
+    {
+      "id": 139,
+      "model": "료슈",
+      "content": "Perutku mual, dan rasanya seperti jatuh ke lubang tanpa dasar."
+    },
+    {
+      "id": 140,
+      "model": "료슈",
+      "content": "Aku tak pernah sekalipun berpikir untuk ingin sekolah,"
+    },
+    {
+      "id": 141,
+      "model": "료슈",
+      "content": "tapi aku bertanya-tanya—jika seseorang menanyakan hal yang sama padaku dulu, apa aku akan merasa sesemangat itu?"
+    },
+    {
+      "id": 142,
+      "place": "Kamar Ryōshū dan Araya, Masa Lalu",
+      "model": "료슈딸2",
+      "content": "Lihat, mama!"
+    },
+    {
+      "id": 143,
+      "model": "료슈딸2",
+      "content": "Ini randoseru yang lagi tren belakangan ini!"
+    },
+    {
+      "id": 144,
+      "model": "과거료슈3",
+      "content": "Aku tahu. Aku yang membelikannya untukmu."
+    },
+    {
+      "id": 145,
+      "model": "료슈딸2",
+      "content": "Aku bisa menaruh buku di sini. Kotak pensil di sini, papan namaku di sini... dan kotak bekal di..."
+    },
+    {
+      "id": 146,
+      "place": -1,
+      "model": "료슈",
+      "content": "Apa yang akan terjadi jika ia pergi ke sekolah?"
+    },
+    {
+      "id": 147,
+      "model": "료슈",
+      "content": "Seperti anak berumur 8 tahun lainnya, ia akan mulai dengan belajar membaca dan menulis... dan sebelum kusadari, ia akan tumbuh dewasa."
+    },
+    {
+      "id": 148,
+      "model": "료슈",
+      "content": "Ia selalu suka musik, jadi aku yakin tangannya takkan membawa belati, melainkan tas gitar yang modis dan cantik."
+    },
+    {
+      "id": 149,
+      "model": "료슈",
+      "content": "Orang dewasa..."
+    },
+    {
+      "id": 150,
+      "model": "료슈",
+      "content": "Akankah ia berkesempatan menjadi salah satunya?"
+    },
+    {
+      "id": 151,
+      "model": "료슈",
+      "content": "Saat itulah visiku terbuka..."
+    },
+    {
+      "id": 152,
+      "model": "료슈",
+      "content": "... dan akhirnya aku bisa melihatnya: kita sudah terjebak di tengah sarang laba-laba..."
+    },
+    {
+      "id": 153,
+      "model": "료슈",
+      "content": "... selama ini."
+    },
+    {
+      "id": 154,
+      "model": "료슈",
+      "content": "Mengapa para Nursefather membiarkan Araya masuk ke <ruby=Rumah Laba-laba>House of Spiders</ruby> tanpa meminta apa-apa sejak awal?"
+    },
+    {
+      "id": 155,
+      "model": "료슈",
+      "content": "Kapan rumah itu pernah jadi tempat penuh belas kasihan, memberi tanpa menuntut harga atau syarat?"
+    },
+    {
+      "id": 156,
+      "place": "Kamar Ryōshū dan Araya, Masa Lalu",
+      "model": "뇌횡",
+      "content": "Kelas selesai tanpa hambatan, lho. Yahh, nggak semudah itu, kan? Bayonet, pedang-pistol, semua barang mewah itu butuh penentuan waktu yang rumit... Pasti sangat sulit bagimu untuk mengikutinya, Nak."
+    },
+    {
+      "id": 157,
+      "model": "과거료슈3",
+      "content": "... Enggak juga. Enyahlah kalau kita sudah selesai di sini."
+    },
+    {
+      "id": 158,
+      "model": "뇌횡",
+      "content": "Astaga. Lihat dirimu, selalu ngasih gua tatapan jahat, beneran dah. Suatu hari keknya nanti lu bakal nikam gua, sumpah dah."
+    },
+    {
+      "id": 159,
+      "model": "과거료슈3",
+      "content": "……."
+    },
+    {
+      "id": 160,
+      "model": "뇌횡",
+      "content": "Hei, Yoshihide. Lo punya bakat. Sebaiknya lo asah denganbaik, oke?"
+    },
+    {
+      "id": 161,
+      "model": "뇌횡",
+      "content": "Coba lihat. Berikutnya... wah, gila. Segala macam orang muncul untuk mengajarimu hari ini. Kurasa banyak orang yang menantikan ini."
+    },
+    {
+      "id": 162,
+      "model": "뇌횡",
+      "content": "Tetua <ruby=Iblis Darah>Bloodfiend</ruby> dari Ring itu datang sendiri... dan orang ini... nggak tahu siapa. Pasti salah satu dari Pinky itu."
+    },
+    {
+      "id": 163,
+      "model": "뇌횡",
+      "content": "Hah... lucu nggak sih? Bagaimana para iblis ini semua ditugaskan ke sini hanya beberapa bulan setelah Finger Bow-Bell itu? Yakin gua kalo mereka orang yang sama yang sibuk membuat kekacauan di konflik <ruby=Pinggiran>Outskirts</ruby> belum lama ini."
+    },
+    {
+      "id": 164,
+      "model": "뇌횡",
+      "content": "Yahh, ga bisa dipungkiri mereka yang asli. Toh kamu bakal belajar hal-hal yang bahkan tidak bisa diajarkan para Nursefather itu."
+    },
+    {
+      "id": 165,
+      "model": "과거료슈3",
+      "content": "Kamu bakal terus mengoceh? Baiklah, aku pergi."
+    },
+    {
+      "id": 166,
+      "model": "뇌횡",
+      "content": "Bentaran deh, kenapa buru-buru? Gua tahu lo masih punya waktu luang."
+    },
+    {
+      "id": 167,
+      "model": "뇌횡",
+      "content": "Ngomong-ngomong—Relikmu itu... Pedang itu, katanya sangat spesial, kan? Kudengar selain Pinky licik Dihui Star itu, semua jagoan yang mencoba mencabutnya berakhir hancur seumur hidup."
+    },
+    {
+      "id": 168,
+      "model": "뇌횡",
+      "content": "Lepaskan pedang mewah itu dari sarungnya dan biarkan aku melihatnya berbunyi <i>schwing</i>... sekali lihat saja, dan aku bakal biarkan kamu mengayunkan pedang Tiantui Star milikku ini beberapa kali. Bagaimana?"
+    },
+    {
+      "id": 169,
+      "model": "과거료슈3",
+      "content": "……."
+    },
+    {
+      "id": 170,
+      "model": "과거료슈3",
+      "content": "Kamu pikir aku akan memercayai kata-katamu lagi?"
+    },
+    {
+      "id": 171,
+      "model": "뇌횡",
+      "content": "……."
+    },
+    {
+      "id": 172,
+      "model": "뇌횡",
+      "content": "Yahh, benar-benar dah!"
+    },
+    {
+      "id": 173,
+      "model": "뇌횡",
+      "content": "Enggak tertipu dua kali, ya. Kukira kamu sudah melupakan semua ingatan itu kayak kulit kacang lama."
+    },
+    {
+      "id": 174,
+      "place": "Koridor The Index, Masa Lalu",
+      "model": "검지아비",
+      "content": "……."
+    },
+    {
+      "id": 175,
+      "model": "뇌횡",
+      "content": "Yahh, begitulah hidup, kan?"
+    },
+    {
+      "id": 176,
+      "model": "뇌횡",
+      "content": "Cuma ingin mengintip dikit aja saat kita berlatih—nggak tahu kalau pikiran si anak bakal melayang ke mana-mana."
+    },
+    {
+      "id": 177,
+      "model": "검지아비",
+      "content": "Kamu seharusnya bisa mencoba mencari alasan yang lebih baik daripada \"Aku tidak tahu.\""
+    },
+    {
+      "id": 178,
+      "model": "검지아비",
+      "content": "Sepertinya... kita harus memasang kunci pada sarung itu mulai sekarang agar ia hanya bisa dibuka dengan izin kolektif dari kelima Nursefather."
+    },
+    {
+      "id": 179,
+      "model": "검지아비",
+      "content": "……."
+    },
+    {
+      "id": 180,
+      "model": "검지아비",
+      "content": "Ah, kalau dipikir-pikir... Sudah 3 tahun sejak kamu mulai datang ke sini, bukan?"
+    },
+    {
+      "id": 181,
+      "model": "뇌횡",
+      "content": "3 tahun? Keknya lebih kayak 5—"
+    },
+    {
+      "id": 182,
+      "model": "뇌횡",
+      "content": "Hah! Dasar lo si bajingan licik. Hampir kuanggap kamu sedang berbaik hati menanyakan kabarku. Dengar, hatiku yang malang ini tidak tahan lagi mendengar bunyi bip itu."
+    },
+    {
+      "id": 183,
+      "model": "뇌횡",
+      "content": "Selalu membuatku berpikir mungkin itu adalah <ruby=Prescript>Prescript</ruby> yang menyuruhmu membelah kepalaku seperti semangka."
+    },
+    {
+      "id": 184,
+      "model": "검지아비",
+      "content": "Tentu saja tidak. Dan bahkan jika aku <i>ingin</i> membelah kepalamu seperti semangka... aku perlu menunggu kesempatan agar senjata yang tepat keluar, atau..."
+    },
+    {
+      "id": 185,
+      "model": "뇌횡",
+      "content": "Ya ya, salahku deh nyoba bercanda denganmu."
+    },
+    {
+      "id": 186,
+      "model": "과거료슈3",
+      "content": "Ayah..."
+    },
+    {
+      "id": 187,
+      "model": "과거료슈3",
+      "content": "Saru... Saru terus diam... seperti udaranya bocor... keluar dari dia..."
+    },
+    {
+      "id": 188,
+      "model": "검지아비",
+      "content": "Aku lihat kamu telah kembali ke momen itu."
+    },
+    {
+      "id": 189,
+      "model": "검지아비",
+      "content": "Jangan khawatir. Saru..."
+    },
+    {
+      "id": 190,
+      "model": "검지아비",
+      "content": "Saru sedang beristirahat dengan tenang di tanganmu."
+    },
+    {
+      "id": 191,
+      "model": "과거료슈3",
+      "content": "Oke..."
+    },
+    {
+      "id": 192,
+      "place": "Kamar Ryōshū dan Araya, Masa Lalu",
+      "model": "과거료슈3",
+      "content": "Aku tidak mau terlibat dalam apa pun yang kalian para \"tutor\" rencanakan."
+    },
+    {
+      "id": 193,
+      "model": "과거료슈3",
+      "content": "Aku tidak akan pernah mencabut pedangku hanya untuk memuaskan rasa penasaran murahan kalian itu,"
+    },
+    {
+      "id": 194,
+      "model": "과거료슈3",
+      "content": "jadi menyerahlah, tutup mulutmu, dan..."
+    },
+    {
+      "id": 195,
+      "model": "료슈딸2",
+      "content": "Mama! Tebak apa yang kupelajari di sekolah hari ini...!"
+    },
+    {
+      "id": 196,
+      "model": "과거료슈3",
+      "content": "Masuk ke dalam."
+    },
+    {
+      "id": 197,
+      "model": "뇌횡",
+      "content": "Wah wah, siapa bocah kecil ini?"
+    },
+    {
+      "id": 198,
+      "model": "료슈딸2",
+      "content": "H-halo! Namaku Araya, dan ada huruf yang aku pelajari di sekolah hari ini, dan—"
+    },
+    {
+      "id": 199,
+      "model": "과거료슈3",
+      "content": "Sudah kubilang masuk ke dalam, Araya."
+    },
+    {
+      "id": 200,
+      "model": "뇌횡",
+      "content": "Baiklah, manis. Sana lari dan main sekarang, ya?"
+    },
+    {
+      "id": 201,
+      "model": "료슈딸2",
+      "content": "Ookee..."
+    },
+    {
+      "id": 202,
+      "model": "뇌횡",
+      "content": "Aduh gawat, itu beneran nyakitin hati seorang pria. Setidaknya biarkan si anak menyapa Paman Lei Heng."
+    },
+    {
+      "id": 203,
+      "model": "과거료슈3",
+      "content": "Sudah kubilang enyahlah."
+    },
+    {
+      "id": 204,
+      "model": "뇌횡",
+      "content": "Jadi si bocah itu yang mengikatmu, ya."
+    },
+    {
+      "id": 205,
+      "model": "과거료슈3",
+      "content": "Apa?"
+    },
+    {
+      "id": 206,
+      "model": "뇌횡",
+      "content": "Sudah kuduga—kamu memegang erat anak itu."
+    },
+    {
+      "id": 207,
+      "model": "뇌횡",
+      "content": "Orang-orang Spider itu memang sangat cerdik."
+    },
+    {
+      "id": 208,
+      "model": "과거료슈3",
+      "content": "Apa ini cuma omong kosongmu yang lain..."
+    },
+    {
+      "id": 209,
+      "model": "과거료슈3",
+      "content": "... atau kamu bisa membuktikannya?"
+    },
+    {
+      "id": 210,
+      "model": "뇌횡",
+      "content": "... Berani sekali mulutmu bicara begitu pada gurumu."
+    },
+    {
+      "id": 211,
+      "place": -1,
+      "model": "뇌횡",
+      "content": "Eh, lagian apa peduliku—gua kan dah mati."
+    },
+    {
+      "id": 212,
+      "model": "뇌횡",
+      "content": "Tapi pelajaran yang kuajarkan padamu, itu semua nyata, kau dengar?"
+    },
+    {
+      "id": 213,
+      "model": "과거료슈3",
+      "content": "……."
+    },
+    {
+      "id": 214,
+      "model": "뇌횡",
+      "content": "Kamu masih mengikuti benang yang terikat padamu itu?"
+    },
+    {
+      "id": 215,
+      "model": "뇌횡",
+      "content": "Pegang erat-erat seolah hidupmu bergantung padanya, Nak. Aku ga bakal bantu kalau lo tersesat."
+    },
+    {
+      "id": 216,
+      "model": "료슈딸2",
+      "content": "Bukan begitu."
+    },
+    {
+      "id": 217,
+      "model": "료슈딸2",
+      "content": "Bukan begitu cara menyingkatnya!"
+    },
+    {
+      "id": 218,
+      "model": "과거료슈3",
+      "content": "M.A.?"
+    },
+    {
+      "id": 219,
+      "model": "료슈딸2",
+      "content": "Apa?"
+    },
+    {
+      "id": 220,
+      "model": "과거료슈3",
+      "content": "Artinya \"jadi Maksudmu menyingkatnya seperti Apa?\"."
+    },
+    {
+      "id": 221,
+      "model": "료슈딸2",
+      "content": "Bukann..."
+    },
+    {
+      "id": 222,
+      "model": "료슈딸2",
+      "content": "Mama melakukannya dengan salah!"
+    },
+    {
+      "id": 223,
+      "model": "료슈딸2",
+      "content": "Ikuti saja aku."
+    },
+    {
+      "id": 224,
+      "model": "료슈딸2",
+      "content": "Mama, ILY!"
+    },
+    {
+      "id": 225,
+      "model": "과거료슈3",
+      "content": "……."
+    },
+    {
+      "id": 226,
+      "model": "료슈딸2",
+      "content": "... Mama tidak paham, ya?"
+    },
+    {
+      "id": 227,
+      "model": "과거료슈3",
+      "content": "Enggak."
+    },
+    {
+      "id": 228,
+      "model": "과거료슈3",
+      "content": "Makan semangkanya, Araya."
+    },
+    {
+      "id": 229,
+      "model": "료슈딸2",
+      "content": "Mama seharusnya bilang ILYT! Hmm, itu tidak berhasil."
+    },
+    {
+      "id": 230,
+      "model": "료슈딸2",
+      "content": "Mmhmm. Sudahlah..."
+    },
+    {
+      "id": 231,
+      "model": "료슈딸2",
+      "content": "Ayo coba lagi nanti."
+    },
+    {
+      "id": 232,
+      "model": "료슈",
+      "content": "Di balik layar yang memudar, cahaya berpendar dan berkumpul tanpa henti."
+    },
+    {
+      "id": 233,
+      "model": "료슈",
+      "content": "Cahaya kaleidoskopis yang terpancar di dinding membuatku terpesona—dan perutku mulai mual lagi."
+    },
+    {
+      "id": 234,
+      "model": "료슈딸2",
+      "content": "Indah kan, Mama?"
+    },
+    {
+      "id": 235,
+      "model": "과거료슈3",
+      "content": "Ya."
+    },
+    {
+      "id": 236,
+      "model": "과거료슈3",
+      "content": "M. pikir itu I."
+    },
+    {
+      "id": 237,
+      "model": "료슈딸2",
+      "content": "Salah lagi...!"
+    },
+    {
+      "id": 238,
+      "model": "과거료슈3",
+      "content": "Heh..."
+    },
+    {
+      "id": 239,
+      "model": "뇌횡",
+      "content": "Jadi si bocah itu yang mengikatmu, ya."
+    },
+    {
+      "id": 240,
+      "model": "료슈",
+      "content": "Aku harus keluar dari sini. Dan..."
+    },
+    {
+      "id": 241,
+      "model": "료슈",
+      "content": "Aku juga harus mengeluarkannya."
+    },
+    {
+      "id": 242,
+      "model": "료슈",
+      "content": "Sebelum <ruby=Rumah Laba-laba>House of Spiders</ruby> memutuskan bahwa ia tidak lagi diperlukan."
+    },
+    {
+      "id": 243,
+      "place": "Koridor The Ring, Masa Lalu",
+      "model": "약지아비",
+      "content": "Yoshihide tersayang, pedang itu..."
+    },
+    {
+      "id": 244,
+      "model": "약지아비",
+      "content": "Jangan pernah dikeluarkan hanya karena keinginan sesaat."
+    },
+    {
+      "id": 245,
+      "model": "약지아비",
+      "content": "Segera, aku akan menempa pedang lain khusus untukmu... Jadi kamu bisa membawanya bersamamu setiap saat."
+    },
+    {
+      "id": 246,
+      "model": "과거료슈2",
+      "content": "Memangnya Ayah tidak bisa menarik pedangnyanya?"
+    },
+    {
+      "id": 247,
+      "model": "약지아비",
+      "content": "Tidak, aku tidak bisa."
+    },
+    {
+      "id": 248,
+      "model": "약지아비",
+      "content": "Tidak seorangpun di antara Nursefather yang bisa menarik pedang itu... kecuali satu orang."
+    },
+    {
+      "id": 249,
+      "model": "약지아비",
+      "content": "Terlebih lagi... hanya kamu yang bisa menggunakannya dengan segala kekuatan yang semestinya, Yoshihide."
+    },
+    {
+      "id": 250,
+      "place": "Koridor The Index, Masa Lalu",
+      "model": "검지아비",
+      "content": "Nama pedang itu adalah Arayashiki."
+    },
+    {
+      "id": 251,
+      "model": "검지아비",
+      "content": "Itu adalah salah satu Relik terlangka yang ada, puncak dari jenisnya."
+    },
+    {
+      "id": 252,
+      "model": "검지아비",
+      "content": "Itu adalah pedang yang memotong segalanya..."
+    },
+    {
+      "id": 253,
+      "model": "검지아비",
+      "content": "... dan apa pun yang ia potong tidak akan pernah bisa utuh kembali."
+    },
+    {
+      "id": 254,
+      "place": -1,
+      "model": "료슈",
+      "content": "Setelah hari itu aku menarik pedangnya tanpa peringatan..."
+    },
+    {
+      "id": 255,
+      "model": "료슈",
+      "content": "... diputuskan bahwa pedangnya hanya boleh dicabut dengan izin bulat dari kelima Nursefather."
+    },
+    {
+      "id": 256,
+      "place": "Koridor The Index, Masa Lalu",
+      "model": "검지아비",
+      "content": "Namun sebagai imbalannya, ia juga memotong pikiranmu setiap kali kamu menggunakannya."
+    },
+    {
+      "id": 257,
+      "model": "검지아비",
+      "content": "Potongannya sangat presisi dan halus sehingga kamu bahkan tidak akan menyadari ingatan mana yang telah terputus."
+    },
+    {
+      "id": 258,
+      "model": "검지아비",
+      "content": "Itulah sebabnya kami—yah, <ruby=Rumah Laba-laba>House of Spiders</ruby> yang akan memutuskan kapan dan di mana kamu boleh mencabut pedang itu. Dan kami akan melakukannya dengan kehati-hatian mutlak."
+    },
+    {
+      "id": 259,
+      "place": -1,
+      "model": "료슈",
+      "content": "Aku hanya menggunakan pedang itu kurang dari 10 kali—cukup untuk dihitung dengan jariku."
+    },
+    {
+      "id": 260,
+      "model": "료슈",
+      "content": "4 kali sebelum Araya ada, dan 5 kali setelahnya."
+    },
+    {
+      "id": 261,
+      "place": "Kamar Ryōshū dan Araya, Masa Lalu",
+      "model": "료슈딸2",
+      "content": "Baru minggu lalu... Kita pergi keluar bersama dan mencoba camilan aneh yang baru itu untuk pertama kalinya!"
+    },
+    {
+      "id": 262,
+      "model": "과거료슈3",
+      "content": "……."
+    },
+    {
+      "id": 263,
+      "model": "료슈딸2",
+      "content": "Iih, kenapa Mama tidak ingat?"
+    },
+    {
+      "id": 264,
+      "model": "료슈딸2",
+      "content": "Mama bilang itu terlalu manis tapi makan sampai 5 buah! Aku cuma kebagian 3!"
+    },
+    {
+      "id": 265,
+      "place": -1,
+      "model": "료슈",
+      "content": "Hari demi hari, daftar kenangan yang tak akan kutukar dengan apapun terus bertambah, menumpuk, tumpang tindih..."
+    },
+    {
+      "id": 266,
+      "model": "료슈",
+      "content": "Dan aku menyadari waktu mulai habis."
+    },
+    {
+      "id": 267,
+      "model": "료슈",
+      "content": "Para Nursefather mungkin berpura-pura tidak peduli pada Araya."
+    },
+    {
+      "id": 268,
+      "model": "료슈",
+      "content": "Tapi spiral keraguan... sudah siap untuk menusuk,"
+    },
+    {
+      "id": 269,
+      "model": "료슈",
+      "content": "menunggu waktu yang tepat saat mereka memutuskan bahwa belenggu di kakiku telah memenuhi tujuannya."
+    },
+    {
+      "id": 270,
+      "place": "Kamar Ryōshū dan Araya, Masa Lalu",
+      "model": "과거료슈3",
+      "content": "Araya."
+    },
+    {
+      "id": 271,
+      "model": "과거료슈3",
+      "content": "Kamu ingin jadi apa... saat sudah dewasa nanti?"
+    },
+    {
+      "id": 272,
+      "model": "료슈딸2",
+      "content": "Hmm... Kalau sudah besar nanti, Mama..."
+    },
+    {
+      "id": 273,
+      "model": "료슈딸2",
+      "content": "Aku mau jadi..."
+    },
+    {
+      "id": 274,
+      "place": -1,
+      "model": "료슈",
+      "content": "Aku ingin membiarkan Araya membawa tasnya sendiri dan tumbuh menjadi orang yang ia inginkan."
+    },
+    {
+      "id": 275,
+      "model": "료슈",
+      "content": "Aku ingin Araya bebas dari <ruby=Rumah Laba-laba>House of Spiders</ruby> sehingga ia bisa menemukan jalannya sendiri dalam hidup."
+    },
+    {
+      "id": 276,
+      "place": "Koridor The Index, Masa Lalu",
+      "model": "검지아비",
+      "content": "Kami telah memutuskan dengan suara bulat untuk memulai misi."
+    },
+    {
+      "id": 277,
+      "model": "검지아비",
+      "content": "Kamu harus mencabut pedangnya."
+    },
+    {
+      "id": 278,
+      "model": "료슈",
+      "content": "Kelima simpul yang mengikat pedangnya, masing-masing dengan bentuk yang berbeda, melonggar satu demi satu."
+    },
+    {
+      "id": 279,
+      "model": "검지아비",
+      "content": "Apa kamu tidak akan menanyakan pertanyaan itu padaku hari ini?"
+    },
+    {
+      "id": 280,
+      "model": "과거료슈3",
+      "content": "... Pertanyaan apa?"
+    },
+    {
+      "id": 281,
+      "model": "검지아비",
+      "content": "Kamu selalu menanyakan hal yang sama selama misi-misi ini."
+    },
+    {
+      "id": 282,
+      "model": "검지아비",
+      "content": "Akankah ini berakhir? Apakah ada akhirnya? Dan jika ada..."
+    },
+    {
+      "id": 283,
+      "model": "검지아비",
+      "content": "... seperti apa rupanya?"
+    },
+    {
+      "id": 284,
+      "model": "과거료슈3",
+      "content": "Apa aku mengatakan semua itu?"
+    },
+    {
+      "id": 285,
+      "model": "검지아비",
+      "content": "Katanya anak-anak mulai jarang bicara dan menjauh dari orang tua mereka saat masa pubertas tiba."
+    },
+    {
+      "id": 286,
+      "model": "검지아비",
+      "content": "Apa itu akhirnya terjadi padamu juga?"
+    },
+    {
+      "id": 287,
+      "model": "과거료슈3",
+      "content": "Ha... Setiap kali aku menggunakan pedang ini, sebagian dari diriku ikut teriris."
+    },
+    {
+      "id": 288,
+      "model": "과거료슈3",
+      "content": "Apa yang membuatmu berpikir ingatanku akan baik-baik saja?"
+    },
+    {
+      "id": 289,
+      "model": "검지아비",
+      "content": "……."
+    },
+    {
+      "id": 290,
+      "model": "과거료슈3",
+      "content": "Apa alat bip bodoh itu menyuruhmu diam saat aku mengajukan pertanyaan sulit?"
+    },
+    {
+      "id": 291,
+      "model": "검지아비",
+      "content": "Kamu jadi agak galak, sayang."
+    },
+    {
+      "id": 292,
+      "model": "검지아비",
+      "content": "Bayangkan betapa sakitnya jika putrimu mulai bicara seperti itu kepadamu suatu hari nanti."
+    },
+    {
+      "id": 293,
+      "model": "과거료슈3",
+      "content": "Jangan bawa Araya dalam hal ini."
+    },
+    {
+      "id": 294,
+      "place": "Kamar Ryōshū dan Araya, Masa Lalu",
+      "model": "과거료슈3",
+      "content": "Araya."
+    },
+    {
+      "id": 295,
+      "model": "료슈딸2",
+      "content": "……."
+    },
+    {
+      "id": 296,
+      "model": "료슈딸2",
+      "content": "Mama... wajah mama selalu menyeramkan saat mengambil pedang itu..."
+    },
+    {
+      "id": 297,
+      "model": "과거료슈3",
+      "content": "Kemari."
+    },
+    {
+      "id": 298,
+      "model": "과거료슈3",
+      "content": "Tunggu di sini sebentar."
+    },
+    {
+      "id": 299,
+      "model": "료슈딸2",
+      "content": "Mama?"
+    },
+    {
+      "id": 300,
+      "model": "과거료슈3",
+      "content": "Di sini akan..."
+    },
+    {
+      "id": 301,
+      "model": "과거료슈3",
+      "content": "Di sini akan sunyi dan gelap, tapi... saat kamu di sini, segalanya akan berlalu dengan cepat."
+    },
+    {
+      "id": 302,
+      "model": "과거료슈3",
+      "content": "Mama... dulu selalu bersembunyi di sini."
+    },
+    {
+      "id": 303,
+      "model": "과거료슈3",
+      "content": "Jadi tetaplah di sini dan tunggu aku, Araya."
+    },
+    {
+      "id": 304,
+      "model": "과거료슈3",
+      "content": "Mama berjanji akan kembali untukmu."
+    },
+    {
+      "id": 305,
+      "model": "료슈딸2",
+      "content": "Mhm! Aku akan baik-baik saja. Aku akan menunggumu di sini, Mama!"
+    },
+    {
+      "id": 306,
+      "model": "료슈",
+      "content": "Dan begitulah, aku mengikuti setiap jengkal tali yang mengikatku."
+    },
+    {
+      "id": 307,
+      "place": "Koridor The Thumb, Masa Lalu",
+      "model": "엄지아비",
+      "content": "Katakan padaku. Kenapa kamu mencoba pergi?"
+    },
+    {
+      "id": 308,
+      "model": "엄지아비",
+      "content": "Ha. Tahu tidak? Biar saja begitu. Tetaplah diam dan merenunglah sesukamu."
+    },
+    {
+      "id": 309,
+      "model": "엄지아비",
+      "content": "Bocah yang kamu panggil putri itu... aku akan menemukan beban kecil itu... dan aku akan membelahnya jadi dua."
+    },
+    {
+      "id": 310,
+      "model": "엄지아비",
+      "content": "M-Mataku...! Tidak!!!!!"
+    },
+    {
+      "id": 311,
+      "model": "과거료슈3",
+      "content": "Bola mata, terpotong."
+    },
+    {
+      "id": 312,
+      "place": "Koridor The Pinky, Masa Lalu",
+      "model": "중지아비",
+      "content": "Apa kamu marah pada ayah karena sesuatu, cantikku...?"
+    },
+    {
+      "id": 313,
+      "place": "Koridor The Ring, Masa Lalu",
+      "model": "약지아비",
+      "content": "Aah! Tolong hentikan vandalisme ini, Yoshihide. Selama lebih dari 10 tahun, aku telah menyusun mahakarya ini, hanya demi kesenanganmu..."
+    },
+    {
+      "id": 314,
+      "model": "과거료슈3",
+      "content": "D.K.B."
+    },
+    {
+      "id": 315,
+      "place": "Koridor The Index, Masa Lalu",
+      "model": "검지아비",
+      "content": "Sayang."
+    },
+    {
+      "id": 316,
+      "model": "검지아비",
+      "content": "Kamu sudah cukup menyakitiku. Aku sangat kesakitan."
+    },
+    {
+      "id": 317,
+      "model": "검지아비",
+      "content": "Berhenti mengayunkan pedang itu padaku."
+    },
+    {
+      "id": 318,
+      "model": "검지아비",
+      "content": "Kamu masih harus melewati satu lagi dari kami, bukan?"
+    },
+    {
+      "id": 319,
+      "model": "과거료슈3",
+      "content": "……."
+    },
+    {
+      "id": 320,
+      "place": -1,
+      "model": "료슈",
+      "content": "Sambil terhuyung-huyung, aku mengambil langkah menuju Nursefather terakhir."
+    },
+    {
+      "id": 321,
+      "model": "료슈",
+      "content": "Aku memotong lidah yang mencaci-makiku berkali-kali,"
+    },
+    {
+      "id": 322,
+      "model": "료슈",
+      "content": "Lalu..."
+    },
+    {
+      "id": 323,
+      "place": "Koridor The Pinky, Masa Lalu",
+      "model": "소지아비2",
+      "content": "... Tida- bisa b-bas -ari -ini... tan-a..."
+    },
+    {
+      "id": 324,
+      "model": "소지아비2",
+      "content": "... tan-a... memu-uskan... benan- la-a-la-a itu..."
+    },
+    {
+      "id": 325,
+      "model": "과거료슈3",
+      "content": "... Tidak..."
+    },
+    {
+      "id": 326,
+      "model": "소지아비2",
+      "content": "Gah...!"
+    },
+    {
+      "id": 327,
+      "model": "과거료슈3",
+      "content": "Araya..."
+    },
+    {
+      "id": 328,
+      "place": -1,
+      "model": "료슈",
+      "content": "Seharusnya itu kepalanya."
+    },
+    {
+      "id": 329,
+      "model": "료슈",
+      "content": "Mungkin itu karena sisa-sisa rasa belas kasihan yang masih tertinggal dalam diriku sehingga aku tidak memotong otaknya."
+    },
+    {
+      "id": 330,
+      "model": "료슈",
+      "content": "Atau mungkin, setelah mengayunkan pedangnya begitu lama, aku lupa bahwa memotong otak adalah cara terpasti untuk mengakhiri hidup."
+    },
+    {
+      "id": 331,
+      "model": "료슈",
+      "content": "Dengan tanganku sendiri, aku mengakhiri hidup orang tuaku."
+    },
+    {
+      "id": 332,
+      "model": "료슈",
+      "content": "Wajah seperti milikku. Suara seperti milikku. Gaya pedang yang persis seperti milikku."
+    },
+    {
+      "id": 333,
+      "model": "료슈",
+      "content": "Akankah nasibku menyerupai nasibnya juga?"
+    },
+    {
+      "id": 334,
+      "model": "료슈",
+      "content": "Aku menghujamkan pedang yang memotong segalanya..."
+    },
+    {
+      "id": 335,
+      "model": "료슈",
+      "content": "... ke dalam jantungnya, dan bahkan memastikan untuk memutarnya dengan kuat."
+    },
+    {
+      "id": 336,
+      "model": "료슈",
+      "content": "Jika matahari terbenam yang sekarat memiliki suara..."
+    },
+    {
+      "id": 337,
+      "model": "료슈",
+      "content": "Ia akan terdengar persis seperti ini."
+    }
+  ]
+}

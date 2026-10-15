@@ -1,0 +1,362 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Ruang Privat",
+      "model": "아이드",
+      "teller": "Aida",
+      "title": "Los Mariachis",
+      "content": "Kita sudah di ronde terakhir. Kalian semua menjaga cip kalian dengan baik, kan?"
+    },
+    {
+      "id": 1,
+      "model": "로쟈",
+      "content": "Hm, aku all in."
+    },
+    {
+      "id": 2,
+      "model": "아이드",
+      "teller": "Aida",
+      "title": "Los Mariachis",
+      "content": "...All in?"
+    },
+    {
+      "id": 3,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Ooh~ Kartu yang bagus ya, Rodya?"
+    },
+    {
+      "id": 4,
+      "model": "철공회보스",
+      "teller": "Bos Kru",
+      "title": "Kru Tieqiu",
+      "content": "Hah~ Gaya sombongmu itu benar-benar membuatku muak. Kau mendorong dirimu sendiri ke tepi jurang, jadi apa yang kau harapkan?"
+    },
+    {
+      "id": 5,
+      "model": "로쟈",
+      "content": "Aku ini tipe gadis yang mempertaruhkan segalanya di akhir."
+    },
+    {
+      "id": 6,
+      "model": "로쟈",
+      "content": "......"
+    },
+    {
+      "id": 7,
+      "model": "철공회보스",
+      "teller": "Bos Kru",
+      "title": "Kru Tieqiu",
+      "content": "Berhenti di sana. Angkat lengan bajumu. Jangan pikir aku tidak melihatmu berbuat curang."
+    },
+    {
+      "id": 8,
+      "model": "로쟈",
+      "content": "Hah?!"
+    },
+    {
+      "id": 9,
+      "model": "철공회보스",
+      "teller": "Bos Kru",
+      "title": "Kru Tieqiu",
+      "content": "Kau baru saja menempelkan salah satu stiker <ruby=keinginan>wishpower</ruby> yang kau dapatkan dari bos Tingtang di lenganmu."
+    },
+    {
+      "id": 10,
+      "model": "철공회보스",
+      "teller": "Bos Kru",
+      "title": "Kru Tieqiu",
+      "content": "Kau mencoba meraup semua cip di ronde ini agar kau bisa memiliki <ruby=Ranting Emas>Golden Bough</ruby> itu untuk dirimu sendiri."
+    },
+    {
+      "id": 11,
+      "model": "철공회보스",
+      "teller": "Bos Kru",
+      "title": "Kru Tieqiu",
+      "content": "Lihat, semuanya! Tepat di bawah tangannya, benda ini. Ini pasti stikernya, kan?"
+    },
+    {
+      "id": 12,
+      "model": "로쟈",
+      "content": "...Ada buktinya, nggak?"
+    },
+    {
+      "id": 13,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Maaf, Rodya, tapi bolehkah aku melihat pergelangan tanganmu sebentar?"
+    },
+    {
+      "id": 14,
+      "model": "로쟈",
+      "content": "......"
+    },
+    {
+      "id": 15,
+      "model": "철공회보스",
+      "teller": "Bos Kru",
+      "title": "Kru Tieqiu",
+      "content": "Jangan! Jangan kau sentuh dia. Sejauh yang kutahu, kalian berdua mungkin berkomplot."
+    },
+    {
+      "id": 16,
+      "model": "철공회보스",
+      "teller": "Bos Kru",
+      "title": "Kru Tieqiu",
+      "content": "Sekaraaang, aku akan menyingkap lengannya, jadi pasang mata kalian baik-baik, oke? Aku tahu rubah licik ini akan bermain kotor."
+    },
+    {
+      "id": 17,
+      "model": "아이드",
+      "teller": "Aida",
+      "title": "Los Mariachis",
+      "content": "Tunggu sebentar... Situasi ini... dan dialognya... semuanya terasa sangat familiar. Pernahkah aku melihat ini di suatu tempat?"
+    },
+    {
+      "id": 18,
+      "model": "로쟈",
+      "content": "Pikiranmu sempit banget untuk orang yang besar. Apa kau harus sepicik ini, sih?"
+    },
+    {
+      "id": 19,
+      "model": "철공회보스",
+      "teller": "Bos Kru",
+      "title": "Kru Tieqiu",
+      "content": "Dan bukankah mereka mengajarimu bahwa dengan <ruby=keinginan>wishpower</ruby> yang dicuri akan datang dengan tanggung jawab yang ketat?"
+    },
+    {
+      "id": 20,
+      "model": "로쟈",
+      "content": "...Kamu kebanyakan nonton film, deh. Apa yang dicuri?"
+    },
+    {
+      "id": 21,
+      "model": "로쟈",
+      "content": "Kalau kamu nggak nemuin apa-apa, kamu bakal menyerah dan keluar tidak?"
+    },
+    {
+      "id": 22,
+      "model": "철공회보스",
+      "teller": "Bos Kru",
+      "title": "Kru Tieqiu",
+      "content": "Hah, kau punya nyali juga. Baiklah, aku pertaruhkan semua taruhanku bahwa ada potongan <ruby=keinginan>wishpower</ruby> di pergelangan tanganmu. Bagaimana?"
+    },
+    {
+      "id": 23,
+      "model": "로쟈",
+      "content": "Sama kayak punyamu. Jadi, salah satu dari kita bakal bangkrut? Kamu takut?"
+    },
+    {
+      "id": 24,
+      "model": "철공회보스",
+      "teller": "Bos Kru",
+      "title": "Kru Tieqiu",
+      "content": "Pahahahah! Oh itu lucu, kau dapat kata-kata itu dari mana? Ngomong-ngomong, itu berarti kata-katamu sudah bulat, kan?"
+    },
+    {
+      "id": 25,
+      "model": "아이드",
+      "teller": "Aida",
+      "title": "Los Mariachis",
+      "content": "Ya ampun... Ini berjalan persis seperti yang kuingat... Aku cukup yakin kesimpulannya adalah..."
+    },
+    {
+      "id": 26,
+      "model": "철공회보스",
+      "teller": "Bos Kru",
+      "title": "Kru Tieqiu",
+      "content": "Ini dia, mari kita pastikan kalau begitu~"
+    },
+    {
+      "id": 27,
+      "model": "철공회보스",
+      "teller": "Bos Kru",
+      "title": "Kru Tieqiu",
+      "content": "......"
+    },
+    {
+      "id": 28,
+      "model": "철공회보스",
+      "teller": "Bos Kru",
+      "title": "Kru Tieqiu",
+      "content": "Wuhuh? Apa yang terjadi di sini?"
+    },
+    {
+      "id": 29,
+      "model": "철공회보스",
+      "teller": "Bos Kru",
+      "title": "Kru Tieqiu",
+      "content": "Aku melihatnya. Aku melihat si rubah kecil menggosok pergelangan tangannya! Tidak—tidak mungkin..."
+    },
+    {
+      "id": 30,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Itu artinya kau kalah. Sungguh disayangkan."
+    },
+    {
+      "id": 31,
+      "model": "로쟈",
+      "content": "Terus apa yang terjadi sama yang kalah? Potong tangan atau semacamnya, gitu?"
+    },
+    {
+      "id": 32,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Kau bercanda, kan, Rodya? Tidak ada gunanya melepas tangan prostetik."
+    },
+    {
+      "id": 33,
+      "model": "철공회보스",
+      "teller": "Bos Kru",
+      "title": "Kru Tieqiu",
+      "content": "Tidak, ini... Ini tidak mungkin benar..."
+    },
+    {
+      "id": 34,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Yang kalah akan ditunjukkan kemurahan hati, tetapi tuduhan palsu perlu ditangani dengan lebih hati-hati."
+    },
+    {
+      "id": 35,
+      "model": "아이드",
+      "teller": "Aida",
+      "title": "Los Mariachis",
+      "content": "Tunggu dulu, apa kalian...?"
+    },
+    {
+      "id": -1,
+      "content": "[DEVELOPER COMMENT NOT TO DISPLAY]"
+    },
+    {
+      "id": 36,
+      "model": "로쟈",
+      "content": "......"
+    },
+    {
+      "id": 37,
+      "model": "로쟈",
+      "content": "Gweh... Apa-apaan ini...!"
+    },
+    {
+      "id": 38,
+      "model": "아이드",
+      "teller": "Aida",
+      "title": "Los Mariachis",
+      "content": "Demi <ruby=Sayap>Wings</ruby>, bisakah kalian TOLONG beri aku peringatan—sedikit saja!"
+    },
+    {
+      "id": 39,
+      "model": "아이드",
+      "teller": "Aida",
+      "title": "Los Mariachis",
+      "content": "Ugh... Lihat semua minyak dan cairan sumsum ini... Bwegh."
+    },
+    {
+      "id": 40,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Ingat, Rodya? Itu adalah pemadat sampah yang kita lihat di pembuangan limbah di <ruby=Belakangan>Backstreets</ruby> kita."
+    },
+    {
+      "id": 41,
+      "model": "로쟈",
+      "content": "......"
+    },
+    {
+      "id": 42,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Aku sudah mengatakannya padamu saat itu."
+    },
+    {
+      "id": 43,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Bahwa kita kaum proletar harus bersatu untuk menjatuhkan kelas penguasa dan membangun masyarakat baru."
+    },
+    {
+      "id": 44,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Lalu kau menjawab:"
+    },
+    {
+      "id": 45,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "“Jika maksudmu kita harus mengumpulkan orang kaya dan meratakan mereka di bawah salah satu pemadat itu, maka aku setuju saja.”"
+    },
+    {
+      "id": 46,
+      "model": "로쟈",
+      "content": "...Koreksi kecil: Aku bilang “hancurkan dan letuskan mereka”."
+    },
+    {
+      "id": 47,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "...Begitukah?"
+    },
+    {
+      "id": 48,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Rodya, apa kau masih tidak mau kembali ke Yurodiviye?"
+    },
+    {
+      "id": 49,
+      "model": "로쟈",
+      "content": "Aku..."
+    },
+    {
+      "id": 50,
+      "model": "그레고르",
+      "content": "Bukankah kalian semua... mendengar suara keras barusan?"
+    },
+    {
+      "id": 51,
+      "model": "소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Tidak salah lagi. Setelah pertengkaran tentang... <ruby=keinginan>wishpower</ruby> dan sejenisnya."
+    },
+    {
+      "id": 52,
+      "model": "후디히스",
+      "content": "Apaan? Mereka ketahuan? Woi, berhenti melongo dan putar jam itu."
+    },
+    {
+      "id": 53,
+      "model": "이스마엘",
+      "content": "Ya ampun, berhenti mendorong. ...Aaah!"
+    },
+    {
+      "id": 54,
+      "model": "싱클레어",
+      "content": "Hah, woah—?!"
+    },
+    {
+      "id": 55,
+      "content": "Sayangnya, pintu yang kami sandari hanyalah bingkai kayu rapuh yang dilapisi kertas beras."
+    },
+    {
+      "id": 56,
+      "content": "Kami semua jatuh terperosok ke dalam ruangan saat pintu itu runtuh."
+    }
+  ]
+}

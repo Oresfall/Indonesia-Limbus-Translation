@@ -1,0 +1,121 @@
+{
+  "dataList": [
+    {
+      "id": 500101,
+      "name": "Enough Games",
+      "desc": "Mulai Giliran: Peroleh [AttackUp] setara dengan current giliran count"
+    },
+    {
+      "id": 500102,
+      "name": "That's Goin' in the Book",
+      "desc": "Mulai Giliran: Beri 1 [RicardoBookRaid] pada semua enemies\n\nKetika hit, beri 2 [RicardoBookRaid] on penyerang\nSaat Serang, kurangi [RicardoBookRaid] pada target sebanyak 1\n\nPeroleh [RicardoTattooRaid] setara dengan the cumulative Stack of [RicardoBookRaid] reduced by unit ini in this Pertemuan"
+    },
+    {
+      "id": 500103,
+      "name": "Too Grave a Sin",
+      "desc": "Saat Pakai of a Skill, jika target memiliki <color=#ff6000><mark=#ff000040><b><u>20+ [RicardoBookRaid]</u></b></mark></color>, ubah semua Coin on that Skill to [SuperCoin]\n\n<color=#ff6000><mark=#ff000040><b><u>Jika Ricardo's Skill targets a unit yang memiliki maks [RicardoBookRaid] Stack, Skill tersebut peroleh the 'Cannot change target' attribute</u></b></mark></color>"
+    },
+    {
+      "id": 500104,
+      "name": "Don't Resist dan Accept Your Punishments",
+      "desc": "Awal Pertarungan: <color=#ff6000><mark=#ff000040><b><u>Jika target memiliki equipped Defense Skill</u></b></mark></color>, beri -30% damage terhadap those targets"
+    },
+    {
+      "id": 500105,
+      "name": "Familial Love",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>Pada 60%- HP, enter a new phase</u></b></mark></color>\n- Hilangkan semua effects other than those exclusive to unit ini"
+    },
+    {
+      "id": 500106,
+      "name": "That Heishou's Left Me a Smarting Ache",
+      "desc": "Phase 2 exclusive Passive\nPada the start of Phase 2, beri [BurstAgility] dan [BurstZilu] on Ricardo\nRicardo takes +50% Gluttony damage"
+    },
+    {
+      "id": 500107,
+      "name": "You're The Middle's Priority Revenge Target",
+      "desc": "Mulai Giliran: <color=#ff6000><mark=#ff000040><b><u>Jika there is a unit yang memiliki 30 [RicardoBookRaid]</u></b></mark></color>, peroleh tambahan Skill Slot dan gunakan \"IMMEDIATE, COMPLETE, AND TOTAL EXTERMINATION!\" Skill with it"
+    },
+    {
+      "id": 500108,
+      "name": "The Big Brother",
+      "desc": "Starting dari giliran 2, <color=#ff6000><mark=#ff000040><b><u>semua kawan, termasuk unit ini, pulihkan 10 SP at Mulai Giliran</u></b></mark></color>\nTerima -20% damage dari [Combustion], [Laceration], [Vibration], [Burst], dan [Sinking]"
+    },
+    {
+      "id": 500109,
+      "name": "Brush it Off",
+      "desc": "Peroleh the Fixed Panic attribute\nAkhir Giliran: Jika unit ini is in Panic, reset SP to 0\n\n<color=#ff6000><mark=#ff000040><b><u>Pada 50%- HP, enter a new phase</u></b></mark></color>\n- Hilangkan semua effects other than those exclusive to unit ini"
+    },
+    {
+      "id": 500110,
+      "name": "Brush it Off",
+      "desc": "Peroleh the Fixed Panic attribute\nAkhir Giliran: Jika unit ini is in Panic, reset SP to 0"
+    },
+    {
+      "id": 501401,
+      "name": "Location-type Distortion: Photo Lab",
+      "desc": "This unit tidak bisa be killed, dan does not terima any damage dari sources other than Skill damage dari Skill attacking unit ini as target utama\n\nThis unit's Speed is fixed to 1\n\nAwal Giliran after entering Pertemuan: Peroleh 3 [PhotoTransitionChoiCamera]\n\n<color=#ff6000><mark color=#ff000040><b><u>Jika HP unit ini reaches 1, atau jika [PhotoTransitionChoiCamera] reaches 0 Stack at Mulai Giliran</color></mark></b></u>, aktifkan the following:\n- Hilangkan self dan N Corp. Class 2 Staff dari Pertemuan\n- Return Im Gyeong-eop to Pertemuan\n- Move the battle to a different location"
+    },
+    {
+      "id": 501201,
+      "name": "Seni Pedang Tanah Air [Sal] - Great Hwando",
+      "desc": "Pertemuan Start: Peroleh 5 [ChoiSwordsmanship]\n\n<color=#ff6000><mark color=#ff000040><b><u>Mengasumsikan Gaya Bertarung Tanah Air yang berbeda setiap 3 giliran</color></mark></b></u>\n\nAkhir Giliran: Jika unit ini memiliki Perisai, peroleh 5 [Breath] dan +2 Count [Breath] giliran berikutnya\n\nKetika Im Gyeong-eop meets the following conditions, she uses a pattern that includes the Skill \"Busur Tanah Air - Melepas Panah\"\n- Ketika unit ini kalah semua Clash untuk 2 giliran berturut (tidak termasuk Unopposd Attack)\n- Pada giliran setelah giliran dimana unit ini terkena Stagger\n- Ketika dalam kondisi Moral Rendah atau Panik",
+      "flavor": "Pedang Tanah Air, Seni berpedang tradisional di S Corp., juga dibagi menjadi tiga cabang: Sal, Pi, dan Ppyeo.\nDalam ajaran mereka terdapat teknik untuk memotong dan membelah makhluk bertubuh raksasa seperti Sangun.\nUntuk melakukannya secara maksimal, seorang pendekar pedang harus menggunakan hwando hebat yang mampu menahan tekanan dari tekniknya."
+    },
+    {
+      "id": 501202,
+      "name": "Dujeong Brigandine [Sal] - Iron Bulwark",
+      "desc": "Terima -30% damage dari [Laceration], [Burst], dan [Sinking] (dibulatkan ke bawah)\n\nPeroleh the effects of [PanicChangeLock]; Jika unit ini is Panicked pada Akhir Giliran, reset SP to 45\n\nUpon entering Pertemuan untuk pertama kalinya, peroleh 5 [ChoiSwordsmanshipShield]\n\n<color=#ff6000><mark color=#ff000040><b><u>Ketika [ChoiSwordsmanshipShield] kadaluarsa, menjadi Staggered giliran berikutnya\nPada the end of the giliran unit ini was Staggered, enter a new phase</color></mark></b></u>\n- Phase 1: This unit's HP tidak bisa turun <color=#ff6000><mark color=#ff000040><b><u>di bawah 70%</color></mark></b></u>\n- Pada kurang dari 70% HP, end the giliran <color=#ff6000><mark color=#ff000040><b><u>immediately</color></mark></b></u> dan enter a new phase\n- Pada the start of the giliran the phase changed, pulihkan hingga 45 SP\n",
+      "flavor": "The Eastern Warstride Armors are not so much \"equipped\" as they are \"piloted.\" S Corp.'s Dujeong Brigandine is one example of such armor.\nMuch like R Corp.'s Powered Armor Suit dan the Full Plate Armor used by the Knights of the West, the Dujeong Brigandine greatly augments the user's offensive dan defensive combat capabilities.\nYet these advantages do not mean that armors of such potency are readily supplied for combat personnel. Each unit has its own unique controls dan comes with the limitation of requiring separate fuels.\nWhat remains certain, however, is that, as with semua the aforementioned armors, sekali a rider has familiarized himself with the Dujeong Brigandine's extended mencapai dan heightened power output, he becomes a machine of war that strides across battlefields with the promise of slaughter."
+    },
+    {
+      "id": 501203,
+      "name": "Martial Arts of Perseverance",
+      "desc": "Pada Menang Clash, peroleh +2 Count [Breath] (2 kali per giliran)\n\nJika the target unit ini's Skill hit memiliki kurang dari 5 [Laceration] Potency, beri 1 [Laceration] dan +2 [Laceration] Count at Akhir Serangan (sekali per Skill, 2 kali per giliran, prioritize target utama)",
+      "flavor": "'There are those who persevere in training for lack of talent. Then terdapat those blessed with talent, only to let it rust.'\n'Semua men say that the title of Apex Blade can only be seized by the gifted.'\n'It matters not. Until the day comes for this blade of mine to rise high enough to meet the clouds, I shall persevere in honing my prowess.'"
+    },
+    {
+      "id": 501204,
+      "name": "Memori Membelah Kepala",
+      "desc": "Pada Kalah Clash, peroleh 1 [RegretSCorp] (sekali per giliran)"
+    },
+    {
+      "id": 501205,
+      "name": "Developed Memories",
+      "desc": "Sesaat memasuki Pertemuan, peroleh 3 [PhotoTransitionChoi]\n\n<color=#ff6000><mark color=#ff000040><b><u>Mulai Giliran: Pada 0 [PhotoTransitionChoi] Stack, Retreat dan transition menjadi a different location</color></mark></b></u>\n\nKetika Returning to the field, berdasarkan current Battleform of the Homeland, peroleh atau lose [ChoiSwordsmanship]\n- Ketika in [ChoiSwordsmanshipOne]: Peroleh Stack\n- Ketika in [ChoiSwordsmanshipMany]: Lose Stack\n\nJika [ChoiSwordsmanshipShield] kadaluarsa, [PhotoTransitionChoi] kadaluarsa"
+    },
+    {
+      "id": 501206,
+      "name": "Reflectrial",
+      "desc": "Pada 10+ Clashes terhadap the same enemy, secara acak peroleh atau lose Clash Power by (Clash Count/10) in a Clash (dibulatkan ke bawah)\n\nMax Potency cap for [Laceration], [Burst], dan [Sinking]: 30\nCount Maks cap for [Laceration], [Burst], dan [Sinking]: 10\n\n<color=#ff6000><mark color=#ff000040><b><u>Maks Potency cap for [Combustion] dan [Vibration]: 50\nCount Maks cap for [Combustion] dan [Vibration]: 30</color></mark></b></u>",
+      "flavor": ""
+    },
+    {
+      "id": 501207,
+      "name": "Mismatched Memories",
+      "desc": "Mulai Giliran: Peroleh efek berikut:\n- Ketika in [ChoiSwordsmanshipOne]: Pada kurang dari 5 [ChoiSwordsmanship] Stack, peroleh (5 - [ChoiSwordsmanship] Stack) <color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</color></mark></b></u>\n- Ketika in [ChoiSwordsmanshipMany]: Pada lebih banyak than 5 [ChoiSwordsmanship] Stack, peroleh <color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</color></mark></b></u> setara dengan surplus [ChoiSwordsmanship] Stack past 5 "
+    },
+    {
+      "id": 501301,
+      "name": "Seni Pedang Tanah Air [Sal] - Rend Flesh dari Flesh",
+      "desc": "Pertemuan Start: Peroleh 5 [ChoiSwordsmanship]\n\nAssume a different Battleform of the Homeland setiap 3 turns\n\nSaat Serang menggunakan a Slash Skill, peroleh 1 Potency [Breath] (sekali per Skill)\n\nKetika kondisi berikut terpenuhi, gunakan pola yang menggunakan Skill \"Busur Tanah Air - Melepas Panah\"\n- Ketika unit ini kalah semua Clash untuk 2 giliran berturut (tidak termasuk Unopposd Attack)\n- Turn after Stagger\n- Ketika dalam kondisi Moral Rendah atau Panik\n\nAwal Giliran: Pada Min atau Maks [ChoiSwordsmanship] Stack, gunakan a powerful Skill\nJika unit ini telah menggunakan Skill \"Busur Tanah Air - Melepas Panah\" in the last giliran, gunakan a powerful Skill regardless of [ChoiSwordsmanship] Stack diri sendiri\nPada 60% atau lower HP, gunakan a powerful Skill regardless of [ChoiSwordsmanship] Stack diri sendiri",
+      "flavor": "Pedang Tanah Air passed down in the Sal Court Circle is not, at its heart, an art of killing.\nTo cut dan cut again until blood runs dry dan the bone is laid bare—that is the essence of this art that strips the opponent's flesh menjadi ribbons.\nThat is the Pedang Tanah Air practiced by \"Sal.\""
+    },
+    {
+      "id": 501304,
+      "name": "Seni Pedang Tanah Air [Sal] - Shift Battleform",
+      "desc": "<color=#ff6000><mark color=#ff000040><b><u>Mulai Giliran: Peroleh atau kehilangan 2 [ChoiSwordsmanship] Stack berdasarkan Battleform of the Homeland diri sendiri (does not aktifkan in the first giliran of Pertemuan)</color></mark></b></u>\n- [ChoiSwordsmanshipOne]: Peroleh Stack\n- [ChoiSwordsmanshipMany]: Lose Stack\n\nIn the giliran where unit ini equipped Envy Skill, unit ini will not be affected by [ChoiSwordsmanship] Stack adjustment effects, dan will <color=#ff6000><mark color=#ff000040><b><u>reset [ChoiSwordsmanship] Stack to 5 giliran berikutnya</color></mark></b></u>"
+    },
+    {
+      "id": 501305,
+      "name": "Dujeong Brigandine [Sal] - Gunung Besar",
+      "desc": "Terima -30% damage dari [Combustion], [Laceration], [Vibration], [Burst], [Sinking] (dibulatkan ke bawah, excluding Batas Stagger raised by [VibrationExplosion])\n\nPeroleh the effects of [PanicChangeLock]; Jika unit ini is Panicked pada Akhir Giliran, reset SP to 45\n\nAwal Giliran: Peroleh efek berikut:\n- Ketika in [ChoiSwordsmanshipOne]: Pada kurang dari 5 [ChoiSwordsmanship] Stack, peroleh (5 - [ChoiSwordsmanship] Stack) <color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</color></mark></b></u>\n- Ketika in [ChoiSwordsmanshipMany]: Pada lebih banyak than 5 [ChoiSwordsmanship] Stack, peroleh <color=#ff6000><mark color=#ff000040><b><u>[Vulnerable]</color></mark></b></u> setara dengan surplus [ChoiSwordsmanship] Stack past 5",
+      "flavor": "The three Court Circles of Sal, Pi, dan Ppyeo each remade the standard Dujeong Brigandine of S Corp. menjadi forms suited to their own doctrines.\nThe olden tales say that the \"Sal\" has ever been the first to spearhead a slaughter, eager to cleave musuh's flesh before any other.\nThe \"Pi\" harvests the blood that spills forth dari each opened flesh wound dan turns it menjadi endurance on the battlefield.\nThe \"Ppyeo\" takes the close of a slaughter. They part one joint dari the other, bringing musuh to their knees. Then, a blade through the neckbone finishes the collective act of killing."
+    },
+    {
+      "id": 501501,
+      "name": "Scattering Memories",
+      "desc": "On kematian, give +1 bahan E.G.O of the least-owned Affinity",
+      "summary": "Give bahan E.G.O on kematian"
+    }
+  ]
+}

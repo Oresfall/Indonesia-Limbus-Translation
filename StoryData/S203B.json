@@ -1,0 +1,878 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Toko Pegadaian",
+      "model": "소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Nah... Untuk misi ini, kita akan mengurus semua yang diperlukan. Yang kalian harus lakukan hanyalah bersikap baik dan mengikuti perintah sederhana ini."
+    },
+    {
+      "id": 1,
+      "model": "소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Cek dokumen-dokumen di dalam amplop ini, dan lakukan, sepeeeeerrti yang ditulis di kertas ini."
+    },
+    {
+      "id": 2,
+      "content": "Cara Saude memperpanjang pengucapan vokal itu sedikit membuatku jengkel, tapi aku memutuskan untuk tidak membicarakannya."
+    },
+    {
+      "id": 3,
+      "content": "Lagipula, yang dia dengar cuma detikan jam."
+    },
+    {
+      "id": 4,
+      "model": "그레고르",
+      "content": "Tidak ada banyak kerjasama ya dalam \"operasi kerjasama\" ini? Ini mah kalian hanya nyuruh kami ngikutin dari belakang."
+    },
+    {
+      "id": 5,
+      "model": "이스마엘",
+      "content": "Menghina sekali. Mereka kira kita ini tolol atau gimana?"
+    },
+    {
+      "id": 6,
+      "model": "이스마엘",
+      "content": "Dengar, Manajer, kita harus bertindak tegas dan..."
+    },
+    {
+      "id": 7,
+      "model": "이스마엘",
+      "content": "Dan..."
+    },
+    {
+      "id": 8,
+      "model": "이스마엘",
+      "content": "...Ngikutin perintah mereka aja, kayaknya?"
+    },
+    {
+      "id": 9,
+      "model": "단테",
+      "content": "<Lah?>"
+    },
+    {
+      "id": 10,
+      "model": "이스마엘",
+      "content": "...Dokumen-dokumen yang mereka bagikan. Ini sempurna."
+    },
+    {
+      "id": 11,
+      "model": "이스마엘",
+      "content": "Lihat ini. Ada rute dan segala macam. Dah lama banget aku nggak melihat rencana yang sejelas dan seteliti ini."
+    },
+    {
+      "id": 12,
+      "model": "오티스",
+      "content": "Mhm, tentu saja. Ini jelas menunjukkan pengetahuan mereka dalam menyusun rencana operasi yang tepat."
+    },
+    {
+      "id": 13,
+      "model": "오티스",
+      "content": "Ah, ini bukan berarti hal ini sebanding dengan tingkat perencanaan yang anda tunjukkan, Manajer."
+    },
+    {
+      "id": 14,
+      "content": "Terbujuk oleh pujian Ishmael, aku membuka amplop itu dan dengan seksama membaca uraian operasi tersebut."
+    },
+    {
+      "id": 15,
+      "content": "Objektif utamanya dapat disingkat sebagai berikut:"
+    },
+    {
+      "id": 16,
+      "content": "‘Naik ke puncak kasino.’"
+    },
+    {
+      "id": 17,
+      "content": "Alasan utama di balik mengorganisir rencana ini adalah hadiah utama untuk permainan meja yang akan diadakan hari ini."
+    },
+    {
+      "id": 18,
+      "content": "Menurut kertas ini, memenangkan kompetisi yang diadakan di lantai atas kasino adalah satu-satunya cara untuk mendapatkan akses ke area <ruby=Ranting Emas>Golden Bough</ruby> berada."
+    },
+    {
+      "id": 19,
+      "content": "Empat <ruby=Sindikat>Syndicates</ruby> yang mengajukan penawaran bersama untuk kasino akan bermain dalam permainan judi ini..."
+    },
+    {
+      "id": 20,
+      "content": "Di antara keempatnya... Kita akan menggunakan nama..."
+    },
+    {
+      "id": 21,
+      "model": "단테",
+      "content": "<Tingtang Gang?>"
+    },
+    {
+      "id": 22,
+      "model": "파우스트",
+      "content": "Nama tidak selalu mencerminkan sifat suatu organisasi. Itu adalah prasangka dangkal."
+    },
+    {
+      "id": 23,
+      "model": "이상",
+      "content": "Tidaklah ideal jika seseorang memilih untuk melihat segala sesuatu melalui lensa berwarna yang dinamakan bias."
+    },
+    {
+      "id": 24,
+      "model": "단테",
+      "content": "<...Benar.>"
+    },
+    {
+      "id": 25,
+      "content": "...Balik ke rencananya, kita akan menyamar menjadi bos ‘Tingtang Gang’ dan memenangkan permainan judi itu."
+    },
+    {
+      "id": 26,
+      "content": "Setelah itu, kita harus ke lantai bawah tanah di mana <ruby=Ranting Emas>Golden Bough</ruby> berada."
+    },
+    {
+      "id": 27,
+      "content": "Menjelang permainan, kita akan menggunakan barang-barang dan pakaian yang bisa kita temukan di toko pegadaian untuk menyamar sesuai peran yang diberikan, memasuki kasino, dan menunggu tim di lantai atas memenangkan permainannya."
+    },
+    {
+      "id": 28,
+      "content": "Kira-kira seperti itulah garis besar rencana ini, kayaknya..."
+    },
+    {
+      "id": 29,
+      "content": "Hey, tunggu dulu. Bukannya rencana ini hancur kalau seandainya penjudi kita nggak menang?"
+    },
+    {
+      "id": 30,
+      "model": "소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Kita sudah menyiapkan kartu identifikasi palsu juga. Jaga-jaga kalau sekuriti kasino melakukan inspeksi acak terhadap para pengunjung."
+    },
+    {
+      "id": 31,
+      "model": "그레고르",
+      "content": "Baiklah, semua terdengar oke... Tapi gimana rencanamu untuk menang setelah berada di lantai puncak?"
+    },
+    {
+      "id": 32,
+      "model": "에피",
+      "teller": "Effie",
+      "title": "LCCB",
+      "content": "Kalian kira pakaian ini buat apa?"
+    },
+    {
+      "id": 33,
+      "model": "에피",
+      "teller": "Effie",
+      "title": "LCCB",
+      "content": "Kami berlatih selama berbulan-bulan agar terlihat seperti bandar judi sungguhan."
+    },
+    {
+      "id": 34,
+      "model": "에피",
+      "teller": "Effie",
+      "title": "LCCB",
+      "content": "Kami doakan biar beruntung. Kemenangan sudah di tangan kalian, yang hanya kalian butuhkan hanyalah sepasang mata yang berfungsi dengan benar."
+    },
+    {
+      "id": 35,
+      "content": "Effie menggumamkan bagian terakhir itu pada dirinya sendiri sekali lagi sambil melirik sinis ke arah kelompok kami."
+    },
+    {
+      "id": 36,
+      "content": "Dia membuatnya sangat jelas sekali dia nggak ada harapan buat kita."
+    },
+    {
+      "id": 37,
+      "model": "그레고르",
+      "content": "Dan bagaimana caranya kita akan mengambil posisi Bos Tingtang Gang?"
+    },
+    {
+      "id": 38,
+      "model": "소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Kami akan mencampurkan obat tidur ke dalam makanan yang disajikan kasino. Kita sudah negosiasi detailnya dengan kepala koki."
+    },
+    {
+      "id": 39,
+      "model": "이상",
+      "content": "Obat tidur..."
+    },
+    {
+      "id": 40,
+      "content": "Saude dan Effie saling mengedipkan mata."
+    },
+    {
+      "id": 41,
+      "content": "Itu adalah isyarat yang menunjukkan bahwa keduanya adalah pasangan ideal, yang mampu mengetahui pikiran satu sama lain hanya dengan bertukar pandangan."
+    },
+    {
+      "id": 42,
+      "model": "소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Hey, Tuan Tukang Gadai~ Kita akan melihat-lihat barang-barang yang dipamerkan dari sini ke sana.~"
+    },
+    {
+      "id": 43,
+      "model": "전당포주인",
+      "teller": "Tukang Gadai",
+      "title": "Toko Pegadaian J Corp",
+      "content": "Hwa? Oh! Ya, iya, tentu saja. Santai aja, Nyonya."
+    },
+    {
+      "id": 44,
+      "content": "Sikap tukang gadai itu berubah drastis dari menghina menjadi penjilat."
+    },
+    {
+      "id": 45,
+      "model": "소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Baiklah, sekarang mari kita ambil apa yang kita butuhkan dari pameran."
+    },
+    {
+      "id": 46,
+      "model": "홍루",
+      "content": "Astaga! Ini <ruby=Bros Desainer Guppcha>Guppcha Designer Brooch</ruby>, ya kan?"
+    },
+    {
+      "id": 47,
+      "model": "전당포주인",
+      "teller": "Tukang Gadai",
+      "title": "Toko Pegadaian J Corp",
+      "content": "Hyah~ Betapa jelinya mata anda, Tuan. Barang cantik ini adalah andalan katalog toko kami. Hanya 10 buah yang pernah dibuat, jadi nilainya pasti sangat ti-"
+    },
+    {
+      "id": 48,
+      "model": "홍루",
+      "content": "Anjingku dulu selalu memakai bros ini di kalungnya setiap kali kami mengajaknya jalan-jalan. Sungguh menyenangkan melihat sesuatu yang membawa kembali kenangan indah!"
+    },
+    {
+      "id": 49,
+      "model": "전당포주인",
+      "teller": "Tukang Gadai",
+      "title": "Toko Pegadaian J Corp",
+      "content": "......"
+    },
+    {
+      "id": 50,
+      "model": "로쟈",
+      "content": "Aku suka banget sarung tangan kulit sapi ini! Siapa pun yang memilikinya pasti seorang fashionista papan atas deh~"
+    },
+    {
+      "id": 51,
+      "model": "소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Tolong ambil barang yang tertulis sesuai di kertas. Kalian ada peran yang harus dimainkan."
+    },
+    {
+      "id": 52,
+      "model": "돈키호테",
+      "content": "Maaf, Manajer Terhormat, tapi tertulis “pembantu” di amplop yang kuterima. Ini pasti ada kesalahan!"
+    },
+    {
+      "id": 53,
+      "model": "그레고르",
+      "content": "Oke, itu bagus, tapi... Apakah kalian punya uang untuk membayar semua ini, sobat?"
+    },
+    {
+      "id": 54,
+      "model": "에피",
+      "teller": "Effie",
+      "title": "LCCB",
+      "content": "Khawatir soal pengeluaran? Kalian pikir kami siapa, orang rendahan? Nggak ada yang saya nggak bisa beli dengan 'Kartu Hitam' ini.."
+    },
+    {
+      "id": 55,
+      "model": "로쟈",
+      "content": "Dante! Apa-apaan ini?! Kau bilang kita nggak bisa makan daging wagyu gara-gara kita lagi kere berat!"
+    },
+    {
+      "id": 56,
+      "model": "파우스트",
+      "content": "Jadi rumor bahwa hanya tim dengan performa menonjol yang akan diberikan kartu perusahaan tanpa batas ternyata benar."
+    },
+    {
+      "id": 57,
+      "content": "Sementara semuanya kaget dengan terbuktinya keberadaan Black Card yang legendaris itu..."
+    },
+    {
+      "id": 58,
+      "content": "Suara keras terdengar dari luar.."
+    },
+    {
+      "id": 59,
+      "model": "촌스러운말투의콩콩파조직원",
+      "teller": "Tingtanger Bersuara Kasar",
+      "title": "Tingtang Gang",
+      "content": "Oi, tua bangka! Gue udah bilang kan utang lo jatuh tempo hari ini?"
+    },
+    {
+      "id": 60,
+      "content": "Seseorang yang jelas-jelas anggota <ruby=Sindikat>Syndicate</ruby> kejam memasuki toko gadai.."
+    },
+    {
+      "id": 61,
+      "model": "전당포주인",
+      "teller": "Tukang Gadai",
+      "title": "Toko Pegadaian J Corp",
+      "content": "K-kumohon... Kasih saya kesempatan satu kali lagi. Saya bersumpah uangnya akan ada."
+    },
+    {
+      "id": 62,
+      "model": "촌스러운말투의콩콩파조직원",
+      "teller": "Tingtanger Bersuara Kasar",
+      "title": "Tingtang Gang",
+      "content": "Sekali lagi? Lo nggak bisa MTK? Terakhir kali lo alesan gitu juga! Bos nggak bakal seneng kalau gue buang-buang waktu buat ngajarin lo pelajaran TK, denger nggak?"
+    },
+    {
+      "id": 63,
+      "model": "전당포주인",
+      "teller": "Tukang Gadai",
+      "title": "Toko Pegadaian J Corp",
+      "content": "S-saya hanyalah seorang kakek tua rapuh yang berdiri dengan kaki goyah. Tidak ada keuntungan apa pun yang akan anda dapatkan dengan memeras saya....!"
+    },
+    {
+      "id": 64,
+      "content": "Dengan suara yang sangat keras dan memohon, tukang gadai itu menatap kami.."
+    },
+    {
+      "id": 65,
+      "model": "촌스러운말투의콩콩파조직원",
+      "teller": "Tingtanger Bersuara Kasar",
+      "title": "Tingtang Gang",
+      "content": "Eh? Mau bantah? Ya, ayo sana, marahlah! Gue nggak bakal merasa bersalah kalau gitu!"
+    },
+    {
+      "id": 66,
+      "content": "Dari ekspresinya, ia tampak seperti diam-diam memohon bantuan kami."
+    },
+    {
+      "id": 67,
+      "content": "Perhatian para <ruby=Pendosa>Sinners</ruby> tertarik pada perselisihan yang sedang berlangsung."
+    },
+    {
+      "id": 68,
+      "model": "촌스러운말투의콩콩파조직원",
+      "teller": "Tingtanger Bersuara Kasar",
+      "title": "Tingtang Gang",
+      "content": "Lihat apaan kalian? Lo kira gue main-main?!"
+    },
+    {
+      "id": 69,
+      "model": "이스마ael",
+      "content": "Gee... Stereotip banget, jadi malas kubalas. Ejekannya nggak bisa lebih kreatif gitu?"
+    },
+    {
+      "id": 70,
+      "model": "싱클레어",
+      "content": "Bukankah sebaiknya kita... bantuin, mungkin?"
+    },
+    {
+      "id": 71,
+      "content": "Berbeda dengan Ishmael yang mencemooh preman itu, Sinclair dengan cemas melirik ke arahnya."
+    },
+    {
+      "id": 72,
+      "model": "소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Kita tidak punya pilihan, <ruby=Belakangan>Backstreets</ruby> punya aturan dan tatanan sendiri. Kita bukanlah orang yang berhak mengganggu jalinan kompleks masyarakat mereka itu."
+    },
+    {
+      "id": 73,
+      "model": "소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Orang luar seperti kita hanya akan menimbulkan keributan yang lebih besar jika kita mencoba ikut campur."
+    },
+    {
+      "id": 74,
+      "content": "Merasa puas karena para <ruby=Pendosa>Sinners</ruby> memilih untuk tetap menjauh, preman itu melanjutkan pemerasannya."
+    },
+    {
+      "id": 75,
+      "model": "촌스러운말투의콩콩파조직원",
+      "teller": "Tingtanger Bersuara Kasar",
+      "title": "Tingtang Gang",
+      "content": "Hmph, lo nggak ada duit, gimana kalau lo bayar utang lo pake care itu aja? Kan udah kita kasih tahu."
+    },
+    {
+      "id": 76,
+      "model": "전당포주인",
+      "teller": "Tukang Gadai",
+      "title": "Toko Pegadaian J Corp",
+      "content": "A-apa pun kecuali itu... Kumohon..."
+    },
+    {
+      "id": 77,
+      "model": "단테",
+      "content": "<...Aman kah kalau kita biarin ini?>"
+    },
+    {
+      "id": 78,
+      "model": "오티스",
+      "content": "Apakah saya harus menyelesaikan perselisihan mereka agar anda tidak terganggu, Manajer?"
+    },
+    {
+      "id": 79,
+      "model": "그레고르",
+      "content": "Yang dimaksud si jagoan dengan “itu”, apa sih?"
+    },
+    {
+      "id": 80,
+      "model": "파우스트",
+      "content": "...Mata uang yang lebih berharga daripada uang kertas di District ini."
+    },
+    {
+      "id": 81,
+      "model": "파우스트",
+      "content": "Sudah diketahui umum bahwa <ruby=Singularitas>Singularity</ruby> dari J Corp adalah teknologi keamanan yang ampuh yang mampu mengunci apa pun."
+    },
+    {
+      "id": 82,
+      "model": "파우스트",
+      "content": "Namun, yang kurang diketahui adalah latar belakang budaya dan sejarah yang luas dari <ruby=Belakangan>Backstreets</ruby> of <ruby=Sarang>Nest</ruby> J yang mengarah pada penciptaan <ruby=Singularitas>Singularity</ruby> itu."
+    },
+    {
+      "id": 83,
+      "model": "후디히스",
+      "content": "S, sejarah...? Lo serius mau nyeramahin kami sekarang...? Gue gak pernah dikasih tahu tentang pendidikan wajib apa pun pas gue gabung sama perusahaan ini!"
+    },
+    {
+      "id": 84,
+      "content": "Meskipun mendapat penentangan, Faust tetap melanjutkan penjelasannya."
+    },
+    {
+      "id": 85,
+      "model": "파우스트",
+      "content": "Di sini, terdapat teknologi untuk mengekstrak ‘<ruby=keinginan>wishpower</ruby>’ dari orang-orang."
+    },
+    {
+      "id": 86,
+      "model": "파우스트",
+      "content": "Meskipun tidak banyak diketahui di luar <ruby=Distrik>District</ruby> ini karena tidak cukup umum untuk diakui sebagai sebuah <ruby=Singularitas>Singularity</ruby>."
+    },
+    {
+      "id": 87,
+      "model": "파우스트",
+      "content": "Intinya, ini adalah proses mengubah ‘<ruby=keberuntungan>luck</ruby>’ menjadi komoditas yang dapat diperdagangkan. Seperti bentuk uang."
+    },
+    {
+      "id": 88,
+      "model": "파우스트",
+      "content": "Hal ini memunculkan kebutuhan akan cara untuk menghentikan orang lain agar tidak secara paksa mengambil kekuatan keinginan ini, yang mengarah pada penciptaan teknologi keamanan yang pada akhirnya berkembang menjadi <ruby=Singularitas>Singularity</ruby> yang kita kenal saat ini.."
+    },
+    {
+      "id": 89,
+      "model": "에피",
+      "teller": "Effie",
+      "title": "LCCB",
+      "content": "Wah, Faust~ Pasti melelahkan harus mengajari orang-orang goblok ini dengan cara yang bisa mereka mengerti."
+    },
+    {
+      "id": 90,
+      "model": "파우스트",
+      "content": "Tidak apa-apa, ini sesuai dengan skenario yang saya antisipasi."
+    },
+    {
+      "id": 91,
+      "model": "후디히스",
+      "content": "Gue nggak suka cara lo ngomong..."
+    },
+    {
+      "id": 92,
+      "model": "소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Ayo, kumpulkan barang-barang untuk membantu penyamaran kalian agar kita bisa berangkat."
+    },
+    {
+      "id": 93,
+      "content": "Saude mengibaskan dokumen yang berisi rencana-rencana terjadwal itu untuk menekankan bahwa kami akan sibuk."
+    },
+    {
+      "id": 94,
+      "model": "소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Kita kan hanya pekerja bergaji, bukan \"pahlawan\" yang memperjuangkan keadilan."
+    },
+    {
+      "id": 95,
+      "model": "단테",
+      "content": "<Tunggu... Jangan kata itu...!>"
+    },
+    {
+      "id": 96,
+      "content": "Sebuah perasaan buruk melanda kepalaku mendorongku untuk menghitung para <ruby=Pendosa>Sinners</ruby> yang dapat kulihat."
+    },
+    {
+      "id": 97,
+      "model": "단테",
+      "content": "<Itu... tidak sesuai dengan... keyakinan seseorang...>"
+    },
+    {
+      "id": 98,
+      "content": "Dan itu adalah hal yang akan sangat menggoyahkan prinsip-prinsipnya....!"
+    },
+    {
+      "id": 99,
+      "model": "이스마엘",
+      "content": "...!"
+    },
+    {
+      "id": 100,
+      "content": "Ishmael tampaknya menyadari maksudku, dan segera melihat sekeliling."
+    },
+    {
+      "id": 101,
+      "model": "돈키호테",
+      "content": "Anda berani mencoba mencuri barang berharga orang lain? Perilaku ini hanya bisa dianggap sebagai kejahatan yang terang-terangan!"
+    },
+    {
+      "id": 102,
+      "model": "단테",
+      "content": "<Oh tidak...! Don Quixote...!>"
+    },
+    {
+      "id": 103,
+      "content": "Namun terlambat sudah."
+    },
+    {
+      "id": 104,
+      "content": "Don Quixote sudah berlari dan mengayunkan tombaknya ke arah Tingtanger yang mencengkeram kerah baju tukang gadai itu."
+    },
+    {
+      "id": 105,
+      "content": "Plak!"
+    },
+    {
+      "id": 106,
+      "content": "Tanpa terduga, preman itu terkena tepat di kepala dengan sisi tumpul tombaknya."
+    },
+    {
+      "id": 107,
+      "content": "Terjatuh pingsan di lantai akibat pukulannya, preman yang tak sadarkan diri itu menjadi pusat perhatian kami semua di dalam toko gadai selama satu menit penuh."
+    },
+    {
+      "id": 108,
+      "model": "소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "......"
+    },
+    {
+      "id": 109,
+      "model": "파우스트",
+      "content": "Ah, sekadar memberi tahu, menjaga agar para <ruby=Pendosa>Sinners</ruby> tetap terkendali bukanlah bagian dari deskripsi pekerjaan saya. Itu adalah tugas orang ini di sini."
+    },
+    {
+      "id": 110,
+      "model": "단테",
+      "content": "<Jangan lihat aku seperti itu. Tidak ada yang bisa ku lakukan untuk mengehentikan dia...>"
+    },
+    {
+      "id": 111,
+      "content": "Aku tak bisa menahan diri untuk membela pendirianku meskipun aku sadar suaraku tak akan terdengar oleh siapa pun selain para <ruby=Pendosa>Sinners</ruby>."
+    },
+    {
+      "id": 112,
+      "content": "Yah sudahlah. Bukannya pembelaanku akan membuat mereka terlihat kurang bingung terhadapku jika mereka bisa mendengarnya."
+    },
+    {
+      "id": 113,
+      "model": "전당포주인",
+      "teller": "Tukang Gadai",
+      "title": "Toko Pegadaian J Corp",
+      "content": "Oooh...!"
+    },
+    {
+      "id": 114,
+      "content": "Hanya sang tukang gadai yang merasa senang dengan perkembangan ini."
+    },
+    {
+      "id": 115,
+      "model": "전당포주인",
+      "teller": "Tukang Gadai",
+      "title": "Toko Pegadaian J Corp",
+      "content": "Kerja bagus, Nona. Rasakan akibatnya! Tapi menurutku, mungkin kau bisa memukulnya sedikit lebih keras lagi."
+    },
+    {
+      "id": 116,
+      "model": "돈키호테",
+      "content": "Vergilius menasihati saya bahwa meskipun saya bebas menegakkan keadilan bagi para penjahat, saya harus melakukannya tanpa melibatkan pihak-pihak yang tidak relevan dalam misi kita! Dengan demikian, saya menunjukkan sikap moderasi!"
+    },
+    {
+      "id": 117,
+      "content": "Ekspresi bangganya tidak pernah terlihat sangat provokatif."
+    },
+    {
+      "id": 118,
+      "model": "단테",
+      "content": "<Uh-huh. Lalu kamu mengingat perkataannya dan masih saja menyerang?>"
+    },
+    {
+      "id": 119,
+      "model": "돈키호테",
+      "content": "Itu adalah tindakan yang perlu dilakukan untuk tetap setia pada keyakinanku. Mohon pahami kekerasan yang saya lakukan demi kebajikan ini!"
+    },
+    {
+      "id": 120,
+      "model": "전당포주인",
+      "teller": "Tukang Gadai",
+      "title": "Toko Pegadaian J Corp",
+      "content": "Bukannya mau merusak suasana, tapi... Bajingan ini sebenarnya belum mati, kan?"
+    },
+    {
+      "id": 121,
+      "model": "그레고르",
+      "content": "Bukankah kamu hanya ingin dia memukul pingsan, sobat?"
+    },
+    {
+      "id": 122,
+      "model": "전당포주인",
+      "teller": "Tukang Gadai",
+      "title": "Toko Pegadaian J Corp",
+      "content": "Iya, iya... Tapi entar repot kalau Yurodiviye muncul, lho."
+    },
+    {
+      "id": 123,
+      "model": "로쟈",
+      "content": "Yurodiviye? Ngapain mereka di... Nggak, lupakan deh, kenapa kamu khawatir banget soal mereka?"
+    },
+    {
+      "id": 124,
+      "model": "전당포주인",
+      "teller": "Tukang Gadai",
+      "title": "Toko Pegadaian J Corp",
+      "content": "Kau ketinggalan berita ya, Bu? Mereka sudah membuat masalah di sini selama berbulan-bulan sekarang."
+    },
+    {
+      "id": 125,
+      "model": "돈키호테",
+      "content": "Apakah mereka penjahat juga?!"
+    },
+    {
+      "id": 126,
+      "model": "전당포주인",
+      "teller": "Tukang Gadai",
+      "title": "Toko Pegadaian J Corp",
+      "content": "Oh, mereka memang penjahat bagi kami para pedagang sederhana. Mereka terus mengoceh tentang, apa ya, menghajar para pedagang serakah yang menyimpan uang untuk diri mereka sendiri, dan memberikannya kepada mereka yang membutuhkan. Mendistribusikan sesuatu, kata mereka..."
+    },
+    {
+      "id": 127,
+      "model": "뫼르소",
+      "content": "Redistribusi kekayaan."
+    },
+    {
+      "id": 128,
+      "model": "전당포주인",
+      "teller": "Tukang Gadai",
+      "title": "Toko Pegadaian J Corp",
+      "content": "Ah~ Benar sekali. Para bajingan itu merampok sedikit harta orang-orang malang seperti kita ini. Dan mereka bahkan tidak melakukan pekerjaan kotor itu sendiri, selalu preman lokal yang mereka kirim. Bisakah kau percaya?"
+    },
+    {
+      "id": 129,
+      "model": "전당포주인",
+      "teller": "Tukang Gadai",
+      "title": "Toko Pegadaian J Corp",
+      "content": "Pokoknya, hidup kami jadi sulit karena orang-orang sok suci itu. Awalnya sepertinya mereka datang untuk mencari sesuatu, tapi sekarang yang mereka lakukan hanyalah memeras uang dari kami..."
+    },
+    {
+      "id": 130,
+      "model": "로쟈",
+      "content": "...Ah! Aku baru sadar, mendingan kita langsung cabut aja yuk? Bisa-bisa anggota Tingtang Gang yang lain pada geruduk ke sini, bahaya banget kan!"
+    },
+    {
+      "id": 131,
+      "content": "Sepertinya Rodya sengaja memotong pembicaraan dengan tukang gadai dengan terburu-buru, tetapi aku tidak punya banyak waktu untuk memikirkan implikasinya."
+    },
+    {
+      "id": 132,
+      "content": "Anggota geng yang telah dilumpuhkan oleh Don Quixote mulai tersentak seolah-olah akan segera berdiri kembali."
+    },
+    {
+      "id": 133,
+      "model": "에피",
+      "teller": "Effie",
+      "title": "LCCB",
+      "content": "Huft, repotin aja... Kamu memperbesar masalah yang remeh ini."
+    },
+    {
+      "id": 134,
+      "model": "그레고르",
+      "content": "Hei, Muffin dan Sablé, kan? Jangan terlalu judes. Ada banyak pegadaian di sekitar sini, kan? Kita selalu bisa menemukan tempat yang berbe—"
+    },
+    {
+      "id": 135,
+      "model": "소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Nama kami Effie dan Saude. Jangan salahkan nama kami dengan nama manisan."
+    },
+    {
+      "id": 136,
+      "model": "소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "Dan pernyataan kamu bahwa ada banyak pegadaian di sekitar sini tidak akan berarti banyak..."
+    },
+    {
+      "id": 137,
+      "model": "소드",
+      "teller": "Saude",
+      "title": "LCCB",
+      "content": "... Ketika pegadaian tersebut menyadari adanya masalah yang terjadi di sini dan kemudian tutup..."
+    },
+    {
+      "id": 138,
+      "model": "단테",
+      "content": "<Don Quixote...!>"
+    },
+    {
+      "id": 139,
+      "model": "에피",
+      "teller": "Effie",
+      "title": "LCCB",
+      "content": "Capek aku ngomelin orang-orang goblok ini tentang setiap hal kecil. Sebaiknya kita pergi saja."
+    },
+    {
+      "id": 140,
+      "content": "Tepat saat aku hendak pergi, seseorang yang mengenakan pakaian urakan serupa dengan preman yang baru saja kami pingsanin—dengan wajah yang tampak sama kasarnya—mendobrak masuk ke dalam toko."
+    },
+    {
+      "id": 141,
+      "model": "세보이고싶었던콩콩파조직원",
+      "teller": "Tingtanger Berdada Besar",
+      "title": "Tingtang Gang",
+      "content": "Woi, kakek tua, lo ada lihat si—"
+    },
+    {
+      "id": 142,
+      "model": "세보이고싶었던콩콩파조직원",
+      "teller": "Tingtanger Berdada Besar",
+      "title": "Tingtang Gang",
+      "content": "Anjing! Napa dia?!"
+    },
+    {
+      "id": 143,
+      "content": "Kami berusaha sebaik mungkin untuk berpura-pura menjadi pelanggan yang tidak bersalah yang kebetulan berada di pegadaian pada waktu yang salah."
+    },
+    {
+      "id": 144,
+      "content": "Namun, ampasnya, si preman itu kembali sadar..."
+    },
+    {
+      "id": 145,
+      "model": "세보이고싶었던콩콩파조직원",
+      "teller": "Tingtanger Berdada Besar",
+      "title": "Tingtang Gang",
+      "content": "Siapa yang giniin lo?! Jawab sekarang! Kacang itu bakal nyesel hari di mana dia numbuhin batang!"
+    },
+    {
+      "id": 146,
+      "model": "촌스러운말투의콩콩파조직원",
+      "teller": "Tingtanger Bersuara Kasar",
+      "title": "Tingtang Gang",
+      "content": "Gnh... d... di sana..."
+    },
+    {
+      "id": 147,
+      "model": "촌스러운말투의콩콩파조직원",
+      "teller": "Tingtanger Bersuara Kasar",
+      "title": "Tingtang Gang",
+      "content": "Jam... Merah i..."
+    },
+    {
+      "id": 148,
+      "content": "Arah yang ditunjuk oleh jari itu terlalu jelas bagiku untuk berpura-pura sebaliknya."
+    },
+    {
+      "id": 149,
+      "content": "Lagipula, tidak ada gunanya menyangkal bahwa yang dimaksud dengan \"jam merah\" adalah aku, karena aku yakin tidak akan ada orang lain yang cocok dengan deskripsi itu di seluruh <ruby=Kota>The City</ruby> ini."
+    },
+    {
+      "id": 150,
+      "model": "전당포주인",
+      "teller": "Tukang Gadai",
+      "title": "Toko Pegadaian J Corp",
+      "content": "Agar anda tidak salah paham, saya tidak ada hubungannya dengan orang-orang ini atau apa yang terjadi di sini. Saya hanya hendak membawa handuk untuk mendinginkan kepala orang malang ini."
+    },
+    {
+      "id": 151,
+      "model": "후디히스",
+      "content": "Bangsat licik..."
+    },
+    {
+      "id": 152,
+      "model": "이스마엘",
+      "content": "Aku memang tidak punya harapan apa pun padanya sejak awal, tapi tulang belakang pria itu memang terbuat dari alang-alang."
+    },
+    {
+      "id": 153,
+      "content": "Meskipun tukang gadai yang langsung berganti pihak dan tuduhan yang mengarah pada fitnah jam—sesuatu yang bukan tanggung jawabku—yang sedikit menyindirku, aku bertekad untuk tetap teguh."
+    },
+    {
+      "id": 154,
+      "model": "세보이고싶었던콩콩파조직원",
+      "teller": "Tingtanger Bersuara Kasar",
+      "title": "Tingtang Gang",
+      "content": "Jah... <ruby=Kacang Kecil>Frijolitos</ruby> yang di sana... Berhenti. Diem di situ."
+    },
+    {
+      "id": 155,
+      "content": "Karena sudah jelas bahwa kami harus segera lari."
+    },
+    {
+      "id": 156,
+      "content": "Jika aku terus membiarkan hal-hal kecil menggangguku, aku akan hancur lebur cepat atau lambat."
+    },
+    {
+      "id": 157,
+      "model": "료슈",
+      "content": "Bah. Tidak perlu lari. Musnahkan mereka dan selesaikan cepat."
+    },
+    {
+      "id": 158,
+      "model": "에피",
+      "teller": "Effie",
+      "title": "LCCB",
+      "content": "Selanjutnya apa? Kau akan memusnahkan seluruh <ruby=Sindikat>Syndicate</ruby>?"
+    },
+    {
+      "id": 159,
+      "model": "료슈",
+      "content": "Heh. Ide bagus."
+    },
+    {
+      "id": 160,
+      "model": "돈키호테",
+      "content": "Kekuatan jahat harus segera diberantas agar tombak keadilan dapat dikibarkan tinggi-tinggi!"
+    },
+    {
+      "id": 161,
+      "model": "에피",
+      "teller": "Effie",
+      "title": "LCCB",
+      "content": "Uh, jadi, ini beneran nggak ada satu pun orang di timmu yang waras?"
+    },
+    {
+      "id": 162,
+      "content": "Ishmael tampak tersinggung dengan ucapan itu dan sepertinya sedang memikirkan argumen balasan, tetapi para preman Tingtang yang sudah bersenjata adalah masalah yang lebih mendesak."
+    },
+    {
+      "id": 163,
+      "model": "단테",
+      "content": "<Ayo kita...>"
+    },
+    {
+      "id": 164,
+      "model": "단테",
+      "content": "<... kabur dari sini dulu!>"
+    }
+  ]
+}

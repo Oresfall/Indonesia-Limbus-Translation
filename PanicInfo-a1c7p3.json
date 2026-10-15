@@ -1,0 +1,34 @@
+{
+  "dataList": [
+    {
+      "id": 1029,
+      "panicName": "Guilt",
+      "lowMoraleDescription": "Akhir Giliran: peroleh 1 [Vulnerable] dan [MentalIncreaseDown] giliran berikutnya",
+      "panicDescription": "Akhir Giliran: peroleh 2 [Vulnerable] dan [MentalIncreaseDown] giliran berikutnya."
+    },
+    {
+      "id": 1031,
+      "panicName": "Resanguination",
+      "lowMoraleDescription": "Jika target tidak memiliki [Laceration], Clash Power -1; Saat Menyerang, pulihkan HP setara dengan [Laceration] Potency pada target",
+      "panicDescription": "Jika target memiliki [Laceration], Clash Power +2; jika target tidak memiliki [Laceration], Clash Power -2; Saat Menyerang, pulihkan HP setara dengan [Laceration] Potency pada target"
+    },
+    {
+      "id": 1032,
+      "panicName": "Guilt",
+      "lowMoraleDescription": "Akhir Giliran: peroleh 1 [Vulnerable] dan [MentalIncreaseDown] giliran berikutnya",
+      "panicDescription": "Akhir Giliran: peroleh 2 [Vulnerable] dan [MentalIncreaseDown] giliran berikutnya."
+    },
+    {
+      "id": 1034,
+      "panicName": "Burden of Responsibility",
+      "lowMoraleDescription": "- Peroleh 2 [Enhancement] dan 1 [Vulnerable]; naikkan Maks Speed value sebanyak 2\n- Pulihkan +30% lebih HP ketika pemulihan\n- Akhir Giliran: jika the [RegainedStrength] lebih sedikit daripada its value pada Awal Giliran, peroleh 2 [AttackUp] dan [DefenseDown] giliran berikutnya",
+      "panicDescription": "- Peroleh 2 [Enhancement] dan naikkan Maks Speed value sebanyak 2\n- Pulihkan +50% lebih HP ketika pemulihan\n- Akhir Giliran: jika the [RegainedStrength] lebih sedikit daripada its value pada Awal Giliran, peroleh 3 [AttackUp] dan 5 [DefenseDown] giliran berikutnya"
+    },
+    {
+      "id": 1033,
+      "panicName": "Reawakening Joy Of Carnage",
+      "lowMoraleDescription": "Every Awal Giliran: peroleh 2 [AttackUp]; +2 SP Efficiency",
+      "panicDescription": "Awal Giliran: peroleh 6 [DefenseUp], dan peroleh 3 [AttackUp] giliran berikutnya"
+    }
+  ]
+}

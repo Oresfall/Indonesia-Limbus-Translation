@@ -1,0 +1,840 @@
+{
+    "dataList": [
+        {
+            "id": 9015201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hardblood Stab",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hardblood Cleave",
+                    "desc": "[WhenUse] Jika target memiliki 8+ [Laceration], beri +20% damage",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Pada 6+ [Laceration], peroleh 1 [HardenedBlood]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Peroleh 8 [Laceration] dan 1 [BloodScissor]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hardblood Powercleave",
+                    "desc": "[WhenUse] Jika target memiliki 6+ [Laceration], Base Power +1\nBeri +5% damage untuk setiap [HardenedBlood] (maks 25%)\n[EndSkill] Konsumsi semua [HardenedBlood] dan [BloodScissor]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 [Laceration] dan +2 [Laceration] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Pulihkan ([Laceration] pada target)% HP (maks 20%)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Counter",
+                    "desc": "[WhenUse] Base Power +1 untuk setiap [HardenedBlood] pada diri sendiri",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 2 [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hardblood Wedge",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hardblood Chop",
+                    "desc": "[WhenUse] Jika target memiliki 4+ [Laceration], beri +10% damage",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Pada 6+ [Laceration], peroleh 1 [HardenedBlood]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Peroleh 8 [Laceration] dan 1 [BloodScissor]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hardblood Powerchop",
+                    "desc": "[WhenUse] Jika target memiliki 6+ [Laceration] Count, Base Power +1\nBeri +5% damage untuk setiap [HardenedBlood] (maks 25%)\n[EndSkill] Konsumsi semua [HardenedBlood] dan [BloodScissor]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 [Laceration] dan +2 [Laceration] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Pulihkan ([Laceration] pada target)% HP (maks 20%)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015304,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Counter",
+                    "desc": "[WhenUse] Base Power +1 untuk setiap [HardenedBlood] pada diri sendiri",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 2 [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015401,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "It's a Festival, a Festival!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015402,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Let's Dress Up",
+                    "desc": "[WhenUse] Jika target memiliki 6+ [Laceration], beri +20% damage",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Jika target memiliki 5+ [Laceration], peroleh 1 [HardenedBlood]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015403,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "We've an Event untuk You!",
+                    "desc": "[WhenUse] Konsumsi hingga 50 [BloodDinner]; peroleh 1 [BloodScissor] untuk setiap 10 [BloodDinner] yang dikonsumsi\n[WhenUse] Jika unit ini failed to konsumsi [BloodDinner] dengan Skill ini, peroleh 5 [Laceration] dan 1 [HardenedBlood].\n[WhenUse] Jika target memiliki 5+ [Laceration], Coin Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015404,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Don't Rush Me",
+                    "desc": "[WhenUse] Jika target memiliki 5+ [Laceration], Coin Power +1\n[WhenUse] Clash Power +1 untuk setiap [BloodScissor] (maks 3)\nBeri +7% damage untuk setiap [HardenedBlood] (maks 35%)\n[EndSkill] Konsumsi semua [HardenedBlood]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 8 [Laceration]"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Konsumsi hingga 5 [BloodScissor] dan beri +(20 * yang dikonsumsi [BloodScissor])% damage (maks 100%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Pulihkan ([Laceration] Potency pada target)% HP (maks 30%)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015405,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Counter",
+                    "desc": "[WhenUse] Pada 1+ [BloodScissor], Base Power +1\n[WhenUse] Pada 3+ [HardenedBlood], Coin Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015501,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "More, More!",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015502,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "I'll Have Some More",
+                    "desc": "[WhenUse] Jika target memiliki 4+ [Laceration], beri +10% damage",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Jika target memiliki 5+ [Laceration], peroleh 1 [HardenedBlood]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015503,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "What Heavenly Taste!",
+                    "desc": "[WhenUse] Konsumsi hingga 50 [BloodDinner]; peroleh 1 [BloodScissor] untuk setiap 10 [BloodDinner] yang dikonsumsi\n[WhenUse] Jika unit ini failed to konsumsi [BloodDinner] dengan Skill ini, peroleh 5 [Laceration] dan 1 [HardenedBlood].\n[WhenUse] Jika target memiliki 5+ [Laceration], Coin Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015504,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "You Rat Bastard!",
+                    "desc": "[WhenUse] Jika target memiliki 5+ [Laceration], Coin Power +1\n[WhenUse] Clash Power +1 untuk setiap [BloodScissor] (maks 3)\nBeri +7% damage untuk setiap [HardenedBlood] (maks 35%)\n[EndSkill] Konsumsi semua [HardenedBlood]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 8 [Laceration]"
+                                }
+                            ]
+                        },
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Konsumsi hingga 5 [BloodScissor] dan beri +(20 * yang dikonsumsi [BloodScissor])% damage (maks 100%)"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Pulihkan ([Laceration] Potency pada target)% HP (maks 30%)"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015505,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Counter",
+                    "desc": "[WhenUse] Pada 1+ [BloodScissor], Base Power +1\n[WhenUse] Pada 3+ [HardenedBlood], Coin Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hantam",
+                    "desc": "Jika target memiliki 5+ [Burst], beri +10% damage",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 [DefenseDown]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Crush Wounds",
+                    "desc": "Jika target memiliki 5+ [Burst], Base Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 [TakeHpHealReduce]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Jika target memiliki 5+ [Burst], beri 1 [TakeHpHealReduce] juga"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015603,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Wild Swinging",
+                    "desc": "[WhenUse] Jika target memiliki 10+ [Burst] Count: Skill ini tidak mengonsumsi target's [Burst] Count Saat Serang",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +1 [Burst] Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 [Vulnerable]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 4 [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Jika target memiliki 10+ [Burst], beri +30% damage"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015604,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hemostasis",
+                    "desc": "[WhenUse] Jika unit ini memiliki [Laceration], kehilangan 2 [Laceration] (tidak turun di bawah 1)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hantam",
+                    "desc": "Jika target memiliki 3+ [Burst] Count, beri +10% damage",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 [DefenseDown]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Crush Wounds",
+                    "desc": "Jika target memiliki 3+ [Burst] Count, Base Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +1 [Burst] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 [TakeHpHealReduce]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Jika target memiliki 5+ [Burst], beri 1 [TakeHpHealReduce] juga"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015703,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Wild Swinging",
+                    "desc": "[WhenUse] Jika target memiliki 10+ [Burst] Count: Skill ini tidak mengonsumsi target's [Burst] Count Saat Serang",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 [Vulnerable]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Jika target memiliki 10+ [Burst], beri +30% damage"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9015704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hemostasis",
+                    "desc": "[WhenUse] Jika unit ini memiliki [Laceration], kehilangan 2 [Laceration] (tidak turun di bawah 1)",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016001,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Plain Villainy",
+                    "desc": "[WhenUse] Peroleh 2 [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 [Paralysis]"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Beri +20% damage"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016002,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Bullying",
+                    "desc": "[WhenUse] Peroleh 2 [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 [Vulnerable]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 [DefenseDown]"
+                                },
+                                {
+                                    "desc": "[CriticalOnSucceedAttack] Jika target memiliki [TrulyWeak], beri +30% damage"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "\"Grrr...\"",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "\"Krrr...\"",
+                    "desc": "Jika target memiliki 5+ [Laceration], beri +10% damage",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Listen, you sod. It's— \"Grrrr.\"",
+                    "desc": "Jika target memiliki 5+ [Laceration], Coin Power +1",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 [Vulnerable]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "...",
+                    "desc": "[WhenUse] Peroleh 1 [Protection]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9016105,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Oi, can we stop now?",
+                    "desc": "[WhenUse] Peroleh 1 [Enhancement] giliran berikutnya",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

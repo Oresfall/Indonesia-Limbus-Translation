@@ -1,0 +1,88 @@
+{
+    "dataList": [
+        {
+            "id": 9013601,
+            "name": "ies...",
+            "desc": "Akhir Giliran: jika Staggered, pulih dari Staggered dan pulihkan 20 SP. Peroleh 1 Level Offense Up giliran berikutnya. (one time maks)",
+            "summary": ""
+        },
+        {
+            "id": 9013602,
+            "name": "Yo...",
+            "desc": "Akhir Giliran: jika unit ini pulih dari Panik, peroleh 1 Attack Power Up giliran berikutnya",
+            "summary": ""
+        },
+        {
+            "id": 9013603,
+            "name": "ool...",
+            "desc": "Jika Speed Unit ini lebih cepat daripada target, Clash Power +2",
+            "summary": ""
+        },
+        {
+            "id": 9013604,
+            "name": "oice...!",
+            "desc": "Pulihkan 10 SP ketika Coin dari Attack Skill mendarat di sisi Kepala",
+            "summary": ""
+        },
+        {
+            "id": 9013606,
+            "name": "Threa...",
+            "desc": "Di dalam Clash, Clash Power -1; terima 10 HP damage pada diri sendiri with each Clash (efek ini does not reduce unit ini's HP to 0)",
+            "summary": ""
+        },
+        {
+            "id": 9013607,
+            "name": "Opp... tta",
+            "desc": "Saat Kalah Clash, peroleh 3 Level Offense Up. (Sekali per giliran)",
+            "summary": ""
+        },
+        {
+            "id": 9013701,
+            "name": "Bod... ...st",
+            "desc": "Akhir Giliran: jika SP unit ini berada pada -10 atau kurang, peroleh 3 Level Offense Up giliran berikutnya.",
+            "summary": ""
+        },
+        {
+            "id": 9013804,
+            "name": "Tou...",
+            "desc": "Pulihkan 10 SP ketika Coin dari Attack Skill mendarat di sisi Kepala",
+            "summary": ""
+        },
+        {
+            "id": 9013801,
+            "name": "Hou...",
+            "desc": "Saat menggunakan Attack Skill, jika HP target dibawah 70, peroleh Base Power +1 dan beri +20% damage",
+            "summary": ""
+        },
+        {
+            "id": 9013802,
+            "name": "...erding",
+            "desc": "Ketika menggunakan Skill, jika Speed Unit ini lebih cepat daripada target, peroleh Clash Power +2 dan beri +20% damage",
+            "summary": ""
+        },
+        {
+            "id": 817001,
+            "name": "...rity",
+            "desc": "Saat kurang dari 65% HP: peroleh 1 [AttackUp] dan 1 [TakeHpHealIncrease] saat Menang Clash\nPada kurang dari 40% HP: peroleh 1 [AttackUp] dan 1 [TakeHpHealIncrease] Saat Digunakan\nEfek ini bertahan bahkan ketika kondisi sudah tidak tercapai, asalkan sudah pernah diaktifkan setidaknya sekali.",
+            "summary": ""
+        },
+        {
+            "id": 817002,
+            "name": "Dir...",
+            "desc": "Setelah pertama kali pulih dari Stagger, dan setelah Menang Clash, beri 10% dari damage yang diberikan Saat Menyerang sebagai Wrath bonus damage.",
+            "summary": ""
+        },
+        {
+            "id": 817003,
+            "name": "Pred...",
+            "desc": "Saat membunuh, pulihkan 200 HP for Core dan Part.\nPeroleh 1 [Agility], 3 [DefenseUp], dan 2 [AttackUp] giliran berikutnya.",
+            "summary": ""
+        },
+        {
+            "id": 817004,
+            "name": "...ked",
+            "desc": "Prioritaskan target dengan [AaCfPbBe]",
+            "summary": ""
+        }
+    ]
+}

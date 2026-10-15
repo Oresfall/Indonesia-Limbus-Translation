@@ -1,0 +1,141 @@
+{
+  "dataList": [
+    {
+      "id": "ObjectOfExploration",
+      "name": "Curio",
+      "desc": "Ketika certain conditions are fulfilled, gantikan efek ini dengan 'Art Medium'",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Inspire",
+      "name": "Spark of Inspiration",
+      "desc": "Beri +10% damage terhadap target dengan Art Medium",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PaintingMaterial",
+      "name": "Art Medium",
+      "desc": "Jika unit ini memiliki Bleed (dalam Pertempuran Terfokus, count Bleed on setiap Bagian separately), terima +10% damage dari Lust Skill",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "GreatAesthetics",
+      "name": "Exquisite Aesthetics",
+      "desc": "- Plus Coin Skill peroleh Coin Power +1\n- Minus Coin Skill peroleh Base Power +(4 / # dari Coin)\n- Beri +30% damage dengan Skill",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "GiftCannon",
+      "name": "Firepower",
+      "desc": "- Stack Maks: 10\n- Beri +10% damage untuk setiap Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "GiftGlass",
+      "name": "Delicateness",
+      "desc": "- Stack Maks: 10\n- Terima +10% damage untuk setiap Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BlandishmentShinEnemyDelete",
+      "name": "Shin (心) - ???",
+      "desc": "- Min & Maks Speed +1\n- Level Offense +2, Defense Level +2\n- Peroleh +1 lebih Potency Poise dan Poise Count dari Skill\n- Beri +(persentase HP yang hilang + 25)% damage (maks 100%)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "EnhanceRoseSign",
+      "name": "Bridle",
+      "desc": "- Semua kawan peroleh ((Lantai saat ini - 4) x 10)% maks HP (maks 60%)\n- Semua kawan peroleh Level Offense +(Lantai saat ini - 4) (maks 5)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LookingFutureMirror",
+      "name": "Prekognisi Sekilas",
+      "desc": "- Stack Maks: 5\n\n- Clash Power +2 untuk setiap Stack\n- Untuk setiap 2 Stack:\n  - Plus Coin Skill peroleh Coin Power +1\n  - Minus Coin Skill peroleh Final Power +2\n- Kadaluarsa pada Akhir Skill",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MiddleFatherGutsMirror",
+      "name": "Ketabahan Gila",
+      "desc": "- Terima -(50 + persentase HP yang hilang)% damage dari Skill (dibulatkan ke bawah)\n\n- Saat Menang Clash, pulihkan (Clash Count x 5) lebih SP (maks 15)\n\n- Akhir Giliran: Jika unit ini kehilangan SP giliran ini karena efek Skillnya, peroleh 3 Damage Up giliran berikutnya",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Gua ga butuh hal bodoh kayak \"Shin (心)\" crap. Cuma perlu kerahkan semua tenaga dari tato ini dan menggertakkan gigiku , dan Gua bakal ngalahin trik murahanmu tanpa masalah.\""
+    },
+    {
+      "id": "FutureEyeOnMirror",
+      "name": "Mata Prekognisi",
+      "desc": "- Stack Maks: 30\n- Clash Power +2\n- Awal Giliran: Peroleh 5 Stack",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Mata itu tidak memiliki kekuatan supernatural yang melihat masa depan yang ditakdirkan kepada penggunanya. Mata itu lebih mirip perangkat komputasi yang menganalisis segala sesuatu yang dilihatnya dan memberikan skenario paling mungkin terjadi dalam waktu dekat.\""
+    },
+    {
+      "id": "FutureEyeOffMirror",
+      "name": "Mata Prekognisi - Kepanasan",
+      "desc": "- Stack Maks: 30\n- Skill Attack beri -20% damage\n- Ubah semua Coin pada Skill yang menggunakan Amunisi Percepatan menjadi Unbreakable Coin\n- Awal Giliran: Peroleh 10 Stack\n- Pada 30 Stack, ubah menjadi \"Mata Prekognisi\"",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TeachersPreyMirror",
+      "name": "Target Permainan",
+      "desc": "Ubah Speed unit ini menjadi 1; menjadi target utama dari Skill Attack \"Pemusnahan\" digunakan oleh \"Nursefather Thumb - Valencina\"",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Mangsa yang ditandai Famiglia Bognatelli akan diburu tanpa terkecuali."
+    },
+    {
+      "id": "ObservationTheRingsHidden",
+      "name": "Melihat Tableau",
+      "desc": "- Base Level Offense -20\n- Base Defense Level -20\n- Awal Giliran: Terima -70% final damage jika Murid The Ring belum mundur dari Pertempuran ini (dibulatkan ke bawah; no min. value)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Mengapresiasi karya seni di galeri membutuhkan perenungan yang tenang. Ingatlah—ketidaksabaran akan mengurangi apresiasi terhadap seni.\""
+    },
+    {
+      "id": "MD7Limit101",
+      "name": "Redistribusi Kekuatan",
+      "desc": "Ketika musuh terbunuh, beri 3 Level Offense Up untuk semua kawannya pada Awal Giliran berikutnya (3 kali per giliran; awal dari gelombang baru juga termasuk sebagai Awal Giliran)"
+    },
+    {
+      "id": "MD7Limit111",
+      "name": "Psychological Elation",
+      "desc": "Awal Giliran: Pulihkan 20 SP untuk semua musuh\n- (musuh hanya memiliki Skill Coin Negatif kehilangan 15 SP saja)"
+    },
+    {
+      "id": "MD7Limit121",
+      "name": "Generasi Perisai",
+      "desc": "Beri 3000 Perisai pada semua musuh\n(In Pertempuran Terfokus, memberi hanya ke \"Inti\"; Perisai diperoleh oleh efek ini tidak dapat kadaluarsa pada Akhir Giliran)"
+    },
+    {
+      "id": "MD7Limit131",
+      "name": "Fracture Proliferation",
+      "desc": "Enemy Skill beri x2 Burn, Bleed, Tremor, Rupture, dan Sinking"
+    },
+    {
+      "id": "MD7Limit141",
+      "name": "Status Infliction",
+      "desc": "Awal Giliran: Beri 5 Potency dari status acak, dipilih dari Burn, Bleed, Tremor, Rupture, dan Sinking, pada semua kawan(Identitas)"
+    },
+    {
+      "id": "RingFingerPhysical",
+      "name": "Beauty of the Physique",
+      "desc": "- Terhadap musuh yang memiliki 20+ Bleed, Base Skill peroleh Coin Power +1 dan beri +20% damage (dihitung sebagai jumlah dari Bleed pada semua target untuk Skill yang memiliki 2+ Atk Weight)\n- Base Skill yang konsumsi 'Charge Unik' peroleh Coin Power +1 (mengecualikan E.G.O Skill)\n- Akhir Giliran: Efek ini kadaluarsa"
+    },
+    {
+      "id": "RingFingerFauvism",
+      "name": "Charm of the Beastly",
+      "desc": "- Terhadap musuh yang memiliki 20+ Bleed, Base Skill peroleh Coin Power +1 dan beri +20% damage (dihitung sebagai jumlah dari Bleed pada semua target untuk Skill yang memiliki 2+ Atk Weight)\n- Pada Awal Serangan, jika target memiliki 15- SP atau 20+ Sinking Potency, peroleh 1 Blunt Power Up giliran berikutnya (sekali per giliran)\n- Akhir Giliran: Efek ini kadaluarsa"
+    }
+  ]
+}

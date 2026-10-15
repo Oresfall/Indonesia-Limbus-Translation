@@ -1,0 +1,747 @@
+{
+  "dataList": [
+    {
+      "id": 815901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cengkraman",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Vibration] dan +2 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 2 [Binding] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tumpukan Batu",
+          "desc": "[WhenUse] Jika target memiliki 5+ [Vibration], Clash Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Paralysis] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 8 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [AttackDown] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tekanan Penuh Kemalasan",
+          "desc": "[WhenUse] Jika Speed Unit ini lebih cepat daripada target, Clash Power +1 untuk tiap perbedaan Speed (maks 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [AttackDown] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 815904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bertahan",
+          "desc": "[WhenUse] Peroleh 3 [Protection]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Aniaya",
+          "desc": "Saat Attack Skill ini mengenai target, peroleh [TakeHpHealIncrease] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lahap",
+          "desc": "[WhenUse] Jika target memiliki [Burst], Base Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Core dan Part memperoleh 3 HP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Core dan Part memperoleh 3 HP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Core dan Part memperoleh 3 HP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Core dan Part memperoleh 3 HP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lahapan Rakus",
+          "desc": "[WhenUse] Jika target memiliki 5+ [Burst], beri 2 [DefenseDown]\nPeroleh +1 Base Power untuk setiap [TakeHpHealIncrease] value pada diri sendiri (maks 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Core dan Part memperoleh 5 HP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Core dan Part memperoleh 5 HP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Core dan Part memperoleh 5 HP"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Core dan Part memperoleh 5 HP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Serangan Balik",
+          "desc": "Saat kurang dari 50% Core HP, Core dan Part dipulihkan pada Serangan Coin",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst] dan +2 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst] dan +2 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pukulan Tongkat",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Smackdown",
+          "desc": "[WinDuel] Peroleh 1 [Enhancement] dan 1 [AttackDmgUp] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [Laceration] setara dengan [Burst] pada target"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pergolakan",
+          "desc": "Jika target memiliki 5+ [Burst], Clash Power +1\nJika target memiliki 5+ [Laceration], Clash Power +1\n[WinDuel] Beri +3 [Burst] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Coin berikutnya memiliki +1 Power"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Coin berikutnya memiliki +2 Power"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Paralysis] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 8 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Waktunya Bertobat",
+          "desc": "[CantChangeTarget]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration] Count dan 3 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration] dan 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration] dan 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [Enhancement] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kamu Harus Menderita!",
+          "desc": "[CantChangeTarget]\n[WinDuel] Beri 3 [Burst] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Coin berikutnya memiliki +1 Power"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Coin berikutnya memiliki +2 Power"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 8 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816406,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bertahan",
+          "desc": "[WhenUse] Peroleh 1 [Enhancement] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816407,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Serangan Balik",
+          "desc": "[WhenUse] Peroleh 1 [Enhancement] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Akan Kusingkirkan Dirimu",
+          "desc": "Core dan Part memulihkan sebanyak 10% dari damage yang diberikan oleh Attack Skill",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [AttackUp]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [AttackUp]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Peroleh 1 [Agility] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bajingan!",
+          "desc": "Jika Speed Unit ini lebih cepat daripada target Clash Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration] dan +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration] dan +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika Speed Unit ini lebih cepat daripada target sebanyak 3 atau lebih, gunakan ulang Coin (sekali)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ini Rumahku!",
+          "desc": "Prioritaskan target dengan HP paling sedikit\n[WhenUse] Jika target memiliki kurang dari 70% HP, Clash Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [Agility] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vulnerable]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration] dan +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration] dan +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 20+ [Laceration], beri +100% damage"
+                },
+                {
+                  "desc": "[EnemyKill] Gunakan ulang Skill ini (maks 1 kali)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "K-Kamu...!",
+          "desc": "Memprioritaskan Heathcliff\n[WhenUse] Jika targetnya adalah musuh dengan Speed paling lambat, Base Power +3\n[WhenUse] Beri [AaCfPbBe], 2 [Vulnerable], 3 [Paralysis], dan 5 [Binding] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [AttackUp] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [AttackUp] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kembalikan...!!",
+          "desc": "[CantDuel]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Peroleh 2 [AttackUp] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Peroleh 2 [AttackUp] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Peroleh 2 [AttackUp] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 10+ [Laceration], beri 30% damage yang diberikan sebagai Blunt damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 5+ [Laceration], pulihkan by 50% dari damage yang diberikan"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dasar Kau...",
+          "desc": "Prioritaskan target dengan [AaCfPbBe]\nJika Speed unit ini lebih cepat daripada target sebanyak 3 atau lebih, gunakan ulang Skill ini (maks 1 kali)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan Core dan Part sebanyak 50% dari damage yang diberikan"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan Core dan Part sebanyak 50% dari damage yang diberikan"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816507,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bertahan",
+          "desc": "Jika unit ini memiliki sisa Perisai HP pada Akhir Giliran, peroleh 4 [Protection] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816508,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Menghindar",
+          "desc": "[OnSucceedEvade] Beri 1 [Binding] giliran berikutnya (maks 2 kali)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 816509,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ini Tempatku!",
+          "desc": "Jika Speed Unit ini lebih cepat daripada target, Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 10+ [Laceration], beri 30% damage yang diberikan sebagai Blunt damage"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 10+ [Laceration], beri 30% damage yang diberikan sebagai Blunt damage"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 10+ [Laceration], beri 30% damage yang diberikan sebagai Blunt damage"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 10+ [Laceration], beri 30% damage yang diberikan sebagai Blunt damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 10+ [Laceration], pulihkan by 70% dari damage yang diberikan"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

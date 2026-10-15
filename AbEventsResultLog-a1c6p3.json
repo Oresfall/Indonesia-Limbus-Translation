@@ -1,0 +1,100 @@
+{
+  "dataList": [
+    {
+      "id": "816601_success_1",
+      "content": "<color=#ebcaa2>[{0}]</color> memperoleh %{2} [{1}]/%"
+    },
+    {
+      "id": "816601_success_2",
+      "content": "<color=#ebcaa2>[{0}]</color> memperoleh %{2} [{1}]/% giliran berikutnya"
+    },
+    {
+      "id": "816601_failure_1",
+      "content": "<color=#ebcaa2>[{0}]</color> memperoleh %{2} [{1}]/% giliran berikutnya"
+    },
+    {
+      "id": "816601_failure_2",
+      "content": "<color=#ebcaa2>[{0}]</color> menerima {1} SP damage"
+    },
+    {
+      "id": "816602_success_1",
+      "content": "<color=#ebcaa2>[{0}]</color> memperoleh %{2} [{1}]/%"
+    },
+    {
+      "id": "816602_success_2",
+      "content": "<color=#ebcaa2>[{0}]</color> memulihkan {1} HP dan {2} SP"
+    },
+    {
+      "id": "816602_failure_1",
+      "content": "<color=#ebcaa2>[{0}]</color> memulihkan {1} HP ke Core dan Part"
+    },
+    {
+      "id": "816602_failure_2",
+      "content": "<color=#ebcaa2>[{0}]</color> menerima {1} SP damage"
+    },
+    {
+      "id": "817101_log_1_1",
+      "content": "<color=#ebcaa2>[{0}]</color> memperoleh %{2} [{1}]/%"
+    },
+    {
+      "id": "817101_log_1_2",
+      "content": "<color=#ebcaa2>[{0}]</color> memperoleh %{2} [{1}]/% giliran berikutnya"
+    },
+    {
+      "id": "817302_success_1",
+      "content": "<color=#ebcaa2>Semua Sinners</color> memulihkan {0} SP"
+    },
+    {
+      "id": "817302_success_2",
+      "content": "<color=#ebcaa2>[{0}]</color> memperoleh %{2} {1}/% hingga Pertempuran berakhir"
+    },
+    {
+      "id": "817302_success_3",
+      "content": "<color=#ebcaa2>Semua Sinners memperoleh</color> %{1} {0}/% hingga Pertempuran berakhir"
+    },
+    {
+      "id": "817302_failure_1",
+      "content": "<color=#ebcaa2>[{0}]</color> memperoleh %{2} {1}/% hingga Pertempuran berakhir"
+    },
+    {
+      "id": "817302_failure_2",
+      "content": "<color=#ebcaa2>Semua Sinners memperoleh</color> {1} {0} hingga Pertempuran berakhir"
+    },
+    {
+      "id": "817304_success_1",
+      "content": "<color=#ebcaa2>[{0}]</color> memulihkan {1} SP"
+    },
+    {
+      "id": "817304_success_2",
+      "content": "[{0}] memperoleh %{3} {2}/% untuk {1} giliran"
+    },
+    {
+      "id": "817304_success_3",
+      "content": "Kedua tangan Every Catherine memperoleh %{2} {1}/% untuk {0} giliran"
+    },
+    {
+      "id": "817304_success_4",
+      "content": "Kedua tangan Every Catherine memperoleh %{2} {1}/% untuk {0} giliran"
+    },
+    {
+      "id": "817304_failure_2",
+      "content": "Kedua tangan Every Catherine memperoleh %{2} {1}/% untuk {0} giliran"
+    },
+    {
+      "id": "817304_failure_1",
+      "content": "[{0}] memperoleh %{3} {2}/% untuk {1} giliran"
+    },
+    {
+      "id": "817305_1",
+      "content": "[{0}] <color=#80c9ff>memulihkan semua SP</color>"
+    },
+    {
+      "id": "817305_2",
+      "content": "<color=#ebcaa2>Semua Sinners</color> <color=#80c9ff>memulihkan {0} SP.</color>"
+    },
+    {
+      "id": "817305_3",
+      "content": "{1} milik [{0}] berganti menjadi {2}"
+    }
+  ]
+}

@@ -1,0 +1,967 @@
+{
+  "dataList": [
+    {
+      "id": 128801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tidepiercer Lance",
+          "desc": "[WhenUse] Clash Power +1 untuk setiap 2 musuh dengan [ColdAirDOQ] (maks 2)\n[WhenUse] Final Power +1 untuk setiap [ColdAirDOQ] pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 128802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tidebreaker Lance",
+          "desc": "[WhenUse] Base Power +1 untuk setiap 2 musuh dengan [ColdAirDOQ] (maks 2)\n[WhenUse] Jika target utama memiliki [ColdAirDOQ], peroleh +1 Atk Weight\n[WhenUse] Final Power +1 untuk setiap [ColdAirDOQ] pada target utama (maks 2)\n[DefeatDuel] Beri -50% damage dan damage yang diberikan Skill ini tidak dapat Stagger target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Sinking]\n- Jika target memiliki [ColdAirDOQ], beri 1 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 3 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 128803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tide-Hunt",
+          "desc": "Prioritaskan target dengan [FreezingDOQ]\nBisa Clash dengan Skill ini tidak peduli dengan Speed\n[WhenUse] Ketika menyerang target dengan [FreezingDOQ], peroleh +2 Atk Weight\n[WhenUse] Coin Power +1 untuk setiap 2 musuh dengan [ColdAirDOQ] (maks 2)\n[DefeatDuel] Beri -50% damage dan damage yang diberikan Skill ini tidak dapat Stagger target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Peroleh 3 [AttackUp] (sekali per giliran)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[EnemyKill] Jika target memiliki [FreezingDOQ], pulihkan 20 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 128804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Slay the Ocean, Slay the Ocean!!",
+          "desc": "[CantDuel]\n[WhenUse] Beri +5% damage untuk setiap musuh dengan [ColdAirDOQ] (maks 30%)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Peroleh 3 [AttackUp] (sekali per giliran)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 10(1 + [ColdAirDOQ] pada target) bonus Gloom damage"
+                },
+                {
+                  "desc": "[EnemyKill] Jika target memiliki [FreezingDOQ], pulihkan 20 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 128805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Slay the Ocean, Slay the Ocean!!",
+          "desc": "Prioritaskan target dengan [FreezingDOQ]\nBisa Clash dengan Skill ini tidak peduli dengan Speed\n[WhenUse] Beri +5% damage untuk setiap musuh dengan [ColdAirDOQ] (maks 30%)\n[WhenUse] Coin Power +1 untuk setiap 2 musuh dengan [ColdAirDOQ] (maks 3)\n[DefeatDuel] Beri -80% damage dan damage yang diberikan Skill ini tidak dapat Stagger target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 5 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri +1 Count [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Peroleh 3 [AttackUp] (sekali per giliran)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 10(1 + [ColdAirDOQ] pada target) bonus Gloom damage"
+                },
+                {
+                  "desc": "[EnemyKill] Jika target memiliki [FreezingDOQ], pulihkan 20 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 128806,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The Indomitable Knight",
+          "desc": "[CanDuelGuard]\n[WhenUse] Peroleh 2 [Agility] giliran berikutnya (sekali per giliran)\n[WinDuel] Pulihkan 15 SP\n[DefeatDuel] Kehilangan 10 SP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 128901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cell Injection",
+          "desc": "[OnDirectAttack] Coin Power +2 untuk Skill ini",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 5 [NervousImpairment]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 1 [SeaTerrorCell]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 128902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ripping Slice",
+          "desc": "Final Power +1 untuk setiap 6 [Sinking] pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Binding] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 128903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Swinging Slice",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 1 [Binding] pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 128904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Multiple Jabs",
+          "desc": "Final Power +1 untuk setiap 6 [Sinking] pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri Gloom damage setara dengan [NervousImpairment] pada target"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 129101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "United Will",
+          "desc": "Coin Power +1 untuk setiap 6 [Sinking] pada target (maks 2)\n[StartBattle] Beri 2 [Agility] giliran berikutnya to the allied Cultist of the Deep dengan Speed paling lambat",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [NervousImpairment]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Binding] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 129102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Propagating Bliss",
+          "desc": "Coin Power +1 untuk setiap 6 [Sinking] pada target (maks 2)\n[StartBattle] Beri 2 [Enhancement] giliran berikutnya to the allied Cultist of the Deep dengan Speed tercepat",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 129103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rite of Liberation",
+          "desc": "Coin Power +1 untuk setiap 6 [Sinking] pada target (maks 2)\n[WhenUse] Jika target memiliki [Binding], Final Power +2\n[WinDuel] Beri 6 [Sinking]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Binding] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [NervousImpairment]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 129104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Environmental Adaptasi",
+          "desc": "Final Power +1 untuk setiap 6 [Sinking] pada target (maks 2)\n[StartBattle] Peroleh 50 Perisai\n[EndBattle] Jika unit ini memiliki remaining Perisai, peroleh 2 [Enhancement] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 129105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Untuk the Landbound Kins",
+          "desc": "[WhenUse] Jika [NetherseaBrandUnit] diaktifkan here, Final Power +3\n- Peroleh tambahan 1 Final Power untuk setiap 1 Stage of [NetherseaBrandUnit]\n\n[WhenUse] Coin Power +1 untuk setiap 6 [Sinking] pada target utama (maks 2)\nPada Tingkat 2 atau lebih tinggi [NetherseaBrandUnit], beri +1 lebih [NervousImpairment] dengan Skill ini",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [NervousImpairment]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 1 [SeaTerrorCell]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [NervousImpairment]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 1 [SeaTerrorCell]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [NervousImpairment]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 1 [SeaTerrorCell]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 129701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The Impatient Ego's Byway",
+          "desc": "[CantDuel]\nSkill ini tidak memberi damage terhadap target\n[EndSkill] Peroleh 100 [AbyssalVitality]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 129702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Echoes of Respite",
+          "desc": "[CantIdentify]\nPrioritaskan kawan; di antara them, prioritaskan kawan dengan HP terendah\nKetika targeting kawan, beri 0 damage\nClash Power +1 untuk setiap 3 [Sinking] pada target (maks 4)\n[StartBattle] Ketika targeting kawan, pulihkan (20% dari maks HP target) HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ketika targeting kawan, beri 1 [DefenseUp] giliran ini dan giliran berikutnya untuk setiap 4 [AbyssalVitality] yang dikonsumsi to summon target (maks 5)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ketika targeting musuh, beri 3 [Sinking] dan 2 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 129703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Echoes of Ascending",
+          "desc": "[CantIdentify]\nPrioritize kawan dengan the most current HP\nKetika targeting kawan, beri 0 damage\nClash Power +1 untuk setiap 3 [Sinking] pada target (maks 4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ketika targeting kawan, beri 1 [AttackUp] giliran ini dan giliran berikutnya untuk setiap 4 [AbyssalVitality] yang dikonsumsi to summon target (maks 5)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ketika targeting musuh, beri 3 [Sinking] dan 2 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 129704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cyclical Ecosystem",
+          "desc": "[CanDuelGuard]\n[EndBattle] Konsumsi [AbyssalVitality] untuk setiap kawan yang bertahan hidup; however, beri (# of giliran target survived) [AttackDmgUp] giliran berikutnya ke semua kawan (maks 3)\n- [DefeatDuel] Tidak beri [AttackDmgUp] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 129705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "With Deep Blue Charity.",
+          "desc": "[CantIdentify]\nBase Power +1 untuk setiap 3 [NervousImpairment] pada target utama (maks 9)\nKetika targeting kawan, beri 0 damage\nBisa Clash dengan Skill ini tidak peduli dengan Speed\n\n[DefeatDuel]\n- Peroleh 3 [ResultReduction] dan 3 [Paralysis]\n- Beri -80% damage, dan damage yang diberikan Skill ini tidak dapat Stagger target\n- Setengahkan jumlah dari [NervousImpairment] diberikan oleh Skill ini, dan tidak memberi [Sinking] atau Count [Sinking]\n- Setengahkan jumlah dari [AbyssalVitality] diperoleh dari Skill ini\n[EndSkill] Peroleh 100 [AbyssalVitality]\n[EndBattle] Pada awal dari giliran berikutnya, hasilkan [NetherseaBrandUnit] in kawan territory",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ketika targeting kawan, pulihkan 10% of their maks HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ketika targeting musuh, beri 2 [NervousImpairment]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ketika targeting kawan, pulihkan 10% of their maks HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ketika targeting musuh, beri 2 [NervousImpairment]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ketika targeting kawan, pulihkan 10% of their maks HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ketika targeting musuh, beri 4 [Sinking], +4 Count [Sinking], dan 4 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 129706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tidal Arc",
+          "desc": "[WhenUse] Pada 50+ [AbyssalVitality], konsumsi 5 [AbyssalVitality] untuk beri +2 lebih [NervousImpairment] dengan Skill ini's efek\n[WhenUse] Untuk setiap 5 [NervousImpairment] pada target, konsumsi 1 [AbyssalVitality] untuk peroleh Clash Power +1 (maks 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [NervousImpairment]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 129707,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fierce Currents",
+          "desc": "[WhenUse] Pada 50+ [AbyssalVitality], konsumsi 4 [AbyssalVitality] untuk peroleh Coin Power +1\n[WhenUse] Untuk setiap 10 [NervousImpairment] pada target, konsumsi 3 [AbyssalVitality] untuk peroleh Coin Power +1 (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [NervousImpairment]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri +3 Count [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 129708,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Undulating Waves",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 3 [NervousImpairment] pada target utama (maks 9)\n[EndBattle] Konsumsi hingga 10 [AbyssalVitality] dan peroleh setengah dari yang dikonsumsi Stack as [AttackUp] giliran berikutnya (maks 5, rounded up)\n- [DefeatDuel] Tidak peroleh [AttackUp] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 3 [Sinking] dan +2 Count [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 129709,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Before the compassion they believe in kehilangan its worth.",
+          "desc": "Prioritaskan target dengan the most [NervousImpairment]\nBase Power +1 untuk setiap 3 [NervousImpairment] pada target utama (maks 9)\nBisa Clash dengan Skill ini tidak peduli dengan Speed\n\n[DefeatDuel]\n- Peroleh 3 [ResultReduction] dan 3 [Paralysis]\n- Beri -80% damage, dan damage yang diberikan Skill ini tidak dapat Stagger target\n- Setengahkan jumlah dari [NervousImpairment] diberikan oleh Skill ini, dan tidak memberi [Sinking] atau Count [Sinking]\n- Setengahkan jumlah dari [AbyssalVitality] dan Perisai diperoleh dari Skill ini\n[EndSkill]\n- Peroleh 100 [AbyssalVitality]\n- Peroleh Perisai setara dengan 20% dari HP maks unit ini\n- Ends giliran ini\n[EndBattle] Pada awal dari giliran berikutnya, hasilkan [NetherseaBrandUnit] in kawan territory",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [NervousImpairment]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri +4 Count [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [NervousImpairment]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 4 [Sinking] dan +4 Count [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "id": 130301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The Impatient Ego's Byway",
+          "desc": "[CantDuel]\nSkill ini tidak memberi damage terhadap target\n[EndSkill] Peroleh 100 [AbyssalVitality]",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 130302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Echoes of Respite",
+          "desc": "[CantIdentify]\nPrioritaskan kawan; di antara them, prioritaskan kawan dengan HP terendah\nKetika targeting kawan, beri 0 damage\nClash Power +1 untuk setiap 3 [Sinking] pada target (maks 4)\n[StartBattle] Ketika targeting kawan, pulihkan (20% dari maks HP target) HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ketika targeting kawan, beri 1 [DefenseUp] giliran ini dan giliran berikutnya untuk setiap 4 [AbyssalVitality] yang dikonsumsi to summon target (maks 5)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ketika targeting musuh, beri 3 [Sinking] dan 2 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 130303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Echoes of Ascending",
+          "desc": "[CantIdentify]\nPrioritize kawan dengan the most current HP\nKetika targeting kawan, beri 0 damage\nClash Power +1 untuk setiap 3 [Sinking] pada target (maks 4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Ketika targeting kawan, beri 1 [AttackUp] giliran ini dan giliran berikutnya untuk setiap 4 [AbyssalVitality] yang dikonsumsi to summon target (maks 5)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ketika targeting musuh, beri 3 [Sinking] dan 2 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 130304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cyclical Ecosystem",
+          "desc": "[CanDuelGuard]\n[EndBattle] Konsumsi [AbyssalVitality] untuk setiap kawan yang bertahan hidup; however, beri (# of giliran target survived) [AttackDmgUp] giliran berikutnya ke semua kawan (maks 3)\n- [DefeatDuel] Tidak beri [AttackDmgUp] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 130305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "With Deep Blue Charity.",
+          "desc": "[CantIdentify]\nBase Power +1 untuk setiap 3 [NervousImpairment] pada target utama (maks 9)\nKetika targeting kawan, beri 0 damage\nBisa Clash dengan Skill ini tidak peduli dengan Speed\n\n[DefeatDuel]\n- Peroleh 3 [ResultReduction] dan 3 [Paralysis]\n- Beri -80% damage, dan damage yang diberikan Skill ini tidak dapat Stagger target\n- Setengahkan jumlah dari [NervousImpairment] diberikan oleh Skill ini, dan tidak memberi [Sinking] atau Count [Sinking]\n- Setengahkan jumlah dari [AbyssalVitality] diperoleh dari Skill ini\n[EndSkill] Peroleh 100 [AbyssalVitality]\n[EndBattle] Pada awal dari giliran berikutnya, hasilkan [NetherseaBrandUnit] in kawan territory",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ketika targeting kawan, pulihkan 10% of their maks HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ketika targeting musuh, beri 2 [NervousImpairment]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ketika targeting kawan, pulihkan 10% of their maks HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ketika targeting musuh, beri 2 [NervousImpairment]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ketika targeting kawan, pulihkan 10% of their maks HP"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Ketika targeting musuh, beri 4 [Sinking], +4 Count [Sinking], dan 4 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 130306,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tidal Arc",
+          "desc": "[WhenUse] Pada 50+ [AbyssalVitality], konsumsi 5 [AbyssalVitality] untuk beri +2 lebih [NervousImpairment] dengan Skill ini's efek\n[WhenUse] Untuk setiap 10 [NervousImpairment] pada target, konsumsi 1 [AbyssalVitality] untuk peroleh Clash Power +1 (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [NervousImpairment]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 130307,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Fierce Currents",
+          "desc": "[WhenUse] Pada 50+ [AbyssalVitality], konsumsi 4 [AbyssalVitality] untuk peroleh Coin Power +1\n[WhenUse] Untuk setiap 10 [NervousImpairment] pada target, konsumsi 3 [AbyssalVitality] untuk peroleh Coin Power +1 (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [NervousImpairment]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri +3 Count [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 130308,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Undulating Waves",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 5 [NervousImpairment] pada target utama (maks 5)\n[EndBattle] Konsumsi hingga 10 [AbyssalVitality] dan peroleh setengah dari yang dikonsumsi Stack as [AttackUp] giliran berikutnya (maks 5, rounded up)\n- [DefeatDuel] Tidak peroleh [AttackUp] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 3 [Sinking] dan +2 Count [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [NervousImpairment]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

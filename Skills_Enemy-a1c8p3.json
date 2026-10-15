@@ -1,0 +1,442 @@
+{
+  "dataList": [
+    {
+      "id": 9021301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Burst Wounds",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Snag Wounds",
+          "desc": "[WhenUse] Jika target memiliki 2+ [Laceration], Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration] dan +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration] dan +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Flesh Melting",
+          "desc": "[WhenUse] Jika target memiliki 3+ [Laceration], Clash Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [Agility] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Casting Shade",
+          "desc": "[WhenUse] Beri 1 [Paralysis]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tear Up Wound",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Skim Wounds",
+          "desc": "[WhenUse] Jika target memiliki 2+ [Laceration], Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration] dan +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration] dan +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Flesh Tearing",
+          "desc": "[WhenUse] Jika target memiliki 3+ [Laceration], Clash Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [Agility] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Casting Shade",
+          "desc": "[WhenUse] Beri 1 [Paralysis]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Concussive Stab",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 7 ([Combustion] + [Vibration]) pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Vibration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Burning Stab",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 7 ([Combustion] + [Vibration]) pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Combustion] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Propulsion Slice",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 7 ([Combustion] + [Vibration]) pada target (maks 2)\n[DefeatDuel] Beri -75% damage dan damage yang diberikan Skill ini tidak dapat Stagger target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Habiskan 1 [BudgetBulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Combustion]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Aktifkan [Switch_Vibration] menjadi [VibrationIgnition]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Habiskan 1 [BudgetBulletPropellant]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi [Vibration] Count target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Propellant Ammo Reload",
+          "desc": "[StartBattle] [FullReload] (sekali per giliran)\n[WhenUse] Jika target memiliki 6+ ([Combustion] + [Vibration]), Coin Power +3\n[WhenUse] Peroleh 1 [AttackDmgUp] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Concussive Penetration",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 7 ([Combustion] + [Vibration]) pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Vibration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Burning Penetration",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 7 ([Combustion] + [Vibration]) pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Combustion] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Propulsion Cleave",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 7 ([Combustion] + [Vibration]) pada target (maks 2)\n[DefeatDuel] Beri -75% damage dan damage yang diberikan Skill ini tidak dapat Stagger target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Habiskan 1 [BudgetBulletPropellant]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration] dan +2 [Vibration] Count,"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Combustion] dan +2 [Combustion] Count"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Aktifkan [Switch_Vibration] menjadi [VibrationIgnition]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Habiskan 1 [BudgetBulletPropellant]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi [Vibration] Count target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9021804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Propellant Ammo Reload",
+          "desc": "[StartBattle] [FullReload] (sekali per giliran)\n[WhenUse] Jika target memiliki 6+ ([Combustion] + [Vibration]), Coin Power +3\n[WhenUse] Peroleh 1 [AttackDmgUp] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

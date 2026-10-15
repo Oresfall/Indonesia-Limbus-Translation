@@ -1,0 +1,44 @@
+{
+  "dataList": [
+    {
+      "id": 9017801,
+      "name": "Puffy Brume",
+      "desc": "Instead of menerima damage lebih karena [Smoke] pada diri sendiri, beri damage lebih."
+    },
+    {
+      "id": 9017802,
+      "name": "Internal Combustion Engine",
+      "desc": "Ketika memperoleh [Smoke], peroleh 1 tambahan [Smoke]"
+    },
+    {
+      "id": 9017803,
+      "name": "Meat Gear",
+      "desc": "The first Coin to connect in an Pertempuran beri +10% damage"
+    },
+    {
+      "id": 9017804,
+      "name": "Thought Gear",
+      "desc": "Saat Menggunakan Skill Menghindar: Base Power +1"
+    },
+    {
+      "id": 9017805,
+      "name": "Internal Combustion Engine Malfunction",
+      "desc": "Ketika Stagger, kehilangan semua [Smoke] pada diri sendiri"
+    },
+    {
+      "id": 9018001,
+      "name": "Meat Gear: Perkuat",
+      "desc": "Jika terdapat other kawan yang hidup, beri 1 [ParryingResultUp] dan 2 [AttackDmgUp] ke semua kawan (2 kali untuk setiap kawan)\nJika ther eare no other kawan yang hidup, peroleh 8 [Smoke] pada Awal Giliran"
+    },
+    {
+      "id": 9018002,
+      "name": "Thought Gear: Delay",
+      "desc": "Jika unit ini is alive, no musuh are generated pada Akhir Giliran."
+    },
+    {
+      "id": 9018003,
+      "name": "Thought Gear: Risk",
+      "desc": "On Defensive Skill Use: Defensive Skill Base Power +1"
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "dataList": [
+    {
+      "id": "AaCfPcBe",
+      "name": "Deep Bereavement",
+      "desc": "Beri 5 SP damage saat Akhir Attack.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBf",
+      "name": "Fettered Woe",
+      "desc": "Dibawah kondisi tertentu, dan pada 3+ Value, seluruh Parts menjadi Staggered giliran berikutnya.\nHabis setelah memberikan 3 Fragile ke Chain Part",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBg",
+      "name": "Subject of Wrath",
+      "desc": "Menjadi target prioritas Heathcliff the Heartbroken.\nKetika Unit ini dikalahkan, efek ini berpindah ke Identity lain.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBb",
+      "name": "Butler's Mark",
+      "desc": "Digunakan untuk meningkatkan Atk Weight untuk beberapa Attack Skill",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBc",
+      "name": "Binding Technique",
+      "desc": "- Maks 3\n- Akhir Giliran: bertambah sebanyak 1\n- Akhir Giliran: peroleh Bind sebanding dengan Value dari efek ini.\n- Akhir Giliran: jika pada 3 Value, menjadi Staggered hingga akhir Pertempuran\nTidak dapat hilang",
+      "summary": "Peroleh Bind sebanding dengan Value giliran berikutnya\nJika pada 3 Value, menjadi Staggered hingga akhir Pertempuran",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBh",
+      "name": "Excruciating Rage",
+      "desc": "Jika penyerang memiliki Explosive Wrath, terima +100% damage",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBm",
+      "name": "Lightning of Suffering",
+      "desc": "- Menang Clash: Beri Breaking Heart dan beri 7 HP damage.\n- Kalah Clash atau Setelah Serangan Tanpa Lawan: Peroleh Breaking Heart dan terima 7 HP damage.\n- Berkurang 1 pada Akhir Skill",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBn",
+      "name": "Breaking Heart",
+      "desc": "- Every Sin Affinity Resistance is increased by (Value x 0.2)\n- Pada 3 Value, become Staggered.",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBp",
+      "name": "Courage to Approach",
+      "desc": "- Akhir Giliran: Heal 10 SP\n- Peroleh 3 Attack Power Up dan 5 Protection setiap giliran\n- Ketika diserang, pulihkan 5 SP. Peroleh 1 Offense Level Up giliran berikutnya. (3 kali per giliran)\n- Awal Giliran: Jika berada dibawah 0 SP, peroleh 3 Attack Power Up.\n- Selama ada 1 atau lebih kawan yang hidup di Pertarungan ini, HP Heathcliff tidak akan turun dibawah 1.\nKemampuan retreat unit ini tidak akan aktif selama durasi Pertarungan.",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBo",
+      "name": "Determination",
+      "desc": "- Akhir Giliran: Heal 10 SP\n- Ketika diserang, peroleh 1 Offense Level Up giliran berikutnya. (3 kali per giliran)\n- Awal Giliran: Jika berada dibawah 0 SP, peroleh 3 Attack Power Up.\n- Selama ada 1 atau lebih kawan yang hidup di Pertarungan ini, HP Heathcliff tidak akan turun dibawah 1.\nKemampuan retreat unit ini tidak akan aktif selama durasi Pertarungan.",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBq",
+      "name": "Broken Heart",
+      "desc": "- Maks Speed +2\n- Peroleh 3 Damage Up dan 3 Fragile setiap giliran\n- Jika target utama adalah Heathcliff, Attack Skill memperoleh Final Power +2\n- Kalah Clash terhadap Heathcliff: peroleh 3 Bind dan 3 Damage Down giliran berikutnya",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBr",
+      "name": "May She... Wake in Torment!",
+      "desc": "Clash Power -6 didalam Clash terhadap target dengan Lightning of Suffering",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBi",
+      "name": "Superthermogenesis",
+      "desc": "Akhir Giliran: Terima damage tetap berdasarkan Stack dan kehilangan efek ini",
+      "undefined": "-"
+    },
+    {
+      "id": "Unobservable",
+      "name": "Unobservable",
+      "desc": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPcBs",
+      "name": "Away With You",
+      "desc": "Perisai Tersisa",
+      "undefined": "-"
+    },
+    {
+      "id": "RageResonance",
+      "name": "Seized Wrath",
+      "desc": "Akhir Giliran: peroleh {0} Offense Level Up giliran berikutnya (efek semakin kuat di tiap giliran)",
+      "undefined": "-"
+    }
+  ]
+}

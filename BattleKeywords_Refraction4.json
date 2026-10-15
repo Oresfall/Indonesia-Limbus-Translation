@@ -1,0 +1,142 @@
+{
+  "dataList": [
+    {
+      "id": "UninvitedGuest",
+      "name": "Interloper",
+      "desc": "Ketika Identitas dengan Interloper dikalahkan, pindah ke a different Identitas tanpa Interloper.",
+      "summary": ""
+    },
+    {
+      "id": "ConnectedPlug",
+      "name": "Plugged In",
+      "desc": "Akhir Giliran:\n- Maks 3\n- Pada 3, menjadi Stagger giliran berikutnya.\n- Pada 3, konsumsi semua Charge pada diri sendiri.",
+      "summary": ""
+    },
+    {
+      "id": "AntiSheepGround",
+      "name": "Anti-Ovine Grounding Plug",
+      "desc": "- Maks 1\n- Ketika unit dibawah efek ini menang Clash terhadap the 'Grounding Refusal' Skill, beri 1 Plugged In terhadap target\n- Setengahkan Count Charge pada target\n- Kadaluarsa giliran berikutnya",
+      "summary": ""
+    },
+    {
+      "id": "ThundercloudFormation",
+      "name": "Gathering Lightning Cloud",
+      "desc": "- Maks 5\n- Pada 1 value, gunakan Skill kuat.\n- Berkurang sebanyak 1 pada Akhir Giliran. Peroleh 1 value ketika Stagger",
+      "summary": ""
+    },
+    {
+      "id": "BandageOfTheBoundKing",
+      "name": "Bandages of the King in Binds",
+      "desc": "Ketika dikalahkan, beri 2 Sinking Potency dan 1 Count terhadap semua musuh.\nBeri Bandages of the King in Binds terhadap target that dikalahkan unit ini. Jika target tersebut sudah has efek tersebut, atau jika target tersebut tidak dapat exist, beri it pada musuh acak tanpa efek tersebut",
+      "summary": ""
+    },
+    {
+      "id": "ComeForwardToTheKing",
+      "name": "Moment of Audience",
+      "desc": "Peroleh Atk Weight setara dengan nilainya untuk semua dari Skill Attack unit ini. (maks 2)\nClash Kehilangan: Peroleh 1 Fragile giliran berikutnya",
+      "summary": ""
+    },
+    {
+      "id": "RefractedWill",
+      "name": "Refracted Determination",
+      "desc": "Setengahkan jumlah dari SP lost ketika kawan dikalahkan as per the Identitas's 'Faktor Dasar pengurang Sanity(SP)'. (dibulatkan ke bawah)",
+      "summary": ""
+    },
+    {
+      "id": "VioletPeccatulumTwo",
+      "name": "Peccatulum Invidiae Class 2",
+      "desc": "- Damage Diberikan +15%\n- Damage Diterima -15%\n- Units dengan efek ini are marked sebanyak Peccatulum Invidiae - Class 2 aura",
+      "summary": ""
+    },
+    {
+      "id": "BigWelcome",
+      "name": "Grand Welcome",
+      "desc": "Akhir Serangan: Jika target kena Stagger atau dikalahkan, peroleh +1 Pride E.G.O resource dan +1 E.G.O resource untuk 1 other acak Affinity (3 kali per giliran)",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4A",
+      "name": "#1 Deployment Efek",
+      "desc": "Identitas Level +2",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4B",
+      "name": "#2 Deployment Efek",
+      "desc": "Efisiensi Pemulihan SP +3\nEntry SP +10",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4C",
+      "name": "#3 Deployment Efek",
+      "desc": "Offense Level +2",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4D",
+      "name": "#4 Deployment Efek",
+      "desc": "Defense Level +2",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4E",
+      "name": "#5 Deployment Efek",
+      "desc": "Maks Speed +2",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4F",
+      "name": "#6 Deployment Efek",
+      "desc": "Maks HP +5%",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4G",
+      "name": "#7 Deployment Efek",
+      "desc": "Clash Power +1\nEntry SP +15",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4H",
+      "name": "#8 Deployment Efek",
+      "desc": "Damage Diterima -10%\nEntry SP +15",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4I",
+      "name": "#9 Deployment Efek",
+      "desc": "Aggro +5\nEntry SP +20",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4J",
+      "name": "#10 Deployment Efek",
+      "desc": "Damage Diberikan +10%\nEntry SP +20",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4K",
+      "name": "#11 Deployment Efek",
+      "desc": "Final Power +1\nEntry SP +30",
+      "summary": ""
+    },
+    {
+      "id": "Refraction4L",
+      "name": "#12 Deployment Efek",
+      "desc": "Identitas Level +3\nEntry SP +30",
+      "summary": ""
+    },
+    {
+      "id": "BreathSupport",
+      "name": "Poised Showdown",
+      "desc": "Wave Start: Peroleh 4 Poise Potency dan Count.",
+      "summary": ""
+    },
+    {
+      "id": "FirmWill",
+      "name": "Resilient Determination",
+      "desc": "Tidak kehilangan SP upon kawan defeat.",
+      "summary": ""
+    }
+  ]
+}

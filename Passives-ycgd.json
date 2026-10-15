@@ -1,0 +1,29 @@
+{
+  "dataList": [
+    {
+      "id": 9011001,
+      "name": "Keen Strike",
+      "desc": "Saat Menyerang, beri 1 Bleed (3 kali per giliran)"
+    },
+    {
+      "id": 9011002,
+      "name": "Deep Slash",
+      "desc": "Menang Clash: beri +1 Bleed Count"
+    },
+    {
+      "id": 9011301,
+      "name": "Brutal Stab",
+      "desc": "Beri +1 lebih Bleed ketika Skill Attack memberi Bleed"
+    },
+    {
+      "id": 9101301,
+      "name": "Kokuuntō",
+      "desc": "Slash Skill Final Power +1"
+    },
+    {
+      "id": 9101302,
+      "name": "Clean Up",
+      "desc": "Ketika kawan dikalahkan, peroleh 1 Skill Slot giliran berikutnya (Bisa have hingga 5 Slots maks)"
+    }
+  ]
+}

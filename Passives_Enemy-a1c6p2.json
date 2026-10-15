@@ -1,0 +1,94 @@
+{
+    "dataList": [
+        {
+            "id": 9012801,
+            "name": "Aturan Longgar Dipatuhi",
+            "desc": "Di dalam Clash, Clash Power -1",
+            "summary": "Clash Power -1"
+        },
+        {
+            "id": 9012802,
+            "name": "Bloody Point",
+            "desc": "Pulihkan 2 SP pada diri sendiri Saat Menyerang terhadap target dengan [Laceration]",
+            "summary": "Pulihkan 2 SP pada diri sendiri"
+        },
+        {
+            "id": 9013001,
+            "name": "Reinforcements",
+            "desc": "Ketika kawan dikalahkan, peroleh 1 Slot giliran berikutnya (maks 2)",
+            "summary": ""
+        },
+        {
+            "id": 9013101,
+            "name": "Natural Style",
+            "desc": "Di dalam Clash, Clash Power +1",
+            "summary": "Clash Power +1"
+        },
+        {
+            "id": 9013102,
+            "name": "Sanguine Pointillism",
+            "desc": "Pulihkan 2 SP pada diri sendiri Saat Menyerang terhadap target dengan [Laceration]",
+            "summary": ""
+        },
+        {
+            "id": 9013301,
+            "name": "Reinforcements",
+            "desc": "Ketika kawan dikalahkan, peroleh 1 Slot giliran berikutnya (maks 2)",
+            "summary": ""
+        },
+        {
+            "id": 9013302,
+            "name": "A Single Point of Art",
+            "desc": "Menang Clash: semua kawan, termasuk unit ini, memulihkan 3 SP",
+            "summary": ""
+        },
+        {
+            "id": 9101501,
+            "name": "Body Augment - Phys. Boost",
+            "desc": "Akhir Giliran: jika SP unit ini berada pada -10 atau kurang, peroleh 3 [AttackUp] giliran berikutnya.",
+            "summary": ""
+        },
+        {
+            "id": 9101502,
+            "name": "Reinforcements",
+            "desc": "Ketika kawan dikalahkan, peroleh 1 Slot giliran berikutnya (maks 3)",
+            "summary": ""
+        },
+        {
+            "id": 9101503,
+            "name": "Body Augment - Cooldown",
+            "desc": "Ketika Panik, reset SP menjadi 0 pada Akhir Giliran.",
+            "summary": ""
+        },
+        {
+            "id": 9101504,
+            "name": "This Can't Be",
+            "desc": "Tiap kali kawan dikalahkan, peroleh 2 [AttackDown] dimulai giliran berikutnya.",
+            "summary": ""
+        },
+        {
+            "id": 9101505,
+            "name": "This Time, I Win...!",
+            "desc": "Jika unit ini menang setelah 5+ Clashes, beri +50% damage",
+            "summary": ""
+        },
+        {
+            "id": 9101604,
+            "name": "Useless Fools...",
+            "desc": "Jika musuh mengalahkan kawan, peroleh 1 [Enhancement] dan 1 [Agility] giliran berikutnya (3 kali per giliran)",
+            "summary": ""
+        },
+        {
+            "id": 9101605,
+            "name": "Spiked Bat",
+            "desc": "Saat Menyerang, beri bonus Pierce damage setara dengan 50% dari damage yang diberikan",
+            "summary": ""
+        },
+        {
+            "id": 9101601,
+            "name": "Boss Dead Rabbits?",
+            "desc": "Awal Giliran: beri 1 [Enhancement] ke 2 kawan lainnya dengan SP terendah\nUntuk Encounter ini, peroleh Slot tiap kali kawan dikalahkan",
+            "summary": ""
+        }
+    ]
+}

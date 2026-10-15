@@ -1,0 +1,1042 @@
+{
+  "dataList": [
+    {
+      "id": 2100411,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lantern",
+          "abName": "Faelantern",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 2 kawan with HP terendah Percentages sebanyak 10% dari Maks HP."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Lantern",
+          "abName": "Faelantern",
+          "desc": "[BeforeAttack] Pada 50%- HP, Atk Weight +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 2 kawan with HP terendah by 12% dari Maks HP."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Lantern",
+          "abName": "Faelantern",
+          "desc": "[BeforeAttack] Pada 50%- HP, Atk Weight +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 2 kawan with HP terendah by 15% dari Maks HP."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100421,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lantern",
+          "abName": "Faelantern",
+          "desc": "[CantIdentify] \nTarget the unit with the most HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan self by 30% of damage dealt"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Lantern",
+          "abName": "Faelantern",
+          "desc": "[CantIdentify]\nTarget the unit with the most HP\n[BeforeAttack] Pada 50%- HP, Atk Weight +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Beri +3 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [DefenseDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan self by 50% of damage dealt"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Lantern",
+          "abName": "Faelantern",
+          "desc": "[CantIdentify]\nTarget the unit with the most HP\n[BeforeAttack] Pada 50%- HP, Atk Weight +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [DefenseDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan self by 50% of damage dealt"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100511,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "9:2",
+          "abName": "Skin Prophet",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki no [Combustion], beri 4 Burn"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 Burn"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "9:2",
+          "abName": "Skin Prophet",
+          "desc": "[BeforeAttack] Pada 4+ (Lust Reson.), Atk Weight +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki no [Combustion], beri 4 Burn"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 Burn"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "9:2",
+          "abName": "Skin Prophet",
+          "desc": "[BeforeAttack] Pada 4+ (Lust Reson.), Atk Weight +1\n[BeforeAttack] Pada 4+ (Highest Lust A-Reson.), tambahan Atk Weight +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki no [Combustion], beri 4 Burn"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 Burn"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Jika target memiliki 10+ [Combustion], beri 1 Attack Power Down dan 1 Defense Power Down giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100521,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "9:2",
+          "abName": "Skin Prophet",
+          "desc": "[CantIdentify]\nTarget secara acak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki no [Combustion], beri 6 Burn"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 Burn"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "9:2",
+          "abName": "Skin Prophet",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Pada 4+ (Lust Reson.), Atk Weight +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki no [Combustion], beri 6 Burn"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 Burn"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Jika target memiliki 10+ [Combustion], beri 1 Lust Fragility giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "9:2",
+          "abName": "Skin Prophet",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Pada 4+ (Lust Reson.), Atk Weight +1\n[BeforeAttack] Pada 4+ (Highest Lust A-Reson), tambahan Atk Weight +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki no [Combustion], beri 6 Burn"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 Burn"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Jika target memiliki 10+ [Combustion], beri 2 Lust Fragility giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100611,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cavernous Wailing",
+          "abName": "Blubbering Toad",
+          "desc": "[BeforeAttack] Pada 4+ Reson. tertinggi, Atk Weight +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Beri 10% of unit ini's maks HP as Perisai pada diri sendiri dan 1 other kawan with the least current HP, dan beri 2 [ShieldManagerCryingToad] juga"
+                },
+                {
+                  "desc": "- Pada 4+ Reson. tertinggi, beri it to 1 lebih banyak kawan"
+                },
+                {
+                  "desc": "- Jika the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2"
+                },
+                {
+                  "desc": "- Pada 4+ highest Gloom A-Reson., Skill ini's above effects change to 'beri 3 [ShieldManagerCryingToad]' dan 'change the [ShieldManagerCryingToad] value to 3' saja."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Cavernous Wailing",
+          "abName": "Blubbering Toad",
+          "desc": "<style=\"highlight\">[BeforeAttack] Peroleh (Reson. tertinggi - 2) Atk Weight (maks 2)</style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Beri <style=\"highlight\">14%</style> of unit ini's maks HP as Perisai pada diri sendiri dan <style=\"highlight\">(1 + (Reson. tertinggi - 2))</style> kawan with the least current HP, dan beri 2 [ShieldManagerCryingToad] juga\n<style=\"highlight\">(maks # of other kawan yang memperoleh [ShieldManagerCryingToad]: 3)</style>"
+                },
+                {
+                  "desc": "- Jika the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Pada 4+ highest Gloom A-Reson., Skill ini's above effects change to 'beri 3 [ShieldManagerCryingToad]' dan 'change the [ShieldManagerCryingToad] value to 3' saja.<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Cavernous Wailing",
+          "abName": "Blubbering Toad",
+          "desc": "[BeforeAttack] Peroleh (Reson. tertinggi - 2) Atk Weight (maks 2)<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndSkill] Beri <style=\"highlight\">20%</style> of unit ini's maks HP as Perisai pada diri sendiri dan (1 + (Reson. tertinggi - 2)) kawan with the least current HP, dan beri 2 [ShieldManagerCryingToad] juga\n(maks # of other kawan yang memperoleh [ShieldManagerCryingToad]: 3)"
+                },
+                {
+                  "desc": "- Jika the affected unit already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Pada 4+ highest Gloom A-Reson., Skill ini's above effects change to 'beri 3 [ShieldManagerCryingToad]' dan 'change the [ShieldManagerCryingToad] value to 3' saja.<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100621,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cavernous Wailing",
+          "abName": "Blubbering Toad",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Pada 4+ Reson. tertinggi, Atk Weight +1\n[BeforeAttack] Peroleh +5 [Aggro] to Skill ini Slot giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Sinking]"
+                },
+                {
+                  "desc": "[EndSkill] Peroleh (15 + 2.5(Reson. tertinggi))% of unit ini's maks HP as Perisai pada diri sendiri dan peroleh 2 [ShieldManagerCryingToad]. (maks 25%)"
+                },
+                {
+                  "desc": "- Jika unit ini already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2"
+                },
+                {
+                  "desc": "- Pada 4+ highest Gloom A-Reson., Skill ini's above effects change to 'peroleh 3 [ShieldManagerCryingToad]' dan 'change the [ShieldManagerCryingToad] value to 3' saja."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Cavernous Wailing",
+          "abName": "Blubbering Toad",
+          "desc": "[CantIdentify]\nTarget secara acak\n<style=\"highlight\">[BeforeAttack] Peroleh (Reson. tertinggi - 2) Atk Weight (maks 2)</style>\n[BeforeAttack] Peroleh <style=\"highlight\">+10 [Aggro]</style> to Skill ini Slot giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Sinking]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[EndSkill] Peroleh (<style=\"highlight\">18</style> + <style=\"highlight\">3</style>(Reson. tertinggi))% of unit ini's maks HP as Perisai pada diri sendiri dan peroleh 2 [ShieldManagerCryingToad]. (maks <style=\"highlight\">30%</style>)"
+                },
+                {
+                  "desc": "- Jika unit ini already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Pada 4+ highest Gloom A-Reson., Skill ini's above effects change to 'beri 3 [ShieldManagerCryingToad]' dan 'change the [ShieldManagerCryingToad] value to 3' saja.<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Cavernous Wailing",
+          "abName": "Blubbering Toad",
+          "desc": "[CantIdentify]\nTarget secara acak\n[BeforeAttack] Peroleh (Reson. tertinggi - 2) Atk Weight (maks 2)\n[BeforeAttack] Peroleh +10 [Aggro] to Skill ini Slot giliran berikutnya<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Sinking] dan <style=\"highlight\">+3 Count [Sinking]</style>"
+                },
+                {
+                  "desc": "[EndSkill] Peroleh (<style=\"highlight\">20</style> + <style=\"highlight\">5</style>(Reson. tertinggi))% of unit ini's maks HP as Perisai pada diri sendiri dan peroleh 2 [ShieldManagerCryingToad]. (maks <style=\"highlight\">40%</style>)"
+                },
+                {
+                  "desc": "- Jika unit ini already has [ShieldManagerCryingToad], change the [ShieldManagerCryingToad] value to 2<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "- Pada 4+ highest Gloom A-Reson., Skill ini's above effects change to 'beri 3 [ShieldManagerCryingToad]' dan 'change the [ShieldManagerCryingToad] value to 3' saja.<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">- Pada 4+ Gloom Reson., peroleh tambahan Perisai setara dengan 10% of unit ini's maks HP</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100711,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hex Nail",
+          "abName": "Hurting Teddy Bear",
+          "desc": "[EndSkill] Jika target memiliki [Curse], immediately aktifkan it dua kali dan kurangi it by 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Curse]\n- Beri 1 tambahan [Curse] untuk setiap 3 efek negatif pada target that aren't [Curse] atau [NailPersonality] (maks 2)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Hex Nail",
+          "abName": "Hurting Teddy Bear",
+          "desc": "<style=\"highlight\">[BeforeAttack] Pada 4+ Reson. Envy termasuk Skill ini, Atk Weight +1</style>\n[EndSkill] Jika target memiliki [Curse], immediately aktifkan it dua kali dan kurangi it by 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 2 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Curse]\n- Beri 1 tambahan [Curse] untuk setiap 3 efek negatif pada target that aren't [Curse] atau [NailPersonality] (maks 2)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">3</style> [NailPersonality]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackHead] Beri 2 [Binding] giliran berikutnya (sekali per giliran)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hex Nail",
+          "abName": "Hurting Teddy Bear",
+          "desc": "<style=\"highlight\">[BeforeAttack] Untuk setiap 3 Reson. Envy termasuk Skill ini, Atk Weight +1 (maks 2)</style>\n[EndSkill] Jika target memiliki [Curse], immediately aktifkan it dua kali dan kurangi it by 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 2 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Curse]\n- Beri 1 tambahan [Curse] untuk setiap <style=\"highlight\">2</style> efek negatif pada target that aren't [Curse] atau [NailPersonality] (maks 2)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [NailPersonality]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Pada 4+ [Curse], beri 1 [ParryingResultDown] (sekali per giliran)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 2 [Binding] giliran berikutnya (sekali per giliran)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100721,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hex Nail",
+          "abName": "Hurting Teddy Bear",
+          "desc": "[CantIdentify]\nTarget secara acak\n[EndSkill] Jika target memiliki [Curse], immediately aktifkan it dua kali dan kurangi it by 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Curse]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [NailPersonality]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Hex Nail",
+          "abName": "Hurting Teddy Bear",
+          "desc": "[CantIdentify]\nTarget secara acak\n[EndSkill] Jika target memiliki [Curse], immediately aktifkan it dua kali dan kurangi it by 2<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Beri <style=\"highlight\">3</style> [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Curse]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">3</style> [NailPersonality]"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] Beri 2 [Binding] giliran berikutnya (sekali per giliran)</style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Hex Nail",
+          "abName": "Hurting Teddy Bear",
+          "desc": "[CantIdentify]\nTarget secara acak\n[EndSkill] Jika target memiliki [Curse], immediately aktifkan it dua kali dan kurangi it by 2<style=\"highlight\"></style>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackTail] Beri 3 [Laceration]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Curse]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [NailPersonality]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttack] Pada 4+ Reson. Envy termasuk Skill ini, beri 1 [ParryingResultDown] (sekali per giliran)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttackTail] Beri 2 [Binding] giliran berikutnya (sekali per giliran)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "<style=\"highlight\">[OnSucceedAttackTail] Beri 2 [DefenseDown] giliran berikutnya (sekali per giliran)</style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100811,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tears of the Tarnished Blood",
+          "abName": "Yinglong",
+          "desc": "[StartBattle] Peroleh [YesdragonNodie]\n[BeforeAttack] Peroleh [YesdragonSelf] setara dengan Gluttony Reson. (maks 5)\n[BeforeAttack] Terima ([YesdragonSelf] pada diri sendiri x 2) HP damage\n- Tidak get terkena Stagger jika this lowers HP unit ini di bawah a Batas Stagger; saja, remove the Batas Stagger higher than unit ini's current HP\n[EndSkill] Untuk 3 giliran, kehilangan 10 SP pada Akhir Giliran",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika unit ini memiliki 30% atau less HP, atau ada pada 20 [YesdragonSelf] Stack, Gunakan Ulang this Coin (sekali per Skill)"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Konsumsi semua HP pada diri sendiri untuk memberi +20% damage with this Coin (sekali per Giliran)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Tears of the Tarnished Blood",
+          "abName": "Yinglong",
+          "desc": "<style=\"highlight\">Pada 6+ [YesdragonSelf], Coin Power +1</style>\n[StartBattle] Peroleh [YesdragonNodie]\n[BeforeAttack] Peroleh [YesdragonSelf] setara dengan Gluttony Reson. (maks 5)\n[BeforeAttack] Terima ([YesdragonSelf] pada diri sendiri x 2) HP damage\n- Tidak get terkena Stagger jika this lowers HP unit ini di bawah a Batas Stagger; saja, remove the Batas Stagger higher than unit ini's current HP\n[EndSkill] Untuk 3 giliran, kehilangan 10 SP pada Akhir Giliran",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Burst] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">3</style> [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika unit ini memiliki 30% atau less HP, atau ada pada 20 [YesdragonSelf] Stack, Gunakan Ulang this Coin (sekali per Skill)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Konsumsi semua HP pada diri sendiri untuk memberi +20% damage with this Coin (sekali per Giliran)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tears of the Tarnished Blood",
+          "abName": "Yinglong",
+          "desc": "<style=\"highlight\">Coin Power +1 untuk setiap 6 [YesdragonSelf] pada diri sendiri (maks 3)</style>\n[StartBattle] Peroleh [YesdragonNodie]\n[BeforeAttack] Peroleh [YesdragonSelf] setara dengan Gluttony Reson. (maks 5)\n[BeforeAttack] Terima ([YesdragonSelf] pada diri sendiri x 2) HP damage\n- Tidak get terkena Stagger jika this lowers HP unit ini di bawah a Batas Stagger; saja, remove the Batas Stagger higher than unit ini's current HP\n[EndSkill] Untuk 3 giliran, kehilangan 10 SP pada Akhir Giliran",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Burst] Count<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\"> Beri +1% damage untuk setiap 2% HP yang hilang pada diri sendiri (maks 40%)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika unit ini memiliki 30% atau less HP, atau ada pada 20 [YesdragonSelf] Stack, Gunakan Ulang this Coin (sekali per Skill)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Konsumsi semua HP pada diri sendiri untuk memberi +20% damage with this Coin (sekali per Giliran)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100821,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tears of the Tarnished Blood",
+          "abName": "Yinglong",
+          "desc": "[CantIdentify]\nTarget secara acak\n[StartBattle] Peroleh [YesdragonNodie]\n[BeforeAttack] Peroleh (Gluttony Reson. + 4) [YesdragonSelf] (maks 10)\n[BeforeAttack] Terima ([YesdragonSelf] pada diri sendiri x 2) HP damage\nDoes not get terkena Stagger jika this lowers HP unit ini di bawah a Batas Stagger; saja, remove the Batas Stagger higher than unit ini's current HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika unit ini memiliki 30% atau less HP, atau ada pada 20 [YesdragonSelf] Stack, Gunakan Ulang this Coin (sekali per Skill)"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Konsumsi semua HP pada diri sendiri untuk memberi +20% damage with this Coin (sekali per Giliran)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Tears of the Tarnished Blood",
+          "abName": "Yinglong",
+          "desc": "[CantIdentify]\nTarget secara acak\n<style=\"highlight\">Pada 10+ [YesdragonSelf], Base Power +1</style>\n[StartBattle] Peroleh [YesdragonNodie]\n[BeforeAttack] Peroleh (Gluttony Reson. + 4) [YesdragonSelf] (maks 10)\n[BeforeAttack] Terima ([YesdragonSelf] pada diri sendiri x 2) HP damage\nDoes not get terkena Stagger jika this lowers HP unit ini di bawah a Batas Stagger; saja, remove the Batas Stagger higher than unit ini's current HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Burst] Count<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri <style=\"highlight\">3</style> [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika unit ini memiliki 30% atau less HP, atau ada pada 20 [YesdragonSelf] Stack, Gunakan Ulang this Coin (sekali per Skill)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Konsumsi semua HP pada diri sendiri untuk memberi +20% damage with this Coin (sekali per Giliran)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Tears of the Tarnished Blood",
+          "abName": "Yinglong",
+          "desc": "[CantIdentify]\nTarget secara acak\n<style=\"highlight\">Base Power +1 untuk setiap 10 [YesdragonSelf] pada diri sendiri (maks 2)</style>\n[StartBattle] Peroleh [YesdragonNodie]\n[BeforeAttack] Peroleh (Gluttony Reson. + 4) [YesdragonSelf] (maks 10)\n[BeforeAttack] Terima ([YesdragonSelf] pada diri sendiri x 2) HP damage\nDoes not get terkena Stagger jika this lowers HP unit ini di bawah a Batas Stagger; saja, remove the Batas Stagger higher than unit ini's current HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Burst] Count<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]<style=\"highlight\"></style>"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "<style=\"highlight\"> Beri +1% damage untuk setiap 2% HP yang hilang pada diri sendiri (maks 40%)</style>"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika unit ini memiliki 30% atau less HP, atau ada pada 20 [YesdragonSelf] Stack, Gunakan Ulang this Coin (sekali per Skill)<style=\"highlight\"></style>"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack] Konsumsi semua HP pada diri sendiri untuk memberi +20% damage with this Coin (sekali per Giliran)<style=\"highlight\"></style>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100911,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Harmony",
+          "abName": "Singing Machine",
+          "desc": "Clash Power +1 untuk setiap 2 ([Laceration] + [Combustion]) pada target utama (maks 6)\nBeri lebih banyak damage berdasarkan HP yang hilang pada diri sendiri (maks 10%)\nBeri -50% damage terhadap sub-targets\n[TargetKill] Semua kawan peroleh 2 [ThatIsRhythm] giliran berikutnya (sekali per Skill)\n[EndSkill] Pulihkan 8 SP for (1 + Reson. tertinggi) other kawan with the least SP (maks 4 unit)\n[EndSkill] Untuk 2 giliran, lose 8 SP at Akhir Pertarungan",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Pada 10%+ HP, terima 4 ~ 8 HP damage (sekali per Coin)\n- Then, Gunakan Ulang this Coin (4 kali per Skill)\n- This damage does not Stagger atau kurangi HP unit ini di bawah 1",
+                  "summary": "[OnSucceedAttackHead] Setelah consuming HP pada diri sendiri, Gunakan Ulang this Coin"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] A acak kawan memperoleh 1 [ThatIsRhythm] giliran berikutnya (sekali per Coin)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Harmony",
+          "abName": "Singing Machine",
+          "desc": "Clash Power +1 untuk setiap 2 ([Laceration] + [Combustion]) pada target utama (maks <style=\"highlight\">8</style>)\nBeri lebih banyak damage berdasarkan HP yang hilang pada diri sendiri (maks <style=\"highlight\">15</style>%)\nBeri -50% damage terhadap sub-targets\n[TargetKill] Semua kawan peroleh 2 [ThatIsRhythm] giliran berikutnya (sekali per Skill)\n[EndSkill] Pulihkan <style=\"highlight\">10</style> SP for (1 + Reson. tertinggi) other kawan with the least SP (maks 4 unit)\n[EndSkill] Untuk 2 giliran, lose 8 SP at Akhir Pertarungan",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Pada 10%+ HP, terima 4 ~ 8 HP damage (sekali per Coin)\n- Then, Gunakan Ulang this Coin (4 kali per Skill)\n- This damage does not Stagger atau kurangi HP unit ini di bawah 1",
+                  "summary": "[OnSucceedAttackHead] Setelah consuming HP pada diri sendiri, Gunakan Ulang this Coin"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] A acak kawan memperoleh <style=\"highlight\">1 ~ 2</style> [ThatIsRhythm] giliran berikutnya (sekali per Coin)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Harmony",
+          "abName": "Singing Machine",
+          "desc": "Clash Power +1 untuk setiap 2 ([Laceration] + [Combustion]) pada target utama (maks <style=\"highlight\">10</style>)\nBeri lebih banyak damage berdasarkan HP yang hilang pada diri sendiri (maks <style=\"highlight\">20</style>%)\nBeri -50% damage terhadap sub-targets\n[TargetKill] Semua kawan peroleh 2 [ThatIsRhythm] giliran berikutnya (sekali per Skill)\n[EndSkill] Pulihkan <style=\"highlight\">12 SP</style> for (1 + Reson. tertinggi) other kawan with the least SP (maks 4 unit)\n[EndSkill] Untuk 2 giliran, lose 8 SP at Akhir Pertarungan",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Pada 10%+ HP, terima 4 ~ 8 HP damage (sekali per Coin)\n- Then, Gunakan Ulang this Coin (4 kali per Skill)\n- This damage does not Stagger atau kurangi HP unit ini di bawah 1",
+                  "summary": "[OnSucceedAttackHead] Setelah consuming HP pada diri sendiri, Gunakan Ulang this Coin"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] A acak kawan memperoleh 1 ~ <style=\"highlight\">3</style> [ThatIsRhythm] giliran berikutnya (sekali per Coin)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2100921,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Harmony",
+          "abName": "Singing Machine",
+          "desc": "[CantIdentify]\nTarget secara acak\nClash Power +1 untuk setiap 2 ([Laceration] + [Combustion]) pada target utama (maks 6)\nBeri lebih banyak damage berdasarkan HP yang hilang pada diri sendiri (maks 10%)\nBeri -50% damage terhadap sub-targets\n[BeforeAttack] Peroleh Atk Weight setara dengan (Reson. tertinggi / 2) (maks 2; dibulatkan ke bawah)\n[BeforeAttack] Base Power -2 untuk setiap Coin Retak (maks -6)\n[EndSkill] Pulihkan 10 SP for 4 other kawan with the least SP\n[EndSkill] Semua kawan peroleh 2 [ThatIsRhythm], 1 [CrimsonDamageUp], 1 [ScarletDamageUp], 1 [VioletDamageUp], 1 [Vulnerable] giliran berikutnya\n- Jika target was killed, aktifkan the effect above sekali lebih banyak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 10%+ HP, terima 10 ~ 20 HP damage (sekali per Coin)\n- Then, Gunakan Ulang this Coin jika the sum of HP lost akibat efek ini is kurang dari 50 (4 kali per Skill)\n- This damage does not Stagger atau kurangi HP unit ini di bawah 1",
+                  "summary": "[OnSucceedAttack] Konsumsi HP pada diri sendiri\nReuse this Coin jika kondisi terpenuhi"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] A acak kawan memperoleh 1 [ThatIsRhythm] giliran berikutnya (sekali per Coin)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "Harmony",
+          "abName": "Singing Machine",
+          "desc": "[CantIdentify]\nTarget secara acak\nClash Power +1 untuk setiap 2 ([Laceration] + [Combustion]) pada target utama (maks <style=\"highlight\">8</style>)\nBeri lebih banyak damage berdasarkan HP yang hilang pada diri sendiri (maks <style=\"highlight\">15</style>%)\nBeri -50% damage terhadap sub-targets\n[BeforeAttack] Peroleh Atk Weight setara dengan (Reson. tertinggi / 2) (maks 2; dibulatkan ke bawah)\n[BeforeAttack] Base Power -2 untuk setiap Coin Retak (maks -6)\n[EndSkill] Pulihkan <style=\"highlight\">12</style> SP for 4 other kawan with the least SP\n[EndSkill] Semua kawan peroleh 2 [ThatIsRhythm], 1 [CrimsonDamageUp], 1 [ScarletDamageUp], 1 [VioletDamageUp], 1 [Vulnerable] giliran berikutnya\n- Jika target was killed, aktifkan the effect above sekali lebih banyak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 10%+ HP, terima 10 ~ 20 HP damage (sekali per Coin)\n- Then, Gunakan Ulang this Coin jika the sum of HP lost akibat efek ini is kurang dari 50 (4 kali per Skill)\n- This damage does not Stagger atau kurangi HP unit ini di bawah 1",
+                  "summary": "[OnSucceedAttack] Konsumsi HP pada diri sendiri\nReuse this Coin jika kondisi terpenuhi"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] A acak kawan memperoleh <style=\"highlight\">1 ~ 2</style> [ThatIsRhythm] giliran berikutnya (sekali per Coin)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "Harmony",
+          "abName": "Singing Machine",
+          "desc": "[CantIdentify]\nTarget secara acak\nClash Power +1 untuk setiap 2 ([Laceration] + [Combustion]) pada target utama (maks <style=\"highlight\">10</style>)\nBeri lebih banyak damage berdasarkan HP yang hilang pada diri sendiri (maks <style=\"highlight\">20</style>%)\nBeri -50% damage terhadap sub-targets\n[BeforeAttack] Peroleh Atk Weight setara dengan (Reson. tertinggi / 2) (maks 2; dibulatkan ke bawah)\n[BeforeAttack] Base Power -2 untuk setiap Coin Retak (maks -6)\n[EndSkill] Pulihkan <style=\"highlight\">15</style> SP for 4 other kawan with the least SP\n[EndSkill] Semua kawan peroleh 2 [ThatIsRhythm], 1 [CrimsonDamageUp], 1 [ScarletDamageUp], 1 [VioletDamageUp], 1 [Vulnerable] giliran berikutnya\n- Jika target was killed, aktifkan the effect above sekali lebih banyak",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Combustion]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 10%+ HP, terima 10 ~ 20 HP damage (sekali per Coin)\n- Then, Gunakan Ulang this Coin jika the sum of HP lost akibat efek ini is kurang dari 50 (4 kali per Skill)\n- This damage does not Stagger atau kurangi HP unit ini di bawah 1",
+                  "summary": "[OnSucceedAttack] Konsumsi HP pada diri sendiri\nReuse this Coin jika kondisi terpenuhi"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Combustion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] A acak kawan memperoleh 1 ~ <style=\"highlight\">3</style> [ThatIsRhythm] giliran berikutnya (sekali per Coin)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

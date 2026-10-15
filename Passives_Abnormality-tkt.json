@@ -1,0 +1,34 @@
+{
+  "dataList": [
+    {
+      "id": 827701,
+      "name": "Rescued Time",
+      "desc": "Have 1000 [LimitedTime] saat dimulainya Pertempuran"
+    },
+    {
+      "id": 827702,
+      "name": "Accelerated Regeneration",
+      "desc": "Akhir Giliran: Jika a Bagian rusak, spend 100 Time dari that Bagian to pulih dari Bagian Broken state giliran berikutnya."
+    },
+    {
+      "id": 827801,
+      "name": "Everyone's Time",
+      "desc": "Pada 75% HP, enter the second phase. Upon phase ubah, pulih SP hingga 30, dan divide the [LimitedTime] antara semua Parts as [OwnTime]."
+    },
+    {
+      "id": 827802,
+      "name": "Equal Expense",
+      "desc": "Akhir Giliran: peroleh [EquitableDistribution]."
+    },
+    {
+      "id": 827803,
+      "name": "Untuk the Time Community",
+      "desc": "Awal Giliran: Semua Parts peroleh 5 [Protection]."
+    },
+    {
+      "id": 827804,
+      "name": "Terima Theirs First!",
+      "desc": "Pada 60%- HP, ubah [EquitableDistribution] menjadi [UnfairDistribution]."
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "dataList": [
+    {
+      "id": 9017801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guidance of the Gears",
+          "desc": "[WhenUse] Peroleh 2 [Smoke]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +1 [Smoke] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Meat Gear: Stop",
+          "desc": "[WhenUse] Peroleh 4 [Smoke] dan +2 [Smoke] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Smoke]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 [Paralysis] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Smoke]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 [Paralysis] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Vapour",
+          "desc": "Clash Power +1 untuk setiap 3 [Smoke] pada target (maks 2)\nBeri +10% damage untuk setiap 3 [Smoke] pada diri sendiri (maks 20%)\n[WhenUse] Pada 10 [Smoke], Coin Power +2\n[EndSkill] Konsumsi semua [Smoke] pada diri sendiri",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Smoke]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gunakan Ulang Coin untuk setiap 3 [Smoke] pada target (3 kali maks)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Menghindar Order",
+          "desc": "[OnSucceedEvade] Peroleh 3 [Smoke] dan +1 [Smoke] Count\n[OnSucceedEvade] Pada 10 [Smoke], peroleh 1 [ParryingResultUp] dan 3 [Protection] giliran berikutnya (sekali per giliran)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guided sebanyak Gears",
+          "desc": "[WhenUse] Peroleh 2 [Smoke]",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +1 [Smoke] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Meat Gear: Grapple",
+          "desc": "[WhenUse] Peroleh 4 [Smoke] dan +2 [Smoke] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Smoke] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 [Binding] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Smoke] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 [Binding] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Assault Order",
+          "desc": "Clash Power +1 untuk setiap 3 [Smoke] pada target (maks 2)\nBeri +10% damage untuk setiap 3 [Smoke] pada diri sendiri (maks 20%)\n[WhenUse] Pada 10 [Smoke], Coin Power +2\n[EndSkill] Konsumsi semua [Smoke] pada diri sendiri",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Smoke] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gunakan Ulang Coin untuk setiap 3 [Smoke] pada target (3 kali maks)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9017904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Menghindar Order",
+          "desc": "[OnSucceedEvade] Peroleh 3 [Smoke] dan +1 [Smoke] Count\n[OnSucceedEvade] Pada 10 [Smoke], peroleh 1 [ParryingResultUp] dan 3 [Protection] giliran berikutnya (sekali per giliran)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Meat Gear: Command",
+          "desc": "[WhenUse] Peroleh 3 [Smoke] dan +2 [Smoke] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Smoke] dan +2 [Smoke] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thought Gear: Collect",
+          "desc": "[WhenUse] Peroleh 4 [Smoke] dan +2 [Smoke] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Smoke] dan +2 [Smoke] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 [Paralysis] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Meat Gear: Restrict",
+          "desc": "Coin Power +1 untuk setiap 3 [Smoke] pada target\nBeri +10% damage untuk setiap 3 [Smoke] pada diri sendiri\nConsume 3 [Smoke] pada diri sendiri setiap kali Skill ini Reuses Coin\n[WhenUse] Pada 10 [Smoke], Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Smoke] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gunakan Ulang Coin untuk setiap 5 [Smoke] pada target (2 kali maks)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thought Gear: Hapus",
+          "desc": "Clash Power +1 untuk setiap 3 [Smoke] pada target\nBeri +20% damage untuk setiap 3 [Smoke] pada diri sendiri\n[WhenUse] Pada 10 [Smoke], Coin Power +2\n[EndSkill] Konsumsi semua [Smoke] pada diri sendiri",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Smoke]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Smoke] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Gunakan Ulang Coin untuk setiap 3 [Smoke] pada target (3 kali maks)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9018005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thought Gear: Vapour",
+          "desc": "[WhenUse] Peroleh 5 [Smoke] dan +2 [Smoke] Count\n[WhenUse] Pada 10 [Smoke], peroleh 2 [PlusCoinValueUp] dan 3 [Protection] giliran berikutnya (sekali per giliran)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}

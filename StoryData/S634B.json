@@ -1,0 +1,403 @@
+{
+    "dataList": [
+        {
+            "id": 0,
+            "model": "히스클리프",
+            "content": "Apaan sih yang kau mau?"
+        },
+        {
+            "id": 1,
+            "model": "히스클리프",
+            "content": "Hindley, kau, dan keanehanmu... apapun. Gua udah muak."
+        },
+        {
+            "id": 2,
+            "model": "히스클리프",
+            "content": "Kalau kamu ga bicara, aku akan..."
+        },
+        {
+            "id": 3,
+            "model": "데드레빗츠보스",
+            "teller": "???",
+            "title": "???",
+            "content": "Ahaha..."
+        },
+        {
+            "id": 4,
+            "model": "데드레빗츠보스",
+            "teller": "???",
+            "title": "???",
+            "content": "Apa, ngebunuhku?"
+        },
+        {
+            "id": 5,
+            "model": "데드레빗츠보스",
+            "teller": "???",
+            "title": "???",
+            "content": "Ngapain, membunuh... *dirimu sendiri*?"
+        },
+        {
+            "id": 6,
+            "model": "히스클리프",
+            "content": "...!"
+        },
+        {
+            "id": 7,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Aku rasa perkenalan tidaklah penting."
+        },
+        {
+            "id": 8,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Aku adalah dirimu, sejelas yang kau lihat. Aku merangkak kembali dari dalam neraka."
+        },
+        {
+            "id": 9,
+            "model": "싱클레어",
+            "content": "... Ba-bagaimana bisa ada dua orang yang sama...?"
+        },
+        {
+            "id": 10,
+            "model": "파우스트",
+            "content": "Mereka... bukan orang yang sama."
+        },
+        {
+            "id": 11,
+            "model": "파우스트",
+            "content": "Yang satu ini merupakan <ruby=Identitas>Identity</ruby>."
+        },
+        {
+            "id": 12,
+            "model": "오티스",
+            "content": "<ruby=Identitas>Identity</ruby>...? Dia adalah sebuah <ruby=Identitas>Identity</ruby>?"
+        },
+        {
+            "id": 13,
+            "model": "싱클레어",
+            "content": "Jadi dia adalah Heathcliff...dari salah satu <ruby=Dunia Cerminan>Mirror World</ruby>?"
+        },
+        {
+            "id": 14,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Semua yang telah menantangku, dan menggangu jalanku. Semua yang telah menghina diriku."
+        },
+        {
+            "id": 15,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Aku akan mencarinya satu persatu, untuk memberikan kematian yang tepat akan kejahatan mereka."
+        },
+        {
+            "id": 16,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Dan pada akhirnya..."
+        },
+        {
+            "id": 17,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Aku akan membunuh... seseorang yang membunuh Cathy milikku... dengan tanganku sendiri."
+        },
+        {
+            "id": 18,
+            "model": "히스클리프",
+            "content": "Cathy milikku? Seseorang yang- Siapa... tidak, apaan yang lo maksud?!"
+        },
+        {
+            "id": 19,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Sudah jelas, ya kan?"
+        },
+        {
+            "id": 20,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Itu adalah kau. Dan... diriku."
+        },
+        {
+            "id": 21,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Apa kau tidak paham? Kita adalah pembunuhnya."
+        },
+        {
+            "id": 22,
+            "model": "히스클리프",
+            "content": "Banyak cocot... bicaralah seperti orang normal atau..."
+        },
+        {
+            "id": 23,
+            "model": "히스클리프",
+            "content": "... Tunggu."
+        },
+        {
+            "id": 24,
+            "model": "히스클리프",
+            "content": "Apa saja yang kau tahu tentang kematian Cathy?"
+        },
+        {
+            "id": 25,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Aku tidak memiliki sedikit kasih sayang tersisa untuk siapa pun di dunia ini. Dunia yang tidak menyisakan apapun untuk diriku, juga."
+        },
+        {
+            "id": 26,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Selalu ada dua jalur di hadapan ku. Kematian, atau neraka... karena aku terjatuh ke dalamnya setelah kematian Cathy."
+        },
+        {
+            "id": 27,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Tetapi kau..."
+        },
+        {
+            "id": 28,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Aku mengamatimu berpetualang secara sembrono, mendambakan hal-hal manis, sebuah reuni yang tulus saat kembali padanya.."
+        },
+        {
+            "id": 29,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Hingga, aku sampai ke dunia ini. Untuk melahap setiap harapan itu."
+        },
+        {
+            "id": 30,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Sehingga keputusasaan yang mewarnai diriku dapat menodai dirimu..."
+        },
+        {
+            "id": 31,
+            "model": "히스클리프",
+            "content": "Berhenti berbicara!"
+        },
+        {
+            "id": 32,
+            "model": "히스클리프",
+            "content": "Apa kau bilang kaulah yang membunuh Cathy?"
+        },
+        {
+            "id": 33,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Kita, Heathcliff. Kita yang melakukannya."
+        },
+        {
+            "id": 34,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Itulah kita. Sebagaimana kita terlahir di dunia ini."
+        },
+        {
+            "id": 35,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Seorang perampok dungu. Seorang gelandangan. Sesuatu yang terselimuti dalam dekil, busuknya karung perca."
+        },
+        {
+            "id": 36,
+            "model": "히스클리프",
+            "content": "Seorang perampok dungu..."
+        },
+        {
+            "id": 37,
+            "model": "히스클리프",
+            "content": "... Yeah."
+        },
+        {
+            "id": 38,
+            "model": "히스클리프",
+            "content": "Diriku juga berpikir begitu."
+        },
+        {
+            "id": 39,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Beritahu aku, Heathcliff."
+        },
+        {
+            "id": 40,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Apa yang kamu pikirkan..."
+        },
+        {
+            "id": 41,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "... ketika kau mendengar kabar tentang kematiannya?"
+        },
+        {
+            "id": 42,
+            "model": "히스클리프",
+            "content": "Jika ia terbunuh... aku akan mencari pelakunya hingga ujung dunia..."
+        },
+        {
+            "id": 43,
+            "model": "히스클리프",
+            "content": "... dan membunuh seluruh dari mereka. Siapapun itu."
+        },
+        {
+            "id": 44,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "BENAR!"
+        },
+        {
+            "id": 45,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Mereka yang sampah!... Tidak pantas untuk hidup... Setuju kan?"
+        },
+        {
+            "id": 46,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Mereka harus dibunuh dan mayatnya digilas dari ujung kepala hingga jari kaki ratusan kali, belum juga cukup sebagai hukuman."
+        },
+        {
+            "id": 47,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Bahkan tidak sebanding... terhadap semua kesengsaraan yang menantikanmu."
+        },
+        {
+            "id": 48,
+            "model": "히스클리프",
+            "content": "Dan aku... aku pembunuh Catherine... Akulah bajingan yang membunuhnya..."
+        },
+        {
+            "id": 49,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Terbangun di setiap malam tak berujung, akan menghantuimu terus."
+        },
+        {
+            "id": 50,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Meskipun kau tak melihatnya, merdu suara miliknya akan terus menghantui dan mencekam setiap napas pederitaan darimu."
+        },
+        {
+            "id": 51,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Tidak bisa kah kau mendengarnya? Cathy, dia menangis!"
+        },
+        {
+            "id": 52,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Kau tidak tahu ini, tetapi hari itu bersalju saat aku mengubur Cathy. Aku sendirian berdiri menghadap kuburannya, dingin dalam hampa, hembusan musim dingin menemani penjagaanku."
+        },
+        {
+            "id": 53,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Ah... aku masih mendengar raungan badai itu."
+        },
+        {
+            "id": 54,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Dimana dirimu, wahai Cathy?"
+        },
+        {
+            "id": 55,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Teruslah membenci diriku, meski berada pada tempat yang tak kan bisa kugapai?"
+        },
+        {
+            "id": 56,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Engkau di sampingku, bukan? Tidak di bawah diriku—tetapi bersama diriku, di atas dunia ini!!!"
+        },
+        {
+            "id": 57,
+            "content": "Meskipun terlihat jelas seperti Heathcliff, dia lebih terlihat terhantam, putus asa, dan tidak waras. Heathcliff dari dunia lain meraung sedih atas nama Catherine."
+        },
+        {
+            "id": 58,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Ya, Cathy... siksalah diriku. Hingga aku tak dapat tenang hingga napas terakhirku!"
+        },
+        {
+            "id": 59,
+            "model": "히스클리프",
+            "content": "Cathy... Kau... tidak, kita...!"
+        },
+        {
+            "id": 60,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Ya. Hancurkanlah aku berkeping-keping."
+        },
+        {
+            "id": 61,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Hingga aku digembala oleh kesengsaraan!"
+        },
+        {
+            "id": 62,
+            "model": "마왕히스클리프1",
+            "teller": "Heathcliff?",
+            "title": "???",
+            "content": "Hingga Cathy bisa mengampuni diriku...walau sedikit."
+        },
+        {
+            "id": 63,
+            "model": "히스클리프",
+            "content": "BERHENTI!!!"
+        }
+    ]
+}

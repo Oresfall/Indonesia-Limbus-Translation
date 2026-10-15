@@ -1,0 +1,174 @@
+{
+  "dataList": [
+    {
+      "id": 9103901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kwogh",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9103902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kwaagh",
+          "desc": "",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Babawbawk!",
+          "desc": "",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 Bind di giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cluckcluck!",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 Plus Coin Drop di giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cluuuck!",
+          "desc": "[WinDuel] Skill Power +1",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Coo",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Tremor di giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Tremor di giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Tremor di giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gwoghkwogh",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 Tremor Count di giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bwoghkh",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 3 Tremor di giliran berikutnya"
+                }
+              ]
+            },
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan Tremor Burst"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9104104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Khgwok",
+          "desc": "[WhenUse] Pulihkan 10 HP",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}

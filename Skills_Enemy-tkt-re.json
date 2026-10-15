@@ -1,0 +1,228 @@
+{
+  "dataList": [
+    {
+      "id": 9102401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Have You No Shame?",
+          "desc": "[WhenUse] Peroleh +2 [Vibration] Count\n[WhenUse] Pada 5+ [Vibration] Count, Clash Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I See, You Have No Shame",
+          "desc": "[WhenUse] Peroleh +2 [Vibration] Count\n[WhenUse] Pada 5+ [Vibration] Count, Clash Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bisa You Protect Them?",
+          "desc": "[WhenUse] Peroleh +2 [Vibration] Count\n[WhenUse] Pada 5+ [Vibration] Count, Clash Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pada 10+ [Vibration] Count pada diri sendiri, aktifkan [VibrationExplosion]; lalu, kurangi [Vibration] Count target sebanyak 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 15+ [Vibration] Potency, aktifkan [VibrationExplosion]; lalu, kurangi [Vibration] Count target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Can't Pakai That Weapon Now",
+          "desc": "[WhenUse] Peroleh +3 [Vibration] Count\n[WhenUse] Pada 5+ [Vibration] Count, Clash Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [Switch_Vibration] menjadi [VibrationCollapse]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ready Untuk A Beating?",
+          "desc": "Prioritaskan target dengan [VibrationCollapse]\n[WhenUse] Beri [Vibration] Count setara dengan [Vibration] Count pada diri sendiri untuk semua other kawan\n[WhenUse] Aktifkan [Switch_Vibration] pada semua kawan(termasuk unit ini) to ubah their [Vibration] to [VibrationDistribution]\n[DefeatDuel] Beri -80% damage dan damage yang diberikan Skill ini tidak dapat Stagger target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 10 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [FusionVibration] menjadi [VibrationEcho]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102406,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guard",
+          "desc": "[StartBattle] Peroleh 5 x ([Vibration] Count pada diri sendiri) Perisai HP (maks 60)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102407,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Untuk the Greater Good",
+          "desc": "[CantDuel]\n[StartBattle] Draw semua other kawan' [Vibration] Count ke diri sendiri; [Vibration] pada semua kawan kadaluarsa\n[StartBattle] Peroleh 1 [AttackUp] untuk setiap 3 [Vibration] Count pada diri sendiri\n[WhenUse] Peroleh 10 [Vibration] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 20% bonus Sloth damage untuk setiap [Vibration] Count pada diri sendiri"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +4 [Vibration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 20% bonus Sloth damage untuk setiap [Vibration] Count pada diri sendiri"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Konsumsi 1 [Vibration] Count pada diri sendiri, dan aktifkan [VibrationExplosion]; lalu, kurangi [Vibration] Count target sebanyak 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Konsumsi 1 [Vibration] Count pada diri sendiri, dan aktifkan [VibrationExplosion]; lalu, kurangi [Vibration] Count target sebanyak 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Konsumsi 1 [Vibration] Count pada diri sendiri, dan aktifkan [VibrationExplosion]; lalu, kurangi [Vibration] Count target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

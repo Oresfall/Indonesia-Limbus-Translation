@@ -1,0 +1,254 @@
+{
+  "dataList": [
+    {
+      "id": 810001,
+      "name": "The Semua-Illuminating Light",
+      "desc": "Jika setiap Candle is snuffed dan at full HP, peroleh resistance hingga semua Candles are lit again.\nKetika semua Candles are lit, kehilangan resistance."
+    },
+    {
+      "id": 810002,
+      "name": "Darkness Deterred",
+      "desc": "Light semua Candles setiap 4 giliran setelah a Candle is snuffed. Semua Candles' HP berkurang menjadi 1."
+    },
+    {
+      "id": 810701,
+      "name": "Burning Embers",
+      "desc": "HP tidak turun di bawah 1.\nPada 1 HP, light the Candles dan menggunakan Skill Attack."
+    },
+    {
+      "id": 810702,
+      "name": "Sinking Darkness",
+      "desc": "Ketika semua Candles are lit, gunakan a Defensive Skill.\nSnuff out the Candles giliran berikutnya ketika out of Perisai."
+    },
+    {
+      "id": 810101,
+      "name": "Exposed Pearl",
+      "desc": "Awal Giliran: Jika at 0 Green Slime, menjadi Stagger. Pearl kehilangan semua Affinity Resistances sebanyak 0.5.\nPeroleh 10 Green Slime ketika pulih dari Stagger."
+    },
+    {
+      "id": 810102,
+      "name": "Cracked Shell",
+      "desc": "Pada 10% \"Inti\" HP, peroleh pola baru."
+    },
+    {
+      "id": 810103,
+      "name": "Solid Shell",
+      "desc": "The Shell Bagian retains its resistances even during Stagger state."
+    },
+    {
+      "id": 810104,
+      "name": "Gathering Slime",
+      "desc": "Fix this Bagian's speed menjadi 1 for a giliran ketika menggunakan Devouring Fluid."
+    },
+    {
+      "id": 810901,
+      "name": "Green Slime",
+      "desc": "Beri 3 Green Slime to Ambling Pearl ketika dikalahkan sebanyak Ambling Pearl."
+    },
+    {
+      "id": 810902,
+      "name": "Contaminating Slime",
+      "desc": "Akhir Giliran: Beri (2 + Surviving Green Slime) Racun untuk semua musuh."
+    },
+    {
+      "id": 810201,
+      "name": "Expanding Oxygen",
+      "desc": "Ketika the Fluorescence Bagian rusak, beri [AaCePcBb] pada semua musuh.\nFluorescence Bagian regenerates setelah 2 giliran."
+    },
+    {
+      "id": 810202,
+      "name": "Underwater Breathing",
+      "desc": "Starting dari giliran 2, peroleh 8 Poise giliran ini jika the Fluorescence Bagian isn't broken.\nPeroleh +3 Poise Count. Starting dari giliran 2, peroleh 2 Paralyze dan 2 Damage Down giliran ini jika the Fluorescence Bagian rusak."
+    },
+    {
+      "id": 810203,
+      "name": "Siltcurrent",
+      "desc": "Starting dari giliran 2, semua Identitas tanpa [AaCePcBb] are diberikan dengan 1 Bind dan 1 Paralyze; Identitas tanpa [AaCePcBb] kehilangan 3 SP."
+    },
+    {
+      "id": 810801,
+      "name": "Harden",
+      "desc": "Bisa diberi damage hanya dengan damages setara dengan atau di atas dari 12.\nSemua damage under 12 is nullified."
+    },
+    {
+      "id": 810802,
+      "name": "Rolling Flotsam",
+      "desc": "Setelah the Dream-devouring Siltcurrent uses Blind Obsession, dan jika unit ini is not destroyed pada Akhir Giliran, beri 20 damage ke a acak Identitas."
+    },
+    {
+      "id": 810803,
+      "name": "Destroyed Flotsam",
+      "desc": "HP tidak turun di bawah 1 upon defeat.\nTurns menjadi a Destroyed Flotsam."
+    },
+    {
+      "id": 810301,
+      "name": "Captain's Orders",
+      "desc": "Awal Giliran: Jika not at -45 SP, pulihkan (# of surviving other kawan x 5) SP.\nAwal Giliran: Jika at -45 SP, pulih dari panic pada Akhir Giliran dan reset SP ke 0."
+    },
+    {
+      "id": 810302,
+      "name": "Mutilated Tattoos",
+      "desc": "Every time a Pequod Town faction kawan dikalahkan, kehilangan 1 Poise Count dan 10 SP."
+    },
+    {
+      "id": 810303,
+      "name": "The Indomitable Harpooneer",
+      "desc": "Semakin kecil HP unit ini gets, the damage lebih Skill unit ini beri."
+    },
+    {
+      "id": 810304,
+      "name": "Injected Hatred dan Animosity",
+      "desc": "Akhir Giliran: Jika 50%- dari maks HP, move on to Phase 2.\nHP unit ini tidak turun di bawah 1 sebelum Phase 2 start.\nPhase 2 Start: Pulihkan HP to 50% dari maks HP dan summon 4 kawan. Beri [AaCePcBj] terhadap 1 musuh dengan HP terendah percentage pada start of setiap giliran."
+    },
+    {
+      "id": 810305,
+      "name": "Engraved Hatred dan Animosity",
+      "desc": "Pada 1 HP, pulihkan hingga 50% dari maks HP dan peroleh 2 Attack Power Up giliran berikutnya. (Once per encounter)"
+    },
+    {
+      "id": 810306,
+      "name": "Clouded Mind",
+      "desc": "Ketika Stagger dan ketika saat kurang dari 0 SP pada Akhir Giliran, reset SP ke 0."
+    },
+    {
+      "id": 810401,
+      "name": "Engraved Hatred dan Animosity",
+      "desc": "Akhir Giliran: Pada 50- HP, peroleh 2 Haste dan 2 Attack Power Up giliran berikutnya. (sekali per encounter)"
+    },
+    {
+      "id": 810402,
+      "name": "Puncturing Harpoon",
+      "desc": "On Critical Hit, beri 1 tambahan efek negatif dengan efek Skill."
+    },
+    {
+      "id": 810501,
+      "name": "Captain of the Pequod",
+      "desc": "Awal Giliran: Jika not at -45 SP, pulihkan 15 SP.\nAkhir Giliran: Jika panicked, pulih dari panic. Reset SP ke 0."
+    },
+    {
+      "id": 810503,
+      "name": "Muddled Orders",
+      "desc": "Ketika unit ini kena Stagger, dan ketika semua other kawan are saat kurang dari 0 SP pada Akhir Giliran, reset their SP ke 0."
+    },
+    {
+      "id": 810504,
+      "name": "Coldhearted Decision",
+      "desc": "Phase 2 Start: Fully pulihkan HP; Queequeg dan Starbuck no longer aktifkan Captain's Orders Passive. Also, Queequeg no longer gets Stagger even ketika her Assist Defense Perisai value reaches 0."
+    },
+    {
+      "id": 810601,
+      "name": "Ahab",
+      "desc": "Awal Giliran: Jika not at -45 SP, pulihkan 15 SP.\nAkhir Giliran: Jika panicked, pulih dari panic. Reset SP ke 0 dan peroleh 2 Attack Power Up dan 2 Defense Power Up."
+    },
+    {
+      "id": 810602,
+      "name": "Pip's Sin dan Innocence",
+      "desc": "Phase Start: Peroleh 20 Pip's Ego.\nAkhir Giliran: Pulihkan 3 SP untuk setiap Pip's Ego.\nAkhir Giliran: Jika [AaCePcBo] berada pada 0, terkena Stagger giliran berikutnya."
+    },
+    {
+      "id": 810603,
+      "name": "Starbuck's Fears",
+      "desc": "Phase Start: Peroleh 20 Starbuck's Ego.\nLose 1 [AaCePcBp] untuk setiap Coin destroyed in Clash terhadap target dengan [AaCePcBj].\nAwal Giliran: Peroleh 1 Protection untuk setiap 5 Starbuck's Ego.\nAkhir Giliran: Jika [AaCePcBp] berada pada 0, terkena Stagger giliran berikutnya."
+    },
+    {
+      "id": 810604,
+      "name": "Puncturing Harpoon",
+      "desc": "During this Phase, pada Serangan Critical, beri 1 tambahan efek negatif dengan efek Skill."
+    },
+    {
+      "id": 810605,
+      "name": "Queequeg's Atonement",
+      "desc": "Phase Start: Peroleh 30 Queequeg's Ego.\nAkhir Giliran: Jika unit ini still has remaining Perisai, regain 5 Queequeg's Ego. Jika unit ini tidak memiliki remaining Perisai, kehilangan 10 [AaCePcBq].\nAkhir Giliran: Jika [AaCePcBq] berada pada 0, terkena Stagger giliran berikutnya."
+    },
+    {
+      "id": 810606,
+      "name": "The Indomitable Harpooneer",
+      "desc": "Semakin kecil HP unit ini gets, the damage lebih unit ini beri dengan Skillnya.\nBeri 1% lebih HP untuk setiap 0.75% HP yang hilang pada diri sendiri\n(Maks 100%. Maxes out ketika unit ini berada pada 25% HP)"
+    },
+    {
+      "id": 810607,
+      "name": "Price of Nobility",
+      "desc": "Peroleh Level Offense dan Defense Level setiap kali unit ini peroleh other karakter' Ego\nLose SP ketika losing Skill tertentu Clashes"
+    },
+    {
+      "id": 814101,
+      "name": "The Semua-Illuminating Light",
+      "desc": "Jika setiap Candle is snuffed dan at full HP, peroleh resistance hingga semua Candles are lit again.\nKetika semua Candles are lit, kehilangan resistance."
+    },
+    {
+      "id": 814102,
+      "name": "Darkness Deterred",
+      "desc": "Light semua Candles setiap 4 giliran setelah a Candle is snuffed. Semua Candles' HP berkurang menjadi 1."
+    },
+    {
+      "id": 813601,
+      "name": "Burning Embers",
+      "desc": "HP tidak turun di bawah 1.\nPada 1 HP, light the Candles dan menggunakan Skill Attack."
+    },
+    {
+      "id": 813602,
+      "name": "Sinking Darkness",
+      "desc": "Ketika semua Candles are lit, gunakan a Defensive Skill.\nSnuff out the Candles giliran berikutnya ketika out of Perisai."
+    },
+    {
+      "id": 813701,
+      "name": "Exposed Pearl",
+      "desc": "Awal Giliran: Jika at 0 Green Slime, menjadi Stagger. Pearl kehilangan semua Affinity Resistances sebanyak 0.5.\nPeroleh 10 Green Slime ketika pulih dari Stagger."
+    },
+    {
+      "id": 813702,
+      "name": "Cracked Shell",
+      "desc": "Pada 10% \"Inti\" HP, peroleh pola baru."
+    },
+    {
+      "id": 813703,
+      "name": "Solid Shell",
+      "desc": "The Shell Bagian retains its resistances even during Stagger state."
+    },
+    {
+      "id": 813704,
+      "name": "Gathering Slime",
+      "desc": "Fix this Bagian's speed menjadi 1 for a giliran ketika menggunakan Devouring Fluid."
+    },
+    {
+      "id": 813801,
+      "name": "Green Slime",
+      "desc": "Beri 3 Green Slime to Ambling Pearl ketika dikalahkan sebanyak Ambling Pearl."
+    },
+    {
+      "id": 813802,
+      "name": "Contaminating Slime",
+      "desc": "Akhir Giliran: Beri (2 + Surviving Green Slime) Racun untuk semua musuh."
+    },
+    {
+      "id": 813901,
+      "name": "Expanding Oxygen",
+      "desc": "Ketika the Fluorescence Bagian rusak, beri [AaCePcBb] pada semua musuh.\nFluorescence Bagian regenerates setelah 2 giliran."
+    },
+    {
+      "id": 813902,
+      "name": "Underwater Breathing",
+      "desc": "Starting dari giliran 2, peroleh 8 Poise giliran ini jika the Fluorescence Bagian isn't broken.\nPeroleh +3 Poise Count. Starting dari giliran 2, peroleh 2 Paralyze dan 2 Damage Down giliran ini jika the Fluorescence Bagian rusak."
+    },
+    {
+      "id": 813903,
+      "name": "Siltcurrent",
+      "desc": "Starting dari giliran 2, semua Identitas tanpa [AaCePcBb] are diberikan dengan 1 Bind dan 1 Paralyze; Identitas tanpa [AaCePcBb] kehilangan 3 SP."
+    },
+    {
+      "id": 814001,
+      "name": "Harden",
+      "desc": "Bisa diberi damage hanya dengan damages setara dengan atau di atas dari 12.\nSemua damage under 12 is nullified."
+    },
+    {
+      "id": 814002,
+      "name": "Rolling Flotsam",
+      "desc": "Setelah the Dream-devouring Siltcurrent uses Blind Obsession, dan jika unit ini is not destroyed pada Akhir Giliran, beri 20 damage ke a acak Identitas."
+    },
+    {
+      "id": 814003,
+      "name": "Destroyed Flotsam",
+      "desc": "HP tidak turun di bawah 1 upon defeat.\nTurns menjadi a Destroyed Flotsam."
+    }
+  ]
+}

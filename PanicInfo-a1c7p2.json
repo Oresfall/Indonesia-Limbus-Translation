@@ -1,0 +1,16 @@
+{
+  "dataList": [
+    {
+      "id": 1030,
+      "panicName": "Bridle of Nihility",
+      "lowMoraleDescription": "Awal Giliran: peroleh 1 [Enhancement] dan 3 [DefenseDown]. Terima 5 SP pada Akhir Giliran.",
+      "panicDescription": "Awal Giliran: peroleh 2 [Enhancement] dan 6 [DefenseDown]. Pulihkan 10 SP pada Akhir Giliran."
+    },
+    {
+      "id": 9996,
+      "panicName": "Thorns",
+      "lowMoraleDescription": "Saat Menang Clash, peroleh 1 [AttackDmgUp]",
+      "panicDescription": "Saat Menang Clash, peroleh 1 [AttackDmgUp]. Pada Akhir Giliran, peroleh 2 [ParryingResultUp] giliran berikutnya."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+    "dataList": [
+        {
+            "id": 9015801,
+            "name": "Clumsy Bloodsucking",
+            "desc": "Saat Menyerang, jika target memiliki [Laceration], pulihkan sebanyak 5~10% dari damage yang diberikan"
+        },
+        {
+            "id": 9017501,
+            "name": "Festive Mood",
+            "desc": "Peroleh 1 [FestivalFever] setiap kali unit ini peroleh positive buff dengan efek Skill (sekali per type of buff)\n\nAwal Giliran: peroleh [FestivalFever] setara dengan jumlah dari other kawan (maks 3)\nAkhir Giliran: kehilangan [FestivalFever] setara dengan jumlah dari kawan that were killed giliran ini\nAkhir Giliran: pulihkan SP setara dengan [FestivalFever] pada diri sendiri (tidak mengaktifkan at -45 SP)\n\nAkhir Giliran: at 8+ [FestivalFever], gunakan Skill kuat giliran berikutnya"
+        },
+        {
+            "id": 9017502,
+            "name": "Bloodsucking",
+            "desc": "Saat Menyerang, jika target memiliki [Laceration], pulihkan sebanyak 20% dari damage yang diberikan"
+        },
+        {
+            "id": 9017503,
+            "name": "Blood Coagulation",
+            "desc": "Akhir Serangan: Jika target memiliki 5+ [Laceration], peroleh 1 [HardenedBlood]"
+        },
+        {
+            "id": 9017504,
+            "name": "Thirst for Blood",
+            "desc": "- Prioritaskan target dengan [Laceration]\nAkhir Giliran: jika unit ini failed untuk beri any damage giliran ini, peroleh 2 [Vulnerable] dan 2 Level Offense Up giliran berikutnya\n- Akhir Giliran: jika unit ini memberi damage giliran ini, pulihkan 5 SP"
+        },
+        {
+            "id": 9017505,
+            "name": "Bloodfeast",
+            "desc": "Jika unit ini is on field, atau is one of the unit that can appear on this Stage, increase [BloodDinner] value sebanyak jumlah dari [Laceration] damage collectively received sebanyak setiap unit. \nKetika unit ini memasuki pertarungan, the sleeping blood drenching the battlefield will surface."
+        },
+        {
+            "id": 9017506,
+            "name": "Starved dan Withered",
+            "desc": "Peroleh [StarvingDolcineaServant] saat dimulainya Pertempuran"
+        },
+        {
+            "id": 9017301,
+            "name": "Festive Sounds",
+            "desc": "Peroleh 1 [FestivalFever] setiap kali unit ini peroleh positive buff dengan efek Skill (sekali per type of buff)\n\nAwal Giliran: peroleh [FestivalFever] setara dengan jumlah dari other kawan (maks 3)\nAkhir Giliran: kehilangan [FestivalFever] setara dengan jumlah dari kawan that were killed giliran ini\n\nAkhir Giliran: at 8+ [FestivalFever], gunakan Skill kuat giliran berikutnya"
+        },
+        {
+            "id": 9017302,
+            "name": "Bloodsucking",
+            "desc": "Saat Menyerang, jika target memiliki [Laceration], pulihkan sebanyak 15% dari damage yang diberikan"
+        },
+        {
+            "id": 9017303,
+            "name": "Blood Coagulation",
+            "desc": "Akhir Serangan: Jika target memiliki 8+ [Laceration], peroleh 1 [HardenedBlood]"
+        },
+        {
+            "id": 9017304,
+            "name": "Thirst for Blood",
+            "desc": "Prioritaskan target dengan [Laceration]\nAkhir Giliran: jika unit ini failed untuk beri any damage giliran ini, peroleh 2 [Vulnerable] dan 2 [AttackUp] giliran berikutnya"
+        },
+        {
+            "id": 9017305,
+            "name": "Bloodbag",
+            "desc": "Ketika diserang, peroleh +1 [Laceration] Count.\nPeroleh 1 [HardenedBlood] dan 2 [BloomingThorns] setiap kali unit ini kehilangan 20% HP.\nJika terdapat Bloodfiend di medan tempur, tidak peduli dengan whether it kawan atau musuh, increase [BloodDinner] sebanyak 30 upon kematian"
+        },
+        {
+            "id": 9017101,
+            "name": "Starved dan Withered",
+            "desc": "Peroleh [StarvingPriestOne] saat dimulainya Pertempuran"
+        }
+    ]
+}

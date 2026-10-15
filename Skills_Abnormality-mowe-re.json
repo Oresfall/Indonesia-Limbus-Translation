@@ -1,0 +1,331 @@
+{
+  "dataList": [
+    {
+      "id": 130501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Aktifkan Prosthesis",
+          "desc": "[WhenUse] Pada 10+ [Charge] Count, konsumsi 3 [Charge] Count untuk peroleh Coin Power +1\n[WhenUse] Pada 15+ [Charge] Count, konsumsi 3 tambahan [Charge] Count untuk beri +20% damage\n[WhenUse] Pada kurang dari 5 [Charge] Count, kehilangan 10% HP dan peroleh +9 [Charge] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Binding] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 130502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hardblood Reflux",
+          "desc": "[WhenUse] Pada 10+ [Charge] Count, konsumsi 3 [Charge] Count untuk peroleh Coin Power +1\n[WhenUse] Pada 15+ [Charge] Count, konsumsi 3 tambahan [Charge] Count untuk beri +20% damage\n[WhenUse] Pada kurang dari 5 [Charge] Count, kehilangan 10% HP dan peroleh +9 [Charge] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Paralysis]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 130503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bioenergy Conversion Charge",
+          "desc": "[WhenUse] Konsumsi 10% HP pada diri sendiri untuk peroleh +15 [Charge] Count\n[DefeatDuel] Beri -50% damage dan damage yang diberikan Skill ini tidak dapat Stagger target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 4 [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 6 [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [AttackDown]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 130504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guard",
+          "desc": "[WhenUse] Base Power +1 untuk setiap 3 [Laceration] Count pada diri sendiri (maks 2)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 130505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hardblood Transfusion",
+          "desc": "[WhenUse] Pada 10+ [Charge] Count, konsumsi 3 [Charge] Count untuk peroleh Coin Power +1\n[WhenUse] Pada 15+ [Charge] Count, konsumsi 3 tambahan [Charge] Count untuk beri +20% damage\n[WhenUse] Pada kurang dari 5 [Charge] Count, kehilangan 10% HP dan peroleh +9 [Charge] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 130506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bioenergy Conversion Recharge",
+          "desc": "[WhenUse] Konsumsi 10% HP pada diri sendiri untuk peroleh +15 [Charge] Count\n[DefeatDuel] Beri -50% damage dan damage yang diberikan Skill ini tidak dapat Stagger target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 4 [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 1 [Vulnerable]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 4 [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 6 [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [AttackDown]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 123804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The Parade's Prince",
+          "desc": "[StartBattle] Peroleh Atk Weight setara dengan jumlah dari target dengan [Laceration] (maks 5)\n[WhenUse] Jika target utama memiliki 4+ [Laceration], Base Power +1\n[WhenUse] Jika target utama memiliki 3+ [Laceration], Coin Power +1\n[DefeatDuel] Kehilangan 1 [KeptBlood]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [KeptBlood]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 123807,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I Am... The Prince... of the Parade...!",
+          "desc": "[CantDuel]\n[WhenUse] Peroleh 4 [Paralysis]\n[WhenUse] Double Hardblood[TabExplain] Glaive's pulihkan efek\n[WhenUse] Reset SP ke 0\n[EndSkill] Peroleh [KeptBlood] 10\nDoes not terkena Stagger giliran ini; ends giliran setelah memakai Skill ini.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration] dan +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration] dan +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration] dan +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration] dan +1 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 123808,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'm... Never... Going Back...!",
+          "desc": "[WhenUse] Clash Power +1 untuk setiap 5 [Laceration] pada target utama (maks 3)\n[WhenUse] Pada 4+ [Laceration] Count pada target utama, Coin Power +1\n[WhenUse] Beri +5% damage untuk setiap [Laceration] Count pada target utama (maks 20%)\n[WinDuel] Double Hardblood[TabExplain] Glaive's pulihkan efek\n[DefeatDuel] Hardblood[TabExplain] Glaive's pulihkan efek tidak mengaktifkan\n[DefeatDuel] Beri -80% damage dan damage yang diberikan Skill ini tidak dapat Stagger target\n[EndSkill] Peroleh [KeptBlood] 10",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration] dan +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration] dan +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration] dan +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 3 [Laceration] dan +1 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

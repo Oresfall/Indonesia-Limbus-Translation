@@ -1,0 +1,307 @@
+{
+    "dataList": [
+        {
+            "id": 0,
+            "place": "Koridor Wuthering Heights",
+            "content": "Heathcliff sedang menggeledah saku-saku mayat para Dead Rabbits."
+        },
+        {
+            "id": 1,
+            "model": "단테",
+            "content": "<Kamu sedang mencari apa, Heathcliff?>"
+        },
+        {
+            "id": 2,
+            "model": "히스클리프",
+            "content": "Mereka tidak memilikinya."
+        },
+        {
+            "id": 3,
+            "model": "단테",
+            "content": "<Penunjuk waktu yang disebutkan Yi Sang sebelumnya?>"
+        },
+        {
+            "id": 4,
+            "model": "히스클리프",
+            "content": "Ya. Semuanya yang lahir dan dibesarkan di T Corp. selalu membawa jam. Mereka harus memakainya."
+        },
+        {
+            "id": 5,
+            "content": "Benar... perwira Kurokumo Clan yang kita lawan di gedung Yong-jin juga mencari sebuah penunjuk waktu."
+        },
+        {
+            "id": 6,
+            "model": "히스클리프",
+            "content": "Ini... semacam <ruby=Identitas>identity</ruby> pribadi. Ini adalah sesuatu yang lu bawa untuk menunjukkan kepada orang lain bahwa lu adalah diri lu sendiri."
+        },
+        {
+            "id": 7,
+            "model": "히스클리프",
+            "content": "Gua buang jam gua pas gua cabut dari T Corp., tapi..."
+        },
+        {
+            "id": 8,
+            "model": "넬리",
+            "content": "Benar juga... Mereka bahkan tidak membawa rantai jam dalam saku mereka."
+        },
+        {
+            "id": 9,
+            "model": "넬리",
+            "content": "Jika mereka memang membawa jam, setidaknya kita bisa mengetahui dari mana mereka berasal."
+        },
+        {
+            "id": 10,
+            "model": "로쟈",
+            "content": "Jadi, seseorang mungkin tidak ingin orang lain mengetahui <ruby=Identitas>identity</ruby>nya... atau mereka memang bukan berasal dari daerah sini. Benar kan?"
+        },
+        {
+            "id": 11,
+            "model": "이상",
+            "content": "Saya telah memperhatikan bahwa pakaian seperti itu biasa dikenakan di wilayah T Corp. Saya yakin mereka pasti penduduk setempat..."
+        },
+        {
+            "id": 12,
+            "model": "오티스",
+            "content": "Ada banyak pertanyaan yang tidak terjawab... tapi mari kita bahas itu nanti."
+        },
+        {
+            "id": 13,
+            "model": "히스클리프",
+            "content": "... Disinilah."
+        },
+        {
+            "id": 14,
+            "model": "넬리",
+            "content": "Wah... Perjalanan yang cukup panjang, ya? Masuk nggak ya?"
+        },
+        {
+            "id": 15,
+            "model": "히스클리프",
+            "content": "... Nelly. beritahu gua."
+        },
+        {
+            "id": 16,
+            "model": "히스클리프",
+            "content": "Setelah gua... pergi tanpa sepatah kata... bagaimana keadaan Catherine?"
+        },
+        {
+            "id": 17,
+            "model": "넬리",
+            "content": "......."
+        },
+        {
+            "id": 18,
+            "model": "히스클리프",
+            "content": "Tentu saja, gua sudah tahu bahwa dia hidup bahagia selamanya dengan si brengsek Linton itu. Tapi..."
+        },
+        {
+            "id": 19,
+            "model": "넬리",
+            "content": "Kau yakin kau mau tau?"
+        },
+        {
+            "id": 20,
+            "model": "히스클리프",
+            "content": "Sialan, gua mau. Tapi... Gua juga ga mau tau."
+        },
+        {
+            "id": 21,
+            "model": "히스클리프",
+            "content": "Gua pasti terlihat sangat... menyedihkan. Jika Cathy ada di sini, dia pasti akan mengejekku tanpa ampun."
+        },
+        {
+            "id": 22,
+            "model": "넬리",
+            "content": "Seharusnya aku membawakanmu cermin agar kau bisa melihat ekspresi berharga di wajahmu itu..."
+        },
+        {
+            "id": 23,
+            "model": "넬리",
+            "content": "... seandainya aku tidak menyingkirkan semuanya dari tempat ini... Ha ha."
+        },
+        {
+            "id": 24,
+            "model": "히스클리프",
+            "content": "Ck, gua ga tertarik dengan lelucon bodohmu."
+        },
+        {
+            "id": 25,
+            "model": "히스클리프",
+            "content": "Tapi apakah Catherine pernah, sekali saja, membicarakan tentangku sejak gua cabut?"
+        },
+        {
+            "id": 26,
+            "model": "넬리",
+            "content": "... Tidak."
+        },
+        {
+            "id": 27,
+            "model": "히스클리프",
+            "content": "......."
+        },
+        {
+            "id": 28,
+            "model": "히스클리프",
+            "content": "Tentu saja tidak. Seorang berandal goblok, seorang bajingan sepertiku... Gua yakin Catherine tidak mempermasalahkan apakah gua—"
+        },
+        {
+            "id": 29,
+            "model": "넬리",
+            "content": "Aku tidak akan seyakin itu, Heathcliff."
+        },
+        {
+            "id": 30,
+            "model": "넬리",
+            "content": "Bukan itu maksudku."
+        },
+        {
+            "id": 31,
+            "model": "넬리",
+            "content": "Saat kau pergi, Nona Catherine... dia mulai merana. Dia mengurung diri di kamarnya berhari-hari, menolak makan atau bahkan berbicara."
+        },
+        {
+            "id": 32,
+            "model": "넬리",
+            "content": "Lalu dia tiba-tiba akan menangis tersedu-sedu, menjerit, menangis, membisikkan berbagai hal kepada dirinya sendiri... Tuan Linton akan datang untuk membujuknya, tetapi itu hampir tidak membantu."
+        },
+        {
+            "id": 33,
+            "model": "넬리",
+            "content": "Dia sakit parah sehingga saya khawatir kami mungkin harus mulai membuat pengaturan dengan petugas kamar mayat jauh-jauh hari sebelumnya."
+        },
+        {
+            "id": 34,
+            "model": "히스클리프",
+            "content": "Benarkah? Aku... Catherine... dia begitu menderita?"
+        },
+        {
+            "id": 35,
+            "content": "Heathcliff bertanya dengan nada tak percaya."
+        },
+        {
+            "id": 36,
+            "model": "넬리",
+            "content": "Iya. Kami bahkan tersedih melihatnya menderita. Lalu suatu hari, dia..."
+        },
+        {
+            "id": 37,
+            "model": "캐서린",
+            "content": "Nelly, lihat. Linton meninggalkan bunga di atas bantalku."
+        },
+        {
+            "id": 38,
+            "model": "캐서린",
+            "content": "Oh, warnanya emas. Saya tidak sangka musim semi sudah datang ke Wuthering Heights. Sepertinya, saljunya juga sudah hampir mencair sepenuhnya."
+        },
+        {
+            "id": 39,
+            "model": "넬리",
+            "content": "Bukankah itu sangat romantis darinya, Nona?"
+        },
+        {
+            "id": 40,
+            "model": "캐서린",
+            "content": "Kurasa memang bisa terlihat seperti itu. Dia pasti membayar mahal sekali untuk ini."
+        },
+        {
+            "id": 41,
+            "model": "캐서린",
+            "content": "Tetapi jika Linton benar-benar menyayangiku, benar-benar ingin mengembalikan warna pada bunga demi diriku..."
+        },
+        {
+            "id": 42,
+            "model": "캐서린",
+            "content": "... maka seharusnya dia membawakanku bunga berwarna ungu."
+        },
+        {
+            "id": 43,
+            "model": "넬리",
+            "content": "......."
+        },
+        {
+            "id": 44,
+            "model": "캐서린",
+            "content": "Jadi... dia tidak membawakanku bunga ini demi diriku. Dia hanya melakukan ini demi kepuasannya sendiri."
+        },
+        {
+            "id": 45,
+            "model": "넬리",
+            "content": "Apakah anda... baik-baik saja, Nona?"
+        },
+        {
+            "id": 46,
+            "model": "캐서린",
+            "content": "Apa maksudmu? Saya belum pernah merasa sebaik hari ini."
+        },
+        {
+            "id": 47,
+            "model": "캐서린",
+            "content": "Berjalanlah bersamaku, ya? Saya ingin melihat bunga mana yang telah bertahan melewati dinginnya musim dingin dan mekar."
+        },
+        {
+            "id": 48,
+            "model": "넬리",
+            "content": "Setelah hari itu, Nona Catherine benar-benar tampak sudah pulih."
+        },
+        {
+            "id": 49,
+            "model": "넬리",
+            "content": "Kami semua bahagia melihat Nona Catherine kembali menjadi dirinya sendiri, tetapi..."
+        },
+        {
+            "id": 50,
+            "model": "넬리",
+            "content": "... Sekarang kalau dipikir-pikir, itu agak aneh. Dia menderita demam berbulan-bulan; bagaimana mungkin seseorang bisa tiba-tiba pulih dari semua itu hanya setelah beristirahat semalam?"
+        },
+        {
+            "id": 51,
+            "model": "넬리",
+            "content": "Dan itu juga setelah dia membeli Wuthering Heights dari Tuan Hindley Earnshaw..."
+        },
+        {
+            "id": 52,
+            "model": "넬리",
+            "content": "... dan mulai melakukan modifikasi besar-besaran pada tempat ini."
+        },
+        {
+            "id": 53,
+            "model": "넬리",
+            "content": "Aku pikir mereka berdua berniat untuk kembali ke Wuthering Heights, jadi aku bertanya kepada mereka apa sebenarnya rencana mereka dengan tempat itu... tetapi mereka tidak pernah memberi saya jawaban yang jelas."
+        },
+        {
+            "id": 54,
+            "model": "넬리",
+            "content": "Haah. Aku juga sama bingungnya denganmu. Aku sama sekali tidak tahu apa yang dia pikirkan..."
+        },
+        {
+            "id": 55,
+            "model": "히스클리프",
+            "content": "Bagaimana dengan... surat-suratku?"
+        },
+        {
+            "id": 56,
+            "model": "히스클리프",
+            "content": "Gua ada ngirim surat. Gua ga sempat nulis sejak gua bergabung dengan perusahaan ini, tapi... pas gua masih jadi bagian geng itu..."
+        },
+        {
+            "id": 57,
+            "model": "히스클리프",
+            "content": "... Gua ada nulisin dia surat. Walaupun gua nggak nulis nama gua."
+        },
+        {
+            "id": 58,
+            "model": "히스클리프",
+            "content": "Gua... hanya mau ngasih tau aja kalo gua ga pa-pa."
+        },
+        {
+            "id": 59,
+            "model": "넬리",
+            "content": "Ya, aku tidak pernah ingat dia pernah membaca surat."
+        },
+        {
+            "id": 60,
+            "model": "넬리",
+            "content": "Sungguh, begitu dia sudah menetapkan pikirannya pada sesuatu, tidak ada seorang pun yang bisa membujuknya untuk berubah pikiran. Tidak seorang pun..."
+        }
+    ]
+}

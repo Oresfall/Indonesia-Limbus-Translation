@@ -1,0 +1,147 @@
+{
+  "dataList": [
+    {
+      "id": 132203,
+      "name": "Bayangan Tumpang Tindih",
+      "desc": "Awal Pertempuran: Peroleh [TimeEntangleFour]\nPada pada awal setiap giliran pertama dari tiap fase, peroleh [TimeGapAb] setara dengan (tahapan [TimeEntangleDesc] x 400) (sekali per tahapan [TimeEntangleDesc])\n\nPada tahap 3 dan 4 [TimeEntangleDesc], <color=#ff6000><mark=#ff000040><b><u>jika unit ini kehilangan semua [TimeGapAb], fase berubah dan menjadi Stagger selama giliran berikutnya</u></b></mark></color>\n\nTerima -30% HP, SP damage dari [Combustion], [Laceration], [Burst], dan [Sinking]; -30% ke Batas Stagger yang dinaikkan oleh [Vibration]",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132204,
+      "name": "Reverberasi Bayangan",
+      "desc": "Saat serang dengan Coin unit ini, beri Slash damage setara dengan (the Coin's final damage / 10)\n- Efek ini aktif sebanyak (tahapan [TimeEntangleDesc]) kali; damage dari efek ini tidak dapat Stagger target",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132205,
+      "name": "Lacerating Afterimages dari Myriad Moments",
+      "desc": "Akhir Skill Attack: Beri (# dari Coin Slash yang menyerang secara Critical x 10) Slash damage terhadap setiap target) (damage dari efek ini tidak dapat Stagger target)\n\nAttack Akhir Skill: Konsumsi setiap Potency [Breath] berlebih di atas 20 pada diri sendiri dan beri [PhantomIncision] ke target sebanyak Potency [Breath] yang dikonsumsi",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132208,
+      "name": "Unsheathing Pedang Dihui Star",
+      "desc": "Gunakan pola serangan kuat setiap 4 giliran\n- Pada 50+ [PhantomIncisionTotal], pola di atas akan diperkuat",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "'... Aku lelah dengan stigma pedang ini.'"
+    },
+    {
+      "id": 132216,
+      "name": "'Aku Akan Memberimu Ampunan'",
+      "desc": "Beri -50% final damage dengan Skill unit ini terhadap target yang menggunakan Skill Defense\n\nAkhir Giliran: Peroleh 2 [Vulnerable] dan 2 [AttackDmgUp] setiap 4 giliran di Pertempuran ini (memberi secara kumulatif; maks 2 kali per Pertempuran)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132101,
+      "name": "Saraf Hidup - Pelepasan Pencegahan Sebagian",
+      "desc": "Saat mati, semua Skill dibatalkan untuk giliran ini\nPeroleh 10 [SelfCharge] ketika efek di atas diaktifkan",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132102,
+      "name": "Kegigihan Abadi",
+      "desc": "Setiap 5 giliran, peroleh Perisai setara dengan HP \"Kepala\"",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132103,
+      "name": "Kegigihan Terhentikan",
+      "desc": "Setelah menggunakan 'Menggulung', jika Perisai habis, habiskan semua [SelfCharge]\nSemua bagian menjadi Stagger giliran berikutnya",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132001,
+      "name": "Bara Terakhir",
+      "desc": "Pada 30%- HP, peroleh +1 lebih [MRcAiBa]",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132002,
+      "name": "Nyalakan Api",
+      "desc": "Ketika Bagian \"Sayap\" rusak, beri [MRcAiBb] setara dengan Stack [MRcAiBa] kepada penyerang terakhir; lalu, semua [MRcAiBa] pada diri sendiri kadaluarsa.\n\nKetika menggunakan 'Ardor Blossom Star' pada 0 [MRcAiBa], gunakan 'Nyalakan Api' juga",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132003,
+      "name": "Api Membara",
+      "desc": "Ubah beberapa Skill non-wrath setara dengan Stack [MRcAiBa] menjadi Wrath Skill",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132004,
+      "name": "Ardor Blossom yang Bertautan",
+      "desc": "Jika unit ini memiliki [MRcAiBa], ubah beberapa Skill non-wrath setara dengan Stack [MRcAiBa] menjadi Wrath Skill\n\nSaat Serang, beri [Combustion] setara dengan (# dari Wrath Skill yang akan digunakan Ardor Blossom Moth giliran ini)\n\nSaat Serang, pulihkan HP setara dengan (# dari Wrath Skill yang akan digunakan Ardor Blossom Moth giliran ini x 2)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132005,
+      "name": "Sumber Daya Pasokan",
+      "desc": "Ketika Bagian \"Sayap\" rusak, peroleh 2 E.G.O Resource dari semua Affinity dan pulihkan semua SP Sinner sebanyak 15",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132006,
+      "name": "Sayap Menyala - Pelepasan Pencegahan Sebagian",
+      "desc": "Tidak terima damage [Combustion]\n\nAkhir Giliran: Pulihkan \"Inti\" sebanyak ([Combustion] pada diri sendiri x 5)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132501,
+      "name": "Prescript yang Dikirim Melalui Perangkat",
+      "desc": "Awal Pertempuran: Peroleh Perisai setara dengan 20% dari maks HP (tidak hilang sepanjang Pertarungan)\n\nAwal Giliran:\n- Peroleh [IndexPrescript_Base_2nd] berdasarkan tahapan [UnlockBuff_Base] pada diri sendiri\n- <color=#ff6000><mark=#ff000040><b><u>Beri [IndexPrescriptTargetToPersonality] pada musuh acak dan prioritaskan menyerang musuh tersebut</u></b></mark></color> (kecuali pola tertentu)\n\nBeri +2.5% damage ke [IndexPrescriptTargetToPersonality] untuk setiap [BlessingOfIndexPrescriptEnemy] (maks 20%)\n- Pada 9 [BlessingOfIndexPrescriptEnemy], beri +30% damage ke semua target saja",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132502,
+      "name": "Keyakinan Prescript",
+      "desc": "Akhir Giliran: <color=#ff6000><mark=#ff000040><b><u>Jika [IndexPrescript_Base_2nd] dilakukan giliran ini,</u></b></mark></color> pulihkan 15 SP dan peroleh [BlessingOfIndexPrescriptEnemy] sebanyak (tahapan [UnlockBuff_Base] + 1) (sekali per giliran)\n\nAkhir Giliran: <color=#ff6000><mark=#ff000040><b><u>Jika [IndexPrescript_Base_2nd] tidak dilakukan giliran ini</u></b></mark></color>, peroleh 1 [PressureOfPrescript] dan 5 [KarmaOfIndexStudent]\n- Jika unit ini tidak memiliki [UnlockBuff_Base], peroleh 1 [BlessingOfIndexPrescriptEnemy] pada Akhir Giliran\n- Pada 9 [BlessingOfIndexPrescriptEnemy], tidak memperoleh [KarmaOfIndexStudent]\n- Jika unit ini is under efek of Effloresced[TabExplain] E.G.O::Procuration, double [KarmaOfIndexStudent] unit ini will peroleh",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132503,
+      "name": "Unlock",
+      "desc": "Akhir Giliran: Pada 3/6/9 [BlessingOfIndexPrescriptEnemy] atau pada 90%-/75%-/60%- HP,\n- Peroleh [UnlockBuff_1]/[UnlockBuff_2]/[UnlockBuff_3]\n- Pulihkan ke 45 SP\n- <color=#ff6000><mark=#ff000040><b><u>Konsumsi semua [PressureOfPrescript]</u></b></mark></color> dan pulih dari Stagger\n- Peroleh 1 [BlessingOfIndexPrescriptEnemy] pada giliran setelah [UnlockBuff_Base] telah diperoleh untuk pertama kalinya\n\nJika [UnlockBuff_Base] diperoleh berdasarkan kondisi HP di atas,\n- Peroleh [KarmaOfIndexStudent] sebanyak (jumlah SP yang dipulihkan / 15)\n- Menambah [BlessingOfIndexPrescriptEnemy] ke 3/6/9 jika unit ini memiliki kurang dari 3/6/9 [BlessingOfIndexPrescriptEnemy]; peroleh 1 [DefenseDown] dan 2 [KarmaOfIndexStudent] giliran berikutnya untuk setiap [BlessingOfIndexPrescriptEnemy] Stack diperoleh\n\nMin & Maks Speed +10 pada giliran unit ini menggunakan serangan kuatnya",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Dikatakan bahwa bilah dan kain yang dianugerahkan oleh Prescript hanya akan membuka kekuatan mereka ketika Prescript tersebut dilaksanakan.\""
+    },
+    {
+      "id": 132504,
+      "name": "Effloresced E.G.O::Procuration",
+      "desc": "Awal Giliran: jika unit ini memiliki [UnlockBuff_Base] dan berada pada 25+ SP, konsumsi 15 SP ke enter status Effloresced[TabExplain] E.G.O::Procuration dan pulih dari Stagger\n- Peroleh [Blandishment_Enemy] dan nilai Resistansi berbeda saat di status ini\n- Awal Giliran: at 0 atau lebih sedikit SP, exit status Effloresced[TabExplain] E.G.O::Procuration",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 132505,
+      "name": "Wujud Pemusnah",
+      "desc": "Ketika Vespa memasuki medan tempur:\n- Jika [UnlockBuff_Base] di bawah stage II, peroleh [UnlockBuff_3], pulihkan SP ke 45, dan pulih dari Stagger\n- Peroleh 1 [Blandishment_Shin_Enemy] dan peroleh Perisai setara dengan 50% dari maks HP (bertahan hingga sepanjang Pertempuran)\n- Nonaktifkan biaya [PressureOfPrescript] dari mengaktifkan Pasif 'Unlock[TabExplain]'\n- Perkuat [PressureOfPrescript] ke [PressureOfPrescript_2nd] dan maksimalkan Stack-nya\n- Awal Giliran: Peroleh 1 [PressureOfPrescript_2nd]\n- Lalu, SP unit ini tidak turun di bawah 0\n\nPada 20% atau kurang HP, maksimalkan Stack [PressureOfPrescript_2nd]",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "'O-orang yang sangat berbahaya... Prescript bisa tidak terlaksana jika terus seperti ini.'"
+    },
+    {
+      "id": 132230,
+      "name": "Pemulihan Panik",
+      "desc": "Akhir Giliran: jika Panik, reset SP ke 30.",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

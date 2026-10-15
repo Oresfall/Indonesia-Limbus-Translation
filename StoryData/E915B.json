@@ -1,0 +1,379 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "content": "... Mm. Tidak, tunggu—kalau yang ini, harusnya kita lakukan seperti..."
+    },
+    {
+      "id": 1,
+      "model": "파우스트",
+      "content": "... te."
+    },
+    {
+      "id": 2,
+      "content": "Tidak, Heathcliff sudah di barisan depan terlalu lama. Aku harus panggil dia mundur dan membiarkannya—"
+    },
+    {
+      "id": 3,
+      "place": "Kamar Dante",
+      "model": "파우스트",
+      "content": "Dante."
+    },
+    {
+      "id": 4,
+      "model": "단테",
+      "content": "<... Huh? Oh, maaf. Kamu bilang sesuatu?>"
+    },
+    {
+      "id": 5,
+      "model": "파우스트",
+      "content": "Faust sudah memberikan jawaban atas pertanyaanmu... tetapi kau tidak menunjukkan respons yang dapat diamati."
+    },
+    {
+      "id": 6,
+      "model": "파우스트",
+      "content": "Apakah performa bertarung para <ruby=Pendosa>Sinners</ruby> memburuk melampaui parameter yang dapat dikelola?"
+    },
+    {
+      "id": 7,
+      "model": "단테",
+      "content": "<Tidak, situasinya tidak seburuk <i>itu</i>, tapi...>"
+    },
+    {
+      "id": 8,
+      "model": "단테",
+      "content": "<Hanya saja sulit untuk fokus pada satu percakapan saat aku mencoba mendukung pertempuran yang terjadi di beberapa tempat yang sepenuhnya berbeda sekaligus.>"
+    },
+    {
+      "id": 9,
+      "model": "단테",
+      "content": "<Ditambah lagi, obrolan belanja Rodya mulai agak mengganggu konsentrasi...>"
+    },
+    {
+      "id": 10,
+      "content": "Beberapa hari setelah kami memasuki <ruby=Distrik>District</ruby> N Corp.,"
+    },
+    {
+      "id": 11,
+      "content": "Bus menepi di <ruby=Belakangan>Backstreets</ruby> N Corp. untuk menangani sebuah kasus <ruby=Distorsi>Distortion</ruby>."
+    },
+    {
+      "id": 12,
+      "content": "Kontrak ini seharusnya ditangani bersama dengan tim LCD, tapi..."
+    },
+    {
+      "id": 13,
+      "content": "<ruby=Distorsi>Distortions</ruby> tiba-tiba mulai bermunculan di seluruh area <ruby=Belakangan>Backstreets</ruby> yang disebut Jalan <ruby=Mentega>Butter</ruby>, tanpa pola yang jelas. Tidak ada titik asal atau rute penyebaran yang pasti—tidak ada hal yang semudah itu, dan aku tidak punya pilihan selain membagi para <ruby=Pendosa>Sinners</ruby> menjadi beberapa kelompok lalu mengutus mereka keluar."
+    },
+    {
+      "id": 14,
+      "place": -1,
+      "content": "Outis, Ishmael, Sinclair, Don Quixote, Yi Sang, dan Meursault sedang dalam perjalanan untuk bertemu dengan tim LCD."
+    },
+    {
+      "id": 15,
+      "content": "Heathcliff, Gregor, dan Hong Lu sedang melawan <ruby=Distorsi>Distortions</ruby> yang muncul dari arah lain."
+    },
+    {
+      "id": 16,
+      "content": "Dan karena persediaan di dalam bus sudah terkuras habis hingga ke dasar, Rodya dan Ryōshū, yang telah menyelesaikan bagian tugas penekanan mereka, ditugaskan untuk membeli pasokan kebutuhan untuk Bus."
+    },
+    {
+      "id": 17,
+      "content": "Sedangkan untuk Faust..."
+    },
+    {
+      "id": 18,
+      "place": "Kamar Dante",
+      "content": "Dia memutuskan untuk tetap tinggal bersamaku di dalam bus. Aku ingin menyelesaikan sesi konsultasi yang sempat kutunda, dan berpikir bahwa ini saat yang tepat untuk melatih diriku yang sangat membutuhkan latihan dalam mengendalikan kekuatan <ruby=Ranting Emas>Golden Bough</ruby> baru yang telah kuperoleh."
+    },
+    {
+      "id": 19,
+      "model": "파우스트",
+      "content": "Untuk menegaskan kembali: tidak ada masalah yang memerlukan perhatian khusus mengenai Faust."
+    },
+    {
+      "id": 20,
+      "model": "파우스트",
+      "content": "Memang benar bahwa dalam beberapa kesempatan terakhir, Faust menyatakan ketidakpuasan terhadap Faust tertentu. Namun, kejadian-kejadian tersebut sebaiknya diklasifikasikan sebagai keluhan pribadi belaka."
+    },
+    {
+      "id": 21,
+      "model": "단테",
+      "content": "<Maksudku, baguslah kalau memang hanya sebatas itu masalahnya, tapi...>"
+    },
+    {
+      "id": 22,
+      "content": "Ini bukan pertama kalinya Faust tampak... tidak seperti dirinya yang biasanya."
+    },
+    {
+      "id": 23,
+      "content": "Ada saat-saat sebelumnya ketika dia menghabiskan waktu sendirian jauh lebih lama dari biasanya, tenggelam dalam pikiran—momen-momen saat dia tidak bisa memberikan jawaban langsung atas pertanyaan dari para <ruby=Pendosa>Sinners</ruby> lain atau dariku."
+    },
+    {
+      "id": 24,
+      "model": "단테",
+      "content": "<Mungkinkah...>"
+    },
+    {
+      "id": 25,
+      "model": "단테",
+      "content": "<Kau tidak bisa mengakses Gesellschaft?>"
+    },
+    {
+      "id": 26,
+      "model": "파우스트",
+      "content": "... Boleh Faust tahu apa dasar dari kesimpulanmu itu?"
+    },
+    {
+      "id": 27,
+      "model": "단테",
+      "content": "<'Karena sikapmu sangat mirip dengan apa yang kau lakukan saat di Kereta WARP dulu.>"
+    },
+    {
+      "id": 28,
+      "model": "파우스트",
+      "content": "... Tampaknya masih ada kesempatan dimana kau mampu mengejutkan Faust, Dante."
+    },
+    {
+      "id": 29,
+      "model": "단테",
+      "content": "<Jadi aku benar? Kau benar-benar terputus dari Gesellschaft?!>"
+    },
+    {
+      "id": 30,
+      "model": "파우스트",
+      "content": "Itu tadi tidak dimaksudkan sebagai konfirmasi atas dugaanmu."
+    },
+    {
+      "id": 31,
+      "content": "Mungkin maksudnya adalah meskipun secara teknis dia <i>bisa</i> mengakses Gesellschaft... keadaannya sama saja seperti dia tidak bisa mengaksesnya?"
+    },
+    {
+      "id": 32,
+      "content": "Aku ingin bertanya lebih banyak dan mencari tahu akar masalahnya, tetapi cara dia mengalihkan topik pembicaraan memberi tahu aku bahwa mendesaknya lebih jauh tidak akan memberikan kejelasan apa-apa."
+    },
+    {
+      "id": 33,
+      "model": "단테",
+      "content": "<... Baiklah. Aku tidak akan mendesakmu jika kau tidak ingin membicarakannya.>"
+    },
+    {
+      "id": 34,
+      "model": "파우스트",
+      "content": "... Sikap tenggang rasamu sangat dihargai."
+    },
+    {
+      "id": 35,
+      "model": "단테",
+      "content": "<Bisa kita lanjutkan?>"
+    },
+    {
+      "id": 36,
+      "model": "파우스트",
+      "content": "Ya. Konsultasimu adalah agenda berikutnya."
+    },
+    {
+      "id": 37,
+      "model": "파우스트",
+      "content": "Setelah mencocokkan catatan terkait peristiwa baru-baru ini di <ruby=Rumah Laba-laba>House of Spiders</ruby>, tampaknya ingatan mengenai individu yang diidentifikasi sebagai \"Sora\" dan \"Ren\"... saat ini hanya tersisa pada dirimu, Dante."
+    },
+    {
+      "id": 38,
+      "model": "파우스트",
+      "content": "Oleh karena itu, jika pengaruh Ryōshū dan pedangnya menyebabkan kelalaian lebih lanjut dalam catatan resmi, Manajer akan bertanggung jawab untuk melengkapi informasi yang diperlukan."
+    },
+    {
+      "id": 39,
+      "model": "단테",
+      "content": "<... Ya. Bukan pertama kalinya aku menjadi satu-satunya yang tersisa dengan ingatan yang utuh, huh.>"
+    },
+    {
+      "id": 40,
+      "content": "Itu benar. Terlepas dari Prosedur Penghapusan Memori K Corp., \"penghapusan\" Catherine oleh kekuatan <ruby=Ranting Emas>Golden Bough</ruby>, dan Arayashiki yang memutuskan keberadaan orang-orang..."
+    },
+    {
+      "id": 41,
+      "content": "Hanya aku satu-satunya yang mengingat apa yang telah terjadi."
+    },
+    {
+      "id": 42,
+      "content": "Namun ironisnya, ingatan yang kumiliki sebelum menukar kepalaku dengan jam ini masih belum menunjukkan tanda-tanda akan kembali."
+    },
+    {
+      "id": 43,
+      "model": "단테",
+      "content": "<Tapi mengapa ingatan lamaku tidak kunjung kembali? Apakah karena \"Kepala Jam\" ini?>"
+    },
+    {
+      "id": 44,
+      "model": "파우스트",
+      "content": "Spekulasi yang didasarkan pada pengalamanmu bersama Tim Bus sejauh ini tidak akan memberikan kontribusi yang berarti bagi pemulihan ingatan masa lalumu, Manajer."
+    },
+    {
+      "id": 45,
+      "model": "파우스트",
+      "content": "Bagaimanapun juga, penalaran induktif yang dilakukan dari ingatan yang memiliki celah pasti memiliki keterbatasan struktural. Bongy bisa menjadi analogi yang memadai."
+    },
+    {
+      "id": 46,
+      "model": "단테",
+      "content": "<Bongy....?!>"
+    },
+    {
+      "id": 47,
+      "model": "파우스트",
+      "content": "Ya, Bongy. Menerima makanan dan bertambahnya massa tubuh saja tidak akan memberikan dasar yang berarti baginya untuk mengidentifikasi tujuan dari pembesarannya. Bahkan pada tahap akhir, ketika dihadapkan pada peralatan dapur dan panasnya kompor, pengalamannya yang terbatas akan terbukti tidak cukup untuk membentuk pemahaman tentang nasib dan tujuan akhirnya."
+    },
+    {
+      "id": 48,
+      "model": "파우스트",
+      "content": "... Demikian pula, jawaban akhir dari keraguanmu hanya dapat diperoleh dari keseluruhan pengalaman yang akan kau kumpulkan di ujung seluruh perjalananmu—yaitu, misi yang telah dialokasikan kepadamu."
+    },
+    {
+      "id": 49,
+      "model": "단테",
+      "content": "<... Karena harta karun menanti di ujung jalan. Di ujung neraka.>"
+    },
+    {
+      "id": 50,
+      "model": "단테",
+      "content": "<Dan harta karun itu akan mengembalikan ingatan dan kepalaku. Juga...>"
+    },
+    {
+      "id": 51,
+      "model": "파우스트",
+      "content": "Tepat sekali. Di ujung jalan, kau akan dapat mengukir Aspect milikmu."
+    },
+    {
+      "id": 52,
+      "content": "Aku masih tidak tahu apa arti sebenarnya dari \"Aspect\", atau bahkan apakah itu sebuah objek, tetapi jika ada satu hal yang kupahami..."
+    },
+    {
+      "id": 53,
+      "place": -1,
+      "content": "Yaitu bahwa \"diriku\" yang dulu sebelum semua ini dimulai sangat menginginkannya. Secara obsesif, dan mati-matian."
+    },
+    {
+      "id": 54,
+      "content": "Ini lebih seperti pengetahuan insting... Namun dengan hilangnya ingatanku, perasaan itu, sekuat apapun adanya, tidak mengubah fakta bahwa itu hanyalah sebuah kata lain tanpa gambaran mental yang jelas."
+    },
+    {
+      "id": 55,
+      "place": "Kamar Dante",
+      "model": "단테",
+      "content": "<... Dan kau tidak akan memberi tahu aku apa sebenarnya hal itu, kan? Si Aspect itu.>"
+    },
+    {
+      "id": 56,
+      "model": "단테",
+      "content": "<Arti dari... atau mengapa aku sangat menginginkannya.>"
+    },
+    {
+      "id": 57,
+      "model": "파우스트",
+      "content": "Jika hal itu tetap menjadi sepotong informasi yang belum boleh diungkapkan kepadamu, maka tidak,"
+    },
+    {
+      "id": 58,
+      "model": "파우스트",
+      "content": "Faust tidak dapat memberi tahu anda."
+    },
+    {
+      "id": 59,
+      "model": "단테",
+      "content": "<Hmm...?>"
+    },
+    {
+      "id": 60,
+      "model": "파우스트",
+      "content": "Jangan dimasukkan ke dalam hati. Anda masih mengikuti Bintangmu dengan cukup baik. Harap berkonsentrasi pada perjalanan."
+    },
+    {
+      "id": 61,
+      "model": "파우스트",
+      "content": "Yang lebih penting... Apakah anda sudah terbiasa dengan kekuatan yang belum lengkap itu? Pengamatan saat ini menunjukkan bahwa kau belum mencapai tingkat tersebut."
+    },
+    {
+      "id": 62,
+      "model": "단테",
+      "content": "<Yah, aku sudah cukup terbiasa berfokus pada satu tempat dalam satu waktu... tapi melacak beberapa tempat sekaligus masih agak terasa berat.>"
+    },
+    {
+      "id": 63,
+      "content": "Tim Outis melakukan tugasnya dengan baik dalam pertempuran bahkan tanpa pengawasan langsung dariku, dan tim Rodya sedang berbelanja dan tidak terlibat dalam pertempuran saat ini. Mengalihkan pikiranku dari mereka akan terasa jauh lebih mudah..."
+    },
+    {
+      "id": 64,
+      "content": "Tapi hal itu tidak akan memberiku latihan yang sangat dibutuhkan, jadi aku melakukan yang terbaik untuk mengawasi status setiap <ruby=Pendosa>Sinner</ruby>."
+    },
+    {
+      "id": 65,
+      "model": "파우스트",
+      "content": "Keakraban yang memadai akan menghasilkan nilai taktis yang substansial. Anda akan dapat memperluas jangkauan saat mengumpulkan informasi dan menerapkan pola taktis yang sebelumnya tidak tersedia."
+    },
+    {
+      "id": 66,
+      "model": "단테",
+      "content": "<Benar. Dan aku juga akan bisa mengetahui kapan waktu yang tidak tepat untuk memanggil seseorang...>"
+    },
+    {
+      "id": 67,
+      "content": "Bahkan saat aku terus berbicara dengan Faust, aku memastikan untuk tidak berhenti mengamati tempat di mana masing-masing kelompok berada dan apa yang sedang mereka lakukan."
+    },
+    {
+      "id": 68,
+      "content": "Yup, menarik Heathcliff ke barisan belakang adalah keputusan yang tepat. Aku tidak melihat adanya cedera—timnya masih bekerja dengan cukup baik bahkan tanpa arahanku."
+    },
+    {
+      "id": 69,
+      "content": "Sedangkan untuk Rodya... Tunggu. Apakah dia baru saja memasukkan *semua* kue dan roti yang dibelinya ke dalam saku? Bagaimana dia bisa melakukannya dengan baguette berukuran besar...?"
+    },
+    {
+      "id": 70,
+      "content": "Dan kelompok Outis... Coba lihat. Ah, sepertinya mereka sudah bergabung dengan tim LCD tanpa ada masalah."
+    },
+    {
+      "id": 71,
+      "content": "LCD... Kalau begitu, orang di sebelah sana itu pasti..."
+    },
+    {
+      "id": 72,
+      "content": "Tunggu sebentar."
+    },
+    {
+      "id": 73,
+      "model": "단테",
+      "content": "<Faust. Ada seseorang yang pernah kulihat sebelumnya, tapi... dia tampaknya agak... uh, berbeda dari apa yang kuingat.>"
+    },
+    {
+      "id": 74,
+      "model": "파우스트",
+      "content": "... Bisakah anda memperjelas masalahnya?"
+    },
+    {
+      "id": 75,
+      "model": "단테",
+      "content": "<Aku sedang memantau situasinya sekarang. Kita mungkin harus ikut bergabung dengan mereka juga.>"
+    },
+    {
+      "id": 76,
+      "model": "단테",
+      "content": "<Mari kita akhiri sesi konsultasinya sampai di sini.>"
+    },
+    {
+      "id": 77,
+      "model": "파우스트",
+      "content": "Ini agak terlalu terburu-buru, Dante. Jika insiden tersebut bersifat serius, mungkin permintaan dukungan dari LCC—"
+    },
+    {
+      "id": 78,
+      "model": "단테",
+      "content": "<Tidak, ini bukan sebuah insiden.>"
+    },
+    {
+      "id": 79,
+      "content": "... Meskipun aku tidak bisa mengatakan kalau ini bukan hal yang serius."
+    }
+  ]
+}

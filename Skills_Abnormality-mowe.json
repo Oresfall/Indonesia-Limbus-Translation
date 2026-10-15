@@ -1,0 +1,227 @@
+{
+  "dataList": [
+    {
+      "id": 835001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Grovel Before Me",
+          "desc": "[WhenUse] Jika target memiliki 4+ [Laceration], Clash Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 835002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pathetic One",
+          "desc": "[WhenUse] Jika target memiliki 4+ [Laceration], Clash Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 835003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Go... Go Away...!",
+          "desc": "[WhenUse] Jika target memiliki 4+ [Laceration], Clash Power +1\n[WhenUse] Beri +5% damage untuk setiap [Laceration] Count pada target (maks 20%)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 8 [Laceration] dan +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 835004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "The Parade's Prince",
+          "desc": "[StartBattle] Peroleh Atk Weight setara dengan jumlah dari target dengan [Laceration] (maks 5)\n[WhenUse] Jika target memiliki 4+ [Laceration], Base Power +1\n[WhenUse] Jika target memiliki 3+ [Laceration], Coin Power +1\n[DefeatDuel] Kehilangan 1 [KeptBlood]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 835005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Blood... Blood... Blood...!",
+          "desc": "[WhenUse] Jika target memiliki 8+ [Laceration], Coin Power +1\n[DefeatDuel] Kehilangan 1 [KeptBlood]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration] dan +3 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 10+ [Laceration], the next Coin beri +20% damage"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [KeptBlood]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Binding] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 835006,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Leave Me Alone...!",
+          "desc": "[WhenUseEvade] Base Power +1 untuk setiap [Laceration] Count pada target (maks 4)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 835007,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I Am... The Prince... of the Parade...!",
+          "desc": "[CantDuel]\n[WhenUse] Double the amount healed sebanyak Hardblood[TabExplain] Glaive\n[WhenUse] Reset SP ke 0\n[EndSkill] Peroleh 10 [KeptBlood]\nDoes not terkena Stagger giliran ini; ends giliran setelah memakai Skill ini.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration] dan +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration] dan +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration] dan +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration] dan +1 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 835008,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'm... Never... Going Back...!",
+          "desc": "[WhenUse] Clash Power +1 untuk setiap 5 [Laceration] pada target utama (maks 3)\n[WhenUse] Jika target utama memiliki 4+ [Laceration], Coin Power +1\n[WhenUse] Beri +5% damage untuk setiap [Laceration] pada target utama (maks 20%)\n[WhenUse] Double the amount healed sebanyak Hardblood[TabExplain] Glaive\n[EndSkill] Peroleh 10 [KeptBlood]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration] dan +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration] dan +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration] dan +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration] dan +1 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

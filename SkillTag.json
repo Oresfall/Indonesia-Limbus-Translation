@@ -1,0 +1,304 @@
+{
+  "dataList": [
+    {
+      "id": "OnSucceedAttack",
+      "name": "[Saat Serang]"
+    },
+    {
+      "id": "WhenUse",
+      "name": "[Saat Pakai]"
+    },
+    {
+      "id": "WinDuel",
+      "name": "[Menang Clash]"
+    },
+    {
+      "id": "BeforeAttack",
+      "name": "[Sebelum Serangan]"
+    },
+    {
+      "id": "Wide",
+      "name": "[AoE]"
+    },
+    {
+      "id": "nxPostLine",
+      "name": "[{n} in Front]"
+    },
+    {
+      "id": "nxCenterLine",
+      "name": "[{n} in Middle]"
+    },
+    {
+      "id": "nxBackLine",
+      "name": "[{n} in Back]"
+    },
+    {
+      "id": "CantIdentify",
+      "name": "[Indiskriminasi]"
+    },
+    {
+      "id": "CRIMSON",
+      "name": "Crimson"
+    },
+    {
+      "id": "SCARLET",
+      "name": "Scarlet"
+    },
+    {
+      "id": "AMBER",
+      "name": "Amber"
+    },
+    {
+      "id": "SHAMROCK",
+      "name": "Shamrock"
+    },
+    {
+      "id": "AZURE",
+      "name": "Azure"
+    },
+    {
+      "id": "INDIGO",
+      "name": "Indigo"
+    },
+    {
+      "id": "VIOLET",
+      "name": "Violet"
+    },
+    {
+      "id": "WHITE",
+      "name": "White"
+    },
+    {
+      "id": "BLACK",
+      "name": "Black"
+    },
+    {
+      "id": "EndSkill",
+      "name": "[Akhir Serangan]"
+    },
+    {
+      "id": "StartBattle",
+      "name": "[Awal Pertarungan]"
+    },
+    {
+      "id": "DefeatDuel",
+      "name": "[Kalah Clash]"
+    },
+    {
+      "id": "OnSucceedAttackHead",
+      "name": "[Coin Kepala]"
+    },
+    {
+      "id": "OnSucceedAttackTail",
+      "name": "[Serangan Ekor]"
+    },
+    {
+      "id": "OnSucceedEvade",
+      "name": "[Saat Hindar]"
+    },
+    {
+      "id": "AlwaysUse",
+      "name": "[Selalu Aktif]"
+    },
+    {
+      "id": "CantDuel",
+      "name": "[Tidak Bisa Clash]"
+    },
+    {
+      "id": "EnemyKill",
+      "name": "[Saat Bunuh]"
+    },
+    {
+      "id": "EnemyKillFail",
+      "name": "[Gagal Bunuh]"
+    },
+    {
+      "id": "ReUse",
+      "name": "[Saat Gunakan Ulang]"
+    },
+    {
+      "id": "ReUseOnSucceedAttackHead",
+      "name": "[Gunakan Ulang - Coin Kepala]"
+    },
+    {
+      "id": "CriticalOnSucceedAttack",
+      "name": "[Saat Crit]"
+    },
+    {
+      "id": "StartDuel",
+      "name": "[Awal Clash]"
+    },
+    {
+      "id": "EndBattle",
+      "name": "[Akhir Giliran]"
+    },
+    {
+      "id": "OnDefeatEvade",
+      "name": "[Gagal Menghindar]"
+    },
+    {
+      "id": "EndSkillHead",
+      "name": "[Kepala Akhir Serangan]"
+    },
+    {
+      "id": "EndSkillTail",
+      "name": "[Ekor Akhir Serangan]"
+    },
+    {
+      "id": "WinDuelAttackHead",
+      "name": "[Coin Kepala setelah Menang Clash]"
+    },
+    {
+      "id": "WinDuelAttack",
+      "name": "[Serang setelah Menang Clash]"
+    },
+    {
+      "id": "CriticalActivated",
+      "name": "[Saat Crit]"
+    },
+    {
+      "id": "CriticalEndSkill",
+      "name": "[Crit Akhir Serangan]"
+    },
+    {
+      "id": "CantChangeTarget",
+      "name": "[Target Tetap]"
+    },
+    {
+      "id": "TurnStartBattle",
+      "name": "[Awal Giliran]"
+    },
+    {
+      "id": "EndSkillAll",
+      "name": "[Skill End]"
+    },
+    {
+      "id": "WhenUse_Force",
+      "name": "<color=#26cfff>[Saat Pakai]</color>"
+    },
+    {
+      "id": "StartBattle_Force",
+      "name": "<color=#93f13e>[Awal Pertarungan]</color>"
+    },
+    {
+      "id": "TargetKill",
+      "name": "[Saat Bunuh Target]"
+    },
+    {
+      "id": "CriticalTargetKill",
+      "name": "[Saat Bunuh Crit]"
+    },
+    {
+      "id": "BeforeUse",
+      "name": "[Sebelum Pakai]"
+    },
+    {
+      "id": "DuelCounter",
+      "name": "[Counter Dapat Clash]"
+    },
+    {
+      "id": "CantBreak",
+      "name": "[Unbreakable Coin]"
+    },
+    {
+      "id": "DuelGuard",
+      "name": "[Guard Dapat Clash]"
+    },
+    {
+      "id": "WhenUseEvade",
+      "name": "[Saat Menghindar]"
+    },
+    {
+      "id": "EndCoin",
+      "name": "[Akhir Coin]"
+    },
+    {
+      "id": "CriticalEnemyTargetKillFail",
+      "name": "[Saat Gagal Membunuh Crit Terhadap Musuh]"
+    },
+    {
+      "id": "CriticalEnemyTargetKill",
+      "name": "[Saat Membunuh Crit Terhadap Musuh]"
+    },
+    {
+      "id": "DefeatDuelAttack",
+      "name": "[Serang setelah Kalah Clash]"
+    },
+    {
+      "id": "TargetKillFail",
+      "name": "[Saat Gagal Membunuh Target]"
+    },
+    {
+      "id": "AllyKill",
+      "name": "[Saat Membunuh Kawan]"
+    },
+    {
+      "id": "AllyKillFail",
+      "name": "[Saat Gagal Membunuh Kawan]"
+    },
+    {
+      "id": "TabExplain",
+      "name": ""
+    },
+    {
+      "id": "UnBrokenCoinOnSucceedAttack",
+      "name": "[Saat Serang tanpa Retak]"
+    },
+    {
+      "id": "BeforeHit",
+      "name": "[Sebelum Terkena Serangan]"
+    },
+    {
+      "id": "OnDirectAttack",
+      "name": "[Serangan Tanpa Perlawanan]"
+    },
+    {
+      "id": "ReUseOnSucceedAttack",
+      "name": "[Gunakan Ulang - Saat Serang]"
+    },
+    {
+      "id": "CriticalOnSucceedAttackHead",
+      "name": "[Saat Crit - Coin Kepala]"
+    },
+    {
+      "id": "OnStartCoin",
+      "name": "[Awal Coin]"
+    },
+    {
+      "id": "BeforeBehavior",
+      "name": "[Sebelum Aksi]"
+    },
+    {
+      "id": "AlwaysUseEGOPassive2050911",
+      "name": "[Selalu Aktif - Efek Eksklusif Mentor Blade Lineage Meursault]"
+    },
+    {
+      "id": "WhenUseEGOPassive",
+      "name": "[Efek saat Pakai]"
+    },
+    {
+      "id": "WinDuelEndSkill",
+      "name": "[Akhir Serangan Setelah Menang Clash]"
+    },
+    {
+      "id": "WhenUseEGOPassive2010911",
+      "name": "[Efek saat Pakai - Efek Eksklusif Lobotomy E.G.O::Solemn Lament Yi Sang]"
+    },
+    {
+      "id": "AlwaysUseEGOPassive2010911",
+      "name": "[Selalu Aktif - Efek Eksklusif Lobotomy E.G.O::Solemn Lament Yi Sang]"
+    },
+    {
+      "id": "AlwaysUseEGOPassive",
+      "name": "[Selalu Aktif]"
+    },
+    {
+      "id": "CoinHead",
+      "name": "[Kepala]"
+    },
+    {
+      "id": "CoinTail",
+      "name": "[Ekor]"
+    }
+  ]
+}

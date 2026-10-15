@@ -1,0 +1,44 @@
+{
+  "dataList": [
+    {
+      "id": 9101701,
+      "name": "Collective Achievement",
+      "desc": "Jika target kena Stagger sebanyak unit ini's Attack atau [VibrationExplosion], semua kawan pulihkan 10 SP"
+    },
+    {
+      "id": 9014201,
+      "name": "Emergency Time Loan",
+      "desc": "Awal Giliran: Jika unit ini is staggered, peroleh +3 [TimeRentalTwo] Count."
+    },
+    {
+      "id": 9014202,
+      "name": "Golden Time I",
+      "desc": "Pada akhir giliran, jika the HP is antara 16% dan 20%, instantly pulihkan hingga 60% dari Maks HP, dan pulih dari stagger. (Satu kali maks)"
+    },
+    {
+      "id": 9014203,
+      "name": "Time Recoil I",
+      "desc": "Setelah mengaktifkan Golden Time, peroleh 2 [Vulnerable] pada Awal Giliran berikutnya"
+    },
+    {
+      "id": 9014204,
+      "name": "Ready to Borrow Time",
+      "desc": "Awal Giliran: Jika unit ini tidak memiliki [TimeRentalTwo], peroleh +5 Tremor Count"
+    },
+    {
+      "id": 9014301,
+      "name": "Golden Time II",
+      "desc": "Pada akhir giliran, jika the HP is antara 10% dan 20%, instantly pulihkan hingga 80% dari Maks HP, dan pulih dari stagger. (Satu kali maks)"
+    },
+    {
+      "id": 9014302,
+      "name": "Time Recoil II",
+      "desc": "Setelah mengaktifkan Golden Time, peroleh 3 [Vulnerable] pada Awal Giliran berikutnya"
+    },
+    {
+      "id": 9014303,
+      "name": "Borrow Time",
+      "desc": "Awal Pertempuran: Peroleh +4 [TimeRentalTwo] Count"
+    }
+  ]
+}

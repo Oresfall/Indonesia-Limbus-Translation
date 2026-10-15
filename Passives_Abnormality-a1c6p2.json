@@ -1,0 +1,75 @@
+{
+  "dataList": [
+    {
+      "id": 815901,
+      "name": "Sin Resistance",
+      "desc": "Kecuali jika unit ini Staggered atau Part Broken, turunkan Stagger Threshold sebanyak 5 Saat Menyerang dengan Attack SKill"
+    },
+    {
+      "id": 816001,
+      "name": "Sin Resistance",
+      "desc": "Kecuali jika unit ini Staggered atau Part Broken, terima 50% [Burst] damage kurang"
+    },
+    {
+      "id": 816501,
+      "name": "Endless Insecurity",
+      "desc": "Saat kurang dari 65% HP: peroleh 1 [AttackUp] dan 1 [TakeHpHealIncrease] saat Menang Clash\nPada kurang dari 40% HP: peroleh 1 [AttackUp] dan 1 [TakeHpHealIncrease] Saat Digunakan\nEfek ini bertahan bahkan ketika kondisi sudah tidak tercapai, asalkan sudah pernah diaktifkan setidaknya sekali.",
+      "summary": "Peroleh efek status positif kondisional."
+    },
+    {
+      "id": 816502,
+      "name": "Directed Wrath",
+      "desc": "Setelah pertama kali pulih dari Stagger, dan setelah Menang Clash, beri 10% dari damage yang diberikan Saat Menyerang sebagai Wrath bonus damage."
+    },
+    {
+      "id": 816503,
+      "name": "Predation",
+      "desc": "Saat membunuh, pulihkan 200 HP for Core dan Part.\nPeroleh 1 [Agility], 3 [DefenseUp], dan 2 [AttackUp] giliran berikutnya."
+    },
+    {
+      "id": 816504,
+      "name": "Marked",
+      "desc": "Prioritaskan target dengan [AaCfPbBe]"
+    },
+    {
+      "id": 816401,
+      "name": "Self-loathing",
+      "desc": "Semua skill mentarget Heathcliff.\nMenang Pertempuran jika Heathcliff mati."
+    },
+    {
+      "id": 816402,
+      "name": "Explosive Emotions",
+      "desc": "Ketika unit ini memiliki efek 'Explosive' Affinity: menjadih lemah terhadap Affinity tersebut dan menjadi lebih kebal terhadap Affinity lain; peroleh efek spesial ketika diserang."
+    },
+    {
+      "id": 816403,
+      "name": "Deep Bereavement",
+      "desc": "Jika unit ini kehilangan efek 'Explosive' Affinity pada giliran ke-2 setelah menerima efek ini, peroleh [AaCfPbBd] untuk 2 giliran berikutnya, dan peroleh dan peroleh pola Skill baru.\nJika efek ini tidak hilang setelah batas waktu tertentu, kehilangan efek tersebut, lalu peroleh 6 [AttackUp] dan 3 [Agility] giliran berikutnya."
+    },
+    {
+      "id": 816404,
+      "name": "TIDAK ADA YANG PERLU DILIHAT DISINI",
+      "desc": "TIDAK ADA YANG PERLU DILIHAT DISINI"
+    },
+    {
+      "id": 816405,
+      "name": "Spite-driven",
+      "desc": "Jika unit ini gagal menyerang Heathcliff pada akhir skill, kehilangan 1 Explosive Emotion\nJika unit ini menjadi Staggered pada Akhir Giliran, kehilangan 3 Explosive Emotion\nThis unit does not kehilangan more than 3 Explosive Emotion per giliran; if the value of Explosive Emotion is 1 pada Akhir Giliran, kehilangan the said effect"
+    },
+    {
+      "id": 816406,
+      "name": "Heart of Vengeance",
+      "desc": "Awal Giliran: Jika tidak berada pada -45 SP, pulihkan 15 SP.\nAkhir Giliran: Jika Panik, pulih dari Panik pada Awal Giliran berikutnya dan reset SP menjadi 0.\nAkhir Giliran: If this unit recovers from Panik, peroleh 2 [Enhancement] pada Awal Giliran berikutnya"
+    },
+    {
+      "id": 816505,
+      "name": "A Place for Me",
+      "desc": "HP tidak menurun di bawah 40% selama 1 giliran\nMendapat pola baru"
+    },
+    {
+      "id": 816407,
+      "name": "Fathomless Wrath",
+      "desc": "Jika unit ini gagal menyerang pada Akhir Skill, kehilangan 1 Explosive Emotion\nJika unit ini menjadi Staggered pada Akhir Giliran, kehilangan 3 Explosive Emotion\nThis unit does not kehilangan more than 3 Explosive Emotion per giliran; if the value of Explosive Emotion is 1 pada Akhir Giliran, kehilangan the said effect"
+    }
+  ]
+}

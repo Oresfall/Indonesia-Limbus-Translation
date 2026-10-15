@@ -1,0 +1,74 @@
+{
+  "dataList": [
+    {
+      "id": 9021001,
+      "name": "Rival Candidate",
+      "desc": "Beri +10% damage terhadap Hong Lu"
+    },
+    {
+      "id": 9021002,
+      "name": "Shi(史) Family Charge Circuitry",
+      "desc": "Peroleh 1 [Charge] setiap kali unit ini konsumsi 10 cumulative Count [Charge] di Pertempuran ini\nAkhir Giliran: Pada 2+ [Charge], peroleh 1 [ParryingResultUp] giliran berikutnya"
+    },
+    {
+      "id": 9021003,
+      "name": "Charge Circuitry Activation",
+      "desc": "Beri +5% damage untuk setiap 6 [Burst] pada target (Maks 10%)"
+    },
+    {
+      "id": 9021004,
+      "name": "Overload",
+      "desc": "Akhir Giliran: at 3+ [Charge], peroleh 3 [DefenseDown] dan 1 [AttackDmgUp] giliran berikutnya"
+    },
+    {
+      "id": 9021201,
+      "name": "Severe Overload",
+      "desc": "Akhir Giliran: at 5+ [Charge], peroleh 4 [DefenseDown] dan 3 [AttackDmgUp] giliran berikutnya"
+    },
+    {
+      "id": 9020501,
+      "name": "Experiment Goal - Maturation",
+      "desc": "Awal Giliran: peroleh [DefenseUp] setara dengan (number of kali unit ini was hit sebanyak musuh' Skill Attack / 2) (maks 10)\n\nLose efek ini ketika Stagger untuk pertama kalinya; lalu, pada Awal Giliran berikutnya, peroleh 10 [DefenseDown]"
+    },
+    {
+      "id": 9020601,
+      "name": "Experiment Goal - Germination",
+      "desc": "Awal Giliran: jika unit ini isn't at maks HP, pulihkan 80% of the HP yang hilang\n- With setiap pemulihan, halve the pemulihan efek of Pasif ini sebanyak half (halves turun hingga 10% minimum; memberi hanya ketika unit ini memulihkan lebih dari 1 HP)\n- Tidak aktif ketika Stagger\n\nSetelah unit ini kena Stagger untuk pertama kalinya, atau ketika the pemulihan efek berkurang to its minimum, peroleh 3 [Vulnerable] pada setiap Awal Giliran"
+    },
+    {
+      "id": 9020701,
+      "name": "Experiment Goal - Blossom",
+      "desc": "Ketika unit ini menerima damage yang membawa its HP turun hingga 0, dan jaga HP unit ini at 1 hingga the giliran berikutnya; beri +50% damage (sekali per Pertempuran)\n\nDoes not aktifkan ketika Stagger"
+    },
+    {
+      "id": 9020801,
+      "name": "Talisman Sorcerer",
+      "desc": "Ketika unit ini memberi [OminousTalisman] terhadap musuh, kehilangan 10 SP\n\nAgainst target dengan [OminousTalisman], beri +(0 - SP pada diri sendiri)% damage (maks 30%, min 0%)"
+    },
+    {
+      "id": 9020802,
+      "name": "Proliferating Misfortune",
+      "desc": "On kematian, beri 10 [OminousTalisman] terhadap a musuh acak tanpa [OminousTalisman]\n- Jika semua musuh sudah have [OminousTalisman], lalu kurangi semua musuh' [OminousTalisman] sebanyak 1 saja"
+    },
+    {
+      "id": 9020803,
+      "name": "Wicked Energy",
+      "desc": "Ketika memberi [OminousTalisman] pada musuh, jika target sudah has [OminousTalisman], konsumsi 1~2 [OminousTalisman] pada target dan beri the same value as [DefenseDown] Stack to target giliran ini dan giliran berikutnya "
+    },
+    {
+      "id": 9020901,
+      "name": "Skilled Talisman Sorcerer",
+      "desc": "Ketika unit ini memberi [OminousTalisman] terhadap musuh, kehilangan 10 SP\n\nAgainst target dengan [OminousTalisman], beri +(10 - SP pada diri sendiri)% damage (maks 50%, min 0%)"
+    },
+    {
+      "id": 9020902,
+      "name": "Soul Siphon Technique",
+      "desc": "Awal Giliran: at 50% atau kurang HP, sacrifice a acak Wicked Deathrite Monk to pulihkan (10% dari HP unit ini + 50% of the sacrificed unit's HP) HP, pulihkan 25 SP, dan pulih dari Stagger (sekali per giliran)"
+    },
+    {
+      "id": 9020903,
+      "name": "Wicked Energy",
+      "desc": "Ketika memberi [OminousTalisman] pada musuh, jika target sudah has [OminousTalisman], konsumsi hingga 3 [OminousTalisman] pada target dan beri the same value as [DefenseDown] Stack to target giliran ini dan giliran berikutnya "
+    }
+  ]
+}

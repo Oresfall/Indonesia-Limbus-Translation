@@ -1,0 +1,16 @@
+{
+  "dataList": [
+    {
+      "id": 40000601,
+      "name": "Sang Kuning Harpun (dinamai oleh: Ezra)",
+      "desc": "Awal Giliran: Peroleh [YellowHarpoon] (sekali per Pertempuran)\n\nBegins Pertempuran at 35 SP\n\nAkhir Giliran: Jika musuh memiliki kurang dari 50% HP, peroleh [YellowHarpoonSin]",
+      "flavor": "<color=#fde55d>\"Oke, dengerin. Dengerin aku, Bayi Lebah!\nKau mahir dengan harpun, iya kan?\nKau menggunakan tombak spesial super manis, kan?\nDan kamu mengincar untuk Warna Kuning, kan?\nBam! Itu dia!\n\n<b>Sang Kuning Harpun</b>!!!\"</color>"
+    },
+    {
+      "id": 40000602,
+      "name": "Gungnir",
+      "desc": "Saat Menang Clash terhadap target dengan [BeeSting], aktifkan [Switch_Vibration] pada [Vibration] mereka menjadi [VibrationBleeding]\n\nSaat Menang Clash terhadap target dengan [ArtifactBeeSting], aktifkan [FusionVibration] pada [Vibration] mereka menjadi [VibrationEcho]\n\nSaat Serang dengan Coin terakhir terhadap target dengan kedua [BeeSting] dan [ArtifactBeeSting], aktifkan [VibrationExplosion]",
+      "flavor": "<color=#fde55d>Sebuah Relik berharga dengan kelangkaan tertinggi, ditemukan di kedalaman Reruntuhan.\nHanya karena kebetulan belaka, bocah lelaki bersimbah darah itu berhasil memiliki mata tombak ini; secara kebetulan pula, dia memiliki bakat untuk menggunakannya.\n\nSebenarnya, apakah itu hanya kebetulan semata?</color>"
+    }
+  ]
+}

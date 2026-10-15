@@ -1,0 +1,1806 @@
+{
+  "dataList": [
+    {
+      "id": 113101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Startling Strike",
+          "desc": "[WhenUse] Jika target memiliki 3+ [Burst], Clash Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Restraint",
+          "desc": "[WhenUse] Jika target memiliki 4+ [Burst], Base Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gunakan ulang Coin ini (Speed unit ini / 3) kali (maks 2)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Feather Strike",
+          "desc": "Jika Speed unit ini lebih cepat daripada target utama's peroleh Coin Power berdasarkan perbedaan Speed (Coin Power +1 untuk setiap 2 perbedaan Speed; maks 3)\n[WhenUse] Jika target memiliki 4+ [Burst], Coin Power +1\n[WinDuel] Beri +3 [Burst] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [BurstAgility]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Jika target memiliki [BurstAgility], beri +50% damage"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Peroleh 3 [LegStrength]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Gunakan ulang Coin ini sekali (sekali per Skill)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Windup",
+          "desc": "[WhenUse] Peroleh 3 [Agility] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pursuit",
+          "desc": "[WhenUse] Jika target memiliki 3+ [Burst], Clash Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Overwhelm",
+          "desc": "[WhenUse] Jika target memiliki 4+ [Burst], Base Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gunakan ulang Coin ini (Speed unit ini / 3) kali (maks 2)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Umbra Strike",
+          "desc": "Jika Speed unit ini lebih cepat daripada target utama's peroleh Coin Power berdasarkan perbedaan Speed (Coin Power +1 untuk setiap 2 perbedaan Speed; maks 3)\n[WhenUse] Jika target memiliki 4+ [Burst], Coin Power +1\n[WinDuel] Beri +3 [Burst] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [BurstAgility]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Jika target memiliki [BurstAgility], beri +50% damage"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Peroleh 3 [LegStrength]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Gunakan ulang Coin ini sekali (sekali per Skill)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Windup",
+          "desc": "[WhenUse] Peroleh 3 [Agility] giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Question (問)",
+          "desc": "[WhenUse] Jika target memiliki 5+ [Burst], Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Answer (答)",
+          "desc": "[WhenUse] Jika target memiliki 5+ [Burst], Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Act Not With Impropriety (非禮勿動)",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 4 [Burst] pada target (maks 2)\n[WhenUse] Clash Power +1 untuk setiap 2 [Burst] Count pada target (maks 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Burst]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Beri 1 [Binding] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [BurstStop]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Menghindar",
+          "desc": "Jika unit ini failed untuk menggunakan Skill ini, peroleh 1 [Binding] giliran berikutnya\n[WhenUse] Coin Power +1 untuk setiap 2 [Burst] pada target (maks 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thunderstrike",
+          "desc": "[WhenUse] Jika target memiliki 5+ [Burst], Coin Power +1\n[WinDuel] Beri +2 [Burst] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [BurstWave]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cut them Down, Mao",
+          "desc": "[WhenUse] Pulihkan 10 SP\n[WhenUse] Jika target memiliki 5+ [Burst], Coin Power +1\n[WinDuel] Beri 2 [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [BurstSuppress]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113707,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I Must Push You Further",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 4 [Burst] pada target (maks 2)\n[WhenUse] Clash Power +1 untuk setiap 2 [Burst] Count pada target (maks 3)\n[WinDuel] Beri 2 [Burst] dan +2 [Burst] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri +4 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Beri +5% damage untuk setiap ([Burst] Potency pada target + [Burst] Count pada target) (maks 200%)\n[OnSucceedAttack] Kurangi semua Deathrites pada target menjadi 0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113708,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Do Not Meddle",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 4 [Burst] pada target (maks 3)\n[WinDuel] Beri +2 [Burst] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [BurstWave]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Startling Strike",
+          "desc": "[WhenUse] Jika target memiliki 5+ [Burst], Clash Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Perforating Kill",
+          "desc": "[WhenUse] Jika target memiliki 5+ [Burst], Coin Power +1\n[WhenUse] Peroleh 3 [LegStrength]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [BurstAgility], peroleh 1 [Agility] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Etching Strike",
+          "desc": "[WhenUse] Jika target memiliki 5+ [Burst], Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [BurstAgility]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cursewrit Butcherblade - Blinkstep",
+          "desc": "Prioritaskan target dengan [BurstAgility]\n[StartBattle] Peroleh 1 [SupportProtect]\nBeri +15% damage untuk setiap 2 perbedaan Speed antara unit ini dan target (maks 60%)\n[WhenUse] Coin Power +1 untuk setiap 5 [Burst] pada target (maks 2)\n[WhenUse] Base Power +1 untuk setiap 2 [Burst] Count pada target (maks 3)\n[WinDuel] Beri +2 [Burst] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Jika target memiliki [BurstAgility], beri +50% damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Burst]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Gunakan ulang Coin ini sekali (sekali per Skill)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cursewrit",
+          "desc": "[WhenUse] Jika Speed unit ini lebih cepat daripada target sebanyak 3 atau lebih, Clash Power +1\n[WhenUse] Jika target memiliki [BurstAgility], beri +1 lebih [Burst] Count dengan Skill ini",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113306,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Incomplete Seal Release: <Pedang Tianjiu Star>",
+          "desc": "+20% damage untuk setiap 2 perbedaan Speed antara unit ini dan target (maks 60%)\n[WhenUse] Coin Power +1 untuk setiap 5 [Burst] pada target (maks 3)\n[WhenUse] Clash Power +1 untuk setiap 2 [Burst] Count pada target (maks 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 5 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [BurstZilu]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I Ask Again",
+          "desc": "[WhenUse] Jika target memiliki 5+ [Burst], Clash Power +1\n[WinDuel] Beri +2 [Burst] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Act Not With Impropriety (非禮勿動)",
+          "desc": "[WhenUse] Jika target memiliki 5+ [Burst], Clash Power +1\n[WinDuel] Beri +2 [Burst] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [BurstStop]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "You Will Not Meddle",
+          "desc": "[WhenUse] Jika target memiliki 5+ [Burst], Clash Power +1\n[WinDuel] Beri +2 [Burst] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [BurstSuppress]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thunderstrike - Ripple (波)",
+          "desc": "Prioritaskan target dengan the most tipe dari Deathrite\n[WhenUse] Coin Power +1 untuk setiap 2 [Burst] pada target utama (maks 4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 2+ tipe dari Deathrite, beri [BurstWave]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Heishou - Mao Linkstrike - Bladestorm",
+          "desc": "[WhenUse] Pulihkan 10 SP\n[WhenUse] Coin Power +1 untuk setiap 5 [Burst] pada target (maks 2)\n[WinDuel] Beri 2 [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [BurstAgility]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Heed Me, Zilu",
+          "desc": "[WhenUse] Pulihkan 10 SP\n[WhenUse] Coin Power +1 untuk setiap 5 [Burst] pada target (maks 2)\n[WinDuel] Beri 2 [Burst]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [BurstZilu]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114107,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Deathrite Deluge",
+          "desc": "[CantChangeTarget]\nPrioritaskan target dengan the most tipe dari Deathrite\n[WhenUse] Coin Power +1 untuk setiap type of Deathrite pada target (maks 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Beri +5% damage untuk setiap ([Burst] Potency pada target + [Burst] Count pada target + number of Deathrite tipe pada target) (maks 200%)\n[OnSucceedAttack] Kurangi semua Deathrites pada target menjadi 0"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114108,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Answer Me, Jia Baoyu",
+          "desc": "[CantChangeTarget]\nPrioritaskan Hong Lu\n[WinDuel] Beri +4 [Burst] Count\n[DefeatDuel] Jika target is Hong Lu, beri 1 [Teaching]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114109,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tiangang Star - Form (格)",
+          "desc": "Prioritaskan Hong Lu\nCoin Power -2 untuk setiap [Teaching] pada target\n[DefeatDuel] Tidak dapat Stagger dengan this attack. Peroleh 24 [DefenseDown] untuk Pertempuran ini\n[DefeatDuel] Beri -50% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri +5% damage untuk setiap ([Burst] Potency pada target + [Burst] Count pada target + number of Deathrite tipe pada target) (maks 100%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Weaklings...",
+          "desc": "[StartBattle] Beri 2 [AttackDmgUp] to the fastest kawan",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dolts...",
+          "desc": "[StartBattle] Beri 2 [Agility] to the slowest kawan giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Binding] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vulnerable] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'm Gonna Kill You!",
+          "desc": "[WhenUse] Jika target memiliki 3+ tipe dari efek negatif, Base Power +1\n[WhenUse] Coin Power +1 untuk setiap 6 [Burst] pada target (maks 2)\n[DefeatDuel] Peroleh 1 [Vulnerable]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 SP damage"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 SP damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Jump In!!",
+          "desc": "[WhenUse] Pulihkan 15 SP\n[WhenUse] Jika target memiliki 3+ tipe dari efek negatif, Base Power +1\n[EndSkill] 1 Jar dengan HP terendah uses Skill 'Leaping Cracked Jar' at target (ignores Stagger)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Binding] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Let's Watch This Spectacle, Semua Together!",
+          "desc": "[StartBattle] Summon 2 Jars giliran berikutnya\n[WhenUse] Jika target memiliki 3+ efek negatif, Base Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Spirit Talisman School - Talisman Strike",
+          "desc": "[WhenUse] Final Power +1 untuk setiap 4 [Burst] pada target (maks 3)\n[WhenUse] Clash Power +1 untuk setiap 30% HP yang hilang pada diri sendiri (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst] dan +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 [OminousTalisman]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Spirit Talisman School - Aktifkan Efek",
+          "desc": "[WhenUse] Final Power +1 untuk setiap 4 [Burst] pada target (maks 3)\n[WhenUse] Clash Power +1 untuk setiap 30% HP yang hilang pada diri sendiri (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst] dan +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 [OminousTalisman]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kurangi [OminousTalisman] pada target sebanyak 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Spirit Talisman School - Deathrite Doll",
+          "desc": "[WhenUse] Final Power +1 untuk setiap 4 [Burst] pada target (maks 4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst] dan +3 [Burst] Count"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Kurangi [OminousTalisman] pada target sebanyak 5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Spirit Talisman School - Vilerage",
+          "desc": "[StartBattle] Atk Weight +1 untuk setiap 20% HP yang hilang pada diri sendiri (maks 4)\n[WhenUse] Final Power +1 untuk setiap 4 [Burst] pada target (maks 4\n[DefeatDuel] Beri -50% damage; Skill ini tidak dapat Stagger target dengan damage atau efek\n[EndSkill] Jika Skill ini memiliki dikalahkan musuh, beri 2 [ResultEnhancement] dan 2 [AttackDmgUp] ke semua kawan, termasuk unit ini, giliran berikutnya (sekali per giliran)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 [OminousTalisman]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 [OminousTalisman]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Hapus semua [OminousTalisman] pada target"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Terima This!",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 2 tipe dari efek negatif pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [MadFeather]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [MadFeather]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Binding] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "KNEEL!",
+          "desc": "[CantIdentify]\n[WhenUse] Coin Power +1 untuk setiap 2 tipe dari efek negatif pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [MadFeather]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [MadFeather]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Look at You Flaming Idiots!",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 2 tipe dari efek negatif pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [MadFeather]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [Burst] pada target sekali. Target kehilangan [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [Laceration] dan [Burst] Potency setara dengan [MadFeather] Stack"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Know Your Place!",
+          "desc": "[WideAreaRampage]\n[WhenUse] Konsumsi 3% HP pada diri sendiri (damage ini tidak dapat membunuh unit ini)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [MadFeather]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [ShamrockTakeDamageUp] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [MadFeather]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [ShamrockTakeDamageUp] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [MadFeather]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [ShamrockTakeDamageUp] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kowtow Before Me!",
+          "desc": "[CantIdentify]\n[WhenUse] Konsumsi 5% HP pada diri sendiri (damage ini tidak dapat membunuh unit ini)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri ([MadFeather] pada target x 10) [Burst]; semua [MadFeather] pada target kadaluarsa"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [Burst] pada target 2 kali. Target kehilangan 2 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115806,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "I'll Give You a Chance",
+          "desc": "[DuelCounter] \n[DefeatDuel] Semua [MadFeather] pada target kadaluarsa",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [MadFeather]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [MadFeather]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Binding] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 116701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charge Blade Style - Downward Cleave",
+          "desc": "[WhenUse] Konsumsi 5 [Charge] Count untuk peroleh Final Power +1 (maks 2)\n[WhenUse] Peroleh +2 [Charge] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 [Charge] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 116702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charge Blade Style - Windup Slash",
+          "desc": "[WhenUse] Konsumsi 5 [Charge] Count untuk peroleh Clash Power +1 (maks 2)\n[WhenUse] Peroleh +5 [Charge] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 [Charge] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 [Charge] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 116703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charge Blade Style - Crushing Slice",
+          "desc": "[WhenUse] Konsumsi 5 [Charge] Count untuk peroleh Coin Power +1 (maks 2)\n[WhenUse] Jika unit ini yang dikonsumsi 5+ [Charge] Count, beri +2 lebih [Burst]\n[WhenUse] Jika unit ini yang dikonsumsi 10+ [Charge] Count, beri +3 [Burst] Count\n[WhenUse] Pada 5~9 [Charge] Count, peroleh 2(13 - current [Charge] Count) [Burst] to naikkan unit ini's [Charge] Count to 10\n[DefeatDuel] Beri -75% damage; damage yang diberikan Skill ini tidak dapat Stagger target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri Gluttony damage setara dengan [Burst] Potency pada target; lalu, kurangi [Burst] Count sebanyak 1 (maks 30)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count untuk setiap 5 [Charge] Count yang dikonsumsi Saat Pakai (maks 4)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 116704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charge Blade Style - Flowing Slash",
+          "desc": "[WhenUse] Peroleh +5 [Charge] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 116001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charge Fist Style - Faceoff",
+          "desc": "[WhenUse] Final Power +1 untuk setiap 4 [Burst] pada target (maks 2)\n[WhenUse] Peroleh +3 [Charge] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +3 [Charge] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 116002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charge Fist Style - Roundhouse Punch",
+          "desc": "[WhenUse] Final Power +1 untuk setiap 5 [Burst] pada target (maks 2)\n[WhenUse] Konsumsi 5 [Charge] Count untuk peroleh Final Power +1\n[WhenUse] Pada 5~9 [Charge] Count, peroleh 2(13 - current [Charge] Count) [Burst] Potency to naikkan [Charge] Count to 10 (sekali per giliran)\n[WhenUse] Peroleh +5 [Charge] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +5 [Charge] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 2+ [Charge], beri +2 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 116003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charge Fist Style - Destroy",
+          "desc": "[WhenUse] Final Power +1 untuk setiap 6 [Burst] pada target (maks 2)\n[WhenUse] Konsumsi 5 [Charge] Count untuk peroleh Coin Power +1 (maks 3)\n[WhenUse] Jika unit ini yang dikonsumsi 5+ [Charge] Count, beri +2 lebih [Burst]\n[WhenUse] Jika unit ini yang dikonsumsi 10+ [Charge] Count, beri +3 [Burst] Count\n[DefeatDuel] Beri -80% damage; damage yang diberikan Skill ini tidak dapat Stagger target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +5 [Charge] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika unit ini yang dikonsumsi [Charge] Count, beri 10 [OminousTalisman]\n- Jika unit ini yang dikonsumsi 10+ [Charge] Count, beri ([Charge] Count yang dikonsumsi - 10) [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +5 [Charge] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Hapus semua [OminousTalisman] pada target"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Jika unit ini yang dikonsumsi 5+ [Charge] Count Saat Pakai, beri 10 [OminousTalisman]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Jika unit ini yang dikonsumsi 10+ [Charge] Count Saat Pakai, konsumsi semua [OminousTalisman] pada target"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 116004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Charge Fist Style - Rhythm Matching",
+          "desc": "[WhenUse] Peroleh +5 [Charge] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Kurangi [OminousTalisman] pada target sebanyak 3"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113307,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Swiftfeet Protection",
+          "desc": "[CanDuelGuard]\n[BeforeUse] Pada 2+ [SupportProtect], activates 'Ascendant Heishou - Mao Technique: Cloudsplitting Manifestasi' saja\n[WhenUse] Peroleh 1 Defense Level untuk setiap 5% HP unit ini secara kumulatif lost di Pertempuran ini (maks 10)\n[WhenUse] Tidak dapat Stagger sebanyak damage hingga Skill ini berakhir",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113308,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ascendant Heishou - Mao Technique: Cloudsplitting Manifestasi",
+          "desc": "+20% damage untuk setiap 2 perbedaan Speed antara unit ini dan target (maks 60%)\n[WhenUse] Coin Power +1 untuk setiap 5 [Burst] pada target (maks 3)\n[WhenUse] Clash Power +1 untuk setiap 2 [Burst] Count pada target (maks 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 5 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri [BurstZilu]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114110,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Like a Roaring Storm",
+          "desc": "[CantDuel]\n[CantChangeTarget]\nSkill ini attacks target yang bukan Hong Lu\nUses the Heishou Pack - Mao Branch to Stagger setiap Identitas kecuali for Hong Lu giliran berikutnya; unit ini recovers dari Stagger\n[EndSkill] Ends giliran",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

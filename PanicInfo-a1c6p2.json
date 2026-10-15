@@ -1,0 +1,22 @@
+{
+  "dataList": [
+    {
+      "id": 1019,
+      "panicName": "Misshapen Painting",
+      "lowMoraleDescription": "Peroleh 1 [Enhancement] dan 1 [Vulnerable]",
+      "panicDescription": "Peroleh 1 [PlusCoinValueUp] dan 3 [Vulnerable]."
+    },
+    {
+      "id": 1021,
+      "panicName": "Revenge",
+      "lowMoraleDescription": "Peroleh 3 [DefenseDown] dan 3 [AttackDmgUp]",
+      "panicDescription": "Peroleh 6 [DefenseDown] dan 5 [AttackDmgUp]"
+    },
+    {
+      "id": 1022,
+      "panicName": "Hatred",
+      "lowMoraleDescription": "Menang Clash: Peroleh 1 [AttackUp] giliran berikutnya. (3 kali per giliran)\nKalah Clash: Peroleh 1 [DefenseUp]. (3 kali per giliran)",
+      "panicDescription": "Menang Clash: Peroleh 1 [AttackUp] giliran ini dan giliran berikutnya (3 kali per giliran)\nKalah Clash: Peroleh 1 [DefenseUp] (3 kali per giliran)\nAkhir Giliran: Peroleh 2 [Agility] giliran berikutnya"
+    }
+  ]
+}

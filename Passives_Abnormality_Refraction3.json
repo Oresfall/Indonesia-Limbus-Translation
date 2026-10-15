@@ -1,0 +1,119 @@
+{
+  "dataList": [
+    {
+      "id": 858801,
+      "name": "Injected Hatred dan Animosity",
+      "desc": "Akhir Giliran: Pada 50%- \"Inti\" HP, peroleh 1 [Enhancement] giliran berikutnya. (sekali per encounter)"
+    },
+    {
+      "id": 857801,
+      "name": "White Gossypium",
+      "desc": "Akhir Giliran: un-Stagger musuh, dan beri (Stagger LV x 8) [Laceration] dan 2 [Reduction] on them giliran berikutnya."
+    },
+    {
+      "id": 857802,
+      "name": "Binding Roots",
+      "desc": "Akhir Giliran: Beri 1 [Binding] untuk semua musuh dengan Gossypium"
+    },
+    {
+      "id": 857803,
+      "name": "Red-stained Gossypium",
+      "desc": "Pada 20%- \"Inti\" HP, menjadi [MRcAfBb] pada Akhir Giliran. This [MRcAfBb] tidak dapat kadaluarsa."
+    },
+    {
+      "id": 857804,
+      "name": "To be Drenched in Blood",
+      "desc": "Ketika hitting a target dengan Skill Attack, pulihkan HP setara dengan [Laceration] pada target."
+    },
+    {
+      "id": 857805,
+      "name": "Gossypium Planting",
+      "desc": "Jika unit ini kalah Clash menggunakan Scattering Gossypium, gunakan Encroaching Gossypium giliran berikutnya."
+    },
+    {
+      "id": 857806,
+      "name": "Flowering Gossypium",
+      "desc": "Ketika Bagian \"Tubuh\" rusak, halve nilainya of Gossypium pada semua musuh."
+    },
+    {
+      "id": 857701,
+      "name": "Api Membara",
+      "desc": "Ubah beberapa Skill non-Wrath setara dengan nilai dari Ember menjadi Wrath Affinity."
+    },
+    {
+      "id": 857702,
+      "name": "Ardor Blossom yang Bertautan",
+      "desc": "Saat Menyerang, beri [Combustion] setara dengan (# of Wrath Affinity Skill yang akan digunakan Ardor Blossom Moth giliran ini).\nSaat Serang, pulihkan HP setara dengan (# of Wrath Affinity Skill yang akan digunakan Ardor Blossom Moth giliran ini x 2)."
+    },
+    {
+      "id": 857703,
+      "name": "Bara Terakhir",
+      "desc": "Pada 30%- HP, peroleh +1 lebih [MRcAiBa]"
+    },
+    {
+      "id": 857704,
+      "name": "Nyalakan Api",
+      "desc": "Ketika memakai Ardor Blossom Star, jika the Abnormality has 0 [MRcAiBa], gunakan Nyalakan Api."
+    },
+    {
+      "id": 858501,
+      "name": "Contempt dan Tatapan",
+      "desc": "Beri 1 [MRcAmBc] terhadap target setiap kali the 'Hands' Bagian diserang. (3 kali per giliran)\nUnits dengan [MRcAmBa] tidak dapat peroleh [MRcAmBc].\nKetika 'Grasp' unit dengan [MRcAmBa] rusak, semua Abnormality Parts peroleh 3 [Vulnerable] giliran berikutnya."
+    },
+    {
+      "id": 858502,
+      "name": "Semua-beholding Tatapan",
+      "desc": "Ketika \"Inti\" HP turun di bawah 30% dari Maks HP, hilangkan [MRcAmBa] dan [MRcAmBc] dari semua Identitas; lalu, beri [MRcAmBd] terhadap semua Identitas."
+    },
+    {
+      "id": 858503,
+      "name": "Crushing Grasp",
+      "desc": "On certain giliran, jika none of musuh have [MRcAmBbDisplay], gunakan Crush."
+    },
+    {
+      "id": 858504,
+      "name": "Compounded Contempt",
+      "desc": "Akhir Giliran: Peroleh 1 [CrimsonTakeDamageUp], [ScarletTakeDamageUp], [AmberTakeDamageUp], [ShamrockTakeDamageUp], atau [AzureTakeDamageUp] (Maks 3) untuk setiap 10 Potency of [Combustion], [Laceration], [Vibration], [Burst], atau [Sinking] pada diri sendiri, masing-masing."
+    },
+    {
+      "id": 858505,
+      "name": "Penetrated Tatapan",
+      "desc": "Ketika diserang dengan a Critical Hit, peroleh 1 [IndigoTakeDamageUp] sekali per Skill (Maks 3)\nKetika diserang dengan Skill that yang dikonsumsi 8+ Count [Charge], peroleh 1 [VioletTakeDamageUp] sekali per Skill. (Maks 3)"
+    },
+    {
+      "id": 860401,
+      "name": "Grasp",
+      "desc": "Akhir Giliran: pada 2 atau lebih sedikit [MRcAmBbDisplay] Stack, beri damage setara dengan setengah dari Maks HP target. Lalu, semua Parts of Spiral of <noparse>Contempt</noparse> memulihkan the same jumlah dari HP as the damage yang diberikan oleh efek ini."
+    },
+    {
+      "id": 860402,
+      "name": "Rescue",
+      "desc": "Akhir Giliran: Jika unit ini had <noparse>Contempt</noparse> ketika getting Grasped, hilangkan <noparse>Contempt</noparse> dari semua Identitas ketika the Grasp rusak sebanyak Identitas."
+    },
+    {
+      "id": 857301,
+      "name": "Exposed Pearl",
+      "desc": "Awal Giliran: Jika at 0 Green Slime, menjadi Stagger. Ketika the Pearl Bagian kena Stagger, Pearl Bagian kehilangan semua Affinity Resistances sebanyak 0.5.\nPeroleh 10 Green Slime ketika pulih dari Stagger."
+    },
+    {
+      "id": 857302,
+      "name": "Gathering Slime",
+      "desc": "Fix this Bagian's speed to 3 for a giliran ketika menggunakan Devouring Fluid."
+    },
+    {
+      "id": 857401,
+      "name": "Contaminating Slime",
+      "desc": "Akhir Giliran: Beri (4 + Surviving Green Slime) Racun untuk semua musuh."
+    },
+    {
+      "id": 857501,
+      "name": "Underwater Breathing",
+      "desc": "Starting dari giliran 2, peroleh 10 Poise giliran ini jika the Fluorescence Bagian isn't broken. Peroleh +3 Poise Count.\nStarting dari giliran 2, peroleh 1 Paralyze dan 1 Damage Down giliran ini jika the Fluorescence Bagian rusak."
+    },
+    {
+      "id": 858601,
+      "name": "Connected Hurt",
+      "desc": "Saat mati, beri 10 damage ke connected Mermaids. Lalu, beri 2 Damage Up giliran berikutnya."
+    }
+  ]
+}

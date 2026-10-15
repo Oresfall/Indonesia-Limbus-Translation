@@ -1,0 +1,656 @@
+{
+  "dataList": [
+    {
+      "id": 857801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Gossypium Planting",
+          "desc": "[WhenUse] Beri 3 [MRcAfBa]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration] dan +1 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wound Planting",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 4 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Draining Roots",
+          "desc": "[CantDuel]\nAmong target dengan [MRcAfBa], attack unit dengan Speed paling lambat;\nBeri +([MRcAfBa] x 10)% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan sebanyak ([MRcAfBa] x 5)% dari damage yang diberikan"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan sebanyak ([MRcAfBa] x 5)% dari damage yang diberikan"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Flourishing Gossypium",
+          "desc": "Attack target dengan the most [Laceration]\n[WhenUse] Jika target utama is target dengan the most [Laceration], Base Power +5, beri x2 the efek",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Binding] dan 2 [ScarletTakeDamageUp] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 8 [Laceration] dan +4 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Scattering Gossypium",
+          "desc": "Among target dengan [MRcAfBa], attack unit dengan HP paling sedikit\n[WhenUse] Jika target utama is target dengan the most [Laceration], Base Power +5\n[EndBattle] [MRcAfBb] state kadaluarsa giliran berikutnya.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration] dan +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration] dan +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857806,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Scattering Wind",
+          "desc": "[OnSucceedEvade] Beri 3 [Laceration] dan +1 [Laceration] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857807,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Encroaching Gossypium",
+          "desc": "[CantDuel]\nPrioritaskan unit dengan Speed paling lambat\nDamage yang diberikan oleh Skill Attack ini ditetapkan menjadi 0.\n[StartBattle] Masuk [MRcAfBb] state giliran berikutnya.",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [MRcAfBa]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857808,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Scattering Red-stained Gossypium",
+          "desc": "Prioritaskan target dengan the most [Laceration]\n[WhenUse] Jika target utama is target dengan the most [Laceration], Base Power +10\nJika target memiliki 10+ [Laceration], beri +50% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration] dan +4 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan HP setara dengan [Laceration] pada target"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration] dan +4 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan HP setara dengan [Laceration] pada target"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Serangan Berapi",
+          "desc": "[WhenUse] Peroleh 1 [MRcAiBa]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Combustion] dan +2 [Combustion] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ardor Blossom Pinions",
+          "desc": "[WhenUse] Peroleh 1 [MRcAiBa]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [CrimsonResistDown] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Spark",
+          "desc": "[WinDuel] Beri [Combustion] setara dengan [Combustion] pada target.\n[WhenUse] Beri +2 [Combustion] Count.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 3+ [MRcAiBb], beri +2 [Combustion] Count, 10 [Combustion], dan 2 [MRcAiBc]."
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 [Combustion] dan +4 [Combustion] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [CrimsonResistDown] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ledakan Debu",
+          "desc": "[WhenUse] Jika target memiliki 7+ [Combustion], Skill ini peroleh Clash Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri [Combustion] Count setara dengan jumlah dari Wrath Skill yang akan digunakan Ardor Blossom Moth giliran ini"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Terhadap musuh dengan Speed paling lambat, beri [Combustion] Count setara dengan jumlah dari Wrath Skill yang akan digunakan Ardor Blossom Moth giliran ini"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri [Combustion] setara dengan jumlah dari Wrath Skill yang akan digunakan Ardor Blossom Moth giliran ini"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Terhadap musuh dengan Speed paling lambat, beri [Combustion] setara dengan jumlah dari Wrath Skill yang akan digunakan Ardor Blossom Moth giliran ini"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ardor Blossom Star",
+          "desc": "Peroleh Clash Power setara dengan (# dari Wrath Skill yang akan digunakan Ardor Blossom Moth giliran ini x2)\n[WhenUse] Beri (# dari Wrath Skill yang akan digunakan Ardor Blossom Moth giliran ini x2) [Combustion] untuk semua musuh",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri [Combustion] setara dengan jumlah dari Wrath Skill yang akan digunakan Ardor Blossom Moth giliran ini"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Terhadap musuh dengan Speed paling lambat, Beri [Combustion] dan [Combustion] Count setara dengan jumlah dari Wrath Skill yang akan digunakan Ardor Blossom Moth giliran ini"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri [Combustion] setara dengan jumlah dari Wrath Skill yang akan digunakan Ardor Blossom Moth giliran ini"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Terhadap musuh dengan Speed paling lambat, Beri [Combustion] dan [Combustion] Count setara dengan jumlah dari Wrath Skill yang akan digunakan Ardor Blossom Moth giliran ini"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Naikkan Batas Stagger sebanyak 10% dari damage yang diberikan"
+                },
+                {
+                  "desc": "[EndSkill] Beri 10 [Combustion] terhadap target yang telah Stagger oleh ini"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857706,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Menghindar",
+          "desc": "[WhenUseEvade] Beri 4 [Combustion].\n[OnSucceedEvade] Peroleh 1 [MRcAiBa] giliran berikutnya.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857712,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Nyalakan Api",
+          "desc": "[CantDuel]\n[CantChangeTarget]\nDamage yang diberikan oleh Skill Attack ini ditetapkan menjadi 0.",
+          "coinlist": [
+            {},
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [MRcAiBb] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 858501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "It Shall Penetrate",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 858502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "It Shall Be Insidious",
+          "desc": "[WinDuel] Double the [Vulnerable] dan [Binding] diberikan sebanyak efek Coin.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration] dan +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 [Vulnerable] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 1 [Binding] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 858503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "It Shall Grip",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [AttackDown] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri 3 [DefenseDown] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [AttackDmgDown] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Peroleh 1 [AttackDmgUp] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 858504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "It Shall Constrict",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [MRcAmBb]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [AttackDmgUp] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [MRcAmBb]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 1 [AttackDmgUp] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 858505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "It Shall Shun",
+          "desc": "Jika terdapat surviving 'Grasp' unit, Final Power +5",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 8 [Laceration] dan +3 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 SP damage"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Naikkan Batas Stagger sebanyak 20"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 858506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "And it Shall Contempt Semua",
+          "desc": "Jika terdapat surviving 'Grasp' unit, Final Power +5\n[EndBattle] Hapus [MRcAmBc] dari semua musuh",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 [Laceration] dan +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 8 [Laceration] dan +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 15 SP damage"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Naikkan Batas Stagger sebanyak 30"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 858507,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Menghindar",
+          "desc": "[OnSucceedEvade] Beri 4 SP damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "6:5",
+          "desc": "[CantDuel][CantChangeTarget]\nTerima damage in target's place. Get staggered giliran berikutnya.\nInflict Marked pada musuh acak tanpa [AaCePcBa].\n[EndBattle] Semua Candles pulihkan ke Maks HP",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Maks HP unit ini berkurang sebanyak 5%."
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 Burn pada diri sendiri"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Maks HP unit ini berkurang sebanyak 5%."
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 Burn pada diri sendiri"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 857102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Scorn Not the Prophecy",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Combustion] dan +2 [Combustion] Count pada target"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pulihkan 20 HP pada diri sendiri"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 858201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Insidious Pallidification",
+          "desc": "[StartBattle] Peroleh 10% dari Maks HP as Perisai. Untuk setiap Queequeg's Ego, peroleh tambahan 0.3% dari Maks HP as tambahan Perisai.\nKetika attacked while Shielded, penyerang kehilangan 5 SP\nKetika attacked, gunakan Skill ini sekali untuk setiap 10 Queequeg's Ego",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Bleed"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 Bleed"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

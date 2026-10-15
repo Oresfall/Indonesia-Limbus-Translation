@@ -1,0 +1,214 @@
+{
+    "dataList": [
+        {
+            "id": 113101,
+            "name": "Failed Ambush",
+            "desc": "Akhir Giliran: jika unit ini kalah Clash giliran ini, peroleh 2 [Binding] giliran berikutnya"
+        },
+        {
+            "id": 113102,
+            "name": "Jia Qiu's Test",
+            "desc": "First Awal Giliran: peroleh [RepressedMurderousIntendTwo]\nEnds Pertempuran ketika Hong Lu mati"
+        },
+        {
+            "id": 113701,
+            "name": "Effloresced E.G.O::Érlì",
+            "desc": "First Awal Giliran: pulihkan 30 SP dan peroleh [ExaminationOfQiu]"
+        },
+        {
+            "id": 113702,
+            "name": "Deteriorate (削貶)",
+            "desc": "Jika target memiliki 4+ efek negatif, Clash Power +1"
+        },
+        {
+            "id": 113703,
+            "name": "Deathrite [Halt (勿動)]",
+            "desc": "Beri +10% damage terhadap target dengan [BurstStop]"
+        },
+        {
+            "id": 113704,
+            "name": "Deathrite [Impede (掣肘)]",
+            "desc": "Terima -20% damage dari target dengan [BurstSuppress]"
+        },
+        {
+            "id": 113706,
+            "name": "Heed me, Zilu",
+            "desc": "Gains pola baru at 85% HP\nEnter a new phase at 60% HP"
+        },
+        {
+            "id": 113707,
+            "name": "This is where your path ends",
+            "desc": "Ends encounter ketika Hong Lu mati"
+        },
+        {
+            "id": 113708,
+            "name": "Overwhelm",
+            "desc": "Ketika HP Identitas turun menjadi 1 atau di bawah, retreat them dari Pertempuran"
+        },
+        {
+            "id": 113301,
+            "name": "Estimation",
+            "desc": "Akhir Giliran: untuk setiap Clash unit ini lost, peroleh 1 Binding giliran berikutnya (maks 6)"
+        },
+        {
+            "id": 113302,
+            "name": "Shin (心) Radiance",
+            "desc": "First Awal Giliran: pulihkan 30 SP\nGains pola baru at 85% HP\nPeroleh 500 Perisai pada Awal Giliran, at 60% HP\n- Setelah efek ini activates, unit ini tidak turun di bawah 1 HP"
+        },
+        {
+            "id": 114101,
+            "name": "Effloresced E.G.O::Érlì",
+            "desc": "First Awal Giliran: peroleh [ExaminationOfQiu]"
+        },
+        {
+            "id": 114102,
+            "name": "Diminish (貶)",
+            "desc": "Jika target memiliki 3+ tipe dari Deathrites, Coin Power +1"
+        },
+        {
+            "id": 114104,
+            "name": "I will ask again",
+            "desc": "Ends Pertempuran at 50% HP "
+        },
+        {
+            "id": 114105,
+            "name": "Focus",
+            "desc": "Ketika memakai 'Bring Forth a Real Answer', summon the Heishou"
+        },
+        {
+            "id": 114106,
+            "name": "Focus",
+            "desc": "Mulai Pertempuran dengan half the Potency dan Count for efek berikut unit ini had pada start of this phase: [Burst], [Combustion], [Sinking], [Vibration], [Laceration]"
+        },
+        {
+            "id": 113709,
+            "name": "Infinite Song of Erudition",
+            "desc": "Akhir Serangan: pulihkan 5 SP untuk setiap Deathrite pada target\nSaat Serang, ketika target's Deathrite is triggered, pulihkan 3 SP untuk setiap Deathrite triggered"
+        },
+        {
+            "id": 114107,
+            "name": "I still await your answer.",
+            "desc": "Every Awal Giliran: \"Inti\" dan Bagian peroleh 900 Perisai.\n- Ketika Hong Lu has [Teaching], kehilangan 300 Perisai per Stack on Hong Lu\n- Ketika Hong Lu has 3+ [Teaching], unit ini tidak memperoleh Perisai for the rest of Pertempuran"
+        },
+        {
+            "id": 115701,
+            "name": "Hate",
+            "desc": "Final Power +2 in Clashes terhadap Hong Lu"
+        },
+        {
+            "id": 115702,
+            "name": "Unleashed Curse",
+            "desc": "Awal Giliran: peroleh [AttackUp] setara dengan jumlah dari Jars dikalahkan di Pertempuran ini (maks 5)"
+        },
+        {
+            "id": 115703,
+            "name": "Returning the Pain",
+            "desc": "Beri +1% damage untuk setiap 1% HP yang hilang pada diri sendiri (maks 50%)"
+        },
+        {
+            "id": 115801,
+            "name": "Bolus of... Immortality?",
+            "desc": "Saat Menyerang dengan Skill: pulihkan 10% dari damage yang diberikan (dibulatkan ke bawah)\nJika target memiliki [MadFeather], pulihkan tambahan ([MadFeather] Stack pada target)% HP"
+        },
+        {
+            "id": 115802,
+            "name": "I'VE NEVER FELT BETTER!",
+            "desc": "Saat Menyerang, pulihkan 3 SP pada diri sendiri"
+        },
+        {
+            "id": 115803,
+            "name": "MY REVENGEANCE HAS JUST BEGUN!",
+            "desc": "Peroleh 1 [AttackUp] giliran berikutnya setiap kali unit ini kalah Clash (maks 3)"
+        },
+        {
+            "id": 115804,
+            "name": "Rupture sebanyak Feathers",
+            "desc": "Ketika unit ini hits target yang sama three kali in the same giliran, beri 1 [Vulnerable] giliran berikutnya"
+        },
+        {
+            "id": 115805,
+            "name": "Rampage",
+            "desc": "Level Offense +1 dan Defense Level -1 untuk setiap 15% HP unit ini secara kumulatif lost di Pertempuran ini (maks 6)"
+        },
+        {
+            "id": 115901,
+            "name": "Wounded",
+            "desc": "Awal Pertempuran: enters the battle dengan 80% HP"
+        },
+        {
+            "id": 115902,
+            "name": "Master of the Deathrite Monks",
+            "desc": "Akhir Giliran: at 20 atau lebih sedikit SP, unit ini siphons 10 SP dari 3 acak kawan dengan the highest SP ke pulihkan its own SP\n\nAwal Giliran: Beri 2 [AttackDmgUp] untuk semua other kawan dengan -20 atau lebih sedikit SP"
+        },
+        {
+            "id": 115903,
+            "name": "Wicked Energy",
+            "desc": "Ketika memberi [OminousTalisman] pada musuh, jika target sudah has [OminousTalisman], konsumsi hingga 3 [OminousTalisman] pada target dan beri the same value as [DefenseDown] Stack to target giliran ini dan giliran berikutnya"
+        },
+        {
+            "id": 115904,
+            "name": "Dammit... Terima them out!",
+            "desc": "Di Pertempuran ini, jika unit ini menerima damage yang membawa HP unit ini turun hingga half atau less, batalkan damage tersebut dan akhiri giliran. Lalu, pindah ke the rearmost position of the Substitution order (ketika Stagger, pulih immediately)\n\nJika tidak ada lebih musuh to Substitute in, atau jika there aren't enough of them left, (as in, jika terdapat lebih dead musuh giliran ini than terdapat waiting to Substitute menjadi Pertempuran) efek ini tidak mengaktifkan"
+        },
+        {
+            "id": 115905,
+            "name": "The Battle's End",
+            "desc": "Ketika Wang Qingshan kehilangan semua HP di Pertempuran ini, Pertempuran ends"
+        },
+        {
+            "id": 116701,
+            "name": "Ugh... these damn engravings...!",
+            "desc": "Akhir Giliran: at 7+ [Charge], peroleh 4 [DefenseDown] dan 3 [AttackDmgUp] giliran berikutnya"
+        },
+        {
+            "id": 116702,
+            "name": "Your shabby weapons are incomparable to mine",
+            "desc": "Jika unit ini diberikan 4 atau lebih [Burst] during giliran ini, peroleh +3 [Charge] Count pada Akhir Giliran (sekali per giliran)"
+        },
+        {
+            "id": 116703,
+            "name": "Is that semua you've got?",
+            "desc": "Awal Giliran: peroleh 1 [AttackDmgUp] untuk setiap [Charge] pada diri sendiri"
+        },
+        {
+            "id": 116704,
+            "name": "The Battle's End",
+            "desc": "Ketika Shi Hua... something? kehilangan semua HP di Pertempuran ini, Pertempuran ends"
+        },
+        {
+            "id": 116705,
+            "name": "Deploy Lightning Perisai",
+            "desc": "Awal Giliran: jika unit ini memiliki [Charge], peroleh (100 - (([Charge] - 1) x 10)) Perisai. Pada 7+ [Charge], unit ini no longer peroleh Perisai dengan Pasif ini."
+        },
+        {
+            "id": 116001,
+            "name": "That's how you gunakan your human resource",
+            "desc": "Awal Giliran: jika unit ini memiliki 50% atau kurang HP, sacrifice a acak Shi Family Mercenary to pulihkan (10% dari HP unit ini + 50% of the sacrificed unit's HP) HP, pulihkan 25 SP, dan pulih dari Stagger (sekali per giliran)"
+        },
+        {
+            "id": 116002,
+            "name": "Jin Gang, Unbreakable Diamond",
+            "desc": "Awal Giliran: peroleh 5 [Protection]\n- Peroleh lebih sedikit Stack depending pada unit ini's [Charge]\n- Pada 5+ [Charge], unit ini no longer peroleh [Protection] dengan Pasif ini"
+        },
+        {
+            "id": 116003,
+            "name": "The Battle's End",
+            "desc": "Ketika Shi Sijing kehilangan semua HP di Pertempuran ini, Pertempuran ends"
+        },
+        {
+            "id": 115704,
+            "name": "The Battle's End",
+            "desc": "Ketika Xue Pan kehilangan semua HP di Pertempuran ini, Pertempuran ends"
+        },
+        {
+            "id": 115806,
+            "name": "The Battle's End",
+            "desc": "Ketika Shi Yihua kehilangan semua HP di Pertempuran ini, Pertempuran ends"
+        },
+        {
+            "id": 114401,
+            "name": "My Lord",
+            "desc": "Awal Giliran: pulihkan 30 SP\nAwal Giliran: peroleh hingga 500 Perisai\n- Unit ini tidak turun di bawah 1 HP"
+        }
+    ]
+}

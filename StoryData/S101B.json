@@ -1,0 +1,718 @@
+{
+  "dataList": [
+    {
+      "id": -1,
+      "content": "Episode S0_1"
+    },
+    {
+      "id": 0,
+      "place": "Di dalam Mephistopheles",
+      "model": "카론",
+      "content": "Verg."
+    },
+    {
+      "id": 1,
+      "model": "카론",
+      "content": "Ada halangan. Boleh vroom-vroom?"
+    },
+    {
+      "id": 2,
+      "content": "Obrolan itulah yang membuatku membuka mataku."
+    },
+    {
+      "id": 3,
+      "content": "Lagipula, tidak ada yang lebih ampuh daripada menutup mata saat ingin mengusir kebosanan."
+    },
+    {
+      "id": 4,
+      "content": "Bukan berarti ada aktivitas lain sih di dalam bis yang tujuannya pun tidak kuketahui..."
+    },
+    {
+      "id": 5,
+      "content": "Hilangnya kepala dan ingatanku juga tidak membantu."
+    },
+    {
+      "id": 6,
+      "model": "베르길리우스",
+      "content": "……"
+    },
+    {
+      "id": 7,
+      "model": "베르길리우스",
+      "content": "Baiklah, ayo lanjut."
+    },
+    {
+      "id": 8,
+      "model": "카론",
+      "content": "Ok. Bersiaplah grudak-gruduk."
+    },
+    {
+      "id": 9,
+      "model": "카론",
+      "content": "Cairan pembersih mahal. Verg bilang dia membayar mahal sekali."
+    },
+    {
+      "id": 10,
+      "content": "Daging-daging yang tersangkut di kaca, larut secara perlahan, membiarkan cahaya masuk."
+    },
+    {
+      "id": 11,
+      "content": "Sebagian besar orang di dalam bis—Para Sinners—menatap lurus dengan berbagai ekspresi di mata mereka."
+    },
+    {
+      "id": 12,
+      "content": "Adegannya cukup mengerikan, tetapi berdasarkan reaksi beberapa orang, mungkin kekerasan semacam ini sudah biasa di The City."
+    },
+    {
+      "id": 13,
+      "model": "단테",
+      "content": "<Hey...>"
+    },
+    {
+      "id": 14,
+      "content": "Rasanya canggung untuk mencoba tidur lagi setelah kejadian tadi. Tapi ada seorang pria berjanggut yang menarik perhatianku."
+    },
+    {
+      "id": 15,
+      "model": "단테",
+      "content": "<Co― Maksudku, Mata empat. Tahu tujuan kita engga?>"
+    },
+    {
+      "id": 16,
+      "content": "... Ciri yang jauh lebih mencolok daripada kacamata-nya membuatku keceplosan."
+    },
+    {
+      "id": 17,
+      "model": "그레고르",
+      "content": "... Kamu hampir panggil aku \"Coro,\" bukan?"
+    },
+    {
+      "id": 18,
+      "model": "그레고르",
+      "content": "Sekali lagi, namaku Gregor."
+    },
+    {
+      "id": 19,
+      "model": "그레고르",
+      "content": "Alasan yang sama kenapa aku memanggilmu Dante dan bukan \"kepala jam.\""
+    },
+    {
+      "id": 20,
+      "content": "... Aku tak bisa beralasan, jadi akupun hanya mengangguk pelan."
+    },
+    {
+      "id": 21,
+      "model": "그레고르",
+      "content": "Jadi, Gadis Bis. Kita mau kemana?"
+    },
+    {
+      "id": 22,
+      "model": "카론",
+      "content": "Sekali lagi, namaku Charon."
+    },
+    {
+      "id": 23,
+      "model": "카론",
+      "content": "Alasan yang sama kenapa aku memanggilmu Gregor dan bukan \"coro.\""
+    },
+    {
+      "id": 24,
+      "model": "그레고르",
+      "content": "……"
+    },
+    {
+      "id": 25,
+      "model": "단테",
+      "content": "<Dia ada benernya juga tuh.>"
+    },
+    {
+      "id": 26,
+      "model": "그레고르",
+      "content": "Haha, iya juga."
+    },
+    {
+      "id": 27,
+      "model": "카론",
+      "content": "... Verg bilang:"
+    },
+    {
+      "id": 28,
+      "model": "카론",
+      "content": "\"Para Sinners akan pergi ke District 4\""
+    },
+    {
+      "id": 29,
+      "model": "돈키호테",
+      "content": "Apuuaaaaa?! Apakah ada yang nyebut \"District 4\"?!"
+    },
+    {
+      "id": 30,
+      "model": "돈키호테",
+      "content": "Tempat itu terkenal sebagai tempat tinggal Grass Maiden! Itu asal mula perjalanan sang pahlawan, Dan itu juga..."
+    },
+    {
+      "id": 31,
+      "model": "히스클리프",
+      "content": "Jancuk, lu reseh amat dah."
+    },
+    {
+      "id": 32,
+      "model": "히스클리프",
+      "content": "Tuh mulut ga ada remnya atau gimana?"
+    },
+    {
+      "id": 33,
+      "model": "돈키호테",
+      "content": "Kenapa, padahal dari tadi aku udah diam!"
+    },
+    {
+      "id": 34,
+      "model": "히스클리프",
+      "content": "Lu ngajak ribut? Berantem sini!"
+    },
+    {
+      "id": 35,
+      "model": "이스마엘",
+      "content": "... Hey, kamu sadar gak kalau kau yang paling berisik disini?"
+    },
+    {
+      "id": 36,
+      "model": "히스클리프",
+      "content": "... Neng, walaupun lu ga bisa mati, tapi lu masih bisa kesakitan kan? Coba lu ngomong itu lagi."
+    },
+    {
+      "id": 37,
+      "model": "이스마엘",
+      "content": "Aku menyampaikan argumen valid dan responmu beralih ke kekerasan? Sungguh beretika ya dirimu."
+    },
+    {
+      "id": 38,
+      "model": "히스클리프",
+      "content": "... Ha."
+    },
+    {
+      "id": 39,
+      "content": "Untuk sesaat, aku merunungkan diri:"
+    },
+    {
+      "id": 40,
+      "content": "Haruskah aku menengahi? Apakah ini saatnya aku menggunakan wewenangku sebagai manajer mereka yang bermartabat? Sebuah ingatan samar mendorongku untuk melakukan sesuatu."
+    },
+    {
+      "id": 41,
+      "model": "단테",
+      "content": "<Nah, teman-teman, jangan kehilangan kekerenan k—>"
+    },
+    {
+      "id": 42,
+      "model": "히스클리프",
+      "content": "Ngh..."
+    },
+    {
+      "id": 43,
+      "model": "이스마엘",
+      "content": "Hrrk...!"
+    },
+    {
+      "id": 44,
+      "model": "료슈",
+      "content": "BABI."
+    },
+    {
+      "id": 45,
+      "model": "료슈",
+      "content": "Basmi Amukan Bocah Ingusan."
+    },
+    {
+      "id": 46,
+      "model": "료슈",
+      "content": "……"
+    },
+    {
+      "id": 47,
+      "model": "돈키호테",
+      "content": "Kekerasan tanpa alasan tak' akan dimaafkan! Akan kutegakkan keadilan!"
+    },
+    {
+      "id": 48,
+      "model": "로쟈",
+      "content": "Aw~ Aku udah tahu ini bakalan terjadi—ada noda darah di bajuku. Bisa ga sih kalian engga berantem di sebelahku?"
+    },
+    {
+      "id": 49,
+      "model": "단테",
+      "content": "<Ini... gila...>"
+    },
+    {
+      "id": 50,
+      "content": "Kita bahkan belum sampai tujuan dan sudah ada tiga orang yang tewas. Itupun karena perselisihan internal."
+    },
+    {
+      "id": 51,
+      "model": "베르길리우스",
+      "content": "Aku bahkan tidak bisa mengalihkan pandangan sedetikpun tanpa keadaan menjadi kacau, ya?"
+    },
+    {
+      "id": 52,
+      "model": "베르길리우스",
+      "content": "Kalian berempat. Tugas bersih-bersih hingga bulan depan."
+    },
+    {
+      "id": 53,
+      "model": "돈키호테",
+      "content": "Sungguh tidak adil! Aku hanya menegakkan keadilan!"
+    },
+    {
+      "id": 54,
+      "model": "로쟈",
+      "content": "Tunggu! Suruh juga mereka buat cuci pakaianku. Noda darah jauh lebih susah hilangnya dibandingkan noda anggur. Pakaian ini juga engga murah, lho..."
+    },
+    {
+      "id": 55,
+      "content": "Tidak ada yang mempermasalahkan para calon-petugas-kebersihan yang tak bernyawa di lantai."
+    },
+    {
+      "id": 56,
+      "content": "Mungkin mereka sudah terbiasa dengan keabadian mereka."
+    },
+    {
+      "id": 57,
+      "content": "Masalahnya, aku engga tahu persis cara menghidupkan mereka kembali..."
+    },
+    {
+      "id": 58,
+      "model": "베르길리우스",
+      "content": "Dante, Aku ingin kau memutar kembali jam-nya"
+    },
+    {
+      "id": 59,
+      "model": "단테",
+      "content": "<Memutar... jam-nya?>"
+    },
+    {
+      "id": 60,
+      "model": "베르길리우스",
+      "content": "*hah*"
+    },
+    {
+      "id": 61,
+      "model": "베르길리우스",
+      "content": "Jadi itu ekspresimu saat sedang bingung. Akan kuingat."
+    },
+    {
+      "id": 62,
+      "model": "베르길리우스",
+      "content": "Nona Faust."
+    },
+    {
+      "id": 63,
+      "model": "파우스트",
+      "content": "……"
+    },
+    {
+      "id": 64,
+      "content": "Vergilius menggangguk pelan kepada Faust dan memberi isyarat ke arahku."
+    },
+    {
+      "id": 65,
+      "content": "Dia menghela kecil tetapi tetap datang ke tempat dudukku, mungkin karena merasa berkewajiban."
+    },
+    {
+      "id": 66,
+      "model": "파우스트",
+      "content": "Itu hal yang sama seperti saat pertama kali kita bertemu, Dante. Meskipun saya rasa itu lebih ke reaksi insting."
+    },
+    {
+      "id": 67,
+      "model": "파우스트",
+      "content": "Sekarang, mari kita coba lagi. Tutup mata anda."
+    },
+    {
+      "id": 68,
+      "content": "Meskipun tidak memiliki mata, menghalangi pandanganku adalah sesuatu yang sudah bisa kulakukan."
+    },
+    {
+      "id": 69,
+      "content": "Tidak ada alasan untuk tidak mengikuti perintah Faust di sini."
+    },
+    {
+      "id": 70,
+      "model": "파우스트",
+      "content": "Sebenarnya, pintu itu ada di mana-mana."
+    },
+    {
+      "id": 71,
+      "model": "파우스트",
+      "content": "Namun, hanya anda saja yang bisa melihatnya. Itu dikarenakan bintang-bintang di langit anda belum jatuh."
+    },
+    {
+      "id": 72,
+      "content": "Saat itu, aku merasakan secercah cahaya perlahan memasuki pandanganku."
+    },
+    {
+      "id": 73,
+      "content": "Aku membiarkannya datang padaku, sama seperti saat aku membuka mata."
+    },
+    {
+      "id": 74,
+      "place": "???",
+      "content": "Dan kemudian... hamparan ruang luas terbentang di depanku."
+    },
+    {
+      "id": 75,
+      "content": "Disana, aku sendirian..."
+    },
+    {
+      "id": 76,
+      "content": "... dengan pintu megah yang berdiri tegak dihadapanku."
+    },
+    {
+      "id": 77,
+      "content": "Itu bukan pemandangan yang menyenangkan."
+    },
+    {
+      "id": 78,
+      "content": "Gelombang panas yang menyesakkan dan jeritan kesakitan keluar melalui celah pintu."
+    },
+    {
+      "id": 79,
+      "content": "Aku hampir pingsan mendenger ratapan dan tangisan yang tak ada hentinya."
+    },
+    {
+      "id": 80,
+      "content": "Namun, aku mendapati diriku mendekati pintu itu, meraih gagangnya seolah-olah itu adalah hal paling alami untuk dilakukan."
+    },
+    {
+      "id": 81,
+      "content": "Meskipun tampak berat, pintu itu terbuka dengan mudah."
+    },
+    {
+      "id": 82,
+      "content": "Aku meraba bagian dalam pintu. Ribuan bahkan jutaan ratapan sumbang terpendan di dalamnya."
+    },
+    {
+      "id": 83,
+      "content": "Dan sambil menjangkau lebih dalam, aku meraih beberapa tangan yang terulur."
+    },
+    {
+      "id": 84,
+      "content": "Aku bisa merasakan sejarah berbagai dosa, masing-masing membawa khasnya sendiri, merayap di sepanjang tanganku dan naik ke lenganku."
+    },
+    {
+      "id": 85,
+      "content": "\"Apakah kamu siap tuk' berbagi rasa sakit?\""
+    },
+    {
+      "id": 86,
+      "content": "Mungkinkah itu pertanyaan? Atau tekanan untuk patuh?"
+    },
+    {
+      "id": 87,
+      "content": "Dengan segenap kekuatanku, aku menarik para Sinners yang berpegangan pada tanganku keluar dari pintu itu."
+    },
+    {
+      "id": 88,
+      "model": "단테",
+      "content": "<... RAHHHHGH!>"
+    },
+    {
+      "id": 89,
+      "content": "Rasa sakit luar biasa menjalar ke seluruh tubuhku."
+    },
+    {
+      "id": 90,
+      "content": "Siksaan yang tak tertahankan hingga aku lebih memilih mati daripada mengalaminya—dan siksaan itu tak kunjung berhenti."
+    },
+    {
+      "id": 91,
+      "content": "Sensasi tulang dan ototku yang saling berbelit berlangsung dalam waktu yang terasa seperti selamanya."
+    },
+    {
+      "id": 92,
+      "content": "Kaki yang belum terlatih ini lemas menahan rasa sakit tak tertahankan, dan aku roboh di atas genangan darah."
+    },
+    {
+      "id": 93,
+      "content": "Kemudian aku melihatnya:"
+    },
+    {
+      "id": 94,
+      "content": "Permukaan cairan merah kental yang bergetar dan bergelembung mulai berhamburan seiring rasa sakitnya yang semakin memburuk."
+    },
+    {
+      "id": 95,
+      "content": "Dengan cepat, darah yang membasahi tanah tadi mengeras dan menyatu menjadi tiga gumpalan terpisah."
+    },
+    {
+      "id": 96,
+      "content": "Lalu, rasa sakit yang seolah tak berakhir itu lenyap begitu saja."
+    },
+    {
+      "id": 97,
+      "place": "Di dalam Mephistopheles",
+      "model": "히스클리프",
+      "content": "Mmgh..."
+    },
+    {
+      "id": 98,
+      "model": "이스마엘",
+      "content": "... Hrrk."
+    },
+    {
+      "id": 99,
+      "content": "Saat gumpalan darah itu melayang ke udara dan terbang, kabut merah mengerikan itu menghilang dari pandanganku, dan tak sadar aku sudah kembali di dalam bis."
+    },
+    {
+      "id": 100,
+      "model": "료슈",
+      "content": "Keh... Bagaimana rasanya, hidup kembali setelah dipenggal? Apakah jantungmu berdebar kencang?"
+    },
+    {
+      "id": 101,
+      "content": "Begitu Heathcliff sadar, dia menggosok lehernya, mengeluarkan beberapa sumpah serapah, dan menghentakkan kakinya menuju Ryōshū."
+    },
+    {
+      "id": 102,
+      "model": "단테",
+      "content": "<Tunggu dulu, kamu baru saja hidup lagi dan mulai ajak berantem orang lain?>"
+    },
+    {
+      "id": 103,
+      "content": "Heathcliff berbalik dan menatapku dengan tajam, matanya dibutakan oleh amarah."
+    },
+    {
+      "id": 104,
+      "model": "히스클리프",
+      "content": "Itu tugas lu buat ngehidupin kita lagi kan?"
+    },
+    {
+      "id": 105,
+      "model": "히스클리프",
+      "content": "Ga usah ikut campur urusan gue, kecuali kalau lu ingin jam itu hancur berkeping-keping."
+    },
+    {
+      "id": 106,
+      "model": "싱클레어",
+      "content": "T-Tolong, tunggu! Dante sepertinya sangat kesakitan. Kita benar-benar harus berhenti—"
+    },
+    {
+      "id": 107,
+      "content": "Heathcliff tidak menunggu Sinclair selesai berbicara, dan menghantamkan tongkat baja miliknya ke tengkorak pemuda itu."
+    },
+    {
+      "id": 108,
+      "model": "싱클레어",
+      "content": "Kurgh... Grk..."
+    },
+    {
+      "id": 109,
+      "content": "Bis ini dipenuhi oleh suara gumaman tak jelas Sinclair saat ia sekarat."
+    },
+    {
+      "id": 110,
+      "model": "히스클리프",
+      "content": "Lain kali, Jam elu yang bakal gue hancurkan. Dah jelas?"
+    },
+    {
+      "id": 111,
+      "model": "이스마엘",
+      "content": "Kau memang bajingan seperti yang terlihat dari luar."
+    },
+    {
+      "id": 112,
+      "model": "히스클리프",
+      "content": "... Elu ga puas udah mati sekali?"
+    },
+    {
+      "id": 113,
+      "content": "Heathcliff mempererat cengkeramannya pada pemukul bisbol sementara Ishmael bersiap mengayunkan gada miliknya."
+    },
+    {
+      "id": 114,
+      "content": "...Bagaimana bisa aku berakhir mengelola orang-orang gila yang bahkan tidak berhenti setelah bangkit dari kematian?"
+    },
+    {
+      "id": 115,
+      "content": "Saat pikiranku melayang, hawa dingin yang menyeramkan menyelimuti dan membekukan ketegangan di dalam bis."
+    },
+    {
+      "id": 116,
+      "model": "베르길리우스",
+      "content": "... Ah. Sepertinya kita sudah lama membutuhkan pendisiplinan."
+    },
+    {
+      "id": 117,
+      "model": "히스클리프",
+      "content": "...!"
+    },
+    {
+      "id": 118,
+      "model": "이스마엘",
+      "content": "……"
+    },
+    {
+      "id": 119,
+      "content": "Para Sinners, yang hampir saja saling menyerang, tiba-tiba berhenti..."
+    },
+    {
+      "id": 120,
+      "content": "... sesaat sepasang mata merah menatap mereka dengan tatapan dingin tanpa ampun."
+    },
+    {
+      "id": 121,
+      "model": "베르길리우스",
+      "content": "Peraturan pertama:"
+    },
+    {
+      "id": 122,
+      "model": "베르길리우스",
+      "content": "Jangan sampai aku mendengar suara benturan senjata di dalam bis."
+    },
+    {
+      "id": 123,
+      "model": "베르길리우스",
+      "content": "Apabila ada yang melanggar peraturan ini mulai sekarang..."
+    },
+    {
+      "id": 124,
+      "model": "베르길리우스",
+      "content": "Kalian akan memohon padaku untuk membunuhku sebelum aku selesai."
+    },
+    {
+      "id": 125,
+      "model": "베르길리우스",
+      "content": "Aku yakin bahwa kalian tahu kalau aku bisa melakukan hal lebih daripada itu, bukan?"
+    },
+    {
+      "id": 126,
+      "content": "Rintihan sekarat Sinclair adalah satu-satunya suara yang memecah keheningan."
+    },
+    {
+      "id": 127,
+      "content": "Heathcliff menatap tajam ke arah Vergilius, tetapi tidak berani membantah."
+    },
+    {
+      "id": 128,
+      "model": "베르길리우스",
+      "content": "Maaf, Dante. Aku butuh kau untuk memutar jam-nya lagi."
+    },
+    {
+      "id": 129,
+      "model": "단테",
+      "content": "<Lagi...?>"
+    },
+    {
+      "id": 130,
+      "content": "Aku segera menggelengkan kepala—tidak mungkin aku akan mengalami itu lagi. Rasanya sangat sakit sehingga kematian jauh lebih baik daripadanya."
+    },
+    {
+      "id": 131,
+      "content": "Senyum samar di wajah Vergilius lenyap seiring ekspresinya berubah."
+    },
+    {
+      "id": 132,
+      "model": "베르길리우스",
+      "content": "... Sebaiknya buka pintu itu selagi aku masih merasa murah hati untuk meminta anda dengan sopan, Manajer Dante."
+    },
+    {
+      "id": 133,
+      "model": "베르길리우스",
+      "content": "Oh, dan jika rasa sakitlah yang kau takuti... Jika itu sebabnya kau menggelengkan kepala, aku akan senang hati akan membantumu."
+    },
+    {
+      "id": 134,
+      "model": "베르길리우스",
+      "content": "Rasa sakit karena mengulang itu akan terasa sepele setelah ini. Cara ampuh untuk meningkatkan toleransi rasa sakitmu, bukan?"
+    },
+    {
+      "id": 135,
+      "model": "오티스",
+      "content": "Apakah saya mendengar anda dengan benar? Manajer kami dengan jelas menolak permintaan anda."
+    },
+    {
+      "id": 136,
+      "model": "베르길리우스",
+      "content": "Kau... Interupsi ini tidak tepat pada waktunya."
+    },
+    {
+      "id": 137,
+      "model": "오티스",
+      "content": "Saya diberitahu saat bergabung dengan perusahaan ini bahwa Manajer Eksekutif akan menjadi atasan saya, bukan anda."
+    },
+    {
+      "id": 138,
+      "model": "오티스",
+      "content": "Saya rasa manajer telah menyampaikan maksudnya dengan sangat jelas hanya dengan menggelengkan kepala mereka."
+    },
+    {
+      "id": 139,
+      "model": "베르길리우스",
+      "content": "Aku mengerti, jadi asistennya memutuskan untuk membantu, begitu?"
+    },
+    {
+      "id": 140,
+      "model": "베르길리우스",
+      "content": "Kalau begitu, izinkan aku menjelaskan maksudku dengan jelas ke kalian semua."
+    },
+    {
+      "id": 141,
+      "content": "Mata Vergilius berubah menjadi merah yang lebih pekat, mempertajam tatapan dinginnya."
+    },
+    {
+      "id": 142,
+      "content": "Aku tidak tahu apa yang seharusnya dilakukan seorang manajer, atau bahkan apakah aku pantas mengambil peran ini..."
+    },
+    {
+      "id": 143,
+      "content": "...tetapi aku merasa setidaknya aku harus mencegah keadaan ini supaya tidak memburuk."
+    },
+    {
+      "id": 144,
+      "content": "Menghidupkan kembali satu Sinner seharusnya tidak terlalu menyakitkan dibanding menghidupkan 12 sekaligus...."
+    },
+    {
+      "id": 145,
+      "model": "단테",
+      "content": "<Outis... Akan kuputar ulang jam-nya. Tidak apa-apa.>"
+    },
+    {
+      "id": 146,
+      "content": "Vergilius melihatku memberi isyarat—dengan panik—kepada Outis untuk mundur, dan kilatan merah di matanya memudar."
+    },
+    {
+      "id": 147,
+      "model": "베르길리우스",
+      "content": "Pilihan bijak."
+    },
+    {
+      "id": 148,
+      "model": "오티스",
+      "content": "... Sesuai keinginan anda, Manajer Eksekutif."
+    },
+    {
+      "id": 149,
+      "content": "Outis tampak seperti ingin mengatakan sesuat, tetapi dengan cepat mengurungkan niatnya dan langsung memberi perhatian penuh."
+    },
+    {
+      "id": 150,
+      "content": "Pintu merah itu menyambutku lagi, bersamaan pula sensasi mual dari tulang dan ototku yang bergejolak dan saling melilit."
+    },
+    {
+      "id": 151,
+      "content": "Aku menyerah untuk menggambarkan rasa sakitnya seperti apa."
+    },
+    {
+      "id": 152,
+      "content": "Toh, itu bukan jenis siksaan yang bisa diberi nama."
+    },
+    {
+      "id": 153,
+      "model": "싱클레어",
+      "content": "... Te-terima kasih..."
+    },
+    {
+      "id": 154,
+      "content": "Sinclair berdiri sambil mengerang kesakitan dan membungku sebagai tanda terima kasih sebelum tertatih-tatih kembali ke tempat duduknya."
+    }
+  ]
+}

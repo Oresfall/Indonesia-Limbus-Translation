@@ -1,0 +1,29 @@
+{
+  "dataList": [
+    {
+      "id": 9021701,
+      "name": "Esecuzione della Regola - Preparation Stage",
+      "desc": "Jika unit ini mengaktifkan [VibrationExplosion] giliran sebelumnya, peroleh 1 [Enhancement] dan 1 [AttackDmgUp] giliran berikutnya"
+    },
+    {
+      "id": 9021702,
+      "name": "Esecuzione della Regola - Crush the Lower Jaw",
+      "desc": "Beri +10% damage terhadap Stagger musuh\nJika musuh was Stagger in the giliran sebelumnya: selama giliran berikutnya, beri 2 [Vibration] Saat Menyerang dengan Skill setelah Menang Clash (2 kali per giliran)"
+    },
+    {
+      "id": 9021703,
+      "name": "Regola Infranta",
+      "desc": "Jika 1 atau lebih kawan has been dikalahkan, peroleh 1 [ParryingResultUp] starting giliran berikutnya"
+    },
+    {
+      "id": 9021301,
+      "name": "Four-leaf Clover",
+      "desc": "Awal Giliran: peroleh 5 [Breath] dan +2 Count [Breath]\nAwal Pertempuran: jika kawan dengan [Breath] Critically Hits musuh dengan Skill, beri 5 Potency [Breath] dan +2 Potency [Breath] ke kawan acak pada Awal Giliran berikutnya (sekali per giliran)"
+    },
+    {
+      "id": 9021302,
+      "name": "Tasty Flesh",
+      "desc": "Pada 50%- HP: Saat Menyerang terhadap musuh dengan [Laceration], pulihkan 1% HP untuk setiap [Laceration] pada target (maks 10%; sekali per Pertempuran)"
+    }
+  ]
+}

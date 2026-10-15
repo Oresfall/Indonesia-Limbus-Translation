@@ -1,0 +1,1416 @@
+{
+  "dataList": [
+    {
+      "id": 9020301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pressure Point Penetration",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pressure Point Crush",
+          "desc": "[WhenUse] Jika target memiliki 3+ [Laceration], Clash Power +1\n[WhenUse] Jika target memiliki 4+ [Vibration], Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Palanquin Crush",
+          "desc": "[WhenUse] Jika target memiliki 3+ [Laceration], Clash Power +1\n[WhenUse] Jika target memiliki 4+ [Vibration], Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Vibration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guard",
+          "desc": "[WhenUse] Peroleh 3 Perisai untuk setiap tipe efek negatif pada diri sendiri (maks 10)"
+        }
+      ]
+    },
+    {
+      "id": 9020401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pressure Point Stab",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pressure Point Strike",
+          "desc": "[WhenUse] Jika target memiliki 3+ [Laceration], Clash Power +1\n[WhenUse] Jika target memiliki 4+ [Vibration], Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Vibration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Vibration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Palanquin Buster",
+          "desc": "[WhenUse] Jika target memiliki 3+ [Laceration] Count, Clash Power +1\n[WhenUse] Jika target memiliki 4+ [Vibration] Count, Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Vibration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guard",
+          "desc": "[WhenUse] Peroleh 3 Perisai untuk setiap tipe efek negatif pada diri sendiri (maks 10)"
+        }
+      ]
+    },
+    {
+      "id": 9020101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pinpoint Strike",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [AttackDown] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Circular Roundhouse Point-Strike",
+          "desc": "Peroleh Clash Power +1 untuk setiap tipe efek negatif pada diri sendiri (maks 3)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [AttackDown] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Circular Roundhouse Strike",
+          "desc": "Peroleh Clash Power +1 untuk setiap tipe efek negatif pada diri sendiri (maks 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [AttackDown] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [AttackDown] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [AttackDown] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Counter",
+          "desc": "Peroleh Coin Power +1 untuk setiap tipe efek negatif pada diri sendiri (maks 3)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Center Strike",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [DefenseDown] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Semicircular Roundhouse Point-Strike",
+          "desc": "Peroleh Clash Power +1 untuk setiap tipe efek negatif pada diri sendiri (maks 3)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [DefenseDown] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Semicircular Roundhouse Strike",
+          "desc": "Peroleh Clash Power +1 untuk setiap tipe efek negatif pada diri sendiri (maks 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [DefenseDown] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [DefenseDown] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [DefenseDown] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Counter",
+          "desc": "Peroleh Coin Power +1 untuk setiap tipe efek negatif pada diri sendiri (maks 3)",
+          "coinlist": [
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Clawing",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wild Clawing",
+          "desc": "[WhenUse] Jika target memiliki 4+ [Burst], Base Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tear Off",
+          "desc": "[WhenUse] Base Power +1 untuk setiap 20% HP yang hilang pada diri sendiri (maks 4)\n[WhenUse] Coin Power +1 untuk setiap 6 [Burst] (maks 2)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst] dan +3 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Counter",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Leaping Cracked Jar",
+          "desc": "[EndSkill] Secara Acak beri 2 dari efek berikut giliran berikutnya. Dies setelah dealing 10 damage\n- 3 [AttackDown]\n- 3 [DefenseDown]\n- 1 [Paralysis]\n- 2 [Binding]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Claw Scratch",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wild Scratching",
+          "desc": "[WhenUse] Jika target memiliki 4+ [Burst], Base Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Latching On",
+          "desc": "[WhenUse] Base Power +1 untuk setiap 20% HP yang hilang pada diri sendiri (maks 4)\n[WhenUse] Coin Power +1 untuk setiap 6 [Burst] (maks 2)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Counter",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst] dan +1 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Leaping Cracked Jar",
+          "desc": "[EndSkill] Secara Acak beri 2 dari efek berikut giliran berikutnya. Dies setelah dealing 10 damage\n- 3 [AttackDown]\n- 3 [DefenseDown]\n- 1 [Paralysis]\n- 2 [Binding]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wound Digging",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wild Digging",
+          "desc": "[WhenUse] Jika target memiliki 4+ [Burst], Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Flesh Digging",
+          "desc": "[WhenUse] Base Power +1 untuk setiap 20% HP yang hilang pada diri sendiri (maks 4)\n[WhenUse] Coin Power +1 untuk setiap 6 [Burst] (maks 2)",
+          "coinlist": [
+            {},
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +4 [Burst] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Counter",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Leaping Cracked Jar",
+          "desc": "[EndSkill] Secara Acak beri 2 dari efek berikut giliran berikutnya. Dies setelah dealing 10 damage\n- 3 [AttackDown]\n- 3 [DefenseDown]\n- 1 [Paralysis]\n- 2 [Binding]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Wound Clawing",
+          "desc": "[WhenUse] Jika target memiliki 4+ [Burst], Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Flesh Tearing",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 4 [Burst] pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Writhing in Loneliness",
+          "desc": "[WhenUse] Base Power +1 untuk setiap 10% HP yang hilang pada diri sendiri (maks 5)\n[WhenUse] Coin Power +1 untuk setiap 4 [Burst] pada target (maks 3)\n\n[WhenUse] Jika target memiliki 10+ ([Burst] + [Burst] Count), beri [Burst] Count setara dengan [Burst] Count pada target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Pada 15+ ([Burst] + [Burst] Count), beri ([Burst] Potency x [Burst] Count) Gluttony damage. (maks 40)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +5 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Counter",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki 5+ [Burst], reuse Skill ini (2 kali maks)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102205,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Leaping Cracked Jar",
+          "desc": "[EndSkill] Secara Acak beri 3 dari efek berikut giliran berikutnya. Dies setelah dealing 30 damage\n- 4 [AttackDown]\n- 4 [DefenseDown]\n- 2 [Paralysis]\n- 2 [Binding]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Slash",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pressuring",
+          "desc": "[WhenUse] Jika target memiliki 5+ [Laceration], Clash Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ruptured Image Execution",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 5 [Laceration] pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Beri +1% damage untuk setiap ([Laceration] + [Laceration] Count) pada target (maks 20%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Counter",
+          "desc": "[WhenUse] Jika target memiliki 6+ [Laceration], Base Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [DefenseDown] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Sweep Away",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cornering",
+          "desc": "[WhenUse] Jika target memiliki 5+ [Laceration], Clash Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Execution of the Ruptured Image",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 5 [Laceration] pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Beri +1% damage untuk setiap ([Laceration] + [Laceration] Count) pada target (maks 20%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9019904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Counter",
+          "desc": "[WhenUse] Jika target memiliki 6+ [Laceration], Base Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [AttackDown] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Parrying Slash",
+          "desc": "[WhenUse] Jika target memiliki 8+ [Laceration], Clash Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Pressuring Slash",
+          "desc": "[WhenUse] Jika target memiliki 5+ [Laceration], Clash Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Waveslash",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 5 [Laceration] pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Beri +1% damage untuk setiap ([Laceration] + [Laceration] Count) pada target (maks 20%)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Becalming of a Bewildered Steed",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 5 [Laceration] pada target (maks 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration] dan +3 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "Beri +2% damage untuk setiap ([Laceration] + [Laceration] Count) pada target (maks 50%)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9020005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Counter",
+          "desc": "[WhenUse] Jika target memiliki 6+ [Laceration], Base Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Binding] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [AttackDown] dan [DefenseDown] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Frontal Swirl",
+          "desc": "[WhenUse] Jika target memiliki 5+ [Laceration], Base Power +1\n[WhenUse] Peroleh 1 [SipOfAlcohol]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Way of the Open-throat Chugging",
+          "desc": "[WhenUse] Base Power +1 untuk setiap 5 [Laceration] pada target (maks 2)\n[WhenUse] Peroleh 1 [SipOfAlcohol]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Waterfall",
+          "desc": "[WhenUse] Jika target memiliki 5+ [Laceration], Coin Power +1\n\n[DefeatDuel] Kehilangan 3 [SipOfAlcohol]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration]"
+                },
+                {
+                  "desc": "[WinDuelAttack] Beri +3 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Drunklaim",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 5 [Laceration] pada target (maks 2)\n[WhenUse] Pada 3+ [SipOfAlcohol], ubah semua Coin pada Skill ini menjadi [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Beri +1% damage untuk setiap ([Laceration] + [Laceration] Count) pada target (maks 20%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika unit ini memiliki 3+ [SipOfAlcohol], reuse Skill ini sekali (sekali per Skill)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Drunken Returning Strike",
+          "desc": "[WhenUse] Jika target memiliki 5+ [Laceration], Base Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Paralysis] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [AttackDown] dan [DefenseDown] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Penggalan Maut Sesungguhnya",
+          "desc": "[StartBattle] HP tidak turun di bawah 1 sebelum Skill ini berakhir.\n[WhenUse] Peroleh 10 [AttackUp]\n[WhenUse] Peroleh 5 [Enhancement]\n[WhenUse] Peroleh 10 [AttackDmgUp]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Beri +1% damage untuk setiap ([Laceration] + [Laceration] Count) pada target (maks 100%)"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 5 [SipOfAlcohol]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9102107,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Intoxicated Leaning",
+          "desc": "[WhenUse] Peroleh 5 Perisai untuk setiap [SipOfAlcohol] pada diri sendiri (maks 25)\n[WhenUse] Peroleh [SipOfAlcohol] setara dengan jumlah dari Skill targeting unit ini (maks 5)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

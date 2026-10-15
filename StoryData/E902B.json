@@ -1,0 +1,493 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Bangsal Pemulihan LCE",
+      "content": "Tempat yang ditunjukkan oleh Hohenheim kepada kami tidak terlihat seperti bangsal pemulihan dan lebih mirip seperti ruang interogasi..."
+    },
+    {
+      "id": 1,
+      "content": "Meskipun setiap peralatan medis yang dipasang di sekeliling tampak sangat mutakhir."
+    },
+    {
+      "id": 2,
+      "model": "단테",
+      "content": "<Tempat ini tampaknya dilengkapi dengan baik.>"
+    },
+    {
+      "id": 3,
+      "model": "파우스트",
+      "content": "Kemungkinan besar ini adalah perintah langsung dari manajemen atas."
+    },
+    {
+      "id": 4,
+      "model": "파우스트",
+      "content": "Meskipun teknologi untuk memulihkan bagian tubuh yang hilang cukup umum di <ruby=Kota>City</ruby>, fasilitas sejenis ini diperlukan untuk mempertahankan bentuk asli tubuh bagian bawahnya dalam proses rekonstruksi dengan tetap menjaga biaya yang masuk akal."
+    },
+    {
+      "id": 5,
+      "model": "단테",
+      "content": "<\"Masuk akal,\" ya. Apa aku ingin bertanya seberapa mahal pilihan lainnya jika ini dianggap \"masuk akal\"?>"
+    },
+    {
+      "id": 6,
+      "content": "Sebuah ruangan tanpa jendela dipenuhi dengan aroma tajam obat-obatan dan bahan kimia."
+    },
+    {
+      "id": 7,
+      "content": "Kira sedang duduk di atas ranjang di tengah ruangan, mengayun-ayunkan kakinya sembari memperhatikan kami."
+    },
+    {
+      "id": 8,
+      "content": "Untuk seseorang yang baru pulih dari tubuh yang terbelah dua, dia tidak terlihat jauh berbeda dari penampilannya saat aku melihatnya melalui penglihatan para <ruby=Pendosa>Sinners</ruby>."
+    },
+    {
+      "id": 9,
+      "model": "뉴키라",
+      "content": "......."
+    },
+    {
+      "id": 10,
+      "model": "파우스트",
+      "content": "Dia ditangkap hidup-hidup untuk ekstraksi informasi, bukan? Sudah sejauh mana kemajuan dari ekstraksi tersebut?"
+    },
+    {
+      "id": 11,
+      "model": "호엔하임",
+      "content": "Ah. Sebenarnya itu belum dimulai. Kami sedang menunggu sampai alur informasi yang menjamin interogasi dapat diisolasi."
+    },
+    {
+      "id": 12,
+      "model": "호엔하임",
+      "content": "Sejauh ini, semua personel yang tersedia telah sepenuhnya terlibat dalam menganalisis dokumen dan barang yang ditemukan di <ruby=Rumah Laba-laba>House of Spiders</ruby>."
+    },
+    {
+      "id": 13,
+      "model": "뉴키라",
+      "content": "Terus ngapain kamu ke sini?"
+    },
+    {
+      "id": 14,
+      "model": "호엔하임",
+      "content": "Ada pekerjaan yang harus diselesaikan yang bergantung pada informasi yang hanya bisa didapatkan dari penghuni <ruby=Rumah Laba-laba>House of Spiders</ruby> baru-baru ini,"
+    },
+    {
+      "id": 15,
+      "model": "호엔하임",
+      "content": "dan setelah berdiskusi dengan manajemen atas, aku telah memutuskan untuk memanfaatkanmu sebagaimana tujuan awal perusahaan."
+    },
+    {
+      "id": 16,
+      "model": "뉴키라",
+      "content": "Nggak ada TV, nggak ada buku komik... Cuma tatapan super dingin setiap kali aku minta sesuatu buat ngisi waktu."
+    },
+    {
+      "id": 17,
+      "model": "뉴키라",
+      "content": "Dan <i>sekarang</i> kamu tiba-tiba butuh bantuanku, hah? Kasih aku satu alasan kenapa aku harus bekerja sama."
+    },
+    {
+      "id": 18,
+      "content": "Hohenheim bahkan tidak menaikkan alisnya sedikit pun mendengar nada bicara Kira yang tajam. Dia hanya mengangguk padanya dengan ekspresi dingin yang tidak tergoyahkan."
+    },
+    {
+      "id": 19,
+      "model": "호엔하임",
+      "content": "Aku tidak meminta bantuanmu. \"Memanfaatkanmu,\" kurasa, adalah apa yang kukatakan."
+    },
+    {
+      "id": 20,
+      "model": "뉴키라",
+      "content": "Apa...?"
+    },
+    {
+      "id": 21,
+      "model": "호엔하임",
+      "content": "Kelangsungan hidupmu bukanlah sebuah kebetulan—ini adalah hasil dari sebuah perhitungan. Perusahaan mengantisipasi potensi keuntungan dengan membiarkanmu tetap hidup. \"Keuntungan yang diharapkan,\" begitulah istilahnya."
+    },
+    {
+      "id": 22,
+      "model": "호엔하임",
+      "content": "Tanpa perkiraan seperti itu dari pihak perusahaan, kamu pasti sudah dibuang sejak lama. Manajemen atas terdiri dari orang-orang yang enggan menoleransi biaya pemeliharaan harian dan penyusutan ruangan ini, bahkan jika jumlah mereka hanya setengah dari saat ini."
+    },
+    {
+      "id": 23,
+      "model": "호엔하임",
+      "content": "Yang membawa kita ke poin berikutnya: Jika kamu bersikeras mempertahankan sikap tidak kooperatif ini, perusahaan mungkin memutuskan untuk mengadakan rapat guna menilai kembali nilaimu, atau bisa dibilang, ketiadaan nilaimu, dalam proyeksi laporan laba rugi."
+    },
+    {
+      "id": 24,
+      "model": "호엔하임",
+      "content": "Yah... singkatnya, penilaian ulang seperti itu akan sangat tidak menguntungkan bagimu. Hasilnya adalah rekomendasi untuk segera dibuang."
+    },
+    {
+      "id": 25,
+      "content": "Hohenheim selalu memiliki cara berbicara yang bisa menusuk dan menyengat,"
+    },
+    {
+      "id": 26,
+      "content": "tapi kepada Kira, rasanya hampir seperti dia telah menukar duri biasa dengan pisau yang lebih tajam, berniat memutarnya tepat di bagian yang paling menyakitkan."
+    },
+    {
+      "id": 27,
+      "model": "뉴키라",
+      "content": "... Lagian aku juga bakal mati begitu kegunaanku habis."
+    },
+    {
+      "id": 28,
+      "model": "뉴키라",
+      "content": "Nggak mungkin kamu bakal biarin aku hidup setelah membunuh banyak sekali orang-orangmu."
+    },
+    {
+      "id": 29,
+      "model": "호엔하임",
+      "content": "......."
+    },
+    {
+      "id": 30,
+      "model": "호엔하임",
+      "content": "Ah, jadi kamu mengantisipasi semacam tindakan balas dendam tingkat korporasi terhadap dirimu. Itu memang jalan pikiran yang aneh."
+    },
+    {
+      "id": 31,
+      "model": "호엔하임",
+      "content": "Kalau begitu aku harus memberi tahumu bahwa, tidak seperti <ruby=Sindikat>Syndicate</ruby> <ruby=Belakangan>Backstreets</ruby> biasamu seperti Middle, entitas korporat di <ruby=Kota>City</ruby> cenderung menghindari pilihan yang dapat mendatangkan kerugian."
+    },
+    {
+      "id": 32,
+      "model": "파우스트",
+      "content": "Nilai informasi yang dapat diekstraksi dari seorang Middle, dan kecakapan tempur yang diasah di bawah bimbingan seorang Middle—kedua pertimbangan ini kemungkinan besar adalah apa yang meningkatkan nilai anda di mata perusahaan."
+    },
+    {
+      "id": 33,
+      "model": "뉴키라",
+      "content": "Hah! Kalian semua nggak punya harga diri sama sekali, ya?"
+    },
+    {
+      "id": 34,
+      "model": "호엔하임",
+      "content": "... Kamu harus menganggap dirimu beruntung."
+    },
+    {
+      "id": 35,
+      "model": "뉴키라",
+      "content": "... Hah? Apaan sih maksudmu?"
+    },
+    {
+      "id": 36,
+      "model": "호엔하임",
+      "content": "Perusahaan lain tidak akan meminta kerja samamu melalui pertukaran kata-kata. Interogator hanya perlu membuka tengkorakmu, mengambil otakmu, dan mengekstrak setiap dan semua informasi yang diperlukan tanpa melalui langkah-langkah perantara seperti ini."
+    },
+    {
+      "id": 37,
+      "model": "호엔하임",
+      "content": "Bahkan tanpa menggunakan metode seperti itu, berbagai sarana yang tersedia untuk <i>memaksa</i> pengungkapan informasi praktis tidak terbatas—serum kebenaran, sugesti hipnotis, sengatan dan stimulasi listrik, dan tentu saja, prosedur yang memanfaatkan <ruby=Distorsi>Distortions</ruby> dan <ruby=Abnormalitas>Abnormalities</ruby>."
+    },
+    {
+      "id": 38,
+      "model": "호엔하임",
+      "content": "Meski begitu... Departemen LCE lebih memilih untuk menjaga jarak dari pendekatan tidak beradab yang dapat menimbulkan komplikasi dan efek samping seperti itu."
+    },
+    {
+      "id": 39,
+      "model": "뉴키라",
+      "content": "......."
+    },
+    {
+      "id": 40,
+      "model": "호엔하임",
+      "content": "Aku sangat berharap kita memiliki kebiasaan yang sama."
+    },
+    {
+      "id": 41,
+      "model": "뉴키라",
+      "content": "Kau bener-bener menyebalkan, tau?"
+    },
+    {
+      "id": 42,
+      "model": "호엔하임",
+      "content": "... Perasaan itu sepenuhnya saling timbal balik."
+    },
+    {
+      "id": 43,
+      "content": "Membiarkan dingin ancamannya meresap, Hohenheim berbalik ke arah pintu keluar."
+    },
+    {
+      "id": 44,
+      "model": "호엔하임",
+      "content": "... Beri dia semangat dan bawa dia pergi."
+    },
+    {
+      "id": 45,
+      "model": "호엔하임",
+      "content": "Aku sepertinya tidak menjadi diriku yang biasanya hari ini... Tidak, abaikan itu. Itu juga hal yang agak bodoh untuk dikatakan."
+    },
+    {
+      "id": 46,
+      "model": "호엔하임",
+      "content": "Aku akan menyerahkan masalah ini kepadamu, Manajer. Pekerjaan semacam ini kemungkinan besar lebih masuk dalam kemampuanmu daripada kemampuanku sendiri."
+    },
+    {
+      "id": 47,
+      "content": "Dan setelah itu, Hohenheim melangkah keluar dari ruangan, meninggalkanku untuk menghadapi Kira."
+    },
+    {
+      "id": 48,
+      "content": "Reaksinya bisa dimaklumi. LCE baru saja selesai memakamkan penelitinya yang tewas. Kira mungkin adalah orang terakhir yang ingin dihadapi siapa pun saat ini, apalagi diajak bicara."
+    },
+    {
+      "id": 49,
+      "model": "단테",
+      "content": "<Apa yang harus kukatakan untuk membujuknya?>"
+    },
+    {
+      "id": 50,
+      "model": "료슈",
+      "content": "*huff*"
+    },
+    {
+      "id": 51,
+      "content": "Aku masih tenggelam dalam pikiran ketika seseorang, di luar dugaan, melangkah mendekati Kira."
+    },
+    {
+      "id": 52,
+      "model": "뉴키라",
+      "content": "Yoshihide...?"
+    },
+    {
+      "id": 53,
+      "model": "료슈",
+      "content": "Kau. Kudengar kamu ditusuk dari belakang sama Matthias."
+    },
+    {
+      "id": 54,
+      "model": "뉴키라",
+      "content": "......."
+    },
+    {
+      "id": 55,
+      "model": "뉴키라",
+      "content": "Itu... tidak benar."
+    },
+    {
+      "id": 56,
+      "model": "뉴키라",
+      "content": "... Papa tidak akan mendaratkan serangan mematikan kecuali dia menebas menembusku juga. Makanya dia melakukan hal itu... untuk mengincar kepala musuh."
+    },
+    {
+      "id": 57,
+      "model": "뉴키라",
+      "content": "Lagipula... dia membuat pilihan yang tepat. Pengorbanan kecil bukanlah apa-apa dalam sebuah keluarga."
+    },
+    {
+      "id": 58,
+      "model": "료슈",
+      "content": "Cih. \"Keluarga,\" keluar dari mulutnya—anjing kampung Middle yang dibuang dari kandangnya."
+    },
+    {
+      "id": 59,
+      "model": "료슈",
+      "content": "Bukankah terdengar konyol bahkan bagimu?"
+    },
+    {
+      "id": 60,
+      "model": "뉴키라",
+      "content": "Itu..."
+    },
+    {
+      "id": 61,
+      "model": "단테",
+      "content": "<Dibuang?>"
+    },
+    {
+      "id": 62,
+      "model": "료슈2",
+      "content": "Matthias sialan itu... dulunya seorang K.T. hanya secara teknis."
+    },
+    {
+      "id": 63,
+      "model": "료슈",
+      "content": "Dia mengacau parah. Dia masih keluarga secara nama, tapi di balik itu, semua orang berharap dia menghilang diam-diam dengan sendirinya. Dia adalah anggota keluarga yang tidak diinginkan siapapun."
+    },
+    {
+      "id": 64,
+      "model": "료슈",
+      "content": "Perlakuan sama untukku, menjadi anaknya. Tidak mengejutkan jika itu adalah P.S untuk si potongan mangkok juga."
+    },
+    {
+      "id": 65,
+      "model": "돈키호테",
+      "content": "Perlakuan... Setara...? Hoh! Nak Ryōshū, mungkinkah dikau juga menyimpan gairah membara bagi Fix—mmph!"
+    },
+    {
+      "id": 66,
+      "content": "Aku dengan cepat membekap mulut Don Quixote saat dia menyela percakapan."
+    },
+    {
+      "id": 67,
+      "model": "뉴키라",
+      "content": "... Jadi sebenarnya apa poinmu?"
+    },
+    {
+      "id": 68,
+      "model": "료슈",
+      "content": "Poinnya adalah kamu membuang waktu. Jika tidak bisa memutuskan mau hidup atau mati, aku bisa mempersingkat keraguanmu."
+    },
+    {
+      "id": 69,
+      "model": "료슈",
+      "content": "K.D.A., atau K.I.L.A.T. detik ini juga."
+    },
+    {
+      "id": 70,
+      "model": "뉴키라",
+      "content": "Uh... Apa artinya itu?"
+    },
+    {
+      "id": 71,
+      "model": "료슈2",
+      "content": "Kooperasi dengan aman, atau kupotong itu leher ampe terputus detik ini juga."
+    },
+    {
+      "id": 72,
+      "model": "료슈2",
+      "content": "K.I.L.A.T. bukan jalan yang buruk jika kamu sangat ingin membawa sandiwara kesetiaan itu langsung ke liang kubur."
+    },
+    {
+      "id": 73,
+      "model": "뉴키라",
+      "content": "... Hah. Ini payah banget."
+    },
+    {
+      "id": 74,
+      "model": "뉴키라",
+      "content": "Terserahlah. Aku mengerti, oke? Aku akan bicara kalau itu yang sangat kalian inginkan."
+    },
+    {
+      "id": 75,
+      "model": "단테",
+      "content": "<... Itu benar-benar berhasil?>"
+    },
+    {
+      "id": 76,
+      "model": "뉴키라",
+      "content": "... Fixer yang mati dalam kobaran kejayaan sebenarnya bukanlah yang kuat."
+    },
+    {
+      "id": 77,
+      "model": "뉴키라",
+      "content": "Orang yang bertahan hidup... orang yang hidup untuk melihat hari esok dan terus bertambah kuat, itulah yang kuat."
+    },
+    {
+      "id": 78,
+      "model": "뉴키라",
+      "content": "Omong-omong, Yoshihide... ada apa denganmu yang bicara pakai singkatan aneh begitu?"
+    },
+    {
+      "id": 79,
+      "model": "료슈",
+      "content": "......."
+    },
+    {
+      "id": 80,
+      "model": "뉴키라",
+      "content": "Maksudku, \"K.I.L.A.T.\"? Itu aneh banget. Siapa juga yang ngomong kayak gitu...?"
+    },
+    {
+      "id": 81,
+      "content": "Ryōshū tidak repot-repot menjawab dan hanya menggigit ujung rokoknya."
+    },
+    {
+      "id": 82,
+      "model": "단테",
+      "content": "<Tapi apakah ini benar-benar keputusan yang tepat? Baginya, kita mungkin adalah orang-orang yang harus dia balas dendami.>"
+    },
+    {
+      "id": 83,
+      "model": "료슈",
+      "content": "Mustahil."
+    },
+    {
+      "id": 84,
+      "model": "료슈",
+      "content": "Setengah tato miliknya hilang, Jam. Mereka bahkan menyita Buku miliknya. Kamu pikir alasan menyedihkan Middle untuk \"kesetiaan\" sangat berarti bagi anjing terlantar ini sampai-sampai dia akan menggigit kita?"
+    },
+    {
+      "id": 85,
+      "model": "료슈2",
+      "content": "Lagipula... *huff* tidak, lebih baik dengar langsung darinya saja."
+    },
+    {
+      "id": 86,
+      "model": "료슈2",
+      "content": "Hei. Beri tahu aku kenapa Matthias mati."
+    },
+    {
+      "id": 87,
+      "model": "뉴키라",
+      "content": "Itu karena..."
+    },
+    {
+      "id": 88,
+      "model": "뉴키라",
+      "content": "Yah, karena papa lebih lemah dari kalian semua."
+    },
+    {
+      "id": 89,
+      "model": "단테",
+      "content": "<.......>"
+    },
+    {
+      "id": 90,
+      "model": "료슈2",
+      "content": "Hah."
+    },
+    {
+      "id": 91,
+      "model": "료슈",
+      "content": "Ya, kamu memang anak si brengsek itu."
+    },
+    {
+      "id": 92,
+      "content": "Kira mendorong dirinya bangun dari ranjang dengan wajah masam, tapi setidaknya dia tidak membantah..."
+    },
+    {
+      "id": 93,
+      "content": "... dan kami memanggil Hohenheim, yang sudah menunggu di luar, untuk kembali masuk."
+    },
+    {
+      "id": 94,
+      "model": "호엔하임",
+      "content": "Aku berasumsi tahanan telah berhasil dibujuk."
+    },
+    {
+      "id": 95,
+      "model": "호엔하임",
+      "content": "Ayo. Kamu akan menemukan senjatamu di atas meja—kamu boleh menggunakannya jika terjadi keadaan darurat."
+    },
+    {
+      "id": 96,
+      "model": "뉴키라",
+      "content": "... Apa-apaan? Aku bahkan ga bisa cabut dari sarungnya!"
+    },
+    {
+      "id": 97,
+      "model": "호엔하임",
+      "content": "Ah. Kamu tidak akan bisa menggunakannya tanpa otorisasi. Kodenya telah sedikit disesuaikan."
+    },
+    {
+      "id": 98,
+      "model": "뉴키라",
+      "content": "......."
+    },
+    {
+      "id": 99,
+      "model": "호엔하임",
+      "content": "Kalau begitu, mari kita segera menuju ke <ruby=Rumah Laba-laba>House of Spiders</ruby> sekarang juga. <ruby=Pintu Belakang>Backdoors</ruby> sudah aktif dan menunggu kita."
+    },
+    {
+      "id": 100,
+      "content": "Kami berjalan menuju ke <ruby=Rumah Laba-laba>House of Spiders</ruby>, dengan Kira mengekor di belakang kami, tampak seperti dia mencium sesuatu yang sangat mencurigakan pada kami."
+    }
+  ]
+}

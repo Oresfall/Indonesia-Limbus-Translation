@@ -1,0 +1,34 @@
+{
+  "dataList": [
+    {
+      "id": 814702,
+      "name": "Doubt",
+      "desc": "Ketika unit ini defeats musuh dengan Skill Attack, beri 10 SP damage ke semua musuh."
+    },
+    {
+      "id": 814801,
+      "name": "Life",
+      "desc": "Ketika Staggering atau Defeating musuh dengan Skill Attack, unit ini memulihkan 50 HP (Both \"Inti\" dan Bagian)"
+    },
+    {
+      "id": 814901,
+      "name": "Pain",
+      "desc": "Jika kawan dikalahkan in Combat, peroleh 1 Bind, 1 Attack Power Up, dan 3 Damage Up giliran berikutnya."
+    },
+    {
+      "id": 814902,
+      "name": "Weakness",
+      "desc": "Jika unit ini mati, beri 5 Damage Up giliran berikutnya untuk semua musuh. Efek ini tidak dapat stack."
+    },
+    {
+      "id": 815001,
+      "name": "Irresponsible",
+      "desc": "Jika tidak ada other kawan than Dawn of Green - Doubt - δ, double the efek of 'Doubt' dan 'Life'."
+    },
+    {
+      "id": 815002,
+      "name": "Beginning",
+      "desc": "Jika unit ini is alive, no musuh are generated pada Akhir Giliran."
+    }
+  ]
+}

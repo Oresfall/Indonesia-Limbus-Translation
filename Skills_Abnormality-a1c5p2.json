@@ -1,0 +1,217 @@
+{
+    "dataList": [
+        {
+            "id": 809901,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Punching",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Blunt Damage +3"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Blunt Damage +3"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 Paralyze"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 809902,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Kicking",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Blunt Damage +5"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Blunt Damage +5"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 Paralyze giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 809903,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Payback",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Target kehilangan 5 SP"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 809904,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Domineer",
+                    "desc": "[StartBattle] Beri 1 Attack Power Up ke semua kawan\n[StartBattle] Beri 2 Attack Power Down to 2 musuh dengan the least SP",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 809905,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Make this Memorable",
+                    "desc": "[StartBattle] Peroleh 2 Test of the Big Brother. Peroleh 5 Bind giliran berikutnya.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 809906,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Watch Your Back!",
+                    "desc": "Jika target memiliki kurang dari 0 SP, Coin Power +3",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Pulihkan 10 SP pada diri sendiri"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Bind dan 2 Attack Power Down giliran berikutnya"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Target kehilangan 20 SP"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 809907,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Assemble",
+                    "desc": "[StartBattle] Summon 2 kawan giliran berikutnya",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 809908,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Swear Pembalasan",
+                    "desc": "[StartBattle] Peroleh 2 Test of the Big Brother. Peroleh 5 Bind dan 5 Damage Up giliran berikutnya.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 809909,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "MY HAIR COUPOOOOOOOOOOONS!!!",
+                    "desc": "Jika target utama memiliki kurang dari 0 SP, Final Power +5",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Naikkan Batas Stagger sebanyak 30"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 Paralyze giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

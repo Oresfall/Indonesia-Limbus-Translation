@@ -1,0 +1,84 @@
+{
+  "dataList": [
+    {
+      "id": "Vengeance_LowMorale",
+      "name": "Revenge",
+      "desc": "- Moral Rendah\n- Peroleh 3 Defense Level Down dan 3 Damage Up",
+      "summary": "Peroleh 3 Defense Level Down dan 3 Damage Up",
+      "undefined": "-"
+    },
+    {
+      "id": "Vengeance_Panic",
+      "name": "Revenge",
+      "desc": "- Panik\n- Peroleh 6 Defense Level Down dan 5 Damage Up",
+      "summary": "Peroleh 6 Defense Level Down dan 5 Damage Up",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBe",
+      "name": "Marked Prey",
+      "desc": "- JIka unit ini tidak terima damage pada giliran ini, beri 1 Inferiority Complex saat Akhir Attack lalu hapus efek ini\n- Stack Maks: 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBf",
+      "name": "Inferiority Complex",
+      "desc": "- Setiap kali Unit ini terkena serangan, terima ((20% damage HP diterima) * {0}) damage\n- Maks Value: 5",
+      "summary": "Terima ((20% damage HP diterima) * {0}) damage",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBa",
+      "name": "Explosive Gloom",
+      "desc": "- Resistansi Gloom Affinity +0.3\n- Resistance Affinity Lainnya -0.5\n- Ketika diserang: beri 3 SP damage kepada penyerang, peroleh 1 Sinking Count, dan peroleh 1 Level Offense Up giliran berikutnya (9 kali per giliran)",
+      "summary": "Resistansi terhadap Gloom(dan hanya Gloom) menjadi Fatal.\nKetika diserang: Beri 3 SP damage kepada penyerang, peroleh 1 Sinking Count, dan peroleh 1 Level Offense Up giliran berikutnya.",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBb",
+      "name": "Explosive Envy",
+      "desc": "- Resistansi Envy Affinity +0.3\n- Resistance Affinity Lainnya -0.5\n- Ketika diserang: beri 1 Level Offense Up, beri 2 Bleed, dan 2 Bleed Count pada penyerang, dan peroleh 1 Defense Level Down giliran berikutnya (9 kali per giliran)",
+      "summary": "Resistansi terhadap Envy(dan hanya Envy) menjadi Fatal\nKetika diserang: beri 1 Level Offense Up, 2 Bleed, dan 2 Bleed Count pada target, dan peroleh 1 Defense Level Down giliran berikutnya",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBc",
+      "name": "Explosive Wrath",
+      "desc": "- Wrath Affinity Resistance +0.3\n- Other Affinity Resistance -0.5\n- Ketika diserang: Peroleh 1 Level Offense Up dan 1 Defense Level Down giliran berikutnya (9 kali per giliran)",
+      "summary": "Resistansi terhadap Wrath(dan hanya Wrath) menjadi Fatal.\nKetika diserang, peroleh 1 Level Offense Up dan 1 Defense Level Down.",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBd",
+      "name": "Deep Bereavement",
+      "desc": "Awal Giliran: Kehilangan 5 Speed dan peroleh 5 Defense Level Down",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBg",
+      "name": "Misshapen Painting",
+      "desc": "- Moral Rendah\n- Peroleh 1 Attack Power Up & 1 Fragile",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBh",
+      "name": "Misshapen Painting",
+      "desc": "- Panik\n- Peroleh 1 Plus Coin Boost & 3 Fragile",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBi",
+      "name": "Hatred",
+      "desc": "- Moral Rendah\n- Menang Clash: Peroleh 1 Level Offense Up giliran berikutnya. (maks 3 per giliran)\nKalah Clash: Peroleh 1 Defense Level Up. (maks 3 per giliran)",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBj",
+      "iconID": "Vengeanse_LowMoral",
+      "name": "Hatred",
+      "desc": "- Panik\n- Menang Clash: Peroleh 1 Level Offense Up giliran ini dan giliran berikutnya. (maks 3 per giliran)\nKalah Clash: Peroleh 1 Defense Level Up. (maks 3 per giliran)\nAkhir Giliran: Peroleh 2 Haste giliran berikutnya",
+      "undefined": "-"
+    }
+  ]
+}

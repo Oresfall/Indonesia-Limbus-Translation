@@ -1,0 +1,604 @@
+{
+  "dataList": [
+    {
+      "id": 860501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Leave This Place",
+          "desc": "[WhenUse] Jika target memiliki 4+ [Sinking], Clash Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 860502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Don't Make That Face",
+          "desc": "[WhenUse] Jika target memiliki 3+ Count [Sinking], Clash Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 860503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Who Might You Be?",
+          "desc": "Prioritaskan [UninvitedGuest]\nJika target memiliki [UninvitedGuest], beri +1 lebih [Sinking] Potency dan Count dengan Skill ini",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [UninvitedGuest], Beri 2 [Paralysis] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 860504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Interloper, Are You?",
+          "desc": "Prioritaskan [UninvitedGuest]\nJika target memiliki [UninvitedGuest], beri +1 lebih [Sinking] Potency dan Count dengan Skill ini",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri +2 Count [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Jika target memiliki [UninvitedGuest], Beri 2 [Paralysis] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttackHead] Beri +2 Count [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 860505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Leave, Interloper",
+          "desc": "Prioritaskan [UninvitedGuest]\nPeroleh Atk Weight setara dengan number of musuh dengan [UninvitedGuest]\n[WhenUse] Peroleh Clash Power setara dengan jumlah dari musuh dengan [UninvitedGuest]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Cause [SinkingSurge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 860506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "My Master",
+          "desc": "[DefeatDuel] Reveals the Portrait attached ke Skill ini Slot",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 860507,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "My Tragic Master",
+          "desc": "[DefeatDuel] Reveals the Portrait attached ke Skill ini Slot",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 860601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Master...?",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 860701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Menghindar",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 860801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Horned Charge",
+          "desc": "[WhenUse] Peroleh +1 Count [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [DefenseDown] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 860802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ram Charge",
+          "desc": "[WhenUse] Peroleh +1 Count [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [AttackDown] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [AttackDown] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 860803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lamb's Cry",
+          "desc": "[WhenUse] Peroleh +2 Count [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Paralysis] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 860804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Lightning Manipulation",
+          "desc": "[WhenUse] Peroleh +2 Count [Charge]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Paralysis] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [AttackDown] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 860805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Electric Screaming",
+          "desc": "[WhenUse] Atk Weight +1 untuk setiap 4 Count [Charge] pada diri sendiri (maks 5)\n[WhenUse] Clash Power +3 untuk setiap 5 Count [Charge] pada diri sendiri (maks 4)\n[WhenUse] Peroleh 1 [VioletDamageUp] untuk setiap 6 Count [Charge] pada diri sendiri (maks 3)\n[EndBattle] Semua Count [Charge] pada diri sendiri kadaluarsa. Loses [ConnectedPlug]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [DefenseDown] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [AttackDown] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Paralysis] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 860806,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Electric Screaming",
+          "desc": "[CantDuel]\n[WhenUse] Peroleh 10 [Protection]\n[WhenUse] Atk Weight +1 untuk setiap 4 Count [Charge] pada diri sendiri (maks 5)\n[WhenUse] Clash Power +3 untuk setiap 5 Count [Charge] pada diri sendiri (maks 4)\n[WhenUse] Peroleh 1 [VioletDamageUp] untuk setiap 6 Count [Charge] pada diri sendiri (maks 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 860807,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Grounding Refusal",
+          "desc": "Prioritaskan target dengan [AntiSheepGround]\nClash Power +1 untuk setiap [ConnectedPlug]\n[StartBattle] Peroleh 2(3 - [ConnectedPlug]) [Protection]\n[WhenUse] Peroleh +1 Count [Charge]\n[DefeatDuel] Jika target memiliki [AntiSheepGround], peroleh 1 [ConnectedPlug]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Paralysis] giliran berikutnya"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [DefenseDown] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 862801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Overcharge Release",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Paralysis] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 862901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Enveloping Resignation",
+          "desc": "Jika target memiliki 6+ [Sinking], Coin Power +1\n[WinDuel] Beri +3 Count [Sinking]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 862902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Strangling Despair",
+          "desc": "Coin Power +1 untuk setiap 6 [Sinking] pada target (maks 2)\n[WinDuel] Beri +3 Count [Sinking]\n[DefeatDuel] Kurangi Count [Sinking] sebanyak 1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 862903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chainbreaker",
+          "desc": "Jika target memiliki [Binding], Clash Power +1\n[WinDuel] Beri +4 Count [Sinking]\n[DefeatDuel] Kurangi [Sinking] Potency sebanyak 2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 862904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Chains of Binding",
+          "desc": "Coin Power + untuk setiap 6 [Sinking] pada target (maks 2)\n[DefeatDuel] Kurangi Count [Sinking] sebanyak 2\n[DefeatDuel] Beri [BandageOfTheBoundKing]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Binding] giliran berikutnya\n[OnSucceedAttack] Beri [Vibration] setara dengan [Sinking] pada target"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 862905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thou Wilt Sink",
+          "desc": "Jika target memiliki [Binding], Clash Power +1\n[WinDuel] Beri +2 Count [Sinking]\n[DefeatDuel] Kurangi [Sinking] Potency sebanyak 4",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Cause [SinkingSurge]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 862906,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Masa Kini Thyself Before the King",
+          "desc": "[CantDuel]\n[StartBattle] Peroleh 5 [Binding], 1 [ComeForwardToTheKing], dan 2 [Enhancement] giliran berikutnya.\n[WhenUse] Beri 300 Perisai to target dengan [BandageOfTheBoundKing]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Jika unit ini memberi damage ke target, beri [Vibration] setara dengan [Sinking] pada target"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 860602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Master's Portrait",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

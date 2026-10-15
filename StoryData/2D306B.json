@@ -1,0 +1,736 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Kastil Es Dimana Tetangga Berada",
+      "content": "Di depan kami berdiri sebuah kastel es yang monumental, dan pilar-pilar beku yang tampak tak terhancurkan."
+    },
+    {
+      "id": 1,
+      "content": "Dan di sana berdiri seseorang..."
+    },
+    {
+      "id": 2,
+      "content": "Seorang pria dengan rambut sebening kaca, sejernih es, sedang menunggu kami."
+    },
+    {
+      "id": 3,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Aku sering datang ke sini setiap kali aku merasa perlu menjernihkan pikiranku, meskipun tidak ada kursi goyang atau wiski yang kamu suka..."
+    },
+    {
+      "id": 4,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Rasa dingin yang mendominasi tempat ini menembus bahkan mantel yang paling tebal sekalipun. Ini membantuku memulihkan pikiran yang jernih."
+    },
+    {
+      "id": 5,
+      "content": "Sementara kami semua membeku kaku, terpaku menonton, Rodya melangkah maju perlahan untuk menghadapinya."
+    },
+    {
+      "id": 6,
+      "model": "로쟈",
+      "content": "Tidak kusangka kamu akan berada di sini duluan."
+    },
+    {
+      "id": 7,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Aku dan orang-orangku tahu jalan pintas menuju ke sini."
+    },
+    {
+      "id": 8,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Itu adalah sesuatu yang kami pelajari melalui preman setempat, semuanya mencari keberadaan kekuatan besar yang terkubur, menunggu untuk digunakan demi kebaikan yang lebih besar."
+    },
+    {
+      "id": 9,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Sayangnya, area... yang mengelilingi <ruby=Ranting Emas>Golden Bough</ruby> ini adalah sejauh yang bisa kami tempuh; kami tidak melihat jalan untuk mendekat."
+    },
+    {
+      "id": 10,
+      "model": "로쟈",
+      "content": "Tadinya kupikir kamu nggak bakal ninggalin <ruby=Distrik>District</ruby> 25, tapi ngeliat kamu sekarang—sampe pake taktik yang biasa dipake gengster—mungkin harusnya kamu tetep jadi bocah desa."
+    },
+    {
+      "id": 11,
+      "model": "로쟈",
+      "content": "Sonya, anak buahmu itu udah mengambil barang dari pemilik toko yang sebenernya dari awal aja nggak kaya lho."
+    },
+    {
+      "id": 12,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "...Apakah kamu tahu, Rodya? Ini awalnya hanyalah sebuah lubang yang agak eksentrik dengan dinding yang membeku."
+    },
+    {
+      "id": 13,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Namun lihatlah ini. Sekarang ada kastel raksasa dan pilar-pilar es yang tebal."
+    },
+    {
+      "id": 14,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Perubahan ini terjadi tepat saat kamu melangkah masuk."
+    },
+    {
+      "id": 15,
+      "model": "로쟈",
+      "content": "...Kok kedengerannya kamu udah tau kalau hal ini akan terjadi pada saat kedatanganku. Gimana caranya kamu tau?"
+    },
+    {
+      "id": 16,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Aku punya banyak sumber... Tapi itu bukan urusanmu, Rodya."
+    },
+    {
+      "id": 17,
+      "model": "로쟈",
+      "content": "Apa yang bikin kamu yakin banget kalo akulah yang bikin ini semua terjadi? Aku kan bukan semacam penyihir <ruby=Belakangan>Backstreets</ruby> atau semacamnya."
+    },
+    {
+      "id": 18,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Tidak sulit untuk mengetahuinya. Mengamati wajah-wajah yang terbungkus es itu sudah cukup menjelaskan."
+    },
+    {
+      "id": 19,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Coba intip. Mereka adalah orang-orang yang kamu cintai namun kamu rendahkan, bukan?"
+    },
+    {
+      "id": 20,
+      "teller": "Penagih Pajak Jahat",
+      "title": "Distrik 25",
+      "content": "Dua ratus lima puluh ribu Ahn."
+    },
+    {
+      "id": 21,
+      "teller": "Penduduk",
+      "title": "Distrik 25",
+      "content": "Cuma segitu harganya? Nggak mungkin..."
+    },
+    {
+      "id": 22,
+      "teller": "Penagih Pajak Jahat",
+      "title": "Distrik 25",
+      "content": "Kamu sendiri kan yang bilang kenapa? Usianya terlihat dari semua goresan dan kurangnya polesan."
+    },
+    {
+      "id": 23,
+      "teller": "Penagih Pajak Jahat",
+      "title": "Distrik 25",
+      "content": "Sejujurnya, orang lain tidak akan mau membayar lebih dari dua ratus ribu untuk ini."
+    },
+    {
+      "id": 24,
+      "teller": "Penagih Pajak Jahat",
+      "title": "Distrik 25",
+      "content": "Dan sisanya... Semuanya sampah yang tidak berharga."
+    },
+    {
+      "id": 25,
+      "teller": "Penagih Pajak Jahat",
+      "title": "Distrik 25",
+      "content": "Itu membuat total pajak yang kamu harus bayar menjadi empat ratus ribu Ahn."
+    },
+    {
+      "id": 26,
+      "model": "로쟈",
+      "content": "Kenapa ya orang miskin itu makin miskin padahal udah kerja keras?"
+    },
+    {
+      "id": 27,
+      "model": "로쟈",
+      "content": "Konyol banget, kan? Sementara tumpukan uang tunai numpuk di brankas pegadaian itu..."
+    },
+    {
+      "id": 28,
+      "model": "로쟈",
+      "content": "Lingkungan kita lagi diperas sampe kering, barang pusaka ditimbang cuma buat dapet nilai uang yang secuil."
+    },
+    {
+      "id": 29,
+      "model": "로쟈",
+      "content": "Sonya ngumpulin orang-orang, terus pidato pake kata-kata yang susah."
+    },
+    {
+      "id": 30,
+      "model": "로쟈",
+      "content": "Mereka ngebentuk kelompok dengan nama ‘Yurodiviye’."
+    },
+    {
+      "id": 31,
+      "model": "로쟈",
+      "content": "Awalnya sih lancar. Bahkan orang yang paling bebal pun terinspirasi sama kata-kata Sonya buat ngebantu orang-orang melarat di <ruby=Belakangan>Backstreets</ruby>."
+    },
+    {
+      "id": 32,
+      "model": "로쟈",
+      "content": "Tapi, Sonya tetep aja keliatan nggak puas gitu mukanya."
+    },
+    {
+      "id": 33,
+      "model": "로쟈",
+      "content": "Ujung-ujungnya, Yurodiviye berubah jadi organisasi yang lebih peduli buat debat soal cara terbaik ngubah jalanan sama <ruby=Sarang>Nest</ruby>, daripada turun langsung ngebantu mereka yang butuh."
+    },
+    {
+      "id": 34,
+      "model": "로쟈",
+      "content": "Itulah kenapa aku ninggalin mereka."
+    },
+    {
+      "id": 35,
+      "model": "로쟈",
+      "content": "Jadi revolusioner di balik meja doang nggak bakal bisa ngasih makan tetangga kita yang kelaparan!"
+    },
+    {
+      "id": 36,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Tapi sudah kukatakan padamu berulang kali, Rodya. Bahwa kita harus menunggu saat yang tepat."
+    },
+    {
+      "id": 37,
+      "model": "로쟈",
+      "content": "Sonya, aku minta maaf ya, tapi “saat” yang terus-terusan kamu omongin itu..."
+    },
+    {
+      "id": 38,
+      "model": "로쟈",
+      "content": "Nggak dateng pas anggota termuda Yurodiviye... pas si kecil Ivan harus nahan laper pake makanan dari tempat sampah."
+    },
+    {
+      "id": 39,
+      "model": "로쟈",
+      "content": "Nggak dateng juga bahkan setelah dia mati sesak napas."
+    },
+    {
+      "id": 40,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Untuk mencapai tugas yang monumental, diperlukan kebijakan yang dipikirkan matang-matang dan kekuatan besar untuk menjalankannya. Semuanya demi mewujudkan redistribusi kekayaan."
+    },
+    {
+      "id": 41,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Dan dalam proses bergerak menuju kemajuan, masalah kecil seperti itu di tingkat pribadi tidak bisa dihindari."
+    },
+    {
+      "id": 42,
+      "model": "로쟈",
+      "content": "Itu masalah kecil menurutmu? Ini semua tuh masalah pribadi, kita mulai ini kan buat bantu orang lain."
+    },
+    {
+      "id": 43,
+      "model": "로쟈",
+      "content": "Apa yang kamu sama Yurodiviye lakuin itu bukan apa yang aku harapin."
+    },
+    {
+      "id": 44,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Apakah itu sebabnya kamu memutuskan untuk mengambil tindakan sendiri?"
+    },
+    {
+      "id": 45,
+      "model": "로쟈",
+      "content": "Pastinya. Yang dibutuhin kota kita tuh..."
+    },
+    {
+      "id": 46,
+      "model": "로쟈",
+      "content": "Bukan janji kosong yang nyuruh orang buat diem aja nunggu entah sampe kapan."
+    },
+    {
+      "id": 47,
+      "model": "로쟈",
+      "content": "Tapi seseorang yang nggak bakal ragu buat ngambil kapak."
+    },
+    {
+      "id": 48,
+      "model": "로쟈",
+      "content": "Aku berani taruhan sebagian besar tetanggaku udah kelaparan selama empat malam berturut-turut hari itu."
+    },
+    {
+      "id": 49,
+      "model": "로쟈",
+      "content": "Tapi udara dingin yang menusuk tetep ngejar tanpa ampun, nyakar kulit pecah-pecah para rakyat jelata yang kelaparan."
+    },
+    {
+      "id": 50,
+      "model": "로쟈",
+      "content": "Dan kebetulan aku tau brankas siapa yang nyimpen duit lebih dari cukup buat traktir tetanggaku pesta berhari-hari dan duitnya tetep aja masih utuh."
+    },
+    {
+      "id": 51,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Jadi, apa yang kamu lakukan?"
+    },
+    {
+      "id": 52,
+      "model": "로쟈",
+      "content": "...Bentar deh. Nggak bisa apa aku keluar aja dari sini sekarang?"
+    },
+    {
+      "id": 53,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Ini adalah pengakuan dosa yang tercipta untukmu sebagai hasil dari <ruby=Ranting Emas>Golden Bough</ruby> yang beresonansi dengan jiwamu."
+    },
+    {
+      "id": 54,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Terlebih lagi, tujuan pengakuan dosa adalah untuk menuntun seorang berdosa ke jalan pertobatan."
+    },
+    {
+      "id": 55,
+      "teller": "Penagih Pajak Jahat",
+      "title": "Distrik 25",
+      "content": "... ....... ... .... ....... .. ...."
+    },
+    {
+      "id": 56,
+      "model": "로쟈",
+      "content": "Andai aja nenek tua itu ngubah pikirannya sebelum semuanya berakhir..."
+    },
+    {
+      "id": 57,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Tapi Rodya..."
+    },
+    {
+      "id": 58,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Kamu pasti sudah tahu bahwa lintah terminal bagi tetangganya tidak akan pernah bertobat."
+    },
+    {
+      "id": 59,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Kamu tahu dia bukan tipe orang yang akan menyerahkan kehidupan itu untuk berubah menjadi filantropis yang murah hati."
+    },
+    {
+      "id": 60,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Kamu tidak akan mengetuk pintunya dengan kapak di tangan jika sebaliknya."
+    },
+    {
+      "id": 61,
+      "teller": "Penagih Pajak Jahat",
+      "title": "Distrik 25",
+      "content": "Rodion yang malang, sayang, sepertinya kamu berada di bawah delusi bahwa kamu adalah semacam penyelamat..."
+    },
+    {
+      "id": 62,
+      "teller": "Penagih Pajak Jahat",
+      "title": "Distrik 25",
+      "content": "Menuntut uangku dengan begitu berani di depanku tidak akan mengubah apa pun."
+    },
+    {
+      "id": 63,
+      "teller": "Penagih Pajak Jahat",
+      "title": "Distrik 25",
+      "content": "Kalian para hama tidak ada bedanya dengan orang miskin di <ruby=Belakangan>Backstreets</ruby>."
+    },
+    {
+      "id": 64,
+      "model": "로쟈",
+      "content": "Itu benar."
+    },
+    {
+      "id": 65,
+      "model": "로쟈",
+      "content": "Akulah yang nancepin kapak ke kepalanya."
+    },
+    {
+      "id": 66,
+      "model": "로쟈",
+      "content": "Kayak ngebelek perut angsa yang bertelur emas, aku belah tengkorak nenek sihir itu."
+    },
+    {
+      "id": 67,
+      "model": "로쟈",
+      "content": "Maksudku, harus ada yang ngelakuin itu, kan? Emang aku salah?"
+    },
+    {
+      "id": 68,
+      "model": "로쟈",
+      "content": "Nggak kayak petani bodoh di dongeng yang kalah sama serakahnya sampe nggak jadi makin kaya..."
+    },
+    {
+      "id": 69,
+      "model": "로쟈",
+      "content": "Kita tuh sedang diberi cobaan, lapar dan penderitaan, dan kita bakal dengan senang hati makan otaknya."
+    },
+    {
+      "id": 70,
+      "model": "로쟈",
+      "content": "Dan “perutnya” itu emang beneran penuh telur emas, nggak kayak angsa itu."
+    },
+    {
+      "id": 71,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Ya, wanita tua yang kamu bunuh adalah seorang penagih pajak yang memegang otoritas besar di <ruby=Distrik>District</ruby> 25."
+    },
+    {
+      "id": 72,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Tapi yang memberinya begitu banyak kekuatan... adalah status saudaranya sebagai anggota Middle."
+    },
+    {
+      "id": 73,
+      "model": "로쟈",
+      "content": "Aku... nebas dia buat nyelametin tetanggaku yang sekarat. Apa itu salah banget?"
+    },
+    {
+      "id": 74,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Tidak, kamu memegang kapak itu demi dirimu sendiri."
+    },
+    {
+      "id": 75,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Kamu tidak tahan dengan kenyataan bahwa kamu bukanlah siapa-siapa yang spesial."
+    },
+    {
+      "id": 76,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Tahukah kamu? Middle... tidak pernah membiarkan siapa pun yang menyentuh keluarga mereka lolos dari hukuman."
+    },
+    {
+      "id": 77,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Mereka tidak terlalu tertarik mencari *siapa* tepatnya yang melakukannya; melainkan, mereka suka mendemonstrasikan dengan jelas *apa* yang terjadi pada orang-orang bodoh malang yang berani mengganggu mereka."
+    },
+    {
+      "id": 78,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Para penduduk <ruby=Belakangan>Backstreets</ruby> yang merasakan nikmatnya daging berkualitas untuk pertama kalinya dalam hidup mereka segera dijadikan pilar-pilar mayat yang menjulang tinggi di jalanan."
+    },
+    {
+      "id": 79,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Tidak jauh berbeda dengan pagoda mobil di luar kasino."
+    },
+    {
+      "id": 80,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Aku sangat sadar betapa banyak rasa sakit dan rasa bersalah yang kamu tanggung sejak saat itu."
+    },
+    {
+      "id": 81,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Hidup dengan kesadaran bahwa kamu benar-benar tidak berbeda dari petani bodoh itu pada akhirnya."
+    },
+    {
+      "id": 82,
+      "model": "로쟈",
+      "content": "Sejak hari itu... Nggak ada satu pun barang yang aku pegang bener-bener berasa punya aku."
+    },
+    {
+      "id": 83,
+      "model": "로쟈",
+      "content": "Ini semua gara-gara aku..."
+    },
+    {
+      "id": 84,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Semuanya baik-baik saja, Rodya."
+    },
+    {
+      "id": 85,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Sebab lihatlah, Rodya."
+    },
+    {
+      "id": 86,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Untuk mengubah dunia, aku meneliti ratusan buku dan ribuan dokumen..."
+    },
+    {
+      "id": 87,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Dan aku bertemu berbagai orang di seluruh <ruby=Kota>The City</ruby>."
+    },
+    {
+      "id": 88,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Membayangkan dunia di mana kaum tertindas dapat melarikan diri dari kekuasaan eksploitatif kelas penguasa dan menemukan kebebasan dalam arti yang sebenarnya."
+    },
+    {
+      "id": 89,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Untuk menjadikan dunia itu kenyataan."
+    },
+    {
+      "id": 90,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Namun, jawabannya tidak terletak pada mengubah apa yang sudah ada. Begitu satu halaman sejarah ditulis, tidak ada cara untuk kembali dan merevisinya."
+    },
+    {
+      "id": 91,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Lihatlah. Inilah dunia yang bisa kita capai."
+    },
+    {
+      "id": 92,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Dunia... yang dapat diciptakan menggunakan <ruby=Ranting Emas>Golden Bough</ruby> yang beresonansi denganmu."
+    },
+    {
+      "id": 93,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Semoga tidak ada seorang pun di bumi ini yang menderita karena kelaparan."
+    },
+    {
+      "id": 94,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Semoga setiap individu menikmati hak untuk mengejar kenikmatan psikologis dan intelektual."
+    },
+    {
+      "id": 95,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "...Bergabunglah denganku, dan aku akan memberimu dunia itu sebagai hadiah."
+    },
+    {
+      "id": 96,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Seolah-olah tidak ada satu pun hingga titik ini yang pernah terjadi."
+    },
+    {
+      "id": 97,
+      "model": "로쟈",
+      "content": "Ah."
+    },
+    {
+      "id": 98,
+      "model": "로쟈",
+      "content": "Perasaan yang nggak bakal dimengerti sama orang lain."
+    },
+    {
+      "id": 99,
+      "model": "로쟈",
+      "content": "Cuma ngeliat sekilas dunia itu aja rasanya udah kayak mimpi banget."
+    },
+    {
+      "id": 100,
+      "model": "로쟈",
+      "content": "Aku pengen banget ngukir momen memukau itu di ingatanku."
+    },
+    {
+      "id": 101,
+      "model": "로쟈",
+      "content": "Kalo ini emang mimpi, aku bahkan berharap aku jadi bagian dari mimpi itu biar aku nggak perlu pergi darinya."
+    },
+    {
+      "id": 102,
+      "model": "로쟈",
+      "content": "Tapi tetep aja..."
+    },
+    {
+      "id": 103,
+      "model": "로쟈",
+      "content": "Maaf ya, aku masih menolak tawaranmu itu."
+    },
+    {
+      "id": 104,
+      "model": "로쟈",
+      "content": "Gimana ya ngomongnya..."
+    },
+    {
+      "id": 105,
+      "model": "로쟈",
+      "content": "Aku belum pengen ngerasain kehangatan buat sekarang. Aku ngerasa harus di tempat dingin ini lebih lama lagi."
+    },
+    {
+      "id": 106,
+      "model": "로쟈",
+      "content": "Kayaknya aku bakal tetep kayak begini sampe aku nemu jawaban buat pertanyaan kapan waktunya yang tepat buat aku ngehangatin diri."
+    },
+    {
+      "id": 107,
+      "model": "로쟈",
+      "content": "Dan juga, Sonya..."
+    },
+    {
+      "id": 108,
+      "model": "로쟈",
+      "content": "Kamu tau kan kalo emosiku bakal meledak dan membuatku membunuh dia, iya kan?"
+    },
+    {
+      "id": 109,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "......"
+    },
+    {
+      "id": 110,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Rodya, ini mungkin akan sulit bagimu, tetapi kamu tidak memiliki tanda itu."
+    },
+    {
+      "id": 111,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Aku datang ke sini berharap melihatmu memilikinya, tapi aku malah melihatnya pada beberapa temanmu."
+    },
+    {
+      "id": 112,
+      "model": "로쟈",
+      "content": "Tanda itu? Apa maksudmu..."
+    },
+    {
+      "id": 113,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Lagipula, kamu juga tidak bisa melihat tanda itu. Dengan kata lain... kamu tidak memiliki apa yang diperlukan untuk menjadi seorang pemimpin."
+    },
+    {
+      "id": 114,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Tapi aku berbeda. Jadi, untuk membuat dunia yang lebih baik—"
+    },
+    {
+      "id": 115,
+      "model": "로쟈",
+      "content": "Yoi, aku kayaknya inget deh denger kamu ngomong kayak gitu pas lagi duduk di meja yang ketumpuk buku."
+    },
+    {
+      "id": 116,
+      "model": "로쟈",
+      "content": "...Itulah kenapa aku nggak bisa gabung sama kamu."
+    },
+    {
+      "id": 117,
+      "model": "로쟈",
+      "content": "Aku tetep percaya kalo bukan kata-kata susah di balik pintu tertutup yang bisa ngasih makan tetanggamu."
+    },
+    {
+      "id": 118,
+      "model": "로쟈",
+      "content": "Dan kayak yang pasti udah kamu pelajarin sekarang..."
+    },
+    {
+      "id": 119,
+      "model": "로쟈",
+      "content": "Nggak mungkin kan bocah berisik kayak aku bakal cocok di bawah kepemimpinan kutu buku kayak kamu? Hahah!"
+    },
+    {
+      "id": 120,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "......"
+    },
+    {
+      "id": 121,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "<ruby=Ranting Emas>Golden Bough</ruby> menunggu di dalam kastel, Rodya."
+    },
+    {
+      "id": 122,
+      "model": "소냐",
+      "teller": "Sonya",
+      "title": "Yurodivy",
+      "content": "Aku harap kamu dapat menemukan apa yang kamu cari."
+    },
+    {
+      "id": 123,
+      "content": "Kami berjalan melewati Sonya, lalu menuju ke kastel es yang dia tunjukkan."
+    }
+  ]
+}

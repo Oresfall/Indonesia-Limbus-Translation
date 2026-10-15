@@ -1,0 +1,44 @@
+{
+  "dataList": [
+    {
+      "id": 136601,
+      "name": "Wandering Ordeal",
+      "desc": "Saat memasuki pertempuran, peroleh 1~3 [RunHallway]\nAwal Giliran: Pada 0 [RunHallway], gunakan 'Herd Migration'\n(Jika unit ini kena Stagger, pulih dari Stagger ketika efek ini triggers)\n\nJika 'BunBun' is on the battlefield, this passive tidak mengaktifkan",
+      "flavor": "'Ordeals are quite distinct dari Abnormalities—they are vivid representations of intense traumas, dredged up at acak dari humanity's dreams that course through the farthest depths of this company.'"
+    },
+    {
+      "id": 136602,
+      "name": "Tailored for the Palate",
+      "desc": "On Attack Hit terhadap a target dengan a damage type target is \"Lemah\" atau \"Fatal\" (Resistance > 1) to, beri 1 [Binding] giliran berikutnya (sekali per Skill)",
+      "flavor": "\"How could such a flavorful beverage end up being called BongBong?\""
+    },
+    {
+      "id": 136603,
+      "name": "The Secret of Taste",
+      "desc": "Beri 1 [PumpkinJelly] pada target that killed unit ini"
+    },
+    {
+      "id": 136901,
+      "name": "Wandering Ordeal",
+      "desc": "Awal Pertempuran: Peroleh 3 [RunHallway]\nAwal Giliran: Pada 0 [RunHallway], gunakan 'Herd Migration'\n(Jika unit ini kena Stagger, pulih dari Stagger ketika efek ini triggers)\n\nJika tidak ada BongBongs left on the battlefield kecuali for \"BongBongs spawned sebanyak unit ini\", efek Skill of 'Herd Migration' do not aktifkan, dan unit ini peroleh 3 [RunHallway] giliran berikutnya",
+      "flavor": "\"These Ordeal things keep popping out dari that murky-white smoke... just what is that smoke supposed to be, Captain?!\""
+    },
+    {
+      "id": 136902,
+      "name": "Lasting Ordeal",
+      "desc": "Once 4 giliran pass setelah unit ini Retreats, unit ini dan semua available \"BongBongs spawned sebanyak unit ini\" Return to the battlefield. Lalu, peroleh 3 [RunHallway]\n\nJika semua available combat participant spots are filled, Mundur a acak BongBong unit dan Return to the battlefield."
+    },
+    {
+      "id": 136903,
+      "name": "Fragile Orange Bubble",
+      "desc": "Ketika diserang sebanyak Serangan Tanpa Lawan, terima +100% damage\nKetika clash terhadap <color=#ff6000><mark color=#ff000040><b><u>Skill that spend Ammo</color></mark></b></u>, Clash Power -3 dan ubah semua Coin on its Skill Attack to Regular Coin.",
+      "flavor": "\"I know those carbonated bubbles are tasty, but be careful around them, okay? They're unprocessed dan highly acidic. Sure, a few spatters of little BongBongs' pop bubbles might not be so dangerous, but getting doused in the undiluted fluid of those massive BunBuns'll melt you guys menjadi a puddle.\""
+    },
+    {
+      "id": 136904,
+      "name": "Food Production",
+      "desc": "Saat Membunuh, summon 1 BongBong\nAkhir Giliran: Pada 0 [RunHallway] Stack, summon as many BongBongs as possible giliran berikutnya",
+      "flavor": "\"Apparently, they've got this special, top-secret carbonation formula. Like an in-house recipe.\""
+    }
+  ]
+}

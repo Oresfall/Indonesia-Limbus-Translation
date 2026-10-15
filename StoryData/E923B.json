@@ -1,0 +1,728 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Jalan Butter, Distrik 14",
+      "model": "료슈",
+      "content": "Bukan tantangan. Sungguh B.W."
+    },
+    {
+      "id": 1,
+      "model": "그레고르",
+      "content": "Fiuh... Yah, setidaknya mereka bukan petarung yang hebat dalam duel satu lawan satu..."
+    },
+    {
+      "id": 2,
+      "model": "뫼르소",
+      "content": "Service des Clous bukanlah departemen yang dikhususkan untuk pertempuran. Meskipun mereka semua telah menjalani pelatihan tempur dasar untuk keadaan mendesak, mereka tidak siap untuk konflik langsung seperti ini."
+    },
+    {
+      "id": 3,
+      "model": "그레고르",
+      "content": "Ya, aku melihatnya. Mereka terus memotret kita dengan tas kerja mereka—aku tebak itu adalah deskripsi pekerjaan utama mereka...?"
+    },
+    {
+      "id": 4,
+      "model": "히스클리프",
+      "content": "*huff* *huff* Terus mereka ngapain motret-motret, sih? Bisik-bisik di belakang kita kayak sekumpulan orang aneh..."
+    },
+    {
+      "id": 5,
+      "model": "이스마엘",
+      "content": "Mengumpulkan foto untuk dimasukkan ke dalam laporan untuk atasan mereka, aku berani jamin."
+    },
+    {
+      "id": 6,
+      "model": "이스마엘",
+      "content": "Hm, aku agak bisa paham bagaimana mereka bisa mengira kita terlibat dalam hal ini entah bagaimana. Setiap kali mereka mengikuti petunjuk, mereka berakhir berpapasan dengan kita. Itu bukan alasan yang mengejutkan."
+    },
+    {
+      "id": 7,
+      "model": "뫼르소",
+      "content": "……."
+    },
+    {
+      "id": 8,
+      "content": "Meursault berdiri selangkah di samping para <ruby=Pendosa>Sinner</ruby> lainnya dan menyaksikan dalam diam saat mereka mencoba mencari penjelasan."
+    },
+    {
+      "id": 9,
+      "content": "Apa yang sedang dipikirkannya? Apa yang ingin dia katakan? Atau... apakah dia sekadar merenung, mengamati tanpa ada prasangka di dalam pikirannya?"
+    },
+    {
+      "id": 10,
+      "content": "Keheningannya seharusnya tidak berbeda dari sikap diamnya yang biasa, namun seolah-olah karena suatu kebetulan atau keinginan..."
+    },
+    {
+      "id": 11,
+      "model": "단테",
+      "content": "<Hei, Meursault?>"
+    },
+    {
+      "id": 12,
+      "content": "... aku dikejutkan oleh perasaan aneh yang singkat namun jelas ini, dan terdorong untuk berbicara dengannya."
+    },
+    {
+      "id": 13,
+      "model": "뫼르소",
+      "content": "Ya, Manajer."
+    },
+    {
+      "id": 14,
+      "model": "단테",
+      "content": "<Jangan ragu untuk memberi tahuku jika ada sesuatu yang ingin kamu katakan... tetapi tidak yakin apakah kamu boleh mengatakannya.>"
+    },
+    {
+      "id": 15,
+      "model": "뫼르소",
+      "content": "Ya, Manajer. Saya akan melakukan apa yang anda perintahkan jika keadaan seperti itu terjadi."
+    },
+    {
+      "id": 16,
+      "content": "... Seperti biasa, jawabannya begitu ringkas dan langsung yang mengecewakan,"
+    },
+    {
+      "id": 17,
+      "content": "seolah-olah dia memiliki aturannya sendiri yang memberi tahu dia bahwa ini adalah tanggapan khusus untuk situasi seperti ini."
+    },
+    {
+      "id": 18,
+      "model": "단테",
+      "content": "<Um... Oke, tapi maksudku itu tentang <i>sekarang ini</i>. Apa ada yang ingin kamu katakan, sekarang ini?>"
+    },
+    {
+      "id": 19,
+      "model": "뫼르소",
+      "content": "Tidak, saya tidak punya."
+    },
+    {
+      "id": 20,
+      "content": "Tidak tampak bagiku kalau dia mencoba menyembunyikan sesuatu atau memilih kata-katanya untuk menjawab pertanyaanku. Jawabannya hanyalah itu: sebuah jawaban, tidak lebih."
+    },
+    {
+      "id": 21,
+      "content": "Ya, jawaban yang telah dipersiapkan yang tertulis di dalam daftar tanggapan—setidaknya itu yang kurasakan. Seolah-olah jawaban khusus ini selalu menjadi satu-satunya jawaban yang tersedia baginya untuk situasi seperti ini."
+    },
+    {
+      "id": 22,
+      "content": "Jelas, mendesaknya untuk mendapatkan jawaban tidak akan membawaku kemana-mana, jadi..."
+    },
+    {
+      "id": 23,
+      "content": "... dengan kata-kata singkat \"tentu, jika kamu berkata begitu,\" aku berbalik darinya dan pergi untuk bergabung dengan para <ruby=Pendosa>Sinner</ruby> lainnya."
+    },
+    {
+      "id": 24,
+      "content": "Setelah aku bilang itu, beberapa kata tertahan di ujung lidah, meminta untuk dilepaskan... Jadi aku melakukannya."
+    },
+    {
+      "id": 25,
+      "model": "단테",
+      "content": "<Akan menyenangkan untuk mengetahui apa yang sedang kamu lihat...>"
+    },
+    {
+      "id": 26,
+      "model": "뫼르소",
+      "content": "... Mengenai hal itu,"
+    },
+    {
+      "id": 27,
+      "content": "Dia berbicara."
+    },
+    {
+      "id": 28,
+      "model": "뫼르소",
+      "content": "Saya tidak dapat membuat penilaian."
+    },
+    {
+      "id": 29,
+      "model": "단테",
+      "content": "<Apa?>"
+    },
+    {
+      "id": 30,
+      "model": "뫼르소",
+      "content": "Itu karena definisi dan sifat tepat dari subjek tatapan saya sama tidak diketahuinya oleh saya maupun oleh anda."
+    },
+    {
+      "id": 31,
+      "model": "뫼르소",
+      "content": "Jika anda menunjuk ke suatu objek atau musuh, saya dapat memberikan penjelasan verbal berdasarkan pengetahuan saya saat ini. Jika anda memerlukan informasi tersebut, harap ulangi pertanyaan anda sesuai dengan hal itu."
+    },
+    {
+      "id": 32,
+      "content": "Seandainya aku bertanya padanya lagi saat itu, seandainya aku mencoba mencari tahu akhir dari rangkaian pertanyaan itu, mungkinkah aku akan menemukan sekilas pandang terkecil ke dalam jiwa Meursault, yang tetap sepenuhnya terselubung dalam misteri bahkan setelah setahun penuh melakukan perjalanan bersama?"
+    },
+    {
+      "id": 33,
+      "content": "... Kurasa aku tidak punya hak untuk mengorek hal itu."
+    },
+    {
+      "id": 34,
+      "model": "뫼르소",
+      "content": "Manajer."
+    },
+    {
+      "id": 35,
+      "model": "단테",
+      "content": "<Uh... Ya?>"
+    },
+    {
+      "id": 36,
+      "model": "뫼르소",
+      "content": "Pertempuran lain sudah dekat. Seperti yang telah anda instruksikan sebelumnya, saya telah memberi tahu anda tentang pertempuran yang sudah dekat."
+    },
+    {
+      "id": 37,
+      "model": "에즈ra",
+      "content": "Yo! Bos Jam! Apa kamu bakal duduk saja di sana sepanjang hari selagi kita semua yang bertarung? Mereka berhamburan keluar dari gedung di sebelah sana itu!"
+    },
+    {
+      "id": 38,
+      "model": "오티스",
+      "content": "Jadi mereka pasti sedang dalam perjalanan ke gedung itu... Jalan kita di depan tampaknya bersih, Manajer Eksekutif! Mari kita netralisasi musuh-musuh itu dan menuju ke atas sana."
+    },
+    {
+      "id": 39,
+      "model": "단테",
+      "content": "<Agh, p-paham! Segera ke sana!>"
+    },
+    {
+      "id": 40,
+      "content": "Sela singkat dari pertempuran berakhir..."
+    },
+    {
+      "id": 41,
+      "content": "... dan melawan musuh yang tiba tepat waktu yang diprediksi Meursault, kami berjalan masuk ke dalam gedung."
+    },
+    {
+      "id": 42,
+      "place": "???, Distrik 14",
+      "model": "히스클리프",
+      "content": "Sialan, orang-orang yang kita lawan di bawah tadi pasti yang paling lemah dari kumpulannya...!"
+    },
+    {
+      "id": 43,
+      "model": "로쟈",
+      "content": "Kok bisa sih N Corp. punya banyak banget orang yang digaji...?! Gak ada habis-habisnya!"
+    },
+    {
+      "id": 44,
+      "model": "홍루",
+      "content": "Haha... Bagaimanapun juga, ini <i>adalah</i> sebuah <ruby=sayap>Wing</ruby>."
+    },
+    {
+      "id": 45,
+      "model": "N사해결사1",
+      "content": "Apakah mereka ini pelanggar Tabu...? Kupikir pelakunya bekerja sendirian?"
+    },
+    {
+      "id": 46,
+      "model": "N사해결사2",
+      "content": "Tidak, aku cukup yakin mereka adalah orang-orang dari laporan berikutnya..."
+    },
+    {
+      "id": 47,
+      "content": "Para Fixer N Corp. tampak sama bingungnya dengan kami."
+    },
+    {
+      "id": 48,
+      "content": "Jelas bagi saya bahwa mereka berharap menemukan pelanggar Tabu di sini, bukan kelompok besar yang terdiri dari sekitar belasan orang..."
+    },
+    {
+      "id": 49,
+      "model": "N사해결사1",
+      "content": "Apa yang mereka pikirkan, mengirim kroco seperti kita untuk menangani pelanggaran Tabu yang terorganisasi? Mereka seharusnya mengirim <ruby=Pembasmi Tabu>Taboo Hunter</ruby> ke sini..."
+    },
+    {
+      "id": 50,
+      "model": "N사해결사2",
+      "content": "Menurutmu mengapa mereka menyuruh kita untuk mengonsumsi <ruby=Pengalaman Dalam Kaleng>Canned Experience</ruby> yang berisi pertempuran jarak dekat massal? Mereka pasti mengira tenaga kerja kita saat ini sudah cukup untuk menangani ini."
+    },
+    {
+      "id": 51,
+      "model": "N사해결사1",
+      "content": "Aku tidak tahu tentang itu..."
+    },
+    {
+      "id": 52,
+      "model": "N사해결사2",
+      "content": "Tunggu, bukankah ada laporan ekstra? Bahwa salah satu dari mereka adalah—"
+    },
+    {
+      "id": 53,
+      "content": "Tiba-tiba..."
+    },
+    {
+      "id": 54,
+      "content": "Dengan suara <i>klik</i>, ruangan mulai berdengung dengan desing logam dari sejenis mesin."
+    },
+    {
+      "id": 55,
+      "content": "Dan seketika itu juga, aku bisa tahu apa itu."
+    },
+    {
+      "id": 56,
+      "model": "단테",
+      "content": "<... <ruby=Distorsi>Distortion</ruby>.>"
+    },
+    {
+      "id": 57,
+      "content": "Berdiri di tengah ruangan kumal itu adalah sebuah perangkat yang aku tidak yakin apakah aku pernah melihatnya sebelumnya."
+    },
+    {
+      "id": 58,
+      "content": "Bagian luarnya ditempeli bentuk-bentuk aneh yang mirip dengan apa yang kami lihat di wajah para Ch'unokkun dalam pertempuran kami sebelumnya, membuatnya sulit untuk dipahami bentuk seutuhnya."
+    },
+    {
+      "id": 59,
+      "content": "Objek bulat yang menempel padanya mulai berputar perlahan, dengan rintihan kusam dan usang dari suatu benda yang telah melewati masa jayanya..."
+    },
+    {
+      "id": 60,
+      "model": "오티스",
+      "content": "Pasukan!"
+    },
+    {
+      "id": 61,
+      "model": "오에",
+      "teller": "Outis & Ezra",
+      "title": "The LCB & The LCD",
+      "content": "Lindungi mata kalian!!!"
+    },
+    {
+      "id": 62,
+      "content": "Saat benda itu mulai memancarkan seberkas cahaya redup, Outis menggelegar dengan suara yang berwibawa."
+    },
+    {
+      "id": 63,
+      "model": "싱클레어",
+      "content": "Gah...!"
+    },
+    {
+      "id": 64,
+      "content": "Aku juga cepat-cepat memalingkan muka, memastikan untuk tidak menangkap sekilaspun dari benda itu."
+    },
+    {
+      "id": 65,
+      "place": "Ruangan Proyeksi, Distrik 14",
+      "model": "오티스",
+      "content": "... Perangkat tersebut bisa jadi memutar rekaman video, Manajer Eksekutif."
+    },
+    {
+      "id": 66,
+      "model": "오티스",
+      "content": "Bahkan melihatnya sekilaspun dapat dianggap sebagai pelanggaran Tabu."
+    },
+    {
+      "id": 67,
+      "model": "N사해결사1",
+      "content": "S-sial...!"
+    },
+    {
+      "id": 68,
+      "model": "N사해결사2",
+      "content": "A-aku melihatnya. Tamatlah riwayatku..."
+    },
+    {
+      "id": 69,
+      "content": "Tepat ketika kepanikan mulai merayap ke dalam suara beberapa orang yang tidak beruntung..."
+    },
+    {
+      "id": 70,
+      "model": "뉴김삿갓",
+      "content": "Aduh aduh... Teman-teman, ini mulai terasa agak memalukan."
+    },
+    {
+      "id": 71,
+      "content": "... sebuah suara yang mengantuk menembus kegelapan melewati mataku yang (secara metafora) terpejam."
+    },
+    {
+      "id": 72,
+      "model": "뉴앵두",
+      "content": "Mentor?!"
+    },
+    {
+      "id": 73,
+      "model": "뉴김삿갓",
+      "content": "Buka matamu, Aeng-du. Ada apa dengan semuanya? Kemasukan debu di mata kalian?"
+    },
+    {
+      "id": 74,
+      "model": "이스마엘",
+      "content": "Apa-apaan yang salah denganmu?! Apa kau tidak tahu kalau siapa pun yang menonton rekaman video di N Corp. meskipun cuma sepersekian detik bakal—"
+    },
+    {
+      "id": 75,
+      "model": "뉴김삿갓",
+      "content": "... Tentu saja aku tahu. Tapi aku tetap menontonnya."
+    },
+    {
+      "id": 76,
+      "model": "뉴김삿갓",
+      "content": "Buka mata kalian, rekan-rekan yang terhormat. Gambar bergerak ini tidak \"terekam.\""
+    },
+    {
+      "id": 77,
+      "model": "N사해결사2",
+      "content": "... Sebentar, dia benar. Video itu bukan sebuah rekaman."
+    },
+    {
+      "id": 78,
+      "content": "Mungkin karena merasa berani oleh komentar Kim, atau mungkin percaya bahwa melihat video tersebut dapat dimaafkan sebagai paparan tidak sengaja yang terjadi saat menundukkan pelanggar, para karyawan N Corp. juga membuka mata mereka dan mulai bergumam di antara mereka sendiri."
+    },
+    {
+      "id": 79,
+      "model": "N사해결사1",
+      "content": "Apa benda itu... berbicara kepada kita?"
+    },
+    {
+      "id": 80,
+      "content": "Aku akhirnya membiarkan diri saya melihat dengan baik ke arah mesin tersebut, yang menembakkan seberkas cahaya berbentuk kerucut ke satu sisi dinding."
+    },
+    {
+      "id": 81,
+      "content": "Dan inilah pesannya, yang disampaikan melalui kata-kata putih dengan latar belakang hitam:"
+    },
+    {
+      "id": 82,
+      "content": "<color=#ffffff><i>\"Jadi kalian telah melacakku sejauh ini.\"</color></i>"
+    },
+    {
+      "id": 83,
+      "content": "<color=#ffffff><i>\"Setelah apa yang kulalui untuk mengungsi di sini... Mereka masih berakhir menemukan tempat ini...\"</color></i>"
+    },
+    {
+      "id": 84,
+      "content": "<color=#ffffff><i>\"Kalian semua secara buta mengonsumsi pengalaman palsu demi pengalaman palsu lainnya, bahkan tanpa peduli tentang hal yang nyata...\"</color></i>"
+    },
+    {
+      "id": 85,
+      "model": "N사해결사1",
+      "content": "Kasus nomor TC3224. Anda berada di bawah kecurigaan pelanggaran Kategori 3."
+    },
+    {
+      "id": 86,
+      "model": "N사해결사1",
+      "content": "Tunjukkan diri anda sekarang dan serahkan rekaman ilegal anda. Jika anda patuh, kami akan—"
+    },
+    {
+      "id": 87,
+      "model": "뉴김삿갓",
+      "content": "... Apa itu kebodohan selain lelucon tanpa otak tanpa adanya orang bodoh?"
+    },
+    {
+      "id": 88,
+      "model": "뉴김삿갓",
+      "content": "Wadah yang hampa, kehilangan segalanya kecuali ilusi yang tersisa, bahkan tidak memberikan gema gemuruh pada kecaman keras dari alat-alat."
+    },
+    {
+      "id": 89,
+      "model": "그레고르",
+      "content": "Orang ini lagi bicara apa?"
+    },
+    {
+      "id": 90,
+      "model": "N사해결사1",
+      "content": "Jika anda bermaksud menghalangi tugas resmi kami, kami tidak akan ragu untuk menggunakan kekerasan—!"
+    },
+    {
+      "id": 91,
+      "content": "<i>Klang!</i>"
+    },
+    {
+      "id": 92,
+      "content": "Bahkan tanpa berbalik sekalipun, Kim Bertopi Bambu mengangkat pedangnya dan menangkis senjata berbentuk paku milik karyawan N Corp."
+    },
+    {
+      "id": 93,
+      "model": "뉴김삿갓",
+      "content": "Aku hanya berbicara sebagaimana keinginanku menuntunku, rekan-rekan terkasih. Tidak perlu menjadi terburu-buru."
+    },
+    {
+      "id": 94,
+      "model": "뉴김삿갓",
+      "content": "Aku hanya bertujuan untuk mengatakan bahwa kekejian ini... tidak memiliki kesadaran."
+    },
+    {
+      "id": 95,
+      "content": "<color=#ffffff><i>\"Setelah apa yang kulalui untuk mengungsi di sini... Mereka masih berakhir menemukan tempat ini...\"</color></i>"
+    },
+    {
+      "id": 96,
+      "content": "<color=#ffffff><i>\"Kalian semua secara buta mengonsumsi pengalaman palsu demi pengalaman palsu, bahkan tanpa peduli tentang hal yang nyata...\"</color></i>"
+    },
+    {
+      "id": 97,
+      "model": "오티스",
+      "content": "Itu mengulangi kalimat yang sama terus-menerus..."
+    },
+    {
+      "id": 98,
+      "model": "뉴김삿갓",
+      "content": "Sekarang hal itu membuatku bertanya-tanya. Apakah aku sama hancurnya ketika aku mengalami Distorsi? Melewati semua kata dan nalar?"
+    },
+    {
+      "id": 99,
+      "model": "뉴김삿갓",
+      "content": "Maksudku, jika ada yang memiliki jawaban untuk pertanyaan itu... itu adalah kalian, bukan?"
+    },
+    {
+      "id": 100,
+      "content": "Kim tidak mengatakan apa-apa lagi. Dia mengarahkan pandangan tajam ke arah kami, sementara dengan mudah menepis serangan para karyawan N Corp..."
+    },
+    {
+      "id": 101,
+      "content": "... seolah-olah dia sedang menghasut kami untuk memberi tahu dia kebenaran yang sesungguhnya."
+    },
+    {
+      "id": 102,
+      "model": "뉴김삿갓",
+      "content": "Yah... Rasanya tidak ada gunanya bertanya."
+    },
+    {
+      "id": 103,
+      "model": "뉴김삿갓",
+      "content": "... Aku tidak ada bedanya dengan kekejian ini. Sama seperti ia menggunakan gawai itu, aku pasti telah menggunakan satu-satunya hal yang benar-benar kuketahui—bilah pedang, berubah menjadi iblis tanpa pikiran yang dikonsumsi oleh alat belaka, menebas teman maupun musuh, tanpa kendali."
+    },
+    {
+      "id": 104,
+      "model": "뉴앵두",
+      "content": "……."
+    },
+    {
+      "id": 105,
+      "model": "에즈라",
+      "content": "... Hei, Junior. Kamu masih meributkan soal itu?"
+    },
+    {
+      "id": 106,
+      "model": "뉴김삿갓",
+      "content": "Aku mencoba memalingkan mataku, aku benar-benar melakukannya. Tetapi pengabaian seperti itu lebih mudah diucapkan daripada dilakukan."
+    },
+    {
+      "id": 107,
+      "model": "뉴김삿갓",
+      "content": "Bagaimana bisa aku melakukannya, ketika makhluk yang ter-Distorsi itu tidak ragu-ragu memperlihatkanku— *haah*..."
+    },
+    {
+      "id": 108,
+      "model": "뉴김삿갓",
+      "content": "Tidakkah dia tahu betapa kasarnya pencerminan lubuk hati seseorang yang tidak diminta itu? Itu pasti ilegal atau semacamnya. Ilegal, kukatakan!"
+    },
+    {
+      "id": 109,
+      "model": "뉴김삿갓",
+      "content": "Mengubah pelanggan menjadi preman dalam operasi pemerasan pelindung, hanya sebuah semut bagi mobil yang dikemudikan oleh pengemudi mabuk..."
+    },
+    {
+      "id": 110,
+      "model": "뉴김삿갓",
+      "content": "... memunculkan para pengikut yang mati di depan mata mentor mereka—sungguh tidak berhati nurani. Kasar sekali, seperti yang mungkin dikatakan beberapa orang. Hatiku yang malang hampir meledak keluar dari dadaku, berkat dirimu."
+    },
+    {
+      "id": 111,
+      "content": "<color=#ffffff><i>\"Kalian semua secara buta mengonsumsi pengalaman palsu demi pengalaman palsu, bahkan tanpa peduli tentang hal yang nyata...\"</color></i>"
+    },
+    {
+      "id": 112,
+      "model": "뫼르소",
+      "content": "……."
+    },
+    {
+      "id": 113,
+      "content": "Dalam sepersekian detik itu, kurasa aku melihat alis Meursault berkedut."
+    },
+    {
+      "id": 114,
+      "model": "뫼르소",
+      "content": "Pertempuran sudah dekat, Manajer."
+    },
+    {
+      "id": 115,
+      "content": "... Mungkin hanya tanggapan alami karena merasakan pertempuran yang sudah dekat?"
+    },
+    {
+      "id": 116,
+      "content": "<i>*POP!*</i>"
+    },
+    {
+      "id": 117,
+      "place": "Distorsi Jalan Butter, Distrik 14",
+      "content": "Kilatan yang menyilaukan, diikuti oleh ledakan keras. Penglihatanku segera memutih dan membutuhkan waktu yang lama untuk pulih."
+    },
+    {
+      "id": 118,
+      "content": "Dan ketika itu kembali..."
+    },
+    {
+      "id": 119,
+      "content": "Hal pertama yang muncul dalam pandangan adalah pemandangan S Corp. yang sangat meresahkan, diikuti oleh Kim Bertopi Bambu yang dikelilingi oleh sepasukan kecil Ch'unokkun."
+    },
+    {
+      "id": 120,
+      "model": "뉴앵두",
+      "content": "MENTOR!"
+    },
+    {
+      "id": 121,
+      "model": "뉴김삿갓",
+      "content": "Teruskan saja teriakmu itu dan kau akan membuatku tuli, Aeng-du."
+    },
+    {
+      "id": 122,
+      "model": "뉴김삿갓",
+      "content": "Bukankah sudah waktunya kita berdua terbiasa dengan pemandangan seperti itu?"
+    },
+    {
+      "id": 123,
+      "model": "뉴앵두",
+      "content": "Mentor, aku masih terbangun dari mimpi-mimpi ini dengan bercucuran keringat dingin..."
+    },
+    {
+      "id": 124,
+      "model": "뉴앵두",
+      "content": "Bahwa mereka dapat mengikat dan menyeretmu pergi..."
+    },
+    {
+      "id": 125,
+      "model": "뉴김삿갓",
+      "content": "Eh, ini tidak terlalu buruk, bukan? Sejauh ini baru orang-orang ini. Berbeda dengan sebelumnya, ketika—"
+    },
+    {
+      "id": 126,
+      "content": "Kilatan lainnya."
+    },
+    {
+      "id": 127,
+      "place": "Ruangan Proyeksi, Distrik 14",
+      "model": "N사해결사2",
+      "content": "Apa... apa itu tadi? Segalanya menjadi gelap..."
+    },
+    {
+      "id": 128,
+      "model": "N사해결사1",
+      "content": "Aku tidak mengerti apa yang terjadi, tapi hal pertama yang utama: Kita harus menetralisasi semua orang di sini dan mengembalikan misi kita ke jalurnya—"
+    },
+    {
+      "id": 129,
+      "content": "<color=#ffffff><i>[Menyesuaikan Proyeksi…]</color></i>"
+    },
+    {
+      "id": 130,
+      "model": "뉴김삿갓",
+      "content": "... *haah*... Aku telah tersesat jauh dan mengembara sepanjang hari karena alasan yang tepat ini, dan..."
+    },
+    {
+      "id": 131,
+      "model": "파우스트",
+      "content": "... Jadi itu adalah mekanismenya."
+    },
+    {
+      "id": 132,
+      "model": "단테",
+      "content": "<Faust?>"
+    },
+    {
+      "id": 133,
+      "content": "Kata-kata mulai bergeser dengan cepat sebelum aku sempat bertanya kepada Faust apa yang dia maksud."
+    },
+    {
+      "id": 134,
+      "content": "<color=#ffffff><i>\"Kepada orang yang menemukan kenyamanan menetap dalam kebohongan: Aku memberikan kepadamu apa yang paling layak untuk tatapanmu.\"</color></i>"
+    },
+    {
+      "id": 135,
+      "content": "<i>*POP!*</i>"
+    },
+    {
+      "id": 136,
+      "place": "Distorsi Jalan Butter, Distrik 14",
+      "model": "뉴김삿갓",
+      "content": "……."
+    },
+    {
+      "id": 137,
+      "model": "히스클리프",
+      "content": "Sialan, gua bakal buta sebelum hari ini berakhir kalau kayak gini terus."
+    },
+    {
+      "id": 138,
+      "model": "단테",
+      "content": "<... Itu berubah.>"
+    },
+    {
+      "id": 139,
+      "model": "히스클리프",
+      "content": "... Berubah?"
+    },
+    {
+      "id": 140,
+      "model": "뫼르소",
+      "content": "Berbeda dengan sebelumnya, salah satu Distorsi berbeda dari yang lain."
+    },
+    {
+      "id": 141,
+      "content": "Seperti yang diidentifikasi oleh Meursault, ada sesuatu yang berbeda tentang kelompok Ch'unokkun kali ini—mereka didampingi oleh orang lain."
+    },
+    {
+      "id": 142,
+      "content": "Seorang pejuang dengan zirah yang mengesankan, memegang pedang yang sama tingginya."
+    },
+    {
+      "id": 143,
+      "model": "뉴김삿갓",
+      "content": "Zirah itu... dan sebuah hwando besar dari <ruby=Lingkaran Sal>Sal Circle</ruby>..."
+    },
+    {
+      "id": 144,
+      "model": "뉴김삿갓",
+      "content": "... Untuk dipertemukan kembali dengan cara seperti ini..."
+    },
+    {
+      "id": 145,
+      "model": "뉴앵두",
+      "content": "…!"
+    },
+    {
+      "id": 146,
+      "model": "임경업뒤틀림",
+      "teller": "???",
+      "content": "……."
+    },
+    {
+      "id": 147,
+      "content": "Pejuang itu menarik busur yang tergantung dari pelindung pinggang, dan memasang anak panah..."
+    },
+    {
+      "id": 148,
+      "model": "임경업뒤틀림",
+      "teller": "???",
+      "content": "... Panah."
+    },
+    {
+      "id": 149,
+      "model": "뉴김삿갓",
+      "content": "Aku rasa begitulah jalannya peristiwa ini akan terjadi, seandainya kamu adalah orang yang menangkapku."
+    },
+    {
+      "id": 150,
+      "model": "뉴김삿갓",
+      "content": "... Komisaris Militer Im Gyeong-eop. Bagaimana kabarmu, teman?"
+    },
+    {
+      "id": 151,
+      "model": "임경업뒤틀림",
+      "teller": "Im Gyeong-eop",
+      "content": "Pada pelepasan panah isyarat! Tangkap terdakwa!"
+    },
+    {
+      "id": 152,
+      "content": "Pejuang itu melepaskan anak panah yang terpasang, yang membubung ke langit dengan siulan yang melengking..."
+    },
+    {
+      "id": 153,
+      "content": "... dan dengan suara yang membelah udara itu sebagai isyarat mereka, para Ch'unokkun mulai mengerumuni kami."
+    }
+  ]
+}

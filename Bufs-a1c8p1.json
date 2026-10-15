@@ -1,0 +1,25 @@
+{
+  "dataList": [
+    {
+      "id": "TheDrifter_LowMorale",
+      "name": "Podao",
+      "desc": "- Moral Rendah\n- Terima +10% damage dari Serangan Tanpa Lawan; beri +30% damage with Counterattacks",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TheDrifter_Panic",
+      "name": "Podao",
+      "desc": "- Panik\n- Terima +20% damage dari Serangan Tanpa Lawan; beri +50% damage with Counterattacks",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SipOfAlcohol",
+      "name": "Swig",
+      "desc": "- Stack Maks :5\n- Akhir Giliran: at 3 Stack, pulihkan 3% HP (\"Inti\", Bagian)\n- Akhir Giliran: at 5 Stack, peroleh 3 Attack Power Up dan 2 Fragile giliran berikutnya",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

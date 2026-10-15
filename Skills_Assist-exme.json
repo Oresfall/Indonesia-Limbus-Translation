@@ -1,0 +1,474 @@
+{
+  "dataList": [
+    {
+      "id": 40003801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Seni Pencabik",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 6 ([Breath] pada diri sendiri + [Laceration] pada target) (maks 2)\n[WhenUse] Pada 3+ [Agility], Base Power +2\n[WhenUse] Peroleh +2 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 3 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Akupuntur",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 6 ([Breath] pada diri sendiri + [Laceration] pada target) (maks 2)\n[WhenUse] Pada 3+ [Agility], Base Power +2\n[WhenUse] Peroleh +2 Count [Breath]\n[WinDuel] Peroleh +2 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [Breath]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Peroleh 2 [Agility] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kilauan Kobaran Api",
+          "desc": "Beri +0.5% damage untuk setiap 1% HP yang hilang pada diri sendiri (maks 25%)\nBeri +25% damage pada Serangan Critical untuk setiap [Agility] pada diri sendiri (maks 150%)\n[WhenUse] Pada 6+ ([Breath] pada diri sendiri + [Laceration] pada target), Coin Power +1 (maks 2)\n[WhenUse] Pada 5+ [WindBlade], ubah menjadi [SuperCoin]\n[WinDuel] Peroleh 5 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +3 Count [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Peroleh 1 [WindBlade]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 2 [Breath]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Peroleh 1 [WindBlade]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Peroleh 1 [WindBlade]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Setarakan Keseimbangan - Kilauan Kobaran Api",
+          "desc": "[CantDuel]\nSkill ini tidak mengaktifkan Skill Defense\nBeri +0.5% damage untuk setiap 1% HP yang hilang pada diri sendiri (maks 25%)\nBeri +20% damage pada Serangan Critical untuk setiap [Agility] pada diri sendiri (maks 100%)\n[EndSkill] Konsumsi semua [WindBlade] pada diri sendiri",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 5 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Pada 5+ [Agility], Gunakan ulang Coin ini (sekali per Skill)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Untuk Ambil Tulang Mereka",
+          "desc": "[CantDuel]\nSkill ini tidak mengaktifkan Skill Defense\nBeri +0.5% damage untuk setiap 1% HP yang hilang pada diri sendiri (maks 25%)\nBeri +10% damage pada Serangan Critical untuk setiap [Agility] pada diri sendiri (maks 50%)\n[WhenUse] Base Power +1 untuk setiap 4 ([Breath] pada diri sendiri + [Laceration] pada target) (maks 4)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 3 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Paralysis] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003806,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Aku Akan Memandu Jalan",
+          "desc": "[CanDuelGuard]\n[StartBattle] Peroleh 1 [SupportProtect]\n[WhenUse] Peroleh 5 [Breath]\n[WinDuel] Peroleh +2 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003807,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Mengamati Bidak Batu di Papan",
+          "desc": "[CanDuelGuard]\nSkill Eksklusif [SupportProtect]\n[WhenUse] Peroleh 5 [Breath]\n[WhenUse] Pada lebih dari 25 [Breath], konsumsi 5 [Breath] untuk memperoleh 3 [WindBlade]\n[WinDuel] Peroleh +2 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40004001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tarikan dari Pedang",
+          "desc": "[WhenUse] Pada 5+ [Breath], Coin Power +1\n[WhenUse] Peroleh +2 Count [Breath]\n[WinDuel] Peroleh 3 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 3 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 5 [Laceration]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40004002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Akupuntur",
+          "desc": "[WhenUse] Pada 7+ [Breath], Coin Power +1\n[WhenUse] Peroleh +3 Count [Breath]\n[WinDuel] Peroleh 2 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 4 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Beri +20% damage pada Serangan Critical"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Beri +40% damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40004003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Menggulingkan",
+          "desc": "[DuelCounter]\n[StartBattle] Peroleh 2 [SlashDamageUp] giliran ini dan giliran berikutnya\n[WhenUse] Pada 8+ [Breath], Coin Power +1\n[WhenUse] Peroleh +3 Count [Breath]\n[WinDuel] Peroleh 4 [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh 5 [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "Beri +80% damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 8 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40004004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Ambil Dagingku",
+          "desc": "Menarget Skill Slot dengan maks Power tertinggi\n[WhenUse] Hingga Skill ini berakhir:\n- Terima -2% damage dari Serangan untuk setiap [Breath] pada diri sendiri (min -80%)\n- Clash Power -1 untuk setiap [Breath] pada diri sendiri (min -30)\n- Tidak dapat Stagger dari menerima damage\n[WinDuel] Peroleh 5 [Breath]\n[DefeatDuel] Gunakan \"Untuk Ambil Tulang Mereka\" setelah diserang\n[EndBattle] Tidak dapat menggunakan \"Ambil Dagingku\" hingga giliran berikutnya",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "Beri +150% damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [SlashResistDown] giliran berikutnya"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [DefenseDown] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40004005,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Untuk Ambil Tulang Mereka",
+          "desc": "[WhenUse] Pada 10+ [Breath], Coin Power +1\n[WhenUse] Beri +40% damage untuk setiap Atk Weight berlebih di atas jumlah # dari target sebenarnya (di Pertarungan Terfokus, Bagian Tubuh)\n[WhenUse] Peroleh +4 Count [Breath]\n[EndSkill] Konsumsi semua [Breath] pada diri sendiri",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Coin Power +2 untuk Coin terakhir (sekali per Coin)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Coin Power +2 untuk Coin terakhir (sekali per Coin)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Coin Power +2 untuk Coin terakhir (sekali per Coin)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 10 [Laceration] dan +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Paralysis] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "YuRia Atelier - Mode Serangan Penuh, Mk. 17!",
+          "desc": "Beri +50% damage untuk setiap tipe dari efek negatif pada target (maks 100%)\n[WhenUse] Jika target memiliki 6+ [Vibration], Base Power +3",
+          "flavor": "Kapak Emas Spesial Buatan Tangan Khusus",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [Laceration] pada target sekali. Target kehilangan 1 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40003902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Aku Melindungimu! Cepat Ke Belakangku!",
+          "desc": "[CanDuelGuard]\nSkill Eksklusif [SupportProtect]\n[WinDuel] Pulihkan 4 SP untuk semua kawan (termasuk unit ini)\n- Pulihkan 8 SP saja untuk Unit LCD",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

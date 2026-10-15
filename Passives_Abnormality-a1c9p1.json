@@ -1,0 +1,174 @@
+{
+  "dataList": [
+    {
+      "id": 130601,
+      "name": "Duello",
+      "desc": "Setelah Clash, beri 1 [DuelEdge] terhadap target yang Clash terhadap unit ini\nDi dalam Clash terhadap target dengan [DuelEdge], pulihkan 3 SP untuk setiap [DuelEdge] Stack pada target (maks 15)"
+    },
+    {
+      "id": 130602,
+      "name": "Gaya Palermitan",
+      "desc": "Peroleh efek berikut berdasarkan stack [DuelEdge] target\n- Untuk setiap Stack, beri +5% damage terhadap dan terima -5% damage dari target dengan [DuelEdge]\n- Pada 1+ Stack, dalam Clash terhadap target dengan [DuelEdge], peroleh Clash Power +1\n- Pada 2+ Stack, dalam Clash terhadap target dengan [DuelEdge], peroleh Base Power +1\n- Pada 3+ Stack, dalam Clash terhadap target dengan [DuelEdge], peroleh Coin Power +1 dan beri 3 [SeveredTendon] Saat Menyerang\n- Pada 4+ Stack, dalam Clash terhadap target dengan [DuelEdge], peroleh Final Power +1"
+    },
+    {
+      "id": 130603,
+      "name": "Palermitan Rapier / Pisau Pembelah",
+      "desc": "Jika efek Skill unit ini mengaktifkan [VibrationExplosion], peroleh 2 [AttackUp] giliran berikutnya (3 kali per giliran)"
+    },
+    {
+      "id": 130604,
+      "name": "Tanda Pemburu",
+      "desc": "Setiap 3 giliran, pilih musuh acak (kecuali Ryōshū), kurangi Speed mereka menjadi 1, dan target mereka dengan semua Skill unit ini\n(Jika efek ini tidak dapat diaktifkan karena Stagger, aktifkan giliran berikutnya)"
+    },
+    {
+      "id": 130605,
+      "name": "Buku Teks dengan Satu Tujuan",
+      "desc": "Awal Pertempuran: peroleh [TeachersCommand]\nDi dalam Clash terhadap Ryōshū, Clash Power -3 dan ubah Coin Skill Base Attack unit ini menjadi [SuperCoin].\nJuga, saat Kalah Clash, beri -80% damage dan seluruh efek \"Saat Menyerang\" tidak aktif"
+    },
+    {
+      "id": 130701,
+      "name": "Mencari Lengan - Pelepasan Pencegahan Parsial",
+      "desc": "Jika bagian \"Lengan\" rusak, ubah Coin yang tersisa pada Skill \"Lengan\" menjadi [SuperCoin], dan mereka memperoleh +1 Atk Weight\n- Ketika memakai Skill yang terdampak oleh efek ini, peroleh 1 [RapidGrowthApple]"
+    },
+    {
+      "id": 130702,
+      "name": "Ebony Queen - Pelepasan Pencegahan Sebagian",
+      "desc": "Jika unit ini memiliki \"Akar\", peroleh 1 [HowDareYouApple] setelah its Fruit Bagian diserang\n\nPada 4 [HowDareYouApple], gunakan Skill kuat yang memberi powerful efek negatif\n\nJika unit ini tidak memiliki \"Akar\", tidak peroleh ataupun kehilangan [HowDareYouApple]\nKetika Bagian \"Buah\" menjadi rusak, kehilangan [HowDareYouApple]"
+    },
+    {
+      "id": 130703,
+      "name": "Akar Pengikat",
+      "desc": "Awal Giliran: beri 2 [Binding] pada semua musuh\nIni bertahan hingga \"Akar\" telah rusak"
+    },
+    {
+      "id": 130704,
+      "name": "Satu Akar Tunggal",
+      "desc": "The \"Akar\" Bagian peroleh 3 [Enhancement] untuk setiap unbroken Arm Bagian\nTidak memperoleh efek ini jika \"Akar\" telah rusak"
+    },
+    {
+      "id": 131901,
+      "name": "Armor Perlindungan & Tekanan",
+      "desc": "Awal Giliran: jika unit ini tidak Stagger, peroleh 2 [Protection], 10 [DefenseUp], dan Perisai HP setara dengan 10% dari HP unit saat ini\n\nSetiap kali unit ini menggunakan Skill \"Daging Tertindas\" di Pertempuran ini, peroleh 1 lebih sedikit [Protection], 5 lebih sedikit [DefenseUp], dan kurangi persentase yang disebutkan di atas sebanyak 5%"
+    },
+    {
+      "id": 131902,
+      "name": "Gadis Besi - Duri",
+      "desc": "Jika unit ini tidak Stagger, ketika diserang oleh Coin terakhir dari penyerang, aktifkan berikut:\n- Beri Pierce damage sebanyak 20% dari damage Coin yang dimaksud dan beri 2 [Laceration] (maks damage per Skill: 100)\n- Damage dari efek ini tidak dapat Stagger target"
+    },
+    {
+      "id": 131903,
+      "name": "Gadis Besi - Defibrillation",
+      "desc": "Saat memasuki pertempuran, pulihkan 30 SP\n\nPada 60% HP, pulih dari Stagger dan akhiri giliran (sekali per Pertempuran)"
+    },
+    {
+      "id": 131904,
+      "name": "Corpus Dihabiskan Sebagai Material",
+      "desc": "Terima -30% HP, SP damage dari [Combustion], [Burst], [Sinking]; -30% ke Batas Stagger yang dinaikkan oleh [Vibration]\nTerima -50% damage dari [Laceration]"
+    },
+    {
+      "id": 131905,
+      "name": "Fascia, Karya Seni Berhargaku",
+      "desc": "Akhir Giliran: pada 2 [HumanFleshTheRings], [HumanFleshTheRings] kadaluarsa giliran berikutnya; lalu, peroleh [BoneBladeTheRings]\n\nAwal Giliran: jika unit ini memiliki [BoneBladeTheRings], gunakan serangan kuat giliran ini\n\nJika unit ini diserang oleh Skill Attack sebelum menggunakan serangan kuat, peroleh 1 [UnsteadyTheRings]"
+    },
+    {
+      "id": 131801,
+      "name": "Berlatih untuk Mewarisi Nama dari Bintang",
+      "desc": "Akhir Skill Attack: Beri (# dari Coin Slash yang menyerang secara Critical x 10) Slash damage terhadap setiap target (tidak dapat Stagger karena damage ini)"
+    },
+    {
+      "id": 131802,
+      "name": "Fokus Tunggal dari Pikiran",
+      "desc": "Potency [Breath] unit ini dibatasi hingga 25\nPotency [Breath] berlebih yang diperoleh melebihi 25 akan diubah ke [DicipleLittleFinger]"
+    },
+    {
+      "id": 131803,
+      "name": "Pedang Ortodoks [整劍]",
+      "desc": "Awal Pertempuran: peroleh 50 [DicipleLittleFinger]"
+    },
+    {
+      "id": 131804,
+      "name": "Tranquility [靜念]",
+      "desc": "Jika unit ini memiliki [DicipleLittleFinger], peroleh efek berikut:\n- SP tidak turun di bawah 0; jika SP berada di bawah 0, pulih menjadi 0\n- Ubah SP damage yang diterima menjadi Gloom damage (kecuali untuk perubahan SP karena \"Faktor dasar peningkat/pengurang Sanity\")"
+    },
+    {
+      "id": 131805,
+      "name": "Berkah",
+      "desc": "Dalam Clash terhadap target yang bukan Ryōshū, Clash Power -2\nTerima -20% damage dari target selain Ryōshū"
+    },
+    {
+      "id": 130801,
+      "name": "Terpesona",
+      "desc": "Awal Giliran: berdasarkan jumlah dari unit di Pertempuran, beri [FairyCharm] pada Sinner dengan Speed paling lambat\nJumlah dari unit yang memiliki [FairyCharm] meningkat setiap kali Bagian \"Fairy\" disembuhkan"
+    },
+    {
+      "id": 130802,
+      "name": "Jurang yang Terungkap",
+      "desc": "Mengungkap \"Tubuh\" ketika Bagian \"Fairy\" rusak\nSemua Buff dan Debuff kadaluarsa ketika \"Tubuh\" sembunyi lagi"
+    },
+    {
+      "id": 130803,
+      "name": "Umpan Terdepan",
+      "desc": "Tidak dapat damage \"Inti\" HP dengan menyerang \"Fairy\"\nSkill tertentu memperoleh Atk Weight berdasarkan jumlah dari unit yang memiliki [FairyCharm]"
+    },
+    {
+      "id": 130804,
+      "name": "Tunggul Rusak",
+      "desc": "Ketika \"Tubuh\" rusak:\n- Fairy akan memiliki 60% dari maks HP-nya saat memulihkan diri\n- \"Inti\" memulihkan +20 lebih HP dengan efek Skill"
+    },
+    {
+      "id": 130805,
+      "name": "Umpan Berevolusi",
+      "desc": "Fairy peroleh 30% maks HP tambahan dengan setiap pemulihan"
+    },
+    {
+      "id": 130806,
+      "name": "Debu Fairy",
+      "desc": "Ketika \"Fairy\" terbunuh, semua Identitas peroleh 5 [Breath] dan +2 Count [Breath] giliran berikutnya"
+    },
+    {
+      "id": 130807,
+      "name": "Increased Aggression - Pelepasan Pencegahan Sebagian",
+      "desc": "Use lebih powerful Skill setelah \"Fairy\" disembuhkan for the second time"
+    },
+    {
+      "id": 130901,
+      "name": "Pelarian Dimensional",
+      "desc": "Starting dari giliran 2, unit ini summons 4 acak Dimensions dan hides\n- Ketika semua Parts are Stagger, efek ini activates giliran berikutnya\n- Tidak dapat Stagger while hidden inside 'Retakan Dimensi'."
+    },
+    {
+      "id": 130902,
+      "name": "Pelarian Dimensional Terjebak",
+      "desc": "Ketika semua 'Retakan Dimensi' telah rusak, unit ini keluar dari 'Retakan Dimensi' giliran berikutnya\nSetelah itu, unit ini kehilangan 5 Count [Charge] dan semua dari Batas Stagger bagiannya dinaikkan sebanyak 30"
+    },
+    {
+      "id": 130903,
+      "name": "Regenerasi Pedang Pemecah Dimensi",
+      "desc": "Ketika Bagian \"Pedang\" rusak, kehilangan 5 Count [Charge]\nPada Akhir Giliran berikutnya, konsumsi 2 Count [Charge] untuk memulihkan \"Pedang\" yang rusak.\n\nSelama Bagian \"Pedang\" rusak, peroleh 2 [AttackDown] pada setiap Awal Giliran."
+    },
+    {
+      "id": 130904,
+      "name": "Upaya Pembebasan Dimensi Paksa - Pelepasan Pencegahan Sebagian",
+      "desc": "Pada 60% atau kurang \"Inti\" HP, akhiri giliran dan peroleh pola baru\n- Nonaktifkan Pasif \"Pelarian Dimensional\"\n- Nonaktifkan Pasif \"Pelarian Dimensional Terjebak\"\n- Jika bagian \"Lengan\"-nya tidak ada yang rusak, gunakan Skill kuat setiap beberapa giliran"
+    },
+    {
+      "id": 131001,
+      "name": "Dimensi Penuh Darah",
+      "desc": "Beri +10% damage setelah melewati Dimensi Penuh Darah"
+    },
+    {
+      "id": 131101,
+      "name": "Dimensi Penuh Racun",
+      "desc": "\"Inti\" peroleh +20% maks HP setelah melewati Dimensi Penuh Racun"
+    },
+    {
+      "id": 131201,
+      "name": "Dimensi Penuh Guncangan",
+      "desc": "Peroleh 1 Speed setelah melewati Dimensi Penuh Guncangan"
+    },
+    {
+      "id": 131301,
+      "name": "Dimensi Penuh Listrik",
+      "desc": "Peroleh +1 Coin Power setelah melewati Dimensi Penuh Listrik"
+    }
+  ]
+}

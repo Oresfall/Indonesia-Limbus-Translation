@@ -1,0 +1,310 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Kabin Kelas Ekonomi Kereta WARP",
+      "model": "단테",
+      "content": "<Tunggu, <ruby=Iblis Darah>Bloodfiend</ruby>...?>"
+    },
+    {
+      "id": 1,
+      "content": "Apa itu... <ruby=Iblis Darah>Bloodfiend</ruby>...?"
+    },
+    {
+      "id": 2,
+      "model": "돈키호테",
+      "content": "<ruby=Iblis Darah>Bloodfiend</ruby>...? Aku tidak pernah mendengar nama itu di kisah <ruby=Sayap>Wings</ruby> manapun."
+    },
+    {
+      "id": 3,
+      "model": "그레고르",
+      "content": "Hah... Kamu, dari semua orang, belum pernah dengar tentang <ruby=Iblis Darah>Bloodfiends</ruby>? Kukira kamu ahli soal pengetahuan kuno yang tidak jelas."
+    },
+    {
+      "id": 4,
+      "model": "돈키호테",
+      "content": "Sungguh, aku belum pernah membaca maupun mendengar penyebutan tentang \"<ruby=Iblis Darah>Bloodfiends</ruby>\" ini! Mungkinkah aku melewatkan sebuah halaman dari buku Fixer-ku?"
+    },
+    {
+      "id": 5,
+      "content": "Don Quixote mengerutkan alisnya, benar-benar bingung. Seolah-olah kata itu terdengar asing baginya."
+    },
+    {
+      "id": 6,
+      "model": "싱클레어",
+      "content": "Kupikir mereka hanyalah monster dalam cerita untuk menakuti anak-anak di malam hari... Mereka seharusnya takut pada bawang putih dan sinar matahari, kan...?"
+    },
+    {
+      "id": 7,
+      "model": "홍루",
+      "content": "Ooh~ Itu terdengar agak berbeda dari yang pernah kudengar. Aku dengar ketakutan mereka terhadap bawang putih dan sinar matahari hanyalah rumor, dan yang sebenarnya mereka takuti adalah air!"
+    },
+    {
+      "id": 8,
+      "model": "파우스트",
+      "content": "……."
+    },
+    {
+      "id": 9,
+      "model": "오티스",
+      "content": "Saya telah diberi pengarahan tentang keberadaan <ruby=Iblis Darah>Bloodfiends</ruby> di masa lalu, saat saya menjabat sebagai perwira komandan."
+    },
+    {
+      "id": 10,
+      "model": "오티스",
+      "content": "Dan saya telah melihat... \"ampas\" yang mereka perintahkan."
+    },
+    {
+      "id": 11,
+      "model": "오티스",
+      "content": "... Meskipun ingatan saya tidak begitu jelas, saya cukup yakin bahwa monster-monster di sini tidak menyerupai apa yang telah saya lihat."
+    },
+    {
+      "id": 12,
+      "model": "료슈",
+      "content": "Ada juga \"<ruby=Iblis Darah>Bloodfiend</ruby>\" di jajaran the Fingers. Tapi hal-hal yang diperintah \"<ruby=Iblis Darah>Bloodfiend</ruby>\" itu tidak tampak lembek begini."
+    },
+    {
+      "id": 13,
+      "model": "료슈",
+      "content": "Ada yang aneh. Tidak pernah kulihat monster sebecek ini sebelumnya."
+    },
+    {
+      "id": 14,
+      "model": "료슈",
+      "content": "Tapi bukannya kamu sudah tahu ini?"
+    },
+    {
+      "id": 15,
+      "model": "파우스트",
+      "content": "... Ya. Saya mengerti bahwa beberapa <ruby=Pendosa>Sinner</ruby> pernah bertemu dengan <ruby=Iblis Darah>Bloodfiends</ruby> di masa lalu. Penjelasan yang panjang lebar tampaknya tidak perlu."
+    },
+    {
+      "id": 16,
+      "model": "파우스트",
+      "content": "Seperti yang telah dinyatakan oleh banyak dari anda sejauh ini, entitas yang kita hadapi di kereta ini tidak tampak sebagai \"<ruby=Iblis Darah>Bloodfiends</ruby>\"."
+    },
+    {
+      "id": 17,
+      "model": "파우스트",
+      "content": "Dalam arti tertentu, mereka adalah makhluk mirip ampas yang gagal menjadi <ruby=Keturunan>Kindreds</ruby>... mereka disebut sebagai \"<ruby=Kantung Darah>Bloodbag</ruby>\" di antara pihak terkait, menurut informasi yang saya ketahui."
+    },
+    {
+      "id": 18,
+      "model": "료슈",
+      "content": "Hmph, nama yang tidak buruk."
+    },
+    {
+      "id": 19,
+      "model": "단테",
+      "content": "<Kenapa ada orang yang menamai seseorang \"<ruby=Kantung Darah>Bloodbag</ruby>\"...?>"
+    },
+    {
+      "id": 20,
+      "model": "파우스트",
+      "content": "Seperti yang telah dikatakan sebelumnya, mustahil bagi penumpang untuk menghilang di atas kereta WARP dalam keadaan normal."
+    },
+    {
+      "id": 21,
+      "model": "파우스트",
+      "content": "Meskipun cadangan intelijen kami mengenai kereta WARP atau W Corp. sangat luas, meski belum lengkap, kami tidak dapat menemukan pengecualian apa pun untuk aturan di atas."
+    },
+    {
+      "id": 22,
+      "model": "파우스트",
+      "content": "Namun, di dalam cadangan intelijen tersebut, saya telah menemukan bahwa memasukkan variabel yang sebelumnya tidak terlihat ke dalam persamaan memungkinkan perumusan hipotesis baru."
+    },
+    {
+      "id": 24,
+      "model": "파우스트",
+      "content": "Deskripsi yang lebih akurat adalah dengan mengatakan bahwa mereka dilarutkan atau diuapkan."
+    },
+    {
+      "id": 25,
+      "model": "이스마엘",
+      "content": "Dilarutkan..."
+    },
+    {
+      "id": 26,
+      "model": "파우스트",
+      "content": "Tidak peduli tingkat kekerasan yang mungkin dilakukan para penumpang, tidak peduli seberapa parah luka mereka, kereta WARP dapat mengembalikan mereka ke keadaan semula pada awal perjalanan."
+    },
+    {
+      "id": 27,
+      "model": "파우스트",
+      "content": "Meskipun kata \"kekerasan\" adalah istilah yang cukup luas, hal itu memungkinkan melibatkan aktivitas seperti kanibalisme."
+    },
+    {
+      "id": 28,
+      "model": "싱클레어",
+      "content": "Eugh..."
+    },
+    {
+      "id": 29,
+      "model": "파우스트",
+      "content": "Namun, karena waktu kolektif para penumpang itu sendiri sedang dalam moratorium selama durasi pengoperasian kereta, pencernaan bukanlah proses biologis yang seharusnya aktif. Dengan kata lain, bahkan penumpang yang dimakan pun dapat direkonstruksi."
+    },
+    {
+      "id": 30,
+      "model": "오티스",
+      "content": "Hm. Jika mereka hanya dimasukkan ke dalam saluran pencernaan, maka saya rasa mereka bisa membedah penumpang untuk mengambil potongan-potongan yang sudah dikunyah dan menyatukannya kembali melalui benda mirip urat yang menghubungkan setiap individu."
+    },
+    {
+      "id": 31,
+      "model": "파우스트",
+      "content": "Namun, hal tersebut tidak berlaku bagi \"<ruby=Kantung Darah>Bloodbag</ruby>\". <ruby=Kantung Darah>Bloodbag</ruby>, sesuai sifatnya, terobsesi dengan darah; keberadaan mereka bergantung pada menyuplai diri mereka sendiri dengan darah para korbannya."
+    },
+    {
+      "id": 32,
+      "model": "파우스트",
+      "content": "Dan dikatakan bahwa mereka harus mengonsumsi sejumlah kecil darah untuk mempertahankan wujud mereka."
+    },
+    {
+      "id": 33,
+      "model": "그레고르",
+      "content": "Tunggu, apa? Bukankah kamu baru saja bilang kalau pencernaan itu tidak ada di sini?"
+    },
+    {
+      "id": 34,
+      "model": "파우스트",
+      "content": "Jika saya melanjutkan deduksi saya... mungkin \"konsumsi darah,\" bagi <ruby=Iblis Darah>Bloodfiends</ruby> dan <ruby=Kantung Darah>Bloodbag</ruby>, adalah proses yang secara fundamental berbeda dari \"konsumsi nutrisi\" kita untuk energi."
+    },
+    {
+      "id": 35,
+      "model": "파우스트",
+      "content": "Bagi mereka, darah adalah puncak kenikmatan, sebuah konsekuensi dari sesuatu yang membentuk diri, termasuk namun tidak terbatas pada: emosi, ambisi, kekayaan, tujuan eksistensi... Maka, pastilah mereka dapat mengeluarkan darah sesuka hati, yang merupakan proses terisolasi dari proses biologis lainnya seperti pencernaan."
+    },
+    {
+      "id": 36,
+      "model": "히스클리프",
+      "content": "A... apa. Dahlah ga paham gua."
+    },
+    {
+      "id": 37,
+      "model": "이상",
+      "content": "... Anda berada dalam moratorium waktu pada saat ini, Heathcliff; namun emosi anda masih tetap ada, bukan? Kemarahan, kesedihan, dan kegembiraan... hal-hal itu terus memercik di dalam diri anda."
+    },
+    {
+      "id": 38,
+      "model": "히스클리프",
+      "content": "Hah? Yah, gue rasa emang gitu."
+    },
+    {
+      "id": 39,
+      "model": "이상",
+      "content": "Meskipun kami tidak dapat memastikan apakah mereka berada dalam kondisi perubahan, atau apakah mereka tetap terjerat dalam roda penciptaan dan kehancuran, dapat dikatakan bahwa emosi, setelah berlalu, tidaklah ada dalam keberlanjutan."
+    },
+    {
+      "id": 40,
+      "model": "이상",
+      "content": "Keinginan para penumpang untuk hidup, nilai dari keberadaan di mana mereka berkembang—tidakkah itu semua perlahan-lahan menyusut menjadi ketiadaan bahkan di tengah waktu yang \"berhenti\"? Nona Faust berusaha mengilustrasikan kemiripan antara bagaimana emosi bagi diri kita sendiri dan bagaimana darah bagi para <ruby=Iblis Darah>Bloodfiends</ruby>."
+    },
+    {
+      "id": 41,
+      "model": "그레고르",
+      "content": "Paham... jadi itu sebabnya dia bilang darah mereka \"diuapkan,\" ya?"
+    },
+    {
+      "id": 42,
+      "model": "이스마엘",
+      "content": "Jika itu masalahnya, maka darah yang seharusnya menyatukan potongan-potongan daging ini juga akan menguap, yang berarti mereka tidak bisa disatukan kembali."
+    },
+    {
+      "id": 43,
+      "model": "뫼르소",
+      "content": "Tidak ada ketidakkonsistenan dalam logika tersebut."
+    },
+    {
+      "id": 44,
+      "content": "... Semua orang terdiam sejenak."
+    },
+    {
+      "id": 45,
+      "content": "Itu adalah informasi yang terlalu banyak untuk diproses sekaligus. Kami bahkan tidak tahu harus menganggap mereka apa."
+    },
+    {
+      "id": 46,
+      "model": "이상",
+      "content": "Saya ingin mengajukan beberapa pertanyaan, jika anda mengizinkan."
+    },
+    {
+      "id": 47,
+      "content": "Yi Sang adalah yang pertama memecah keheningan."
+    },
+    {
+      "id": 48,
+      "model": "이상",
+      "content": "Bisakah dikatakan bahwa <ruby=Kantung Darah>Bloodbag</ruby> adalah ciptaan langsung dari para <ruby=Iblis Darah>Bloodfiends</ruby>? Jika demikian, maka dengan metode apa mereka—"
+    },
+    {
+      "id": 49,
+      "model": "파우스트",
+      "content": "... Informasi tersebut tidak dapat diakses saat ini."
+    },
+    {
+      "id": 50,
+      "content": "Faust menjawab, menghindari tatapan Yi Sang."
+    },
+    {
+      "id": 51,
+      "content": "... Tidak ada yang bisa kulakukan mengenai hal ini. Para <ruby=Pendosa>Sinner</ruby> hanya akan semakin tertekan jika mereka tahu apa yang terjadi dengan Faust, dan itu adalah sesuatu yang ingin kami hindari."
+    },
+    {
+      "id": 52,
+      "model": "이상",
+      "content": "Tidak dapat diakses... Ah, benar juga. Sekarang Saya ingat apa yang pernah anda katakan di masa lalu."
+    },
+    {
+      "id": 53,
+      "model": "파우스트",
+      "content": "Namun, ini hanyalah spekulasi... Saya berasumsi bahwa bentuk kontak fisik langsung diperlukan untuk mengubah seseorang menjadi <ruby=Kantung Darah>Bloodbag</ruby>. Jika tidak demikian, maka kita, yang kemungkinan merupakan ancaman terbesar bagi entitas ini, akan menjadi yang pertama kali diubah."
+    },
+    {
+      "id": 54,
+      "model": "이상",
+      "content": "Mm, benar."
+    },
+    {
+      "id": 55,
+      "model": "돈키호테",
+      "content": "Kalau begitu! Penjahat <ruby=Iblis Darah>Bloodfiend</ruby> itu pasti bersembunyi di suatu tempat di dalam kereta ini!"
+    },
+    {
+      "id": 56,
+      "model": "파우스트",
+      "content": "Tepat. Jika kita memercayai kata-kata Fixer tadi, maka ada kemungkinan besar gerombolan itu bergerak maju ke arah ini dari bagian belakang kereta..."
+    },
+    {
+      "id": 57,
+      "model": "파우스트",
+      "content": "Dengan kata lain, terus menyusuri gerbong kereta akan membawa kita langsung ke hadapan <ruby=Iblis Darah>Bloodfiend</ruby> tersebut."
+    },
+    {
+      "id": 58,
+      "model": "돈키호테",
+      "content": "Baiklah! Aku tidak akan menyia-nyiakan kesempatan ini untuk memberikan ketenangan bagi jiwa-jiwa para penumpang tak berdosa yang telah gugur di tangan sang penjahat!"
+    },
+    {
+      "id": 59,
+      "model": "파우스트",
+      "content": "... Dante."
+    },
+    {
+      "id": 60,
+      "content": "Tampak bahwa Don Quixote kini telah bersemangat kembali, sementara para <ruby=Pendosa>Sinner</ruby> lainnya juga tampak cukup puas karena sekarang kami memiliki pandangan yang lebih jelas tentang tujuan kami. Faust, yang berdiri di tengah-tengah mereka, mengangguk ke arahku."
+    },
+    {
+      "id": 61,
+      "model": "단테",
+      "content": "<... Baiklah, kalau begitu. Mari kita pergi.>"
+    },
+    {
+      "id": 62,
+      "content": "Kami melakukan yang terbaik dari apa yang tersedia bagi kami saat ini."
+    },
+    {
+      "id": 63,
+      "content": "Mari bergerak maju... untuk saat ini."
+    }
+  ]
+}

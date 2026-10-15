@@ -1,0 +1,727 @@
+{
+    "dataList": [
+        {
+            "id": 9008301,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Vomit Froth",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 2 Sinking"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 2 Sinking"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008302,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Claw",
+                    "desc": "Jika target memiliki 5+ <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</link></u></color>, beri +20% damage.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Pulihkan sebanyak 30% dari damage yang diberikan"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Pulihkan sebanyak 30% dari damage yang diberikan"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008303,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Water Jet",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +5 Sinking Count"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008304,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Mucous Skin",
+                    "desc": "Jika attacked while Shielded, beri 1 Sinking pada penyerang",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008401,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hook Slice",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 3 Bleed"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008402,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Consecutive Hook Slice",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +2 Bleed Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 5 Bleed"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008403,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Battle Cry",
+                    "desc": "[WhenUse] Peroleh 2 Poise giliran berikutnya.\nAkhir Giliran: Pulihkan HP setara dengan Perisai HP.",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008404,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tear the Gap",
+                    "desc": "efek Coin aktifkan ketika unit ini memiliki <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</link></u></color>.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail] Beri +30% damage"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail] Beri +30% damage"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008501,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hook Snag",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri +2 Bleed Count"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008502,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hook Punch",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Bleed"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +3 Bleed Count"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008503,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Battle Cry",
+                    "desc": "[WhenUse] Peroleh 2 Poise giliran berikutnya.\nAkhir Giliran: Pulihkan HP setara dengan Perisai HP.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008504,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tear the Gap",
+                    "desc": "efek Coin aktifkan ketika unit ini memiliki <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</link></u></color>.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail] Beri +30% damage"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttackTail] Beri +30% damage"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008601,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Tear the Flesh",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +2 Bleed Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 3 Bleed"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008602,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Going In",
+                    "desc": "",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 4 Bleed dan +3 Bleed Count"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008603,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Faster",
+                    "desc": "[EndSkill] Peroleh 1 Damage Up giliran berikutnya",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Peroleh 4 Poise giliran berikutnya"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Fragile giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008604,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Battle Cry",
+                    "desc": "[WhenUse] Peroleh 2 Poise giliran berikutnya.\nAkhir Giliran: Pulihkan HP setara dengan Perisai HP.",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008605,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Looting",
+                    "desc": "[WinDuel] Copies target's 1~3 Skill Coin Power dan Coin Count dan menggunakan them as its own",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008701,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hit Me Harder",
+                    "desc": "[WhenUse] Jika target memiliki <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, peroleh 1 Protection",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Bind giliran berikutnya"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Bleed"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008702,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Hit Me Right here",
+                    "desc": "[WhenUse] Jika target memiliki <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, peroleh 1 Protection",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 1 Paralyze giliran berikutnya"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Bleed"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Damage Down giliran berikutnya"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Bleed"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008703,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Even Harder",
+                    "desc": "[EndSkill] Peroleh 1 Damage Up giliran berikutnya",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Peroleh 2 Protection"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Peroleh 2 Protection giliran berikutnya"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Peroleh 4 Poise giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008704,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Bertahan",
+                    "desc": "[WhenUse] Peroleh 2 Poise giliran berikutnya.\nAkhir Giliran: Pulihkan HP setara dengan Perisai HP.",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9008705,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Looting",
+                    "desc": "[WinDuel] Copies target's 1~3 Skill Coin Power dan Coin Count dan menggunakan them as its own",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101101,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Water Jet",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 Sinking"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 Sinking"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101102,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Damp Strike",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Sinking Fragility"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +3 Bleed Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Pulihkan sebanyak 50% dari damage yang diberikan"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101103,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Clutch of the Waves",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +2 Sinking Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 2 Bleed"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +2 Sinking Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 2 Bleed"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101104,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Shrieking Waves",
+                    "desc": "Damage +20% per 5 Sinking Potency pada target\nJika SP target di bawah 0, beri +10% damage",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Sinking Deluge"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101105,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Mucous Skin",
+                    "desc": "Jika attacked while Shielded, beri 1 Sinking pada penyerang",
+                    "coinlist": [
+                        {}
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101201,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "There, There They Are",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 Bleed"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101202,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "We've Got Company, Boys",
+                    "desc": "",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +2 Bleed Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 2 Bleed"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri +1 Bleed Count"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 4 Bleed"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101203,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Battle Command",
+                    "desc": "[WhenUse] Peroleh 5 Poise giliran ini",
+                    "coinlist": [
+                        {},
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 2 Protection, 1 Attack Power Up untuk semua other kawan giliran berikutnya"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Weakness Spotted! Fire!",
+                    "desc": "Jika target memiliki 5+ <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, Clash Power +2",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 4 Bleed"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttackHead] Beri 4 Bleed"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 Bleed Count\nBeri bonus damage setara dengan <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> pada target"
+                                },
+                                {
+                                    "desc": "Habiskan 1 Ammo"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101205,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Menghindar",
+                    "desc": "[OnSucceedEvade] Peroleh 5 Poise giliran berikutnya.\n[OnSucceedEvade] Beri 2 Poise ke semua kawan giliran berikutnya.",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 9101206,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Looting",
+                    "desc": "[WinDuel] Copies target's Skill 3 Coin Power dan Coin Count dan menggunakan them as its own",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": ""
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

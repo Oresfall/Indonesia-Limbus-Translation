@@ -1,0 +1,67 @@
+{
+  "dataList": [
+    {
+      "id": 40000501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Crimson Cleave",
+          "desc": "[WhenUse] Base Power +1 untuk setiap 3 [Burst] pada target (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [DefenseDown]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Peroleh +2 Count [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttackHead] Beri +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [DefenseDown]"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Peroleh +2 Count [Breath]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tidur Terpaku, Riak Tanpa Batas",
+          "desc": "Bisa draw any attack ke unit ini tidak peduli dengan Speed\n[WhenUse] Base Power +1 untuk setiap 3 [Breath] (maks 3)\n[WhenUse] Base Power +3 untuk setiap tipe efek negatif pada target (maks 9)\n[WhenUse] Peroleh 5 [Agility] giliran berikutnya (sekali per giliran)\n[WhenUse] Peroleh 10 [Breath] dan +2 Count [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 7 [Laceration] dan +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Paralysis] giliran berikutnya"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri +300% damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

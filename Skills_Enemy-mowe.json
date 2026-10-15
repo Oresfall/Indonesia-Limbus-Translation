@@ -1,0 +1,909 @@
+{
+  "dataList": [
+    {
+      "id": 9014501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Coagulated Arm",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hardblood Jag",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Collecting Blood",
+          "desc": "Jika target memiliki 10+ [Laceration], beri +20% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Serap hingga 10 [Laceration] Potency dari target dan pulihkan ([Laceration] Potency absorbed x 2)% HP (efek ini tidak dapat lower target's [Laceration] Potency under 1)",
+                  "summary": "[OnSucceedAttack] Serap [Laceration] pada target to pulihkan"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Counter",
+          "desc": "[WhenUse] Base Power +1 untuk setiap 3 [Laceration] Count pada diri sendiri (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Coagulated Arm",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hardblood Slice",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Collecting Blood",
+          "desc": "Jika target memiliki 10+ [Laceration], beri +20% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Serap hingga 10 [Laceration] Potency dari target dan pulihkan ([Laceration] Potency absorbed x 2)% HP (efek ini tidak dapat lower target's [Laceration] Potency under 1)",
+                  "summary": "[OnSucceedAttack] Serap [Laceration] pada target to pulihkan"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Counter",
+          "desc": "[WhenUse] Base Power +1 untuk setiap 3 [Laceration] Count pada diri sendiri (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Coagulated Arm",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hardblood Strike",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Collecting Blood",
+          "desc": "Jika target memiliki 10+ [Laceration], beri +20% damage",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Serap hingga 10 [Laceration] Potency dari target dan pulihkan ([Laceration] Potency absorbed x 2)% HP (efek ini tidak dapat lower target's [Laceration] Potency under 1)",
+                  "summary": "[OnSucceedAttack] Serap [Laceration] pada target to pulihkan"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014704,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Counter",
+          "desc": "[WhenUse] Base Power +1 untuk setiap 3 [Laceration] Count pada diri sendiri (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Rip",
+          "desc": "[WhenUse] Peroleh +2 [Charge] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 [Charge] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Stab Down",
+          "desc": "[WhenUse] Peroleh +5 [Charge] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 [Charge] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 [Charge] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hardblood Weapon",
+          "desc": "[WhenUse] Konsumsi semua [Charge] Count pada diri sendiri dan konsumsi 2(15 - [Charge] Count yang dikonsumsi)% HP untuk peroleh Coin Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 [DefenseDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Serap hingga 10 [Laceration] Potency dari target dan pulihkan ([Laceration] Potency absorbed x 2)% HP (efek ini tidak dapat lower target's [Laceration] Potency under 1)",
+                  "summary": "[OnSucceedAttack] Serap [Laceration] pada target to pulihkan"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guard",
+          "desc": "[WhenUse] Base Power +1 untuk setiap 3 [Laceration] Count pada diri sendiri (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Thrust",
+          "desc": "[WhenUse] Peroleh +2 [Charge] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 [Charge] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Cleave",
+          "desc": "[WhenUse] Peroleh +5 [Charge] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 [Charge] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 [Charge] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hardblood Weapon",
+          "desc": "[WhenUse] Konsumsi semua [Charge] Count pada diri sendiri dan konsumsi 2(15 - [Charge] Count yang dikonsumsi)% HP untuk peroleh Coin Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Vulnerable]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Serap hingga 10 [Laceration] Potency dari target dan pulihkan ([Laceration] Potency absorbed x 2)% HP (efek ini tidak dapat lower target's [Laceration] Potency under 1)",
+                  "summary": "[OnSucceedAttack] Serap [Laceration] pada target to pulihkan"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9014904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Menghindar",
+          "desc": "[WhenUse] Base Power +1 untuk setiap 3 [Laceration] Count pada diri sendiri (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015001,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Spear Swing",
+          "desc": "[WhenUse] Peroleh +2 [Charge] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 [Charge] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015002,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tear Up Wound",
+          "desc": "[WhenUse] Peroleh +5 [Charge] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 [Charge] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +2 [Charge] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015003,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hardblood Weapon",
+          "desc": "[WhenUse] Konsumsi semua [Charge] Count pada diri sendiri dan konsumsi 2(15 - [Charge] Count yang dikonsumsi)% HP untuk peroleh Coin Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [AttackDown]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Serap hingga 10 [Laceration] Potency dari target dan pulihkan ([Laceration] Potency absorbed x 2)% HP (efek ini tidak dapat lower target's [Laceration] Potency under 1)",
+                  "summary": "[OnSucceedAttack] Serap [Laceration] pada target to pulihkan"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015004,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guard",
+          "desc": "[WhenUse] Base Power +1 untuk setiap 3 [Laceration] Count pada diri sendiri (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Aktifkan Prosthesis",
+          "desc": "[WhenUse] Pada 10+ [Charge] Count, konsumsi 5 [Charge] Count untuk peroleh 3 [AttackUp]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Harpoon Mark",
+          "desc": "[StartBattle] Pada 5- [Charge] Count, peroleh 5 [Charge] Count, 3 [Laceration] Count, dan 1 [Vulnerable]\n[WhenUse] Pada 10+ [Charge] Count, konsumsi 5 [Charge] Count untuk peroleh 3 [AttackUp]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Binding] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hardblood Harpoon",
+          "desc": "[WhenUse] Konsumsi 10% HP pada diri sendiri untuk peroleh +10 [Charge] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count."
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Paralysis]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9015104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Counter",
+          "desc": "[WhenUse] Base Power +1 untuk setiap 3 [Laceration] Count pada diri sendiri (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Aktifkan Prosthesis",
+          "desc": "[WhenUse] Pada 10+ [Charge] Count, konsumsi 3 [Charge] Count untuk peroleh Coin Power +1\n[WhenUse] Pada 15+ [Charge] Count, konsumsi 3 tambahan [Charge] Count untuk beri +20% damage\n[WhenUse] Pada 5- [Charge] Count, kehilangan 10% HP dan peroleh +5 [Charge] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Binding] giliran berikutnya"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hardblood Reflux",
+          "desc": "[WhenUse] Pada 10+ [Charge] Count, konsumsi 3 [Charge] Count untuk peroleh Coin Power +1\n[WhenUse] Pada 15+ [Charge] Count, konsumsi 3 tambahan [Charge] Count untuk beri +20% damage\n[WhenUse] Pada 5- [Charge] Count, kehilangan 10% HP dan peroleh +5 [Charge] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Paralysis]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bioenergy Conversion Charge",
+          "desc": "[WhenUse] Konsumsi 10% HP pada diri sendiri untuk peroleh +15 [Charge] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [AttackDown]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Guard",
+          "desc": "[WhenUse] Base Power +1 untuk setiap 3 [Laceration] Count pada diri sendiri (maks 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Hardblood Transfusion",
+          "desc": "[WhenUse] Pada 10+ [Charge] Count, konsumsi 3 [Charge] Count untuk peroleh Coin Power +1\n[WhenUse] Pada 15+ [Charge] Count, konsumsi 3 tambahan [Charge] Count untuk beri +20% damage\n[WhenUse] Pada 5- [Charge] Count, kehilangan 10% HP dan peroleh +5 [Charge] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9101806,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bioenergy Conversion Recharge",
+          "desc": "[WhenUse] Konsumsi 10% HP pada diri sendiri untuk peroleh +15 [Charge] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 1 [Vulnerable]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri 6 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [AttackDown]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

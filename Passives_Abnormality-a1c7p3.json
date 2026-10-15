@@ -1,0 +1,256 @@
+{
+    "dataList": [
+        {
+            "id": 837804,
+            "name": "Starved dan Withered",
+            "desc": "Peroleh [StarvingPriestTwo] saat dimulainya Pertempuran"
+        },
+        {
+            "id": 837801,
+            "name": "Unctio Extrema",
+            "desc": "Akhir Giliran: aktifkan [Laceration] pada diri sendiri. (maks 50; konsumsi 1 [Laceration] Count pada diri sendiri) Pulihkan 50 HP to \"Inti\" dan Bagian of an allied Bloodfiend dengan HP paling sedikit (tidak mengaktifkan jika semua kawan are at full HP)"
+        },
+        {
+            "id": 837802,
+            "name": "Sacramentum Paenitentiae",
+            "desc": "Akhir Giliran: kehilangan 5 SP dan pulihkan 10 SP untuk an allied Bloodfiend dengan the least SP (tidak mengaktifkan jika there aren't any kawan dengan SP)"
+        },
+        {
+            "id": 837803,
+            "name": "Ailing Heart",
+            "desc": "Gains new patterns berdasarkan [WornHeart] value pada diri sendiri\nAkhir Giliran: peroleh 1 [WornHeart]"
+        },
+        {
+            "id": 837805,
+            "name": "Bloodied Hand",
+            "desc": "- Pada 10+ [BloodyHand], ubah them to [BloodyHand_2nd].\n- Pada 20+ [BloodyHand_2nd], ubah them to [BloodyHand_3rd]."
+        },
+        {
+            "id": 837901,
+            "name": "The Once-loved Ones",
+            "desc": "Awal Giliran: jika semua musuh have [AffectionTeddy], gunakan Skill kuat"
+        },
+        {
+            "id": 837902,
+            "name": "Grimy Iron Stake",
+            "desc": "Ketika hitting musuh menggunakan a single-Coin Skill, beri 3 [Laceration] Potency. Beri 2 [DefenseDown] hingga Akhir Giliran berikutnya.\nJika target sudah has [Laceration], beri 5 [Laceration] Potency saja"
+        },
+        {
+            "id": 837903,
+            "name": "To Remember",
+            "desc": "Jika unit ini was Stagger karena the Akhir Giliran efek of A Sad Embrace, peroleh 10 [FaintMemory] pada Awal Giliran berikutnya"
+        },
+        {
+            "id": 837904,
+            "name": "To Love",
+            "desc": "Jika saat kurang dari atau setara dengan 30% HP pada Akhir Giliran: daripada memberikan 3 [AffectionTeddy] untuk semua musuh, peroleh 15 [AttackDown] giliran berikutnya (sekali per Pertempuran)"
+        },
+        {
+            "id": 837905,
+            "name": "Please Don't be Sick",
+            "desc": "Base Power -1 untuk setiap 3 tipe dari efek negatif pada target (maks 3)"
+        },
+        {
+            "id": 837301,
+            "name": "Resistansi Dosa",
+            "desc": "Kecuali unit ini kena Stagger atau \"Tubuh\" Rusak, terima 50% kurang [Laceration] damage"
+        },
+        {
+            "id": 837401,
+            "name": "Resistansi Dosa",
+            "desc": "Kecuali unit ini kena Stagger atau \"Tubuh\" Rusak, terima hanya setengah dari Damage Critical."
+        },
+        {
+            "id": 837501,
+            "name": "Carmilla",
+            "desc": "Awal Giliran: pada musuh acak, beri damage tetap setara dengan 5% dari HP mereka."
+        },
+        {
+            "id": 837502,
+            "name": "A Drop of Nourishment",
+            "desc": "Akhir Serangan: Pulihkan \"Inti\" dan Bagian setara dengan 50% of the damage unit ini dealt dengan its Skill Attack\n- Pada 100% HP, peroleh 2 [AttackUp] giliran berikutnya. (2 kali maks)\nBased on the percentage dari HP healed, peroleh efek berikut (cumulative)\n- Pada 1+ Stack: Peroleh 3 Defense Level Up pada setiap Awal Giliran\n- Pada 2+ Stack: Peroleh 3 [AttackUp] pada setiap Awal Giliran\n- Pada 3+ Stack: Peroleh +2 Min & Maks Speed\n- Pada 5+ Stack: Peroleh 3 [Enhancement] pada setiap Awal Giliran"
+        },
+        {
+            "id": 837503,
+            "name": "A Single Strangling Flower",
+            "desc": "Akhir Serangan: Beri 1 [TinyCarmilla]\nJika target memiliki [Laceration], beri 1 tambahan [TinyCarmilla] pada Akhir Serangan"
+        },
+        {
+            "id": 837601,
+            "name": "Spiked Whip",
+            "desc": "Jika target memiliki [Burst] immediately sebelum attack, 20% peluang untuk beri +1 [Burst] Count\nKetika memberikan [ThornNoose], hasilkan a 'Barbed Lasso' Unit.",
+            "summary": "Jika target memiliki [Burst] immediately sebelum attack, 20% peluang untuk beri +1 [Burst] Count"
+        },
+        {
+            "id": 837602,
+            "name": "Bramble Steed",
+            "desc": "Peroleh Speed setara dengan the generated 'Barbed Lasso' Unit di medan tempur"
+        },
+        {
+            "id": 837603,
+            "name": "Interlocking Brambles",
+            "desc": "Pada 40%- HP, peroleh pola baru\nSetiap giliran, beri [Burst] setara dengan setiap musuh's Speed terhadap setiap musuh\nInflict 2 [ThornNoose] saja\nPeroleh 2 [AttackUp] dan [DefenseDown] dengan setiap passing giliran (maks 12)"
+        },
+        {
+            "id": 838006,
+            "name": "In Dreams",
+            "desc": "Awal Pertempuran: peroleh [Dreamy].\nEncounter Start: the sleeping blood drenching the battlefield will surface, increasing [BloodDinner] sebanyak 400."
+        },
+        {
+            "id": 838001,
+            "name": "The Enthralling Tales, the Beating Passion",
+            "desc": "Upon hitting 80%, 60%, dan 40% HP, no longer terima damage dan peroleh pola baru\nSetelah memperoleh pola baru, pulih dari Stagger dan naikkan Speed to 10 giliran berikutnya"
+        },
+        {
+            "id": 838002,
+            "name": "Jika we can be freed dari this excruciating sickness",
+            "desc": "Saat Menyerang, jika target memiliki [Laceration], pulihkan Bagian dan \"Inti\" sebanyak 40% dari damage yang diberikan.\n- This Passive memulihkan +1% lebih HP untuk setiap [Laceration] Potency pada diri sendiri (maks 20%)\n- Untuk Unbreakable Coin: efek ini tidak mengaktifkan on Hit Setelah Kalah Clash.\nSetiap Awal Giliran: pulihkan ([BloodDinner]/10) HP. (maks 50)\nSetiap Awal Giliran: at -15 atau lebih sedikit SP, konsumsi (20 - current SP) [BloodDinner] untuk peroleh SP dan peroleh 2 Clash Power Up\nSaat Bunuh, peroleh 5 [BloodArmor]",
+            "summary": "Saat Menyerang, jika target memiliki [Laceration], pulihkan HP"
+        },
+        {
+            "id": 838003,
+            "name": "Bisa I go on an adventure, too?",
+            "desc": "Akhir Giliran: Min & Maks Speed +1 giliran berikutnya untuk setiap 300 [BloodDinner]"
+        },
+        {
+            "id": 838004,
+            "name": "Bloodfeast",
+            "desc": "Jika unit ini is on field, atau is one of the unit that can appear on this Stage, increase [BloodDinner] value sebanyak jumlah dari [Laceration] damage collectively received sebanyak setiap unit.\nKetika unit ini memasuki pertarungan, the sleeping blood drenching the battlefield will flood the surface."
+        },
+        {
+            "id": 838005,
+            "name": "Hardblood",
+            "desc": "Awal Pertempuran: peroleh 1 [BloodArmor]\n- [BloodArmor] tidak dapat turun di bawah 1\n- Pada 10+ [BloodArmor], ubah them to [BloodArmor_2nd].\n- Pada 20+ [BloodArmor], ubah them to [BloodArmor_3rd].\nPeroleh Min & Maks Speed berdasarkan the Stage dari efek ini (maks 2)\nJika unit ini konsumsi [BloodArmor] dan turun di bawah the di atas thresholds, revert to previous Stages accordingly"
+        },
+        {
+            "id": 838007,
+            "name": "But I have my Father dan my Family whom I tidak dapat abandon",
+            "desc": "Akhir Giliran: Jika Panicked, pulih dari Panik, dan konsumsi 100 [BloodDinner] untuk peroleh 3 [Enhancement]\n- Jika unit ini failed to konsumsi [BloodDinner], peroleh 30 [Laceration], 3 [Enhancement], dan 2 Damage Up"
+        },
+        {
+            "id": 837701,
+            "name": "Barbed Lasso ",
+            "desc": "Ketika unit ini mati, the [ThornNoose] of musuh bound ke unit ini kadaluarsa"
+        },
+        {
+            "id": 839401,
+            "name": "Designated Protection",
+            "desc": "Pada Awal Giliran, beri 2 Defense Level Up ke kawan who lost the most HP percentage antara this Giliran dan last Giliran"
+        },
+        {
+            "id": 840301,
+            "name": "Shattering, Scattering Hardblood",
+            "desc": "Ketika unit ini terbunuh karena musuh attack atau Status efek damage, increase [BloodDinner] sebanyak 30, dan increase E.G.O resource of a acak Affinity sebanyak 2. Tidak aktif jika unit ini killed itself."
+        },
+        {
+            "id": 840302,
+            "name": "This Explosive Insanity!",
+            "desc": "Jika unit ini is still alive sebanyak Akhir Giliran, gunakan the self-detonation Skill giliran berikutnya. Jika unit ini is still alive pada same Akhir Giliran as the giliran unit ini telah menggunakan self-detonation Skill, mati."
+        },
+        {
+            "id": 839001,
+            "name": "Fix \"Inti\" HP menjadi 1",
+            "desc": "\"Inti\" HP tidak turun di bawah 1."
+        },
+        {
+            "id": 839002,
+            "name": "La Manchaland, Abandoned dan Festering",
+            "desc": "Generates Gondolas filled dengan Bloodfiends dan Bloodbags at a set interval. A certain number of Bloodfiends dan Bloodbags may arrive pada field ketika a Gondola is generated."
+        },
+        {
+            "id": 839003,
+            "name": "The Eternal Cycle of Windmills, Wheels, dan Us",
+            "desc": "Tidak dapat be attacked ketika terdapat Gondola di medan tempur.\nDoes not kehilangan HP karena Skill damage. Tidak terima HP damage karena [Combustion], [Laceration], [Vibration], [Burst], atau [Sinking]."
+        },
+        {
+            "id": 839004,
+            "name": "Here we go... another lap.",
+            "desc": "Jika [FerrisWheel] berada pada 0 dan tidak ada unit to be spawned giliran berikutnya pada Akhir Giliran atau selama fase pertarungan, move on to the next phase."
+        },
+        {
+            "id": 839005,
+            "name": "Starved dan Withered",
+            "desc": "Peroleh [StarvingDonqui] saat dimulainya Pertempuran"
+        },
+        {
+            "id": 841001,
+            "name": "Returning Bloodlust",
+            "desc": "- Pada 10+ [RegainedStrength], ubah them to [RegainedStrength_2nd].\n- Pada 20+ [RegainedStrength], ubah them to [RegainedStrength_3rd].\n- Jika unit ini konsumsi [RegainedStrength] dan turun it di bawah the di atas thresholds, revert to previous Stages accordingly"
+        },
+        {
+            "id": 841002,
+            "name": "Don Quixote Hardblood Arts",
+            "desc": "Saat Menyerang, jika target memiliki [Laceration], pulihkan Bagian unit ini & \"Inti\" sebanyak 30% of the HP damage yang diberikan.\nUntuk Unbreakable Coin: efek ini tidak mengaktifkan on Hit setelah Kalah Clash."
+        },
+        {
+            "id": 841003,
+            "name": "An Unfamiliar Banquet",
+            "desc": "Jika unit ini healed lebih dari 15% of its maks HP, atau siphoned musuh's [Laceration], peroleh 3 [Binding] giliran berikutnya. (sekali per giliran)\nJika unit ini killed target dengan Skillnya, peroleh 2 [AttackDown] dan 1 [DefenseDown] giliran berikutnya. (3 kali per giliran)"
+        },
+        {
+            "id": 841004,
+            "name": "Untuk the Family...",
+            "desc": "Akhir Giliran: Jika Panicked, pulih dari Panik pada Awal Giliran berikutnya dan reset SP ke 0.\nKetika pulih dari Panik:\n- Konsumsi 30 [BloodDinner] untuk peroleh 2 [Enhancement] dan 1 [Agility] giliran berikutnya, dan pulihkan 30 SP.\n- Jika unit ini failed to konsumsi [BloodDinner], peroleh 40 [Laceration], immediately terima the damage dari [Laceration], lalu kehilangan 5 [Laceration] Count.\n- Lalu, peroleh 2 [Enhancement] giliran berikutnya dan pulihkan 30 SP"
+        },
+        {
+            "id": 841101,
+            "name": "Broken Fragment of a Futile, Naive Dream",
+            "desc": "Jika unit ini is eliminated, increase [BloodDinner] sebanyak 30\nKetika killed sebanyak a Sinner, hasilkan Memories of the Dreaming Adventure"
+        },
+        {
+            "id": 841102,
+            "name": "A Selfish Wish pada Expense of the Family",
+            "desc": "Ketika killed sebanyak Don Quixote:\n- Don Quixote peroleh 5 [RegainedStrength].\n- Semua Sinner terima 30 Lust damage dan peroleh 8 [Laceration] Potency dan Count."
+        },
+        {
+            "id": 841301,
+            "name": "Memories of the Journeys Masa Lalu",
+            "desc": "Semua Sinner peroleh 5 SP pada setiap Awal Giliran.\nDon Quixote Sinner peroleh a special efek"
+        },
+        {
+            "id": 841302,
+            "name": "Reminders of Determination",
+            "desc": "Ketika killed sebanyak Don Quixote: Don Quixote peroleh 3 [Reduction] giliran ini dan giliran berikutnya."
+        },
+        {
+            "id": 841201,
+            "name": "Hardblood Wedge Gaol",
+            "desc": "Ketika unit ini is eliminated, kawan who was impaled sebanyak unit ini will kehilangan the [Penetration] status giliran berikutnya."
+        },
+        {
+            "id": 841202,
+            "name": "Shattering, Scattering Hardblood",
+            "desc": "Ketika unit ini is eliminated, peroleh 3 E.G.O resource paling sedikit."
+        },
+        {
+            "id": 841203,
+            "name": "Internal Blood Crystallization",
+            "desc": "Jika unit ini is not eliminated sebanyak the giliran setelah its generation, unit ini akan eliminated pada Akhir Giliran, activating efek berikut.\nThe kawan who was impaled sebanyak unit ini menerima damage tetap setara dengan 30% of their maks HP, dan peroleh 10 [Laceration] Potency dan +5 [Laceration] Count."
+        },
+        {
+            "id": 841204,
+            "name": "Total Blood Coagulation",
+            "desc": "Ketika killed sebanyak true Don Quixote, aktifkan the on-kematian efek, dan kawan impaled sebanyak unit ini akan killed."
+        },
+        {
+            "id": 841103,
+            "name": "I never should've dreamed this irresponsible dream",
+            "desc": "Jika unit ini memiliki [Precarious], Memories of the Dreaming Adventure will not be generated on kematian"
+        },
+        {
+            "id": 839006,
+            "name": "The Golden Bough's Forced Arbitration",
+            "desc": "Awal Pertempuran: peroleh [ConfinementOfGoldenBranch]."
+        },
+        {
+            "id": 841005,
+            "name": "Please, try again",
+            "desc": "Ketika memperoleh pola baru, halve the Potency of [Combustion], [Laceration], [Vibration], [Burst], dan [Sinking] pada unit ini's Parts."
+        },
+        {
+            "id": 841104,
+            "name": "The adventure ends here.",
+            "desc": "Don Quixote peroleh Perisai pada setiap Awal Giliran."
+        }
+    ]
+}

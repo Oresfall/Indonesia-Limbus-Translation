@@ -1,0 +1,206 @@
+{
+  "dataList": [
+    {
+      "id": "ScratchesHurt",
+      "name": "Luka Avulsi",
+      "desc": "- Stack Maks: 3\n- Mulai Giliran: Peroleh 2 Bleed untuk setiap Stack\n• Pada Stack maks, peroleh +1 Bleed Count\n- Akhir Giliran: Peroleh Bind setara dengan Stack giliran berikutnya\n• Pada Stack Maks, peroleh 1 Attack Power Down dan juga pada giliran berikutnya\n- Akhir Giliran: Jika unit ini tidak menerima Serangan Critical pada giliran ini, kehilangan 1 Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TiedRope",
+      "name": "\"Terikat\"",
+      "desc": "- Stack Dasar: 3\n- Tetapkan Speed unit ini menjadi 1\n- Tetapkan Coin Base Skill unit ini menjadi 0\n- Akhir Giliran: Kehilangan 1 Stack\n- Jika buff \"Pengaturan Transportasi Tahanan\" pada pemberi efek kadaluarsa, efek ini juga kadaluarsa",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Lihat bagaimana orang hina itu memburu orang hina lainnya untuk diserahkan ke penguasa yang mengekang mereka."
+    },
+    {
+      "id": "TiedWithRope",
+      "name": "Pengaturan Transportasi Tahanan",
+      "desc": "- Stack Dasar: 1\n- Tetapkan Speed unit ini menjadi 1\n- Jika efek \"Terikat\" unit ini yang diberikan pada target kadaluarsa, atau jika unit ini dikalahkan atau terkena Stagger, kehilangan efek ini\n- Jika target yang diberikan \"Terikat\" oleh unit ini dikalahkan giliran ini, kehilangan efek \"Pengaturan Transportasi Tahanan\"",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RegretSCorp",
+      "name": "Memori Menyakitkan",
+      "desc": "- Stack Maks: 1\n- Akhir Giliran: Peroleh 1 Bind giliran berikutnya\n- Akhir Giliran: Peroleh (jumlah giliran saat ini / 4) Clash Power Up (dibulatkan ke bawah, maks 3)\n- Kadaluarsa pada Akhir Giliran",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TakePicture",
+      "name": "Pengumpulan Intelijen",
+      "desc": "- Ketika menggunakan Skill dengan rank yang identik dengan Skill yang telah difoto, Clash Power -5\n(※ Skill Defense dan E.G.O dihitung terpisah)\n- Kadaluarsa pada Akhir Giliran",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "LensmanNail",
+      "name": "Paku Pengikat",
+      "desc": "- Stack Maks: 10\n- Mulai Giliran: Peroleh 1 Level Offense Down untuk setiap 2 Bind (maks 3)\n- Mulai Giliran: Peroleh Bleed setara dengan Stack\n- Pada Tremor Burst, peroleh Bleed Count setara dengan Stack (sekali per giliran)\n- Akhir Giliran: Peroleh Bind setara dengan Stack giliran berikutnya (maks 6), lalu kehilangan 1 Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PhotoTransition",
+      "name": "Transisi Memori",
+      "desc": "- Stack Dasar: 3\n- Akhir Giliran: Kehilangan 1 Stack. Jika unit ini memiliki 0 Stack dari efek ini pada Mulai Giliran, ubah unit dan efek tertentu\n(ketika terkena Stagger, pulih dari Stagger)\n\n- Setelah efek di atas diaktifkan, reset Stack Transisi Memory menjadi Stack Dasar",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AengduNewArm",
+      "name": "Tangan Dokkaebi",
+      "desc": "- Base Level Offense +4\n- Base Defense Level +4\n- Terima -20% damage\n- Saat Menggunakan Skill, peroleh 1 Haste giliran berikutnya (2 kali per giliran)\n- Akhir Pertempuran: Peroleh +2 Poise Count",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"... Tangan Dokkaebi? Apakah anda, kebetulan, sedang membicarakan tentang Dokkaebi yang sering muncul di dongeng zaman dahulu? Hmm...\"\n\"Aku nyaris tidak mempercayainya, namun setelah semua yang kusaksikan selama menumpang atas kemurahan hati Limbus Company, keberadaan Dokkaebi dari cerita rakyat bisa jadi masuk akal.\"\n\"Kalau dipikir-pikir... Aku memang ingat pernah mendengar kelompok bernama 'Unit Dokkaebi'...\""
+    },
+    {
+      "id": "WindBlade",
+      "name": "Mook Workshop - Ye [銳] Tipe II Bladedraw / Thrust Force: Dokkaebi Fire",
+      "desc": "- Stack Maks: 20\n- Beri +1% Slash damage untuk setiap Stack (maks 10%)\n- Skill Defense kehilangan 1 Clash Power untuk setiap 2 Stack (maks 5)\n- Akhir Giliran: Peroleh 1 Haste giliran berikutnya untuk setiap 5 Stack (maks 3)",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Hm? Kau suka model yang itu? Ooh, anak baru kita ternyata pinter milih barang bagus ya! Permisi~! Bisa tolong ambilin model yang ini? Oh, ayolah, santai aja! Aku tahu aturannya kok—'Kalau rusak, wajib beli.' Makasih ya! Hehe... Tuh, lihat kan? Kubilang juga apa, aku tuh pelanggan tetap di sini~ Oke, jadi pedang sama sarungnya itu satu set, jadi pegang dua-duanya terus rasain bobotnya. Gimana? Nggak seberat kelihatannya, kan?\"\n\"Oho...\"\n\"Jadi, di dalam sarung pedang itu ada semacam partikel? Bubuk? Pokoknya sesuatu yang udah dipatenkan sama Mook Workshop! Setiap kali kamu masukin dan cabut pedangnya, untuk sesaat, bilahnya bakal jadi jauh lebih tajam dan lebih ringan! Dan model yang lagi kamu pegang itu kebetulan fokusnya di <i>sharpness</i>! Jadi kayak, *Ding!* dan voila, senjata kamu langsung dapet buff yang oke banget!\"\n\"Kelihatannya ini salah satu model dari seri Ye [銳]—omong-omong, itu lini klasiknya Mook Workshop. Coba lihat finishing-nya di sebelah sini, ini... Lah, kok bisa?! Hei, ini kan model Ye [銳] 'Tipe II' yang udah nggak diproduksi lagi! Asal kamu tahu ya, barang kayak gini bener-bener susah dicari—beruntung banget kita bisa nemu satu di sini!\"\n\"Kalau barang ini selangka itu, Kak Ezra, mungkin mending buat Kakak aja...\"\n\"Hnngh... Nggak usah, nggak apa-apa kok... Lagian, aku bisa lihat kalau pedang ini bener-bener pas banget buat kamu! Dan ini bakal cocok banget sama booster yang ada di lengan prostetik barumu. Emang butuh penyesuaian sih, tapi kamu bakal jadi petarung yang hebat banget kalau udah biasa! Pokoknya, anggap aja ini hadiah dariku—kamu resmi jadi bagian dari kita sekarang. Resmi jadi anak baru kita! Nggak ada lagi tuh ID sementara.\"\n\"Kalau begitu... Aku terima ya, makasih banyak.\"\n\"Omong-omong... Ingat kan bagian 'lini klasik' tadi? Barang ini awet banget sih, tapi <i>ada</i> bagian-bagian sensitif yang harus kamu jagain biar nggak rusak—ah, sudahlah, biarin rusak aja kalau emang keadaannya kepepet. Cuma...\"\n\"Cuma, jangan mati ya.\"\n\"... Aku akan selalu ingat pesanmu.\""
+    },
+    {
+      "id": "Collage_LowMorale",
+      "name": "Memori Tercampur",
+      "desc": "- Mulai Giliran: Peroleh 1~3 Level Offense Up dan 1~3 Defense Level Down",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Collage_Panic",
+      "name": "Memori Tercampur",
+      "desc": "- Mulai Giliran: Peroleh 1~5 Level Offense Up dan 1~5 Defense Level Down",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Lensman_LowMorale",
+      "name": "Obsesi Intelijen",
+      "desc": "- Di dalam Clash terhadap target yang memiliki Pengumpulan Intelijen, Base Power +1 dan beri +10% damage\n- Mulai Giliran: Peroleh 1 Fragile",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Lensman_Panic",
+      "name": "Obsesi Intelijen",
+      "desc": "- Di dalam Clash terhadap target yang memiliki Pengumpulan Intelijen, Base Power +1 dan beri +20% damage\n- Mulai Giliran: Peroleh 2 Fragile",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Aengdu_Lowmorale",
+      "name": "Kebencian",
+      "desc": "- Mulai Giliran: Peroleh 1 Attack Power Up dan 1 Defense Power Down\n- Akhir Giliran: Peroleh 2 Haste giliran berikutnya",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Aengdu_Panic",
+      "name": "Kebencian",
+      "desc": "- Mulai Giliran: Peroleh 2 Attack Power Up dan 2 Defense Power Down\n- Akhir Giliran: Peroleh 2 Haste giliran berikutnya",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BrandedKimSatgat",
+      "name": "Cap - No [奴]",
+      "desc": "- Base Level Offense -??\n- Base Defense Level -??",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DimensionalBagEzraETwo",
+      "name": "Tas Dimensional - YuRia Atelier",
+      "desc": "Mengambil senjata Workshop berikutnya dari Tas Dimensional\n- Senjata Workshop saat ini: Kapak YuRia Atelier\n- Senjata Workshop berikutnya: Sarung Tangan Allas Workshop",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RestingKimSatgat_LowMorale",
+      "name": "Penyesalan Mendalam",
+      "desc": "- Moral Rendah\n- Mulai Giliran: Peroleh 2 Damage Down dan pulihkan 40 HP",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RestingKimSatgat_Panic",
+      "name": "Penyesalan Mendalam",
+      "desc": "- Panik\n- Mulai Giliran: Peroleh 3 Damage Down dan pulihkan 60 HP",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ChoiSwordsmanship",
+      "name": "Seni Pedang Tanah Air [Sal]",
+      "desc": "- Min Stack 1; Stack Maks 9\n- Saat Menggunakan Skill, pada Stack Min atau Maks, ubah semua Coin yang digunakan unit ini menjadi <color=#ff6000><mark color=#ff000040><b><u>Unbreakable Coin</color></mark></b></u>\n- <color=#ff6000><mark color=#ff000040><b><u>Skill Base Power dan Coin Power berubah berdasarkan Stack</color></mark></b></u>\n· 1 ~ 2 Stack: Base Power -6, Coin Power +4\n· 3 ~ 4 Stack: Base Power -3, Coin Power +2\n· 5 Stack: Tidak ada efek\n· 6 ~ 7 Stack: Base Power +4, Coin Power -2\n· 8 ~ 9: Base Power +8, Coin Power -3",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ChoiSwordsmanshipOne",
+      "name": "Seni Bertarung Tanah Air - Beruang",
+      "desc": "Menggunakan pola yang terfokus pada Skill <color=#ff6000><mark color=#ff000040><b><u>single-coin</color></mark></b></u>\n\nIm Gyeong-eop memperoleh keuntungan pada <color=#ff6000><mark color=#ff000040><b><u>lebih banyak</color></mark></b></u> Stack Seni Pedang Tanah Air [Sal]",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Pegunungan di Distrik 19 S Corp. adalah rumah bagi segala jenis binatang buas. Di antaranya, beruang, secara khusus, memiliki kekuatan dan tenaga yang mirip dengan bongkahan batu yang jatuh dari tebing saat tanah longsor. Memberi kesempatan bagi serangan makhluk itu adalah tindakan yang keliru—seseorang harus bertujuan untuk menebasnya dengan tebasan pertama pedang."
+    },
+    {
+      "id": "ChoiSwordsmanshipMany",
+      "name": "Seni Bertarung Tanah Air - Harimau",
+      "desc": "Menggunakan pola yang terfokus pada Skill <color=#ff6000><mark color=#ff000040><b><u>multi-coin</color></mark></b></u>\n\nIm Gyeong-eop memperoleh keuntungan pada <color=#ff6000><mark color=#ff000040><b><u>lebih sedikit</color></mark></b></u> Stack Seni Pedang Tanah Air [Sal]",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Harimau itu licik dan ganas. Seseorang tidak bisa berharap dapat menembus daging harimau hanya dengan satu tebasan. Hanya rentetan tebasan berantai yang tak kenal ampun yang dapat menumbangkan makhluk itu hingga akhirnya ia jatuh. Gagal melakukannya, maka harimau itu akan lolos dari kematian—atau mengalahkan lawannya pada suatu hari nanti setelah tumbuh menjadi seorang Sangun, sang Penguasa Gunung. Apakah makhluk-makhluk ini akan memberikan keberuntungan yang baik bagi manusia atau kembali sebagai bencana yang jahat, tidak ada yang tahu secara pasti."
+    },
+    {
+      "id": "ChoiSwordsmanshipShield",
+      "name": "Dujeong Brigandine [Sal]",
+      "desc": "- Stack Maks: 5\n- Ketika memperoleh efek ini, peroleh Perisai setara dengan 10% dari maks HP unit ini untuk setiap Stack (min 1, dibulatkan ke bawah; Perisai yang diperoleh dari efek ini tidak hilang pada Akhir Giliran)\n- Awal Pertarungan: Peroleh 1 Defense Level Down untuk setiap 2 Stack (rounded up)\n- Beri +(Stack x 2.5)% Slash damage\n- <color=#ff6000><mark color=#ff000040><b><u>Kehilangan 1 Stack ketika menerima damage Perisai setara dengan 10% dari maks HP unit ini</color></mark></b></u>",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PhotoTransitionChoi",
+      "name": "Transisi Memori",
+      "desc": "- Stack Dasar: 3\n- Akhir Giliran: Kehilangan 1 Stack\n- <color=#ff6000><mark color=#ff000040><b><u>Pada 1 Stack, Mundur pada Akhir Giliran dan transisi ke lokasi berbeda</color></mark></b></u>\n- Ketika Kembali ke medan tempur, berdasarkan pada current Seni Bertarung Tanah Air, peroleh atau kehilangan (# dari giliran yang dihabiskan saat Mundur) Stack Seni Pedang Tanah Air [Sal]\n· Ketika di Seni Bertarung Tanah Air - Beruang: Peroleh Stack\n· Ketika di Seni Bertarung Tanah Air - Harimau: Kehilangan Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "PhotoTransitionChoiCamera",
+      "name": "Transisi Memori",
+      "desc": "- Stack Dasar: 3\n- Akhir Giliran: Kehilangan 1 Stack\n- <color=#ff6000><mark color=#ff000040><b><u>Pada 1 Stack, Mundur pada Akhir Giliran dan transisi ke lokasi berbeda</color></mark></b></u>\n- Ketika Kembali ke medan tempur, berdasarkan pada Seni Bertarung Tanah Air Im Gyeong-eop saat ini, Im Gyeong-eop memperoleh atau kehilangan (# dari giliran Im Gyeong-eop yang dihabiskan saat Mundur) Stack Seni Pedang Tanah Air [Sal]\n· Ketika di Seni Bertarung Tanah Air - Beruang: Peroleh Stack\n· Ketika di Seni Bertarung Tanah Air - Harimau: Kehilangan Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ChoiSword_LowMorale",
+      "name": "Perkembangan Memori",
+      "desc": "- Moral Rendah\n- Peroleh 1 Fragile, beri +10% damage, dan beri +15% damage pada Serangan Critical",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ChoiSword_Panic",
+      "name": "Perkembangan Memori",
+      "desc": "- Panik\n- Peroleh 2 Fragile, beri +10% damage, beri +30% damage pada Serangan Critical, dan gandakan efek yang diberi Coin dari Skill \"Busur Panah Tanah Air [Sal] - Tembak\"",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DimensionalBagEzraDTwo",
+      "name": "Tas Dimensional - Namir Workshop",
+      "desc": "Mengambil senjata Workshop berikutnya dari Tas Dimensional\n- Senjata Workshop saat ini: Sarung Tangan Namir Workshop\n- Senjata Workshop berikutnya: Kapak YuRia Atelier",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Nah, kalau yang satu ini udah ditanem Singularity-nya G Corp.—si Sphere! Cara kerjanya gini nih: Kamu melayang ke atas, nyalain saklarnya pas di udara, terus hantem ke bawah pake berat gravitasinya. Begitu kena telak, wah... dijamin brutal deh.\""
+    }
+  ]
+}

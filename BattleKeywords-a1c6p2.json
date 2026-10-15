@@ -1,0 +1,42 @@
+{
+  "dataList": [
+    {
+      "id": "AaCfPbBe",
+      "name": "Marked Prey",
+      "desc": "- Jika Unit ini tidak menerima damage giliran ini, beri 1 Inferiority Complex saat Akhir Attack, lalu hapus efek\n- Stack Maks: 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBf",
+      "name": "Inferiority Complex",
+      "desc": "- Setiap kali Unit ini terkena serangan, terima ((20% damage HP diterima) * Value) damage\n- Maks Value: 5",
+      "summary": "Terima ((20% damage HP diterima) * Value) damage",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBa",
+      "name": "Explosive Gloom",
+      "desc": "- Resistansi Gloom  Affinity +0.3\n- Resistance Affinity Lainnya -0.5\n- Ketika menyerang: beri 3 SP damage kepada penyerang, peroleh 1 Sinking Count, dan peroleh 1 Level Offense Up giliran berikutnya (9 kali per giliran)",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBb",
+      "name": "Explosive Envy",
+      "desc": "- Resistansi Envy  Affinity +0.3\n- Resistance Affinity Lainnya -0.5\n- Ketika menyerang: beri 1 Level Offense Up, beri 2 Bleed, dan 2 Bleed Count pada penyerang, dan peroleh 1 Defense Level Down giliran berikutnya (9 kali per giliran)",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBc",
+      "name": "Explosive Wrath",
+      "desc": "- Resistansi Wrath  Affinity +0.3\n- Resistance Affinity Lainnya -0.5\n- Ketika menyerang: Peroleh 1 Level Offense Up dan 1 Defense Level Down giliran berikutnya (9 kali per giliran)",
+      "undefined": "-"
+    },
+    {
+      "id": "AaCfPbBd",
+      "name": "Deep Bereavement",
+      "desc": "Awal Giliran: Kehilangan 5 Speed dan peroleh 5 Defense Level Down",
+      "undefined": "-"
+    }
+  ]
+}

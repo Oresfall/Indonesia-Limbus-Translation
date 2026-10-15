@@ -1,0 +1,263 @@
+{
+  "dataList": [
+    {
+      "id": "BloodyHand_2nd",
+      "name": "Bloodied Hand II",
+      "desc": "- Any efek yang memperoleh Bloodied Hand peroleh efek ini saja\n- Maks Value: 20\n- NIlai Dasar: 10\n- Peroleh 1 Level Offense untuk setiap 6 Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodyHand_3rd",
+      "name": "Bloodied Hand III",
+      "desc": "- Any efek yang memperoleh Bloodied Hand peroleh efek ini saja\n- Maks Value: 30\n- NIlai Dasar: 20\n- Peroleh 1 Attack Power\n- Pada 30 Stack: Saat Menyerang dengan Skill unit ini, beri tambahan 2 Rupture dan +1 Rupture Count\n- Pada 30 Stack: Saat Menyerang dengan Skill unit ini, beri 3 Bleed both pada diri sendiri dan terhadap target",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "WornHeart",
+      "name": "Ailing Heart",
+      "desc": "- Stack Maks: 10\n- Enters Pertempuran dengan 3 Stack\n- Awal Giliran: peroleh 1 Defense Level Down untuk setiap Stack\n- Awal Giliran: peroleh 1 Level Offense Up untuk setiap 2 Stack\n- Awal Giliran: at 10 Stack, peroleh 3 Fragile dan kehilangan 5 SP\n- Pada 10 Stack: Saat Menyerang, pulihkan 40% dari damage yang diberikan ke Bagian unit ini dan \"Inti\", dan peroleh 2 Bloodied Hand",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StarvingPriestTwo",
+      "name": "Layu",
+      "desc": "- Haus darah untuk waktu yang sangat, sangat lama.\n- Kehilangan 25 Base Level Offense\n- Kehilangan 25 Base Defense Level",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Guilt_LowMorale",
+      "name": "Guilt",
+      "desc": "Akhir Giliran: peroleh 1 Fragile dan Efisiensi Pemulihan SP Menurun giliran berikutnya",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Guilt_Panic",
+      "name": "Guilt",
+      "desc": "Akhir Giliran: peroleh 2 Fragile dan Efisiensi Pemulihan SP Menurun giliran berikutnya",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "MentalIncreaseDown",
+      "name": "Efisiensi Pemulihan SP Menurun",
+      "desc": "Efisiensi Pemulihan SP berkurang sebanyak efek's Stack",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "AffectionTeddy",
+      "name": "Attachment",
+      "desc": "- Maks Value: 9\n- Ketika the Penyerang attacks target dengan efek ini, the Penyerang peroleh Clash Power setara dengan the Stack\n- Akhir Giliran: kurangi sebanyak 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FaintMemory",
+      "name": "Faint Memories",
+      "desc": "- NIlai Dasar: 10\n- Awal Giliran: peroleh Defense Level Up setara dengan the Stack\n- Kalah Clash: kurangi sebanyak 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "CursePackage",
+      "name": "Box of Curses",
+      "desc": "- Maks Value: 1\n- Akhir Giliran: peroleh 1 Attack Power Down, 1 Defense Power Down, 2 Level Offense Down, 2 Defense Level Down, dan kurangi Stack dari efek ini sebanyak 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TinyCarmilla",
+      "name": "Little Carmilla",
+      "desc": "- Stack Maks: 3\n- Peroleh 2 Bleed setiap kali unit ini peroleh Little Carmilla\n- Akhir Giliran: peroleh +2 Bleed Count\n- Akhir Giliran: at 3 Stack, terima damage tetap setara dengan 15% dari HP maks unit ini, pulihkan HP setara dengan 5% of setiap maks HP musuh, lalu efek ini kadaluarsa",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "OneDropNutrition",
+      "name": "A Drop of Nourishment",
+      "desc": "- Stack Maks: 10\n- Peroleh 1 Stack setiap kali unit ini memulihkan 10% of its maks HP dengan its HP-pemulihan Attack\n- Shows the % dari HP healed",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ThornNoose",
+      "name": "Barbed Lasso",
+      "desc": "- Stack Maks: 3\n- Akhir Giliran: peroleh 2 Rupture dan +2 Rupture Count\n- Akhir Giliran: at 1+ Stack, tetapkan Speed unit ini menjadi 1.\n- Akhir Giliran: pada 2 Stack, terima 20 Gluttony damage.\n- Akhir Giliran: at 3 Stack, menjadi forcibly Stagger giliran berikutnya. Efek ini dan the connected Barbed Lasso both kadaluarsa.\n- Peroleh 1 pada Awal Giliran",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SwirlingBlood",
+      "name": "Shimmering【Bloodfiend】",
+      "desc": "- Selama efek ini aktif: ketika unit ini menerima damage, the Penyerang peroleh 5 Bleed pada Akhir Serangan.\n- Selama efek ini aktif: Perisai HP tidak dapat kadaluarsa pada Akhir Giliran\n- Ketika kondisi terpenuhi, peroleh 3 Fragile hingga efek ini kadaluarsa dan unit ini peroleh pola baru",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodArmor",
+      "name": "Hardblood",
+      "desc": "- Maks Value: 10\n- Tingkat 1 Hardblood\n- Used for special Skill",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodArmor_2nd",
+      "name": "Hardblood II",
+      "desc": "- Maks Value: 20\n- Tingkat 2 Hardblood\n- Awal Giliran: peroleh 1 Level Offense dan Defense Level untuk setiap 6 Stack\n- Naikkan Min & Maks Speed values sebanyak 1\n- Used for special Skill",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodArmor_3rd",
+      "name": "Hardblood III",
+      "desc": "- Maks Value: 30\n- Tingkat 3 Hardblood\n- Awal Giliran: peroleh 2 Level Offense dan Defense Level untuk setiap 6 Stack\n- Naikkan Min & Maks Speed values sebanyak 2\n- Used for special Skill",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Dreamy",
+      "name": "Dreamy Hesitation",
+      "desc": "- Kehilangan 35 Base Level Offense\n- Kehilangan 35 Base Defense Level",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BloodDinner_Common_Accumulation",
+      "name": "Bloodfeast Dikonsumsi (shared)",
+      "desc": "Total Bloodfeast yang dikonsumsi di Pertempuran ini",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ThirstyRose",
+      "name": "Polydipsic Rose",
+      "desc": "- Maks Value: 5\n- Akhir Giliran: at 10+ Potency Bleed, terima Lust damage setara dengan 1% dari HP maks unit ini. (maks 30)\n- Akhir Giliran: reduced sebanyak 1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RoseWedge",
+      "name": "Rose Wedge",
+      "desc": "- Maks Potency: 10\n- Count Maks: 4\n- Peroleh 1 Potency setiap kali unit ini menerima 10 Bleed damage\n- Ketika memperoleh Bleed atau 'Bleed Unik' dari terkena serangan, peroleh 2 Bleed dan beri 1 Bleed terhadap the Penyerang. (5 kali per giliran)\n· Pada 10 Potency, peroleh +1 Bleed Count juga ketika mengaktifkan efek di atas.\n- Akhir Giliran: kehilangan 1 Count\n- Akhir Pertempuran: at 10 Potency atau 1 Count, efek ini kadaluarsa, dan unit ini menerima (Potency x 10) Lust damage.\n- Jika unit diberikan dengan efek ini mati, atau ketika efek ini kadaluarsa: increase Bloodfeast sebanyak (Potency x 10), dan beri (Potency x 2) Lust damage terhadap semua kawannya (min 1)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FerrisWheel",
+      "name": "The Endless Wheel",
+      "desc": "Berkurang sebanyak 1 setiap kali a Gondola dikalahkan.\nJika this value berada pada 0, dan jika tidak ada unit to be spawned giliran berikutnya, move on to the next phase.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "StarvingDonqui",
+      "name": "Starved dan Withered",
+      "desc": "- Kehilangan 10 Base Level Offense\n- Kehilangan 10 Base Defense Level",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RegainedStrength",
+      "name": "Returning Bloodlust",
+      "desc": "- Maks Value: 10\n- Tingkat 1 Returning Bloodlust",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RegainedStrength_2nd",
+      "name": "Returning Bloodlust II",
+      "desc": "- Maks Value: 20\n- Tingkat 2 Returning Bloodlust\n- Awal Giliran: peroleh 1 Level Offense up dan 1 Defense Level Up untuk setiap 5 Value\n- Clash Power +1 ke Skill yang konsumsi Returning Bloodlust; beri +1 lebih of Potency dan Count for Bleed dan Rupture diberikan sebanyak Skill tersebut",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "RegainedStrength_3rd",
+      "name": "Returning Bloodlust III",
+      "desc": "- Maks Value: 30\n- Tingkat 3 Returning Bloodlust\n- Awal Giliran: peroleh 2 Level Offense up dan 1 Defense Level Up untuk setiap 5 Value\n- Coin Power +1 ke Skill yang konsumsi Returning Bloodlust; beri +1 lebih of Potency dan Count for Bleed dan Rupture diberikan sebanyak Skill tersebut",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "WeightOfResponsibility_LowMorale",
+      "name": "Time to abandon my dream...",
+      "desc": "- Moral Rendah\n- Peroleh 2 Attack Power Up dan 1 Fragile; naikkan maks Speed value sebanyak 2\n- Pulihkan +30% lebih HP ketika pemulihan\n- Akhir Giliran: jika the current Returning Bloodlust lebih sedikit daripada its value pada Awal Giliran, peroleh 2 Level Offense Up dan 2 Defense Level Down",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "WeightOfResponsibility_Panic",
+      "name": "... Untuk my Family, as their Father...",
+      "desc": "- Panik\n- Peroleh 2 Attack Power Up, 2 Haste, dan 2 Fragile\n- Pulihkan +50% lebih HP ketika pemulihan\n- Akhir Giliran: jika the current Returning Bloodlust lebih sedikit daripada its value pada Awal Giliran, peroleh 3 Level Offense Up dan 5 Defense Level Down",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Precarious",
+      "name": "Irresponsible Dream",
+      "desc": "Killed ketika diserang sebanyak Don Quixote.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "Penetration",
+      "name": "Congealing Blood",
+      "desc": "Tidak dapat bertindak for 2 giliran; spawns an Impaling Spear unit over kawan.",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "DecreamentalDefense",
+      "name": "Crippling Injury",
+      "desc": "- Belum pulih dari the wounds diperoleh in the previous battle.\n- Massively kurangi maks HP\n- Awal Giliran: peroleh 1 Defense Level Down untuk setiap cumulative giliran (maks 15)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "UnfinishedDream",
+      "name": "IN WHICH IS RECOUNTED THE LIBERATION FROM BLOOD THICKER THAN WATER",
+      "desc": "- Pada setiap Akhir Giliran: peroleh 1 Haste dan 3 Level Offense Up giliran berikutnya\n- Peroleh 2 tambahan Level Offense Up setelah setiap 3 cumulative giliran (maks 6)\n- Saat Menang Clash, pulihkan 3 SP\n- Saat Membunuh, peroleh 1 Clash Power Up giliran berikutnya (sekali per giliran)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SanchoMind_LowMorale",
+      "name": "Reawakening Joy Of Carnage",
+      "desc": "- Moral Rendah\nPeroleh 2 Attack Power Up pada setiap Awal Giliran; +2 SP Efficiency",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SanchoMind_Panic",
+      "name": "Reawakening Joy Of Carnage",
+      "desc": "- Panik\nAwal Giliran: peroleh 6 Defense Level Up. Peroleh 3 Level Offense Up giliran berikutnya",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FragmentOfHope",
+      "name": "WHICH TREATS THE BUS, THE COMPANIONS, AND THE ADVENTURES",
+      "desc": "Peroleh Clash Power setara dengan nilainya",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "FragmentOfHopeTwo",
+      "name": "OF HOW SANCHO, OUR DON QUIXOTE, REFUSED TO END THE DREAM",
+      "desc": "Clash Power +4 untuk setiap value\nBeri Perisai ke diri sendiri dan semua kawan at Awal Pertempuran",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "ConfinementOfGoldenBranch",
+      "name": "The Golden Bough's Forced Arbitration",
+      "desc": "- Kehilangan 30 Base Level Offense\n- Kehilangan 30 Base Defense Level",
+      "summary": "",
+      "undefined": "-"
+    }
+  ]
+}

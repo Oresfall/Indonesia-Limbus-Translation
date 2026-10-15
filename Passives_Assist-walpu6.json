@@ -1,0 +1,34 @@
+{
+  "dataList": [
+    {
+      "id": 40000301,
+      "name": "In the name of Love dan Justice~ Here comes Magical Girl!",
+      "desc": "Saat memasuki pertempuran, beri 1 [ResultEnhancement] untuk semua Sinner\nTidak dapat Stagger"
+    },
+    {
+      "id": 40000302,
+      "name": "Thanks so much, everyone!",
+      "desc": "Jika target that ARCANA[TabExplain] SLAVE hit has [WornOutKnight], wins Suppression pada Akhir Giliran"
+    },
+    {
+      "id": 40000303,
+      "name": "In the end, I'm... just like the others?",
+      "desc": "Jika target that ARCANA[TabExplain] SLAVE hit tidak memiliki [WornOutKnight], beri [FailedToAssistQueen] ke semua kawan"
+    },
+    {
+      "id": 40000304,
+      "name": "Power of Love dan Justice",
+      "desc": "Pada 10+ [PowerOfLoveAndJustice] Count: kehilangan 10 of its Count dan peroleh 1 [PowerOfLoveAndJustice] Potency giliran berikutnya\n\nPada 3 [PowerOfLoveAndJustice] Potency: ketika memberikan [Burst] Potency, beri 1 [Burst] Count juga (2 kali per giliran)"
+    },
+    {
+      "id": 40000305,
+      "name": "In the end, I'm... just like the others?",
+      "desc": "Jika target that ARCANA[TabExplain] SLAVE hit tidak memiliki [WornOutKnight] dan isn't at 600- HP, beri [FailedToAssistQueen] ke semua kawan"
+    },
+    {
+      "id": 40000306,
+      "name": "Thanks so much, everyone!",
+      "desc": "Jika target that ARCANA[TabExplain] SLAVE hit has [WornOutKnight] dan 600- HP, wins Suppression pada Akhir Giliran"
+    }
+  ]
+}

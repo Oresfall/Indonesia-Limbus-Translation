@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": 40000201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Weakness Thrust",
+          "desc": "[WhenUse] Jika target memiliki 3+ tipe dari efek negatif, Base Power +1\n[WhenUse] Peroleh +1 Count [Breath]\n[OnDirectAttack] Beri +1 [Burst] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "+30% Damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Dualblade Substitution Thrust",
+          "desc": "[StartBattle] Peroleh 1 [Protection]\n[WhenUse] Jika target memiliki 3+ tipe dari efek negatif, Coin Power +1\n[WhenUse] Peroleh 3 Potency [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +1 Count [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+50% Damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[OnSucceedAttack] Beri 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Aiding Strike",
+          "desc": "[WhenUse] Jika target memiliki 3+ tipe dari efek negatif, Coin Power +1\n[WhenUse] Peroleh +3 Count [Breath]\n[WhenUse] Peroleh 6 Potency [Breath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Beri +2 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack] Peroleh +1 Count [Breath]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "+100% Damage pada Serangan Critical"
+                },
+                {
+                  "desc": "[CriticalOnSucceedAttack] Beri 5 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40000204,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bertahan",
+          "desc": "[CanDuelGuard]\n[StartBattle] Hapus 1 acak efek negatif yang dapat dihilangkan applied ke diri sendiri\n[StartBattle] Pulihkan 10 SP\n[WhenUse] Peroleh 2 [ProtectStance]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

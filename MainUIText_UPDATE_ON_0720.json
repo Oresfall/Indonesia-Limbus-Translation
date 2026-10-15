@@ -1,0 +1,36 @@
+{
+  "dataList": [
+    {
+      "id": "move_to_inventory",
+      "content": "Menuju ke Inventory"
+    },
+    {
+      "id": "progress_personality_gacksung",
+      "content": "Uptie"
+    },
+    {
+      "id": "mainui_reinforce_support_passive",
+      "content": "Support Passive [{0}] Telah Ditingkatkan"
+    },
+    {
+      "id": "mainui_reinforce_battle_passive",
+      "content": "Combat Passive [{0}] Telah Ditingkatkan"
+    },
+    {
+      "id": "mainui_battle_passsive_reinforce",
+      "content": "Combat Passive Ditingkatkan "
+    },
+    {
+      "id": "mainui_support_passsive_reinforce",
+      "content": "Support Passive Ditingkatkan"
+    },
+    {
+      "id": "mainui_target_num_label",
+      "content": "ATK Weight"
+    },
+    {
+      "id": "mainui_awaken_requirement_label",
+      "content": "Kebutuhan Currency"
+    }
+  ]
+}

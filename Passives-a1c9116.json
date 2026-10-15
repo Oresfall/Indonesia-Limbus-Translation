@@ -1,0 +1,74 @@
+{
+  "dataList": [
+    {
+      "id": 9018301,
+      "name": "Measured Clashes",
+      "desc": "Saat Menang Clash, peroleh 2 [Agility] giliran berikutnya (sekali per giliran)"
+    },
+    {
+      "id": 9019301,
+      "name": "Suppressed Movements",
+      "desc": "Saat Menang Clash, beri 2 [Binding] pada target giliran berikutnya (sekali per giliran)"
+    },
+    {
+      "id": 9018501,
+      "name": "Bestowed Mission",
+      "desc": "Awal Pertempuran: peroleh [RepressedMurderousIntend]"
+    },
+    {
+      "id": 9018502,
+      "name": "Strider [Mao]",
+      "desc": "Saat Menyerang terhadap musuh dengan [BurstAgility]: beri +1 [Burst] Count pada target (3 kali per giliran)"
+    },
+    {
+      "id": 9018503,
+      "name": "Vigor [Mao]",
+      "desc": "Ketika menyerang target dengan slower Speed than unit ini's, beri +1 lebih [Burst] atau [Burst] Count"
+    },
+    {
+      "id": 9018504,
+      "name": "Dominator [Mao]",
+      "desc": "Jika Speed unit ini lebih cepat daripada target sebanyak 3 atau lebih, Coin Power +1"
+    },
+    {
+      "id": 9102001,
+      "name": "Buku Balas Dendam",
+      "desc": "Ketika diserang, beri 1 [MiddleFingerBook] terhadap penyerang (1 target per giliran; maks 1)\nPada Penggunaan Skill, jika target memiliki [MiddleFingerBook], peroleh ([MiddleFingerBook] / 4) Clash Power (maks 2)\n- Jika target memiliki 8+ [MiddleFingerBook], peroleh ([MiddleFingerBook] / 3) Base Power (maks 3)"
+    },
+    {
+      "id": 9102002,
+      "name": "Tato Pembalasan",
+      "desc": "Every time a Middle kawan terbunuh in this encounter, peroleh 1 [AttackUp] (maks 5)"
+    },
+    {
+      "id": 9102003,
+      "name": "Chains of Loyalty",
+      "desc": "Ketika kawan dari the Middle terbunuh, peroleh 1 [PlusCoinValueUp] giliran berikutnya. (maks 2)"
+    },
+    {
+      "id": 9018701,
+      "name": "Liquified Body",
+      "desc": "Damage Diterima -10%"
+    },
+    {
+      "id": 9018702,
+      "name": "Corpse Cleanup",
+      "desc": "Akhir Giliran: jika anyone died giliran ini, pulihkan 5% HP\nSaat Bunuh, pulihkan 2~5% HP"
+    },
+    {
+      "id": 9018703,
+      "name": "Untuk the Family",
+      "desc": "Akhir Giliran: pulihkan SP setara dengan jumlah dari surviving Sweepers"
+    },
+    {
+      "id": 9018704,
+      "name": "Malam di Backstreet",
+      "desc": "Ketika joining setelah Wave 2, enter dengan 30 SP."
+    },
+    {
+      "id": 9102004,
+      "name": "Seize ya Chance",
+      "desc": "Tidak dapat Stagger while a usable Counter Skill is in Slot Skill unit ini."
+    }
+  ]
+}

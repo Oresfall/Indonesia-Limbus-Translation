@@ -1,0 +1,494 @@
+{
+  "dataList": [
+    {
+      "id": 853901,
+      "name": "Broken Umbrella",
+      "desc": "Ketika the body rusak, the body is diberikan dengan 1 Damage Down setiap giliran."
+    },
+    {
+      "id": 853902,
+      "name": "Ragged Umbrella",
+      "desc": "Ketika bagian \"kepala\" rusak, peroleh 1 Damage Down setiap giliran"
+    },
+    {
+      "id": 853903,
+      "name": "Last Struggle",
+      "desc": "Pada 15% HP, unit ini peroleh 10 Bind dan 1 Attack Power Down setiap giliran\nNewly spawned Old Umbrellas have 30% lebih HP. Uses 'Cries Seeking Something' setiap giliran."
+    },
+    {
+      "id": 853904,
+      "name": "Vain Heart",
+      "desc": "Peroleh 2 <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Protection Umbrella</color></link></u> saat dimulainya first giliran. (Maks 6)\nPeroleh tambahan <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Protection Umbrella</color></link></u> setara dengan jumlah dari \"Cycle Counts\".\nPeroleh <sprite name=\"Protection\"><color=#f8c200><u><link=\"Protection\">Protection</color></link></u> setara dengan the Count of <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Protection Umbrella</color></link></u> pada diri sendiri.\nJika Waiting Skill is slotted, summon Old Umbrella setara dengan jumlah dari <sprite name=\"WaveFoxUmbrella\"><color=#f8c200><u><link=\"WaveFoxUmbrella\">Protection Umbrella</color></link></u>"
+    },
+    {
+      "id": 853905,
+      "name": "Refracted Rupture dan Sinking",
+      "desc": "<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u> dan <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</color></link></u> Potency maxes out at 30.\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u> dan <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</color></link></u> Count maxes out at 5."
+    },
+    {
+      "id": 853906,
+      "name": "Beri Refracted Bleed",
+      "desc": "Ketika memperoleh <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u>, peroleh 1 tambahan Potency dan Count"
+    },
+    {
+      "id": 854001,
+      "name": "Old dan Abandoned",
+      "desc": "Ketika unit ini dikalahkan, unit that dikalahkan it peroleh 2 Haste giliran berikutnya.\nSemua Drifting Fox parts are diberikan dengan 2 Bind.\nBeri 1 Serpihan Payung to Drifting Fox."
+    },
+    {
+      "id": 854101,
+      "name": "Deteriorated Persistence",
+      "desc": "Jika Perisai HP is fully depleted setelah memakai a defensive skill, peroleh 3 Offense Level Down dan 3 Fragile giliran berikutnya."
+    },
+    {
+      "id": 854102,
+      "name": "Solid Exoskeleton",
+      "desc": "Jika head isn't broken,\nBody peroleh 3 Protection setiap giliran."
+    },
+    {
+      "id": 854104,
+      "name": "Refracted Charge",
+      "desc": "Jika target memiliki Charge, kurangi target's Count Charge sebanyak 1 on hit dan peroleh 1 Self-charge. (3 kali per giliran)"
+    },
+    {
+      "id": 854103,
+      "name": "Refracted Bleed dan Tremor",
+      "desc": "<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> dan <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u> Potency maxes out at 30.\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> dan <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u> Count maxes out at 5."
+    },
+    {
+      "id": 854105,
+      "name": "Self-charge",
+      "desc": "Peroleh 3 Self-charge saat dimulainya first giliran.\nPeroleh 1 tambahan Self-charge untuk setiap Cycle Count. (Maks 8)"
+    },
+    {
+      "id": 854201,
+      "name": "Mitosis",
+      "desc": "Ketika the arm rusak, semua parts peroleh 1 Attack Power Down setiap giliran."
+    },
+    {
+      "id": 854202,
+      "name": "Enticing Fairy Wine",
+      "desc": "Ketika Fairy Wine berada di medan tempur, semua parts peroleh 5 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Bind</color></link></u>."
+    },
+    {
+      "id": 854203,
+      "name": "Refracted Bleed dan Tremor",
+      "desc": "<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> dan <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u> Potency maxes out at 30.\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> dan <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u> Count maxes out at 5."
+    },
+    {
+      "id": 854204,
+      "name": "Beri Refracted Rupture",
+      "desc": "Ketika memperoleh <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>, peroleh 1 tambahan Potency dan Count"
+    },
+    {
+      "id": 854301,
+      "name": "Fairy Wine",
+      "desc": "Ketika dikalahkan sebanyak Identitas, semua Identitas peroleh 5 Mabuk giliran berikutnya.\nJika not dikalahkan, Fairy Gentleman memulihkan 10% HP dan peroleh 2 Attack Power Up, 2 Haste, dan 2 Protection.\nExpires at akhir giliran"
+    },
+    {
+      "id": 854401,
+      "name": "Broken Means",
+      "desc": "Ketika the arm rusak, the arm peroleh 1 Attack Power Down setiap giliran."
+    },
+    {
+      "id": 854402,
+      "name": "Beri Refracted Sinking",
+      "desc": "Ketika memperoleh <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</color></link></u>, peroleh 1 tambahan Potency dan Count"
+    },
+    {
+      "id": 854501,
+      "name": "Lost Means",
+      "desc": "Ketika the arm rusak, unit peroleh 1 Attack Power Down setiap giliran."
+    },
+    {
+      "id": 854502,
+      "name": "Damaged Shade",
+      "desc": "Ketika bagian \"kepala\" rusak, unit peroleh 2 Defense Level Down setiap giliran."
+    },
+    {
+      "id": 854503,
+      "name": "Refracted Bleed dan Tremor",
+      "desc": "<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> dan <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u> Potency maxes out at 30.\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> dan <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u> Count maxes out at 5."
+    },
+    {
+      "id": 854504,
+      "name": "Beri Refracted Rupture",
+      "desc": "Ketika memperoleh <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>, peroleh 1 tambahan Potency dan Count"
+    },
+    {
+      "id": 854601,
+      "name": "Contaminating Leaf",
+      "desc": "Pada the start of setiap giliran, Fairy-Long-Legs dan Fairy Gentleman peroleh 3 HP Healing Boost dan 1 Attack Power Up.\nJika the Clover survives for 4+ giliran, peroleh tambahan 1 Attack Power Up dan 2 Damage Up."
+    },
+    {
+      "id": 854701,
+      "name": "Mitosis",
+      "desc": "Ketika the arm rusak, unit peroleh 1 Attack Power Down setiap giliran."
+    },
+    {
+      "id": 854702,
+      "name": "Enticing Fairy Wine",
+      "desc": "Ketika Fairy Wine berada di medan tempur, semua parts peroleh 5 <sprite name=\"Binding\"><color=#e30000><u><link=\"Binding\">Bind</color></link></u>."
+    },
+    {
+      "id": 854703,
+      "name": "Refracted Bleed dan Tremor",
+      "desc": "<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> dan <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u> Potency maxes out at 30.\n<sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> dan <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u> Count maxes out at 5."
+    },
+    {
+      "id": 854704,
+      "name": "Beri Refracted Rupture",
+      "desc": "Ketika memperoleh <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u>, peroleh 1 tambahan Potency dan Count"
+    },
+    {
+      "id": 854801,
+      "name": "Fairy Wine",
+      "desc": "Ketika dikalahkan sebanyak Identitas, semua Identitas peroleh 5 Mabuk giliran berikutnya.\nJika not dikalahkan, Fairy Gentleman memulihkan 10% HP dan peroleh 2 Attack Power Up, 2 Haste, dan 2 Protection.\nExpires at akhir giliran"
+    },
+    {
+      "id": 854901,
+      "name": "Terpesona",
+      "desc": "Beri Terpesona ke musuh dengan Speed paling lambat.\nNumber of target increases dengan setiap Cycle Count.\nNumber of target increases ketika Fairy is restored."
+    },
+    {
+      "id": 854902,
+      "name": "Jurang yang Terungkap",
+      "desc": "Mengungkap \"Tubuh\" ketika Fairy rusak.\nSemua Buff dan Debuff kadaluarsa ketika the body sembunyi lagi."
+    },
+    {
+      "id": 854903,
+      "name": "Umpan Terdepan",
+      "desc": "Tidak dapat damage \"Inti\" dengan menyerang \"Fairy\".\nTarget lebih slots berdasarkan jumlah dari <sprite name=\"FairyCharm\"><color=#a16a3b><u><link=\"FairyCharm\">Terpesona</color></link></u> unit."
+    },
+    {
+      "id": 854904,
+      "name": "Tunggul Rusak",
+      "desc": "Ketika the body rusak, Fairy will have 60% of its Maks HP upon pemulihan.\nKetika the body rusak, \"Inti\" memulihkan +20 lebih HP dengan efek Skill"
+    },
+    {
+      "id": 854905,
+      "name": "Umpan Berevolusi",
+      "desc": "Fairy peroleh 20% increased Maks HP ketika restored."
+    },
+    {
+      "id": 854906,
+      "name": "Refracted Rupture dan Sinking",
+      "desc": "<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u> dan <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</color></link></u> Potency maxes out at 30.\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u> dan <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</color></link></u> Count maxes out at 5."
+    },
+    {
+      "id": 854907,
+      "name": "Debu Fairy",
+      "desc": "Ketika \"Fairy\" terbunuh, semua Identitas peroleh 5 Poise dan 2 Poise Count giliran berikutnya"
+    },
+    {
+      "id": 855001,
+      "name": "Pelarian Dimensional",
+      "desc": "Starting dari giliran 2, kabur to 'Retakan Dimensi' setiap beberapa giliran.\nKetika semua parts are Stagger, kabur to 'Retakan Dimensi' giliran berikutnya.\nTidak dapat Stagger while inside 'Retakan Dimensi'.\nKetika \"Inti\" berada pada 30% atau kurang HP, tidak dapat kabur to 'Retakan Dimensi'."
+    },
+    {
+      "id": 855002,
+      "name": "Pelarian Dimensional Terjebak",
+      "desc": "Ketika semua 'Retakan Dimensi' telah rusak on the same giliran they are created, voluntarily emerge dari 'Retakan Dimensi' giliran berikutnya.\nSetelah itu, kehilangan 5 Count Charge dan naikkan Batas Stagger sebanyak 30 on semua parts."
+    },
+    {
+      "id": 855003,
+      "name": "Regenerasi Pedang Pemecah Dimensi",
+      "desc": "Ketika the blade part rusak, kehilangan 5 Count Charge,\nand pada end of the giliran berikutnya, pulih blade part sebanyak spending 2 Count Charge.\nKetika the blade part rusak, peroleh 2 Offense Level Down pada start of setiap giliran."
+    },
+    {
+      "id": 855004,
+      "name": "Refracted Burn dan Rupture",
+      "desc": "<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Burn</color></link></u> dan <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u> Potency maxes out at 30.\n<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Burn</color></link></u> dan <sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u> Count maxes out at 5."
+    },
+    {
+      "id": 855005,
+      "name": "Beri Refracted Tremor",
+      "desc": "Ketika memperoleh <sprite name=\"Vibration\"><color=#e30000><u><link=\"Vibration\">Tremor</color></link></u>, peroleh 1 tambahan Potency dan Count"
+    },
+    {
+      "id": 856001,
+      "name": "Dimensi Penuh Darah",
+      "desc": "Beri +10% damage setelah melewati Dimensi Penuh Darah"
+    },
+    {
+      "id": 856101,
+      "name": "Dimensi Penuh Racun",
+      "desc": "\"Inti\" peroleh +20% Maks HP setelah melewati the Dimensi Penuh Racun"
+    },
+    {
+      "id": 856201,
+      "name": "Dimensi Penuh Guncangan",
+      "desc": "Peroleh 1 Speed setelah melewati the Dimensi Penuh Guncangan"
+    },
+    {
+      "id": 856301,
+      "name": "Dimensi Penuh Listrik",
+      "desc": "Peroleh +1 Coin Power setelah melewati the Dimensi Penuh Listrik"
+    },
+    {
+      "id": 855101,
+      "name": "Golden Time",
+      "desc": "Pada akhir giliran, jika the HP is antara 6% dan 24%, \"Inti\" parts instantly pulihkan hingga 80% dari Maks HP, dan pulih dari stagger. (One-time hanya)"
+    },
+    {
+      "id": 855102,
+      "name": "Time Reversion Retroaction",
+      "desc": "Setelah mengaktifkan Golden Time, peroleh 2 Fragile saat dimulainya giliran."
+    },
+    {
+      "id": 855103,
+      "name": "Overcharge",
+      "desc": "Jika at 5+ Count Charge at akhir giliran, peroleh 3 Damage Up giliran berikutnya"
+    },
+    {
+      "id": 855104,
+      "name": "Refracted Rupture dan Sinking",
+      "desc": "<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u> dan <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</color></link></u> Potency maxes out at 30.\n<sprite name=\"Burst\"><color=#e30000><u><link=\"Burst\">Rupture</color></link></u> dan <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</color></link></u> Count maxes out at 5."
+    },
+    {
+      "id": 855105,
+      "name": "Beri Refracted Burn",
+      "desc": "Ketika memperoleh <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Burn</color></link></u>, peroleh 1 tambahan Potency dan Count."
+    },
+    {
+      "id": 855501,
+      "name": "Returning Masa Lalu",
+      "desc": "Jika at 50+ <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">Accumulated Masa Lalu</color></link></u>, dan jika \"Inti\"'s HP is kurang dari atau setara dengan 80%, \"Inti\" peroleh 200 HP sebanyak spending 50 <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">Accumulated Masa Lalu</color></link></u>."
+    },
+    {
+      "id": 855502,
+      "name": "Misplaced Masa Lalu",
+      "desc": "Ketika the body rusak, habiskan semua <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">Accumulated Masa Lalu</color></link></u>.\nKetika the body rusak, semua Attack Types dan Affinities menjadi ineffective(0.5) terhadap the body starting giliran berikutnya hingga the end of this encounter."
+    },
+    {
+      "id": 855503,
+      "name": "Broken Exhaust Port",
+      "desc": "Ketika the Steam Blaster rusak, completely habiskan semua parts' Poise.\nSetelah the Steam Blaster rusak, peroleh <sprite name=\"Vulnerable\"><color=#f8c200><u><link=\"Vulnerable\">Fragile</color></link></u> setara dengan jumlah dari <sprite name=\"Breath\"><color=#e30000><u><link=\"Breath\">Poise</color></link></u> setiap kali unit ini peroleh <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></link></u>.\nSetelah the Steam Blaster rusak, kehilangan 1 Poise setiap kali unit ini menggunakan Skill Attack."
+    },
+    {
+      "id": 855504,
+      "name": "Refracted Burn dan Bleed",
+      "desc": "<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Burn</color></link></u> dan <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> Potency maxes out at 30.\n<sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Burn</color></link></u> dan <sprite name=\"Laceration\"><color=#e30000><u><link=\"Laceration\">Bleed</color></link></u> Count maxes out at 5."
+    },
+    {
+      "id": 855505,
+      "name": "Beri Refracted Sinking",
+      "desc": "Ketika memperoleh <sprite name=\"Sinking\"><color=#e30000><u><link=\"Sinking\">Sinking</color></link></u>, peroleh 1 tambahan Potency dan Count"
+    },
+    {
+      "id": 855506,
+      "name": "Leaking Steam",
+      "desc": "Ketika the Steam Blaster diserang, kehilangan 1 <sprite name=\"Breath\"><color=#f8c200><u><link=\"Breath\">Poise</color></link></u> dan 1 Poise Count"
+    },
+    {
+      "id": 855507,
+      "name": "Overlapping Masa Lalu",
+      "desc": "Peroleh 1 Attack Power Up untuk setiap 80 Accumulated Masa Lalu setiap giliran.\nPada 80+ <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPast\">Accumulated Masa Lalu</color></link></u>, peroleh +1 Slot."
+    },
+    {
+      "id": 855508,
+      "name": "Metronome",
+      "desc": "Jika the <sprite name=\"AccumulatedPast\"><color=#a16a3b><u><link=\"AccumulatedPastMirror\">Accumulated Masa Lalu</color></link></u> adalah angka ganjil, peroleh 3 [Vulnerable] dan [AttackDmgUp]\nJika it adalah even number, peroleh 3 [Protection] dan [AttackDmgDown]"
+    },
+    {
+      "id": 855601,
+      "name": "Eternal Yoke",
+      "desc": "Maks HP increases sebanyak (Cycle Count X 5)%.\nBeri (Cycle Count X 5)% damage lebih sedikit"
+    },
+    {
+      "id": 855602,
+      "name": "Broken Sign",
+      "desc": "Ketika the sign rusak, Rose kehilangan Maks HP"
+    },
+    {
+      "id": 855603,
+      "name": "Scattered Flesh",
+      "desc": "Ketika the flesh rusak, \"Inti\" kehilangan Maks HP"
+    },
+    {
+      "id": 855604,
+      "name": "Singular Vine",
+      "desc": "Ketika a Rose dikalahkan, \"Inti\" dan flesh kehilangan 30 HP.\nLose 0.1 Resistance to the corresponding Sin Affinity during this encounter (Stackable)"
+    },
+    {
+      "id": 856401,
+      "name": "Hatred",
+      "desc": "Ketika diserang, peroleh 1 Offense Level Up dan 1 Defense Level Down"
+    },
+    {
+      "id": 856402,
+      "name": "Embers",
+      "desc": "Ketika dikalahkan sebanyak a direct hit, return the damage ke penyerang dan beri 5 Burn"
+    },
+    {
+      "id": 856403,
+      "name": "Blossoming Sins",
+      "desc": "Jika at 4 Blooming Sin, enter Power-up state for this encounter"
+    },
+    {
+      "id": 856404,
+      "name": "Boiling Wrath",
+      "desc": "During Power-up state, beri +1 lebih Burn dengan efek Skill\nJika killed during Power-up state, beri 4 Burn Count ke semua kawan"
+    },
+    {
+      "id": 856405,
+      "name": "Rose on a Vine",
+      "desc": "Dies ketika \"Inti\" of Sign of Roses terbunuh"
+    },
+    {
+      "id": 856501,
+      "name": "One-sided Desire",
+      "desc": "In a clash, Final Power -2; In an unopposed attack, Final Power +2"
+    },
+    {
+      "id": 856502,
+      "name": "Blossoming Sins",
+      "desc": "Jika at 4 Blooming Sin, enter Power-up state for this encounter"
+    },
+    {
+      "id": 856503,
+      "name": "Shimmering Lust",
+      "desc": "During Power-up state, beri +1 lebih Bleed dengan efek Skill\nJika killed during Power-up state, beri 4 Bleed Count ke semua kawan"
+    },
+    {
+      "id": 856504,
+      "name": "Rose on a Vine",
+      "desc": "Dies ketika \"Inti\" of Sign of Roses terbunuh"
+    },
+    {
+      "id": 856601,
+      "name": "Powerless",
+      "desc": "Ketika diserang, peroleh 5 Protection giliran berikutnya unless Stagger"
+    },
+    {
+      "id": 856602,
+      "name": "Yellow Rose 2",
+      "desc": "Jika at 4 Blooming Sin, enter Power-up state for this encounter"
+    },
+    {
+      "id": 856603,
+      "name": "Crushing Sloth",
+      "desc": "During Power-up state, beri +1 lebih Tremor dengan efek Skill\nJika killed during Power-up state, beri 4 Tremor Count ke semua kawan"
+    },
+    {
+      "id": 856604,
+      "name": "Yellow Rose 4",
+      "desc": "Dies ketika \"Inti\" of Sign of Roses terbunuh"
+    },
+    {
+      "id": 856701,
+      "name": "Lapar",
+      "desc": "Jika unit ini gagal untuk beri damage dalam sebuah giliran, peroleh 2 Rupture Fragility"
+    },
+    {
+      "id": 856702,
+      "name": "Green Rose 2",
+      "desc": "Jika at 4 Blooming Sin, enter Power-up state for this encounter"
+    },
+    {
+      "id": 856703,
+      "name": "Growing Gluttony",
+      "desc": "During Power-up state, beri +1 lebih Rupture dengan efek Skill\nJika killed during Power-up state, beri 4 Rupture Count ke semua kawan"
+    },
+    {
+      "id": 856704,
+      "name": "Green Rose 4",
+      "desc": "Dies ketika \"Inti\" of Sign of Roses terbunuh"
+    },
+    {
+      "id": 856801,
+      "name": "Anxiety",
+      "desc": "In a clash, Final Power +2; In an unopposed attack, Final Power -2"
+    },
+    {
+      "id": 856802,
+      "name": "Self Destruction",
+      "desc": "Ketika diserang, Gloom Resist giliran menjadi Gloom Lemah(1.5) dan peroleh 5 Protection"
+    },
+    {
+      "id": 856803,
+      "name": "Blue Rose 3",
+      "desc": "Jika at 4 Blooming Sin, enter Power-up state for this encounter"
+    },
+    {
+      "id": 856804,
+      "name": "Shimmering Gloom",
+      "desc": "During Power-up state, beri +1 lebih Sinking dengan efek Skill\nJika killed during Power-up state, beri 4 Sinking Count ke semua kawan"
+    },
+    {
+      "id": 856805,
+      "name": "Blue Rose 5",
+      "desc": "Dies ketika \"Inti\" of Sign of Roses terbunuh"
+    },
+    {
+      "id": 856901,
+      "name": "Serangan Balik",
+      "desc": "Pada the start of setiap giliran, beri 1 Poise dan 1 Poise count ke kawan"
+    },
+    {
+      "id": 856902,
+      "name": "Superiority",
+      "desc": "Jika unit ini is alive, setiap kawan peroleh +5% Critical Damage per Poise pada diri sendiri"
+    },
+    {
+      "id": 856903,
+      "name": "Azure Rose 3",
+      "desc": "Jika at 4 Blooming Sin, enter Power-up state for this encounter"
+    },
+    {
+      "id": 856904,
+      "name": "Overinflated Pride",
+      "desc": "Jika starting a giliran in a Power-up state, peroleh +1 lebih Poise dengan efek Skill\nJika killed during Power-up state, beri 4 Poise Count untuk semua musuh"
+    },
+    {
+      "id": 856905,
+      "name": "Azure Rose 5",
+      "desc": "Dies ketika \"Inti\" of Sign of Roses terbunuh"
+    },
+    {
+      "id": 857001,
+      "name": "Jealousness",
+      "desc": "Pada the start of the giliran, beri 1 Count Charge ke 2 kawan acak"
+    },
+    {
+      "id": 857002,
+      "name": "Inferiority Complex",
+      "desc": "Jika unit ini is alive, setiap kawan peroleh +5% Critical Damage per Count Charge pada diri sendiri"
+    },
+    {
+      "id": 857003,
+      "name": "Purple Rose 3",
+      "desc": "Jika at 4 Blooming Sin, enter Power-up state for this encounter"
+    },
+    {
+      "id": 857004,
+      "name": "Glaring Envy",
+      "desc": "Jika starting a giliran in a Power-up state, beri +1 lebih Count Charge dengan efek Skill\nJika killed during Power-up state, beri 4 Count Charge untuk semua musuh"
+    },
+    {
+      "id": 857005,
+      "name": "Purple Rose 5",
+      "desc": "Dies ketika \"Inti\" of Sign of Roses terbunuh"
+    },
+    {
+      "id": 855605,
+      "name": "Blossoming Sins",
+      "desc": "Jika at 4 Blooming Sin, enter Power-up state for this encounter"
+    },
+    {
+      "id": 855606,
+      "name": "Rose on a Vine",
+      "desc": "Dies ketika Sign of Roses dikalahkan"
+    },
+    {
+      "id": 854403,
+      "name": "Spreading Ember",
+      "desc": "Pada akhir giliran, jika unit ini memiliki <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Burn</color></link></u>, beri the same jumlah dari <sprite name=\"Combustion\"><color=#e30000><u><link=\"Combustion\">Burn</color></link></u> ke semua unit dengan <sprite name=\"WrappedCurseTagRe\"><color=#a16a3b><u><link=\"WrappedCurseTagRe\">Jeratan Jimat Terkutuk</color></link></u> giliran berikutnya"
+    },
+    {
+      "id": 855607,
+      "name": "Sin-drenched Brambles",
+      "desc": "Setiap giliran, semua parts peroleh Protection setara dengan jumlah dari Pendosa dengan the Crown of Thorns efek"
+    }
+  ]
+}

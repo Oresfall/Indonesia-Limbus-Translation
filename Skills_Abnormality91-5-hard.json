@@ -1,0 +1,58 @@
+{
+    "dataList": [
+        {
+            "id": 107804,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Let's Get Packing",
+                    "desc": "Jika unit ini memiliki [AaCeSeBa], add 'Beri 1 [Paralysis] giliran berikutnya' to efek Coin\nTarget unit dengan Speed paling lambat\n[EndBattle] Habiskan semua Count [Charge]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Peroleh 3 [Breath]."
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri bonus damage setara dengan [Breath] pada diri sendiri"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Peroleh 1 [Breath] dan +3 Count [Breath]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Secara acak select 1 dari 4 efek ([Protection], [Enhancement], [Vulnerable], [Paralysis]). Beri atau beri 3 of the selected efek."
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Target kehilangan SP setara dengan Count [Charge] pada unit ini"
+                                },
+                                {
+                                    "desc": "[EnemyKill] Semua musuh kehilangan 10 Sp."
+                                },
+                                {
+                                    "desc": "[EnemyKillFail] Peroleh 2 [Paralysis] giliran berikutnya."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

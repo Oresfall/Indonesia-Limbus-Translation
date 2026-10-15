@@ -1,0 +1,624 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Tim Riset LCE\nSektor Lab.",
+      "model": "이스마엘",
+      "content": "Boleh ambilin 7 baut nomor 3?"
+    },
+    {
+      "id": 1,
+      "model": "싱클레어",
+      "content": "Uh... baut nomor 3... ah, ini dia. Sebentar!"
+    },
+    {
+      "id": 2,
+      "model": "돈키호테",
+      "content": "Hmm... Hmmmmm..."
+    },
+    {
+      "id": 3,
+      "model": "히스클리프",
+      "content": "Ga usah main-main dan ikut bantu, bocah! Kita semua kewalahan di sini!"
+    },
+    {
+      "id": 4,
+      "model": "돈키호테",
+      "content": "Lihatlah! Aku telah menemukan kombinasi retakan yang sangat mirip dengan lambang seorang Fixer!"
+    },
+    {
+      "id": 5,
+      "model": "히스클리프",
+      "content": "Oke, cukup, dah muak gue sama lu bocah— Hah?! Lu barusan ngehindar pukulanku?!"
+    },
+    {
+      "id": 6,
+      "model": "돈키호테",
+      "content": "Hmph! Seranganmu sudah terlalu mudah ditebak!"
+    },
+    {
+      "id": 7,
+      "model": "단테",
+      "content": "<…….>"
+    },
+    {
+      "id": 8,
+      "content": "Sudah sekitar 2 hari berlalu sejak kami menyelesaikan Operasi Spider Pyre"
+    },
+    {
+      "id": 9,
+      "content": "Departemen LCE masih dalam proses pemulihan dari dampak serangan tersebut, dan kita membantu sebisa mungkin dalam upaya pemulihan."
+    },
+    {
+      "id": 10,
+      "content": "Meskipun... Aku sendiri tidak yakin apa yang kita lakukan di sini dengan Tim Manajemen Fasilitas."
+    },
+    {
+      "id": 11,
+      "place": "Tim Riset LCE\nSektor Lab., Masa Lalu",
+      "model": "호엔하임",
+      "content": "Aku hampir tidak menyangka akan bertemu lagi denganmu secepat ini setelah kejadian kemarin—perpisahan yang sungguh menyedihkan."
+    },
+    {
+      "id": 12,
+      "model": "호엔하임",
+      "content": "Yah, mau bagaimana lagi, seluruh Tim Manajemen Fasilitas saat ini sedang PTO (Cuti Berbayar). Kami dipinjamkan beberapa personel LCCA untuk proyek perbaikan, jadi mari kita manfaatkan mereka."
+    },
+    {
+      "id": 13,
+      "model": "로쟈",
+      "content": "Aku kaget deh mereka belum dipanggil lagi ke kantor, apalagi setelah semua yang udah terjadi."
+    },
+    {
+      "id": 14,
+      "model": "호엔하임",
+      "content": "PTO adalah hak mereka dan karena itulah, harus dihormati. Tidak boleh begitu saja membatalkan cuti mereka setelah menandatangani dan menyetujui PTO mereka."
+    },
+    {
+      "id": 15,
+      "model": "로쟈",
+      "content": "Terus kenapa kita tidak tunggu saja sampai mereka kembali dari liburannya~? Pliss, kita udah capek-capekan beberapa hari yang lalu. Gimana kalau kita dikasih waktu istirahat juga?"
+    },
+    {
+      "id": 16,
+      "model": "호엔하임",
+      "content": "Tidak dengan beberapa unit penahanan yang masih terbuka lebar. Tak ada yang tahu kapan Abnormality yang telah kembali menjadi bentuk telur tersebut akan hidup kembali."
+    },
+    {
+      "id": 17,
+      "model": "호엔하임",
+      "content": "Jika kita menghadapi kasus tersebut tanpa unit penahanan yang siap beroperasi, entitas tersebut akan merusak dan menimbulkan kekacauan di fasilitas kita, dan akhirnyapun kita semua akan dipaksa kembali bekerja, suka atau tidak suka."
+    },
+    {
+      "id": 18,
+      "model": "호엔하임",
+      "content": "Aku jauh memilih untuk tidak menghadapi insiden Abnormality yang lepas kendali secepat ini... Terutama karena hampir pasti mereka akan menghancurkan kotak camilan yang telah kami siapkan khusus untuk kepulangan kalian."
+    },
+    {
+      "id": 19,
+      "model": "로쟈",
+      "content": "... Eh? Berapa banyak kotak?"
+    },
+    {
+      "id": 20,
+      "model": "호엔하임",
+      "content": "3. Semuanya berukuran 48 x 38 x 34 sentimeter, ukuran kotak standar terbesar yang kami miliki."
+    },
+    {
+      "id": 21,
+      "model": "로쟈",
+      "content": "... Oke, deal."
+    },
+    {
+      "id": 22,
+      "model": "히스클리프",
+      "content": "Woi, lu pikir lu siapa bisa nentuin seenak jidat."
+    },
+    {
+      "id": 23,
+      "place": "Tim Riset LCE\nSektor Lab.",
+      "content": "Namun, tidak ada gunanya berdebat dengan Hohenheim ketika dia ada benarnya. Tidak perlu menunda perbaikan fasilitas dan membiarkan Abnormality tersebut berkeliaran lagi."
+    },
+    {
+      "id": 24,
+      "content": "Lagipula, Gregor masih... tak berdaya."
+    },
+    {
+      "id": 25,
+      "model": "로쟈",
+      "content": "Oke, anak-anak! Aku ada minuman dingin untuk kalian nih, jadi istirahat sebentar ya~"
+    },
+    {
+      "id": 26,
+      "model": "히스클리프",
+      "content": "Lu semangat banget dah hari ini."
+    },
+    {
+      "id": 27,
+      "model": "로쟈",
+      "content": "Hei, memangnya kenapa? Mereka ada jajanan yang belum pernah kulihat sebelumnya! Ooh! Dan lihat sini..."
+    },
+    {
+      "id": 28,
+      "model": "로쟈",
+      "content": "Ta-da! Lihat apa yang ku temukan!"
+    },
+    {
+      "id": 29,
+      "content": "Rodya mendeklarasi penuh kemenangan sambil mengangkat sebuah kaleng kecil."
+    },
+    {
+      "id": 30,
+      "model": "홍루",
+      "content": "Itu apa ya?"
+    },
+    {
+      "id": 31,
+      "model": "싱클레어",
+      "content": "Aku tidak... Aku tidak pernah lihat itu sebelumnya."
+    },
+    {
+      "id": 32,
+      "model": "로쟈",
+      "content": "Seriusan? Kamu belum nyobain ini pas masih kecil? Oh, tunggu, apa mereka tidak menjual ini di dalam Nest?"
+    },
+    {
+      "id": 33,
+      "model": "히스클리프",
+      "content": "... Ah? Oh! Gue tau ini!"
+    },
+    {
+      "id": 34,
+      "model": "히스클리프",
+      "content": "Ini jajan yang lu kocok-lalu-minum kan?"
+    },
+    {
+      "id": 35,
+      "model": "로쟈",
+      "content": "Ya! Aku tahu kau akan mengenali ini, Heath!"
+    },
+    {
+      "id": 36,
+      "model": "히스클리프",
+      "content": "Hah, Kalian semua terlihat kayak orang pedesaan, oke, lihat ini!"
+    },
+    {
+      "id": 37,
+      "model": "이스마엘",
+      "content": "Uhh, kau tahu, kaleng itu akan meledak di wajahmu kalau kau terus mengocoknya—"
+    },
+    {
+      "id": 38,
+      "model": "히스클리프",
+      "content": "Gue tahu yang gue lakukan, \"laksamana\"! Lihat, aku buka tutupnya dan... aha! Cobain!"
+    },
+    {
+      "id": 39,
+      "model": "이스마엘",
+      "content": "... Eh? Minumannya jadi agar-agar!"
+    },
+    {
+      "id": 40,
+      "content": "Heathcliff menghampiri setiap Sinner, dan dengan percaya diri memberikan masing-masing dari mereka sekaleng minuman yang telah dikocok."
+    },
+    {
+      "id": 41,
+      "content": "... dan para Sinners menanggapi dengan berbagai tingkat keheranan, bahkan ada yang sampe minum dua kali."
+    },
+    {
+      "id": 42,
+      "model": "이상",
+      "content": "Ini adalah... kondensasi dari karbonasi itu sendiri, strukturnya dikompresi menjadi layaknya sebuah puding."
+    },
+    {
+      "id": 43,
+      "model": "홍루",
+      "content": "Wahh, rasanya seperti mereka mengambil sari buah dan memerangkapnya dalam gelembung-gelembung kecil! Agak terlalu manis, tapi tetap enak!"
+    },
+    {
+      "id": 44,
+      "model": "로쟈",
+      "content": "Hyah~ Nah <i>ini</i> yang kumaksud! Jadi, kamu dapat dari mana? Aku tidak bisa menemukannya akhir-akhir ini."
+    },
+    {
+      "id": 45,
+      "model": "호엔하임",
+      "content": "Karena kami para peneliti terobsesi dengan teknologi baru... obsesi itulah yang berujung pada kecanduan terhadap produk-produk unik seperti ini."
+    },
+    {
+      "id": 46,
+      "model": "호엔하임",
+      "content": "Rasa nikmat itulah yang memotivasi kami. Terkadang cukup untuk menyimpannya dalam kotak pengawetan stasis yang mahal, hanya untuk berjaga-jaga jika kita menginginkannya lagi di masa mendatang."
+    },
+    {
+      "id": 47,
+      "model": "호엔하임",
+      "content": "Berdasarkan temuan kami, kelangkaan produk ini secara tiba-tiba di pasar disebabkan oleh pengurangan produksi yang signifikan di pabriknya. Terlepas dari permintaan yang konstan, tampaknya biaya pemeliharaannya terlalu mahal untuk mempertahankan operasinya dalam skala besar."
+    },
+    {
+      "id": 48,
+      "model": "히스클리프",
+      "content": "Dan lu bagi barang-barang langka ini ke kami?! Gila deh, itu hal terbaik yang dilakukan seseorang untuk kami setelah sekian lama!"
+    },
+    {
+      "id": 49,
+      "model": "히스클리프",
+      "content": "hei, lumayan juga, kacamata... Lu bakal naik peringkat di daftar gue."
+    },
+    {
+      "id": 50,
+      "model": "호엔하임",
+      "content": "Tidak perlu mengevaluasi ulang kepribadian karakter saya, Asisten. Lagipula, itu dari simpanan Marton."
+    },
+    {
+      "id": 51,
+      "model": "히스클리프",
+      "content": "... *Uhuk* *hoek* *hakh*"
+    },
+    {
+      "id": 52,
+      "model": "호엔하임",
+      "content": "Tanpa pemiliknya, benda-benda ini pasti akan berakhir berdebu di sudut kotak barang hilang. Jika roh benar-benar ada, dan jika Marton memang memilih untuk menghantui tempat ini, aku yakin dia akan bilang \"Sepertinya itu hal masuk akal untuk dilakukan, bos.\""
+    },
+    {
+      "id": 53,
+      "content": "... Dia engga salah sih, tapi kurangnya kepekaan dia terhadap perasaan orang-orang di sekitarnya seolah menunjukkan bahwa memang tidak ada alasan bagi kita untuk mempertimbangkan kembali kepribadiannya."
+    },
+    {
+      "id": 54,
+      "model": "히스클리프",
+      "content": "Ah gila dah, lu bisa mulai dari itu... *uhuk* Aduh, kayaknya sebagaian masuk ke pipa yang salah."
+    },
+    {
+      "id": 55,
+      "model": "홍루",
+      "content": "Tentu saja, makanan dibuat bukan untuk terlihat cantik saja~ Aku setuju dengan Hohenheim. Lagipula, apa gunanya semua makanan lezat ini jika kita membiarkannya membusuk begitu saja?"
+    },
+    {
+      "id": 56,
+      "model": "로쟈",
+      "content": "Bener~ *lep* Kita tidak bisa *nyam* membiarkan makanan enak ini basi, kan? *glek*"
+    },
+    {
+      "id": 57,
+      "model": "단테",
+      "content": "<... Seenak itu kah?>"
+    },
+    {
+      "id": 58,
+      "model": "오티스",
+      "content": "Ini enak, tapi tidak <i>seenak</i> itu, Manajer Eksekutif. Dia hanya seseorang yang rakus tanpa memperhatikan rasa."
+    },
+    {
+      "id": 59,
+      "model": "이스마엘",
+      "content": "Kau tahu, aku merasa kasihan pada Dante setiap kita makan sesuatu yang enak... Apalagi dia tidak bisa makan."
+    },
+    {
+      "id": 60,
+      "model": "단테",
+      "content": "<Kurasa ini bukan sesuatu untuk <i>disesali</i>. ... Tapi bohong sih kalau aku bilang aku tidak penasaran.>"
+    },
+    {
+      "id": 61,
+      "content": "Sambil bergumam, aku mendongak menatap Rodya..."
+    },
+    {
+      "id": 62,
+      "model": "로쟈",
+      "content": "Ohh yeah... Uenak banget deh. Tolong hentikan aku, karena aku tidak bisa~"
+    },
+    {
+      "id": 63,
+      "content": "... menenggak kaleng minuman ketiganya."
+    },
+    {
+      "id": 64,
+      "model": "호엔하임",
+      "content": "Hm, itu mengingatkanku. Aku pernah membuat Simulasi Gustation sebagai proyek hobi."
+    },
+    {
+      "id": 65,
+      "model": "이스마엘",
+      "content": "Simulasi Gustation?"
+    },
+    {
+      "id": 66,
+      "model": "호엔하임",
+      "content": "Nah, seperti yang kita semua ketahui, gel energi adalah bentuk nutrisi paling efisien. Ukurannya kecil namun kalorinya tinggi... namun, sayang... rasanya hambar."
+    },
+    {
+      "id": 67,
+      "model": "호엔하임",
+      "content": "Jadi, aku telah membuat alat yang, begitu suatu makanan diletakkan dan dipindai di alat analisis rasanya, alat tersebut akan mentransfer persis rasanya langsung ke pemakainya."
+    },
+    {
+      "id": 68,
+      "model": "호엔하임",
+      "content": "Cara memakai dan mengoperasikannya juga sederhana. Cukup dengan memakainya di pergelangan tangan, informasi rasa seharusnya sudah tersampaikan kepada pemakainya, tapi... Hm, aku sepertinya salah menaruhnya."
+    },
+    {
+      "id": 69,
+      "model": "이스마엘",
+      "content": "Harus kuakui, itu terdengar cukup revolusioner mengingat betapa... kamu meremehkan hal tersebut, seolah-olah itu hanya mainan yang kamu rakit asal-asalan."
+    },
+    {
+      "id": 70,
+      "model": "이상",
+      "content": "Kegembiraan harus datang dari penemuan dan demonstrasi teknologi itu sendiri; benar, rekan-rekan lamaku, setelah konferensi rutin para penerang ide, akan membuang penemuan prima mereka ke dalam kotak penuh barang tak terpakai."
+    },
+    {
+      "id": 71,
+      "model": "호엔하임",
+      "content": "Tebakanmu lumayan, tapi setengah salah. Aku memang berniat mendistribusikannya ke timku, seandainya bukan karena satu kesalahan."
+    },
+    {
+      "id": 72,
+      "model": "호엔하임",
+      "content": "Anda mungkin bertanya apa kesalahan itu? Jadi jika dipakai terlalu lama, alat tersebut akan mengenali segala sesuatu, bahkan sekedar bernapas, sebagai \"makan\"."
+    },
+    {
+      "id": 73,
+      "model": "호엔하임",
+      "content": "Setiap tarikan napasku akan menghadirkan rasa kue keju Basque yang kental dan manis di lidahku. Biasanya itu akan menjadi hidangan yang sangat lezat, tetapi ketika itu mencemari udara yang kuhirup, itu hanya menimbulkan rasa mual di mulutku—dan karena itulah, aku berakhir memuntahkan isi perutku ke lantai."
+    },
+    {
+      "id": 74,
+      "model": "이스마엘",
+      "content": "Ew..."
+    },
+    {
+      "id": 75,
+      "model": "호엔하임",
+      "content": "Namun mungkin itu tidak berlaku pada subjek yang tidak dipaksa bernapas oleh saraf otonom mereka... seperti manajer kalian."
+    },
+    {
+      "id": 76,
+      "model": "단테",
+      "content": "<Ooh... Apa itu berarti aku akhirnya bisa ikut serta dalam sesi kritik makanan Rodya saat makan malam tim kita berikutnya?>"
+    },
+    {
+      "id": 77,
+      "model": "호엔하임",
+      "content": "Kelihatannya, mereka cukup antusias dengan prospek itu. Baiklah, aku akan mulai mencari barang itu. Kemudian—"
+    },
+    {
+      "id": 78,
+      "content": "<i>BEEP— BEEP—</i>"
+    },
+    {
+      "id": 79,
+      "model": "오티스",
+      "content": "... Apa alarm ini juga terhubung ke fasilitas ini?"
+    },
+    {
+      "id": 80,
+      "model": "파우스트",
+      "content": "Benar. Setiap lokasi terkait Limbus Company dilengkapi dengan perangkat yang relevan untuk mendeteksi kedatangan Walpurgis Nights."
+    },
+    {
+      "id": 81,
+      "content": "Begitu lampu hijau dan alarm familiar mulai berbunyi, Faust, yang tadinya bersandar di dinding tanpa berkata-kata dan tangan bersilang, perlahan-lahan berjalan kecil ke arah kami."
+    },
+    {
+      "id": 82,
+      "content": "Dia tampak kelelahan, jadi aku berpikir untuk bertanya apakah semuanya baik-baik saja, tetapi..."
+    },
+    {
+      "id": 83,
+      "model": "파우스트",
+      "content": "Apakah perbaikan Corridor sudah cukup baik sehingga kita bisa menjelajah skenario ini, Hohenheim?"
+    },
+    {
+      "id": 84,
+      "model": "호엔하임",
+      "content": "Tentu saja. Berbeda dengan <i>seseorang</i> yang bersikeras bahwa frekuensinya bukan sesuatu yang dapat kita prediksi. aku telah menduga bahwa fenomena ini akan segera tiba, dan menjadikan perbaikan Corridor sebagai salah satu prioritas kami."
+    },
+    {
+      "id": 85,
+      "model": "파우스트",
+      "content": "... Saya mengerti. Terimakasih."
+    },
+    {
+      "id": 86,
+      "model": "호엔하임",
+      "content": "…?"
+    },
+    {
+      "id": 87,
+      "content": "... Mungkin sekarang bukan waktu yang tepat."
+    },
+    {
+      "id": 88,
+      "model": "호엔하임",
+      "content": "Respons itu... memang sangat tidak terduga. Benar-benar mematahkan pola perilaku yang kuharapkan."
+    },
+    {
+      "id": 89,
+      "model": "파우스트",
+      "content": "Dante, mari kita masuk tanpa menunda lagi."
+    },
+    {
+      "id": 90,
+      "model": "단테",
+      "content": "<Huh? B-baiklah...>"
+    },
+    {
+      "id": 91,
+      "place": -1,
+      "content": "Terdengar Hohenheim menggumamkan sesuatu kepada kami di detik terahir, tetapi suaranya segera tenggelam oleh riuh rendah para Sinners dan obrolan mereka, disertai dengan suara menyeruput minuman yang diteguk."
+    },
+    {
+      "id": 92,
+      "place": "Lorong HQ L Corp.",
+      "model": "료슈",
+      "content": "B.A.O. Depressing."
+    },
+    {
+      "id": 93,
+      "place": "Lorong HQ L Corp. Welfare Team",
+      "model": "싱클레어",
+      "content": "Hmmm, yeah. Aku lihat... kita ada di bagian \"Welfare Team\". Mungkin semuanya berwarna biru karena itu warna utama mereka?"
+    },
+    {
+      "id": 94,
+      "model": "단테",
+      "content": "<Tempat ini juga cukup besar... Tidak sebesar Central Command, tapi tempat ini memiliki langit-langit yang cukup tinggi.>"
+    },
+    {
+      "id": 95,
+      "model": "히스클리프",
+      "content": "Mereka bisa ga sih bikin tempat ini beda dari yang lain...? Iya emang lampunya beda, tapi lorong ini persis sama yang lain. Bosen gue lama-lama."
+    },
+    {
+      "id": 96,
+      "model": "싱클레어",
+      "content": "Menurutku konsistensi justru hal yang bagus! Library selalu memberikan sesuatu yang baru setiap kali kita berkunjung, dan ada kalanya kita terbunuh bahkan sebelum kita tahu apa yang terjadi."
+    },
+    {
+      "id": 97,
+      "model": "돈키호테",
+      "content": "Sungguh! Jika hidup kita pada akhirnya tetap akan binasa, tidakkah kau setuju bahwa lebih baik dihabiskan untuk pengalaman baru?! Pengalaman baru seperti melihat Color Fixer dengan mata kita sendiri~"
+    },
+    {
+      "id": 98,
+      "model": "히스클리프",
+      "content": "Bukannya si sabit biru itu dah nebas dan mencingcang elu kayak lebih dari selusin? Jangan bilang lu malah menikmati semua itu..."
+    },
+    {
+      "id": 99,
+      "model": "단테",
+      "content": "<Hey... Aku akan menghargai jika kalian tidak menganggap hidup kalian \"berakhir sama\"... Semakin banyak kematian berarti semakin banyak penderitaan bagiku, kau tahu...?>"
+    },
+    {
+      "id": 100,
+      "model": "돈키호테",
+      "content": "T-Tapi—"
+    },
+    {
+      "id": 101,
+      "model": "파우스트",
+      "content": "Meskipun relatif mudah diprediksi, tidak disarankan untuk meremehkan Ordeal L Corp. lama, karena mereka juga diberi tingkat bahaya yang semakin meningkat secara bertahap."
+    },
+    {
+      "id": 102,
+      "model": "단테",
+      "content": "<Tingkay bahaya?>"
+    },
+    {
+      "id": 103,
+      "model": "파우스트",
+      "content": "Benar. Skenario pertama dimulai dengan Dawn (Fajar), kemudian Noon (Siang), diikuti oleh penekanan Abnormality tingkat risiko WAW."
+    },
+    {
+      "id": 104,
+      "model": "파우스트",
+      "content": "Sudah jelas bahwa Ordeal berikutnya akan lebih berbahaya dibandingkan Ordeal of Noon."
+    },
+    {
+      "id": 105,
+      "model": "이상",
+      "content": "Ah, anda pasti merujuk pada tekanan bertahap yang telah kita bahas sebelumnya, Nona Faust."
+    },
+    {
+      "id": 106,
+      "model": "파우스트",
+      "content": "Ya. Mengikuti cara berpikir mode deduktif tersebut, Ordeal kali ini pastilah..."
+    },
+    {
+      "id": 107,
+      "model": "파우스트",
+      "content": "... Ordeal of Dusk (Senja)."
+    },
+    {
+      "id": 108,
+      "model": "히스클리프",
+      "content": "Gileee... Lu punya bakat untuk pentas seni deh. Hei, lu ga ada kebiasaan mengulur waktu, menunggu momen dramatis untuk menyampaikan informasi penting, kan?"
+    },
+    {
+      "id": 109,
+      "model": "파우스트",
+      "content": "Faust tidak peduli untuk sandiwara tidak berguna dan sia-sia seperti itu."
+    },
+    {
+      "id": 110,
+      "model": "히스클리프",
+      "content": "Apa— *uhuk* Tadi gue cuma bercanda. Ga perlu marah-marah kek gitu."
+    },
+    {
+      "id": 111,
+      "model": "파우스트",
+      "content": "……."
+    },
+    {
+      "id": 112,
+      "content": "... Aku mungkin perlu mengklarafikasi beberapa keraguan untuk Faust agar dapat dibahas di sesi konsultasi kita berikutnya."
+    },
+    {
+      "id": 113,
+      "model": "",
+      "content": "<Sebaiknya kita fokus pada Ordeal yang kita hadapi dulu... F-Faust? Bisakah kamu jelaskan lebih lanjut?>"
+    },
+    {
+      "id": 114,
+      "model": "파우스트",
+      "content": "Waktunya adalah Dusk, dan warnanya Amber (kuning keemasan)"
+    },
+    {
+      "id": 115,
+      "model": "파우스트",
+      "content": "Food Chain nampaknya akan muncul dalam Ordeal ini."
+    },
+    {
+      "id": 116,
+      "content": "Food Chain? Seperti siklus alami makan-dan-akan-dimakan itu?"
+    },
+    {
+      "id": 117,
+      "model": "로쟈",
+      "content": "Ugh... Kenapa...?"
+    },
+    {
+      "id": 118,
+      "model": "로쟈",
+      "content": "Kenapa harus serangga lagi?!!"
+    },
+    {
+      "id": 119,
+      "content": "Saat aku masih merenungkan apa yang baru saja dikatakan Faust, Rodya—yang tampaknya menyadari sesuatu menggeliat dari kejauhan—tiba-tiba melontarkan omelan jijik dan kesal..."
+    },
+    {
+      "id": 120,
+      "model": "로쟈",
+      "content": "Sejak terakhir, ada saja hal-hal yang membuatku jijik... Apa ini juga salah satu tujuan oleh \"skenario\" itu?"
+    },
+    {
+      "id": 121,
+      "content": "... sambil memegang erat kaleng minuman jeli di tangannya."
+    },
+    {
+      "id": 122,
+      "model": "로쟈",
+      "content": "Ugh, udah deh, nafsu makanku dah hilang."
+    },
+    {
+      "id": 123,
+      "model": "오티스",
+      "content": "Selesaikan mengunyah sebelum berbicara, atau hilangkan ekspresi jijik di wajahmu jika kau tetap bersikeras melahap agar-agar itu. Pelanggaran etika kesopanan satu demi satu lainnya."
+    },
+    {
+      "id": 124,
+      "model": "오티스",
+      "content": "Untungnya, Manajer Eksekutif, kecepatan pergerakan entitas tersebut tampak sangat lambat. Pengukuran jarak yang cermat ditambah dengan strategis sistematis seharusnya memungkinkan kita menetralisir target tersebut tanpa masalah."
+    },
+    {
+      "id": 125,
+      "model": "단테",
+      "content": "<... Benar. Tidak perlu terburu-buru.>"
+    },
+    {
+      "id": 126,
+      "content": "Jika kita bisa bergerak lebih cepat daripada makhluk-makhluk itu... Seharusnya kita akan baik-baik saja."
+    }
+  ]
+}

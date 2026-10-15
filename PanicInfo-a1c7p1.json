@@ -1,0 +1,16 @@
+{
+  "dataList": [
+    {
+      "id": 1027,
+      "panicName": "Lapar",
+      "lowMoraleDescription": "Awal Giliran: Peroleh 1 [Binding] dan 2 [Enhancement]. Terima 5 SP damage pada Akhir Giliran",
+      "panicDescription": "Awal Giliran: peroleh 2 [Binding] dan 4 [Enhancement]."
+    },
+    {
+      "id": 1028,
+      "panicName": "Duel Specialist",
+      "lowMoraleDescription": "Awal Giliran: Peroleh 2 [AttackUp]. Saat Kalah Clash, peroleh 1 [DefenseDown] (maks 3 per giliran). Min. Speed -1",
+      "panicDescription": "Awal Giliran: Peroleh 4 [AttackUp]. Saat Kalah Clash, peroleh 2 [DefenseDown] (maks 6 per giliran). Min. Speed -1"
+    }
+  ]
+}

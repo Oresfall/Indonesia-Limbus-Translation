@@ -1,0 +1,364 @@
+{
+  "dataList": [
+    {
+      "id": 9103601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tusuk",
+          "desc": "",
+          "coinlist": [
+              {
+                  "coindescs": [
+                      {
+                          "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count"
+                      }
+                  ]
+              }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9103602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Robek Daging",
+          "desc": "Jika target memiliki 5+ [Laceration], Base Power +1",
+          "coinlist": [
+              {
+                  "coindescs": [
+                      {
+                          "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count\nJika target memiliki 3+ tipe dari efek negatif, beri +1 tambahan [Laceration] Count"
+                      },
+                      {
+                          "desc": "[OnSucceedAttackHead] Beri 2 [DefenseDown] giliran berikutnya"
+                      }
+                  ]
+              },
+              {
+                  "coindescs": [
+                      {
+                          "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count\nJika target memiliki 3+ tipe dari efek negatif, beri +1 tambahan [Laceration] Count"
+                      },
+                      {
+                          "desc": "[OnSucceedAttackHead] Beri 2 [DefenseDown] giliran berikutnya"
+                      }
+                  ]
+              }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9103603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Artwork: Pembebasan Tulang Belulang Mengikuti Irama Jantung",
+          "desc": "Base Power +1 untuk setiap 20% HP yang persentase yang hilang pada \"Inti\" unit ini (maks 4)\nCoin Power +1 untuk setiap 3 [Laceration] pada target (maks 2)\n[WinDuel] Beri +2 [Vibration] Count\n[DefeatDuel] Peroleh 1 [Paralysis] giliran berikutnya",
+          "coinlist": [
+              {
+                  "coindescs": [
+                      {
+                          "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count"
+                      },
+                      {
+                          "desc": "[OnSucceedAttack] Beri 3 [Vibration]"
+                      }
+                  ]
+              },
+              {
+                  "coindescs": [
+                      {
+                          "desc": "[OnSucceedAttack] Beri 5 [Laceration]"
+                      }
+                  ]
+              },
+              {
+                  "coindescs": [
+                      {
+                          "desc": "[SuperCoin]"
+                      },
+                      {
+                          "desc": "[OnStartCoin] Kehilangan 30% dari HP \"Inti\" unit saat ini (tidak dapat terkena Stagger karena efek ini; bulatkan ke bawah)"
+                      },
+                      {
+                          "desc": "[OnSucceedAttack] Peroleh 5 [Laceration]"
+                      },
+                      {
+                          "desc": "[OnSucceedAttack] Beri 5 [Laceration]"
+                      },
+                      {
+                          "desc": "[UnBrokenCoinOnSucceedAttack] Aktifkan [Switch_Vibration] menjadi [VibrationBleeding]"
+                      },
+                      {
+                          "desc": "[UnBrokenCoinOnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi [Vibration] Count target sebanyak 1"
+                      }
+                  ]
+              }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9103605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kontraksi Otot",
+          "desc": "[CanDuelGuard]\n[StartBattle] Peroleh 1 [MuscleContraction] giliran berikutnya. Ketika diserang, peroleh 1 tambahan [MuscleContraction] (sekali per giliran)",
+          "coinlist": [
+              {
+                  "coindescs": [
+                      {
+                          "desc": ""
+                      }
+                  ]
+              }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9103701,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Jab",
+          "desc": "",
+          "coinlist": [
+              {
+                  "coindescs": [
+                      {
+                          "desc": "[OnSucceedAttack] Beri 4 [Laceration]"
+                      }
+                  ]
+              }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9103702,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Merobek Otot",
+          "desc": "Jika target memiliki 5+ [Laceration], Base Power +1\nJika target memiliki 3+ tipe dari efek negatif, beri +30% damage",
+          "coinlist": [
+              {
+                  "coindescs": [
+                      {
+                          "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                      }
+                  ]
+              },
+              {
+                  "coindescs": [
+                      {
+                          "desc": "[OnSucceedAttack] Beri 3 [Laceration]"
+                      }
+                  ]
+              }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9103703,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Artwork: Pembebasan Tulang Belulang Mengikuti Irama Jantung",
+          "desc": "Base Power +1 untuk setiap 20% HP yang persentase yang hilang pada \"Inti\" unit ini (maks 4)\nCoin Power +1 untuk setiap 3 [Laceration] pada target (maks 2)\n[WinDuel] Beri +2 [Vibration] Count\n[DefeatDuel] Peroleh 1 [Paralysis] giliran berikutnya",
+          "coinlist": [
+              {
+                  "coindescs": [
+                      {
+                          "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count"
+                      },
+                      {
+                          "desc": "[OnSucceedAttack] Beri 3 [Vibration]"
+                      }
+                  ]
+              },
+              {
+                  "coindescs": [
+                      {
+                          "desc": "[OnSucceedAttack] Beri 5 [Laceration]"
+                      }
+                  ]
+              },
+              {
+                  "coindescs": [
+                      {
+                          "desc": "[SuperCoin]"
+                      },
+                      {
+                          "desc": "[OnStartCoin] Kehilangan 30% dari HP \"Inti\" unit saat ini (tidak dapat terkena Stagger karena efek ini; bulatkan ke bawah)"
+                      },
+                      {
+                          "desc": "[OnSucceedAttack] Peroleh 5 [Laceration]"
+                      },
+                      {
+                          "desc": "[OnSucceedAttack] Beri 5 [Laceration]"
+                      },
+                      {
+                          "desc": "[UnBrokenCoinOnSucceedAttack] Aktifkan [Switch_Vibration] menjadi [VibrationBleeding]"
+                      },
+                      {
+                          "desc": "[UnBrokenCoinOnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi [Vibration] Count target sebanyak 1"
+                      }
+                  ]
+              }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9103705,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Kontraksi Otot",
+          "desc": "[CanDuelGuard]\n[StartBattle] Peroleh 1 [MuscleContraction] giliran berikutnya. Ketika diserang, peroleh 1 tambahan [MuscleContraction] (sekali per giliran)",
+          "coinlist": [
+              {
+                  "coindescs": [
+                      {
+                          "desc": ""
+                      }
+                  ]
+              }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9103801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Bound Muscles",
+          "desc": "",
+          "coinlist": [
+              {
+                  "coindescs": [
+                      {
+                          "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count"
+                      },
+                      {
+                          "desc": "[OnSucceedAttackHead] Beri 1 [Desire] giliran berikutnya"
+                      }
+                  ]
+              }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9103802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tear dan Rip",
+          "desc": "Jika target memiliki 5+ [Laceration], Base Power +1",
+          "coinlist": [
+              {
+                  "coindescs": [
+                      {
+                          "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count\nJika target memiliki 3+ tipe dari efek negatif, beri +1 tambahan [Laceration] Count"
+                      },
+                      {
+                          "desc": "[OnSucceedAttackHead] Beri 1 [Desire] giliran berikutnya"
+                      }
+                  ]
+              },
+              {
+                  "coindescs": [
+                      {
+                          "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count\nJika target memiliki 3+ tipe dari efek negatif, beri +1 tambahan [Laceration] Count"
+                      },
+                      {
+                          "desc": "[OnSucceedAttackHead] Beri 1 [Desire] giliran berikutnya"
+                      }
+                  ]
+              }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9103803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Artwork Adorned sebanyak Desire",
+          "desc": "Base Power +1 untuk setiap 20% HP yang persentase yang hilang pada \"Inti\" unit ini (maks 4)\nCoin Power +1 untuk setiap 3 [Laceration] pada target (maks 2)\n[WinDuel] Beri +2 [Vibration] Count\n[DefeatDuel] Peroleh 1 [Paralysis] giliran berikutnya",
+          "coinlist": [
+              {
+                  "coindescs": [
+                      {
+                          "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count"
+                      },
+                      {
+                          "desc": "[OnSucceedAttack] Beri 3 [Vibration]"
+                      }
+                  ]
+              },
+              {
+                  "coindescs": [
+                      {
+                          "desc": "[OnSucceedAttack] Beri 5 [Laceration]"
+                      }
+                  ]
+              },
+              {
+                  "coindescs": [
+                      {
+                          "desc": "[SuperCoin]"
+                      },
+                      {
+                          "desc": "[OnStartCoin] Kehilangan 30% dari HP \"Inti\" unit saat ini (tidak dapat terkena Stagger karena efek ini; bulatkan ke bawah)"
+                      },
+                      {
+                          "desc": "[OnSucceedAttack] Peroleh 5 [Laceration]"
+                      },
+                      {
+                          "desc": "[OnSucceedAttack] Beri 2 [Desire] giliran berikutnya"
+                      },
+                      {
+                          "desc": "[UnBrokenCoinOnSucceedAttack] Aktifkan [Switch_Vibration] menjadi [VibrationBleeding]"
+                      },
+                      {
+                          "desc": "[UnBrokenCoinOnSucceedAttack] Aktifkan [VibrationExplosion]; lalu, kurangi [Vibration] Count target sebanyak 1"
+                      }
+                  ]
+              }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9103805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "Tightening Ribbons",
+          "desc": "[CanDuelGuard]\nKetika diserang, beri 1 [PinkRibbon_Ishmael] terhadap penyerang (sekali per Skill)\n[StartBattle] Peroleh 1 [MuscleContraction] giliran berikutnya. Ketika diserang, peroleh 1 tambahan [MuscleContraction] (sekali per giliran)",
+          "coinlist": [
+              {
+                  "coindescs": [
+                      {
+                          "desc": ""
+                      }
+                  ]
+              }
+          ]
+        }
+      ]
+    }
+  ]
+}

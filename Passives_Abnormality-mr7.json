@@ -1,0 +1,242 @@
+{
+  "dataList": [
+    {
+      "id": 131911,
+      "name": "Gadis Besi - Defibrillation",
+      "desc": "Saat memasuki pertempuran, pulihkan 30 SP"
+    },
+    {
+      "id": 135201,
+      "name": "Tanda Pemburu",
+      "desc": "Setiap 3 giliran, pilih musuh acak, kurangi Speed mereka menjadi 1, dan target mereka dengan semua Skill unit ini\n(Jika efek ini tidak dapat diaktifkan karena Stagger, aktifkan giliran berikutnya)"
+    },
+    {
+      "id": 135501,
+      "name": "Prescript yang Dikirim Melalui Perangkat",
+      "desc": "Awal Pertempuran: Peroleh Perisai setara dengan 20% dari maks HP (tidak hilang sepanjang Pertarungan)\n\nAwal Giliran:\n- Peroleh [IndexPrescript_Base_2nd] berdasarkan tahapan [UnlockBuff_Base] pada diri sendiri\n- <color=#ff6000><mark=#ff000040><b><u>Beri [IndexPrescriptTargetToPersonality] pada musuh acak dan prioritaskan menyerang musuh tersebut</u></b></mark></color>\n\nBeri +2.5% damage ke [IndexPrescriptTargetToPersonality] untuk setiap [BlessingOfIndexPrescriptEnemy] (maks 20%)\n- Pada 9 [BlessingOfIndexPrescriptEnemy], beri +30% damage ke semua target saja"
+    },
+    {
+      "id": 135503,
+      "name": "Unlock",
+      "desc": "Akhir Giliran: Pada 3/6/9 [BlessingOfIndexPrescriptEnemy] atau pada 90%-/70%-/50%- HP,\n- Peroleh [UnlockBuff_1]/[UnlockBuff_2]/[UnlockBuff_3]\n- Pulihkan ke 45 SP\n- Konsumsi semua [PressureOfPrescript] dan pulih dari Stagger\n- Peroleh 1 [BlessingOfIndexPrescriptEnemy] pada giliran setelah [UnlockBuff_Base] telah diperoleh untuk pertama kalinya\n\nJika [UnlockBuff_Base] diperoleh berdasarkan kondisi HP di atas,\n- Peroleh [KarmaOfIndexStudent] sebanyak (jumlah SP yang dipulihkan / 15)\n- Menambah [BlessingOfIndexPrescriptEnemy] ke 3/6/9 jika unit ini memiliki kurang dari 3/6/9 [BlessingOfIndexPrescriptEnemy]; peroleh 1 [DefenseDown] dan 2 [KarmaOfIndexStudent] giliran berikutnya untuk setiap [BlessingOfIndexPrescriptEnemy] Stack diperoleh"
+    },
+    {
+      "id": 135505,
+      "name": "Concentration",
+      "desc": "Pada [UnlockBuff_3], beri efek berikut:\n- [BlandishmentShinEnemyDelete], peroleh Perisai setara dengan 50% dari maks HP (bertahan hingga sepanjang Pertempuran)\n- Perkuat [PressureOfPrescript] ke [PressureOfPrescript_2nd] dan maksimalkan Stack-nya\n- Awal Giliran: Peroleh 1 [PressureOfPrescript_2nd]"
+    },
+    {
+      "id": 141801,
+      "name": "Perjuangan Putus Asa",
+      "desc": "- Awal Giliran: Peroleh 3 [SupportProtect]\n- Ketika Nursefather Thumb menang Clash, dan menggunakan Attack terhadap target, ikuti dengan \"Colpi Sottani\" sebagai Serangan Tanpa Lawan terhadap target yang sama (2 kali per giliran)",
+      "summary": "",
+      "undefined": "",
+      "flavor": "'Mungkin aku bisa membunuhnya sekarang. Mungkin ini kesempatanku.'\n\nSekali lagi, perenungan yang sama datang menyergap Lucio saat dia berdiri membayangi master-nya yang sedang tertidur lelap.\nNamun dorongan ini tetap menjadi pikiran yang tidak ada tindakan, karena dia memiliki rasa takut yang lahir dari pengalaman sekaligus rasa syukur atas penyelamatannya dari Backstreets.\nMeskipun demikian, dendamnya tertanam terlalu dalam. Lucio membuat janji dengan dirinya sendiri, bahkan saat dia bersumpah setia sepenuhnya tanpa ada tipu daya:\n'Setelah pertempuran ini berlalu, aku akan membunuhnya. Aku akan mencungkil kedua matanya serta menikam dan menyayatnya, lagi dan lagi, hingga dia tidak lagi bergerak.'\nUntuk pertama kalinya, api berkobar di mata anak laki-laki yang tubuhnya dipenuhi memar itu."
+    },
+    {
+      "id": 137901,
+      "name": "Otoritas Absolut",
+      "desc": "Terima -50% final damage jika \"Murid The Thumb - Lucio\" berada di medan tempur"
+    },
+    {
+      "id": 137911,
+      "name": "Sang Mata Prekognisi",
+      "desc": "Ketika unit ini memasuki Pertempuran, peroleh 30 [FutureEyeOnMirror]\nPada 0 [FutureEyeOnMirror] Stack, ubah [FutureEyeOnMirror] to [FutureEyeOffMirror]",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Relik ini, yang dikenal sebagai Mata Odin, hanyalah sepertiga dari keseluruhan Relik yang dipecah menjadi tiga bagian."
+    },
+    {
+      "id": 137902,
+      "name": "Akselerasi Masa Depan",
+      "desc": "Dalam Clash, <color=#ff6000><mark=#ff000040><b><u>peroleh 1 [LookingFuture] untuk setiap Clash</u></b></mark></color>\nBisa peroleh hingga ([FutureEyeOnMirror] Stack pada Awal Giliran / 3) [LookingFuture] per giliran\nSelama unit ini memiliki [FutureEyeOnMirror], <color=#ff6000><mark=#ff000040><b><u>saat diserang oleh Serangan Tanpa Lawan atau kalah Clash akan mengaktifkan Skill \"Prekognisi\"</u></b></mark></color>",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Semakin sering kita clash, semakin panas pedangku... dan berakselerasi untuk membawa kita ke masa depan yang kuramalkan.\""
+    },
+    {
+      "id": 137908,
+      "name": "Berlebihan",
+      "desc": "Hal berikut membuat unit ini untuk kehilangan Stack [FutureEyeOnMirror]:\n- Jika unit ini gagal untuk peroleh [LookingFuture], kehilangan 1 [FutureEyeOnMirror] untuk setiap Clash\n- Ketika unit ini diserang oleh Serangan Tanpa Lawan, kehilangan 1 [FutureEyeOnMirror]\n- Saat Kalah Clash, kehilangan 3 [FutureEyeOnMirror]",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "'Mataku memanas, rongga mataku mulai sakit dan pandanganku memerah.'"
+    },
+    {
+      "id": 137905,
+      "name": "La Spada di Palermo",
+      "desc": "Beri +15% damage lebih terhadap Perisai untuk setiap Burn pada target utama (maks 300%)\nPada Penggunaan Skill, jika Skill Attack target antara Slash atau Pierce, Clash Power +1\nJika efek Skill unit ini mengaktifkan [VibrationExplosion], peroleh 2 [AttackDmgUp] giliran berikutnya (3 kali per giliran)\nJika unit ini memberi serangan Critical dengan efek Skillnya, pulihkan 5 SP",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 137904,
+      "name": "Aib dari Famiglia Bognatelli",
+      "desc": "Terima -30% HP, SP damage dari [Combustion], [Laceration], [Burst], [Sinking]; -30% ke Batas Stagger yang dinaikkan oleh [Vibration]\nPada 1+ [AccelBullet], Skill yang menghabiskan [AccelBullet] beri +30% damage dan beri +150% damage terhadap Perisai\nPeroleh 4 [Breath] untuk setiap [AccelBullet] yang dihabiskan\nKetika membalik Coin yang menghabiskan [AccelBullet], tidak dapat menggagalkan serangan bahkan jika unit ini tidak memiliki Amunisi Percepatan",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"Kamu adalah pewaris gaya Palermitan dan pengguna pusaka keluarga kami—Kamu memiliki segala keistimewaan yang dapat diharapkan oleh siapa pun. Beraninya kamu mempermalukan dirimu sendiri seperti ini?\"\n\"Kami akan membiarkanmu menyimpan Relik dan pedangnya, karena mereka telah tercemar oleh bau busukmu.\"\n\"Untuk dipromosikan ke posisi Sottocapo, di bawah posisi boss... hanya untuk digulingkan dalam 3 hari. Tidak ada orang lain yang mengalami penghinaan menyedihkan selain kamu, Valencina.\"\n\"You are the shame of our family. La Famiglia Bognatelli menarik cintanya darimu.\""
+    },
+    {
+      "id": 137909,
+      "name": "Shin (心) - Valencina",
+      "desc": "Ketika diserang, atau ketika \"Murid The Thumb - Lucio\" dikalahkan, peroleh [ObsessionAndGreed] giliran berikutnya",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "\"*sigh* Okay. So, kamu bilang kalau kita bisa membawa kembali Tiket dengan cara masuk dan merusak tempat itu sesuai dengan rencana fanatik itu... Apa cara ini akan membawa kembali Tiket pada kita?\""
+    },
+    {
+      "id": 137906,
+      "name": "Lucio, dasar kau tidak berguna!",
+      "desc": "Ketika \"Murid The Thumb - Lucio\" dikalahkan, aktifkan Pasif \"Waktunya Berburu\"",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 137910,
+      "name": "Waktunya Berburu",
+      "desc": "Awal Giliran: Jika unit ini kena Stagger, pulih dari Stagger\n\nSelect Pendosa acak dan beri [TeachersPrey]\n- Aktifkan setiap 4 giliran setelah the initial activation\n- Jika unit ini kills target dengan Skill \"Pemusnahan,\" aktifkan lagi giliran berikutnya",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Gaya Palermitan memiliki banyak kesamaan dengan asal dari teknik pedangnya—La Famiglia Bognatelli.\nBaik Famiglia maupun gaya pedang terkenal karena fokus tanpa henti pada satu mangsa selama perburuan, yang diakhiri dengan Coup de Grâce yang juga bisa disebut pembedahan. Eksekusi ini tidak dilakukan dalam bayang-bayang, tetapi, dengan bangga dipajang untuk dilihat semua orang.\nGaya pedang yang spektakuler dan tangguh telah memberikan banyak kehormatan dan jasa kepada Famiglia, yang pada akhirnya menempatkan mereka di antara Sette Famiglie dari Backstreets.\nValencina, seorang ahli Gaya Palermitan, menggunakannya untuk berburu dan mengeksekusi banyak perwira dan apa yang disebut prajurit tangguh selama Perang Asap, sehingga menjadi \"Perang yang sesungguhnya Pahlawan.\"\nIronisnya, tidak ada yang bisa membayangkan kejatuhannya akan tenggelam begitu ketenarannya melonjak."
+    },
+    {
+      "id": 138201,
+      "name": "Tato Pembalasan [<s>Kakak Tetua</s>]",
+      "desc": "Terima -30% damage dari [Combustion], [Laceration], [Vibration], dan [Burst] (dibulatkan ke bawah)\n-50% ke jumlah dari Batas Stagger yang dinaikan (dibulatkan ke bawah)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 138202,
+      "name": "Buku Balas Dendam",
+      "desc": "Awal Pertempuran: Beri [VengeanceBookSpider] on semua Pendosa\n\nJika unit ini serang dengan lebih dari 3 Skill giliran ini, peroleh 1 [ReinforcedTattooSpider] giliran berikutnya untuk setiap Skill berlebih yang kena",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 138203,
+      "name": "Edukasi Putriku Tersayang",
+      "desc": "Pada Menang Clash, peroleh 1 [DaughterEducationSpider]\n\nSaat Serang dengan Skill, peroleh 1 [DaughterEducationSpider] (sekali per Skill; efek ini tidak aktif untuk Coin Retak)\n\nSaat Menang Clash dengan Skill pertama dalam sebuah giliran, peroleh 1 lebih [DaughterEducationSpider] dan Skill peroleh Coin Power +1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 138204,
+      "name": "Kebencian",
+      "desc": "Ketika diserang sebanyak 2 Skill, peroleh 1 [ResentmentSpider] dan kehilangan 1 [DaughterEducationSpider] (jumlah dari serangan yang diterima selalu dihitung)\n\nPada maks [ResentmentSpider] Stack, gunakan serangan kuat\n\nAkhir Giliran: Pada kurang dari 90% / 60% / 40% HP, maksimalkan Stack [ResentmentSpider] unit ini"
+    },
+    {
+      "id": 138205,
+      "name": "Tato Pembalasan Output Maks... Membuka segel Lævateinn!",
+      "desc": "Ketika [MiddleFatherSwordFour] tidak tersegel, unit ini peroleh [MiddleFatherGutsMirror]"
+    },
+    {
+      "id": 138801,
+      "name": "Aku melakukannya dengan benar kan, Papa?!",
+      "desc": "Mulai Pertempuran dengan [HeatingWireOffSpider]\n\nAwal Giliran: Pada 3+ [GotACompliment], peroleh [HeatingWireOnSpider] dan juga beri [Combustion] dengan Skill yang beri [Laceration]\n- Akhir Giliran: Pada kurang dari 3 [GotACompliment], ubah [HeatingWireOnSpider] unit ini menjadi [HeatingWireOffSpider]\n\nJika \"Nursefather Middle - Matthias\" has [MiddleFatherSwordFour], unit ini tidak dapat enter [HeatingWireOffSpider] state",
+      "flavor": "\"Aku sayang papaku karena dia selalu memuji dan membelikanku buku komik.\""
+    },
+    {
+      "id": 138802,
+      "name": "Tato Gaya The Middle",
+      "desc": "Jika unit ini serang dengan lebih dari 2 Skill, peroleh 1 [ReinforcedTattooSpiderDaughter] giliran berikutnya untuk setiap Skill berlebih yang kena",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "'Akankah Saudara-Saudari Middle menerimaku sebagai keluarga suatu hari, sehingga aku bisa hidup berdampingan dengan mereka?'"
+    },
+    {
+      "id": 138803,
+      "name": "Pujian adalah Angin untuk Layarnya",
+      "desc": "Pada Menang Clash, peroleh 1 [GotACompliment]\n\nSaat Serang dengan Skill, peroleh 1 [GotACompliment] (sekali per Skill; efek ini tidak aktif untuk Coin Retak)\n\nSaat Menang Clash dengan Skill pertama dalam sebuah giliran, peroleh 1 lebih [GotACompliment] dan Skill peroleh Coin Power +1",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 138804,
+      "name": "Aku cukup yakin The Middle tidak pernah lupa",
+      "desc": "Ketika diserang sebanyak 2 Skill, peroleh 1 [ResentmentSpiderDaughter] dan kehilangan 1 [GotACompliment] (jumlah dari serangan yang diterima selalu dihitung)\n\nPada maks [ResentmentSpiderDaughter] Stack, gunakan serangan kuat\n\nAkhir Giliran: Pada kurang dari 80% / 60% / 40% HP, maksimalkan Stack [ResentmentSpiderDaughter] unit ini",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": 138001,
+      "name": "Rien, Nursefather Index",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>Terima -50% damage dari Serangan Tanpa Lawan</u></b></mark></color>\nTerima -50% damage dari [Combustion], [Laceration], [Vibration], [Burst], dan [Sinking]\nKetika pemulihan SP dari [UnlockBuff_Base], jika SP unit ini di bawah 15, pulihkan SP hingga 15\n\nEncounter Start: Peroleh [BurningWoundRien_Mask] dan pulihkan SP hingga 30\n\nPada 55%- HP, akhiri giliran dan peroleh pola baru\n- Hapus semua efek selain yang eksklusif ke unit ini\n- Pada kurang dari 9 [StackRienSpecialSkill], ubah [StackRienSpecialSkill] Stack to 9",
+      "flavor": "Aku menunggu \"momen itu\" seperti yang diperintahkan oleh Prescript.\nBahkan setelah putri kesayanganku pergi, aku tetap menunggu.\n\nDan setelah beberapa saat, aku dihubungi oleh Limbus Company, dan melihat bahwa Backdoor telah terbuka.\nSaat itulah perangkat tersebut berbunyi bip dan memberitahuku bahwa akhirnya tiba waktunya untuk membawa putriku pulang."
+    },
+    {
+      "id": 138002,
+      "name": "Oracle Perangkat [Caduceus]",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>Senjata acak diberikan pada setiap Coin. Setiap senjata memiliki efek unik.</u></b></mark></color>\n- [RienWeapon01Hatchet]\n- [RienWeapon02Stiletto]\n- [RienWeapon03Greatsword]\n- [RienWeapon04Rapier]\n- [RienWeapon05Sledgehammer]\n- [RienWeapon06Ultragreatsword]\n- [RienWeapon07Lance]\n- [RienWeapon08Chain]\n- [RienWeapon09Scythe]\n\nKetika memakai Skill Attack, peroleh 1 [StackRienSpecialSkill] (maks 9)\n- Bisa diperoleh sekali per Skill; tidak memperoleh Stack dari Skill yang sama dua kali\n\n<color=#ff6000><mark=#ff000040><b><u>Awal Giliran: Pada 9 [StackRienSpecialSkill] Stack, gunakan Skill kuat</u></b></mark></color>\n- Akhir Serangan: Setelah menggunakan the powerful Skill untuk pertama kalinya, peroleh [Shin_Rien]\n- Reset batas [StackRienSpecialSkill] per Skill\n- Min & Maks Speed +15\n- Akhir Giliran: Peroleh 1 [Vulnerable] dan 2 [ResultReduction] giliran berikutnya\n\nTurn 3 Start: Pada kurang dari 9 [StackRienSpecialSkill], naikkan Stack-nya ke 9; lalu, peroleh (Stack diperoleh x 3) [KarmaOfIndexRien]\n- Lalu, aktifkan efek ini setiap 3 giliran",
+      "flavor": "Sebuah botol berisi apa yang tampak seperti logam cair yang mampu mengubah bentuk dan massanya, kualitasnya hampir mirip dengan Singularitas, mendesing di dalam Perangkat.\nBentuk yang diambil oleh cairan tersebut bergantung pada Prescript yang diterima oleh Perangkat. Senjata yang dihasilkannya bergantung pada informasi mengenai target dan batas waktu yang diberikan untuk melaksanakan pembunuhan.\nSuatu hari, ketika dia menerima sebuah belati yang terlalu kecil untuk tugas tersebut, dia memilih untuk menunggu hingga perangkat itu menghasilkan senjata yang berbeda. Namun, meskipun tenggat waktu semakin dekat, perangkat itu menolak untuk memberinya senjata yang layak; dia tidak punya pilihan selain membunuh targetnya dengan sebilah garpu."
+    },
+    {
+      "id": 138003,
+      "name": "Keyakinan Prescript",
+      "desc": "Awal Giliran:\n- Peroleh [IndexPrescript_Base_2nd] berdasarkan tahapan [UnlockBuff_Base] pada diri sendiri\n- Beri [IndexPrescriptTargetToPersonality] terhadap Pendosa acak, dan prioritaskan menyerang mereka\n<color=#ff6000><mark=#ff000040><b><u>- Ketika memakai Skill terhadap [IndexPrescriptTargetToPersonality], ubah semua Coin pada Skill tersebut menjadi [SuperCoin]</u></b></mark></color>\n\nKetika menyerang, jika [IndexPrescriptTargetToPersonality] terbunuh, atau jika unit ini tidak bisa menyerang target itu, <color=#ff6000><mark=#ff000040><b><u>gunakan sisa Skill terhadap a acak other Pendosa\n- Prioritaskan target dengan HP terendah, unless they have 1 HP</u></b></mark></color>\n- Ketika the secara acak chosen Pendosa terbunuh, atau jika the said Pendosa's HP is brought turun hingga 1, repeat efek ini on another Pendosa\n\nBeri +2.5% damage terhadap [IndexPrescriptTargetToPersonality] untuk setiap [BlessingOfIndexPrescriptEnemy] (maks 20%)\n- Pada 9 [BlessingOfIndexPrescriptEnemy], beri +30% damage terhadap semua target",
+      "flavor": "Apa kau ingin aku membangun sebuah keluarga?\n\n\"Pastilah takdir yang telah mempertemukan kita. Tidak kusangka aku akan mendapatkan suami sepertimu...\""
+    },
+    {
+      "id": 138004,
+      "name": "Melakukan Prescript",
+      "desc": "Akhir Giliran: Jika [IndexPrescript_Base_2nd] dilakukan giliran ini, pulihkan 10 SP dan peroleh 3 [BlessingOfIndexPrescriptEnemy] (sekali per giliran)\n\n<color=#ff6000><mark=#ff000040><b><u>Akhir Giliran: Jika [IndexPrescript_Base_2nd] tidak dilakukan giliran ini, peroleh 8 [KarmaOfIndexRien]</u></b></mark></color>\n- Jika unit ini tidak memiliki [UnlockBuff_Base], peroleh 1 [BlessingOfIndexPrescriptEnemy] pada Akhir Giliran\n- Pada 9 [BlessingOfIndexPrescriptEnemy], tidak memperoleh [KarmaOfIndexRien]",
+      "flavor": "Apa kau ingin aku kehilangan keluargaku?\n\n\"Sayang, aku harus pergi dalam perjalanan singkat ke utara hari ini.\"\n\"Ah, juga—hei, Nak. Aku menanti sebuah paket sore ini, jadi bisakah kau tolong mengambilkannya untukku, manis?\""
+    },
+    {
+      "id": 138005,
+      "name": "Unlock",
+      "desc": "Akhir Giliran: Pada 3/6/9 [BlessingOfIndexPrescriptEnemy] atau pada 95%-/85%-/75%- HP,\n- Peroleh [UnlockBuff_Rien1]/[UnlockBuff_Rien2]/[UnlockBuff_Rien3]\n\nAkhir Giliran 1: Pada saat kurang dari tahapan [UnlockBuff_Base] 1, peroleh [UnlockBuff_Rien1]\nTurn 2 End: Pada saat kurang dari tahapan [UnlockBuff_Base] 2, peroleh [UnlockBuff_Rien2]\n\nKetika memperoleh [UnlockBuff_Base] untuk pertama kalinya, jika SP unit ini di bawah 15, pulihkan hingga 15 SP\n\nKetika [UnlockBuff_Base] diaktifkan karena kondisi HP atau Giliran:\n- Pada kurang dari 3/6/9 [BlessingOfIndexPrescriptEnemy] Stack, naikkan the Stack to 3/6/9 dan peroleh 5 [KarmaOfIndexRien] pada Awal Giliran berikutnya untuk setiap Stack diperoleh",
+      "flavor": "\"Mengikuti Prescript adalah untuk membuka yang terkunci.\""
+    },
+    {
+      "id": 138101,
+      "name": "Rien, sang Ayah [Imitasi]",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>Terima -75% damage dari Serangan Tanpa Lawan</u></b></mark></color>\nTerima -75% damage dari [Combustion], [Laceration], [Vibration], [Burst], dan [Sinking]\nKetika pemulihan SP dari [UnlockBuff_Base], jika SP unit ini di bawah 15, pulihkan hingga 15 SP\n\nKetika unit ini memasuki fase baru pada 55% HP, peroleh efek berikut:\n- Hapus semua efek selain yang eksklusif ke unit ini\n- Peroleh [IndexPrescript_RienSecondPhase]\n- Ubah [BurningWoundRien_Mask] ke [BurningWoundRien]\n- Ubah [KarmaOfIndexRien] ke [KarmaOfIndexRien_2Phase]; lalu peroleh 10 Stack dari efek tersebut\n- Jika unit ini tidak memiliki [Shin_Rien], langsung peroleh efek tersebut\n\nPada 25% atau lebih sedikit HP, peroleh pola baru dan sangat meningkatkan Skill tertentu",
+      "flavor": "Pernah suatu ketika, dia menyimpan kecurigaan bahwa dirinya sedang dibentuk menjadi imitasi seseorang; dia meragukan Kehendak tersebut dan hampir menentangnya, karena dia tidak tahu siapa yang harus dia tiru. Hanya ketika semuanya sudah terlambat barulah dia memahami maksudnya dan menerima kehendak dari Prescript.\nHanya setelah itulah sang ayah palsu disempurnakan."
+    },
+    {
+      "id": 138102,
+      "name": "Oracle Perangkat [Caduceus] - Full Unlock",
+      "desc": "<color=#ff6000><mark=#ff000040><b><u>Senjata acak diberikan pada setiap Coin. Setiap senjata memiliki efek unik.</u></b></mark></color>\n- [RienWeapon01Hatchet2phase]\n- [RienWeapon02Stiletto2phase]\n- [RienWeapon03Greatsword2phase]\n- [RienWeapon04Rapier2phase]\n- [RienWeapon05Sledgehammer2phase]\n- [RienWeapon06Ultragreatsword2phase]\n- [RienWeapon07Lance2phase]\n- [RienWeapon08Chain2phase]\n- [RienWeapon09Scythe2phase]\n\nKetika memakai Skill Attack, peroleh 1 [StackRienSpecialSkill] (maks 9)\n- Bisa diperoleh sekali per Skill; tidak memperoleh Stack dari Skill yang sama dua kali\n- Tidak peroleh Stack dari Skill yang digunakan pada pola spesial\n\nAwal Giliran: Pada 9 [StackRienSpecialSkill] Stack, gunakan Skill kuat\n- Reset batas [StackRienSpecialSkill] per Skill\n- Min & Maks Speed +15\n- Akhir Giliran: Peroleh 2 [Vulnerable] dan 3 [ResultReduction] giliran berikutnya\n\nAktifkan hal berikut, dimulai dari giliran dimana fase berubah\n- Setiap 3 giliran, saat kurang dari 9 [StackRienSpecialSkill], naikkan Stack-nya ke 9; lalu, peroleh (Stack diperoleh x 5) [KarmaOfIndexRien_2Phase]",
+      "flavor": "Sebuah senjata tanpa tanding dan sebuah kutukan yang dianugerahkan oleh Hermes, sesosok dewa Kota yang Prescript-nya disebarkan melalui gelombang radio."
+    },
+    {
+      "id": 138103,
+      "name": "Keyakinan Prescript",
+      "desc": "Awal Giliran:\n- Beri [IndexPrescriptTargetToPersonality] terhadap Pendosa acak, dan prioritaskan menyerang mereka\n<color=#ff6000><mark=#ff000040><b><u>- Ketika memakai Skill terhadap [IndexPrescriptTargetToPersonality], ubah semua Coin pada Skill tersebut menjadi [SuperCoin]</u></b></mark></color>\n- Peroleh [Protection] setara dengan [BlessingOfIndexPrescriptEnemy] (maks 9)\n<color=#ff6000><mark=#ff000040><b><u>\n· Kehilangan 1 Stack untuk setiap 20 [KarmaOfIndexRien_2Phase]</u></b></mark></color>\n\nKetika menyerang, jika [IndexPrescriptTargetToPersonality] terbunuh, atau jika unit ini tidak bisa menyerang target itu, <color=#ff6000><mark=#ff000040><b><u>gunakan sisa Skill terhadap a acak other Pendosa\n- Prioritaskan target dengan HP terendah, unless they have 1 HP\n- Ketika the secara acak chosen Pendosa terbunuh, atau jika the said Pendosa's HP is brought turun hingga 1, repeat efek ini on another Pendosa</u></b></mark></color>\n\nBeri +5% damage terhadap [IndexPrescriptTargetToPersonality] untuk setiap [BlessingOfIndexPrescriptEnemy] (maks 40%)\n- Pada 9 [BlessingOfIndexPrescriptEnemy], beri +50% damage terhadap semua target\n\nStarting dari the first giliran setelah the phase ubah, aktifkan efek berikut:\n- Awal Giliran: Peroleh [BlackNightmare]\n· Jika unit ini used serangan kuat in the previous giliran, kehilangan [BlackNightmare] for that giliran\n- Ketika memperoleh [BlackNightmare], jika unit ini memiliki lebih sedikit than 9 [StackRienSpecialSkill] Stack, aktifkan a unique pattern",
+      "flavor": "Aku membangun sebuah keluarga.\n\n\"Kamu tidak seharusnya berada di sini sekarang.\"\n\"Pekerjaanku masih jauh dari selesai, dan aku ingin mengukir mereka dengan tenang agar mereka bisa mencapai keindahan paling indah yang bisa kupahat.\"\n\"... Jangan katakan padaku, apakah kamu di sini untuk menentang Prescript?\""
+    },
+    {
+      "id": 138104,
+      "name": "Melakukan Prescript",
+      "desc": "Akhir Giliran: Jika [IndexPrescript_Base_2nd] dilakukan giliran ini, pulihkan 15 SP dan peroleh 1 [BlessingOfIndexPrescriptEnemy] (sekali per giliran)\n\n<color=#ff6000><mark=#ff000040><b><u>Akhir Giliran: Jika [IndexPrescript_Base_2nd] tidak dilakukan giliran ini, peroleh 8 [KarmaOfIndexRien_2Phase] dan kehilangan 1 [BlessingOfIndexPrescriptEnemy]</u></b></mark></color>\n- Jika unit ini used a powerful Skill giliran ini, peroleh 12 [KarmaOfIndexRien_2Phase] dan kehilangan 2 [BlessingOfIndexPrescriptEnemy] saja",
+      "flavor": "Aku... kehilangan keluargaku.\n\n\"Jangan pergi...\"\n\"Jangan pergi... Tidak... seperti ini... Ayah... Tolong... bantu kami...\""
+    },
+    {
+      "id": 138301,
+      "name": "Semua dari Corpusku yang Telah Kuberikan ke Tibia",
+      "desc": "Terima -30% HP, SP damage dari [Combustion], [Vibration], [Burst], dan [Sinking]\nTerima -50% damage dari [Laceration]\n\nAwal Giliran: Jika unit ini kena Stagger, pulih dari Stagger. Setelah itu, peroleh 2 [CrimsonTakeDamageUp] dan tidak dapat menggunakan 'Seni Installasi no. 3: Improvisasi Tulang Rusuk' hingga giliran berikutnya (sekali per Pertempuran)\n\nAkhir Giliran: Peroleh 1 [DefenseDown] giliran berikutnya untuk setiap 4 [Combustion] pada diri sendiri (maks 15)"
+    },
+    {
+      "id": 138306,
+      "name": "Izinkan Saya Menikmati Pameran Muridku Secara Singkat",
+      "desc": "Jika unit ini memiliki [SupportProtect], <color=#ff6000><mark=#ff000040><b><u>kehilangan 1 [SupportProtect] pada Awal Clash</u></b></mark></color> (sekali per Skill)"
+    },
+    {
+      "id": 141704,
+      "name": "Pengunjung Harus Mematuhi Peraturan dari Pameran",
+      "desc": "Jika unit ini memiliki [SupportProtect], <color=#ff6000><mark=#ff000040><b><u>kehilangan 1 [SupportProtect] pada Awal Clash</u></b></mark></color> (sekali per Skill)"
+    },
+    {
+      "id": 141706,
+      "name": "Dengan Karya Seni Ini, Aku Akan Membuktikan Diriku Dihadapan Sang Maestro",
+      "desc": "Pada kurang dari 20 SP ketika Nursefather Ring memasuki Pertempuran, pulihkan SP ke 20"
+    },
+    {
+      "id": 138302,
+      "name": "Kumohon, Jangan Berlarian dan Duduklah",
+      "desc": "Akhir Giliran: Beri [RedemptionTheRings] giliran berikutnya kepada Pendosa dengan Speed tercepat"
+    }
+  ]
+}

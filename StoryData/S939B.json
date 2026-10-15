@@ -1,0 +1,568 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "Koridor, di suatu tempat",
+      "model": "오티스",
+      "content": "Total empat orang. Kita tiba tepat seperti yang Faust katakan."
+    },
+    {
+      "id": 1,
+      "model": "오티스",
+      "content": "Ini adalah destinasi yang ditugaskan kepada kita... kita berhasil mencapainya tanpa komplikasi apa pun."
+    },
+    {
+      "id": 2,
+      "model": "오티스",
+      "content": "Manajer Eksekutif, lokasi <ruby=Ranting Emas>Golden Bough</ruby> adalah...?"
+    },
+    {
+      "id": 3,
+      "model": "단테",
+      "content": "<Tidak ada di sini. Tapi tidak jauh juga.>"
+    },
+    {
+      "id": 4,
+      "model": "뫼르소",
+      "content": "Rencana menetapkan bahwa kita harus menahan posisi ini sampai LCA tiba, lalu mobilisasi untuk mengamankan <ruby=Ranting Emas>Golden Bough</ruby>."
+    },
+    {
+      "id": 5,
+      "model": "단테",
+      "content": "<Ya, itulah rencananya.>"
+    },
+    {
+      "id": 6,
+      "model": "단테",
+      "content": "<Meskipun... aku tidak yakin kita harus duduk diam di sini dan menunggu...>"
+    },
+    {
+      "id": 7,
+      "model": "뫼르소",
+      "content": "Anda harus mundur lebih jauh ke belakang, Manajer. Topeng dan pakaian individu ini menunjukkan bahwa dia adalah Nursefather dari Index yang disebutkan saat rapat."
+    },
+    {
+      "id": 8,
+      "content": "Ruangan tempat kita tiba melalui <ruby=Pintu Belakang>Backdoor</ruby> adalah..."
+    },
+    {
+      "id": 9,
+      "place": "Koridor The Index",
+      "model": "검지아비",
+      "content": "Kamu sudah pulang."
+    },
+    {
+      "id": 10,
+      "model": "검지아비",
+      "content": "Aku baru saja memikirkanmu."
+    },
+    {
+      "id": 11,
+      "content": "... sebuah ruangan di mana Nursefather Index sedang menunggu Ryōshū dengan senyuman berseri-seri."
+    },
+    {
+      "id": 12,
+      "content": "Meskipun... sesuatu tentang topengnya memberikan kesan mengerikan pada senyuman itu."
+    },
+    {
+      "id": 13,
+      "model": "료슈",
+      "content": "......."
+    },
+    {
+      "id": 14,
+      "model": "검지아비",
+      "content": "Kapan pun aku merindukanmu, sayang..."
+    },
+    {
+      "id": 15,
+      "model": "검지아비",
+      "content": "... aku mengusap jari-jariku di sepanjang lekukan bekas luka bakar yang kau beri di wajahku."
+    },
+    {
+      "id": 16,
+      "model": "검지아비",
+      "content": "Rasanya bergelombang di sisi ini, tapi kasar seperti pasir basah di sisi lainnya. Seperti jejak ombak yang bergulir di sepanjang garis pantai."
+    },
+    {
+      "id": 17,
+      "content": "Nursefather Index membelai permukaan topengnya yang halus."
+    },
+    {
+      "id": 18,
+      "model": "검지아비",
+      "content": "Melihatmu di sini... membuat wajahku terasa terbakar dan sakit."
+    },
+    {
+      "id": 19,
+      "model": "료슈",
+      "content": "Anakku. Di mana dia?"
+    },
+    {
+      "id": 20,
+      "content": "Ryōshū bertanya dengan suara pelan, seolah-olah dia tidak peduli dengan hal lain yang dikatakannya."
+    },
+    {
+      "id": 21,
+      "model": "검지아비",
+      "content": "Araya... Dia sangat mencintaimu."
+    },
+    {
+      "id": 22,
+      "model": "검지아비",
+      "content": "Aku harap kau masih bisa mengingat wajahnya. Kau mengayunkan pedang itu dengan begitu liar hari itu, bukan?"
+    },
+    {
+      "id": 23,
+      "model": "료슈",
+      "content": "Hanya aku... yang seharusnya bisa buka brankas itu."
+    },
+    {
+      "id": 24,
+      "model": "검지아비",
+      "content": "Kau yakin, sayang? Aku yakin kau tahu lebih baik dari itu."
+    },
+    {
+      "id": 25,
+      "model": "검지아비",
+      "content": "Tapi itu tadi cukup licik darimu."
+    },
+    {
+      "id": 26,
+      "model": "검지아비",
+      "content": "Kau selalu menghilang dan bersembunyi setiap kali Shiomi menumpahkan kebenciannya padamu."
+    },
+    {
+      "id": 27,
+      "model": "검지아비",
+      "content": "Dulu, aku mengira kau punya bakat khusus dalam permainan petak umpet."
+    },
+    {
+      "id": 28,
+      "model": "검지아비",
+      "content": "Padahal kenyataannya sesederhana insting luar biasa dalam darah kalian yang mengaktifkan Time Vault spesial itu."
+    },
+    {
+      "id": 29,
+      "model": "료슈",
+      "content": "...!"
+    },
+    {
+      "id": 30,
+      "model": "료슈",
+      "content": "Dihui Star... Jadi dia yang buka brankasnya. Dia membawa Araya."
+    },
+    {
+      "id": 31,
+      "model": "검지아비",
+      "content": "Tidak mengejutkan kau sampai pada kesimpulan itu. Bagaimanapun juga, dia selalu membencimu. Dan dia punya komitmen paling rendah terhadap tugasnya."
+    },
+    {
+      "id": 32,
+      "model": "검지아비",
+      "content": "Kebencian itu lahir dari lubang membusuk di mana tidak ada harapan maupun keinginan yang tersisa... karena dia membuang masa depannya sendiri."
+    },
+    {
+      "id": 33,
+      "model": "검지아비",
+      "content": "Sekarang, kemarilah. Haruskah aku membacakan buku bergambar untukmu?"
+    },
+    {
+      "id": 34,
+      "model": "료슈",
+      "content": "......."
+    },
+    {
+      "id": 35,
+      "model": "검지아비",
+      "content": "Kau dulu sangat suka waktu dongeng saat kau masih kecil."
+    },
+    {
+      "id": 36,
+      "model": "검지아비",
+      "content": "Sampai suatu hari, kau mengabaikanku dan langsung berjalan ke kamarmu. Mengatakan kau sudah terlalu tua untuk \"hal seperti itu.\""
+    },
+    {
+      "id": 37,
+      "model": "료슈",
+      "content": "Persetan dengan omong kosongmu."
+    },
+    {
+      "id": 38,
+      "model": "료슈",
+      "content": "Jawab saja pertanyaanku."
+    },
+    {
+      "id": 39,
+      "model": "검지아비",
+      "content": "Kau mencoba melewati bagiannya."
+    },
+    {
+      "id": 40,
+      "model": "검지아비",
+      "content": "Ingat bagaimana kita tidak pernah menyelesaikan buku kita? Kita selalu menyimpan bagian akhirnya untuk nanti."
+    },
+    {
+      "id": 41,
+      "model": "검지아비",
+      "content": "Aku tidak tahu apakah kau menyadarinya, tapi aku sudah menandai semuanya."
+    },
+    {
+      "id": 42,
+      "model": "검지아비",
+      "content": "Agar, jika kau merindukan momen-momen itu lagi, kita bisa melanjutkannya tepat di tempat kita berhenti."
+    },
+    {
+      "id": 43,
+      "place": "Koridor The Index, Masa Lalu",
+      "model": "검지아비",
+      "content": "\"... dan begitulah kejadiannya. Lalu, si monyet berkata—\""
+    },
+    {
+      "id": 44,
+      "model": "과거료슈2",
+      "content": "......."
+    },
+    {
+      "id": 45,
+      "model": "과거료슈2",
+      "content": "Ayah, aku sudah 13 tahun."
+    },
+    {
+      "id": 46,
+      "model": "검지아비",
+      "content": "Apa itu, sayang? Kupikir kau masih 5 tahun!"
+    },
+    {
+      "id": 47,
+      "model": "과거료슈2",
+      "content": "......."
+    },
+    {
+      "id": 48,
+      "model": "검지아비",
+      "content": "Aku cuma bercanda. Sepertinya kau tidak menganggap itu lucu."
+    },
+    {
+      "id": 49,
+      "model": "검지아비",
+      "content": "Tentu saja, aku tahu usiamu 13 tahun dan 7 bulan."
+    },
+    {
+      "id": 50,
+      "model": "과거료슈2",
+      "content": "Ya. Sudah lewat masa buku bergambar..."
+    },
+    {
+      "id": 51,
+      "model": "검지아비",
+      "content": "Dan siapa bilang kau tidak bisa membaca dongeng setelah melewati usia tertentu?"
+    },
+    {
+      "id": 52,
+      "model": "과거료슈2",
+      "content": "Di sini, tertulis jelas. Katanya \"Untuk usia 3~8 tahun.\""
+    },
+    {
+      "id": 53,
+      "model": "검지아비",
+      "content": "Itu cuma rekomendasi, manis."
+    },
+    {
+      "id": 54,
+      "model": "검지아비",
+      "content": "Aku sendiri tidak membaca apapun selain buku bergambar ini."
+    },
+    {
+      "id": 55,
+      "model": "과거료슈2",
+      "content": "... Ayah aneh. Kupikir orang dewasa tidak membaca buku bergambar."
+    },
+    {
+      "id": 56,
+      "model": "검지아비",
+      "content": "Itu adalah prasangka tidak adil yang dibangun oleh orang dewasa yang terlalu bangga bisa membaca buku tanpa gambar."
+    },
+    {
+      "id": 57,
+      "model": "검지아비",
+      "content": "Bagaimana kita bisa tahu hanya dari kata-kata..."
+    },
+    {
+      "id": 58,
+      "model": "검지아비",
+      "content": "... bentuk mata si monyet, warnanya... seperti apa rupa hewan itu saat tertawa?"
+    },
+    {
+      "id": 59,
+      "model": "검지아비",
+      "content": "Itulah sebabnya aku menjadi sangat cemas setiap kali membaca bagian yang tidak disertai gambar."
+    },
+    {
+      "id": 60,
+      "model": "검지아비",
+      "content": "Takut kalau imajinasiku mungkin berbeda dari realitas yang telah didefinisikan oleh penulisnya."
+    },
+    {
+      "id": 61,
+      "model": "검지아비",
+      "content": "Dan kau, manis..."
+    },
+    {
+      "id": 62,
+      "model": "검지아비",
+      "content": "... kau juga suka buku-buku ini, kan?"
+    },
+    {
+      "id": 63,
+      "model": "과거료슈2",
+      "content": "... Aku tidak membencinya."
+    },
+    {
+      "id": 64,
+      "model": "과거료슈2",
+      "content": "Bisa lanjut ke halaman berikutnya saja? Apa yang terjadi pada si monyet?"
+    },
+    {
+      "id": 65,
+      "model": "검지아비",
+      "content": "......."
+    },
+    {
+      "id": 66,
+      "model": "검지아비",
+      "content": "Mari kita berhenti di sini hari ini dan lanjut lain kali."
+    },
+    {
+      "id": 67,
+      "model": "검지아비",
+      "content": "Selalu lebih baik untuk menyimpan bagian akhirnya untuk nanti, bukan?"
+    },
+    {
+      "id": 68,
+      "model": "과거료슈2",
+      "content": "Ayah selalu bilang itu, tapi kita belum menyelesaikan satu buku pun."
+    },
+    {
+      "id": 69,
+      "model": "과거료슈2",
+      "content": "Aku ingin tahu apa yang terjadi setelah monyet dan katak itu balapan."
+    },
+    {
+      "id": 70,
+      "model": "검지아비",
+      "content": "Semua pada waktunya, sayang. Itulah gunanya janji kelingking itu."
+    },
+    {
+      "id": 71,
+      "model": "과거료슈2",
+      "content": "......."
+    },
+    {
+      "id": 72,
+      "model": "과거료슈2",
+      "content": "Jika Ayah membohongiku..."
+    },
+    {
+      "id": 73,
+      "model": "검지아비",
+      "content": "Ya. Aku akan menelan seribu jarum."
+    },
+    {
+      "id": 74,
+      "model": "검지아비",
+      "content": "... Seberapa jauh kau bersedia bertindak, manis?"
+    },
+    {
+      "id": 75,
+      "model": "과거료슈3",
+      "content": "Sejauh yang diperlukan."
+    },
+    {
+      "id": 76,
+      "model": "검지아비",
+      "content": "Aku suka mendengarnya."
+    },
+    {
+      "id": 77,
+      "model": "검지아비",
+      "content": "Hampir seolah-olah kau siap memberikan segalanya yang kau miliki demi ayahmu tersayang."
+    },
+    {
+      "id": 78,
+      "model": "검지아비",
+      "content": "Di mana kau menyembunyikan anak itu?"
+    },
+    {
+      "id": 79,
+      "model": "과거료슈3",
+      "content": "Di tempat yang jauh, jauh sekali dari tanganmu."
+    },
+    {
+      "id": 80,
+      "model": "검지아비",
+      "content": "Pedang itu tidak bisa memutus benang laba-laba, sayang."
+    },
+    {
+      "id": 81,
+      "model": "검지아비",
+      "content": "Kau bisa menebas berhari-hari dengan bilah tertajam yang kau miliki, tapi itu tidak akan putus..."
+    },
+    {
+      "id": 82,
+      "model": "검지아비",
+      "content": "... Benangnya memang sekuat itu."
+    },
+    {
+      "id": 83,
+      "model": "검지아비",
+      "content": "Manisku..."
+    },
+    {
+      "id": 84,
+      "model": "검지아비",
+      "content": "Kau harus berhenti merokok."
+    },
+    {
+      "id": 85,
+      "place": "Koridor The Index",
+      "model": "검지아비",
+      "content": "Tidak pernah berhasil menghilangkan kebiasaan itu, kan?"
+    },
+    {
+      "id": 86,
+      "model": "료슈",
+      "content": "......."
+    },
+    {
+      "id": 87,
+      "model": "검지아비",
+      "content": "Kurasa di situlah kau meniru Dihui Star, hm?"
+    },
+    {
+      "id": 88,
+      "model": "검지아비",
+      "content": "Begitulah ikatan darah."
+    },
+    {
+      "id": 89,
+      "model": "검지아비",
+      "content": "Kau selalu terbatuk-batuk setiap kali Shiomi menyalakan rokok."
+    },
+    {
+      "id": 90,
+      "model": "검지아비",
+      "content": "Tapi saat kau tumbuh dewasa, kau mulai berjalan di jalur yang sama dengannya."
+    },
+    {
+      "id": 91,
+      "model": "검지아비",
+      "content": "Pilihan lain apa yang aku punya selain menjadi tangan penuntun yang membawamu kembali ke jalan yang benar?"
+    },
+    {
+      "id": 92,
+      "model": "검지아비",
+      "content": "Manisku, jika kau ingin menemukan Araya, kunjungilah Dihui Star."
+    },
+    {
+      "id": 93,
+      "model": "검지아비",
+      "content": "Biarkan aku membuka jalan yang akan membawamu ke sana. Sepertinya kita akan kedatangan lebih banyak tamu."
+    },
+    {
+      "id": 94,
+      "model": "LCA네임드",
+      "content": "Semua Proselyte di area ini telah dinetralkan."
+    },
+    {
+      "id": 95,
+      "model": "LCA네임드",
+      "content": "Mobilisasi untuk mengambil <ruby=Ranting Emas>Golden Boughs</ruby> sesuai rencana, LCB."
+    },
+    {
+      "id": 96,
+      "model": "료슈",
+      "content": "......."
+    },
+    {
+      "id": 97,
+      "model": "료슈",
+      "content": "Pria itu..."
+    },
+    {
+      "id": 98,
+      "model": "료슈",
+      "content": "Jangan harap bisa prediksi langkahnya."
+    },
+    {
+      "id": 99,
+      "model": "료슈",
+      "content": "Jangan repot cari tahu polanya."
+    },
+    {
+      "id": 100,
+      "model": "LCA네임드",
+      "content": "......."
+    },
+    {
+      "id": 101,
+      "model": "LCA네임드",
+      "content": "Mari kita masing-masing mengkhawatirkan misi kita sendiri."
+    },
+    {
+      "id": 102,
+      "model": "LCA네임드",
+      "content": "... Ke posisi."
+    },
+    {
+      "id": 103,
+      "model": "LCA네임드",
+      "content": "Targetnya sendirian, tapi dia adalah Proxy dari Index, dan pernah menjadi Star of the City sendirian. Bersiaplah untuk mengerahkan segala yang kita miliki padanya."
+    },
+    {
+      "id": 104,
+      "model": "검지아비",
+      "content": "......."
+    },
+    {
+      "id": 105,
+      "model": "검지아비",
+      "content": "Sayang, aku tahu ingatan ini mungkin telah terbakar bersama wajahku, tapi..."
+    },
+    {
+      "id": 106,
+      "model": "검지아비",
+      "content": "... biarkan aku membagikan beberapa di antaranya padamu."
+    },
+    {
+      "id": 107,
+      "model": "검지아비",
+      "content": "Anak itu berambut hitam. Dan tingginya sampai di suatu tempat sedikit di atas lututmu."
+    },
+    {
+      "id": 108,
+      "model": "검지아비",
+      "content": "Dan saat dia tersenyum, dia memamerkan gigi susunya yang masih tumbuh."
+    },
+    {
+      "id": 109,
+      "model": "검지아비",
+      "content": "Dia menyukai tas randoseru merah cerahnya... dan dia mencintaimu."
+    },
+    {
+      "id": 110,
+      "model": "료슈",
+      "content": "......."
+    },
+    {
+      "id": 111,
+      "model": "검지아비",
+      "content": "Deskripsi saja tidak memberikan gambaran yang paling jelas, bukan?"
+    },
+    {
+      "id": 112,
+      "model": "검지아비",
+      "content": "Itulah sebabnya aku hanya membaca buku bergambar."
+    }
+  ]
+}

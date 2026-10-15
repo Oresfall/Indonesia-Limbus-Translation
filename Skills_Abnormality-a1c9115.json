@@ -1,0 +1,223 @@
+{
+    "dataList": [
+        {
+            "id": 112204,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Menggulingkan",
+                    "desc": "[WhenUse] Peroleh +3 Count [Breath]",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Jika this Coin is Cracked, kehilangan 10 Final Power"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Peroleh 3 [Breath] dan +1 Count [Breath]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Beri +1 [Laceration] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Jika this Coin is Cracked, kehilangan 10 Final Power"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Peroleh 2 [SlashDamageUp] giliran berikutnya"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [SlashResistDown]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Jika this Coin is Cracked, kehilangan 10 Final Power"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Beri 5 [Laceration]"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [Paralysis] giliran berikutnya"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Beri +3 [Laceration] Count"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112205,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Untuk Ambil Tulang Mereka",
+                    "desc": "[StartBattle] Peroleh 100 Perisai\n[WhenUse] Jika Perisai isn't fully depleted, Clash Power +5",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Jika this Coin is Cracked, kehilangan 20 Final Power"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Beri 3 [SlashResistDown]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Jika this Coin is Cracked, kehilangan 20 Final Power"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] +100% Damage pada Serangan Critical"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Beri 10 [Laceration] dan +2 [Laceration] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Jika this Coin is Cracked, kehilangan 20 Final Power"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Jika Perisai isn't fully depleted, divide [Grudge] value sebanyak Atk Weight dan beri it as damage tetap."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112305,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Untuk Ambil Tulang Mereka",
+                    "desc": "[StartBattle] Peroleh 250 Perisai\n[WhenUse] Peroleh +3 Count [Breath]\n[WhenUse] Jika Perisai isn't fully depleted, Clash Power +10",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Jika this Coin is Cracked, kehilangan 23 Final Power"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri 3 [SlashResistDown]"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Jika this Coin is Cracked, kehilangan 23 Final Power"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] +100% Damage pada Serangan Critical"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Beri 5 [Paralysis] giliran berikutnya"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Beri 10 [Laceration] dan +2 [Laceration] Count"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Jika this Coin is Cracked, kehilangan 23 Final Power"
+                                },
+                                {
+                                    "desc": "[UnBrokenCoinOnSucceedAttack] Jika Perisai isn't fully depleted, divide [Grudge] value sebanyak Atk Weight dan beri it as damage tetap."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 112309,
+            "levelList": [
+                {
+                    "level": 1,
+                    "name": "Untuk Ambil Tulang Mereka",
+                    "desc": "[CantChangeTarget]\nPrioritaskan unit dengan HP paling sedikit\n[EnemyKill] Double the [Grudge] value.\n[EnemyKill] Pulihkan HP setara dengan [Grudge] value",
+                    "coinlist": [
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Jika this Coin is Cracked, kehilangan 25 Final Power"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Jika this Coin is Cracked, kehilangan 25 Final Power"
+                                }
+                            ]
+                        },
+                        {
+                            "coindescs": [
+                                {
+                                    "desc": "[SuperCoin]"
+                                },
+                                {
+                                    "desc": "Jika this Coin is Cracked, kehilangan 25 Final Power"
+                                },
+                                {
+                                    "desc": "[OnSucceedAttack] Beri damage tetap setara dengan [Grudge] value."
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

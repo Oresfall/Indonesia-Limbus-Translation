@@ -1,0 +1,24 @@
+{
+  "dataList": [
+    {
+      "id": 123806,
+      "name": "Nightmare of La Manchaland",
+      "desc": "Jika terdapat La Manchaland Bloodfiends di antara musuh, peroleh efek berikut:\n- Dalam Clash terhadap La Manchaland Bloodfiends, kehilangan 4 Clash Power\n- Ketika menyerang La Manchaland Bloodfiends, kehilangan 5 SP (sekali per Skill; 2 kali per giliran)\n- Beri -20% Skill damage terhadap La Manchaland Bloodfiends"
+    },
+    {
+      "id": 123801,
+      "name": "Stored Blood",
+      "desc": "Pada Akhir Giliran, depending on the [KeptBlood] Stack pada diri sendiri:\n- Beri +2 [Laceration] dan +1 [Laceration] Count pada diri sendiri untuk setiap Stack\n- Pada 5 atau lebih sedikit Stack: peroleh 1 [Binding], 1 [Vulnerable], 1 [AttackDown] dan kehilangan 5 SP giliran berikutnya untuk setiap (6 - Stack) (efek ini tidak dapat kurangi SP unit ini di bawah -20)\n- Pada lebih dari 5 Stack: peroleh 1 [AttackUp], 1 [DefenseUp], dan pulihkan 8 SP giliran berikutnya untuk setiap (Stack - 5) (efek ini tidak dapat increase SP unit ini di atas dari 30)"
+    },
+    {
+      "id": 123805,
+      "name": "Sanguivore - Coagulation",
+      "desc": "Saat memasuki pertempuran, pulihkan 30 SP\nAwal Giliran: jika unit ini memiliki [Laceration],\n- Peroleh 1 [AttackUp] dan 1 [DefenseUp] untuk setiap 5 [Laceration] (maks 5)\n- Peroleh 1 [ParryingResultUp] untuk setiap 10 [Laceration] (maks 2)\nTerima -50% [Laceration] damage (dibulatkan ke bawah)"
+    },
+    {
+      "id": 130502,
+      "name": "Prosthesis Model - L37",
+      "desc": "Saat memasuki pertempuran, pulihkan 20 SP\nAwal Giliran: Untuk setiap 1 [Charge] Count, pulihkan 1 SP (maks 15)\nAwal Giliran: Pada kurang dari 5 [Charge] Count, beri 1 [Reduction] pada diri sendiri\nAwal Giliran: Pada 5+ [Charge] Count, peroleh 2 [ParryingResultUp]\nAwal Giliran: Pada 10+ [Charge] Count, peroleh 1 [PlusCoinValueUp]\nAwal Giliran: Pada 15+ [Charge] Count, beri +([Charge] Count pada diri sendiri x 2)% damage dengan Skill Base Attack"
+    }
+  ]
+}

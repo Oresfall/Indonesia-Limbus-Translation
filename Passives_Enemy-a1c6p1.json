@@ -1,0 +1,88 @@
+{
+    "dataList": [
+        {
+            "id": 9011601,
+            "name": "It's... you...",
+            "desc": "Beri +10% damage ke target dengan HP paling sedikit",
+            "summary": "Damage +10%"
+        },
+        {
+            "id": 9011801,
+            "name": "...",
+            "desc": "Target menerima 3 SP damage jika unit ini kalah Clash",
+            "summary": "Target menerima 3 SP damage"
+        },
+        {
+            "id": 9012001,
+            "name": "Cleaning",
+            "desc": "Ketika menggunakan Skill, jika HP target dibawah 50%, Skill Power +1",
+            "summary": "Skill Power +1"
+        },
+        {
+            "id": 9012201,
+            "name": "Organizing",
+            "desc": "Ketika menggunakan Skill, jika HP target dibawah 50%, beri +30% damage",
+            "summary": "Damage +30%"
+        },
+        {
+            "id": 9012301,
+            "name": "Dead End",
+            "desc": "Ketika menggunakan Skill, jika Speed Unit ini lebih cepat daripada target, Clash Power +1",
+            "summary": "Clash Power +1"
+        },
+        {
+            "id": 9012501,
+            "name": "Rat Hunt",
+            "desc": "Ketika menggunakan Skill, jika Speed Unit ini lebih cepat daripada target, peroleh Clash Power +1 dan beri +20% damage",
+            "summary": "Clash Power +1, beri +20% damage"
+        },
+        {
+            "id": 9012601,
+            "name": "I Will... Do My Best",
+            "desc": "Akhir Giliran: jika Staggered, pulihkan 12 SP. Peroleh 2 Defense Level Down giliran berikutnya. (one time maks)",
+            "summary": ""
+        },
+        {
+            "id": 9012602,
+            "name": "Apologies... Mistress!",
+            "desc": "Akhir Giliran: jika unit ini pulih dari Panik, peroleh 1 Attack Power Up giliran berikutnya",
+            "summary": "Peroleh 1 Attack Power Up giliran berikutnya"
+        },
+        {
+            "id": 9101401,
+            "name": "I'll Clean You Up...",
+            "desc": "Akhir Giliran: jika Staggered, pulih dari Staggered dan pulihkan 20 SP. Peroleh 1 Level Offense Up giliran berikutnya. (1 maks)",
+            "summary": ""
+        },
+        {
+            "id": 9101402,
+            "name": "Insolent Fool!",
+            "desc": "Jika Speed Unit ini lebih cepat daripada target, Clash Power +2",
+            "summary": "Clash Power +2"
+        },
+        {
+            "id": 9101403,
+            "name": "The Mistress's Voice...!",
+            "desc": "Pulihkan 10 SP untuk setiap Coin dari Attack Skill yang mendapat Kepala",
+            "summary": "Pulihkan 10 SP"
+        },
+        {
+            "id": 9101404,
+            "name": "Will You Witness Me, Mistress?!",
+            "desc": "Jika target memiliki Sinking, dan jika target memiliki -15 atau kurang SP, peroleh 3 Level Offense Up giliran berikutnya. (sekali per target)",
+            "summary": ""
+        },
+        {
+            "id": 9999999,
+            "name": "Pemulihan Panik",
+            "desc": "Akhir Giliran: jika dalam Panik, reset SP menjadi 0.",
+            "summary": ""
+        },
+        {
+            "id": 9999998,
+            "name": "Panik Tetap",
+            "desc": "Tipe Panik Unit ini tidak berubah ketima terkena efek yang mengubah Tipe Panik. Sebaliknya, Unit ini terkena efek yang ditujukan kepada target tanpa SP",
+            "summary": ""
+        }
+    ]
+}

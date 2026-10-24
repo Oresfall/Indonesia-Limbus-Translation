@@ -5,7 +5,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Crimson Nail",
+          "name": "Paku Crimson",
           "desc": "[WhenUse] Base Power +1 untuk setiap 4 [Laceration] pada target (maks 2)",
           "coinlist": [
             {
@@ -22,7 +22,7 @@
         },
         {
           "level": 2,
-          "name": "Crimson Nail",
+          "name": "Paku Crimson",
           "desc": "[WhenUse] Base Power +1 untuk setiap 4 [Laceration] pada target (maks 2)",
           "coinlist": [
             {
@@ -34,17 +34,17 @@
                   "desc": "[OnSucceedAttack] Beri 1 [BloodyMucusAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Beri 1 [BloodyMucusAlly] untuk setiap 2 [ChargeRouge] Potency (maks 2)"
+                  "desc": "[OnSucceedAttack] Beri 1 [BloodyMucusAlly] untuk setiap 2 Potency [ChargeRouge] (maks 2)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Terhadap non-SP unit, beri +50% damage"
+                  "desc": "Terhadap unit non-SP, beri +50% damage"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Target loses 10 SP"
+                  "desc": "[OnSucceedAttack] Target kehilangan 10 SP"
                 }
               ]
             }
@@ -52,8 +52,8 @@
         },
         {
           "level": 3,
-          "name": "Crimson Nail",
-          "desc": "[WhenUse] Base Power +1 untuk setiap 4 [Laceration] pada target (maks 2)\n[WhenUse] Jika unit ini memiliki higher SP than the target, or if target is a non-SP unit, Coin Power +1",
+          "name": "Paku Crimson",
+          "desc": "[WhenUse] Base Power +1 untuk setiap 4 [Laceration] pada target (maks 2)\n[WhenUse] Jika unit ini memiliki SP lebih tinggi daripada target, atau jika target adalah unit non-SP, Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
@@ -64,17 +64,17 @@
                   "desc": "[OnSucceedAttack] Beri 1 [BloodyMucusAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Beri 1 [BloodyMucusAlly] untuk setiap 2 [ChargeRouge] Potency (maks 2)"
+                  "desc": "[OnSucceedAttack] Beri 1 [BloodyMucusAlly] untuk setiap 2 Potency [ChargeRouge] (maks 2)"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "Terhadap non-SP unit, beri +50% damage"
+                  "desc": "Terhadap unit non-SP, beri +50% damage"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Target loses 10 SP"
+                  "desc": "[OnSucceedAttack] Target kehilangan 10 SP"
                 },
                 {
                   "desc": "[OnSucceedAttack] Beri 1 [BuffetGold]"
@@ -90,13 +90,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Go Away",
+          "name": "Pergilah",
           "desc": "[WhenUse] Coin Power +1 untuk setiap 4 [Laceration] pada target (maks 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Laceration]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Beri 1 [BloodyMucusAlly]"
@@ -117,19 +117,19 @@
         },
         {
           "level": 2,
-          "name": "Go Away",
-          "desc": "[WhenUse] Coin Power +1 untuk setiap 4 [Laceration] pada target (maks 2)\n[WhenUse] Peroleh +1 Atk Weight untuk setiap 2 [ChargeRouge] Potency pada diri sendiri (maks 2)",
+          "name": "Pergilah",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 4 [Laceration] pada target (maks 2)\n[WhenUse] Peroleh +1 Atk Weight untuk setiap 2 Potency [ChargeRouge] pada diri sendiri (maks 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Laceration]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Beri 1 [BloodyMucusAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Beri 1 [BloodyMucusAlly] untuk setiap 2 [ChargeRouge] Potency (maks 2)"
+                  "desc": "[OnSucceedAttack] Beri 1 [BloodyMucusAlly] untuk setiap 2 Potency [ChargeRouge] (maks 2)"
                 }
               ]
             },
@@ -142,7 +142,7 @@
                   "desc": "[OnSucceedAttack] Beri 1 [BloodyMucusAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Beri 1 [BloodyMucusAlly] untuk setiap 2 [ChargeRouge] Potency (maks 2)"
+                  "desc": "[OnSucceedAttack] Beri 1 [BloodyMucusAlly] untuk setiap 2 Potency [ChargeRouge] (maks 2)"
                 }
               ]
             }
@@ -150,19 +150,19 @@
         },
         {
           "level": 3,
-          "name": "Go Away",
-          "desc": "[WhenUse] Coin Power +1 untuk setiap 4 [Laceration] pada target (maks 2)\n[WhenUse] Peroleh +1 Atk Weight untuk setiap 2 [ChargeRouge] Potency pada diri sendiri (maks 2)",
+          "name": "Pergilah",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 4 [Laceration] pada target (maks 2)\n[WhenUse] Peroleh +1 Atk Weight untuk setiap 2 Potency [ChargeRouge] pada diri sendiri (maks 2)",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Laceration]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Beri 1 [BloodyMucusAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Beri 1 [BloodyMucusAlly] untuk setiap 2 [ChargeRouge] Potency (maks 2)"
+                  "desc": "[OnSucceedAttack] Beri 1 [BloodyMucusAlly] untuk setiap 2 Potency [ChargeRouge] (maks 2)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Beri 1 [BuffetGold]"
@@ -178,7 +178,7 @@
                   "desc": "[OnSucceedAttack] Beri 1 [BloodyMucusAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Beri 1 [BloodyMucusAlly] untuk setiap 2 [ChargeRouge] Potency (maks 2)"
+                  "desc": "[OnSucceedAttack] Beri 1 [BloodyMucusAlly] untuk setiap 2 Potency [ChargeRouge] (maks 2)"
                 },
                 {
                   "desc": "[OnSucceedAttack] Beri 1 [BuffetGold]"
@@ -194,7 +194,7 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Perk Up",
+          "name": "Semangatlah",
           "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]",
           "coinlist": [
             {
@@ -203,7 +203,7 @@
                   "desc": "[EndCoin] Beri 1 [ParryingResultUp]"
                 },
                 {
-                  "desc": "[EndCoin] Beri 1 [AttackUp] untuk setiap [ChargeRouge] Potency pada diri sendiri (maks 5)"
+                  "desc": "[EndCoin] Beri 1 [AttackUp] untuk setiap Potency [ChargeRouge] pada diri sendiri (maks 5)"
                 }
               ]
             }
@@ -211,8 +211,8 @@
         },
         {
           "level": 2,
-          "name": "Perk Up",
-          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse] Peroleh +1 Atk Weight untuk setiap 2 [ChargeRouge] Potency pada diri sendiri (maks 2)",
+          "name": "Semangatlah",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse] Peroleh +1 Atk Weight untuk setiap 2 Potency [ChargeRouge] pada diri sendiri (maks 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -220,7 +220,7 @@
                   "desc": "[EndCoin] Beri 1 [ParryingResultUp]"
                 },
                 {
-                  "desc": "[EndCoin] Beri 1 [AttackUp] untuk setiap [ChargeRouge] Potency pada diri sendiri (maks 5)"
+                  "desc": "[EndCoin] Beri 1 [AttackUp] untuk setiap Potency [ChargeRouge] pada diri sendiri (maks 5)"
                 }
               ]
             }
@@ -228,8 +228,8 @@
         },
         {
           "level": 3,
-          "name": "Perk Up",
-          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse] Peroleh +1 Atk Weight untuk setiap 2 [ChargeRouge] Potency pada diri sendiri (maks 2)\n[EndSkill] Jika unit ini memiliki [GourmandiseAlly], and at 10+ [ChargeRouge] Count, consume up to 10 [ChargeRouge] dan beri 1 [SkillPowerUp] to all targets that were hit",
+          "name": "Semangatlah",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse] Peroleh +1 Atk Weight untuk setiap 2 Potency [ChargeRouge] pada diri sendiri (maks 2)\n[EndSkill] Jika unit ini memiliki [GourmandiseAlly], dan pada 10+ Count [ChargeRouge], konsumsi hingga 10 [ChargeRouge] dan beri 1 [SkillPowerUp] ke semua target yang diserang",
           "coinlist": [
             {
               "coindescs": [
@@ -237,7 +237,7 @@
                   "desc": "[EndCoin] Beri 1 [ParryingResultUp]"
                 },
                 {
-                  "desc": "[EndCoin] Beri 1 [AttackUp] untuk setiap [ChargeRouge] Potency pada diri sendiri (maks 5)"
+                  "desc": "[EndCoin] Beri 1 [AttackUp] untuk setiap Potency [ChargeRouge] pada diri sendiri (maks 5)"
                 }
               ]
             }
@@ -245,8 +245,8 @@
         },
         {
           "level": 4,
-          "name": "Perk Up",
-          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse] Peroleh +1 Atk Weight untuk setiap 2 [ChargeRouge] Potency pada diri sendiri (maks 2)\n[EndSkill] Jika unit ini memiliki [GourmandiseAlly], and at 10+ [ChargeRouge] Count, consume up to 10 [ChargeRouge] dan beri 1 [SkillPowerUp] to all targets that were hit",
+          "name": "Semangatlah",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse] Peroleh +1 Atk Weight untuk setiap 2 Potency [ChargeRouge] pada diri sendiri (maks 2)\n[EndSkill] Jika unit ini memiliki [GourmandiseAlly], dan pada 10+ Count [ChargeRouge], konsumsi hingga 10 [ChargeRouge] dan beri 1 [SkillPowerUp] ke semua target yang diserang",
           "coinlist": [
             {
               "coindescs": [
@@ -254,7 +254,7 @@
                   "desc": "[EndCoin] Beri 1 [SkillPowerUp]"
                 },
                 {
-                  "desc": "[EndCoin] Beri 1 [AttackUp] this turn and giliran berikutnya untuk setiap [ChargeRouge] Potency pada diri sendiri (maks 5)"
+                  "desc": "[EndCoin] Beri 1 [AttackUp] giliran ini dan giliran berikutnya untuk setiap Potency [ChargeRouge] pada diri sendiri (maks 5)"
                 }
               ]
             }
@@ -267,13 +267,13 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Don't Get Hurty",
+          "name": "Jangan Sampai Luka",
           "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndCoin] Heal (Skill Final Power x 2) HP pada target\n- Jika target adalah a \"Le Rouge\" unit, consume their HP instead and pulihkan self by the same amount (damage dealt by efek ini does not Stagger or reduce the target's HP below 1)"
+                  "desc": "[EndCoin] Pulihkan (Power Akhir Skill  x 2) HP pada target\n- Jika target adalah unit \"Le Rouge\", konsumsi HP mereka dan pulihkan HP diri sendiri dengan jumlah yang sama (damage yang diberikan oleh efek ini tidak dapat Stagger atau mengurangi HP target di bawah 1)"
                 }
               ]
             }
@@ -281,16 +281,16 @@
         },
         {
           "level": 2,
-          "name": "Don't Get Hurty",
-          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse] Pada 3+ [ChargeRouge] Potency, peroleh +2 Atk Weight",
+          "name": "Jangan Sampai Luka",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse] Pada 3+ Potency [ChargeRouge], peroleh +2 Atk Weight",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndCoin] Heal (Skill Final Power x 2) HP pada target\n- Jika target adalah a \"Le Rouge\" unit, consume their HP instead and pulihkan self by the same amount (damage dealt by efek ini does not Stagger or reduce the target's HP below 1)"
+                  "desc": "[EndCoin] Pulihkan (Power Akhir Skill  x 2) HP pada target\n- Jika target adalah unit \"Le Rouge\", konsumsi HP mereka dan pulihkan HP diri sendiri dengan jumlah yang sama (damage yang diberikan oleh efek ini tidak dapat Stagger atau mengurangi HP target di bawah 1)"
                 },
                 {
-                  "desc": "[EndCoin] Heal (Skill Final Power) SP pada target\n- Jika target adalah at maks SP, remove 1 removable negative effect applied pada target"
+                  "desc": "[EndCoin] Pulihkan (Power Akhir Skill ) SP pada target\n- Jika target memiliki maks SP, hilangkan 1 efek negatif pada target"
                 }
               ]
             }
@@ -298,16 +298,16 @@
         },
         {
           "level": 3,
-          "name": "Don't Get Hurty",
-          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse] Pada 3+ [ChargeRouge] Potency, peroleh +4 Atk Weight",
+          "name": "Jangan Sampai Luka",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse] Pada 3+ Potency [ChargeRouge], peroleh +4 Atk Weight",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndCoin] Heal (Skill Final Power x 2) HP pada target\n- Additionally pulihkan ([ChargeRouge] Potency pada diri sendiri x 2)% HP pada target\n- Jika target adalah a \"Le Rouge\" unit, consume their HP instead and pulihkan self by the same amount (damage dealt by efek ini does not Stagger or reduce the target's HP below 1)"
+                  "desc": "[EndCoin] Pulihkan (Power Akhir Skill  x 2) HP pada target\n- Dan juga pulihkan (Potency [ChargeRouge] pada diri sendiri x 2)% HP pada target\n- Jika target adalah unit \"Le Rouge\", konsumsi HP mereka dan pulihkan HP diri sendiri dengan jumlah yang sama (damage yang diberikan oleh efek ini tidak dapat Stagger atau mengurangi HP target di bawah 1)"
                 },
                 {
-                  "desc": "[EndCoin] Heal (Skill Final Power) SP pada target\n- Additionally pulihkan ([ChargeRouge] Potency pada diri sendiri x 3) SP pada target\n- Jika target adalah at maks SP, remove 1 removable negative effect applied pada target"
+                  "desc": "[EndCoin] Pulihkan (Power Akhir Skill ) SP pada target\n- Dan juga pulihkan (Potency [ChargeRouge] pada diri sendiri x 3) SP pada target\n- Jika target memiliki maks SP, hilangkan 1 efek negatif pada target"
                 }
               ]
             }
@@ -320,16 +320,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Grab My Hand",
+          "name": "Pegang Tanganku",
           "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse] Peroleh 5 [Binding] giliran berikutnya",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndCoin] Recover target from Stagger"
+                  "desc": "[EndCoin] Target pulih dari Stagger"
                 },
                 {
-                  "desc": "[EndCoin] Heal HP pada target setara dengan this Skill's Final Power"
+                  "desc": "[EndCoin] Pulihkan HP pada target setara dengan Power Akhir Skill ini"
                 }
               ]
             }
@@ -337,19 +337,19 @@
         },
         {
           "level": 2,
-          "name": "Grab My Hand",
+          "name": "Pegang Tanganku",
           "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndCoin] Recover target from Stagger"
+                  "desc": "[EndCoin] Target pulih dari Stagger"
                 },
                 {
-                  "desc": "[EndCoin] Heal HP pada target setara dengan this Skill's Final Power"
+                  "desc": "[EndCoin] Pulihkan HP pada target setara dengan Power Akhir Skill ini"
                 },
                 {
-                  "desc": "[EndCoin] Beri Perisai giliran berikutnya setara dengan 50% of target's maks HP"
+                  "desc": "[EndCoin] Beri Perisai giliran berikutnya setara dengan 50% dari maks HP target"
                 }
               ]
             }
@@ -362,8 +362,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Baptism of Crimson Nails",
-          "desc": "[WhenUse] Pada 10+ [ChargeRouge] Count, consume up to 10 [ChargeRouge] Count untuk peroleh +2 Atk Weight and Coin Power +2",
+          "name": "Baptis dari Paku Crimson",
+          "desc": "[WhenUse] Pada 10+ Count [ChargeRouge], konsumsi hingga 10 Count [ChargeRouge] untuk peroleh +2 Atk Weight dan Coin Power +2",
           "coinlist": [
             {
               "coindescs": [
@@ -391,7 +391,7 @@
                   "desc": "[OnSucceedAttack] Beri 1 [BloodyMucusAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Laceration]"
                 }
               ]
             }
@@ -399,8 +399,8 @@
         },
         {
           "level": 2,
-          "name": "Baptism of Crimson Nails",
-          "desc": "[WhenUse] Pada 10+ [ChargeRouge] Count, consume up to 10 [ChargeRouge] Count untuk peroleh +2 Atk Weight and Coin Power +2\n[WhenUse] Base Power +1 untuk setiap 4 [Laceration] pada target (maks 2)",
+          "name": "Baptis dari Paku Crimson",
+          "desc": "[WhenUse] Pada 10+ Count [ChargeRouge], konsumsi hingga 10 Count [ChargeRouge] untuk peroleh +2 Atk Weight dan Coin Power +2\n[WhenUse] Base Power +1 untuk setiap 4 [Laceration] pada target (maks 2)",
           "coinlist": [
             {
               "coindescs": [
@@ -428,7 +428,7 @@
                   "desc": "[OnSucceedAttack] Beri 1 [BloodyMucusAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Laceration]"
                 }
               ]
             }
@@ -436,8 +436,8 @@
         },
         {
           "level": 3,
-          "name": "Baptism of Crimson Nails",
-          "desc": "[WhenUse] Pada 10+ [ChargeRouge] Count, consume up to 10 [ChargeRouge] Count untuk peroleh +2 Atk Weight and Coin Power +2\n[WhenUse] Base Power +1 untuk setiap 4 [Laceration] pada target (maks 2)\n[WhenUse] Pada 5+ [ChargeRouge] Potency, apply the following effects:\n- Peroleh +2 Atk Weight\n- Peroleh Coin Power +([ChargeRouge] Potency pada diri sendiri - 3)",
+          "name": "Baptis dari Paku Crimson",
+          "desc": "[WhenUse] Pada 10+ Count [ChargeRouge], konsumsi hingga 10 Count [ChargeRouge] untuk peroleh +2 Atk Weight dan Coin Power +2\n[WhenUse] Base Power +1 untuk setiap 4 [Laceration] pada target (maks 2)\n[WhenUse] Pada 5+ Potency [ChargeRouge], beri efek berikut:\n- Peroleh +2 Atk Weight\n- Peroleh Coin Power +(Potency [ChargeRouge] pada diri sendiri - 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -471,7 +471,7 @@
                   "desc": "[OnSucceedAttack] Beri 1 [BloodyMucusAlly]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Laceration]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Beri 1 [BuffetGold]"
@@ -487,8 +487,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "I'll End It for You...",
-          "desc": "[CantDuel]\nBeri +0.5% damage untuk setiap 1% missing HP pada target (maks 30%)\n[WhenUse] Jika unit ini memiliki [GourmandiseAlly], peroleh +1 Atk Weight",
+          "name": "Akan Kuakhiri Untukmu...",
+          "desc": "[CantDuel]\nBeri +0.5% damage untuk setiap 1% HP yang hilang pada target (maks 30%)\n[WhenUse] Jika unit ini memiliki [GourmandiseAlly], peroleh +1 Atk Weight",
           "coinlist": [
             {
               "coindescs": [
@@ -510,8 +510,8 @@
         {
           "level": 1,
           "name": "La Nausée",
-          "desc": "[StartBattle] Konsumsi semua [ChargeRouge] Count pada diri sendiri and pulihkan ([ChargeRouge] Count consumed)% HP on all allies, including unit ini",
-          "flavor": "The inevitable growing pains for those who are maturing into gods.\n\nThis sensation takes many forms: vertigo, nausea, seizure, self-deception... and to some, refusal. To them, the world is full of terror and alienating chaos. To endure the nausea, to protect those that are yet their own and those that are yet to become superfluous, the nascent god vomits.",
+          "desc": "[StartBattle] Konsumsi semua Count [ChargeRouge] pada diri sendiri dan pulihkan (Count [ChargeRouge] yang dikonsumsi)% HP pada semua kawan, termasuk unit ini",
+          "flavor": "Rasa sakit yang tak terelakkan semakin bertambah bagi mereka yang menjadi dewa.\n\nSensasi ini memiliki berbagai bentuk: vertigo, mual, kejang, menipu diri sendiri... dan bagi sebagian orang, penolakan. Bagi mereka, dunia ini penuh dengan teror dan kekacauan yang mengasingkan. Sensasi menahan rasa mual, untuk melindungi mereka yang masih menjadi miliknya dan mereka yang belum, sensasi tersebut menjadi berlebihan, dewa yang baru lahir itu muntah.",
           "coinlist": [
             {
               "coindescs": [
@@ -530,8 +530,8 @@
         {
           "level": 1,
           "name": "Le Trou Rouge",
-          "desc": "[StartBattle] Peroleh +4 [ChargeRouge] Count",
-          "flavor": "This is a crimson hollow.\nThough it is closed, the endless hunger lingers, desiring the impossible satiation.\n\nFor that is what the others expect this being to be. For that is the purpose for which this being was born.",
+          "desc": "[StartBattle] Peroleh +4 Count [ChargeRouge]",
+          "flavor": "Ini adalah lubang crimson.\nMeskipun tertutup, rasa lapar yang tak ada habisnya masih ada, menginginkan rasa kenyang yang mustahil.\n\nKarena itulah yang orang lain harapkan dari makhluk ini. Karena itulah tujuan kelahiran makhluk ini.",
           "coinlist": [
             {
               "coindescs": [

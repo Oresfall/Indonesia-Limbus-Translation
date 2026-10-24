@@ -50,7 +50,7 @@
     },
     {
       "id": "PanicChangeLock",
-      "name": "Fixed Panik",
+      "name": "Panik Tetap",
       "desc": "This unit's Panik Type tidak dapat ubah when inflicted with an efek that changes Panik Types. Instead, unit ini is inflicted with an efek that is inflicted terhadap target without SP.",
       "summary": "",
       "undefined": "-",

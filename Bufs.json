@@ -2294,27 +2294,27 @@
     {
       "id": "FreishutzOutisEgoBullet_3rd",
       "name": "The Third Magic Bullet",
-      "desc": "- Beri +20% damage\n- Before Attack: peroleh +2 Atk Weight\n- Saat Menyerang, beri 2 Attack Power Down dan 10 Burn"
+      "desc": "- Beri +20% damage\n- Sebelum Serang: peroleh +2 Atk Weight\n- Saat Menyerang, beri 2 Attack Power Down dan 10 Burn"
     },
     {
       "id": "FreishutzOutisEgoBullet_4th",
       "name": "The Fourth Magic Bullet",
-      "desc": "- Beri +30% damage\n- Before Attack: peroleh +3 Atk Weight\n- Saat Menyerang, naikkan Batas Stagger target sebanyak damage yang diberikan (maks 20); lalu, beri 3 Fragility giliran berikutnya"
+      "desc": "- Beri +30% damage\n- Sebelum Serang: peroleh +3 Atk Weight\n- Saat Menyerang, naikkan Batas Stagger target sebanyak damage yang diberikan (maks 20); lalu, beri 3 Fragility giliran berikutnya"
     },
     {
       "id": "FreishutzOutisEgoBullet_5th",
       "name": "The Fifth Magic Bullet",
-      "desc": "- Beri +30% damage\n- Before Attack: peroleh +4 Atk Weight\n- Saat Menyerang, beri 10 Burn; lalu, beri 4 Offense Level down dan 4 Defense Level Down giliran berikutnya"
+      "desc": "- Beri +30% damage\n- Sebelum Serang: peroleh +4 Atk Weight\n- Saat Menyerang, beri 10 Burn; lalu, beri 4 Offense Level down dan 4 Defense Level Down giliran berikutnya"
     },
     {
       "id": "FreishutzOutisEgoBullet_6th",
       "name": "The Sixth Magic Bullet",
-      "desc": "- Before Attack: peroleh +6 Atk Weight\n- Saat Menyerang, naikkan Batas Stagger target sebanyak damage yang diberikan (maks 30)\n- Gunakan ulang the Coin untuk setiap 7 Burn pada target utama (maks 2 kali)\n- Plus Coin Skill Base Power -16\n- Minus Coin Skill Base Power -22\n - Plus Coin Power -8\n - Minus Coin Power -12"
+      "desc": "- Sebelum Serang: peroleh +6 Atk Weight\n- Saat Menyerang, naikkan Batas Stagger target sebanyak damage yang diberikan (maks 30)\n- Gunakan ulang the Coin untuk setiap 7 Burn pada target utama (maks 2 kali)\n- Plus Coin Skill Base Power -16\n- Minus Coin Skill Base Power -22\n - Plus Coin Power -8\n - Minus Coin Power -12"
     },
     {
       "id": "FreishutzOutisEgoBullet_7th",
       "name": "The Seventh Magic Bullet",
-      "desc": "- Beri +200% damage\n- Beri +2.5% damage untuk setiap 1% HP yang hilang pada target (maks 200%)\n- Before Attack: untuk this attack, jika the Pierce Damage Res. pada target atau pada diri sendiri are kurang dari 2.0, ubah them to Fatal(x2.0)\n- Akhir Serangan: kills unit ini"
+      "desc": "- Beri +200% damage\n- Beri +2.5% damage untuk setiap 1% HP yang hilang pada target (maks 200%)\n- Sebelum Serang: untuk this attack, jika the Pierce Damage Res. pada target atau pada diri sendiri are kurang dari 2.0, ubah them to Fatal(x2.0)\n- Akhir Serangan: kills unit ini"
     },
     {
       "id": "FreishutzOutisEgoBulletCnt",
@@ -2796,7 +2796,7 @@
     {
       "id": "LegStrengthHorseYisang",
       "name": "Strider【Wu】",
-      "desc": "- Stack Maks: 3\n- Akhir Giliran: peroleh 2 Haste dan (Stack x 2) Aggro giliran berikutnya\n- Before Attack: beri (Stack) Tremor Potency terhadap target utama (maks 6 per giliran)\n- Kehilangan 1 Stack pada Akhir Giliran",
+      "desc": "- Stack Maks: 3\n- Akhir Giliran: peroleh 2 Haste dan (Stack x 2) Aggro giliran berikutnya\n- Sebelum Serang: beri (Stack) Tremor Potency terhadap target utama (maks 6 per giliran)\n- Kehilangan 1 Stack pada Akhir Giliran",
       "summary": ""
     },
     {
@@ -3150,7 +3150,7 @@
     {
       "id": "ObedienceGregBigBird",
       "name": "Guardians of the Forest",
-      "desc": "Before Attack, aktifkan efek berikut:\n- Plus Coin Skill pulihkan 4 SP (jika sudah pada maks SP, peroleh 2 Offense Level Up giliran berikutnya)\n- Minus Coin Skill kehilangan 8 SP (efek ini tidak dapat kurangi unit's SP di bawah -40)\n- Kehilangan efek ini",
+      "desc": "Sebelum Serang, aktifkan efek berikut:\n- Plus Coin Skill pulihkan 4 SP (jika sudah pada maks SP, peroleh 2 Offense Level Up giliran berikutnya)\n- Minus Coin Skill kehilangan 8 SP (efek ini tidak dapat kurangi unit's SP di bawah -40)\n- Kehilangan efek ini",
       "summary": "",
       "undefined": "-"
     },
@@ -4069,7 +4069,7 @@
     {
       "id": "DianxueHongLu",
       "name": "Nerve Strike - Hong Lu",
-      "desc": "- Stack Maks: 3\n- The unit that inflicted this Nerve Strike gains the following effects based pada target's (or targeted Part's) Nerve Strike Stack\n· 1x Stack: Peroleh Clash Power +1\n· 2x Stack: Peroleh Base Power +1\n· 3x Stack: Peroleh Clash Power +1 and Base Power +1\n- Expires if unit yang memberikan it inflicts efek ini against a different target (or a different Part)\n- Replaced when another unit inflicts Nerve Strike (Stack are preserved)",
+      "desc": "- Stack Maks: 3\n- The unit that inflicted this Nerve Strike gains efek berikut based pada target's (or targeted Part's) Nerve Strike Stack\n· 1x Stack: Peroleh Clash Power +1\n· 2x Stack: Peroleh Base Power +1\n· 3x Stack: Peroleh Clash Power +1 and Base Power +1\n- Expires if unit yang memberikan it inflicts efek ini against a different target (or a different Part)\n- Replaced when another unit inflicts Nerve Strike (Stack are preserved)",
       "summary": "",
       "undefined": "-"
     },

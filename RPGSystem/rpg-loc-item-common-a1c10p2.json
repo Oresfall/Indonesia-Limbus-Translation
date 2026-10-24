@@ -46,7 +46,7 @@
     {
       "key": "I991012",
       "displayName": "Kain Kafan Emas",
-      "statText": "Di Symbolic, Pwie meninggalkan <color=#F8C200>Le Vomissement</color> di jejak langkah mereka\n- Musuh dalam kurun 1 ubin dari Pwie dan musuh di atas <color=#F8C200>Le Vomissement</color> menerima 4 <color=#fe4b48>Damage</color> setiap 2 detik\n- Memberikan <color=#F8C200>Golden Revelation</color> ke semua musuh yang menerima <color=#fe4b48>Damage</color> dari efek ini\n- Saat musuh yang memiliki <color=#F8C200>Golden Revelation</color> mati, mereka memberikan 4 <color=#fe4b48>Damage</color> dalam kurun 1 ubin di sekitar mereka (hitstun 0.1 detik)\n\nSelama pertempuran di Shadowed:\n- Pwie memperoleh 1 Potensi Pulsation\n- Level Pertahanan +10\n- Akhir Giliran: Jika Pwie mengalami Stagger, pulih dari Stagger dan <color=#00ff9c>memulihkan</color> 50% <color=#00ff9c>HP</color> (sekali per Encounter)\n- Saat Mengenai Serangan menggunakan \"Crimson Nail (Koin ke-2)\", \"Go Away\", atau \"Baptism of Crimson Nails\", berikan 1 <color=#F8C200>Golden Revelation</color>\n- Saat menggunakan \"Baptism of Crimson Nails\", pada 5+ Potensi Pulsation, peroleh +2 Atk Weight dan Kekuatan Koin +(Potensi Pulsation - 3)\n- Saat menggunakan \"Don't Get Hurty\", secara tambahan <color=#00ff9c>memulihkan</color> (Potensi Pulsation x 2)% <color=#00ff9c>HP</color> dan (Potensi Pulsation x 3) SP\n- Saat Mengenai Serangan menggunakan \"Grab My Hand\", berikan Perisai setara dengan 50% dari maks <color=#00ff9c>HP</color> target giliran berikutnya",
+      "statText": "Di Symbolic, Pwie meninggalkan <color=#F8C200>Le Vomissement</color> di jejak langkah mereka\n- Musuh dalam kurun 1 ubin dari Pwie dan musuh di atas <color=#F8C200>Le Vomissement</color> menerima 4 <color=#fe4b48>Damage</color> setiap 2 detik\n- Memberikan <color=#F8C200>Golden Revelation</color> ke semua musuh yang menerima <color=#fe4b48>Damage</color> dari efek ini\n- Saat musuh yang memiliki <color=#F8C200>Golden Revelation</color> mati, mereka memberikan 4 <color=#fe4b48>Damage</color> dalam kurun 1 ubin di sekitar mereka (hitstun 0.1 detik)\n\nSelama pertempuran di Shadowed:\n- Pwie memperoleh 1 Potensi Pulsation\n- Level Pertahanan +10\n- Akhir Giliran: Jika Pwie mengalami Stagger, pulih dari Stagger dan <color=#00ff9c>memulihkan</color> 50% <color=#00ff9c>HP</color> (sekali per Pertemuan)\n- Saat Mengenai Serangan menggunakan \"Crimson Nail (Koin ke-2)\", \"Go Away\", atau \"Baptism of Crimson Nails\", berikan 1 <color=#F8C200>Golden Revelation</color>\n- Saat menggunakan \"Baptism of Crimson Nails\", pada 5+ Potensi Pulsation, peroleh +2 Atk Weight dan Kekuatan Koin +(Potensi Pulsation - 3)\n- Saat menggunakan \"Don't Get Hurty\", secara tambahan <color=#00ff9c>memulihkan</color> (Potensi Pulsation x 2)% <color=#00ff9c>HP</color> dan (Potensi Pulsation x 3) SP\n- Saat Mengenai Serangan menggunakan \"Grab My Hand\", berikan Perisai setara dengan 50% dari maks <color=#00ff9c>HP</color> target giliran berikutnya",
       "description": "Jubah bulu domba yang menjaga bulu Kulit Emas. Pakaian ini menahan apa yang datang dari luar, sembari mempercepat apa yang mekar di dalam. Begitu sang anak memakainya, masa kanak-kanak pun berakhir. Anak itu mempelajari apa yang diharapkan orang lain dan apa yang harus dipulihkan, lalu terpaksa bertindak sesuai hal itu. Tak ada lagi izin untuk penasaran pada dunia."
     },
     {
@@ -336,7 +336,7 @@
       "key": "I990319",
       "displayName": "Gunting Kelopak",
       "statText": "Di Symbolic, peluang 30% untuk mengaktifkan <color=#F8C200>Serangan Ekstra Guntingan Kelopak</color> yang memberikan 5 <color=#fe4b48>Damage</color> saat mengenai serangan (hitstun 0.3 detik)",
-      "description": "Ke mana pun kamu pergi, aku bakal <i>gunting-gunting</i> dengan gunting kelopak ini sampai jalan di bawahmu bermekaran dengan guguran bunga."
+      "description": "Kemana pun kamu pergi, aku bakal <i>gunting-gunting</i> dengan gunting kelopak ini sampai jalan di bawahmu bermekaran dengan guguran bunga."
     },
     {
       "key": "I991004",
@@ -361,7 +361,7 @@
     {
       "key": "I991008",
       "displayName": "Kulit Emas dari Tumpukan Mayat",
-      "description": "Secara paradoks, cahaya emas menginginkan semua Distortion mencapai titik akhir mereka, dan pada saat yang sama, ia tidak menginginkannya.\nApa yang bersemayam di dalam cahaya itu lebih dari sekadar entitas tunggal, dan begitu pula hati di dalam salah satu dari mereka."
+      "description": "Secara paradoks, cahaya emas menginginkan semua Distortion mencapai titik akhir mereka, dan pada saat yang sama, ia tidak menginginkannya.\nApa yang bersemayam di dalam cahaya itu lebih dari sekedar entitas tunggal, dan begitu pula hati di dalam salah satu dari mereka."
     },
     {
       "key": "I991009",
@@ -381,7 +381,7 @@
     {
       "key": "I990501",
       "displayName": "Kepatuhan",
-      "statText": "Selama pertempuran di Shadowed, sesaat sebelum Identity yang memiliki <color=#00ff9c>HP</color> 50% atau lebih rendah terkena Skill musuh, Identity tersebut mendapatkan Perisai setara dengan 20% dari <color=#00ff9c>HP</color>-nya yang hilang\n- Sekali per Identity per Encounter\n- Perisai ini tidak kadaluarsa setelah giliran berakhir",
+      "statText": "Selama pertempuran di Shadowed, sesaat sebelum Identity yang memiliki <color=#00ff9c>HP</color> 50% atau lebih rendah terkena Skill musuh, Identity tersebut mendapatkan Perisai setara dengan 20% dari <color=#00ff9c>HP</color>-nya yang hilang\n- Sekali per Identity per Pertemuan\n- Perisai ini tidak kadaluarsa setelah giliran berakhir",
       "description": "Sisyphe System adalah aparatus yang dibangun untuk mengekstrak pengalaman dari tawanan secara efisien dan tanpa kekerasan. Di dalamnya, para tawanan mengalami berbagai macam pengalaman, dan variasi tersebut menjadi bahan dasar Adonan Pengalaman. Pengalaman adalah persepsi akan perubahan: perantian tanpa putus antara ketenangan dan gerakan. Le Noir menguasai ketenangan."
     },
     {
@@ -405,7 +405,7 @@
     {
       "key": "I990926",
       "displayName": "Untaian Benang Berwarna-warni",
-      "description": "Merah cerah, hitam pekat, khaki melayang... semua warna terikat untuk mengikuti ke mana pun jarum mengarah."
+      "description": "Merah cerah, hitam pekat, khaki melayang... semua warna terikat untuk mengikuti kemana pun jarum mengarah."
     }
   ]
 }

@@ -155,7 +155,7 @@
     {
       "id": 152204,
       "name": "Kau tahu, aku...",
-      "desc": "Start this Encounter with 45 SP\n\nWhen Meursault is defeated, the Sinners lose the Encounter\n\n<color=#ff6000><mark color=#ff000040><b><u>Pada 50%- HP</color></mark></b></u>, berhenti menerima damage dan masuki Fase baru\n- Ketika memasuki Fase baru, hilangkan seluruh efek negatif pada diri sendiri",
+      "desc": "Mulai Pertemuan ini dengan 45 SP\n\nKetika Meursault mati, Pendosa akan kalah Pertemuan ini\n\n<color=#ff6000><mark color=#ff000040><b><u>Pada 50%- HP</color></mark></b></u>, berhenti menerima damage dan masuki Fase baru\n- Ketika memasuki Fase baru, hilangkan seluruh efek negatif pada diri sendiri",
       "flavor": "Aku tidak ingin kamu kembali ke luar.\n\nIkutlah denganku ke tahap berikutnya, ma puce."
     },
     {
@@ -197,7 +197,7 @@
     {
       "id": 152601,
       "name": "Pola: Grand Magasin Sisyphe",
-      "desc": "Ketika Clash dengan target yang sama, Clash Power +1 untuk setiap 10 Jumlah Clash\n\nDimulai dari giliran setelah unit ini memasuki medan tempur, 1 unit Rancangan memasuki <color=#ff6000><mark color=#ff000040><b><u>status \"Jeanne Sartre, Sang Penjahit Busana\"</u></b></mark></color>\n- Prioritaskan unit Rancangan yang tidak memiliki [Vulnerable]\n- Mengecualikan unit Rancangan yang memasuki status \"Jeanne Sartre, Sang Penjahit Busana\" pada giliran sebelumnya\n- Jika Stagger, pulih dari Stagger\n\nKetika memasuki status \"Jeanne Sartre, Sang Penjahit Busana\", gunakan <color=#ff6000><mark color=#ff000040><b><u>Skill \"Setidaknya pada panggung ini, semuanya sudah diatur dan diperbaiki.\"</u></b></mark></color>\n- <color=#ff6000><mark color=#ff000040><b><u>Jika Skill Meursault menang Clash</u></b></mark></color> melawan \"Setidaknya pada panggung ini, semuanya sudah diatur dan diperbaiki.\", unit Rancangan tersebut <color=#ff6000><mark color=#ff000040><b><u>gains 5 [Vulnerable] tiap giliran</u></b></mark></color> mulai dari giliran berikutnya\n\nKetika unit Rancangan dikalahkan,\n- <color=#ff6000><mark color=#ff000040><b><u>Jeanne kehilangan 5% HP</u></b></mark></color>\n- Unit Rancangan lain peroleh 1 [JeanneBlueprint]"
+      "desc": "Ketika Clash dengan target yang sama, Clash Power +1 untuk setiap 10 Jumlah Clash\n\nDimulai dari giliran setelah unit ini memasuki medan tempur, 1 unit Rancangan memasuki <color=#ff6000><mark color=#ff000040><b><u>status \"Jeanne Sartre, Sang Penjahit Busana\"</u></b></mark></color>\n- Prioritaskan unit Rancangan yang tidak memiliki [Vulnerable]\n- Mengecualikan unit Rancangan yang memasuki status \"Jeanne Sartre, Sang Penjahit Busana\" pada giliran sebelumnya\n- Jika Stagger, pulih dari Stagger\n\nKetika memasuki status \"Jeanne Sartre, Sang Penjahit Busana\", gunakan <color=#ff6000><mark color=#ff000040><b><u>Skill \"Setidaknya pada panggung ini, semuanya sudah diatur dan diperbaiki.\"</u></b></mark></color>\n- <color=#ff6000><mark color=#ff000040><b><u>Jika Skill Meursault menang Clash</u></b></mark></color> melawan \"Setidaknya pada panggung ini, semuanya sudah diatur dan diperbaiki.\", unit Rancangan tersebut <color=#ff6000><mark color=#ff000040><b><u>peroleh 5 [Vulnerable] tiap giliran</u></b></mark></color> mulai dari giliran berikutnya\n\nKetika unit Rancangan dikalahkan,\n- <color=#ff6000><mark color=#ff000040><b><u>Jeanne kehilangan 5% HP</u></b></mark></color>\n- Unit Rancangan lain peroleh 1 [JeanneBlueprint]"
     },
     {
       "id": 152602,
@@ -228,13 +228,13 @@
     {
       "id": 151703,
       "name": "Le Moi",
-      "desc": "Ketika Pendosa yang memiliki [BuffetScruple] menang Clash terhadap Skill tertentu, <color=#ff6000><mark=#ff000040><b><u>Sang Dewa Lembayung memperoleh 1 [BuffetDream]</u></b></mark></color>\nKetika Sang Dewa Lembayung mencapai 5 Stack [BuffetDream], ia peroleh pola baru; menang Clash terhadap Skill pada pola baru tersebut akan memenangkan Pertemuan\n\n<color=#ff6000><mark=#ff000040><b><u>Naikkan batas Potency dan Count</u></b></mark></color> untuk [Combustion], [Laceration], [Vibration], [Burst], dan [Sinking] menjadi <color=#ff6000><mark=#ff000040><b><u>50 dan 15</u></b></mark></color>, masing-masing\n\nTerima -50% HP dan damage SP dari [Combustion], [Laceration], [Vibration], [Burst], dan [Sinking]\n- Panik Tetap\n- Akhir Giliran: Jika unit ini Panik, SP menjadi 0",
+      "desc": "Ketika Pendosa yang memiliki [BuffetScruple] menang Clash terhadap Skill tertentu, <color=#ff6000><mark=#ff000040><b><u>Sang Dewa Crimson memperoleh 1 [BuffetDream]</u></b></mark></color>\nKetika Sang Dewa Crimson mencapai 5 Stack [BuffetDream], ia peroleh pola baru; menang Clash terhadap Skill pada pola baru tersebut akan memenangkan Pertemuan\n\n<color=#ff6000><mark=#ff000040><b><u>Naikkan batas Potency dan Count</u></b></mark></color> untuk [Combustion], [Laceration], [Vibration], [Burst], dan [Sinking] menjadi <color=#ff6000><mark=#ff000040><b><u>50 dan 15</u></b></mark></color>, masing-masing\n\nTerima -50% HP dan damage SP dari [Combustion], [Laceration], [Vibration], [Burst], dan [Sinking]\n- Panik Tetap\n- Akhir Giliran: Jika unit ini Panik, SP menjadi 0",
       "flavor": "Aku melihat bayanganku di air. Tubuhku, sudah... selesai..."
     },
     {
       "id": 151704,
       "name": "Pouvoirs de la vie",
-      "desc": "Jika kawan menjadi Stagger karena damage, gunakan Skill \"Le Manque-à-être\" pada kawan tersebut (sekali per giliran)\n\nJika kawan dikalahkan, panggil Robekan Daging Sang Dewa Lembayung yang memiliki 3 [BuffetRevival] pada Awal Giliran berikutnya",
+      "desc": "Jika kawan menjadi Stagger karena damage, gunakan Skill \"Le Manque-à-être\" pada kawan tersebut (sekali per giliran)\n\nJika kawan dikalahkan, panggil Robekan Daging Sang Dewa Crimson yang memiliki 3 [BuffetRevival] pada Awal Giliran berikutnya",
       "flavor": "Kekerasan yang menyebabkan segala sesuatu menjadi ada. Dewa para Rouge memiliki otoritas kelahiran.\n\nKemana perginya kesadaran ketika kita mati? Dan sebelum kita dilahirkan, dari mana ia muncul?\n\nUntuk mengirimnya kembali ke tempat itu, atau untuk merobeknya dari sana... keduanya merupakan hasil dari kekuatan kekerasan yang sama."
     },
     {
@@ -278,7 +278,7 @@
     {
       "id": 152103,
       "name": "Pulsasi Terus Menerus Disamping Yang Disayangi",
-      "desc": "Ketika Sang Dewa Lembayung 【Dewasa】 sedang di medan tempur, unit ini tidak kehilangan Count [ChargeRouge] pada Akhir Giliran\n\nKetika Stagger karena diserang: Ketika unit ini pulih dari Stagger karena Skill Sang Dewa Lembayung 【Dewasa】, gunakan \"Dengan sabit milikku, aku menjawab panggilanmu!\" sebagai Serangan Tanpa Lawan terhadap penyerang",
+      "desc": "Ketika Sang Dewa Crimson 【Dewasa】 sedang di medan tempur, unit ini tidak kehilangan Count [ChargeRouge] pada Akhir Giliran\n\nKetika Stagger karena diserang: Ketika unit ini pulih dari Stagger karena Skill Sang Dewa Crimson 【Dewasa】, gunakan \"Dengan sabit milikku, aku menjawab panggilanmu!\" sebagai Serangan Tanpa Lawan terhadap penyerang",
       "flavor": "Bertentangan dengan keinginan mereka, baik pernafasan maupun detak jantung mereka tidak akan berhenti."
     },
     {
@@ -296,7 +296,7 @@
     {
       "id": 151801,
       "name": "Tubuh Dipaksa Hidup Kembali",
-      "desc": "Ketika [BuffetRevival] kadaluarsa, kembali ke bentuk Staf Senior Le Rouge; pulihkan 5 SP untuk setiap 10 HP yang tersisa selama unit ini di dalam bentuk Robekan Daging Sang Dewa Lembayung; peroleh +2 Count [ChargeRouge]\n- Jika unit ini memperoleh 10+ Count [ChargeRouge], konsumsi semua Count [ChargeRouge]; lalu, peroleh 1 [BuffetRouge] giliran berikutnya untuk setiap 5 Stack yang dikonsumsi"
+      "desc": "Ketika [BuffetRevival] kadaluarsa, kembali ke bentuk Staf Senior Le Rouge; pulihkan 5 SP untuk setiap 10 HP yang tersisa selama unit ini di dalam bentuk Robekan Daging Sang Dewa Crimson; peroleh +2 Count [ChargeRouge]\n- Jika unit ini memperoleh 10+ Count [ChargeRouge], konsumsi semua Count [ChargeRouge]; lalu, peroleh 1 [BuffetRouge] giliran berikutnya untuk setiap 5 Stack yang dikonsumsi"
     },
     {
       "id": 151802,

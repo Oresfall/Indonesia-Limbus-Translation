@@ -9,7 +9,7 @@
       "id": "Enhancement",
       "name": "Attack Power Up",
       "desc": "Skill Attack Final Power +X untuk giliran ini.",
-      "summary": "ATK Skill Final Power +X",
+      "summary": "ATK Final Power Skill +X",
       "undefined": "-"
     },
     {
@@ -23,14 +23,14 @@
       "id": "Endurance",
       "name": "Defense Power Up",
       "desc": "Skill Defense Final Power +X untuk giliran ini.",
-      "summary": "DEF Skill Final Power +X",
+      "summary": "DEF Final Power Skill +X",
       "undefined": "-"
     },
     {
       "id": "Reduction",
       "name": "Attack Power Down",
       "desc": "Skill Attack Final Power -X untuk giliran ini.",
-      "summary": "ATK Skill Final Power -X",
+      "summary": "ATK Final Power Skill  -X",
       "undefined": "-"
     },
     {
@@ -71,7 +71,7 @@
     {
       "id": "Bleeding",
       "name": "Bleed",
-      "desc": "Ketika menyerang, terima damage tetap setara dengan (Count)% of current HP, lalu setengahkan."
+      "desc": "Ketika menyerang, terima damage tetap setara dengan (Count)% of HP saat ini, lalu setengahkan."
     },
     {
       "id": "Target",
@@ -119,8 +119,8 @@
     {
       "id": "ResultEnhancement",
       "name": "Power Up",
-      "desc": "Skill Final Power +X untuk giliran ini.",
-      "summary": "Skill Final Power +X"
+      "desc": "Final Power Skill +X untuk giliran ini.",
+      "summary": "Final Power Skill +X"
     },
     {
       "id": "Protection",
@@ -162,13 +162,13 @@
       "id": "Disarming",
       "name": "Defense Power Down",
       "desc": "Skill Defense Final Power -X untuk giliran ini.",
-      "summary": "DEF Skill Final Power -X"
+      "summary": "DEF Final Power Skill  -X"
     },
     {
       "id": "ResultReduction",
       "name": "Power Down",
-      "desc": "Skill Final Power -X untuk giliran ini.",
-      "summary": "Skill Final Power -X"
+      "desc": "Final Power Skill  -X untuk giliran ini.",
+      "summary": "Final Power Skill  -X"
     },
     {
       "id": "AttackDmgDown",
@@ -292,7 +292,7 @@
     {
       "id": "Emergency_Operation",
       "name": "Makeshift Surgery",
-      "desc": "Boost Maks HP sebanyak 25% dan skill Power sebanyak 1 per Count efek ini.\nEach giliran, increase Count efek ini sebanyak 1.\nDie ketika Count reaches 5.",
+      "desc": "Boost Maks HP sebanyak 25% dan skill Power sebanyak 1 per Count efek ini.\nEach giliran, increase Count efek ini sebanyak 1.\nDie ketika Count mencapai 5.",
       "summary": "Dies pada 5 Count"
     },
     {
@@ -321,8 +321,8 @@
     {
       "id": "Muckworm",
       "name": "Belatung",
-      "desc": "Akhir Giliran: Terima Gluttony damage sebanyak dari Count, lalu kurangi sebanyak 1; Bleed Count +1.",
-      "summary": "Gluttony damage; Bleed Count +1"
+      "desc": "Akhir Giliran: Terima Gluttony damage sebanyak dari Count, lalu kurangi sebanyak 1; Count Bleed +1.",
+      "summary": "Gluttony damage; Count Bleed +1"
     },
     {
       "id": "AttackUp",
@@ -367,7 +367,7 @@
       "id": "PenetrateDamageUp",
       "name": "Pierce DMG Naik",
       "desc": "Beri +X0% damage dengan Pierce skills giliran ini. (Maks 100%)",
-      "summary": "Pierce damage +X0%"
+      "summary": "damage Pierce +X0%"
     },
     {
       "id": "HitDamageUp",
@@ -400,7 +400,7 @@
       "id": "PenetrateDamageDown",
       "name": "Pierce DMG Turun",
       "desc": "Beri -X0% damage dengan Pierce skills giliran ini. (Maks 100%)",
-      "summary": "Pierce damage -X0%"
+      "summary": "damage Pierce -X0%"
     },
     {
       "id": "HitDamageDown",
@@ -494,7 +494,7 @@
       "id": "AmberDamageDown",
       "name": "Sloth DMG Turun",
       "desc": "Beri -X0% damage dengan Sloth skills giliran ini. (Maks 100%)",
-      "summary": "Sloth damage -X0%"
+      "summary": "Damage Sloth -X0%"
     },
     {
       "id": "ShamrockDamageDown",
@@ -506,7 +506,7 @@
       "id": "AzureDamageDown",
       "name": "Gloom DMG Turun",
       "desc": "Beri -X0% damage dengan Gloom skills giliran ini. (Maks 100%)",
-      "summary": "Gloom damage -X0%"
+      "summary": "Damage Gloom -X0%"
     },
     {
       "id": "IndigoDamageDown",
@@ -536,7 +536,7 @@
       "id": "AmberDamageUp",
       "name": "Sloth DMG Naik",
       "desc": "Beri +X0% damage dengan Sloth skills giliran ini. (Maks 100%)",
-      "summary": "Sloth damage +X0%"
+      "summary": "Damage Sloth +X0%"
     },
     {
       "id": "ShamrockDamageUp",
@@ -548,7 +548,7 @@
       "id": "AzureDamageUp",
       "name": "Gloom DMG Naik",
       "desc": "Beri +X0% damage dengan Gloom skills giliran ini. (Maks 100%)",
-      "summary": "Gloom damage +X0%"
+      "summary": "Damage Gloom +X0%"
     },
     {
       "id": "IndigoDamageUp",
@@ -611,8 +611,8 @@
     {
       "id": "Choice_901009",
       "name": "Photopia",
-      "desc": "Semua Unit Kawan kehilangan 1 Skill Final Power untuk the next Pertempuran",
-      "summary": "Skill Final Power -1"
+      "desc": "Semua Unit Kawan kehilangan 1 Final Power Skill  untuk the next Pertempuran",
+      "summary": "Final Power Skill  -1"
     },
     {
       "id": "Choice_901010",
@@ -639,25 +639,25 @@
       "id": "Racun",
       "name": "Racun",
       "desc": "Akhir Giliran: Terima X damage tetap, lalu setengahkan Count.",
-      "summary": "X HP damage"
+      "summary": "X damage HP"
     },
     {
       "id": "Desire",
       "name": "Keinginan",
-      "desc": "Akhir Giliran: Pada 5+ Stack, terima 30 SP damage, peroleh 2 Fragile dan 10 Bind, dan hilangkan efek ini.",
-      "summary": "Terima 30 SP damage & peroleh 2 Fragile dan 10 Bind"
+      "desc": "Akhir Giliran: Pada 5+ Stack, terima 30 damage SP, peroleh 2 Fragile dan 10 Bind, dan hilangkan efek ini.",
+      "summary": "Terima 30 damage SP & peroleh 2 Fragile dan 10 Bind"
     },
     {
       "id": "Assemble",
       "name": "Fanatik",
-      "desc": "Skill Final Power +X terhadap unit dengan Paku untuk giliran ini. (Berlaku juga untuk clashes)",
+      "desc": "Final Power Skill +X terhadap unit dengan Paku untuk giliran ini. (Berlaku juga untuk clashes)",
       "summary": "Final Power +X"
     },
     {
-      "id": "Nail",
+      "id": "Paku",
       "name": "Paku N Corp",
-      "desc": "Awal Giliran: Peroleh 1 Bleed dan menambah Bleed Count sebanyak X.\nAkhir Giliran: Kurangi efek ini sebanyak 1.",
-      "summary": "Peroleh 1 Bleed dan add +X Bleed Count"
+      "desc": "Awal Giliran: Peroleh 1 Bleed dan menambah Count Bleed sebanyak X.\nAkhir Giliran: Kurangi efek ini sebanyak 1.",
+      "summary": "Peroleh 1 Bleed dan add +X Count Bleed"
     },
     {
       "id": "BeingGolden",
@@ -675,7 +675,7 @@
       "id": "PenetrateTakeDamageDown",
       "name": "Pierce Protection",
       "desc": "Terima -X0% damage dari Pierce skills giliran ini. (Maks 100%)",
-      "summary": "Pierce damage diterima -X0%"
+      "summary": "damage Pierce diterima -X0%"
     },
     {
       "id": "HitTakeDamageDown",
@@ -699,7 +699,7 @@
       "id": "AmberTakeDamageDown",
       "name": "Sloth Protection",
       "desc": "Terima -X0% damage dari Sloth skills giliran ini. (Maks 100%)",
-      "summary": "Sloth damage diterima -X0%"
+      "summary": "Damage Sloth diterima -X0%"
     },
     {
       "id": "ShamrockTakeDamageDown",
@@ -735,7 +735,7 @@
       "id": "PenetrateTakeDamageUp",
       "name": "Pierce Fragility",
       "desc": "Terima +X0% damage dari Pierce skills giliran ini. (Maks 100%)",
-      "summary": "Pierce damage diterima +X0%"
+      "summary": "damage Pierce diterima +X0%"
     },
     {
       "id": "HitTakeDamageUp",
@@ -759,7 +759,7 @@
       "id": "AmberTakeDamageUp",
       "name": "Sloth Fragility",
       "desc": "Terima +X0% damage dari Sloth skills giliran ini. (Maks 100%)",
-      "summary": "Sloth damage diterima +X0%"
+      "summary": "Damage Sloth diterima +X0%"
     },
     {
       "id": "ShamrockTakeDamageUp",
@@ -788,13 +788,13 @@
     {
       "id": "NailPersonality",
       "name": "Paku",
-      "desc": "Bleed Unik\nAwal Giliran: Peroleh 1 Bleed dan menambah Bleed Count sebanyak X.\nAkhir Giliran: Bagi dua Count efek ini. (Dibulatkan ke bawah)",
-      "summary": "Peroleh 1 Bleed dan add +X Bleed Count"
+      "desc": "Bleed Unik\nAwal Giliran: Peroleh 1 Bleed dan menambah Count Bleed sebanyak X.\nAkhir Giliran: Bagi dua Count efek ini. (Dibulatkan ke bawah)",
+      "summary": "Peroleh 1 Bleed dan add +X Count Bleed"
     },
     {
       "id": "AssemblePersonality",
       "name": "Fanatik",
-      "desc": "Skill Final Power +X terhadap unit dengan Paku untuk giliran ini. (Berlaku juga untuk clashes)",
+      "desc": "Final Power Skill +X terhadap unit dengan Paku untuk giliran ini. (Berlaku juga untuk clashes)",
       "summary": "Final Power +X"
     },
     {
@@ -806,8 +806,8 @@
     {
       "id": "HitResultUp",
       "name": "Blunt Power Up",
-      "desc": "Blunt Skill Final Power +X untuk giliran ini.",
-      "summary": "Blunt Skill Final Power +X"
+      "desc": "Blunt Final Power Skill +X untuk giliran ini.",
+      "summary": "Blunt Final Power Skill +X"
     },
     {
       "id": "WeaknessAnalysis",
@@ -830,14 +830,14 @@
     {
       "id": "ShamrockResultUp",
       "name": "Gluttony Power Up",
-      "desc": "Gluttony Skill Final Power +X untuk giliran ini.",
-      "summary": "Gluttony Skill Final Power +X"
+      "desc": "Gluttony Final Power Skill +X untuk giliran ini.",
+      "summary": "Gluttony Final Power Skill +X"
     },
     {
       "id": "VioletResultUp",
       "name": "Envy Power Up",
-      "desc": "Envy Skill Final Power +X untuk giliran ini.",
-      "summary": "Envy Skill Final Power +X"
+      "desc": "Envy Final Power Skill +X untuk giliran ini.",
+      "summary": "Envy Final Power Skill +X"
     },
     {
       "id": "CyclingKarma",
@@ -1074,13 +1074,13 @@
     {
       "id": "Prowl_LowMorale",
       "name": "Wandering",
-      "desc": "- Moral Rendah\n- Akhir Giliran: Beri 2 SP damage kepada kawan",
+      "desc": "- Moral Rendah\n- Akhir Giliran: Beri 2 damage SP kepada kawan",
       "undefined": "-"
     },
     {
       "id": "Prowl_Panic",
       "name": "Wandering",
-      "desc": "- Panik\n- Akhir Giliran: Beri 5 SP damage kepada kawan. Kabur dari pertarungan setelah 3 giliran terlewati",
+      "desc": "- Panik\n- Akhir Giliran: Beri 5 damage SP kepada kawan. Kabur dari pertarungan setelah 3 giliran terlewati",
       "undefined": "-"
     },
     {
@@ -1104,7 +1104,7 @@
     {
       "id": "DongbaekFlorescence",
       "name": "Blooming",
-      "desc": "Akhir Giliran: Pada 5+ Count, terima Sloth damage sebanyak (Count)% dari Maks HP, dan menjadi Fully Bloomed\nPada kurang dari 5 Count, kehilangan (Count * 5) SP, lalu kurangi Count sebanyak 1",
+      "desc": "Akhir Giliran: Pada 5+ Count, terima damage Sloth sebanyak (Count)% dari Maks HP, dan menjadi Fully Bloomed\nPada kurang dari 5 Count, kehilangan (Count * 5) SP, lalu kurangi Count sebanyak 1",
       "summary": ""
     },
     {
@@ -1158,8 +1158,8 @@
     {
       "id": "CrimsonResultUp",
       "name": "Wrath Power Up",
-      "desc": "Wrath Skill Final Power +X untuk giliran ini",
-      "summary": "Wrath Skill Final Power +X"
+      "desc": "Wrath Final Power Skill +X untuk giliran ini",
+      "summary": "Wrath Final Power Skill +X"
     },
     {
       "id": "EmittedCurrent",
@@ -1219,18 +1219,18 @@
     {
       "id": "EgoAwakenDongrangOverHeal",
       "name": "Overheal",
-      "desc": "Count naik sebanyak jumlah dari HP Dongrang caused to pulihkan; pada 50+ Count, terima Gluttony damage sebanyak Count efek, peroleh 5 Fragile, dan hilangkan efek."
+      "desc": "Count naik sebanyak jumlah dari HP Dongrang caused untuk pulihkan; pada 50+ Count, terima Gluttony damage sebanyak Count efek, peroleh 5 Fragile, dan hilangkan efek."
     },
     {
       "id": "SinkingSurge",
       "name": "Sinking Deluge",
-      "desc": "Beri SP damage sebanyak (Sinking Count * Sinking Potency), lalu hilangkan Sinking\nJika SP target is -45 atau lower, the excess SP damage is dealt as Gloom-affinity HP damage\n(Units dengan no Sanity terima semua dari it as Gloom HP damage)"
+      "desc": "Beri damage SP sebanyak (Sinking Count * Sinking Potency), lalu hilangkan Sinking\nJika SP target is -45 atau lower, the excess damage SP is dealt as Gloom-affinity damage HP\n(Units dengan no Sanity terima semua dari it as Gloom damage HP)"
     },
     {
       "id": "AmberResultUp",
       "name": "Sloth Power Up",
-      "desc": "Sloth Skill Final Power +X untuk giliran ini",
-      "summary": "Sloth Skill Final Power +X"
+      "desc": "Sloth Final Power Skill +X untuk giliran ini",
+      "summary": "Sloth Final Power Skill +X"
     },
     {
       "id": "Blue",
@@ -1287,8 +1287,8 @@
     {
       "id": "Choice_9010400101",
       "name": "Determined",
-      "desc": "Semua Unit Kawan memperoleh +2 Skill Final Power untuk pertempuran ini",
-      "summary": "Skill Final Power +2"
+      "desc": "Semua Unit Kawan memperoleh +2 Final Power Skill  untuk pertempuran ini",
+      "summary": "Final Power Skill +2"
     },
     {
       "id": "Choice_90104002",
@@ -1354,8 +1354,8 @@
     {
       "id": "SlashResultUp",
       "name": "Slash Power Up",
-      "desc": "Slash Skill Final Power +X untuk giliran ini.",
-      "summary": "Slash Skill Final Power +X"
+      "desc": "Slash Final Power Skill +X untuk giliran ini.",
+      "summary": "Slash Final Power Skill +X"
     },
     {
       "id": "Discard",
@@ -1365,7 +1365,7 @@
     {
       "id": "KnowledgeExplored",
       "name": "Wawasan",
-      "desc": "Tingkat Skill Terakhir yang Dibuang: X (NIlai Dasar: 1)"
+      "desc": "Tingkat Skill Terakhir yang Dibuang: X (Nilai Dasar: 1)"
     },
     {
       "id": "Unjust_Enrichment",
@@ -1387,8 +1387,8 @@
     {
       "id": "PenetrateResultUp",
       "name": "Pierce Power Up",
-      "desc": "Pierce Skill Final Power +X untuk giliran ini.",
-      "summary": "Pierce Skill Final Power +X"
+      "desc": "Pierce Final Power Skill +X untuk giliran ini.",
+      "summary": "Pierce Final Power Skill +X"
     },
     {
       "id": "DuelDeclaration_DonQuixote",
@@ -1408,7 +1408,7 @@
     {
       "id": "VibrationExplosion",
       "name": "Tremor Burst",
-      "desc": "Naikkan Batas Stagger target sebanyak Tremor Potency pada target"
+      "desc": "Naikkan Batas Stagger target sebanyak Potency Tremor pada target"
     },
     {
       "id": "OneOnOneDuel",
@@ -1458,8 +1458,8 @@
     {
       "id": "IndigoResultUp",
       "name": "Pride Power Up",
-      "desc": "Pride Skill Final Power +X untuk giliran ini.",
-      "summary": "Pride Skill Final Power +X"
+      "desc": "Pride Final Power Skill +X untuk giliran ini.",
+      "summary": "Pride Final Power Skill +X"
     },
     {
       "id": "BladeResultUpTier1",
@@ -1494,8 +1494,8 @@
     {
       "id": "VibrationCollapse",
       "name": "Tremor - Decay",
-      "desc": "Kehilangan 1 Defense Level untuk setiap 4 Tremor Potency pada diri sendiri\nUntuk Y giliran: ketika Hit sebanyak Skill yang mengaktifkan Tremor Burst, naikkan Batas Stagger sebanyak X\n(Interacts the same way as normal Tremor does to efek that raises atau reduces Tremor Potency/Count)",
-      "summary": "Kehilangan 1 Defense Level untuk setiap 4 Tremor Potency pada diri sendiri\nRaise Batas Stagger sebanyak X"
+      "desc": "Kehilangan 1 Defense Level untuk setiap 4 Potency Tremor pada diri sendiri\nUntuk Y giliran: ketika Hit sebanyak Skill yang mengaktifkan Tremor Burst, naikkan Batas Stagger sebanyak X\n(Interacts the same way as normal Tremor does to efek that raises atau reduces Potency Tremor/Count)",
+      "summary": "Kehilangan 1 Defense Level untuk setiap 4 Potency Tremor pada diri sendiri\nRaise Batas Stagger sebanyak X"
     },
     {
       "id": "EchoOfMansion",
@@ -1511,14 +1511,14 @@
     {
       "id": "AzureResultUp",
       "name": "Gloom Power Up",
-      "desc": "Gloom Skill Final Power +X untuk giliran ini.",
-      "summary": "Gloom Skill Final Power +X"
+      "desc": "Gloom Final Power Skill +X untuk giliran ini.",
+      "summary": "Gloom Final Power Skill +X"
     },
     {
       "id": "VibrationCrack",
       "name": "Tremor - Fracture",
-      "desc": "- Ketika Stagger, dan ketika the sum of Tremor Potency dan Count adds hingga 20 atau lebih tinggi, naikkan Stagger Level sebanyak 1\n- Tidak dapat exceed maximum Stagger Level dengan efek ini\nKetika diserang sebanyak attacks yang mengaktifkan Tremor Burst, naikkan Batas Stagger sebanyak X. Berlangsung Y giliran\n(Interacts the same way as normal Tremor does to efek that raises atau reduces Tremor Potency/Count)",
-      "summary": "Ketika Stagger, dan ketika the sum of Tremor Potency dan Count adds hingga 20 atau lebih tinggi, naikkan Stagger Level sebanyak 1\nRaise Batas Stagger sebanyak X"
+      "desc": "- Ketika Stagger, dan ketika the sum dari Potency Tremor dan Count adds hingga 20 atau lebih tinggi, naikkan Stagger Level sebanyak 1\n- Tidak dapat exceed maximum Stagger Level dengan efek ini\nKetika diserang sebanyak attacks yang mengaktifkan Tremor Burst, naikkan Batas Stagger sebanyak X. Berlangsung Y giliran\n(Interacts the same way as normal Tremor does to efek that raises atau reduces Potency Tremor/Count)",
+      "summary": "Ketika Stagger, dan ketika the sum dari Potency Tremor dan Count adds hingga 20 atau lebih tinggi, naikkan Stagger Level sebanyak 1\nRaise Batas Stagger sebanyak X"
     },
     {
       "id": "ForwardToTheKing",
@@ -1559,7 +1559,7 @@
     {
       "id": "VibrationEcho",
       "name": "Tremor - Reverb",
-      "desc": "- Untuk Y Turns: Pada Tremor Burst, terima X Sloth damage.\n- Untuk Y Turns: Ketika diserang sebanyak Skill yang mengaktifkan Tremor Burst, naikkan Batas Stagger sebanyak X.\n- Akhir Giliran: kurangi the Count sebanyak 1.\n(Interacts the same way as normal Tremor does to efek that naikkan atau kurangi Tremor Potency/Count)",
+      "desc": "- Untuk Y Turns: Pada Tremor Burst, terima X damage Sloth.\n- Untuk Y Turns: Ketika diserang sebanyak Skill yang mengaktifkan Tremor Burst, naikkan Batas Stagger sebanyak X.\n- Akhir Giliran: kurangi the Count sebanyak 1.\n(Interacts the same way as normal Tremor does to efek that naikkan atau kurangi Potency Tremor/Count)",
       "summary": ""
     },
     {
@@ -1571,13 +1571,13 @@
     {
       "id": "VibrationContinue",
       "name": "Tremor - Everlasting",
-      "desc": "- Ketika diserang sebanyak Skill atau efek Coin yang mengaktifkan Tremor Burst, (Tremor Potency pada diri sendiri)% peluang untuk mengaktifkan tambahan Tremor Burst. (maks 50%)\n- Ketika diserang sebanyak Skill atau efek Coin yang mengaktifkan Tremor Burst, (Tremor Count pada diri sendiri)% peluang untuk mengaktifkan tambahan Tremor Burst. (maks 50%)\n- Ketika diserang sebanyak Skill yang mengaktifkan Tremor Burst, naikkan Batas Stagger sebanyak efek's Potency\n- Akhir Giliran: kurangi the Count sebanyak 1\n(Interacts the same way as normal Tremor does to efek that naikkan atau kurangi Tremor Potency/Count)",
+      "desc": "- Ketika diserang sebanyak Skill atau efek Coin yang mengaktifkan Tremor Burst, (Potency Tremor pada diri sendiri)% peluang untuk mengaktifkan tambahan Tremor Burst. (maks 50%)\n- Ketika diserang sebanyak Skill atau efek Coin yang mengaktifkan Tremor Burst, (Count Tremor pada diri sendiri)% peluang untuk mengaktifkan tambahan Tremor Burst. (maks 50%)\n- Ketika diserang sebanyak Skill yang mengaktifkan Tremor Burst, naikkan Batas Stagger sebanyak efek's Potency\n- Akhir Giliran: kurangi the Count sebanyak 1\n(Interacts the same way as normal Tremor does to efek that naikkan atau kurangi Potency Tremor/Count)",
       "summary": ""
     },
     {
       "id": "TimeSuspend",
       "name": "Time Moratorium",
-      "desc": "- Tidak terima any damage as long as efek ini aktif; store semua damage received saja\n- Akhir Pertempuran: Jika there is hanya 1 Count left dari efek ini, efek triggers X Tremor Burst(s) setelah dealing Y Sloth damage.\n- Akhir Giliran: peroleh 1 Stack dan kehilangan 1 Count\n- The Time Moratorium will immediately kadaluarsa setelah mengaktifkan the Tremor Burst dan the Sloth damage efek jika another instance of Time Moratorium is diberikan on unit dengan Time Moratorium.\n- Stored damage: Z",
+      "desc": "- Tidak terima any damage as long as efek ini aktif; store semua damage received saja\n- Akhir Pertempuran: Jika there is hanya 1 Count left dari efek ini, efek triggers X Tremor Burst(s) setelah dealing Y damage Sloth.\n- Akhir Giliran: peroleh 1 Stack dan kehilangan 1 Count\n- The Time Moratorium will immediately kadaluarsa setelah mengaktifkan the Tremor Burst dan the damage Sloth efek jika another instance of Time Moratorium is diberikan on unit dengan Time Moratorium.\n- Stored damage: Z",
       "summary": ""
     },
     {
@@ -1589,7 +1589,7 @@
     {
       "id": "VibrationChainPersonality",
       "name": "Tremor - Chain",
-      "desc": "- Kehilangan 1 Clash Power untuk setiap 10 Tremor Potency pada diri sendiri (maks 3)\n- Ketika Terserang sebanyak Skill yang mengaktifkan Tremor Burst, naikkan Batas Stagger sebanyak efek's Potency\n- Akhir Giliran: kurangi the Count sebanyak 1\n- (Interacts the same way as normal Tremor does to efek that naikkan atau kurangi Tremor Potency/Count)",
+      "desc": "- Kehilangan 1 Clash Power untuk setiap 10 Potency Tremor pada diri sendiri (maks 3)\n- Ketika Terserang sebanyak Skill yang mengaktifkan Tremor Burst, naikkan Batas Stagger sebanyak efek's Potency\n- Akhir Giliran: kurangi the Count sebanyak 1\n- (Interacts the same way as normal Tremor does to efek that naikkan atau kurangi Potency Tremor/Count)",
       "summary": ""
     },
     {
@@ -1607,7 +1607,7 @@
     {
       "id": "KnowledgeTraining",
       "name": "Erudition",
-      "desc": "- Nilai Maks: 6\n- Ketika Discarding Skill, peroleh (Erudition x 1.5)% dari HP maks unit ini as Perisai (sekali per giliran)\n- Jika unit ini Discards Skill pada 2+ Wawasan, peroleh 1 Clash Power (sekali per giliran)\n- Berkurang sebanyak 1 ketika menerima HP damage setelah terkena serangan sebanyak musuh's Skill Attack\n- Kadaluarsa ketika Stagger",
+      "desc": "- Nilai Maks: 6\n- Ketika Discarding Skill, peroleh (Erudition x 1.5)% dari HP maks unit ini as Perisai (sekali per giliran)\n- Jika unit ini Discards Skill pada 2+ Wawasan, peroleh 1 Clash Power (sekali per giliran)\n- Berkurang sebanyak 1 ketika menerima damage HP setelah terkena serangan sebanyak musuh's Skill Attack\n- Kadaluarsa ketika Stagger",
       "summary": ""
     },
     {
@@ -1688,7 +1688,7 @@
     {
       "id": "DevyatDimensionalSack",
       "name": "Courier Trunk - Rodion",
-      "desc": "- NIlai Dasar: 0\n- Awal Giliran: peroleh 3 Stack\n- Stack tidak dapat kadaluarsa upon Mundur; it is stored saja\n- Pada 10+ Stack: naikkan Min & Maks Speed values sebanyak 1\n- Pada 20+ Stack: Peroleh 1 Clash Power Up dan 1 Slash Damage Up\n- Pada 30+ Stack:\n· On Skill Pakai, terima (Stack/3)% HP damage dan (Stack/3) SP damage\n· On Akhir Giliran, terima (Stack/2)% HP damage dan (Stack/2) SP damage (memberi sebelum Mundur)",
+      "desc": "- Nilai Dasar: 0\n- Awal Giliran: peroleh 3 Stack\n- Stack tidak dapat kadaluarsa upon Mundur; it is stored saja\n- Pada 10+ Stack: naikkan Min & Maks Speed values sebanyak 1\n- Pada 20+ Stack: Peroleh 1 Clash Power Up dan 1 Slash Damage Up\n- Pada 30+ Stack:\n· On Skill Pakai, terima (Stack/3)% damage HP dan (Stack/3) damage SP\n· On Akhir Giliran, terima (Stack/2)% damage HP dan (Stack/2) damage SP (memberi sebelum Mundur)",
       "summary": "",
       "undefined": "-"
     },
@@ -1755,28 +1755,28 @@
     {
       "id": "BloodyHandGregFirst",
       "name": "Bloodied Hand",
-      "desc": "- Nilai Maks: 10\n- Tingkat 1 Bloodied Hand\n- Pada 10+ Bloodied Hand, converts to Bloodied Hand II.\n- Pada 20+ Bloodied Hand, converts to Bloodied Hand III.\n- Reverts to previous Stage ketika the Stack turun di bawah the requirements.\n- Pada Bloodied Hand II, peroleh 1 Offense Level Up berdasarkan the Stack\n- Pada Bloodied Hand III, peroleh 1 Offense Level Up berdasarkan the Stack, dan beri tambahan 1 Rupture dan 1 Bleed Saat Menyerang dengan Base Skill",
+      "desc": "- Nilai Maks: 10\n- Tingkat 1 Bloodied Hand\n- Pada 10+ Bloodied Hand, converts to Bloodied Hand II.\n- Pada 20+ Bloodied Hand, converts to Bloodied Hand III.\n- Reverts to previous Stage ketika the Stack turun di bawah the requirements.\n- Pada Bloodied Hand II, peroleh 1 Offense Level Up berdasarkan the Stack\n- Pada Bloodied Hand III, peroleh 1 Offense Level Up berdasarkan the Stack, dan beri tambahan 1 Rupture dan 1 Bleed Saat Menyerang dengan Skill Dasar",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodyHandGregSecond",
       "name": "Bloodied Hand II",
-      "desc": "- Nilai Maks: 20\n- Tingkat 2 Bloodied Hand\n- Awal Giliran: peroleh 1 Offense Level Up untuk setiap 10 Stack\n- Pada 10+ Bloodied Hand, converts to Bloodied Hand II.\n- Pada 20+ Bloodied Hand, converts to Bloodied Hand III.\n- Reverts to previous Stage ketika the Stack turun di bawah the requirements.\n- Pada Bloodied Hand II, peroleh 1 Offense Level Up berdasarkan the Stack\n- Pada Bloodied Hand III, peroleh 1 Offense Level Up berdasarkan the Stack, dan beri tambahan 1 Rupture dan 1 Bleed Saat Menyerang dengan Base Skill",
+      "desc": "- Nilai Maks: 20\n- Tingkat 2 Bloodied Hand\n- Awal Giliran: peroleh 1 Offense Level Up untuk setiap 10 Stack\n- Pada 10+ Bloodied Hand, converts to Bloodied Hand II.\n- Pada 20+ Bloodied Hand, converts to Bloodied Hand III.\n- Reverts to previous Stage ketika the Stack turun di bawah the requirements.\n- Pada Bloodied Hand II, peroleh 1 Offense Level Up berdasarkan the Stack\n- Pada Bloodied Hand III, peroleh 1 Offense Level Up berdasarkan the Stack, dan beri tambahan 1 Rupture dan 1 Bleed Saat Menyerang dengan Skill Dasar",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BloodyHandGregThird",
       "name": "Bloodied Hand III",
-      "desc": "- Nilai Maks: 30\n- Tingkat 3 Bloodied Hand\n- Awal Giliran: peroleh 1 Offense Level Up untuk setiap 10 Stack\n- Saat Menyerang dengan Base Skill: beri tambahan 1 Rupture dan 1 Bleed\n- Pada 10+ Bloodied Hand, converts to Bloodied Hand II.\n- Pada 20+ Bloodied Hand, converts to Bloodied Hand III.\n- Reverts to previous Stage ketika the Stack turun di bawah the requirements.\n- Pada Bloodied Hand II, peroleh 1 Offense Level Up berdasarkan the Stack\n- Pada Bloodied Hand III, peroleh 1 Offense Level Up berdasarkan the Stack, dan beri tambahan 1 Rupture dan 1 Bleed Saat Menyerang dengan Base Skill",
+      "desc": "- Nilai Maks: 30\n- Tingkat 3 Bloodied Hand\n- Awal Giliran: peroleh 1 Offense Level Up untuk setiap 10 Stack\n- Saat Menyerang dengan Skill Dasar: beri tambahan 1 Rupture dan 1 Bleed\n- Pada 10+ Bloodied Hand, converts to Bloodied Hand II.\n- Pada 20+ Bloodied Hand, converts to Bloodied Hand III.\n- Reverts to previous Stage ketika the Stack turun di bawah the requirements.\n- Pada Bloodied Hand II, peroleh 1 Offense Level Up berdasarkan the Stack\n- Pada Bloodied Hand III, peroleh 1 Offense Level Up berdasarkan the Stack, dan beri tambahan 1 Rupture dan 1 Bleed Saat Menyerang dengan Skill Dasar",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "WornHeartGreg",
       "name": "Ailing Heart",
-      "desc": "- Nilai Maks: 10\n- Akhir Giliran: peroleh 1 Stack\n- Awal Giliran: peroleh 1 Defense Level Up untuk setiap 3 Stack\n- Pada 50%- HP, peroleh 1 Defense Level untuk setiap 3 Stack\n- Pada 40%- HP, Saat Menyerang dengan Base Skill, pulihkan (Stack x 5)% dari damage yang diberikan Saat Menyerang as HP (min 1; dibulatkan ke bawah; pulihkan hingga 30 HP per Skill)",
+      "desc": "- Nilai Maks: 10\n- Akhir Giliran: peroleh 1 Stack\n- Awal Giliran: peroleh 1 Defense Level Up untuk setiap 3 Stack\n- Pada 50%- HP, peroleh 1 Defense Level untuk setiap 3 Stack\n- Pada 40%- HP, Saat Menyerang dengan Skill Dasar, pulihkan (Stack x 5)% dari damage yang diberikan Saat Menyerang as HP (min 1; dibulatkan ke bawah; pulihkan hingga 30 HP per Skill)",
       "summary": "",
       "undefined": "-"
     },
@@ -1811,14 +1811,14 @@
     {
       "id": "VibrationSpring",
       "name": "Tremor - Clockwinding",
-      "desc": "- Maks Speed + 2\n- Konsumsi Tremor Count pada diri sendiri untuk beri 1 lebih of Tremor Potency atau Count ketika memberikan them dengan Skill unit ini atau efek Coin\n- Ketika diserang sebanyak Skill yang mengaktifkan Tremor Burst, naikkan Batas Stagger sebanyak efek's Potency\n- Akhir Giliran: kurangi the Count sebanyak 1\n- (Interacts the same way as normal Tremor does to efek that naikkan atau kurangi Tremor Potency/Count)",
-      "summary": "Maks Speed +2\nConsume Tremor Count pada diri sendiri untuk beri +1 lebih Tremor Potency dan Count",
+      "desc": "- Maks Speed + 2\n- Konsumsi Count Tremor pada diri sendiri untuk beri 1 lebih dari Potency Tremor atau Count ketika memberikan them dengan Skill unit ini atau efek Coin\n- Ketika diserang sebanyak Skill yang mengaktifkan Tremor Burst, naikkan Batas Stagger sebanyak efek's Potency\n- Akhir Giliran: kurangi the Count sebanyak 1\n- (Interacts the same way as normal Tremor does to efek that naikkan atau kurangi Potency Tremor/Count)",
+      "summary": "Maks Speed +2\nConsume Count Tremor pada diri sendiri untuk beri +1 lebih Potency Tremor dan Count",
       "undefined": "-"
     },
     {
       "id": "DevyatDimensionalSackSinclair",
       "name": "Courier Trunk - Sinclair",
-      "desc": "- NIlai Dasar: 0\n- Awal Giliran: peroleh 3 Stack\n- Stack tidak dapat kadaluarsa upon Mundur; it is stored saja\n- Pada 10+ Stack: naikkan Min & Maks Speed values sebanyak 1\n- Pada 20+ Stack: Peroleh 1 Clash Power Up dan 1 Blunt Damage Up\n- Pada 30+ Stack:\n· On Skill Pakai, terima (Stack/3)% HP damage dan (Stack/3) SP damage\n· On Akhir Giliran, terima (Stack/2)% HP damage dan (Stack/2) SP damage (memberi sebelum Mundur)",
+      "desc": "- Nilai Dasar: 0\n- Awal Giliran: peroleh 3 Stack\n- Stack tidak dapat kadaluarsa upon Mundur; it is stored saja\n- Pada 10+ Stack: naikkan Min & Maks Speed values sebanyak 1\n- Pada 20+ Stack: Peroleh 1 Clash Power Up dan 1 Blunt Damage Up\n- Pada 30+ Stack:\n· On Skill Pakai, terima (Stack/3)% damage HP dan (Stack/3) damage SP\n· On Akhir Giliran, terima (Stack/2)% damage HP dan (Stack/2) damage SP (memberi sebelum Mundur)",
       "summary": "",
       "undefined": "-"
     },
@@ -1871,27 +1871,27 @@
     {
       "id": "FreishutzOutisEgoBullet_3rd",
       "name": "The Third Magic Bullet",
-      "desc": "- Beri +20% damage\n- Before Attack: peroleh +2 Atk Weight\n- Saat Menyerang, beri 2 Attack Power Down dan 10 Burn"
+      "desc": "- Beri +20% damage\n- Sebelum Serang: peroleh +2 Atk Weight\n- Saat Menyerang, beri 2 Attack Power Down dan 10 Burn"
     },
     {
       "id": "FreishutzOutisEgoBullet_4th",
       "name": "The Fourth Magic Bullet",
-      "desc": "- Beri +30% damage\n- Before Attack: peroleh +3 Atk Weight\n- Saat Menyerang, naikkan Batas Stagger target sebanyak damage yang diberikan (maks 20); lalu, beri 3 Fragility giliran berikutnya"
+      "desc": "- Beri +30% damage\n- Sebelum Serang: peroleh +3 Atk Weight\n- Saat Menyerang, naikkan Batas Stagger target sebanyak damage yang diberikan (maks 20); lalu, beri 3 Fragility giliran berikutnya"
     },
     {
       "id": "FreishutzOutisEgoBullet_5th",
       "name": "The Fifth Magic Bullet",
-      "desc": "- Beri +30% damage\n- Before Attack: peroleh +4 Atk Weight\n- Saat Menyerang, beri 10 Burn; lalu, beri 4 Offense Level down dan 4 Defense Level Down giliran berikutnya"
+      "desc": "- Beri +30% damage\n- Sebelum Serang: peroleh +4 Atk Weight\n- Saat Menyerang, beri 10 Burn; lalu, beri 4 Offense Level down dan 4 Defense Level Down giliran berikutnya"
     },
     {
       "id": "FreishutzOutisEgoBullet_6th",
       "name": "The Sixth Magic Bullet",
-      "desc": "- Before Attack: peroleh +6 Atk Weight\n- Saat Menyerang, naikkan Batas Stagger target sebanyak damage yang diberikan (maks 30)\n- Gunakan ulang the Coin untuk setiap 7 Burn pada target utama (maks 2 kali)\n- Plus Coin Skill Base Power -16\n- Minus Coin Skill Base Power -22\n - Plus Coin Power -8\n - Minus Coin Power -12"
+      "desc": "- Sebelum Serang: peroleh +6 Atk Weight\n- Saat Menyerang, naikkan Batas Stagger target sebanyak damage yang diberikan (maks 30)\n- Gunakan ulang the Coin untuk setiap 7 Burn pada target utama (maks 2 kali)\n- Plus Coin Skill Base Power -16\n- Minus Coin Skill Base Power -22\n - Plus Coin Power -8\n - Minus Coin Power -12"
     },
     {
       "id": "FreishutzOutisEgoBullet_7th",
       "name": "The Seventh Magic Bullet",
-      "desc": "- Beri +200% damage\n- Beri +2.5% damage untuk setiap 1% HP yang hilang pada target (maks 200%)\n- Before Attack: untuk this attack, jika the Pierce Damage Res. pada target atau pada diri sendiri are kurang dari 2.0, ubah them to Fatal(x2.0)\n- Akhir Serangan: kills unit ini"
+      "desc": "- Beri +200% damage\n- Beri +2.5% damage untuk setiap 1% HP yang hilang pada target (maks 200%)\n- Sebelum Serang: untuk this attack, jika the Pierce Damage Res. pada target atau pada diri sendiri are kurang dari 2.0, ubah them to Fatal(x2.0)\n- Akhir Serangan: kills unit ini"
     },
     {
       "id": "FreishutzOutisEgoBulletCnt",
@@ -1969,26 +1969,26 @@
     {
       "id": "BlackCloudBlade",
       "name": "Dark Cloud Blade",
-      "desc": "Stack Maks: 1\nPeroleh 1 Slash Power\nInflict 1 Bleed Saat Menyerang dengan Slash Skill",
-      "summary": "Perkuat Slash Skill"
+      "desc": "Stack Maks: 1\nPeroleh 1 Slash Power\nInflict 1 Bleed Saat Menyerang dengan Skill Slash",
+      "summary": "Perkuat Skill Slash"
     },
     {
       "id": "EngageToBattle",
       "name": "Battle Ready",
       "desc": "Nilai Maks: 1\nBleed Potency dan Count diberikan dengan Skill unit ini atau efek Coin: +1\nPeroleh 1 Slash Power Up dan 3 Slash DMG Naik untuk the duration of Pertempuran ini",
-      "summary": "Perkuat Slash Skill dan beri lebih Bleed"
+      "summary": "Perkuat Skill Slash dan beri lebih Bleed"
     },
     {
       "id": "CloudWall",
       "name": "Cumulus Wall",
-      "desc": "Stack Maks: 1\nDefense Skill Final Power +1\nThis efek berakhir pada Akhir Giliran atau setelah berikut attack ends: 'Rules of the Backstreets'",
+      "desc": "Stack Maks: 1\nDefense Final Power Skill +1\nThis efek berakhir pada Akhir Giliran atau setelah berikut attack ends: 'Rules of the Backstreets'",
       "summary": "Perkuat Skill Defense"
     },
     {
       "id": "ScarletResultUp",
       "name": "Lust Power Up",
-      "desc": "Lust Skill Final Power +X untuk giliran ini.",
-      "summary": "Lust Skill Final Power +X"
+      "desc": "Lust Final Power Skill +X untuk giliran ini.",
+      "summary": "Lust Final Power Skill +X"
     },
     {
       "id": "NebulizerExhale",
@@ -2086,8 +2086,8 @@
     },
     {
       "id": "SupportProtect",
-      "name": "Assist Defense",
-      "desc": "- Stack Maks: 3\n- Ketika kawan akan menerima Serangan Tanpa Lawan dari musuh, konsumsi 1 Stack untuk mengubah penargetan musuh ke diri sendiri; lalu, pakai Skill ekslusif yang mengaktifkan Assist Defense\n- Ketika terdapat beberapa kawan dengan Assist Defense Stack, kawan dengan Stack tertinggi memiliki prioritas tertinggi\n- Tidak aktif untuk kawan yang menggunakan Skill Defense\n- Kadaluarsa pada Akhir Giliran",
+      "name": "Defense Assist",
+      "desc": "- Stack Maks: 3\n- Ketika kawan akan menerima Serangan Tanpa Lawan dari musuh, konsumsi 1 Stack untuk mengubah penargetan musuh ke diri sendiri; lalu, pakai Skill ekslusif yang mengaktifkan Defense Assist\n- Ketika terdapat beberapa kawan dengan Stack Defense Assist, kawan dengan Stack tertinggi memiliki prioritas tertinggi\n- Tidak aktif untuk kawan yang menggunakan Skill Defense\n- Kadaluarsa pada Akhir Giliran",
       "summary": "",
       "undefined": "-"
     },
@@ -2107,7 +2107,7 @@
     },
     {
       "id": "SupportProtectTypo",
-      "name": "Assist Defense",
+      "name": "Defense Assist",
       "desc": "",
       "summary": "",
       "undefined": "-"
@@ -2136,7 +2136,7 @@
     {
       "id": "CondensedBlood",
       "name": "Tarnished Blood",
-      "desc": "Stack Maks: 5\n- Akhir Giliran: terima 20% HP damage per Stack (tidak dapat di Stagger oleh efek)\n- Peroleh 1 Stack pada Akhir Giliran\n- Kadaluarsa upon kematian atau Mundur",
+      "desc": "Stack Maks: 5\n- Akhir Giliran: terima 20% damage HP per Stack (tidak dapat di Stagger oleh efek)\n- Peroleh 1 Stack pada Akhir Giliran\n- Kadaluarsa upon kematian atau Mundur",
       "summary": "",
       "undefined": "-"
     },
@@ -2220,14 +2220,14 @@
     {
       "id": "IrritationAlly",
       "name": "Tiantui Star [天退星]",
-      "desc": "- Min & Maks Speed +1\n- Jika Speed Unit ini lebih cepat daripada target sebanyak 3 atau lebih, beri +(perbedaan Speed x 2.5)% damage (maks 20%)\n- Beri +1 lebih Tremor Potency dan Tremor Count dengan Skill unit ini\n- Jika unit ini memiliki spent 8+ (sum of Tigermark Round dan Savage Tigermark Round): pada Akhir Giliran, ubah this buff to Shin (心) - Tiantui Star [天退星] giliran berikutnya\n- Stack Maks: 1",
+      "desc": "- Min & Maks Speed +1\n- Jika Speed Unit ini lebih cepat daripada target sebanyak 3 atau lebih, beri +(perbedaan Speed x 2.5)% damage (maks 20%)\n- Beri +1 lebih Potency Tremor dan Count Tremor dengan Skill unit ini\n- Jika unit ini memiliki spent 8+ (sum of Tigermark Round dan Savage Tigermark Round): pada Akhir Giliran, ubah this buff to Shin (心) - Tiantui Star [天退星] giliran berikutnya\n- Stack Maks: 1",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "HugeIrritationAlly",
       "name": "Shin (心) - Tiantui Star [天退星]",
-      "desc": "- Min & Maks Speed +3\n- Jika Speed Unit ini lebih cepat daripada target sebanyak 3 atau lebih, beri +(perbedaan Speed x 5)% damage (maks 40%)\n- Beri +2 lebih Tremor Potency dan Tremor Count dengan Skill unit ini\n- Stack Maks: 1",
+      "desc": "- Min & Maks Speed +3\n- Jika Speed Unit ini lebih cepat daripada target sebanyak 3 atau lebih, beri +(perbedaan Speed x 5)% damage (maks 40%)\n- Beri +2 lebih Potency Tremor dan Count Tremor dengan Skill unit ini\n- Stack Maks: 1",
       "summary": "",
       "undefined": "-"
     },
@@ -2241,7 +2241,7 @@
     {
       "id": "RoseThorn",
       "name": "Gluttonous Thorn (貪食棘)",
-      "desc": "Stack Maks: 9\n\nAkhir Giliran: peroleh Bleed Count setara dengan Lust Reson., lalu kehilangan 1 Gluttonous Thorn (貪食棘). (maks Bleed Count peroleh: 5)\n\nSelama unit ini memiliki efek ini, jika it memperoleh Bleed Potency beyond 99, increase Bloodfeast setara dengan the excess Bleed Potency; lalu, peroleh Defense Level Down giliran berikutnya setara dengan Bloodfeast increased (maks Defense Level Down peroleh: 5)",
+      "desc": "Stack Maks: 9\n\nAkhir Giliran: peroleh Count Bleed setara dengan Reson. Lust, lalu kehilangan 1 Gluttonous Thorn (貪食棘). (maks Count Bleed peroleh: 5)\n\nSelama unit ini memiliki efek ini, jika it memperoleh Bleed Potency beyond 99, increase Bloodfeast setara dengan the excess Bleed Potency; lalu, peroleh Defense Level Down giliran berikutnya setara dengan Bloodfeast increased (maks Defense Level Down peroleh: 5)",
       "summary": "",
       "undefined": "-"
     },
@@ -2283,7 +2283,7 @@
     {
       "id": "HeishouCombo",
       "name": "Exalted Command",
-      "desc": "- Jika unit A memberi efek ini ke unit B: Unit B lanjut menyerang dengan Serangan Tanpa Lawan dengan its Base Skill 3 terhadap the same musuh unit A attacked dengan Skillnya. Aktifkan pada unit A's Akhir Serangan. (Tidak aktif sebagai Empowered Skill)\n- Skill yang digunakan sebagai Serangan Bantuan tidak dapat mempengaruhi daftar Skill Unit B yang akan datang.\n- Tidak aktif jika affected kawan's Skill 3 is not unlocked.",
+      "desc": "- Jika unit A memberi efek ini ke unit B: Unit B lanjut menyerang dengan Serangan Tanpa Lawan dengan its Skill Dasar 3 terhadap the same musuh unit A attacked dengan Skillnya. Aktifkan pada unit A's Akhir Serangan. (Tidak aktif sebagai Empowered Skill)\n- Skill yang digunakan sebagai Serangan Bantuan tidak dapat mempengaruhi daftar Skill Unit B yang akan datang.\n- Tidak aktif jika affected kawan's Skill 3 is not unlocked.",
       "summary": "",
       "undefined": "-"
     },
@@ -2304,7 +2304,7 @@
     {
       "id": "HeishouSupportProtect",
       "name": "Lordsguard",
-      "desc": "- Unique Assist Defense\n- Stack Maks: 1\n- Ketika The Lord of Hongyuan Hong Lu is about to terima Serangan Tanpa Lawan dari musuh, konsumsi 1 Stack untuk mengubah penargetan musuh ke diri sendiri; lalu, copy dan pakai The Lord of Hongyuan Hong Lu's 'Lordsguard' Skill\n- Ketika terdapat beberapa kawan dengan Assist Defense Stack, kawan dengan Stack tertinggi memiliki prioritas tertinggi\n- Efek ini dihitung sebagai Assist Defense, dan is counted toward calculating Assist Defense Stack\n- Kadaluarsa pada Akhir Giliran",
+      "desc": "- Assist Defense Unik\n- Stack Maks: 1\n- Ketika The Lord of Hongyuan Hong Lu is about to terima Serangan Tanpa Lawan dari musuh, konsumsi 1 Stack untuk mengubah penargetan musuh ke diri sendiri; lalu, copy dan pakai The Lord of Hongyuan Hong Lu's 'Lordsguard' Skill\n- Ketika terdapat beberapa kawan dengan Stack Defense Assist, kawan dengan Stack tertinggi memiliki prioritas tertinggi\n- Efek ini dihitung sebagai Defense Assist, dan terhitung dalam kalkulasi Stack Defense Assist\n- Kadaluarsa pada Akhir Giliran",
       "summary": "",
       "undefined": "-"
     },
@@ -2373,13 +2373,13 @@
     {
       "id": "ChickenStance",
       "name": "Bloodflame [血炎]",
-      "desc": "- Stack Maks: 3\n- Unit ini memberi +1 lebih Burn dan Rupture Potency dengan its Base Skill\n- Selama unit ini memiliki efek ini, pulihkan 3 SP saat men-Stagger atau membunuh musuh (3 kali per giliran)\n· Jika SP unit ini is pada maks ketika efek di atas diaktifkan, peroleh 1 Offense Level Up dan 1 Haste giliran berikutnya\n- Kehilangan 1 Stack pada Akhir Giliran",
+      "desc": "- Stack Maks: 3\n- Unit ini memberi +1 lebih Burn dan Rupture Potency dengan its Skill Dasar\n- Selama unit ini memiliki efek ini, pulihkan 3 SP saat men-Stagger atau membunuh musuh (3 kali per giliran)\n· Jika SP unit ini is pada maks ketika efek di atas diaktifkan, peroleh 1 Offense Level Up dan 1 Haste giliran berikutnya\n- Kehilangan 1 Stack pada Akhir Giliran",
       "summary": "Beri +1 lebih Burn atau Rupture"
     },
     {
       "id": "LegStrengthHorseYisang",
       "name": "Strider【Wu】",
-      "desc": "- Stack Maks: 3\n- Akhir Giliran: peroleh 2 Haste dan (Stack x 2) Aggro giliran berikutnya\n- Before Attack: beri (Stack) Tremor Potency terhadap target utama (maks 6 per giliran)\n- Kehilangan 1 Stack pada Akhir Giliran",
+      "desc": "- Stack Maks: 3\n- Akhir Giliran: peroleh 2 Haste dan (Stack x 2) Aggro giliran berikutnya\n- Sebelum Serang: beri (Stack) Potency Tremor terhadap target utama (maks 6 per giliran)\n- Kehilangan 1 Stack pada Akhir Giliran",
       "summary": ""
     },
     {
@@ -2403,7 +2403,7 @@
     {
       "id": "VibrationBleeding",
       "name": "Tremor - Hemorrhage",
-      "desc": "- Pada Tremor Burst, terima Lust Damage setara dengan (sum of Tremor Potency dan Bleed Potency / 2), dan kehilangan 1 Bleed Count\n- Ketika diserang sebanyak Skill yang mengaktifkan Tremor Burst, naikkan Batas Stagger unit ini sebanyak efek's Potency\n- Akhir Giliran: kurangi the Count sebanyak 1\n(Interacts the same way as normal Tremor does to efek that naikkan atau kurangi Tremor Potency/Count)",
+      "desc": "- Pada Tremor Burst, terima Lust Damage setara dengan (sum dari Potency Tremor dan Bleed Potency / 2), dan kehilangan 1 Count Bleed\n- Ketika diserang sebanyak Skill yang mengaktifkan Tremor Burst, naikkan Batas Stagger unit ini sebanyak efek's Potency\n- Akhir Giliran: kurangi the Count sebanyak 1\n(Interacts the same way as normal Tremor does to efek that naikkan atau kurangi Potency Tremor/Count)",
       "summary": "",
       "undefined": "-"
     },
@@ -2430,7 +2430,7 @@
     {
       "id": "CuredFilm",
       "name": "Hardened Shell-Barrier",
-      "desc": "- Awal Giliran: peroleh (Stack / 3) Defense Level Up (maks 3; dibulatkan ke bawah)\n- Immediately sebelum terkena serangan sebanyak musuh, konsumsi setengah dari Hardened Shell-Barrier dan peroleh Protection setara dengan the Stack yang dikonsumsi (sekali per giliran, rounded up)\n- Akhir Giliran: kehilangan 3 Stack\n- Stack Maks: 10",
+      "desc": "- Awal Giliran: peroleh (Stack / 3) Defense Level Up (maks 3; dibulatkan ke bawah)\n- Immediately sebelum terkena serangan sebanyak musuh, konsumsi setengah dari Hardened Shell-Barrier dan peroleh Protection setara dengan the Stack yang dikonsumsi (sekali per giliran, dibulatkan ke atas)\n- Akhir Giliran: kehilangan 3 Stack\n- Stack Maks: 10",
       "summary": "Peroleh Defense Level Up\nImmediately sebelum menerima damage dari Skill, konsumsi Stack untuk peroleh Protection"
     },
     {
@@ -2471,7 +2471,7 @@
     {
       "id": "SnipingArrowMode",
       "name": "Ready to Loose",
-      "desc": "- Ketika unit ini memiliki efek ini, aktifkan berikut:\n· Ubah the leftmost Skill Base Attack pada Dashboard to \"Bow's Glimmer\", lalu uses it pada Awal Pertempuran\n· Unit ini tidak dapat di Stagger dari menerima damage, Tremor Burst, atau raised Batas Stagger\n· Tidak aktif <noparse>Serangan Bantuan</noparse>\n· Removed jika an E.G.O Skill was equipped pada Awal Pertempuran",
+      "desc": "- Ketika unit ini memiliki efek ini, aktifkan berikut:\n· Ubah the leftmost Skill Base Attack pada Dashboard to \"Bow's Glimmer\", lalu uses it pada Awal Pertempuran\n· Unit ini tidak dapat di Stagger dari menerima damage, Tremor Burst, atau raised Batas Stagger\n· Tidak aktif <noparse>Serangan Bantuan</noparse>\n· Removed jika an E.G.O Skill was menggunakan pada Awal Pertempuran",
       "undefined": "-"
     },
     {
@@ -2490,7 +2490,7 @@
     {
       "id": "BloodArmorMeursault",
       "name": "Hardblood Armor",
-      "desc": "- Stack Maks: 5\n- Jika unit ini isn't pada maks HP: setelah Skill attack-nya, pulihkan 10% dari HP damage yang diberikan (sekali per giliran; maks 40 pemulihan)\n- Akhir Serangan: Jika unit ini dealt HP damage, kehilangan 1 Stack (sekali per giliran)\n• Jika Lust Reson. was diaktifkan, halve jumlah dari HP healed, but tidak kehilangan any Hardblood Armor Stack",
+      "desc": "- Stack Maks: 5\n- Jika unit ini isn't pada maks HP: setelah Skill attack-nya, pulihkan 10% dari damage HP yang diberikan (sekali per giliran; maks 40 pemulihan)\n- Akhir Serangan: Jika unit ini dealt damage HP, kehilangan 1 Stack (sekali per giliran)\n• Jika Reson. Lust was diaktifkan, halve jumlah dari HP healed, but tidak kehilangan any Hardblood Armor Stack",
       "undefined": "-"
     },
     {
@@ -2559,15 +2559,15 @@
     {
       "id": "CriHurtNightStiletto",
       "name": "Deep Wound",
-      "desc": "- Stack Dasar: 3\n- Pada Tremor Burst, peroleh +1 Bleed Count (2 kali per giliran)\n- Tidak dapat peroleh Open Wound (dalam Pertempuran Terfokus, Bagian)\n- Akhir Giliran: Peroleh (Stack - 1) Bind giliran berikutnya\n- Akhir Giliran: Kurangi Stack sebanyak 1",
-      "summary": "Peroleh Bleed Count\nPeroleh Bind giliran berikutnya",
+      "desc": "- Stack Dasar: 3\n- Pada Tremor Burst, peroleh +1 Count Bleed (2 kali per giliran)\n- Tidak dapat peroleh Open Wound (dalam Pertempuran Terfokus, Bagian)\n- Akhir Giliran: Peroleh (Stack - 1) Bind giliran berikutnya\n- Akhir Giliran: Kurangi Stack sebanyak 1",
+      "summary": "Peroleh Count Bleed\nPeroleh Bind giliran berikutnya",
       "undefined": "-"
     },
     {
       "id": "HorrHurtNightStiletto",
       "name": "Fatal Wound",
-      "desc": "- Stack Dasar: 3\n- Pada Tremor Burst, peroleh +3 Bleed Count (2 kali per giliran)\n- Tidak dapat peroleh Open Wound (dalam Pertempuran Terfokus, Bagian)\n- Akhir Giliran: Peroleh Bind setara dengan Stack giliran berikutnya\n- Akhir Giliran: Kurangi Stack sebanyak 1",
-      "summary": "Peroleh Bleed Count\nPeroleh Bind giliran berikutnya",
+      "desc": "- Stack Dasar: 3\n- Pada Tremor Burst, peroleh +3 Count Bleed (2 kali per giliran)\n- Tidak dapat peroleh Open Wound (dalam Pertempuran Terfokus, Bagian)\n- Akhir Giliran: Peroleh Bind setara dengan Stack giliran berikutnya\n- Akhir Giliran: Kurangi Stack sebanyak 1",
+      "summary": "Peroleh Count Bleed\nPeroleh Bind giliran berikutnya",
       "undefined": "-"
     },
     {
@@ -2629,8 +2629,8 @@
     {
       "id": "NiddleEGO",
       "name": "Needle",
-      "desc": "- Bleed Unik\n- Ketika menerima Envy damage, peroleh +1 Bleed Count dan kurangi Stack efek ini sebanyak 1\n- Akhir Giliran: Peroleh 1 Bleed dan kurangi Stack efek ini sebanyak 1",
-      "summary": "Peroleh Bleed Count",
+      "desc": "- Bleed Unik\n- Ketika menerima Envy damage, peroleh +1 Count Bleed dan kurangi Stack efek ini sebanyak 1\n- Akhir Giliran: Peroleh 1 Bleed dan kurangi Stack efek ini sebanyak 1",
+      "summary": "Peroleh Count Bleed",
       "undefined": "-"
     },
     {
@@ -2649,7 +2649,7 @@
     {
       "id": "ReinforcedTattooIshmael",
       "name": "Augmentasi Tato Gaya The Middle",
-      "desc": "- Stack Maks: 10\n- Final Power +1 untuk Base Skill untuk setiap 5 Stack (maks 2)\n- Envy Skill dan Blunt Skill beri +5% damage untuk setiap Stack (maks 50%)",
+      "desc": "- Stack Maks: 10\n- Final Power +1 untuk Skill Dasar untuk setiap 5 Stack (maks 2)\n- Envy Skill dan Blunt Skill beri +5% damage untuk setiap Stack (maks 50%)",
       "summary": "",
       "undefined": "-"
     },
@@ -2663,21 +2663,21 @@
     {
       "id": "HeatingWireIshmael",
       "name": "Bilah Termal",
-      "desc": "- Stack Maks: 2\n- Jika target hit sebanyak Base Skill has Burn, pulihkan 3 SP (2 kali per giliran)\n- Beri Burn ketika memberikan Bleed dengan Skill tertentu Coin\n- Akhir Giliran: Kehilangan 1 Stack",
+      "desc": "- Stack Maks: 2\n- Jika target hit sebanyak Skill Dasar has Burn, pulihkan 3 SP (2 kali per giliran)\n- Beri Burn ketika memberikan Bleed dengan Skill tertentu Coin\n- Akhir Giliran: Kehilangan 1 Stack",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "LanternGregBigBird",
       "name": "Lamp",
-      "desc": "- Stack Maks: 8\n- Akhir Giliran: Peroleh 1 Bind giliran berikutnya untuk setiap 2 Stack (maks 4)\n- Akhir Giliran: Pada Stack Maks, jika terdapat musuh di medan tempur, konsumsi semua Stack to aktifkan efek berikut giliran berikutnya:\n• Peroleh +10 Aggro ke Skill Slot paling kiri\n• Beri 3 Dazzle ke musuh(\"Inti\") dengan the most current HP",
+      "desc": "- Stack Maks: 8\n- Akhir Giliran: Peroleh 1 Bind giliran berikutnya untuk setiap 2 Stack (maks 4)\n- Akhir Giliran: Pada Stack Maks, jika terdapat musuh di medan tempur, konsumsi semua Stack to aktifkan efek berikut giliran berikutnya:\n• Peroleh +10 Aggro ke Skill Slot paling kiri\n• Beri 3 Dazzle ke musuh(\"Inti\") dengan the most HP saat ini",
       "summary": "Peroleh Bind giliran berikutnya",
       "undefined": "-"
     },
     {
       "id": "ObedienceGregBigBird",
       "name": "Guardians of the Forest",
-      "desc": "Before Attack, aktifkan efek berikut:\n- Plus Coin Skill pulihkan 4 SP (jika sudah pada maks SP, peroleh 2 Offense Level Up giliran berikutnya)\n- Minus Coin Skill kehilangan 8 SP (efek ini tidak dapat kurangi unit's SP di bawah -40)\n- Kehilangan efek ini",
+      "desc": "Sebelum Serang, aktifkan efek berikut:\n- Plus Coin Skill pulihkan 4 SP (jika sudah pada maks SP, peroleh 2 Offense Level Up giliran berikutnya)\n- Minus Coin Skill kehilangan 8 SP (efek ini tidak dapat kurangi unit's SP di bawah -40)\n- Kehilangan efek ini",
       "summary": "",
       "undefined": "-"
     },
@@ -2766,7 +2766,7 @@
     {
       "id": "Shin_IndexFingerYisang",
       "name": "Shin (心) - Fate",
-      "desc": "- Min & Maks Speed +1\n- Peroleh +1 lebih Poise Potency dan Count dari Base Skill\n- Jika SP unit ini is di atas dari target's, beri +1% damage untuk setiap 3 SP difference (maks 15%; unit tanpa SP are considered to be pada 0 SP)",
+      "desc": "- Min & Maks Speed +1\n- Peroleh +1 lebih Poise Potency dan Count dari Skill Dasar\n- Jika SP unit ini is di atas dari target's, beri +1% damage untuk setiap 3 SP difference (maks 15%; unit tanpa SP are considered to be pada 0 SP)",
       "summary": "",
       "undefined": "-",
       "flavor": ""
@@ -2806,7 +2806,7 @@
     {
       "id": "YisangWeapon02Stiletto",
       "name": "Ketika menusuk paru-paru dengan stiletto...",
-      "desc": "- Coin ini memberikan Pierce damage\n- Saat Menyerang tanpa Cracking, beri 2 Sinking",
+      "desc": "- Coin ini memberikan damage Pierce\n- Saat Menyerang tanpa Cracking, beri 2 Sinking",
       "summary": "",
       "undefined": "-",
       "flavor": ""
@@ -2822,7 +2822,7 @@
     {
       "id": "YisangWeapon04Rapier",
       "name": "Ketika melubangi 10 atau lebih lubang di tubuh dengan rapier...",
-      "desc": "- Coin ini memberikan Pierce damage\n- Coin ini memberikan +5% damage\n- Saat Menyerang tanpa Cracking, beri 1 Defense Level Down giliran berikutnya (2 kali per giliran)",
+      "desc": "- Coin ini memberikan damage Pierce\n- Coin ini memberikan +5% damage\n- Saat Menyerang tanpa Cracking, beri 1 Defense Level Down giliran berikutnya (2 kali per giliran)",
       "summary": "",
       "undefined": "-",
       "flavor": ""
@@ -2846,7 +2846,7 @@
     {
       "id": "YisangWeapon07Lance",
       "name": "Ketika mengebor lubang berukuran 20 inci dengan tombak...",
-      "desc": "- Coin ini memberikan Pierce damage\n- Coin ini memberikan +15% damage\n- Saat Menyerang tanpa Cracking, beri 1 Pierce Fragility hingga giliran berikutnya (2 kali per giliran)",
+      "desc": "- Coin ini memberikan damage Pierce\n- Coin ini memberikan +15% damage\n- Saat Menyerang tanpa Cracking, beri 1 Pierce Fragility hingga giliran berikutnya (2 kali per giliran)",
       "summary": "",
       "undefined": "-",
       "flavor": ""
@@ -2941,14 +2941,14 @@
     },
     {
       "id": "AlriuneEGOThey",
-      "name": "Faint Aroma",
-      "desc": "- Stack Maks: 30\n- Peroleh 1 Stack jika unit ini menerima Sinking damage\n- Saat Tremor Burst, beri 1~2 Faint Aroma on 3 other acak kawan (untuk Abnormalities, Bagian)\n- Pada Stack Maks, peroleh 2 Tremor dan aktifkan Tremor Burst pada diri sendiri; lalu, terima Gloom damage setara dengan Sinking pada diri sendiri dan kehilangan semua Faint Aroma. Tidak dapat peroleh Faint Aroma untuk the rest of the giliran.\n- Jika unit ini terbunuh, beri (remaining Faint Aroma pada unit ini / 2) Faint Aroma secara acak antara kawan unit ini (dibulatkan ke bawah)",
+      "name": "Aroma Samar",
+      "desc": "- Stack Maks: 30\n- Peroleh 1 Stack jika unit ini menerima damage Sinking\n- Saat Tremor Burst, beri 1~2 Aroma Samar on 3 other acak kawan (untuk Abnormalities, Bagian)\n- Pada Stack Maks, peroleh 2 Tremor dan aktifkan Tremor Burst pada diri sendiri; lalu, terima Gloom damage setara dengan Sinking pada diri sendiri dan kehilangan semua Aroma Samar. Tidak dapat peroleh Aroma Samar untuk the rest of the giliran.\n- Jika unit ini terbunuh, beri (remaining Aroma Samar pada unit ini / 2) Aroma Samar secara acak antara kawan unit ini (dibulatkan ke bawah)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "AlriuneEGOWe",
-      "name": "Petals",
+      "name": "Kelopak",
       "desc": "- Stack Maks: 30\n- Offense Level +1 untuk setiap 10 Stack\n- Bisa diperoleh hingga 15 Stack per giliran",
       "summary": "",
       "undefined": "-"
@@ -3012,7 +3012,7 @@
     {
       "id": "FaustFlameMothEmber",
       "name": "Embers",
-      "desc": "- Maks Potency: 3\n- Count Maks: 6\n- Jika unit ini memiliki Burn, kehilangan 1 Embers Count ketika diserang oleh Skill yang memberi Burn Potency, Count, atau 'Burn Unik' (termasuk Skill E.G.O)\n\n- Jika unit ini tidak memiliki Burn, reset Embers Count to 6 ketika diserang (independent of Skill yang beri Burn)\n\n- Pada 0 Embers Count, aktifkan efek berikut:\n· Aktifkan Burn pada diri sendiri sekali dan kehilangan 1 Burn Count\n· Kehilangan 1 Embers Potency\n· Jika unit ini memiliki 1+ remaining Embers Potency, reset Embers Count to 6",
+      "desc": "- Potency Maks: 3\n- Count Maks: 6\n- Jika unit ini memiliki Burn, kehilangan 1 Embers Count ketika diserang oleh Skill yang memberi Burn Potency, Count, atau 'Burn Unik' (termasuk Skill E.G.O)\n\n- Jika unit ini tidak memiliki Burn, reset Embers Count to 6 ketika diserang (independent of Skill yang beri Burn)\n\n- Pada 0 Embers Count, aktifkan efek berikut:\n· Aktifkan Burn pada diri sendiri sekali dan kehilangan 1 Burn Count\n· Kehilangan 1 Embers Potency\n· Jika unit ini memiliki 1+ remaining Embers Potency, reset Embers Count to 6",
       "summary": "",
       "undefined": "-"
     },
@@ -3054,15 +3054,15 @@
     {
       "id": "GoldenOpportunity",
       "name": "Melihat Tableau",
-      "desc": "- Jika The House of Spiders: Murid The Ring Faust is di medan tempur, peroleh 2 Protection pada Awal Giliran\n- Akhir Giliran: Kehilangan 2 Stack",
+      "desc": "- Jika The House of Spiders: Murid The Ring Faust sedang di medan tempur, peroleh 2 Protection pada Awal Giliran\n- Akhir Giliran: Kehilangan 2 Stack",
       "summary": "Peroleh Protection ketika kondisi terpenuhi",
       "undefined": "-"
     },
     {
       "id": "IronMaidenPersonality",
       "name": "Gadis Besi",
-      "desc": "- Peroleh +4 Aggro ke Skill Slot paling kiri\n- Awal Giliran: Peroleh 1 Protection, 5 Defense Level Up, dan Perisai HP setara dengan 5% dari HP unit saat ini\n- Ketika diserang oleh Coin terakhir dari penyerang, beri Pierce damage setara dengan 20% dari damage Coin yang dimaksud dan beri +2 Bleed Count (maks sekali per Skill, 3 kali per giliran. Maks damage per giliran: 60)",
-      "summary": "- Peroleh Aggro ke Skill Slot paling kiri\n- Peroleh Protection, Defense Level Up, dan Perisai\n- Ketika kondisi terpenuhi, beri Pierce damage dan beri Bleed count pada penyerang",
+      "desc": "- Peroleh +4 Aggro ke Skill Slot paling kiri\n- Awal Giliran: Peroleh 1 Protection, 5 Defense Level Up, dan Perisai HP setara dengan 5% dari HP unit saat ini\n- Ketika diserang oleh Coin terakhir dari penyerang, beri damage Pierce setara dengan 20% dari damage Coin yang dimaksud dan beri +2 Count Bleed (maks sekali per Skill, 3 kali per giliran. Maks damage per giliran: 60)",
+      "summary": "- Peroleh Aggro ke Skill Slot paling kiri\n- Peroleh Protection, Defense Level Up, dan Perisai\n- Ketika kondisi terpenuhi, beri damage Pierce dan beri Bleed count pada penyerang",
       "undefined": "-"
     },
     {
@@ -3082,7 +3082,7 @@
     {
       "id": "FaubismMaskMeursault",
       "name": "Le Fauvisme - Masque de Chien",
-      "desc": "- Beri +5% damage untuk setiap 3 Aniaya Warna pada target (maks 15%)\n- Beri +1 lebih Bleed dan Sinking Potency dengan Base Skill\n- Sebelum menyerang dengan Skill Dasar, jika target tidak memiliki Bleed, beri +2 Bleed Count pada target (sekali per giliran)",
+      "desc": "- Beri +5% damage untuk setiap 3 Aniaya Warna pada target (maks 15%)\n- Beri +1 lebih Bleed dan Sinking Potency dengan Skill Dasar\n- Sebelum menyerang dengan Skill Dasar, jika target tidak memiliki Bleed, beri +2 Count Bleed pada target (sekali per giliran)",
       "summary": "",
       "undefined": "-"
     },
@@ -3096,21 +3096,21 @@
     {
       "id": "FaubismWolfMaskRodion",
       "name": "Le Fauvisme - Masque de Loup",
-      "desc": "- Min & Maks Speed +1\n- Beri +1 lebih Bleed dan Sinking Potency dengan Base Skill\n- Saat Serang, jika target memiliki 3+ Aniaya Warna [Bleu], beri +1 Sinking Count (sekali per giliran)\n- Saat Serang, jika target memiliki 3+ Aniaya Warna [Rouge], beri +1 Bleed Count (sekali per giliran)",
+      "desc": "- Min & Maks Speed +1\n- Beri +1 lebih Bleed dan Sinking Potency dengan Skill Dasar\n- Saat Serang, jika target memiliki 3+ Aniaya Warna [Bleu], beri +1 Sinking Count (sekali per giliran)\n- Saat Serang, jika target memiliki 3+ Aniaya Warna [Rouge], beri +1 Count Bleed (sekali per giliran)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "BoldBrushstrokesRodion",
       "name": "Touche Hardie",
-      "desc": "- Stack Maks: 2\n- Terima +10% HP dan SP damage dari Bleed dan Sinking efek untuk setiap Stack (maks 20%, dibulatkan ke bawah)\n- Akhir Giliran: Kehilangan 1 Stack",
+      "desc": "- Stack Maks: 2\n- Terima +10% HP dan damage SP dari Bleed dan Sinking efek untuk setiap Stack (maks 20%, dibulatkan ke bawah)\n- Akhir Giliran: Kehilangan 1 Stack",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "IntenseColorsRodion",
       "name": "Palette Vibrante",
-      "desc": "- Stack Maks: 4\n- Terima +(Stack x 2.5)% damage dari Identitas faksi The Ring\n· Jika penyerang is in both The Ring faction dan School of Fauvism faction, terima +(Stack x 5)% damage saja\n- Awal Pertempuran: Secara Acak peroleh 1 Bleed, 1 Sinking, 1 Bleed Count, atau 1 Sinking Count (Stack) kali\n- Akhir Pertempuran: Efek ini Kadaluarsa. Setengahkan Aniaya Warna [Rouge] dan Aniaya Warna [Bleu] Stack pada unit ini (dibulatkan ke bawah)",
+      "desc": "- Stack Maks: 4\n- Terima +(Stack x 2.5)% damage dari Identitas faksi The Ring\n· Jika penyerang is in both The Ring faction dan School of Fauvism faction, terima +(Stack x 5)% damage saja\n- Awal Pertempuran: Secara Acak peroleh 1 Bleed, 1 Sinking, 1 Count Bleed, atau 1 Sinking Count (Stack) kali\n- Akhir Pertempuran: Efek ini Kadaluarsa. Setengahkan Aniaya Warna [Rouge] dan Aniaya Warna [Bleu] Stack pada unit ini (dibulatkan ke bawah)",
       "summary": "",
       "undefined": "-"
     },
@@ -3153,7 +3153,7 @@
     {
       "id": "MiddleFingerTattooID",
       "name": "Tato Pembalasan",
-      "desc": "- Stack Maks: 20\n- Base Skill beri +1% damage untuk setiap Stack",
+      "desc": "- Stack Maks: 20\n- Skill Dasar beri +1% damage untuk setiap Stack",
       "summary": "",
       "undefined": "-",
       "flavor": ""
@@ -3241,7 +3241,7 @@
     {
       "id": "DaughterEducationSpiderOutis",
       "name": "Check This Out, Kiddo!",
-      "desc": "- Stack Maks: 10\n- Dikurangi sebanyak 1 ketika unit ini diserang by 2 Skill\n- Pada 5+ Stack, Base Skill memperoleh Final Power +1\n- Blunt Skill beri +1% damage untuk setiap Stack (maks 10%)",
+      "desc": "- Stack Maks: 10\n- Dikurangi sebanyak 1 ketika unit ini diserang by 2 Skill\n- Pada 5+ Stack, Skill Dasar memperoleh Final Power +1\n- Blunt Skill beri +1% damage untuk setiap Stack (maks 10%)",
       "summary": "",
       "undefined": "-",
       "flavor": ""
@@ -3249,7 +3249,7 @@
     {
       "id": "GotAComplimentIshmael",
       "name": "I Got Praised!",
-      "desc": "- Stack Maks: 10\n- Dikurangi sebanyak 1 ketika unit ini diserang by 2 Skill\n- Pada 5+ Stack, Base Skill memperoleh Final Power +1\n- Blunt Skill beri +1% damage untuk setiap Stack (maks 10%)",
+      "desc": "- Stack Maks: 10\n- Dikurangi sebanyak 1 ketika unit ini diserang by 2 Skill\n- Pada 5+ Stack, Skill Dasar memperoleh Final Power +1\n- Blunt Skill beri +1% damage untuk setiap Stack (maks 10%)",
       "summary": "",
       "undefined": "-",
       "flavor": ""
@@ -3257,7 +3257,7 @@
     {
       "id": "MiddleFatherGutsOutis",
       "name": "Ridiculous Grit",
-      "desc": "- Stack Maks: 3\n- Fix any Attack Type Resistances that exceed Normal (1.0) to Normal (unless terkena Stagger)\n- Terima -(30 + (The Middle - Vengeance Tattoo [<s>Great Sister</s>] Stack x 4))% damage dari Skill (maks 50%; dibulatkan ke bawah)\n- Pada Menang Clash, pulihkan tambahan (Clash count x 5) SP (maks 15)\n- Akhir Giliran: Jika unit ini kehilangan SP giliran ini akibat its Skill effects, beri +10% damage giliran berikutnya dengan Base Skill (sekali per giliran)\n- Akhir Giliran: Kehilangan 1 Stack",
+      "desc": "- Stack Maks: 3\n- Fix any Attack Type Resistances that exceed Normal (1.0) to Normal (unless terkena Stagger)\n- Terima -(30 + (The Middle - Vengeance Tattoo [<s>Great Sister</s>] Stack x 4))% damage dari Skill (maks 50%; dibulatkan ke bawah)\n- Pada Menang Clash, pulihkan tambahan (jumlah Clash x 5) SP (maks 15)\n- Akhir Giliran: Jika unit ini kehilangan SP giliran ini akibat its Skill effects, beri +10% damage giliran berikutnya dengan Skill Dasar (sekali per giliran)\n- Akhir Giliran: Kehilangan 1 Stack",
       "summary": "",
       "undefined": "-",
       "flavor": ""
@@ -3265,7 +3265,7 @@
     {
       "id": "MiddleFatherSwordOneOutis",
       "name": "Sealed Sword",
-      "desc": "- Akhir Giliran: Peroleh 2 Haste giliran berikutnya\n- Blunt Skill Dasar beri +2% damage untuk setiap 4 Bleed pada target (maks 10%)\n- Pada serangan Coin terakhir dengan Base Skill, jika target memiliki 20+ Bleed, beri (10% of the Coin's final damage) Blunt damage (dibulatkan ke bawah)",
+      "desc": "- Akhir Giliran: Peroleh 2 Haste giliran berikutnya\n- Blunt Skill Dasar beri +2% damage untuk setiap 4 Bleed pada target (maks 10%)\n- Pada serangan Coin terakhir dengan Skill Dasar, jika target memiliki 20+ Bleed, beri (10% of the Coin's final damage) Blunt damage (dibulatkan ke bawah)",
       "summary": "",
       "undefined": "-",
       "flavor": ""
@@ -3273,7 +3273,7 @@
     {
       "id": "MiddleFatherSwordTwoOutis",
       "name": "First Seal Removed",
-      "desc": "- Akhir Giliran: Peroleh 1 Haste giliran berikutnya\n- Blunt Skill Dasar beri +2% damage untuk setiap 4 (Burn + Bleed) pada target (maks 10%)\n- Pada serangan Coin terakhir dengan Base Skill, jika target memiliki 20+ (Burn + Bleed), beri (10% of the Coin's final damage) Blunt damage (dibulatkan ke bawah)",
+      "desc": "- Akhir Giliran: Peroleh 1 Haste giliran berikutnya\n- Blunt Skill Dasar beri +2% damage untuk setiap 4 (Burn + Bleed) pada target (maks 10%)\n- Pada serangan Coin terakhir dengan Skill Dasar, jika target memiliki 20+ (Burn + Bleed), beri (10% of the Coin's final damage) Blunt damage (dibulatkan ke bawah)",
       "summary": "",
       "undefined": "-",
       "flavor": ""
@@ -3281,7 +3281,7 @@
     {
       "id": "MiddleFatherSwordThreeOutis",
       "name": "Second Seal Removed",
-      "desc": "- Akhir Giliran: Peroleh 1 Haste giliran berikutnya\n- Blunt Skill Dasar beri +2% damage untuk setiap 4 (Burn + Bleed) pada target (maks 10%)\n- Pada serangan Coin terakhir dengan Base Skill, jika target memiliki 20+ (Burn + Bleed), beri (10% of the Coin's final damage) Slash damage (dibulatkan ke bawah)",
+      "desc": "- Akhir Giliran: Peroleh 1 Haste giliran berikutnya\n- Blunt Skill Dasar beri +2% damage untuk setiap 4 (Burn + Bleed) pada target (maks 10%)\n- Pada serangan Coin terakhir dengan Skill Dasar, jika target memiliki 20+ (Burn + Bleed), beri (10% of the Coin's final damage) Slash damage (dibulatkan ke bawah)",
       "summary": "",
       "undefined": "-",
       "flavor": ""
@@ -3289,7 +3289,7 @@
     {
       "id": "MiddleFatherSwordFourOutis",
       "name": "Lævateinn",
-      "desc": "- Mulai Giliran: Beri 3 Burn pada semua unit di medan tempur\n- Replace unit ini's Skill Dasar with Lævateinn-exclusive Skill corresponding to each Skill's rank\n- Blunt Skill Dasar beri +2% damage untuk setiap 4 (Burn + Bleed) pada target (maks 10%)\n- Pada serangan Coin terakhir dengan Base Skill, jika target memiliki 20+ (Burn + Bleed), beri (10% of the Coin's final damage) Pierce damage (dibulatkan ke bawah)",
+      "desc": "- Mulai Giliran: Beri 3 Burn pada semua unit di medan tempur\n- Replace unit ini's Skill Dasar with Lævateinn-exclusive Skill corresponding to each Skill's rank\n- Blunt Skill Dasar beri +2% damage untuk setiap 4 (Burn + Bleed) pada target (maks 10%)\n- Pada serangan Coin terakhir dengan Skill Dasar, jika target memiliki 20+ (Burn + Bleed), beri (10% of the Coin's final damage) damage Pierce (dibulatkan ke bawah)",
       "summary": "",
       "undefined": "-",
       "flavor": ""
@@ -3297,7 +3297,7 @@
     {
       "id": "MidFamilyOutis",
       "name": "Avenging My Family",
-      "desc": "- Envy Skill Dasar beri +20% damage\n- Base Skill memperoleh Final Power +1",
+      "desc": "- Envy Skill Dasar beri +20% damage\n- Skill Dasar memperoleh Final Power +1",
       "summary": "",
       "undefined": "-",
       "flavor": ""
@@ -3313,7 +3313,7 @@
     {
       "id": "MatchesPersonality",
       "name": "Blazing",
-      "desc": "- Min & Maks Speed +1\n- Skill Serangan Dasar pertama giliran ini memperoleh Final Power +2\n- Terima 2% HP damage Saat Serang with the affected Skill (maks 10%; this damage does not Stagger atau kurangi HP unit ini di bawah 1)\n- Kadaluarsa pada Akhir Giliran",
+      "desc": "- Min & Maks Speed +1\n- Skill Serangan Dasar pertama giliran ini memperoleh Final Power +2\n- Terima 2% damage HP Saat Serang with the affected Skill (maks 10%; this damage does not Stagger atau kurangi HP unit ini di bawah 1)\n- Kadaluarsa pada Akhir Giliran",
       "summary": "",
       "undefined": "-",
       "flavor": ""
@@ -3352,14 +3352,14 @@
     {
       "id": "BladelineagePride",
       "name": "Tanggung Jawab Seorang Salsu",
-      "desc": "- Stack Maks: 3\n- Peroleh Offense Level untuk setiap Stack\n- On Attack Hit menggunakan Slash Skill, peroleh 1 Poise (2 kali per giliran) \n- Kehilangan 1 Stack kawan identitas Blade Lineage dikalahkan",
+      "desc": "- Stack Maks: 3\n- Peroleh Offense Level untuk setiap Stack\n- On Attack Hit menggunakan Skill Slash, peroleh 1 Poise (2 kali per giliran) \n- Kehilangan 1 Stack kawan identitas Blade Lineage dikalahkan",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "WindBladeIshmael",
       "name": "Mook Workshop - Ye [銳] Tipe II Bladedraw / Thrust Force: Dokkaebi Fire",
-      "desc": "- Stack Maks: 20\n- Dapat peroleh hingga 10 Stack per giliran\n- Slash Skill Base Attack beri +1% damage untuk setiap Stack (maks 10%)\n- Skill Defense kehilangan 1 Clash Power untuk setiap 2 Stack (maks 5)\n- Akhir Giliran: Peroleh 1 Haste giliran berikutnya untuk setiap 5 Stack (maks 3)",
+      "desc": "- Stack Maks: 20\n- Dapat peroleh hingga 10 Stack per giliran\n- Skill Slash Base Attack beri +1% damage untuk setiap Stack (maks 10%)\n- Skill Defense kehilangan 1 Clash Power untuk setiap 2 Stack (maks 5)\n- Akhir Giliran: Peroleh 1 Haste giliran berikutnya untuk setiap 5 Stack (maks 3)",
       "summary": "",
       "undefined": "-"
     },
@@ -3387,14 +3387,14 @@
     {
       "id": "RootSoupKimPersonal",
       "name": "Sarung Pedang Kebencian",
-      "desc": "- Ketika seorang kawan, termasuk unit ini, menerima HP damage, peroleh Kebencian Tertumbuh setara dengan damage diterima\n- Pasif In Memoriam sekarang mengabaikan kondisional dan aktif pada potensi penuh\n- Ketika activating Reson. Pride, beri Seni Pedang Tanah Air - Esensi Sejati pada semua kawan Blade Lineage selain unit ini\n\n- Saat Menggunakan \"Ambil Dagingku\", hingga Akhir Skill:\n· HP unit ini tidak turun di bawah 10 (sekali per giliran)\n· Kehilangan (Poise pada diri sendiri / 2) Clash Power (dibulatkan ke bawah)\n- Saat Menggunakan \"Untuk Ambil Tulang Mereka\", peroleh 4 Poise\n\n※ efek Pedang Tanah Air - Esensi Sejati:\n- Skill Base Attack peroleh Final Power +(# dari Blade Lineage kawan di medan tempur / 3) (maks 2, dibulatkan ke bawah)\n- Jika unit ini adalah Salsu Blade Lineage, Base Skill memperoleh Final Power +1 dan beri +(120 / # dari Coin)% damage\n- Akhir Giliran: Peroleh 1 Haste giliran berikutnya dan efek ini kadaluarsa",
+      "desc": "- Ketika seorang kawan, termasuk unit ini, menerima damage HP, peroleh Kebencian Tertumbuh setara dengan damage diterima\n- Pasif In Memoriam sekarang mengabaikan kondisional dan aktif pada potensi penuh\n- Ketika activating Reson. Pride, beri Seni Pedang Tanah Air - Esensi Sejati pada semua kawan Blade Lineage selain unit ini\n\n- Saat Menggunakan \"Ambil Dagingku\", hingga Akhir Skill:\n· HP unit ini tidak turun di bawah 10 (sekali per giliran)\n· Kehilangan (Poise pada diri sendiri / 2) Clash Power (dibulatkan ke bawah)\n- Saat Menggunakan \"Untuk Ambil Tulang Mereka\", peroleh 4 Poise\n\n※ efek Pedang Tanah Air - Esensi Sejati:\n- Skill Base Attack peroleh Final Power +(# dari Blade Lineage kawan di medan tempur / 3) (maks 2, dibulatkan ke bawah)\n- Jika unit ini adalah Salsu Blade Lineage, Skill Dasar memperoleh Final Power +1 dan beri +(120 / # dari Coin)% damage\n- Akhir Giliran: Peroleh 1 Haste giliran berikutnya dan efek ini kadaluarsa",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "RootSoupKimSatgat",
       "name": "Pedang Tanah Air - Esensi Sejati",
-      "desc": "- Skill Base Attack peroleh Final Power +(# dari Blade Lineage kawan di medan tempur / 3) (maks 2, dibulatkan ke bawah)\n- Jika unit ini adalah Salsu Blade Lineage, Base Skill memperoleh Final Power +1 dan beri +(120 / # dari Coin)% damage\n- Akhir Giliran: Peroleh 1 Haste giliran berikutnya dan efek ini kadaluarsa",
+      "desc": "- Skill Base Attack peroleh Final Power +(# dari Blade Lineage kawan di medan tempur / 3) (maks 2, dibulatkan ke bawah)\n- Jika unit ini adalah Salsu Blade Lineage, Skill Dasar memperoleh Final Power +1 dan beri +(120 / # dari Coin)% damage\n- Akhir Giliran: Peroleh 1 Haste giliran berikutnya dan efek ini kadaluarsa",
       "summary": "",
       "undefined": "-"
     },
@@ -3447,14 +3447,14 @@
     {
       "id": "LookingFutureRodion",
       "name": "Akselerasi Masa Depan",
-      "desc": "- Stack Maks: 5\n- Skill Dasar beri +3% damage untuk setiap Stack (maks 15%)\n- Base Skill Clash Power +1 untuk setiap 2 Stack\n- Pada 5 Stack, Base Skill Coin Power +1\n- Kadaluarsa pada Akhir Skill",
+      "desc": "- Stack Maks: 5\n- Skill Dasar beri +3% damage untuk setiap Stack (maks 15%)\n- Skill Dasar Clash Power +1 untuk setiap 2 Stack\n- Pada 5 Stack, Skill Dasar Coin Power +1\n- Kadaluarsa pada Akhir Skill",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "TeachersPreyRodion",
       "name": "Game Target",
-      "desc": "- Terima +15% damage dari Base Skill digunakan oleh House of Spiders: Nursefather Thumb Rodion",
+      "desc": "- Terima +15% damage dari Skill Dasar digunakan oleh House of Spiders: Nursefather Thumb Rodion",
       "summary": "",
       "undefined": "-"
     },
@@ -3509,7 +3509,7 @@
     {
       "id": "DawnGregor",
       "name": "Dari Fajar Hingga Terbenam",
-      "desc": "- Jika unit ini memiliki 3+ Batas Stagger, hilangkan Batas Stagger pertama\n- Akhir Giliran: Jika unit ini Stagger, pulih dari Stagger; jika unit ini ada pada Uptie 3 atau lebih tinggi, gantikan 1 dari Skill Dasarnya dengan Skill 3\n(mengecualikan Stagger paksa; sekali per Pertemuan; memprioritaskan Skill dengan tingkat terendah)\n\n- Mulai Giliran: Pulihkan 5 SP\n- Efek Pasif  \"Cangkang Ego Tidak Stabil\", efek Skill Serangan Dasar, dan efek Gairah Volatil tidak bisa kurangi SP unit ini di bawah 25\n\n- Saat berada di status Volatile E.G.O::Waxen Pinion, peroleh efek berikut:\n  · Mulai Giliran: Peroleh Perisai setara dengan 15% dari maks HP\n  · Ketika diserang selama unit ini memiliki Perisai, beri 1 Burn terhadap penyerang (2 kali per giliran)\n  · Aktifkan Kobaran Medan pada medan tempur ini\n\n※ efek Kobaran Medan\n- Simpan seluruh Burn damage yang diberikan di zona ini\n- Reset ketika pindah ke zona lain\n- Nilai ini tersedia untuk seluruh unit",
+      "desc": "- Jika unit ini memiliki 3+ Batas Stagger, hilangkan Batas Stagger pertama\n- Akhir Giliran: Jika unit ini Stagger, pulih dari Stagger; jika unit ini ada pada Uptie 3 atau lebih tinggi, gantikan 1 dari Skill Dasarnya dengan Skill 3\n(mengecualikan Stagger paksa; sekali per Pertemuan; memprioritaskan Skill dengan tingkat terendah)\n\n- Mulai Giliran: Pulihkan 5 SP\n- Efek Pasif  \"Cangkang Ego Tidak Stabil\", efek Skill Serangan Dasar, dan efek Gairah Volatil tidak bisa kurangi SP unit ini di bawah 25\n\n- Saat berada di status Volatile E.G.O::Waxen Pinion, peroleh efek berikut:\n  · Mulai Giliran: Peroleh Perisai setara dengan 15% dari maks HP\n  · Ketika diserang saat unit ini memiliki Perisai, beri 1 Burn terhadap penyerang (2 kali per giliran)\n  · Aktifkan Kobaran Medan pada medan tempur ini\n\n※ efek Kobaran Medan\n- Simpan seluruh Burn damage yang diberikan di zona ini\n- Reset ketika pindah ke zona lain\n- Nilai ini tersedia untuk seluruh unit",
       "summary": "",
       "undefined": "-",
       "flavor": "\"Ah... Aroma yang menyenangkan. Kau tahu, kamu seperti Color Fixer dalam membuat ssanghwa-cha. Dengan ini aku memberimu gelar Color Fixer \"Sang Kuning Ssanghwa...\"\n\"Sudah beres, lalu, aku akan mengajarimu sendiri, jadi lebih baik kalau kamu mengikuti. Aku melihat potensi dalam dirimu, Nak—keahlian membuat ssangwcha milikmu telah memahami gambaran dari suatu 'momen'... Dan dapat mengenali 'momen' itu adalah kunci untuk semuanya.\""
@@ -3525,10 +3525,10 @@
     {
       "id": "DawnGregorDying",
       "name": "Kobaran Terbenam",
-      "desc": "- Jika unit ini memiliki 3+ Batas Stagger, hilangkan Batas Stagger pertama\n- Akhir Giliran: Jika unit ini Stagger, pulih dari Stagger; jika unit ini ada pada Uptie 3 atau lebih tinggi, gantikan 1 dari Skill Dasarnya dengan Skill 3\n(mengecualikan Stagger paksa; sekali per Pertemuan; memprioritaskan Skill dengan tingkat terendah)\n\n- Mulai Giliran: Pulihkan 8 SP\n- Efek Pasif  \"Cangkang Ego Tidak Stabil\", efek Skill Serangan Dasar, dan efek Gairah Volatil tidak bisa kurangi SP unit ini di bawah 45\n\n- Mulai Giliran: masuk ke Status Volatile E.G.O::Waxen Pinion, pulihkan 50% HP, dan pulihkan SP hingga maks (sekali per Pertemuan)\n- Status Volatile E.G.O::Waxen Pinion tetap dimiliki bahkan ketika unit ini memiliki 0 atau kurang SP saat Mulai Giliran\n\n- Saat berada di status Volatile E.G.O::Waxen Pinion, peroleh efek berikut:\n  · Mulai Giliran: Peroleh Perisai setara dengan 20% dari maks HP\n  · Ketika diserang selama unit ini memiliki Perisai, beri 2 Burn terhadap penyerang (2 kali per giliran)\n  · Aktifkan Kobaran Medan pada medan tempur ini\n\n※ efek Kobaran Medan\n- Simpan seluruh Burn damage yang diberikan di zona ini\n- Reset ketika pindah ke zona lain\n- Nilai ini tersedia untuk seluruh unit",
+      "desc": "- Jika unit ini memiliki 3+ Batas Stagger, hilangkan Batas Stagger pertama\n- Akhir Giliran: Jika unit ini Stagger, pulih dari Stagger; jika unit ini ada pada Uptie 3 atau lebih tinggi, gantikan 1 dari Skill Dasarnya dengan Skill 3\n(mengecualikan Stagger paksa; sekali per Pertemuan; memprioritaskan Skill dengan tingkat terendah)\n\n- Mulai Giliran: Pulihkan 8 SP\n- Efek Pasif  \"Cangkang Ego Tidak Stabil\", efek Skill Serangan Dasar, dan efek Gairah Volatil tidak bisa kurangi SP unit ini di bawah 45\n\n- Mulai Giliran: masuk ke Status Volatile E.G.O::Waxen Pinion, pulihkan 50% HP, dan pulihkan SP hingga maks (sekali per Pertemuan)\n- Status Volatile E.G.O::Waxen Pinion tetap dimiliki bahkan ketika unit ini memiliki 0 atau kurang SP saat Mulai Giliran\n\n- Saat berada di status Volatile E.G.O::Waxen Pinion, peroleh efek berikut:\n  · Mulai Giliran: Peroleh Perisai setara dengan 20% dari maks HP\n  · Ketika diserang saat unit ini memiliki Perisai, beri 2 Burn terhadap penyerang (2 kali per giliran)\n  · Aktifkan Kobaran Medan pada medan tempur ini\n\n※ efek Kobaran Medan\n- Simpan seluruh Burn damage yang diberikan di zona ini\n- Reset ketika pindah ke zona lain\n- Nilai ini tersedia untuk seluruh unit",
       "summary": "",
       "undefined": "-",
-      "flavor": "\"Master, kumohon... Masih banyak yang harus kupelajari... Anda sendiri yang mengatakannya...\"\nFajar hanya berlalu sebentar; ia akan segera berganti dengan pagi dan memudar menjadi siang hari, dengan janji matahari terbenam yang akan membawa malam."
+      "flavor": "\"Master, kumohon... Masih banyak yang harus kupelajari... anda sendiri yang mengatakannya...\"\nFajar hanya berlalu sebentar; ia akan segera berganti dengan pagi dan memudar menjadi siang hari, dengan janji matahari terbenam yang akan membawa malam."
     },
     {
       "id": "DawnFaustDying",
@@ -3596,21 +3596,21 @@
     {
       "id": "DianxueHongLu",
       "name": "Nerve Strike - Hong Lu",
-      "desc": "- Stack Maks: 3\n- The unit that inflicted this Nerve Strike gains the following effects based pada target's (or targeted Part's) Nerve Strike Stack\n· 1x Stack: Peroleh Clash Power +1\n· 2x Stack: Peroleh Base Power +1\n· 3x Stack: Peroleh Clash Power +1 and Base Power +1\n- Expires if unit yang memberikan it inflicts efek ini against a different target (or a different Part)\n- Replaced when another unit inflicts Nerve Strike (Stack are preserved)",
+      "desc": "- Stack Maks: 3\n- The unit that inflicted this Nerve Strike gains efek berikut based pada target's (or targeted Part's) Nerve Strike Stack\n· 1x Stack: Peroleh Clash Power +1\n· 2x Stack: Peroleh Base Power +1\n· 3x Stack: Peroleh Clash Power +1 dan Base Power +1\n- Expires if unit yang memberikan it inflicts efek ini against a different target (or a different Part)\n- Replaced when another unit inflicts Nerve Strike (Stack are preserved)",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "DuelSousTemoinsEast",
       "name": "Witnessed - Eastern Cinq",
-      "desc": "- Stack Maks: 3\n- Offense Level +(Stack)\n- At 2+ Stack, Base Skills peroleh +1 more Poise Potency\n- Pada 3+ Stack, Base Skills peroleh +1 more Poise Count",
+      "desc": "- Stack Maks: 3\n- Offense Level +(Stack)\n- Pada 2+ Stack, Skill Dasar peroleh +1 lebih Poise Potency\n- Pada 3+ Stack, Skill Dasar peroleh +1 lebih Poise Count",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "NoirSuitAlly",
-      "name": "Le Noir: Gabardine Overcoat",
-      "desc": "- Stack Maks: 100\n- Defense Level +1 untuk setiap 25 Stack\n- Peroleh +5 Aggro pada Slot paling kiri\n- Ketika diserang selama unit ini memiliki Perisai, peroleh 5 Stack (10 per giliran)\n- Akhir Giliran: Jika unit ini memiliki sisa Perisai, peroleh 10 Stack\n- Beri efek berikut ketika unit ini memperoleh atau mengonsumsi Count Preservasi karena efek Skill atau Passive-nya:\n · Peroleh Stack setara dengan Count Preservation yang diperoleh (Stack efek ini tetap diperoleh bahkan ketika Count Preservasi sudah maks)\n · Peroleh Stack setara dengan (Count Preservasi yang dikonsumsi x 2)\n · Bisa peroleh hingga 30 Stack per giliran melalui efek ini\n- Pada 100 Stack, ubah efek ini menjadi Armure Éveillée giliran berikutnya",
+      "name": "Le Noir: Mantel Gabardine",
+      "desc": "- Stack Maks: 100\n- Defense Level +1 untuk setiap 25 Stack\n- Peroleh +5 Aggro pada Slot paling kiri\n- Ketika diserang saat unit ini memiliki Perisai, peroleh 5 Stack (10 per giliran)\n- Akhir Giliran: Jika unit ini memiliki sisa Perisai, peroleh 10 Stack\n- Beri efek berikut ketika unit ini memperoleh atau mengonsumsi Count Preservasi karena efek Skill atau Passive-nya:\n · Peroleh Stack setara dengan Count Preservation yang diperoleh (Stack efek ini tetap diperoleh bahkan ketika Count Preservasi sudah maks)\n · Peroleh Stack setara dengan (Count Preservasi yang dikonsumsi x 2)\n · Bisa peroleh hingga 30 Stack per giliran melalui efek ini\n- Pada 100 Stack, ubah efek ini menjadi Armure Éveillée giliran berikutnya",
       "summary": "Peroleh Defense Level dan Aggro",
       "flavor": "Mantel yang terbuat dari kain kepar, sejenis tenunan yang dibuat dengan merangkai beberapa benang pakan ke lebih sedikit benang lusi.\nKarakteristik tenunannya dengan kepadatan tinggi melindungi pemakainya dari trauma eksternal."
     },
@@ -3624,7 +3624,7 @@
     {
       "id": "RealisationAlly",
       "name": "Armure Éveillée",
-      "desc": "- Stack Maks: 100\n- Min & Maks Speed +2\n- Offense Level +1 dan Defense Level +1 untuk setiap 25 Stack\n- Ubah semua Coin Skill Serangan Dasar menjadi Unbreakable Coin\n- Awal Giliran: Pulihkan 8 SP\n- Pada 0 Stack, ubah efek ini menjadi \"Le Noir: Gabardine Overcoat\"",
+      "desc": "- Stack Maks: 100\n- Min & Maks Speed +2\n- Offense Level +1 dan Defense Level +1 untuk setiap 25 Stack\n- Ubah semua Coin Skill Serangan Dasar menjadi Unbreakable Coin\n- Awal Giliran: Pulihkan 8 SP\n- Pada 0 Stack, ubah efek ini menjadi \"Le Noir: Mantel Gabardine\"",
       "summary": "Peroleh Offense Level, Defense Level, dan Speed\nUbah Coin Skill Serangan Dasar menjadi Unbreakable Coin",
       "flavor": "Tenunan kain Le Noir mencegah kekuatan eksternal mencapai pemakainya. Tujuan kebangkitannya ialah menghilangkan perubahan yang terjadi dari luar.\nKain menyimpan energi dari serangan yang diserapnya, lalu mengeluarkan semua kekuatan itu dalam satu ledakan untuk menghilangkan sumber perubahan eksternal."
     },
@@ -3638,15 +3638,15 @@
     {
       "id": "RougeIshmaelCocoon",
       "name": "Ruang Ganti",
-      "desc": "- Stack Maks: 2\n- Tetapkan Speed unit ini menjadi 1\n- Terima -50% damage dari Skill\n- Segera setelah memperoleh efek ini, hilangan Batas Stagger; ketika terkena Stagger, pulih dari Stagger\n- Awal Giliran: Peroleh 10 Aggro\n- Ketika diserang, peroleh +1 Count Pulsasi (20 kali per giliran)\n- Akhir Giliran: Kehilangan 1 Stack\n- Tidak dapat Mundur\n- Tidak dapat masuk Korosi E.G.O; akan memasuki Status Panik biasa (dipengaruhi oleh efek yang mengubah tipe Panik)\n- Selama di status ini, selain dari Skill eksklusif \"Seperti Kata Suara, Dengan Senang Hati Aku Menarik Diriku\", tidak dapat menggunakan Skill Defense atau Skill E.G.O",
+      "desc": "- Stack Maks: 2\n- Tetapkan Speed unit ini menjadi 1\n- Terima -50% damage dari Skill\n- Segera setelah memperoleh efek ini, hilangkan Batas Stagger; ketika terkena Stagger, pulih dari Stagger\n- Awal Giliran: Peroleh 10 Aggro\n- Ketika diserang, peroleh +1 Count Pulsasi (20 kali per giliran)\n- Akhir Giliran: Kehilangan 1 Stack\n- Tidak dapat Mundur\n- Tidak dapat masuk Korosi E.G.O; akan memasuki Status Panik biasa (dipengaruhi oleh efek yang mengubah tipe Panik)\n- Selama di status ini, selain dari Skill eksklusif \"Seperti Kata Suara, Dengan Senang Hati Aku Menarik Diriku\", tidak dapat menggunakan Skill Defense atau Skill E.G.O",
       "summary": "",
       "undefined": "-",
       "flavor": "Meski semakin sulit, namun kini menjadi pasif. Jika dilihat dari sudut pandang Le Rouge, betapapun tahan lamanya suatu hal, hal yang pasif selalu rapuh.\n\nTetapi kita harus menghentikannya terlebih dahulu agar bisa membawa perubahan. Dan itulah yang membuat proses ini menyakitkan."
     },
     {
       "id": "RougeIshmaelEclose",
-      "name": "Full Makeover",
-      "desc": "- Min & Maks Speed +1\n- Maks HP increased by 25%\n- Take -10% damage from Skills\n- Base Skills inflict +1 lebih banyak Potency Bleed on enemies",
+      "name": "Mengubah Total Penampilan",
+      "desc": "- Min & Maks Speed +1\n- Maks HP increased by 25%\n- Terima -10% damage dari Skill\n- Skill Dasar memberi +1 lebih banyak Potency Bleed on enemies",
       "summary": "",
       "undefined": "-",
       "flavor": "Though she has emerged from the cocoon, she has failed to truly metamorphose—as that process involves the disintegration of the self. Still, the process has managed to boost her physical abilities."
@@ -3654,10 +3654,10 @@
     {
       "id": "EmpathicDistressAlly",
       "name": "Fracturing of the Senses",
-      "desc": "- Stack Maks: 5\n- When kawan lain are hit, peroleh +1 Tremor Count, dan kehilangan 1 Stack (sekali per Skill)\n- If there are no kawan lain on the field, peroleh 2 Tremor Potency Ketika diserang, dan kehilangan 1 Stack (sekali per Skill)\n- Ketika diserang by Crit Attack, take +(Tremor Potency pada diri sendiri)% damage (maks 15%)",
+      "desc": "- Stack Maks: 5\n- Ketika kawan lain are hit, peroleh +1 Count Tremor, dan kehilangan 1 Stack (sekali per Skill)\n- Jika tidak ada kawan lain di medan tempur, peroleh 2 Potency Tremor Ketika diserang, dan kehilangan 1 Stack (sekali per Skill)\n- Ketika diserang by Crit Attack, terima +(Potency Tremor pada diri sendiri)% damage (maks 15%)",
       "summary": "",
       "undefined": "-",
-      "flavor": "The fracturing occurs when one first recognizes the incongruity between the forms of the body and the heart."
+      "flavor": "The fracturing occurs when one first recognizes the incongruity between the forms of the body dan the heart."
     },
     {
       "id": "PersonalityVibration",
@@ -3698,7 +3698,7 @@
     },
     {
       "id": "NoirScissorCut",
-      "name": "Blossom Scissors",
+      "name": "Gunting Bunga",
       "desc": "- Stack Maks: 2\n- Beri +7% damage untuk setiap Stack",
       "summary": "",
       "undefined": "-",
@@ -3753,7 +3753,7 @@
     {
       "id": "OathFieldDonQuixote",
       "name": "Tempat Suci Konservasi",
-      "desc": "- Stack Maks: 5\n- Beri efek berikut pada semua Identitas kawan:\n  · Pada penggunaan Skill, setiap kawan memperoleh Shield setara dengan (Potency Preservasi pada Don Quixote x 2)% dari maks HP mereka masing-masing (sekali per giliran, maks 10%)\n\n- Beri efek berikut pada semua Identitas \"Le Noir\" kawan:\n  · Offense Level +(Potency Preservasi pada Don Quixote / 3) (dibulatkan ke bawah; maks 2)\n  · Defense Level +(Potency Preservasi pada Don Quixote / 2) (dibulatkan ke bawah; maks 3)\n\n- Berikan efek berikut pada semua musuh:\n  · Min & Max Speed -1 (efek ini tidak dapat mengurangi Min & Max Speed di bawah 1)\n  · Batas Stagger yang dinaikkan oleh Tremor Burst +10%\n  · Terima +10% damage dari Skill yang mengonsumsi Count Charge atau Charge Unik (dari Skill Identitas \"Le Noir\" kawan, +20% damage)\n\n- Akhir Giliran: Kehilangan 1 Stack",
+      "desc": "- Stack Maks: 5\n- Beri efek berikut pada semua Identitas kawan:\n  · Pada penggunaan Skill, setiap kawan memperoleh Perisai setara dengan (Potency Preservasi pada Don Quixote x 2)% dari maks HP mereka masing-masing (sekali per giliran, maks 10%)\n\n- Beri efek berikut pada semua Identitas \"Le Noir\" kawan:\n  · Offense Level +(Potency Preservasi pada Don Quixote / 3) (dibulatkan ke bawah; maks 2)\n  · Defense Level +(Potency Preservasi pada Don Quixote / 2) (dibulatkan ke bawah; maks 3)\n\n- Berikan efek berikut pada semua musuh:\n  · Speed Min & Max -1 (efek ini tidak dapat mengurangi Speed Min & Max di bawah 1)\n  · Batas Stagger yang dinaikkan oleh Tremor Burst +10%\n  · Terima +10% damage dari Skill yang mengonsumsi Count Charge atau Charge Unik (dari Skill Identitas \"Le Noir\" kawan, +20% damage)\n\n- Akhir Giliran: Kehilangan 1 Stack",
       "summary": "",
       "undefined": "-",
       "flavor": "Tempat perlindungan di mana nilai konservasi yang diupayakan oleh Le Noir dilestarikan. Di dalamnya, tindakan pengawetan para Noir dipertahankan demi keuntungan mereka. Ini adalah bidang konservasi abadi—tempat yang membangkitkan dorongan untuk mendekati kematian tanpa batas."
@@ -3805,14 +3805,80 @@
     {
       "id": "Tiphereth_Heads",
       "name": "Ekspektasi Tiphereth",
-      "desc": "- Semua Coin Skill unit ini memiliki 100% peluang untuk mendapat Kepala (efek ini didahulukan dari efek Skill, Passive, dan efek lain pada unit ini)\n- Kadaluarsa pada Akhir Giliran",
+      "desc": "- Semua Coin Skill unit ini memiliki peluang 100% untuk mendapat Kepala (efek ini didahulukan dari efek Skill, Passive, dan efek lain pada unit ini)\n- Kadaluarsa pada Akhir Giliran",
       "summary": "",
       "undefined": "-"
     },
     {
       "id": "Tiphereth_Tails",
       "name": "Ekspektasi Tiphereth [Cermin]",
-      "desc": "- Semua Coin Skill unit ini memiliki 100% peluang untuk mendapat Ekor (efek ini didahulukan dari efek Skill, Passive, dan efek lain pada unit ini)\n- Kadaluarsa pada Akhir Giliran",
+      "desc": "- Semua Coin Skill unit ini memiliki peluang 100% untuk mendapat Ekor (efek ini didahulukan dari efek Skill, Passive, dan efek lain pada unit ini)\n- Kadaluarsa pada Akhir Giliran",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "SewingKingMark",
+      "name": "Tanda dari Raja Needleworks",
+      "desc": "- Stack Maks: 1\n- Terima +20% damage dari Identitas \"Sisyphe\"\n- Akhir Giliran: Peroleh 1 Bind giliran berikutnya\n- Akhir Giliran: Terima damage tetap setara 5% dari damage HP (termasuk Perisai) yang diterima dari Skill Pendosa\n- Saat mati, beri damage tetap setara 10% dari maks HP unit ini pada 1 kawan acak (di Pertemuan Terfokus, Bagian)",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "HungrySinclair",
+      "name": "Kelaparan Tiada Henti",
+      "desc": "- Stack Maks: 150\n- Bisa peroleh hingga 50 Stack per giliran",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "TransformSinclair",
+      "name": "Martabat Mulia",
+      "desc": "Peroleh semua efek berikut berdasarkan Potency Pulsasi pada diri sendiri:\n- 2+: Terima -25% damage dari Bleed\n- 3+: Skill Dasar beri +1 lebih banyak Potency dan Count Bleed\n- 4+: Base Power Skill Dasar +1\n\n- Min & Maks Speed +1\n- Ketika unit ini menerima damage yang membawa HP-nya menjadi 0, HP unit ini tidak turun di bawah 1 untuk giliran ini (sekali per Pertemuan)\n\n- Beri efek berikut ke Identitas \"Le Rouge\" kawan (termasuk unit ini):\n  · Min & Maks Speed +1\n  · Jika tidak ada Count Charge cukup untuk mengaktifkan efek dari Skill yang mengonsumsi Count Charge, konsumsi 1 Buffet untuk peroleh 1 Count Charge untuk setiap Count Charge yang dibutuhkan untuk mengaktifkan efek",
+      "summary": "Perkuat Skill Dasar pada kondisi tertentu",
+      "undefined": "-"
+    },
+    {
+      "id": "BoneNailSinclair",
+      "name": "L'Abject",
+      "desc": "- Bleed Unik\n- Stack Maks: 5\n- Terima +2% damage dari Identitas \"Le Rouge\" untuk setiap Stack (maks 10%)\n- Awal Giliran: Peroleh +1 Count Bleed\n- Akhir Giliran: Peroleh (Stack / 2) Bind giliran berikutnya (dibulatkan ke bawah)\n- Awal Giliran: Jika Haute Couture::Sang Dewa Crimson Le Rouge Sinclair tidak pada medan tempur, efek ini kadaluarsa",
+      "summary": "",
+      "undefined": "-"
+    },
+    {
+      "id": "BuffetSinclair",
+      "name": "Amukan Tak Terkendali",
+      "desc": "- Stack Maks: 3\n- Offense Level +1 untuk setiap Stack (maks 3)\n- Min & Maks Speed +1\n- Beri +1% damage untuk setiap Bleed pada diri sendiri (maks 15%)\n\n- Tidak dapat Stagger (kecuali Stagger paksa)\n- Terima -50% damage dari Bleed\n- Tidak dapat dikalahkan oleh damage Bleed\n\n- Pada Penggunaan Skill Serang Dasar, peroleh +3 Count Bleed\n- Pada Serangan Skill Dasar, peroleh Bleed setara Stack Amukan Tak Terkendali\n\n- Akhir Giliran: Kehilangan 1 Count",
+      "summary": "Pada Penggunaan Skill Serang Dasar, peroleh Count Bleed\nOn Base Attack Skill Hit, peroleh Bleed setara Stack Amukan Tak Terkendali",
+      "undefined": "-"
+    },
+    {
+      "id": "DinnerField",
+      "name": "Buffet",
+      "desc": "- Nilai Maks: 999\n- Nilai ini ditambah sebanyak (HP yang dipulihkan / 10) ketika HP kawan atau musuh dipulihkan di medan tempur\n · Max 100 per instansi dari pemulihan\n · Dibulatkan ke atas untuk tiap instansi\n · Pemulihan dari E.G.O Gift tidak terhitung\n\n- Nilai ini dibagi untuk semua karakter\n- Reset ketika pindah ke zona lain",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Prasmanan otot dan daging disajikan. Biarlah ini menjadi ruang pesta bagi semua orang."
+    },
+    {
+      "id": "BuffetFriendShield",
+      "name": "Menghadiri yang Suci",
+      "desc": "- Assist Defense Unik\n- Stack Maks: 1\n\n- Ketika Haute Couture::Sang Dewa Crimson Le Rouge Sinclair akan menerima Serangan Tanpa Clash dari musuh, konsumsi 1 Stack untuk memindahkan serangan musuh ke diri sendiri\n · Lalu, pakai Skill \"La Garde\" milik Haute Couture::Sang Dewa Crimson Le Rouge Sinclair\n- Ketika ketika ada beberapa kawan dengan Stack Defense Assist, kawan dengan Stack tertinggi memiliki prioritas utama\n- Efek ini dihitung sebagai Defense Assist, dan terhitung dalam kalkulasi Stack Defense Assist\n\n- Akhir Giliran: Efek ini kadaluarsa",
+      "summary": "",
+      "undefined": "-",
+      "flavor": "Marilah kita hadir di hadapan Tuhan baru."
+    },
+    {
+      "id": "BuffetThirst",
+      "name": "Kelaparan Putus Asa",
+      "desc": "- Offense Level +2\n\n- Pada Coin pertama dari Skill Serangan Dasar yang digunakan terhadap musuh, konsumsi 1 Count Charge untuk beri +5% damage\n · Skills that beri Bleed Potency or Count beri +10% damage instead (including Bleed Unik)\n · Pada 1+ Buffet Value on the field, jika unit ini is not at maks Count Charge, konsumsi 1 Buffet untuk peroleh +1 Count Charge\n · If both Count Charge and Buffet are at 0, konsumsi 1% HP pada diri sendiri instead to activate the effect (dibulatkan ke bawah; damage dealt by this effect does not Stagger or reduce HP unit ini below 1; activates even at 1 HP)\n\n- Akhir Giliran: Efek ini kadaluarsa",
+      "summary": "Konsumsi Count Charge untuk beri lebih banyak damage",
+      "undefined": "-",
+      "flavor": "Semakin tajam seseorang lapar, semakin besar pula keputusasaannya.\nSemakin jauh seseorang terdorong, semakin dalam kerinduannya."
+    },
+    {
+      "id": "RougeFamilySinclair",
+      "name": "Buaian Crimson",
+      "desc": "Ketika kondisi dipenuhi oleh kawan \"Le Rouge\" lain, aktifkan efek yang sesuai untuk Haute Couture::Sang Dewa Crimson Le Rouge Sinclair\n- Efek tetap aktif bahkan jika kawan tersebut telah dikalahkan\n\nLe Rouge Ishmael\n- Jika Ishmael dalam status \"Mengubah Total Penampilan\", maks HP Sinclair +10%; Sinclair memulihkan 5% maks HP Pada Serangan Skill Dasar (bulatkan atas, 5 kali per giliran)",
       "summary": "",
       "undefined": "-"
     }

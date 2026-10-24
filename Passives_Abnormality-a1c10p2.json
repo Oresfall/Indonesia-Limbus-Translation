@@ -10,7 +10,7 @@
       "id": 150302,
       "name": "Benang Hitam Kusut",
       "desc": "Efek dari Skill, Moral Rendah, dan Panik unit ini memberikan [TangleBlackYarn] pada musuh\n※ [TangleBlackYarn] dapat berkurang dengan cara <color=#ff6000><mark color=#ff000040><b><u>menggunakan Skill Defense atau melalui Skill tertentu dari unit ini</color></mark></b></u>\nKetika diserang, aktifkan efek berikut:\n- Peroleh 1 [SickBlackYarn]\n- Jika Skill yang menyerang unit ini adalah <color=#ff6000><mark color=#ff000040><b><u>Skill Slash</color></mark></b></u>, peroleh 1 tambahan [SickBlackYarn]\n- Jika Skill yang menyerang unit ini memiliki <color=#ff6000><mark color=#ff000040><b><u>5+ Atk Weight</color></mark></b></u>, peroleh [HeavyBlackYarn] giliran berikutnya (sekali per giliran)",
-      "flavor": "Benang hitam yang melilit tubuhnya itu sebelumnya tidak ada. Berkat keberuntungan belaka, saat zaman sebelumnya berganti ke zaman berikutnya, benang-benang itu melilit tubuh makhluk purba tersebut. Terbungkus benang, ia bertahan hingga ke Era Department Store. Kini, benang-benang hitam itu mulai terurai."
+      "flavor": "Benang hitam yang melilit tubuhnya itu sebelumnya tidak ada. Berkat keberuntungan belaka, saat zaman sebelumnya berganti ke zaman berikutnya, benang-benang itu melilit tubuh makhluk purba tersebut. Terbungkus benang, ia bertahan hingga ke Era Toko Departemen. Kini, benang-benang hitam itu mulai terurai."
     },
     {
       "id": 150303,
@@ -94,7 +94,7 @@
       "id": 149505,
       "name": "Inersia Kain Bergeser",
       "desc": "Peroleh 1 Potency [ChargeKhaki] untuk setiap 10 Count [ChargeKhaki] kumulatif yang dikonsumsi unit ini di Pertemuan ini\n\nPada 3+/5+ Potency [ChargeKhaki], batas maks Count [ChargeKhaki] +5/+10",
-      "flavor": "Mereka mengalir bersama nilai-nilai yang dibentuk oleh Era Department Store, terseret oleh inersia mereka; dan semakin kuat inersia itu tumbuh, semakin mereka tidak mampu menghentikan kebiasaan melayang tersebut."
+      "flavor": "Mereka mengalir bersama nilai-nilai yang dibentuk oleh Era Toko Departemen, terseret oleh inersia mereka; dan semakin kuat inersia itu tumbuh, semakin mereka tidak mampu menghentikan kebiasaan melayang tersebut."
     },
     {
       "id": 150601,
@@ -177,7 +177,7 @@
       "id": 148803,
       "name": "Penyamakan Dosa Asal: Operasi Penuh",
       "desc": "Pada HP Inti kurang dari 50%, akhiri giliran dan masuki pola baru; semua sekutu, termasuk unit ini, memperoleh [RestrictFailed] selama Pertemuan ini",
-      "flavor": "Permintaan melonjak drastis, sementara kulit mentah semakin sulit didapat. Kulit para pendosa asal dulunya adalah jenis yang tidak akan dilirik oleh siapa pun. Kemudian satu musim mengubah segalanya: permintaan melonjak, harga meroket, dan apa yang tadinya dijual sebagai barang rongsokan atau sekadar dibuang menjadi bahan yang diperebutkan.\n\nSekarang bahkan noda di permukaannya dipermak sebagai karakter dan dijual sebagai bagian dari daya tariknya."
+      "flavor": "Permintaan melonjak drastis, sementara kulit mentah semakin sulit didapat. Kulit para pendosa asal dulunya adalah jenis yang tidak akan dilirik oleh siapa pun. Kemudian satu musim mengubah segalanya: permintaan melonjak, harga meroket, dan apa yang tadinya dijual sebagai barang rongsokan atau sekedar dibuang menjadi bahan yang diperebutkan.\n\nSekarang bahkan noda di permukaannya dipermak sebagai karakter dan dijual sebagai bagian dari daya tariknya."
     },
     {
       "id": 148804,

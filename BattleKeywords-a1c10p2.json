@@ -17,7 +17,7 @@
     {
       "id": "HeavyBlackYarn",
       "name": "Gumpalan Benang Hitam",
-      "desc": "- Stack Maks: 5\n- Peroleh Slot Weight setara dengan Stack (per Part)\n- Terima +10% damage untuk setiap Stack",
+      "desc": "- Stack Maks: 5\n- Peroleh Slot Weight setara dengan Stack (per Bagian)\n- Terima +10% damage untuk setiap Stack",
       "summary": "",
       "flavor": "Warna hitam adalah cerminan dari kematian dan bobot. Sama seperti hal yang menampung air laut hitam menjadi berat, benang hitam kian bertambah bobotnya saat mengumpul. Ia menghimpun segala sesuatu ke dalam dirinya, terikat erat, tenggelam, lalu terhenti."
     },
@@ -26,7 +26,7 @@
       "name": "Kolam Air Hitam",
       "desc": "- Potency Maks: 6\n- Count Maks: 2\n- <color=#ff6000><mark color=#ff000040><b><u>Ketika diserang, kehilangan 1 Potency</color></mark></b></u> (sekali per Skill)\n- Akhir Giliran: Kehilangan 1 Count\n- <color=#ff6000><mark color=#ff000040><b><u>Kadaluarsa jika Potency atau Count mencapai 0</color></mark></b></u>\n- Tidak dapat Stagger\n- Pada Serangan Tanpa Lawan, beri +100% damage\n- Terima -100% damage",
       "summary": "",
-      "flavor": "Tempat ini kini bukanlah laut maupun akuarium, melainkan sekadar kolam yang genang. Namun kerinduan mendalam yang mengendap di sana menyimpan cukup duka untuk menyembunyikan raga sesaat."
+      "flavor": "Tempat ini kini bukanlah laut maupun akuarium, melainkan sekedar kolam yang genang. Namun kerinduan mendalam yang mengendap di sana menyimpan cukup duka untuk menyembunyikan raga sesaat."
     },
     {
       "id": "AngryBlackYarn",
@@ -248,7 +248,7 @@
       "name": "Pink Mary Janes",
       "desc": "- Min & Maks Speed +3",
       "summary": "",
-      "flavor": "Terima kasih... buat sepatunya. Bisakah aku pergi ke mana saja kalau aku memakai ini? Aku mau... bepergian bersamamu."
+      "flavor": "Terima kasih... buat sepatunya. Bisakah aku pergi kemana saja kalau aku memakai ini? Aku mau... bepergian bersamamu."
     },
     {
       "id": "BuffetGoldenClothes",

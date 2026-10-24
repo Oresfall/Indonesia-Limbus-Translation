@@ -5,8 +5,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Thou hast sinned...",
-          "desc": "[WhenUse]\n- <color=#ff6000><mark=#ff000040><b><u>Final Power +1 untuk setiap Candle of Retribution on the field</u></b></mark></color> (maks 4)\n- At 10+ [ChargeNoir] Count, Clash Power +1\n[WhenUse] Peroleh +3 [ChargeNoir] Count\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target",
+          "name": "Engkau telah berdosa...",
+          "desc": "[WhenUse]\n- <color=#ff6000><mark=#ff000040><b><u>Final Power +1 untuk setiap Lilin Retribusi di medan tempur</u></b></mark></color> (maks 4)\n- Pada 10+ Count [ChargeNoir], Clash Power +1\n[WhenUse] Peroleh +3 Count [ChargeNoir]\n[DefeatDuel] Damage yang diberikan Skill ini tidak dapat Stagger target",
           "coinlist": [
             {
               "coindescs": [
@@ -31,8 +31,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Atone.",
-          "desc": "[WhenUse]\n- <color=#ff6000><mark=#ff000040><b><u>Final Power +2 untuk setiap Candle of Retribution on the field</u></b></mark></color> (maks 8)\n- At 15+ [ChargeNoir] Count, consume 5 [ChargeNoir] Count to gain Final Power +2\n[WhenUse] Peroleh +5 [ChargeNoir] Count\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target",
+          "name": "Menebus.",
+          "desc": "[WhenUse]\n- <color=#ff6000><mark=#ff000040><b><u>Final Power +2 untuk setiap Lilin Retribusi di medan tempur</u></b></mark></color> (maks 8)\n- Pada 15+ Count [ChargeNoir], konsumsi 5 Count [ChargeNoir] untuk peroleh Final Power +2\n[WhenUse] Peroleh +5 Count [ChargeNoir]\n[DefeatDuel] Damage yang diberikan Skill ini tidak dapat Stagger target",
           "coinlist": [
             {
               "coindescs": [
@@ -63,8 +63,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Condemnation",
-          "desc": "Bisa Clash dengan Skill ini tak peduli dengan Speed\n[BeforeAttack] <color=#ff6000><mark=#ff000040><b><u>Peroleh +(# of Candle of Retribution on the field) Atk Weight (maks 2)</u></b></mark></color>\n[WhenUse]\n- If the main target <color=#ff6000><mark=#ff000040><b><u>has 1 Speed</u></b></mark></color>, beri +50% damage\n- <color=#ff6000><mark=#ff000040><b><u>Final Power +2 untuk setiap Candle of Retribution on the field (maks 8)</u></b></mark></color>\n- At 15+ [ChargeNoir] Count, consume 10 [ChargeNoir] Count to gain Coin Power +1\n[DefeatDuel] Peroleh 3 [Paralysis], deal -50% damage and damage dealt by this Skill cannot Stagger the target",
+          "name": "Penghukuman",
+          "desc": "Bisa Clash dengan Skill ini tak peduli dengan Speed\n[BeforeAttack] <color=#ff6000><mark=#ff000040><b><u>Peroleh +(# dari Lilin Retribusi di medan tempur) Atk Weight (maks 2)</u></b></mark></color>\n[WhenUse]\n- Jika target utama <color=#ff6000><mark=#ff000040><b><u>memiliki 1 Speed</u></b></mark></color>, beri +50% damage\n- <color=#ff6000><mark=#ff000040><b><u>Final Power +2 untuk setiap Lilin Retribusi di medan tempur (maks 8)</u></b></mark></color>\n- Pada 15+ Count [ChargeNoir], konsumsi 10 Count [ChargeNoir] untuk peroleh Coin Power +1\n[DefeatDuel] Peroleh 3 [Paralysis], beri -50% damage dan damage yang diberikan Skill ini tidak dapat Stagger target",
           "coinlist": [
             {
               "coindescs": [
@@ -86,8 +86,8 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Beri 2 [Binding]</u></b></mark></color> giliran berikutnya\n- <color=#ff6000><mark=#ff000040><b><u>Beri 4 [Binding]</u></b></mark></color> instead to main targets",
-                  "summary": "Beri 2 [Binding] giliran berikutnya; 4 instead on the main target"
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Beri 2 [Binding]</u></b></mark></color> giliran berikutnya\n- <color=#ff6000><mark=#ff000040><b><u>Beri 4 [Binding]</u></b></mark></color> saja ke target utama",
+                  "summary": "Beri 2 [Binding] giliran berikutnya; 4 saja pada target utama"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Beri 3 [Sinking] dan +3 Count [Sinking]"
@@ -103,9 +103,9 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Your sinfulness shall constrict you.",
-          "desc": "Bisa Clash dengan Skill ini tak peduli dengan Speed\n[BeforeAttack] Peroleh +(# of Candle of Retribution on the field) Atk Weight (maks 4)\n[WhenUse]\n- If the main target <color=#ff6000><mark=#ff000040><b><u>has 1 Speed</u></b></mark></color>, beri +100% damage\n- <color=#ff6000><mark=#ff000040><b><u>Final Power +2 untuk setiap Candle of Retribution on the field (maks 8)</u></b></mark></color>\n- If there are no Candle of Retribution on the field, Clash Power -3\n- At 15+ [ChargeNoir] Count, consume 10 [ChargeNoir] Count to gain Final Power +1 and Coin Power +1\n[DefeatDuel] Peroleh 4 [Paralysis], deal -50% damage, and damage dealt by this Skill cannot Stagger the target",
-          "flavor": "\"Manekins are singing...\"",
+          "name": "Keberdosaanmu akan membatasimu.",
+          "desc": "Bisa Clash dengan Skill ini tak peduli dengan Speed\n[BeforeAttack] Peroleh +(# dari Lilin Retribusi di medan tempur) Atk Weight (maks 4)\n[WhenUse]\n- Jika target utama <color=#ff6000><mark=#ff000040><b><u>memiliki 1 Speed</u></b></mark></color>, beri +100% damage\n- <color=#ff6000><mark=#ff000040><b><u>Final Power +2 untuk setiap Lilin Retribusi di medan tempur (maks 8)</u></b></mark></color>\n- Jika tidak ada Lilin Retribusi di medan tempur, Clash Power -3\n- Pada 15+ Count [ChargeNoir], konsumsi 10 Count [ChargeNoir] untuk peroleh Final Power +1 dan Coin Power +1\n[DefeatDuel] Peroleh 4 [Paralysis], beri -50% damage, dan damage yang diberikan Skill ini tidak dapat Stagger target",
+          "flavor": "\"Manekinnya bernyanyi...\"",
           "coinlist": [
             {
               "coindescs": [
@@ -113,8 +113,8 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Beri 1 [Binding]</u></b></mark></color> giliran berikutnya\n- <color=#ff6000><mark=#ff000040><b><u>Beri 3 [Binding]</u></b></mark></color> instead to main targets",
-                  "summary": "Beri 1 [Binding] giliran berikutnya; 3 instead on the main target"
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Beri 1 [Binding]</u></b></mark></color> giliran berikutnya\n- <color=#ff6000><mark=#ff000040><b><u>Beri 3 [Binding]</u></b></mark></color> saja ke target utama",
+                  "summary": "Beri 1 [Binding] giliran berikutnya; 3 saja pada target utama"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Beri +2 Count [Sinking]"
@@ -127,8 +127,8 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Beri 1 [Binding]</u></b></mark></color> giliran berikutnya\n- <color=#ff6000><mark=#ff000040><b><u>Beri 3 [Binding]</u></b></mark></color> instead to main targets",
-                  "summary": "Beri 1 [Binding] giliran berikutnya; 3 instead on the main target"
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Beri 1 [Binding]</u></b></mark></color> giliran berikutnya\n- <color=#ff6000><mark=#ff000040><b><u>Beri 3 [Binding]</u></b></mark></color> saja ke target utama",
+                  "summary": "Beri 1 [Binding] giliran berikutnya; 3 saja pada target utama"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [Sinking]"
@@ -164,8 +164,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Divine Retribution",
-          "desc": "Bisa Clash dengan Skill ini tak peduli dengan Speed\n[WhenUse]\n- If the main target has <color=#ff6000><mark=#ff000040><b><u>1 Speed</u></b></mark></color>, beri +100% damage\n- <color=#ff6000><mark=#ff000040><b><u>Final Power +2 untuk setiap Candle of Retribution on the field (maks 8)</u></b></mark></color>\n- If there are no Candle of Retribution on the field, Clash Power -5\n- Jika unit ini memiliki [ChargeNoir] Count, consume all [ChargeNoir] Count pada diri sendiri to gain Coin Power +2\n[DefeatDuel] Peroleh 4 [Paralysis], deal -50% damage, and damage dealt by this Skill cannot Stagger the target",
+          "name": "Retribusi Ilahi",
+          "desc": "Bisa Clash dengan Skill ini tak peduli dengan Speed\n[WhenUse]\n- Jika target utama memiliki <color=#ff6000><mark=#ff000040><b><u>1 Speed</u></b></mark></color>, beri +100% damage\n- <color=#ff6000><mark=#ff000040><b><u>Final Power +2 untuk setiap Lilin Retribusi di medan tempur (maks 8)</u></b></mark></color>\n- Jika tidak ada Lilin Retribusi di medan tempur, Clash Power -5\n- Jika unit ini memiliki Count [ChargeNoir], konsumsi semua Count [ChargeNoir] pada diri sendiri untuk peroleh Coin Power +2\n[DefeatDuel] Peroleh 4 [Paralysis], beri -50% damage, dan damage yang diberikan Skill ini tidak dapat Stagger target",
           "coinlist": [
             {
               "coindescs": [
@@ -211,8 +211,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Nail of Penance",
-          "desc": "<color=#ff6000><mark=#ff000040><b><u>If the Warden is at 50% or lower HP</u></b></mark></color>, convert the <color=#ff6000><mark=#ff000040><b><u>first Coin of this Skill into an [SuperCoin]</u></b></mark></color>\nIf target has <color=#ff6000><mark=#ff000040><b><u>9 [ConfessionSecondPhase], Final Power +2</u></b></mark></color>\n[WhenUse] Peroleh +4 [ChargeNoir] Count\n[WhenUse] Peroleh 1 [Breath] dan +1 Count [Breath]\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target",
+          "name": "Paku Pertobatan",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>Jika Sang Penjaga ada pada 50% HP atau kurang</u></b></mark></color>, ubah <color=#ff6000><mark=#ff000040><b><u>Coin pertama pada Skill ini menjadi [SuperCoin]</u></b></mark></color>\nJika target memiliki <color=#ff6000><mark=#ff000040><b><u>9 [ConfessionSecondPhase], Final Power +2</u></b></mark></color>\n[WhenUse] Peroleh +4 Count [ChargeNoir]\n[WhenUse] Peroleh 1 [Breath] dan +1 Count [Breath]\n[DefeatDuel] Damage yang diberikan Skill ini tidak dapat Stagger target",
           "coinlist": [
             {
               "coindescs": [
@@ -246,8 +246,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Nail of Punishment",
-          "desc": "<color=#ff6000><mark=#ff000040><b><u>If the Warden is at 50% or lower HP</u></b></mark></color>, convert the <color=#ff6000><mark=#ff000040><b><u>first Coin of this Skill into an [SuperCoin]</u></b></mark></color>\nIf target has <color=#ff6000><mark=#ff000040><b><u>6+/9+ [ConfessionSecondPhase], Final Power +2/+3</u></b></mark></color>\n[WhenUse] Peroleh +4 [ChargeNoir] Count\n[WhenUse] Peroleh 2 [Breath] dan +2 Count [Breath]\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target",
+          "name": "Paku Penghukuman",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>Jika Sang Penjaga ada pada 50% HP atau kurang</u></b></mark></color>, ubah <color=#ff6000><mark=#ff000040><b><u>Coin pertama pada Skill ini menjadi [SuperCoin]</u></b></mark></color>\nJika target memiliki <color=#ff6000><mark=#ff000040><b><u>6+/9+ [ConfessionSecondPhase], Final Power +2/+3</u></b></mark></color>\n[WhenUse] Peroleh +4 Count [ChargeNoir]\n[WhenUse] Peroleh 2 [Breath] dan +2 Count [Breath]\n[DefeatDuel] Damage yang diberikan Skill ini tidak dapat Stagger target",
           "coinlist": [
             {
               "coindescs": [
@@ -281,8 +281,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Judgment",
-          "desc": "Bisa Clash dengan Skill ini tak peduli dengan Speed\nIf the main target has <color=#ff6000><mark=#ff000040><b><u>3+/6+/9+ [ConfessionSecondPhase], Final Power +2/+3/+5</u></b></mark></color>\n[BeforeAttack] <color=#ff6000><mark=#ff000040><b><u>If the main target memiliki 5+/9+ [ConfessionSecondPhase], peroleh +1/+3 Atk Weight</u></b></mark></color>\n[WhenUse] Jika unit ini memiliki [ChargeNoir] Count, consume all [ChargeNoir] Count pada diri sendiri to gain Coin Power +2\n[DefeatDuel] Peroleh 3 [Paralysis], deal -50% damage, and damage dealt by this Skill cannot Stagger the target",
+          "name": "Pengadilan",
+          "desc": "Bisa Clash dengan Skill ini tak peduli dengan Speed\nJika target utama memiliki <color=#ff6000><mark=#ff000040><b><u>3+/6+/9+ [ConfessionSecondPhase], Final Power +2/+3/+5</u></b></mark></color>\n[BeforeAttack] <color=#ff6000><mark=#ff000040><b><u>Jika target utama memiliki 5+/9+ [ConfessionSecondPhase], peroleh +1/+3 Atk Weight</u></b></mark></color>\n[WhenUse] Jika unit ini memiliki Count [ChargeNoir], konsumsi semua Count [ChargeNoir] pada diri sendiri untuk peroleh Coin Power +2\n[DefeatDuel] Peroleh 3 [Paralysis], beri -50% damage, dan damage yang diberikan Skill ini tidak dapat Stagger target",
           "coinlist": [
             {
               "coindescs": [
@@ -304,10 +304,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "This Coin <color=#ff6000><mark=#ff000040><b><u>hits only the main target</u></b></mark></color>"
+                  "desc": "Coin ini <color=#ff6000><mark=#ff000040><b><u>hanya menyerang target utama</u></b></mark></color>"
                 },
                 {
-                  "desc": "Beri +(missing HP percentage pada diri sendiri)% damage (maks 100%)"
+                  "desc": "Beri +(Persentase HP yang hilang pada diri sendiri)% damage (maks 100%)"
                 },
                 {
                   "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Beri 4 [ExecutionNailSecondPhase]</u></b></mark></color>"
@@ -323,8 +323,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Atone before God.",
-          "desc": "<color=#ff6000><mark=#ff000040><b><u>When the Sinner that has [GoldenFabricWarderSecondPhase]</u></b></mark></color> attacks the Slot equipped with this Skill as its main target in the Chaining Phase, the said Skill used by the Sinner deals +100% damage (for E.G.O Skills, +200% damage)\n[EndBattle] Pada kurang dari 100 [EncompassingVoiceSecondPhase] Stack, gain up to 100 Stack\n- The Warden loses SP setara dengan Stack gained (maks 45)",
+          "name": "Menebus di Hadapan Tuhan.",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>Ketika Pendosa yang memiliki [GoldenFabricWarderSecondPhase]</u></b></mark></color> menyerang Skill Slot ini sebagai target utamanya di Fase Rantai, Skill tersebut yang digunakan Pendosa memberikan +100% damage (untuk Skill E.G.O, +200% damage)\n[EndBattle] Pada kurang dari 100 [EncompassingVoiceSecondPhase] Stack, peroleh hingga 100 Stack\n- Sang Penjaga kehilangan SP setara dengan Stack yang diperoleh (maks 45)",
           "coinlist": [
             {
               "coindescs": []
@@ -338,8 +338,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Repent.",
-          "desc": "Jika target memiliki <color=#ff6000><mark=#ff000040><b><u>9 [ConfessionSecondPhase], Final Power +2</u></b></mark></color>\n[WhenUse] Konsumsi up to 15 [SpreadingVoiceSecondPhase]\n- Final Power +1, beri +15% damage\n[WhenUse] Peroleh +4 [ChargeNoir] Count\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target",
+          "name": "Sesali.",
+          "desc": "Jika target memiliki <color=#ff6000><mark=#ff000040><b><u>9 [ConfessionSecondPhase], Final Power +2</u></b></mark></color>\n[WhenUse] Konsumsi hingga 15 [SpreadingVoiceSecondPhase]\n- Final Power +1, beri +15% damage\n[WhenUse] Peroleh +4 Count [ChargeNoir]\n[DefeatDuel] Damage yang diberikan Skill ini tidak dapat Stagger target",
           "coinlist": [
             {
               "coindescs": [
@@ -377,8 +377,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Receive thy punishment.",
-          "desc": "Jika target memiliki <color=#ff6000><mark=#ff000040><b><u>6+/9+ [ConfessionSecondPhase], Final Power +2/+3</u></b></mark></color>\n[WhenUse] Konsumsi up to 15 [SpreadingVoiceSecondPhase]\n- Final Power +2, beri +30% damage\n[WhenUse] Peroleh +4 [ChargeNoir] Count\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target",
+          "name": "Terimalah Hukumanmu.",
+          "desc": "Jika target memiliki <color=#ff6000><mark=#ff000040><b><u>6+/9+ [ConfessionSecondPhase], Final Power +2/+3</u></b></mark></color>\n[WhenUse] Konsumsi hingga 15 [SpreadingVoiceSecondPhase]\n- Final Power +2, beri +30% damage\n[WhenUse] Peroleh +4 Count [ChargeNoir]\n[DefeatDuel] Damage yang diberikan Skill ini tidak dapat Stagger target",
           "coinlist": [
             {
               "coindescs": [
@@ -416,8 +416,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Judgment... Sentencing... Condemnation!",
-          "desc": "Bisa Clash dengan Skill ini tak peduli dengan Speed\nThis Skill does not trigger the target's Defense Skill\nCannot be Staggered before using this Skill\nIf the main target has <color=#ff6000><mark=#ff000040><b><u>3+/6+/9+ [ConfessionSecondPhase], Final Power +2/+3/+5</u></b></mark></color>\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>If the main target has [GoldenFabricWarderSecondPhase]:</u></b></mark></color>\n<color=#ff6000><mark=#ff000040><b><u>- Final Power -5, Clash Power -5</u></b></mark></color>\n[WhenUse] Konsumsi up to 40 [SpreadingVoiceSecondPhase] to:\n- Peroleh Final Power +3\n- Beri +50% damage\n[WhenUse] Beri +([SpreadingVoiceSecondPhase] Stack)% damage; at Attack End, consume all [SpreadingVoiceSecondPhase] pada diri sendiri\n- <color=#ff6000><mark=#ff000040><b><u>On Clash Lose, this effect does not activate</u></b></mark></color>\n[WhenUse] Jika unit ini memiliki [ChargeNoir] Count, consume all [ChargeNoir] Count pada diri sendiri to gain Coin Power +2\n[DefeatDuel] Peroleh 5 [Paralysis], deal -75% damage, and damage dealt by this Skill cannot Stagger the target\n[EndSkill]\n- Peroleh 2 [Vulnerable] giliran berikutnya\n- End this turn",
+          "name": "Penghakiman... Hukuman... Penghukuman!",
+          "desc": "Bisa Clash dengan Skill ini tak peduli dengan Speed\nSkill ini tidak mengaktifkan Skill Defense target\nTidak dapat Stagger sebelum menggunakan Skill ini\nJika target utama memiliki <color=#ff6000><mark=#ff000040><b><u>3+/6+/9+ [ConfessionSecondPhase], Final Power +2/+3/+5</u></b></mark></color>\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Jika target utama memiliki [GoldenFabricWarderSecondPhase]:</u></b></mark></color>\n<color=#ff6000><mark=#ff000040><b><u>- Final Power -5, Clash Power -5</u></b></mark></color>\n[WhenUse] Konsumsi hingga 40 [SpreadingVoiceSecondPhase] ke:\n- Peroleh Final Power +3\n- Beri +50% damage\n[WhenUse] Beri +([SpreadingVoiceSecondPhase] Stack)% damage; pada Akhir Serangan, konsumsi semua [SpreadingVoiceSecondPhase] pada diri sendiri\n- <color=#ff6000><mark=#ff000040><b><u>Saat Kalah Clash, efek ini tidak aktif</u></b></mark></color>\n[WhenUse] Jika unit ini memiliki Count [ChargeNoir], konsumsi semua Count [ChargeNoir] pada diri sendiri untuk peroleh Coin Power +2\n[DefeatDuel] Peroleh 5 [Paralysis], beri -75% damage, dan damage yang diberikan Skill ini tidak dapat Stagger target\n[EndSkill]\n- Peroleh 2 [Vulnerable] giliran berikutnya\n- Akhiri giliran ini",
           "coinlist": [
             {
               "coindescs": []
@@ -431,17 +431,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Activate the effects of [ConfessionSecondPhase] pada target, then consume them all</u></b></mark></color>"
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Aktifkan efek dari [ConfessionSecondPhase] pada target, lalu konsumsi semuanya</u></b></mark></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "On <color=#ff6000><mark=#ff000040><b><u>Clash Lose</u></b></mark></color>, this Coin <color=#ff6000><mark=#ff000040><b><u>hits only the main target</u></b></mark></color>\n<color=#ff6000><mark=#ff000040><b><u>- [DefeatDuelAttack] Beri 9 [RestrainingNailSecondPhase]</u></b></mark></color>"
+                  "desc": "Pada <color=#ff6000><mark=#ff000040><b><u>Kalah Clash</u></b></mark></color>, Coin ini <color=#ff6000><mark=#ff000040><b><u>hanya menyerang target utama</u></b></mark></color>\n<color=#ff6000><mark=#ff000040><b><u>- [DefeatDuelAttack] Beri 9 [RestrainingNailSecondPhase]</u></b></mark></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] If it is the main target, inflict 3 [BlackStigmata]"
+                  "desc": "[OnSucceedAttack] Jika ia target utamanya, beri 3 [BlackStigmata]"
                 }
               ]
             }
@@ -454,8 +454,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Death Unto the Condemned",
-          "desc": "<color=#ff6000><mark=#ff000040><b><u>[CantChangeTarget]</u></b></mark></color>\n- <color=#ff6000><mark=#ff000040><b><u>Sinners that have [GoldenHideWarderSecondPhase] can Clash with this Skill</u></b></mark></color> regardless of Speed\nPrioritizes Sinners that have [RestrainingNailSecondPhase]\nDoes not trigger the target's Defense Skill\nCannot be Staggered before using this Skill\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Jika target memiliki [GoldenHideWarderSecondPhase], Clash Power -15</u></b></mark></color>\n[DefeatDuel] Peroleh 5 [Vulnerable] giliran berikutnya\n[EndBattle] Konsumsi semua [SpreadingVoiceSecondPhase] pada diri sendiri",
+          "name": "Kematian Bagi Yang Terkutuk",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>[CantChangeTarget]</u></b></mark></color>\n- <color=#ff6000><mark=#ff000040><b><u>Pendosa yang memiliki [GoldenHideWarderSecondPhase] bisa Clash dengan Skill ini</u></b></mark></color> tanpa peduli dengan Speed\nPrioritaskan Pendosa yang memiliki [RestrainingNailSecondPhase]\nTidak mengaktifkan Skill Defense target\nTidak dapat Stagger sebelum menggunakan Skill ini\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Jika target memiliki [GoldenHideWarderSecondPhase], Clash Power -15</u></b></mark></color>\n[DefeatDuel] Peroleh 5 [Vulnerable] giliran berikutnya\n[EndBattle] Konsumsi semua [SpreadingVoiceSecondPhase] pada diri sendiri",
           "coinlist": [
             {
               "coindescs": [
@@ -463,7 +463,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Beri fixed damage setara dengan 200% of target's maks HP</u></b></mark></color>"
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Beri damage tetap setara dengan 200% dari maks HP target</u></b></mark></color>"
                 }
               ]
             }
@@ -476,8 +476,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Thou hast sinned...",
-          "desc": "[WhenUse] Peroleh +2 [ChargeNoir] Count\n[WhenUse] Peroleh 1 [Breath] dan +2 Count [Breath]\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target",
+          "name": "Engkau telah berdosa...",
+          "desc": "[WhenUse] Peroleh +2 Count [ChargeNoir]\n[WhenUse] Peroleh 1 [Breath] dan +2 Count [Breath]\n[DefeatDuel] Damage yang diberikan Skill ini tidak dapat Stagger target",
           "coinlist": [
             {
               "coindescs": [
@@ -502,8 +502,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Atone.",
-          "desc": "[WhenUse] Peroleh +2 [ChargeNoir] Count\n[WhenUse] Peroleh 2 [Breath] dan +1 Count [Breath]\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target",
+          "name": "Menebus.",
+          "desc": "[WhenUse] Peroleh +2 Count [ChargeNoir]\n[WhenUse] Peroleh 2 [Breath] dan +1 Count [Breath]\n[DefeatDuel] Damage yang diberikan Skill ini tidak dapat Stagger target",
           "coinlist": [
             {
               "coindescs": [
@@ -528,8 +528,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "*sigh* Can you just... get rewound already?",
-          "desc": "<color=#ff6000><mark=#ff000040><b><u>If target memiliki 5+ [ConfessionThirdPhase], convert the first Coin of this Skill into [SuperCoin]</u></b></mark></color>\nIf target has <color=#ff6000><mark=#ff000040><b><u>9 [ConfessionThirdPhase], Final Power +2</u></b></mark></color>\n[WhenUse] Peroleh +3 [ChargeNoir] Count\n[WhenUse] Peroleh 2 [Breath] dan +1 Count [Breath]",
+          "name": "*haah* Bisa tidak... kamu ngulang aja?",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>Jika target memiliki 5+ [ConfessionThirdPhase], ubah Coin pertama dari Skill ini menjadi [SuperCoin]</u></b></mark></color>\nJika target memiliki <color=#ff6000><mark=#ff000040><b><u>9 [ConfessionThirdPhase], Final Power +2</u></b></mark></color>\n[WhenUse] Peroleh +3 Count [ChargeNoir]\n[WhenUse] Peroleh 2 [Breath] dan +1 Count [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -554,8 +554,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Come on, let a guy clock out on time for once.",
-          "desc": "<color=#ff6000><mark=#ff000040><b><u>If target memiliki 5+ [ConfessionThirdPhase], convert the first Coin of this Skill into [SuperCoin]</u></b></mark></color>\nIf target has <color=#ff6000><mark=#ff000040><b><u>6+/9+ [ConfessionThirdPhase], Final Power +2/+3</u></b></mark></color>\n[WhenUse] Peroleh +5 [ChargeNoir] Count\n[WhenUse] Peroleh 2 [Breath] dan +2 Count [Breath]",
+          "name": "Ayolah, jangan buat aku kerja lembur sesekali.",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>Jika target memiliki 5+ [ConfessionThirdPhase], ubah Coin pertama dari Skill ini menjadi [SuperCoin]</u></b></mark></color>\nJika target memiliki <color=#ff6000><mark=#ff000040><b><u>6+/9+ [ConfessionThirdPhase], Final Power +2/+3</u></b></mark></color>\n[WhenUse] Peroleh +5 Count [ChargeNoir]\n[WhenUse] Peroleh 2 [Breath] dan +2 Count [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -589,8 +589,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "\"Judgment.\"",
-          "desc": "Bisa Clash dengan Skill ini tak peduli dengan Speed\nIf the main target has <color=#ff6000><mark=#ff000040><b><u>3+/6+/9+ [ConfessionThirdPhase], Final Power +2/+3/+5</u></b></mark></color>\n[BeforeAttack] <color=#ff6000><mark=#ff000040><b><u>If the main target memiliki 5+/9+ [ConfessionThirdPhase], peroleh +1/+3 Atk Weight</u></b></mark></color>\n[WhenUse] Jika unit ini memiliki [ChargeNoir] Count, consume all [ChargeNoir] Count pada diri sendiri to gain Coin Power +2\n[DefeatDuel] Peroleh 3 [Paralysis], deal -75% damage, and damage dealt by this Skill cannot Stagger the target",
+          "name": "\"Pengadilan.\"",
+          "desc": "Bisa Clash dengan Skill ini tak peduli dengan Speed\nJika target utama memiliki <color=#ff6000><mark=#ff000040><b><u>3+/6+/9+ [ConfessionThirdPhase], Final Power +2/+3/+5</u></b></mark></color>\n[BeforeAttack] <color=#ff6000><mark=#ff000040><b><u>Jika target utama memiliki 5+/9+ [ConfessionThirdPhase], peroleh +1/+3 Atk Weight</u></b></mark></color>\n[WhenUse] Jika unit ini memiliki Count [ChargeNoir], konsumsi semua Count [ChargeNoir] pada diri sendiri untuk peroleh Coin Power +2\n[DefeatDuel] Peroleh 3 [Paralysis], beri -75% damage, dan damage yang diberikan Skill ini tidak dapat Stagger target",
           "coinlist": [
             {
               "coindescs": [
@@ -612,10 +612,10 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "This Coin <color=#ff6000><mark=#ff000040><b><u>hits only the main target</u></b></mark></color>"
+                  "desc": "Coin ini <color=#ff6000><mark=#ff000040><b><u>hanya menyerang target utama</u></b></mark></color>"
                 },
                 {
-                  "desc": "Beri +(missing HP percentage pada diri sendiri)% damage (maks 100%)"
+                  "desc": "Beri +(Persentase HP yang hilang pada diri sendiri)% damage (maks 100%)"
                 },
                 {
                   "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Beri 4 [ExecutionNailThirdPhase]</u></b></mark></color>"
@@ -631,8 +631,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "\"Atone before God\"... was it?",
-          "desc": "<color=#ff6000><mark=#ff000040><b><u>When the Sinner that has [GoldenFabricWarderThirdPhase]</u></b></mark></color> attacks the Slot equipped with this Skill as its main target in the Chaining Phase, the said Skill used by the Sinner deals +100% damage (for E.G.O Skills, +200% damage)\n[EndBattle] Pada kurang dari 100 [EncompassingVoiceThirdPhase] Stack, gain up to 100 Stack\n- The Chaplain loses SP setara dengan Stack gained (maks 45)",
+          "name": "\"Menebus di Hadapan Tuhan\"... kalau ga salah?",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>Ketika Pendosa yang memiliki [GoldenFabricWarderThirdPhase]</u></b></mark></color> menyerang Skill Slot ini sebagai target utamanya di Fase Rantai, Skill tersebut yang digunakan Pendosa memberikan +100% damage (untuk Skill E.G.O, +200% damage)\n[EndBattle] Pada kurang dari 100 Stack [EncompassingVoiceThirdPhase], peroleh hingga 100 Stack\n- Sang Pendeta kehilangan SP setara dengan Stack yang diperoleh (maks 45)",
           "coinlist": [
             {
               "coindescs": []
@@ -646,8 +646,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "\"Repent.\"",
-          "desc": "Jika target memiliki <color=#ff6000><mark=#ff000040><b><u>9 [ConfessionThirdPhase], Final Power +2</u></b></mark></color>\n[WhenUse] Konsumsi up to 15 [SpreadingVoiceThirdPhase]\n- Final Power +1, beri +15% damage\n[WhenUse] Peroleh +5 [ChargeNoir] Count",
+          "name": "\"Sesali.\"",
+          "desc": "Jika target memiliki <color=#ff6000><mark=#ff000040><b><u>9 [ConfessionThirdPhase], Final Power +2</u></b></mark></color>\n[WhenUse] Konsumsi hingga 15 [SpreadingVoiceThirdPhase]\n- Final Power +1, beri +15% damage\n[WhenUse] Peroleh +5 Count [ChargeNoir]",
           "coinlist": [
             {
               "coindescs": [
@@ -688,8 +688,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "\"Receive thy punishment.\"",
-          "desc": "Jika target memiliki <color=#ff6000><mark=#ff000040><b><u>6+/9+ [ConfessionThirdPhase], Final Power +2/+3</u></b></mark></color>\n[WhenUse] Konsumsi up to 15 [SpreadingVoiceThirdPhase]\n- Final Power +2, beri +30% damage\n[WhenUse] Peroleh +6 [ChargeNoir] Count",
+          "name": "\"Terimalah Hukumanmu.\"",
+          "desc": "Jika target memiliki <color=#ff6000><mark=#ff000040><b><u>6+/9+ [ConfessionThirdPhase], Final Power +2/+3</u></b></mark></color>\n[WhenUse] Konsumsi hingga 15 [SpreadingVoiceThirdPhase]\n- Final Power +2, beri +30% damage\n[WhenUse] Peroleh +6 Count [ChargeNoir]",
           "coinlist": [
             {
               "coindescs": [
@@ -730,8 +730,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Do you seriously mean to break the Sisyphe System?",
-          "desc": "Bisa Clash dengan Skill ini tak peduli dengan Speed\nThis Skill does not trigger the target's Defense Skill\nCannot be Staggered before using this Skill\nDeal +5% damage untuk setiap [ConfessionThirdPhase] pada target (against each target separately)\n<color=#ff6000><mark=#ff000040><b><u>If the main target has 3+/6+/9+ [ConfessionThirdPhase], Final Power +2/+3/+5</u></b></mark></color>\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>If the main target has [GoldenFabricWarderThirdPhase]:\n- Final Power -5\n- Clash Power -5</u></b></mark></color>\n- All targets of this Skill <color=#ff6000><mark=#ff000040><b><u>peroleh Perisai setara dengan 50% of their maks HP, respectively</u></b></mark></color>; Shield gained from this effect is removed from the Sinner's total Shield at Attack End\n[WhenUse] Konsumsi up to 40 [SpreadingVoiceThirdPhase] to:\n- Peroleh Final Power +3\n- Beri +50% damage\n[WhenUse] Beri +([SpreadingVoiceThirdPhase] Stack)% damage; at Attack End, consume all [SpreadingVoiceThirdPhase] pada diri sendiri\n- <color=#ff6000><mark=#ff000040><b><u>On Clash Lose, this effect does not activate</u></b></mark></color>\n[WhenUse] Jika unit ini memiliki [ChargeNoir] Count, consume all [ChargeNoir] Count pada diri sendiri to gain Coin Power +2\n[DefeatDuel] Peroleh 5 [Paralysis], deal -90% damage, and damage dealt by this Skill cannot Stagger the target\n[EndSkill]\n- Peroleh 2 [Vulnerable] giliran berikutnya\n- End this turn",
+          "name": "Apa kau serius ingin menghancurkan Sistem Sisyphe?",
+          "desc": "Bisa Clash dengan Skill ini tak peduli dengan Speed\nSkill ini tidak mengaktifkan Skill Defense target\nTidak dapat Stagger sebelum menggunakan Skill ini\nBeri +5% damage untuk setiap [ConfessionThirdPhase] pada target (against each target separately)\n<color=#ff6000><mark=#ff000040><b><u>Jika target utama memiliki 3+/6+/9+ [ConfessionThirdPhase], Final Power +2/+3/+5</u></b></mark></color>\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Jika target utama memiliki [GoldenFabricWarderThirdPhase]:\n- Final Power -5\n- Clash Power -5</u></b></mark></color>\n- Semua target dari Skill ini <color=#ff6000><mark=#ff000040><b><u>peroleh Perisai setara dengan 50% dari maks HP mereka, masing-masing</u></b></mark></color>; Shield yang diperoleh dari efek ini dihilangkan dari total Shield Pendosa pada Akhir Serangan\n[WhenUse] Konsumsi hingga 40 [SpreadingVoiceThirdPhase] ke:\n- Peroleh Final Power +3\n- Beri +50% damage\n[WhenUse] Beri +([SpreadingVoiceThirdPhase] Stack)% damage; pada Akhir Serangan, konsumsi semua [SpreadingVoiceThirdPhase] pada diri sendiri\n- <color=#ff6000><mark=#ff000040><b><u>Saat Kalah Clash, efek ini tidak aktif</u></b></mark></color>\n[WhenUse] Jika unit ini memiliki Count [ChargeNoir], konsumsi semua Count [ChargeNoir] pada diri sendiri untuk peroleh Coin Power +2\n[DefeatDuel] Peroleh 5 [Paralysis], beri -90% damage, dan damage yang diberikan Skill ini tidak dapat Stagger target\n[EndSkill]\n- Peroleh 2 [Vulnerable] giliran berikutnya\n- Akhiri giliran ini",
           "coinlist": [
             {
               "coindescs": []
@@ -749,17 +749,17 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Activate the effects of [ConfessionThirdPhase] pada target, then consume them all</u></b></mark></color>"
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Aktifkan efek dari [ConfessionThirdPhase] pada target, lalu konsumsi semuanya</u></b></mark></color>"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "On <color=#ff6000><mark=#ff000040><b><u>Clash Lose</u></b></mark></color>, this Coin <color=#ff6000><mark=#ff000040><b><u>hits only the main target</u></b></mark></color>\n<color=#ff6000><mark=#ff000040><b><u>- [DefeatDuelAttack] Beri 9 [RestrainingNailThirdPhase]</u></b></mark></color>"
+                  "desc": "On <color=#ff6000><mark=#ff000040><b><u>Kalah Clash</u></b></mark></color>, Coin ini <color=#ff6000><mark=#ff000040><b><u>hanya menyerang target utama</u></b></mark></color>\n<color=#ff6000><mark=#ff000040><b><u>- [DefeatDuelAttack] Beri 9 [RestrainingNailThirdPhase]</u></b></mark></color>"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion] 2 times; then, reduce target's Count [Vibration] by 2"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Aktifkan [VibrationExplosion] 2 kali; lalu, kurangi Count [Vibration] target sebanyak 2"
                 }
               ]
             }
@@ -772,8 +772,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Systemwide Ban",
-          "desc": "<color=#ff6000><mark=#ff000040><b><u>[CantChangeTarget]</u></b></mark></color>\n- <color=#ff6000><mark=#ff000040><b><u>Sinners that have [GoldenHideWarderThirdPhase] can Clash with this Skill</u></b></mark></color> regardless of Speed\nPrioritizes Sinners that have [RestrainingNailThirdPhase]\nDoes not trigger the target's Defense Skill\nCannot be Staggered before using this Skill\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Jika target memiliki [GoldenHideWarderThirdPhase], Clash Power -15</u></b></mark></color>\n[DefeatDuel] Peroleh 5 [Vulnerable] giliran berikutnya\n[EndBattle] Konsumsi semua [SpreadingVoiceThirdPhase] pada diri sendiri",
+          "name": "Diblokir Seluruh Sistem",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>[CantChangeTarget]</u></b></mark></color>\n- <color=#ff6000><mark=#ff000040><b><u>Pendosa yang memiliki [GoldenHideWarderThirdPhase] bisa Clash dengan Skill ini</u></b></mark></color> tanpa peduli dengan Speed\nPrioritaskan Pendosa yang memiliki [RestrainingNailThirdPhase]\nTidak mengaktifkan Skill Defense target\nTidak dapat Stagger sebelum menggunakan Skill ini\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Jika target memiliki [GoldenHideWarderThirdPhase], Clash Power -15</u></b></mark></color>\n[DefeatDuel] Peroleh 5 [Vulnerable] giliran berikutnya\n[EndBattle] Konsumsi semua [SpreadingVoiceThirdPhase] pada diri sendiri",
           "coinlist": [
             {
               "coindescs": [
@@ -781,7 +781,7 @@
                   "desc": "[ExtractCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Beri fixed damage setara dengan 200% of target's maks HP</u></b></mark></color>"
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Beri damage tetap setara dengan 200% dari maks HP target</u></b></mark></color>"
                 }
               ]
             }
@@ -795,7 +795,7 @@
         {
           "level": 1,
           "name": "Shift + Delete",
-          "desc": "Does not trigger the target's Defense Skill\nPrioritizes Sinners other than Meursault\n<color=#ff6000><mark=#ff000040><b><u>In a Clash against Meursault</u></b></mark></color>, Clash Power -20\nCannot be Staggered before using this Skill\n[DefeatDuel] Peroleh 10 [Vulnerable] this turn and giliran berikutnya\n[EndSkill] If the Chaplain lost the Clash, <color=#ff6000><mark=#ff000040><b><u>the Chaplain loses 50% of its current Shield</u></b></mark></color> (min 0)",
+          "desc": "Tidak mengaktifkan Skill Defense target\nPrioritaskan Pendosa selain Meursault\n<color=#ff6000><mark=#ff000040><b><u>Dalam Clash terhadap Meursault</u></b></mark></color>, Clash Power -20\nTidak dapat Stagger sebelum menggunakan Skill ini\n[DefeatDuel] Peroleh 10 [Vulnerable] giliran ini dan giliran berikutnya\n[EndSkill] Jika Sang Pendeta kalah Clash, <color=#ff6000><mark=#ff000040><b><u>Sang Pendeta kehilangan 50% dari Shield-nya saat ini</u></b></mark></color> (min 0)",
           "coinlist": [
             {
               "coindescs": [
@@ -803,7 +803,7 @@
                   "desc": "[ExtractCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Beri fixed damage setara dengan 50% of target's current HP</u></b></mark></color> (min 0)"
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Beri damage tetap setara dengan 50% dari HP target saat ini</u></b></mark></color> (min 0)"
                 }
               ]
             },
@@ -813,7 +813,7 @@
                   "desc": "[ExtractCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Beri fixed damage setara dengan 50% of target's current HP</u></b></mark></color> (min 0)"
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Beri damage tetap setara dengan 50% dari HP target saat ini</u></b></mark></color> (min 0)"
                 }
               ]
             },
@@ -823,7 +823,7 @@
                   "desc": "[ExtractCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Beri fixed damage setara dengan 200% of target's maks HP</u></b></mark></color>"
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Beri damage tetap setara dengan 200% dari maks HP target</u></b></mark></color>"
                 }
               ]
             }
@@ -836,8 +836,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Readying the Sartorial Nails",
-          "desc": "[WhenUse] Peroleh +3 [ChargeKhaki] Count\n[WhenUse] Peroleh +2 Count [Breath]",
+          "name": "Mempersiapkan Paku Busana",
+          "desc": "[WhenUse] Peroleh +3 Count [ChargeKhaki]\n[WhenUse] Peroleh +2 Count [Breath]",
           "coinlist": [
             {
               "coindescs": [
@@ -862,8 +862,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Patterns and Designs",
-          "desc": "[WhenUse] Peroleh +3 [ChargeKhaki] Count\n[WhenUse] Peroleh +2 Count [Breath]\n[DefeatDuel] Beri -80% damage and damage dealt by this Skill cannot Stagger the target",
+          "name": "Pola dan Desain",
+          "desc": "[WhenUse] Peroleh +3 Count [ChargeKhaki]\n[WhenUse] Peroleh +2 Count [Breath]\n[DefeatDuel] Beri -80% damage dan damage yang diberikan Skill ini tidak dapat Stagger target",
           "coinlist": [
             {
               "coindescs": [
@@ -894,8 +894,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Fixed Viewpoint",
-          "desc": "[WhenUse] Konsumsi semua [ChargeKhaki] Count pada diri sendiri untuk memberi +25% damage untuk setiap 3 [ChargeKhaki] Count consumed (maks 50%)\n[WhenUse] Peroleh +3 [ChargeKhaki] Count\n[WhenUse] Peroleh +2 Count [Breath]\n[DefeatDuel] Beri -80% damage and damage dealt by this Skill cannot Stagger the target",
+          "name": "Sudut Pandang Tetap",
+          "desc": "[WhenUse] Konsumsi semua Count [ChargeKhaki] pada diri sendiri untuk memberi +25% damage untuk setiap 3 Count [ChargeKhaki] dikonsumsi (maks 50%)\n[WhenUse] Peroleh +3 Count [ChargeKhaki]\n[WhenUse] Peroleh +2 Count [Breath]\n[DefeatDuel] Beri -80% damage dan damage yang diberikan Skill ini tidak dapat Stagger target",
           "coinlist": [
             {
               "coindescs": [
@@ -903,7 +903,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 1 [PenetrateResistDown] this turn and giliran berikutnya"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri 1 [PenetrateResistDown] giliran ini dan giliran berikutnya"
                 }
               ]
             },
@@ -933,7 +933,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri Pierce damage setara dengan (<color=#ff6000><mark color=#ff000040><b><u>types of negative effects pada target</color></mark></b></u> x 15)% dari damage akhir Coin ini (maks 45%)"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri damage Pierce setara dengan (<color=#ff6000><mark color=#ff000040><b><u>tipe dari efek negatif pada target</color></mark></b></u> x 15)% dari damage akhir Coin ini (maks 45%)"
                 }
               ]
             }
@@ -946,8 +946,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Within Perspective",
-          "desc": "[WhenUse] Final Power +1 untuk setiap 2 [ChargeKhaki] Count pada diri sendiri (maks 5)\n[OnSucceedEvade] <color=#ff6000><mark color=#ff000040><b><u>Heal 2% HP</color></mark></b></u>",
+          "name": "Di Dalam Perspektif",
+          "desc": "[WhenUse] Final Power +1 untuk setiap 2 Count [ChargeKhaki] pada diri sendiri (maks 5)\n[OnSucceedEvade] <color=#ff6000><mark color=#ff000040><b><u>Pulihkan 2% HP</color></mark></b></u>",
           "coinlist": [
             {
               "coindescs": []
@@ -961,16 +961,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Focusing",
-          "desc": "[CantIdentify]\n[CantDuel] [CantChangeTarget]\nPrioritizes allies\nSkill ini tidak mengaktifkan Skill Defense",
+          "name": "Memfokus",
+          "desc": "[CantIdentify]\n[CantDuel] [CantChangeTarget]\nPrioritaskan kawan\nSkill ini tidak mengaktifkan Skill Defense",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] If target is an ally,"
+                  "desc": "[OnSucceedAttack] Jika target adalah kawan,"
                 },
                 {
-                  "desc": "- Kill target"
+                  "desc": "- Bunuh target"
                 },
                 {
                   "desc": "- <color=#ff6000><mark color=#ff000040><b><u>Peroleh 1 [JeanneDesign]</color></mark></b></u>"
@@ -986,8 +986,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "First Step",
-          "desc": "[BeforeUse] When Clashing using Meursault's Skills that are not <color=#ff6000><mark color=#ff000040><b><u>Skill 1</color></mark></b></u>, change this Skill to \"You've got to keep to the pattern\"\n[WinDuel] End this Skill and use \"Those times when we chatted together at the café\" on the target",
+          "name": "Langkah Pertama",
+          "desc": "[BeforeUse] Ketika Clash dengan Skill Meursault yang bukan <color=#ff6000><mark color=#ff000040><b><u>Skill 1</color></mark></b></u>, ubah Skill ini menjadi \"Kamu harus tetap menjaga polanya\"\n[WinDuel] Akhiri Skill ini dan gunakan \"Ingat saat kita ngobrol bersama di café\" pada target",
           "coinlist": [
             {
               "coindescs": []
@@ -1001,8 +1001,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Second Pace",
-          "desc": "[BeforeUse] When Clashing using Meursault's Skills that are not <color=#ff6000><mark color=#ff000040><b><u>Skill 2</color></mark></b></u>, change this Skill to \"You've got to keep to the pattern\"\n[WinDuel] End this Skill and use \"Those times when we chatted together at the café\" on the target",
+          "name": "Tempo Kedua",
+          "desc": "[BeforeUse] Ketika Clash dengan Skill Meursault yang bukan <color=#ff6000><mark color=#ff000040><b><u>Skill 2</color></mark></b></u>, ubah Skill ini menjadi \"Kamu harus tetap menjaga polanya\"\n[WinDuel] Akhiri Skill ini dan gunakan \"Ingat saat kita ngobrol bersama di café\" pada target",
           "coinlist": [
             {
               "coindescs": []
@@ -1019,8 +1019,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Third Movement",
-          "desc": "[BeforeUse] When Clashing using Meursault's Skills that are not <color=#ff6000><mark color=#ff000040><b><u>Skill 3 or E.G.O Skills</color></mark></b></u>, change this Skill to \"You've got to keep to the pattern\"\n[WinDuel] End this Skill and use \"Those times when we chatted together at the café\" on the target",
+          "name": "Gerakan Ketiga",
+          "desc": "[BeforeUse] Ketika Clash dengan Skill Meursault yang bukan <color=#ff6000><mark color=#ff000040><b><u>Skill 3 atau Skill E.G.O</color></mark></b></u>, ubah Skill ini menjadi \"Kamu harus tetap menjaga polanya\"\n[WinDuel] Akhiri Skill ini dan gunakan \"Ingat saat kita ngobrol bersama di café\" pada target",
           "coinlist": [
             {
               "coindescs": []
@@ -1040,8 +1040,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "You've got to keep to the pattern.",
-          "desc": "This Skill always hits Critically\n[StartDuel] Target has <color=#ff6000><mark color=#ff000040><b><u>100% chance to flip Tails</color></mark></b></u>\n- Target's Minus Coins have 100% chance to flip Heads",
+          "name": "Kamu harus tetap menjaga polanya.",
+          "desc": "Skill ini selalu menyerang Critical\n[StartDuel] Target memiliki <color=#ff6000><mark color=#ff000040><b><u>peluang 100% untuk mendapat Ekor</color></mark></b></u>\n- Coin Negatif target memiliki peluang 100% untuk mendapat Kepala",
           "coinlist": [
             {
               "coindescs": [
@@ -1066,8 +1066,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Those times when we chatted together at the café",
-          "desc": "[CantDuel]\nSkill ini memiliki sifat berikut:\n- Tidak mengaktifkan Skill Defense\n- Its attack does not hit\n[WhenUse] Both this unit and the target gain 5 [JeannePathos] and 5 [JeanneLogos]",
+          "name": "Ingat saat kita ngobrol bersama di café",
+          "desc": "[CantDuel]\nSkill ini memiliki sifat berikut:\n- Tidak mengaktifkan Skill Defense\n- Skill ini tidak menyerang\n[WhenUse] Unit ini dan targetnya keduanya peroleh 5 [JeannePathos] dan 5 [JeanneLogos]",
           "coinlist": [
             {
               "coindescs": []
@@ -1081,8 +1081,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "We had our little quarrels, yes.",
-          "desc": "[OnSucceedEvade] Both this unit and the target gain 4 [JeannePathos] and 4 [JeanneLogos]",
+          "name": "Kami sempat bertengkar kecil, ya.",
+          "desc": "[OnSucceedEvade] Unit ini dan targetnya keduanya peroleh 4 [JeannePathos] dan 4 [JeanneLogos]",
           "coinlist": [
             {
               "coindescs": []
@@ -1096,8 +1096,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rights: Rebuild",
-          "desc": "[CantChangeTarget]\nThis Skill does not trigger the target's Defense Skill\nMainly targets Meursault\n[StartDuel] This unit has 100% chance to flip Heads",
+          "name": "Hak: Membangun Kembali",
+          "desc": "[CantChangeTarget]\nSkill ini tidak mengaktifkan Skill Defense target\nMengutamakan Meursault\n[StartDuel] Unit ini memiliki peluang 100% untuk dapat Kepala",
           "coinlist": [
             {
               "coindescs": [
@@ -1105,7 +1105,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Target dies"
+                  "desc": "[OnSucceedAttack] Target mati"
                 }
               ]
             }
@@ -1118,9 +1118,9 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rights: Ban",
+          "name": "Hak: Larangan",
           "desc": "<color=#ff6000><mark color=#ff000040><b><u>[EndSkill] Beri 1 [JeanneCheat] giliran berikutnya</color></mark></b></u>",
-          "flavor": "Meur. If you want, you don't have to keep binding yourself in those chains anymore. You're allowed to judge for yourself. You should be allowed to speak. No more worrying about anyone's gaze, no more letting anyone else's thoughts weigh on you... Just <i>be</i> yourself.",
+          "flavor": "Meur. Kalau mau, kamu tidak perlu lagi mengikat dirimu dalam rantai itu. Kamu boleh menilai sendiri. Kamu boleh berbicara. Tidak perlu lagi khawatir dengan pandangan orang lain, tidak perlu lagi membiarkan pikiran orang lain membebanimu... <i>Jadilah</i> dirimu sendiri.",
           "coinlist": [
             {
               "coindescs": [
@@ -1128,7 +1128,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "If the Coin is not Cracked, beri +20% damage"
+                  "desc": "Jika Coin tidak retak, beri +20% damage"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Beri 1 [Vulnerable]"
@@ -1141,7 +1141,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "If the Coin is not Cracked, beri +20% damage"
+                  "desc": "Jika Coin tidak retak, beri +20% damage"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Beri 1 [Vulnerable] giliran berikutnya"
@@ -1157,8 +1157,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "At least on this stage, everything's set and fixed.",
-          "desc": "[BeforeUse] When Clashing against targets <color=#ff6000><mark color=#ff000040><b><u>that are not Meursault, or if this Skill is used as an Serangan Tanpa Lawan,</color></mark></b></u> change this Skill to \"You went off-pattern.\"\n[DefeatDuel] Meursault gains 10 [JeanneLogos]",
+          "name": "Setidaknya pada panggung ini, semuanya sudah diatur dan diperbaiki.",
+          "desc": "[BeforeUse] Ketika Clash dengan target <color=#ff6000><mark color=#ff000040><b><u>yang bukan Meursault, atau jika Skill ini digunakan sebagai Serangan Tanpa Lawan,</color></mark></b></u> ubah Skill ini menjadi \"Kamu keluar dari pola-nya.\"\n[DefeatDuel] Meursault peroleh 10 [JeanneLogos]",
           "coinlist": [
             {
               "coindescs": []
@@ -1175,9 +1175,9 @@
       "levelList": [
         {
           "level": 1,
-          "name": "You went off-pattern.",
-          "desc": "This Skill always hits Critically\n[StartDuel] Target has <color=#ff6000><mark color=#ff000040><b><u>100% chance to flip Tails</color></mark></b></u>\n- Target's Minus Coins have 100% chance to flip Heads\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>Heal 50% HP</color></mark></b></u>",
-          "flavor": "Meur, you need to execute the gimmick right.",
+          "name": "Kamu keluar dari pola-nya.",
+          "desc": "Skill ini selalu menyerang Critical\n[StartDuel] Target memiliki <color=#ff6000><mark color=#ff000040><b><u>peluang 100% untuk mendapat Ekor</color></mark></b></u>\n- Coin Negatif target memiliki peluang 100% untuk mendapat Kepala\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>Pulihkan 50% HP</color></mark></b></u>",
+          "flavor": "Meur, tolong jalankan gimik-nya yang benar, ya.",
           "coinlist": [
             {
               "coindescs": [
@@ -1202,8 +1202,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "The designing was up to this point.",
-          "desc": "[WhenUse] Final Power +1 untuk setiap 2 Unique Count [Charge] pada diri sendiri (maks 5)",
+          "name": "Desainnya sampai pada titik ini.",
+          "desc": "[WhenUse] Final Power +1 untuk setiap 2 Count [Charge] Unik pada diri sendiri (maks 5)",
           "coinlist": [
             {
               "coindescs": []
@@ -1217,9 +1217,9 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Rights: Gaze",
-          "desc": "[WhenUse] Final Power +1 untuk setiap 4 Unique [Charge] (Potency + Count) pada diri sendiri (maks 3)\n[WhenUse] Beri +10% damage untuk setiap 2 types of negative effects pada seluruh target (maks 50%; overlapping effects between unit are counted separately)\n<color=#ff6000><mark color=#ff000040><b><u>[WinDuel] Beri 1 [JeanneCheat] giliran berikutnya</color></mark></b></u>\n[DefeatDuel] Beri -80% damage and damage dealt by this Skill cannot Stagger the target",
-          "flavor": "You must've understood the anxiety your mother felt better than anyone. But, Meur... simply sharing the same space with someone means becoming aware of their gaze. As long as you were there together, you must've had to bear your mother's gaze. You could hardly help but gaze her in return.\n\nIs that why you feel guilty?\nIt seems to me you're still trying to make what happened to your mother into something that was your fault.",
+          "name": "Hak: Menatap",
+          "desc": "[WhenUse] Final Power +1 untuk setiap 4 [Charge] Unik (Potency + Count) pada diri sendiri (maks 3)\n[WhenUse] Beri +10% damage untuk setiap 2 tipe dari efek negatif pada seluruh target (maks 50%; efek yang tumpang tindih antar unit dihitung secara terpisah)\n<color=#ff6000><mark color=#ff000040><b><u>[WinDuel] Beri 1 [JeanneCheat] giliran berikutnya</color></mark></b></u>\n[DefeatDuel] Beri -80% damage dan damage yang diberikan Skill ini tidak dapat Stagger target",
+          "flavor": "Kamu pasti memahami kegelisahan yang dirasakan ibumu lebih baik dari siapa pun. Tapi, Meur... berbagi ruang yang sama dengan seseorang berarti menyadari tatapannya. Selama kalian bersama di sana, kamu pasti harus menanggung tatapan ibumu. Kamu hanya bisa menatapnya balik.\n\nItukah sebabnya kamu merasa bersalah?\nSepertinya kamu masih mencoba menjadikan apa yang terjadi pada ibumu sebagai kesalahanmu.",
           "coinlist": [
             {
               "coindescs": [
@@ -1227,7 +1227,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "If the Coin is not Cracked, beri +50% damage"
+                  "desc": "Jika Coin tidak retak, beri +50% damage"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [AttackDmgDown] giliran berikutnya"
@@ -1240,7 +1240,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "If the Coin is not Cracked, beri +50% damage"
+                  "desc": "Jika Coin tidak retak, beri +50% damage"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [Binding] giliran berikutnya"
@@ -1256,9 +1256,9 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Department Store Blueprint",
-          "desc": "[WhenUse] Take -90% damage from Skills (sekali per giliran)",
-          "flavor": "This is not a department store blueprint.",
+          "name": "Rancangan Toko Departemen",
+          "desc": "[WhenUse] Terima -90% damage dari Skill (sekali per giliran)",
+          "flavor": "Ini bukanlah Toko Rancangan Bangunan.",
           "coinlist": [
             {
               "coindescs": []
@@ -1272,8 +1272,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pattern: \"Desire.\"",
-          "desc": "[WhenUse] Pada kurang dari maks [ChargeRouge] Count, consume 5% HP to gain 10 [ChargeRouge] Count",
+          "name": "Pola: \"Keinginan.\"",
+          "desc": "[WhenUse] Pada kurang dari maks Count [ChargeRouge], konsumsi 5% HP untuk peroleh 10 Count [ChargeRouge]",
           "coinlist": [
             {
               "coindescs": [
@@ -1291,20 +1291,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pattern: \"Don.\"",
-          "desc": "[WhenUse] Pada kurang dari maks [ChargeRouge] Count, consume 5% HP to gain 10 [ChargeRouge] Count\n[WhenUse] Konsumsi 5 [ChargeRouge] Count to gain Final Power +2",
+          "name": "Pola: \"Kenakan\"",
+          "desc": "[WhenUse] Pada kurang dari maks Count [ChargeRouge], konsumsi 5% HP untuk peroleh 10 Count [ChargeRouge]\n[WhenUse] Konsumsi 5 Count [ChargeRouge] untuk peroleh Final Power +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Laceration]"
                 }
               ]
             }
@@ -1317,8 +1317,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pattern: \"Konsumsi.\"",
-          "desc": "[WhenUse] Beri +3% damage untuk setiap 2% missing HP pada diri sendiri (maks 60%)\n[WhenUse] Konsumsi semua [ChargeRouge] Count pada diri sendiri to gain Final Power +1 untuk setiap 2 [ChargeRouge] Count consumed (maks 3)",
+          "name": "Pola: \"Konsumsi.\"",
+          "desc": "[WhenUse] Beri +3% damage untuk setiap 2% HP yang hilang pada diri sendiri (maks 60%)\n[WhenUse] Konsumsi semua Count [ChargeRouge] pada diri sendiri untuk peroleh Final Power +1 untuk setiap 2 Count [ChargeRouge] yang dikonsumsi (maks 3)",
           "coinlist": [
             {
               "coindescs": [
@@ -1330,7 +1330,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Beri Lust damage setara dengan (missing HP pada diri sendiri)% dari damage akhir Coin ini"
+                  "desc": "[OnSucceedAttack] Beri damage Lust setara dengan (HP yang hilang pada diri sendiri)% dari damage akhir Coin ini"
                 }
               ]
             }
@@ -1343,8 +1343,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Pattern: \"Scrape and gather.\"",
-          "desc": "[WhenUse] Heal 25% HP\n- At 2+ [ChargeRouge], heal 50% HP instead",
+          "name": "Pola: \"Kikis dan ambil.\"",
+          "desc": "[WhenUse] Pulihkan 25% HP\n- Pada 2+ [ChargeRouge], pulihkan 50% HP saja",
           "coinlist": [
             {
               "coindescs": []
@@ -1358,8 +1358,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Tailoring: \"Conserve.\"",
-          "desc": "[WhenUse] Peroleh +5 [ChargeNoir] Count\n- Jika target memiliki [Vibration], peroleh +5 additional [ChargeNoir] Count",
+          "name": "Menjahit: \"Lestarikan.\"",
+          "desc": "[WhenUse] Peroleh +5 Count [ChargeNoir]\n- Jika target memiliki [Vibration], peroleh +5 tambahan Count [ChargeNoir]",
           "coinlist": [
             {
               "coindescs": [
@@ -1377,8 +1377,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Tailoring: \"Witness in silence.\"",
-          "desc": "[WhenUse] Peroleh 5 [ChargeNoir] Count\n- Jika target memiliki [Vibration], gain 5 additional [ChargeNoir] Count\n[WhenUse] Final Power +1 untuk setiap 2 [ChargeNoir] Count pada diri sendiri (maks 2)\n[WhenUse] At 10+ [ChargeNoir] Count, inflict 5 Potency [Vibration] on Coin Hit",
+          "name": "Menjahit: \"Perhatikan dalam keheningan.\"",
+          "desc": "[WhenUse] Peroleh 5 Count [ChargeNoir]\n- Jika target memiliki [Vibration], peroleh 5 tambahan Count [ChargeNoir]\n[WhenUse] Final Power +1 untuk setiap 2 Count [ChargeNoir] pada diri sendiri (maks 2)\n[WhenUse] Pada 10+ Count [ChargeNoir], beri 5 Potency [Vibration] pada Serangan Coin",
           "coinlist": [
             {
               "coindescs": [
@@ -1403,8 +1403,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Tailoring: \"Let all be pinned.\"",
-          "desc": "Beri +4% damage untuk setiap [ChargeNoir] pada diri sendiri (maks 20%)\n[WhenUse] Konsumsi semua [ChargeNoir] Count pada diri sendiri to gain Final Power +1 untuk setiap 2 [ChargeNoir] Count consumed (maks 3)\n- Jika unit ini consumed 10+ [ChargeNoir] Count, inflict 5 Potency [Vibration] on Coin Hit",
+          "name": "Menjahit: \"Biarkan semuanya disematkan.\"",
+          "desc": "Beri +4% damage untuk setiap [ChargeNoir] pada diri sendiri (maks 20%)\n[WhenUse] Konsumsi semua Count [ChargeNoir] pada diri sendiri untuk peroleh Final Power +1 untuk setiap 2 Count [ChargeNoir] yang dikonsumsi (maks 3)\n- Jika unit ini consumed 10+ Count [ChargeNoir], beri 5 Potency [Vibration] pada Serangan Coin",
           "coinlist": [
             {
               "coindescs": [
@@ -1416,7 +1416,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Beri Sloth damage setara dengan (Potency [Vibration] pada target)% dari damage akhir Coin ini"
+                  "desc": "[OnSucceedAttack] Beri damage Sloth setara dengan (Potency [Vibration] pada target)% dari damage akhir Coin ini"
                 }
               ]
             }
@@ -1429,8 +1429,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Tailoring: \"Cometh the nail.\"",
-          "desc": "[StartBattle] This turn and giliran berikutnya, peroleh Perisai setara dengan 25% dari maks HP unit ini (min 1)\n- At 2+ [ChargeNoir], peroleh Perisai setara dengan 40% dari maks HP unit ini instead",
+          "name": "Menjahit: \"Datanglah paku.\"",
+          "desc": "[StartBattle] Giliran ini dan giliran berikutnya, peroleh Perisai setara dengan 25% dari maks HP unit ini (min 1)\n- Pada 2+ [ChargeNoir], peroleh Perisai setara dengan 40% dari maks HP unit ini saja",
           "coinlist": [
             {
               "coindescs": []
@@ -1445,13 +1445,13 @@
         {
           "level": 1,
           "name": "Je m'expulse",
-          "desc": "[WhenUse] If the main target has 6+ [Laceration], Coin Power +1\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] If the main target tidak memiliki [Laceration], convert all Coins on this Skill to [SuperCoin]s</u></b></mark></color>\n[DefeatDuel] Beri -80% damage and damage dealt by this Skill cannot Stagger the target",
-          "flavor": "Excrete.",
+          "desc": "[WhenUse] Jika target utama memiliki 6+ [Laceration], Coin Power +1\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] Jika target utama tidak memiliki [Laceration], ubah semua Coin pada Skill ini menjadi [SuperCoin]</u></b></mark></color>\n[DefeatDuel] Beri -80% damage dan damage yang diberikan Skill ini tidak dapat Stagger target",
+          "flavor": "Keluarkan.",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Laceration]"
                 }
               ]
             },
@@ -1472,8 +1472,8 @@
         {
           "level": 1,
           "name": "Je me crache",
-          "desc": "[WhenUse] Jika target memiliki 6+ [Laceration], Base Power +2\n[WhenUse] Peroleh +1 Atk Weight untuk setiap 2 [ChargeRouge] Potency pada diri sendiri (maks 2)",
-          "flavor": "Vomit.",
+          "desc": "[WhenUse] Jika target memiliki 6+ [Laceration], Base Power +2\n[WhenUse] Peroleh +1 Atk Weight untuk setiap 2 Potency [ChargeRouge] pada diri sendiri (maks 2)",
+          "flavor": "Muntah.",
           "coinlist": [
             {
               "coindescs": [
@@ -1495,8 +1495,8 @@
         {
           "level": 1,
           "name": "Je m'abjecte",
-          "desc": "[WhenUse] Coin Power +1 untuk setiap 4 [Laceration] on the main target (maks 2)\n[WhenUse] Peroleh +1 Atk Weight untuk setiap 2 [ChargeRouge] Potency pada diri sendiri (maks 2)",
-          "flavor": "And cast it to the world.",
+          "desc": "[WhenUse] Coin Power +1 untuk setiap 4 [Laceration] pada target utama (maks 2)\n[WhenUse] Peroleh +1 Atk Weight untuk setiap 2 Potency [ChargeRouge] pada diri sendiri (maks 2)",
+          "flavor": "Dan lemparkan kepada dunia.",
           "coinlist": [
             {
               "coindescs": [
@@ -1514,7 +1514,7 @@
                   "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Jika target memiliki 3+ [BoneNail], inflict 2 [Vulnerable] giliran berikutnya"
+                  "desc": "[OnSucceedAttack] Jika target memiliki 3+ [BoneNail], beri 2 [Vulnerable] giliran berikutnya"
                 }
               ]
             }
@@ -1528,18 +1528,18 @@
         {
           "level": 1,
           "name": "La Pulsion",
-          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\nTargets Le Rouge Senior Staff\n\n[WhenUse] At 10+ [ChargeRouge] Count, consume up to 10 [ChargeRouge] Count and peroleh +2 Atk Weight",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\nMenarget Staf Senior Le Rouge\n\n[WhenUse] Pada 10+ Count [ChargeRouge], konsumsi hingga 10 Count [ChargeRouge] dan peroleh +2 Atk Weight",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndCoin] Beri +10 [ChargeRouge] Count"
+                  "desc": "[EndCoin] Beri +10 Count [ChargeRouge]"
                 },
                 {
-                  "desc": "[EndCoin] Reduce target's current HP by 50%; then, apply 5 [AttackUp]"
+                  "desc": "[EndCoin] Kurangi HP target saat ini sebanyak 50%; lalu, beri 5 [AttackUp]"
                 },
                 {
-                  "desc": "[EndCoin] Apply 3 [BuffetRouge]"
+                  "desc": "[EndCoin] Beri 3 [BuffetRouge]"
                 }
               ]
             }
@@ -1558,13 +1558,13 @@
             {
               "coindescs": [
                 {
-                  "desc": "[EndCoin] Recover target from Stagger"
+                  "desc": "[EndCoin] Target pulih dari Stagger"
                 },
                 {
-                  "desc": "[EndCoin] Heal HP pada target setara dengan this Skill's Final Power"
+                  "desc": "[EndCoin] Pulihkan HP pada target setara dengan Power Akhir Skill ini"
                 },
                 {
-                  "desc": "[EndCoin] Apply 1 [BuffetRouge]"
+                  "desc": "[EndCoin] Beri 1 [BuffetRouge]"
                 }
               ]
             }
@@ -1578,7 +1578,7 @@
         {
           "level": 1,
           "name": "La Jouissance",
-          "desc": "Cannot be Staggered before using this Skill\n\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Heal 15 SP and gain Clash Power +2 untuk setiap Le Rouge Senior Staff</u></b></mark></color> on the field\n[WhenUse] If <color=#ff6000><mark=#ff000040><b><u>all Le Rouge Senior Staff are defeated</u></b></mark></color>, Clash Power -3\n[DefeatDuel] Beri -80% damage, damage dealt by this Skill cannot Stagger the target, <color=#ff6000><mark=#ff000040><b><u>dan peroleh 1 [BuffetDream]</u></b></mark></color>\n[EndSkill] Convert [BuffetScruple] on the main target into [BuffetResolve]",
+          "desc": "Tidak dapat Stagger sebelum menggunakan Skill ini\n\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Pulihkan 15 SP dan peroleh Clash Power +2 untuk setiap Staf Senior Le Rouge</u></b></mark></color> di medan tempur\n[WhenUse] Jika <color=#ff6000><mark=#ff000040><b><u>semua Staf Senior Le Rouge telah dikalahkan</u></b></mark></color>, Clash Power -3\n[DefeatDuel] Beri -80% damage, damage yang diberikan Skill ini tidak dapat Stagger target, <color=#ff6000><mark=#ff000040><b><u>dan peroleh 1 [BuffetDream]</u></b></mark></color>\n[EndSkill] Ubah [BuffetScruple] pada target utama menjadi [BuffetResolve]",
           "coinlist": [
             {
               "coindescs": [
@@ -1586,7 +1586,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Laceration]"
                 }
               ]
             },
@@ -1612,7 +1612,7 @@
                   "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Activate [Laceration] pada target 3 times. Target loses 3 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Aktifkan [Laceration] pada target 3 kali. Target kehilangan 3 Count [Laceration]"
                 }
               ]
             }
@@ -1626,7 +1626,7 @@
         {
           "level": 1,
           "name": "La Demande",
-          "desc": "[CantDuel]\n[CantChangeTarget]\nSkill ini tidak mengaktifkan Skill Defense\n[WhenUse] Remove all [BoneNail] on the main target\n[WhenUse] Coin Power +1 untuk setiap 4 [Laceration] on the main target (maks 2)\n[EndSkill] Remove [BuffetScruple] on the main target",
+          "desc": "[CantDuel]\n[CantChangeTarget]\nSkill ini tidak mengaktifkan Skill Defense\n[WhenUse] Hilangkan semua [BoneNail] pada target utama\n[WhenUse] Coin Power +1 untuk setiap 4 [Laceration] pada target utama (maks 2)\n[EndSkill] Hilangkan [BuffetScruple] pada target utama",
           "coinlist": [
             {
               "coindescs": [
@@ -1645,7 +1645,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration] pada target once. Target loses 1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Aktifkan [Laceration] pada target sekali. Target kehilangan 1 Count [Laceration]"
                 }
               ]
             }
@@ -1659,7 +1659,7 @@
         {
           "level": 1,
           "name": "Le Nom-du-Père",
-          "desc": "[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Jika unit ini memiliki [BuffetRouge]</u></b></mark></color>, convert all Coins on this Skill to [SuperCoin]s\n[WhenUse] Coin Power +1 untuk setiap 4 [Laceration] on the main target (maks 2)\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>If the main target has [BuffetScruple], lose 2 Atk Weight</u></b></mark></color>\n[DefeatDuel] Beri -80% damage and damage dealt by this Skill cannot Stagger the target\n[EndSkill] Remove [BuffetScruple] on the main target",
+          "desc": "[StartBattle] <color=#ff6000><mark=#ff000040><b><u>Jika unit ini memiliki [BuffetRouge]</u></b></mark></color>, ubah semua Coin pada Skill ini menjadi [SuperCoin]\n[WhenUse] Coin Power +1 untuk setiap 4 [Laceration] pada target utama (maks 2)\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Jika target utama memiliki [BuffetScruple], kehilangan 2 Atk Weight</u></b></mark></color>\n[DefeatDuel] Beri -80% damage dan damage yang diberikan Skill ini tidak dapat Stagger target\n[EndSkill] Hilangkan [BuffetScruple] pada target utama",
           "coinlist": [
             {
               "coindescs": [
@@ -1704,12 +1704,12 @@
         {
           "level": 1,
           "name": "La Castration",
-          "desc": "Bisa Clash dengan Skill ini tak peduli dengan Speed\nCannot be Staggered before using this Skill\n\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Jika unit ini memiliki fewer than 5 [BuffetDream], convert all Coins on this Skill to [SuperCoin]</u></b></mark></color>\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>If the main target has [BuffetScruple]</u></b></mark></color>, Coin Power -3\n[WhenUse] Final Power +2 untuk setiap 6 [Laceration] on the main target (maks 6)\n[DefeatDuel] Beri -80% damage, damage dealt by this Skill cannot Stagger the target, <color=#ff6000><mark=#ff000040><b><u>dan peroleh 1 [BuffetDream]</u></b></mark></color>",
+          "desc": "Bisa Clash dengan Skill ini tak peduli dengan Speed\nTidak dapat Stagger sebelum menggunakan Skill ini\n\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Jika unit ini memiliki fewer than 5 [BuffetDream], ubah semua Coin pada Skill ini menjadi [SuperCoin]</u></b></mark></color>\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Jika target utama memiliki [BuffetScruple]</u></b></mark></color>, Coin Power -3\n[WhenUse] Final Power +2 untuk setiap 6 [Laceration] pada target utama (maks 6)\n[DefeatDuel] Beri -80% damage, damage yang diberikan Skill ini tidak dapat Stagger target, <color=#ff6000><mark=#ff000040><b><u>dan peroleh 1 [BuffetDream]</u></b></mark></color>",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Laceration]"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [Laceration]"
@@ -1732,7 +1732,7 @@
                   "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Activate [Laceration] pada target once. Target loses 1 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Aktifkan [Laceration] pada target sekali. Target kehilangan 1 Count [Laceration]"
                 }
               ]
             },
@@ -1742,7 +1742,7 @@
                   "desc": "[OnSucceedAttack] Beri 1 [Laceration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Activate [Laceration] pada target 2 times. Target loses 2 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Aktifkan [Laceration] pada target 2 kali. Target kehilangan 2 Count [Laceration]"
                 }
               ]
             }
@@ -1756,7 +1756,7 @@
         {
           "level": 1,
           "name": "Le Trait Unaire",
-          "desc": "[DuelCounter]\n[WhenUse] Coin Power +1 untuk setiap 4 [Laceration] on the main target (maks 2)\n[WhenUse] Peroleh +1 Atk Weight untuk setiap 5 total sum of [BoneNail] on all enemies (maks 4)",
+          "desc": "[DuelCounter]\n[WhenUse] Coin Power +1 untuk setiap 4 [Laceration] pada target utama (maks 2)\n[WhenUse] Peroleh +1 Atk Weight untuk setiap 5 total jumlah dari [BoneNail] pada seluruh musuh (maks 4)",
           "coinlist": [
             {
               "coindescs": [
@@ -1784,13 +1784,13 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "<color=#ff6000><mark=#ff000040><b><u>Konsumsi [BoneNail] on all enemies</u></b></mark></color>"
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>Konsumsi [BoneNail] pada seluruh musuh</u></b></mark></color>"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Beri Lust damage setara dengan ([BoneNail] Stack consumed x 10)% dari damage akhir Coin ini"
+                  "desc": "[OnSucceedAttack] Beri damage Lust setara dengan ([BoneNail] Stack yang dikonsumsi x 10)% dari damage akhir Coin ini"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count untuk setiap 4 [BoneNail] consumed (maks 5)"
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Laceration] untuk setiap 4 [BoneNail] yang dikonsumsi (maks 5)"
                 }
               ]
             }
@@ -1804,7 +1804,7 @@
         {
           "level": 1,
           "name": "Dégagé",
-          "desc": "[WhenUse] Final Power +1 untuk setiap 4 [Laceration] pada target (maks 2)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] If target tidak memiliki [Laceration], convert all Coins on this Skill to [SuperCoin]s</u></b></mark></color>\n[DefeatDuel] Beri -80% damage and damage dealt by this Skill cannot Stagger the target",
+          "desc": "[WhenUse] Final Power +1 untuk setiap 4 [Laceration] pada target (maks 2)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] Jika target tidak memiliki [Laceration], ubah semua Coin pada Skill ini menjadi [SuperCoin]</u></b></mark></color>\n[DefeatDuel] Beri -80% damage dan damage yang diberikan Skill ini tidak dapat Stagger target",
           "coinlist": [
             {
               "coindescs": [
@@ -1812,7 +1812,7 @@
                   "desc": "[OnSucceedAttack] Beri 1 [BoneNail]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Beri +1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Beri +1 Count [Laceration]"
                 },
                 {
                   "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [BoneNail]"
@@ -1829,7 +1829,7 @@
         {
           "level": 1,
           "name": "Le Point de Capiton",
-          "desc": "[WhenUse] Final Power +1 untuk setiap 4 [Laceration] pada target (maks 3)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] If target tidak memiliki [Laceration], convert all Coins on this Skill to [SuperCoin]s</u></b></mark></color>\n[DefeatDuel] Beri -80% damage and damage dealt by this Skill cannot Stagger the target",
+          "desc": "[WhenUse] Final Power +1 untuk setiap 4 [Laceration] pada target (maks 3)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] Jika target tidak memiliki [Laceration], ubah semua Coin pada Skill ini menjadi [SuperCoin]</u></b></mark></color>\n[DefeatDuel] Beri -80% damage dan damage yang diberikan Skill ini tidak dapat Stagger target",
           "coinlist": [
             {
               "coindescs": [
@@ -1867,7 +1867,7 @@
         {
           "level": 1,
           "name": "La Jouissance",
-          "desc": "Cannot be Staggered before using this Skill\n\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>If the main target has [BuffetScruple]</u></b></mark></color>, lose 10 SP, Coin Power -2\n[DefeatDuel] Beri -80% damage, damage dealt by this Skill cannot Stagger the target, <color=#ff6000><mark=#ff000040><b><u>dan peroleh 1 [BuffetDream]</u></b></mark></color>\n[EndSkill] Convert [BuffetScruple] on the main target into [BuffetResolve]",
+          "desc": "Tidak dapat Stagger sebelum menggunakan Skill ini\n\n[WhenUse] <color=#ff6000><mark=#ff000040><b><u>Jika target utama memiliki [BuffetScruple]</u></b></mark></color>, kehilangan 10 SP, Coin Power -2\n[DefeatDuel] Beri -80% damage, damage yang diberikan Skill ini tidak dapat Stagger target, <color=#ff6000><mark=#ff000040><b><u>dan peroleh 1 [BuffetDream]</u></b></mark></color>\n[EndSkill] Ubah [BuffetScruple] pada target utama menjadi [BuffetResolve]",
           "coinlist": [
             {
               "coindescs": [
@@ -1875,7 +1875,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Laceration]"
                 }
               ]
             },
@@ -1901,7 +1901,7 @@
                   "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Activate [Laceration] pada target 3 times. Target loses 3 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Aktifkan [Laceration] pada target 3 kali. Target kehilangan 3 Count [Laceration]"
                 }
               ]
             }
@@ -1915,12 +1915,12 @@
         {
           "level": 1,
           "name": "La Métaphore Paternelle",
-          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\nThis Skill is used at the very end of the turn\n[EndSkill] Heal 25% HP",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\nSkill ini digunakan pada akhir giliran\n[EndSkill] Pulihkan 25% HP",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[EndCoin] Revive \"Ripped Flesh of the Crimson God\" as \"Le Rouge Senior Staff\" giliran berikutnya"
+                  "desc": "[EndCoin] Hidupkan \"Robekan Daging Sang Dewa Crimson\" sebagai \"Staf Senior Le Rouge\" giliran berikutnya"
                 }
               ]
             }
@@ -1933,16 +1933,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Take Us In...",
+          "name": "Bawa Kami Masuk...",
           "desc": "",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Lose 1 [BuffetRevival]"
+                  "desc": "[OnSucceedAttack] Kehilangan 1 [BuffetRevival]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Activate [Laceration] pada target once. Target loses 1 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Aktifkan [Laceration] pada target sekali. Target kehilangan 1 Count [Laceration]"
                 }
               ]
             }
@@ -1955,8 +1955,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Oh... Our Crimson Voice...",
-          "desc": "Beri +1 [Laceration] Count against the attacker when hit as long as this unit has remaining shield\n[StartBattle] Peroleh Perisai setara dengan 25% dari maks HP unit ini\n[EndBattle] Jika unit ini memiliki Shield, lose 1 [BuffetRevival]",
+          "name": "Oh... Suara Crimson Kami...",
+          "desc": "Beri +1 Count [Laceration] terhadap penyerang ketika diserang selama unit ini memiliki sisa Perisai\n[StartBattle] Peroleh Perisai setara dengan 25% dari maks HP unit ini\n[EndBattle] Jika unit ini memiliki Perisai, kehilangan 1 [BuffetRevival]",
           "coinlist": [
             {
               "coindescs": []
@@ -1970,16 +1970,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "With sickles mine I answer your calling!",
-          "desc": "[WhenUse] Peroleh +6 [ChargeRouge] Count\n[WhenUse] At 10+ [ChargeRouge] Count, consume 5 [ChargeRouge] Count to gain Base Power +2",
+          "name": "Dengan sabit milikku, aku menjawab panggilanmu!",
+          "desc": "[WhenUse] Peroleh +6 Count [ChargeRouge]\n[WhenUse] Pada 10+ Count [ChargeRouge], konsumsi 5 Count [ChargeRouge] untuk peroleh Base Power +2",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Peroleh +2 [ChargeRouge] Count"
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count [ChargeRouge]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Laceration]"
                 }
               ]
             }
@@ -1992,23 +1992,23 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Accept my offering of flesh!",
-          "desc": "[WhenUse] Peroleh +4 [ChargeRouge] Count\n[WhenUse] Jika target memiliki 6+ [Laceration], Coin Power +1\n[WhenUse] At 10+ [ChargeRouge] Count, consume 10 [ChargeRouge] Count to gain Coin Power +1",
+          "name": "Terimalah persembahan dagingku!",
+          "desc": "[WhenUse] Peroleh +4 Count [ChargeRouge]\n[WhenUse] Jika target memiliki 6+ [Laceration], Coin Power +1\n[WhenUse] Pada 10+ Count [ChargeRouge], konsumsi 10 Count [ChargeRouge] untuk peroleh Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Peroleh +2 [ChargeRouge] Count"
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count [ChargeRouge]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Beri +2 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Beri +2 Count [Laceration]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Peroleh +2 [ChargeRouge] Count"
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count [ChargeRouge]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
@@ -2024,8 +2024,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "An offering from my embrace!",
-          "desc": "[StartBattle] Jika unit ini memiliki less than 50% HP, convert all Coins on this Skill to [SuperCoin]\n[WhenUse] Coin Power +1 untuk setiap 6 [Laceration] pada target (maks 2)\n[WhenUse] At 10+ [ChargeRouge] Count, consume 10 [ChargeRouge] Count to gain Coin Power +1\n[DefeatDuel] Damage dealt by this Skill cannot Stagger the target",
+          "name": "Persembahan dari pelukanku!",
+          "desc": "[StartBattle] Jika unit ini memiliki kurang dari 50% HP, ubah semua Coin pada Skill ini menjadi [SuperCoin]\n[WhenUse] Coin Power +1 untuk setiap 6 [Laceration] pada target (maks 2)\n[WhenUse] Pada 10+ Count [ChargeRouge], konsumsi 10 Count [ChargeRouge] untuk peroleh Coin Power +1\n[DefeatDuel] Damage yang diberikan Skill ini tidak dapat Stagger target",
           "coinlist": [
             {
               "coindescs": [
@@ -2033,7 +2033,7 @@
                   "desc": "[UnBrokenCoinOnSucceedAttack] Beri 2 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Peroleh +2 [ChargeRouge] Count"
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count [ChargeRouge]"
                 }
               ]
             },
@@ -2043,17 +2043,17 @@
                   "desc": "[UnBrokenCoinOnSucceedAttack] Beri 1 [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Peroleh +2 [ChargeRouge] Count"
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count [ChargeRouge]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri +2 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Beri +2 Count [Laceration]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] Peroleh +2 [ChargeRouge] Count"
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count [ChargeRouge]"
                 }
               ]
             }
@@ -2066,16 +2066,16 @@
       "levelList": [
         {
           "level": 1,
-          "name": "We shall devour it all!",
-          "desc": "[StartBattle] Jika unit ini memiliki less than 50% HP, convert all Coins on this Skill to [SuperCoin]\n[WhenUse] Coin Power +1 untuk setiap 6 [Laceration] pada target (maks 2)\n[WhenUse] At 10+ [ChargeRouge] Count, consume 10 [ChargeRouge] Count to gain Coin Power +1\n[WinDuel] Peroleh +10 [ChargeRouge] Count\n[DefeatDuel] Beri -80% damage; damage dealt by this Skill cannot Stagger the target",
+          "name": "Akan kita lahap semuanya!",
+          "desc": "[StartBattle] Jika unit ini memiliki kurang dari 50% HP, ubah semua Coin pada Skill ini menjadi [SuperCoin]\n[WhenUse] Coin Power +1 untuk setiap 6 [Laceration] pada target (maks 2)\n[WhenUse] Pada 10+ Count [ChargeRouge], konsumsi 10 Count [ChargeRouge] untuk peroleh Coin Power +1\n[WinDuel] Peroleh +10 Count [ChargeRouge]\n[DefeatDuel] Beri -80% damage; damage yang diberikan Skill ini tidak dapat Stagger target",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Beri +3 [Laceration] Count"
+                  "desc": "[OnSucceedAttack] Beri +3 Count [Laceration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Konsumsi up to 5 [ChargeRouge] Count to deal Slash damage setara dengan ([ChargeRouge] Count consumed x 3)% dari damage akhir Coin ini (maks 15%)\n- Heal ([ChargeRouge] Count consumed)% HP"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Konsumsi hingga 5 Count [ChargeRouge] untuk beri Slash damage setara dengan (Count [ChargeRouge] yang dikonsumsi x 3)% dari damage akhir Coin ini (maks 15%)\n- Pulihkan (Count [ChargeRouge] yang dikonsumsi)% HP"
                 }
               ]
             },
@@ -2085,7 +2085,7 @@
                   "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Konsumsi up to 5 [ChargeRouge] Count to deal Slash damage setara dengan ([ChargeRouge] Count consumed x 3)% dari damage akhir Coin ini (maks 15%)\n- Heal ([ChargeRouge] Count consumed)% HP"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Konsumsi hingga 5 Count [ChargeRouge] untuk beri Slash damage setara dengan (Count [ChargeRouge] yang dikonsumsi x 3)% dari damage akhir Coin ini (maks 15%)\n- Pulihkan (Count [ChargeRouge] yang dikonsumsi)% HP"
                 }
               ]
             },
@@ -2095,7 +2095,7 @@
                   "desc": "[UnBrokenCoinOnSucceedAttack] Beri 1 [Laceration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Konsumsi up to 5 [ChargeRouge] Count to deal Slash damage setara dengan ([ChargeRouge] Count consumed x 3)% dari damage akhir Coin ini (maks 15%)\n- Heal ([ChargeRouge] Count consumed)% HP"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Konsumsi hingga 5 Count [ChargeRouge] untuk beri Slash damage setara dengan (Count [ChargeRouge] yang dikonsumsi x 3)% dari damage akhir Coin ini (maks 15%)\n- Pulihkan (Count [ChargeRouge] yang dikonsumsi)% HP"
                 }
               ]
             },
@@ -2105,7 +2105,7 @@
                   "desc": "[UnBrokenCoinOnSucceedAttack] Beri 1 [Laceration]"
                 },
                 {
-                  "desc": "[UnBrokenCoinOnSucceedAttack] Activate [Laceration] pada target once. Target loses 1 [Laceration] Count"
+                  "desc": "[UnBrokenCoinOnSucceedAttack] Aktifkan [Laceration] pada target sekali. Target kehilangan 1 Count [Laceration]"
                 }
               ]
             }
@@ -2118,20 +2118,20 @@
       "levelList": [
         {
           "level": 1,
-          "name": "We shan't yet be laid to rest!",
-          "desc": "[DuelCounter]\n[WhenUse] Final Power +1 untuk setiap 5 [ChargeRouge] Count pada diri sendiri (maks 3)\n[WhenUse] Jika target memiliki 6+ [Laceration], Coin Power +1",
+          "name": "Tiada waktu untuk beristirahat!",
+          "desc": "[DuelCounter]\n[WhenUse] Final Power +1 untuk setiap 5 Count [ChargeRouge] pada diri sendiri (maks 3)\n[WhenUse] Jika target memiliki 6+ [Laceration], Coin Power +1",
           "coinlist": [
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Peroleh +3 [ChargeRouge] Count"
+                  "desc": "[OnSucceedAttack] Peroleh +3 Count [ChargeRouge]"
                 }
               ]
             },
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] Peroleh +2 [ChargeRouge] Count"
+                  "desc": "[OnSucceedAttack] Peroleh +2 Count [ChargeRouge]"
                 },
                 {
                   "desc": "[OnSucceedAttack] Beri 2 [Laceration]"
@@ -2147,8 +2147,8 @@
       "levelList": [
         {
           "level": 1,
-          "name": "Supplication Toward the Voice",
-          "desc": "[CantDuel]\n[CantChangeTarget]\nTargets The Crimson God 【Adulthood】\n\nSkill ini memiliki sifat berikut:\n- Tidak mengaktifkan Skill Defense\n- Efek eksternal tidak dapat membuat Skill ini di Gunakan Ulang\n- Its attack does not hit\n\n[EndCoin] Target heals 20 SP",
+          "name": "Doa Menuju Suara",
+          "desc": "[CantDuel]\n[CantChangeTarget]\nMenarget Sang Dewa Crimson 【Dewasa】\n\nSkill ini memiliki sifat berikut:\n- Tidak mengaktifkan Skill Defense\n- Efek eksternal tidak dapat membuat Skill ini di Gunakan Ulang\n- Skill ini tidak menyerang\n\n[EndCoin] Target memulihkan 20 SP",
           "coinlist": [
             {
               "coindescs": []

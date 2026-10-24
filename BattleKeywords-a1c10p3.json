@@ -193,7 +193,7 @@
       "id": "MeursaultBuffWarderThirdPhase",
       "name": "The Stranger",
       "desc": "- HP Meursault tidak dapat turun di bawah 1 selama ada 1 atau lebih kawan yang hidup di Pertemuan ini\n- Speed Min & Max +3\n- Final Power +3 dan beri +30% damage\n- Ketika Clash dengan Sang Pendeta:\n · Beri +(Persentase HP yang hilang pada diri sendiri)% damage (maks 90%)\n · Saat Menang Clash, Pulihkan 8 SP\n · Saat Menang Clash, peroleh 1 Bahan E.G.O untuk masing-masing dari 5 Afinitas paling sedikit\n- Ketika menerima damage yang dapat Stagger unit ini, tidak akan terkena Stagger dan hilangkan Batas Stagger yang dimaksud; dan peroleh 3 Attack Power Up giliran berikutnya (tidak ada batas aktivasi)\n- Tidak dapat Mundur",
-      "summary": "Peroleh Clash Power dan beri lebih banyak damage when Clashing with Sang Pendeta\nTidak dapat Stagger, tidak dapat kalah ketika ada kawan lain yang hidup",
+      "summary": "Peroleh Clash Power dan beri lebih banyak damage saat Clash dengan Sang Pendeta\nTidak dapat Stagger, tidak dapat kalah ketika ada kawan lain yang hidup",
       "flavor": "Apakah aku seorang asing, elemen asing baik di toko departemen maupun di Kota?"
     },
     {
@@ -359,8 +359,8 @@
     },
     {
       "id": "BuffetRevival",
-      "name": "Suara Sang Dewa Lembayung",
-      "desc": "- Stack Maks: 3\n- Tidak dapat dikalahkan\n- Akhir Giliran: Kehilangan 1 Stack\n- Ketika efek ini kadaluarsa,\n · Kembali ke bentuk \"Staf Senior Le Rouge\".\n · Pulihkan 5 SP untuk setiap 10 HP yang tersisa selama unit ini di dalam bentuk \"Robekan Daging Sang Dewa Lembayung\"; peroleh +2 Count Pulsasi\n · Jika unit ini memperoleh 10+ Count Pulsasi, konsumsi semua Count Pulsasi; lalu, peroleh 1 Amukan Tak Terkendali [Le Désir] giliran berikutnya untuk setiap 5 Stack yang dikonsumsi",
+      "name": "Suara Sang Dewa Crimson",
+      "desc": "- Stack Maks: 3\n- Tidak dapat dikalahkan\n- Akhir Giliran: Kehilangan 1 Stack\n- Ketika efek ini kadaluarsa,\n · Kembali ke bentuk \"Staf Senior Le Rouge\".\n · Pulihkan 5 SP untuk setiap 10 HP yang tersisa selama unit ini di dalam bentuk \"Robekan Daging Sang Dewa Crimson\"; peroleh +2 Count Pulsasi\n · Jika unit ini memperoleh 10+ Count Pulsasi, konsumsi semua Count Pulsasi; lalu, peroleh 1 Amukan Tak Terkendali [Le Désir] giliran berikutnya untuk setiap 5 Stack yang dikonsumsi",
       "summary": "",
       "flavor": "Hiduplah, dan hiduplah kembali.\n\nUntuk merasakan, untuk hidup, pikiran kalian tidak tinggal di masa kini, melainkan telah berada di masa depan.\n\nKarena seseorang menantikan apa yang belum tiba, seseorang rindu untuk merasakan. Dan karena seseorang rindu untuk perasaannya, seseorang memilih untuk terus hidup."
     },
@@ -374,14 +374,14 @@
     {
       "id": "BuffetScruple",
       "name": "Berbagi dengan Pwie",
-      "desc": "- Speed Min & Max +3\n- Terima -50% damage akhir dari Sang Dewa Lembayung [Adulthood]",
+      "desc": "- Speed Min & Max +3\n- Terima -50% damage akhir dari Sang Dewa Crimson [Adulthood]",
       "summary": "",
       "flavor": "Kita berbagi pengalaman dengan Pwie. Bersama-sama. Hal itu sudah pasti.\n\nKeraguan mulai muncul ke permukaan."
     },
     {
       "id": "BuffetResolve",
       "name": "Keputusan",
-      "desc": "- Stack Maks: 1\n- Beri dan terima +30% damage ke dan dari Sang Dewa Lembayung [Adulthood]\n- Awal Giliran: Pulihkan 5 SP",
+      "desc": "- Stack Maks: 1\n- Beri dan terima +30% damage ke dan dari Sang Dewa Crimson [Adulthood]\n- Awal Giliran: Pulihkan 5 SP",
       "summary": "",
       "flavor": "\"Sebagai Manajer... aku harus memilih, kan?\"\n\n\"Benar, Manajer.\"\n\n\".......\"\n\n\".......\"\n\n\"... Aku sudah membuat keputusanku.\""
     },

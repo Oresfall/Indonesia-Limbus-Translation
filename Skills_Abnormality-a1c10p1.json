@@ -743,7 +743,7 @@
           "level": 1,
           "name": "Bermalas-malasan",
           "desc": "[WhenUse] Peroleh (Potency [Laceration] pada target x 5) Perisai",
-          "flavor": "Unless there's something to do, most of Le Kaki space out and do nothing.",
+          "flavor": "Kecuali ada sesuatu yang dapat dilakukan, sebagian besar Le Kaki melamun dan tidak melakukan apapun.",
           "coinlist": [
             {
               "coindescs": [
@@ -762,8 +762,8 @@
         {
           "level": 1,
           "name": "Pengumuman Pelanggan",
-          "desc": "Dalam Clash against a Clashable Defense Skill, Clash Power +20\nThis Skill does not trigger the target's Defense Skill\nThis Skill beri 0 damage\n<color=#ff6000><mark=#ff000040><b><u>[DefeatDuel] Beri 10 [Wariness] pada target</u></b></mark></color>",
-          "flavor": "Listen... Hear the Voice...",
+          "desc": "Dalam Clash terhadap Skill Defense Dapat Clash, Clash Power +20\nSkill ini tidak mengaktifkan Skill Defense target\nSkill ini beri 0 damage\n<color=#ff6000><mark=#ff000040><b><u>[DefeatDuel] Beri 10 [Wariness] pada target</u></b></mark></color>",
+          "flavor": "Dengar... Simak Suaranya...",
           "coinlist": [
             {
               "coindescs": [
@@ -771,7 +771,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "<color=#ff6000><mark=#ff000040><b><u>[UnBrokenCoinOnSucceedAttack] Remove semua [Wariness] pada target dan beri 1 [ReliefSense] (once per Pendosa per giliran)</u></b></mark></color>"
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>[UnBrokenCoinOnSucceedAttack] Hilangkan semua [Wariness] pada target dan beri 1 [ReliefSense] (sekali per Pendosa per giliran)</u></b></mark></color>"
                 }
               ]
             }
@@ -785,7 +785,7 @@
         {
           "level": 1,
           "name": "Pengumuman Peringatan",
-          "desc": "[CantChangeTarget]\n- Any Pendosa yang memiliki the same [Wariness] Stack as the targeted Pendosa can draw this Skill to itself regardless of Speed\nPrioritizes targets that have the highest [Wariness] Stack\nThis Skill does not trigger the target's Defense Skill\n[EndSkill] Konsumsi semua [Wariness] pada target",
+          "desc": "[CantChangeTarget]\n- Pendosa manapun yang memiliki Stack [Wariness] yang sama dengan Pendosa yang ditarget dapat mengarahkan Skill ini ke mereka tak peduli dengan Speed\nPrioritaskan target yang memiliki Stack [Wariness] tertinggi\nSkill ini tidak mengaktifkan Skill Defense target\n[EndSkill] Konsumsi semua [Wariness] pada target",
           "coinlist": [
             {
               "coindescs": [
@@ -793,7 +793,7 @@
                   "desc": "[SuperCoin]"
                 },
                 {
-                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Beri (target's SP + 45) damage SP; then, beri 1 [HorribleTerror] giliran berikutnya</u></b></mark></color>"
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Beri (SP target + 45) damage SP; lalu, beri 1 [HorribleTerror] giliran berikutnya</u></b></mark></color>"
                 }
               ]
             }
@@ -807,8 +807,8 @@
         {
           "level": 1,
           "name": "Terima kasih... telah mendengarkan...",
-          "desc": "[CantChangeTarget]\n- Any Pendosa yang memiliki the same [ReliefSense] Stack as the targeted Pendosa can draw this Skill to itself regardless of Speed\nPrioritizes targets that have the highest [ReliefSense] Stack\n[DefeatDuel] Terima +150% damage from the Skill that Clashed with this Skill\n[EndSkill] Remove semua [ReliefSense] pada target",
-          "flavor": "Enthrallment takes many forms, with different paths and different endings. Yet the state itself is always the same: the heart opens and, in opening, becomes vulnerable.",
+          "desc": "[CantChangeTarget]\n- Pendosa manapun yang memiliki Stack [ReliefSense] yang sama dengan Pendosa yang ditarget dapat mengarahkan Skill ini ke mereka tak peduli dengan Speed\nPrioritaskan target yang memiliki Stack [ReliefSense] tertinggi\n[DefeatDuel] Terima +150% damage dari Skill yang Clash dengan Skill ini\n[EndSkill] Hilangkan semua [ReliefSense] pada target",
+          "flavor": "Keterikatan memiliki banyak bentuk, dengan jalan berbeda dan akhir berbeda. Namun keadaannya sendiri selalu sama: hati terbuka dan, ketika terbuka, menjadi rentan.",
           "coinlist": [
             {
               "coindescs": [
@@ -827,7 +827,7 @@
         {
           "level": 1,
           "name": "Serbuan Serta-merta",
-          "desc": "[WhenUse] Final Power +1 untuk setiap 4 ([Vibration] + [Sinking]) pada target (maks 3)\n[WhenUse] Saat HP di bawah 50%, peroleh the following effects:\n- Skill ini inflicts +2 more Potency [Vibration] dan Count\n- Convert the final Coin to [SuperCoin]; Saat Serang, aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1",
+          "desc": "[WhenUse] Final Power +1 untuk setiap 4 ([Vibration] + [Sinking]) pada target (maks 3)\n[WhenUse] Saat HP di bawah 50%, peroleh efek berikut:\n- Skill ini beri +2 lebih banyak Potency dan Count [Vibration]\n- Ubah Coin terakhir menjadi [SuperCoin]; Saat Serang, aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1",
           "coinlist": [
             {
               "coindescs": [
@@ -853,7 +853,7 @@
         {
           "level": 1,
           "name": "Serbuan Serta-merta Penghancur",
-          "desc": "[WhenUse] Final Power +1 untuk setiap 4 ([Vibration] + [Sinking]) pada target (maks 3)\n[WhenUse] Saat HP di bawah 50%, peroleh the following effects:\n- Skill ini inflicts +2 more Potency [Vibration] dan Count\n- Convert the second and third Coins to [SuperCoin]; Saat Serang using the second Coin, aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1",
+          "desc": "[WhenUse] Final Power +1 untuk setiap 4 ([Vibration] + [Sinking]) pada target (maks 3)\n[WhenUse] Saat HP di bawah 50%, peroleh efek berikut:\n- Skill ini beri +2 lebih banyak Potency dan Count [Vibration]\n- Convert the second and third Coins to [SuperCoin]; Saat Serang menggunakan Coin kedua, aktifkan [VibrationExplosion]; lalu, kurangi Count [Vibration] target sebanyak 1",
           "coinlist": [
             {
               "coindescs": [
@@ -886,7 +886,7 @@
         {
           "level": 1,
           "name": "Gema Seluruh Lantai",
-          "desc": "[CantChangeTarget]\nPrioritizes targets that are in Panic\nSinners that have [ReliefSense] can draw this Skill to itself\n[WhenUse] Jika target tidak memiliki [ReliefSense], peroleh +2 Atk Weight\n[WhenUse] Final Power +1 untuk setiap 4 ([Vibration] + [Sinking]) pada target utama (maks 4)\n[DefeatDuel] Peroleh the Following effects:\n- Beri -50% damage\n- Damage yang diberikan Skill ini tidak dapat Stagger target; Saat Serang, does not activate [Sinking] effect pada target",
+          "desc": "[CantChangeTarget]\nPrioritaskan target yang Panik\nPendosa yang memiliki [ReliefSense] dapat mengarahkan Skill ini ke mereka\n[WhenUse] Jika target tidak memiliki [ReliefSense], peroleh +2 Atk Weight\n[WhenUse] Final Power +1 untuk setiap 4 ([Vibration] + [Sinking]) pada target utama (maks 4)\n[DefeatDuel] Peroleh the Following effects:\n- Beri -50% damage\n- Damage yang diberikan Skill ini tidak dapat Stagger target; Saat Serang, tidak aktifkan efek [Sinking] pada target",
           "coinlist": [
             {
               "coindescs": [
@@ -915,7 +915,7 @@
         {
           "level": 1,
           "name": "GEDUBRAK! JEGUG! DUM-BARRR!",
-          "desc": "Bisa Clash dengan Skill ini tak peduli dengan Speed\n[StartBattle] Peroleh 100 Perisai\n- Peroleh 4 more Perisai untuk setiap 1% HP yang hilang (maks 200)\n- Before Attack, if Perisai is not broken, Reuse final Coin once untuk setiap 100 remaining Perisai (maks 2 times)\n[WhenUse] Final Power +1 and Coin Power +1 untuk setiap 6 ([Vibration] + [Sinking]) pada target utama (masing-masing maks 4)\n[DefeatDuel] Peroleh the following effects:\n- Beri -75% damage\n- Damage yang diberikan Skill ini tidak dapat Stagger target; Saat Serang, does not activate [Sinking] effect pada target",
+          "desc": "Bisa Clash dengan Skill ini tak peduli dengan Speed\n[StartBattle] Peroleh 100 Perisai\n- Peroleh 4 lebih banyak Perisai untuk setiap 1% HP yang hilang (maks 200)\n- Sebelum Serang, jika Perisai tidak rusak, Gunakan Ulang Coin terakhir sekali untuk setiap 100 Perisai tersisa (maks 2 times)\n[WhenUse] Final Power +1 and Coin Power +1 untuk setiap 6 ([Vibration] + [Sinking]) pada target utama (masing-masing maks 4)\n[DefeatDuel] Peroleh efek berikut:\n- Beri -75% damage\n- Damage yang diberikan Skill ini tidak dapat Stagger target; Saat Serang, tidak aktifkan efek [Sinking] pada target",
           "coinlist": [
             {
               "coindescs": [
@@ -940,7 +940,7 @@
         {
           "level": 1,
           "name": "Gema Seluruh Lantai",
-          "desc": "[CantChangeTarget]\nPrioritizes targets that are in Panic\nSinners that have [ReliefSense] can draw this Skill to itself\nThis Skill does not trigger the target's Defense Skill\nBisa Clash dengan Skill ini tak peduli dengan Speed\n[WhenUse] Peroleh +3 Atk Weight\n- Reduce Atk Weight gain by 1 untuk setiap 1 [ReliefSense] pada target utama\n[WhenUse] Peroleh the following effects:\n- Final Power +1 untuk setiap 4 ([Vibration] + [Sinking]) pada target utama (maks 4)\n- Clash Power +1 untuk setiap 3 [Wariness] pada target utama (maks 3)\n- Beri +([Wariness] pada target x 10)% damage (maks 100%; calculated separately for each target)\n[DefeatDuel] Peroleh the following effects:\n- Beri -50% damage\n- Damage yang diberikan Skill ini tidak dapat Stagger target; Saat Serang, does not activate [Sinking] effect pada target",
+          "desc": "[CantChangeTarget]\nPrioritaskan target yang Panik\nPendosa yang memiliki [ReliefSense] dapat mengarahkan Skill ini ke mereka\nSkill ini tidak mengaktifkan Skill Defense target\nBisa Clash dengan Skill ini tak peduli dengan Speed\n[WhenUse] Peroleh +3 Atk Weight\n- Reduce Atk Weight gain by 1 untuk setiap 1 [ReliefSense] pada target utama\n[WhenUse] Peroleh efek berikut:\n- Final Power +1 untuk setiap 4 ([Vibration] + [Sinking]) pada target utama (maks 4)\n- Clash Power +1 untuk setiap 3 [Wariness] pada target utama (maks 3)\n- Beri +([Wariness] pada target x 10)% damage (maks 100%; calculated separately for each target)\n[DefeatDuel] Peroleh efek berikut:\n- Beri -50% damage\n- Damage yang diberikan Skill ini tidak dapat Stagger target; Saat Serang, tidak aktifkan efek [Sinking] pada target",
           "coinlist": [
             {
               "coindescs": [
@@ -982,7 +982,7 @@
         {
           "level": 1,
           "name": "GEDUBRAK! JEGUG! DUM-BARRR! DUM-BRET!",
-          "desc": "Skill ini does not trigger the target's Defense Skill\nBisa Clash dengan Skill ini tak peduli dengan Speed\n[StartBattle] Peroleh 100 Perisai\n- Peroleh 4 more Perisai untuk setiap 1% HP yang hilang (maks 400)\n- Before Attack, if Perisai is not broken, Reuse final Coin once untuk setiap 100 remaining Perisai (maks 3 kali)\n[WhenUse] Peroleh the following effects:\n- Final Power +1 and Coin Power +1 untuk setiap 6 ([Vibration] + [Sinking]) pada target utama (masing-masing maks 4)\n- Clash Power +1 untuk setiap 2 [Wariness] pada target utama (maks 5)\n- Beri +([Wariness] pada target x 10)% damage (maks 100%; calculated separately for each target)\n[DefeatDuel] Peroleh the following effects:\n- Beri -75% damage\n- Damage yang diberikan Skill ini tidak dapat Stagger target; Saat Serang, does not activate [Sinking] effect pada target",
+          "desc": "Skill ini does not trigger the target's Defense Skill\nBisa Clash dengan Skill ini tak peduli dengan Speed\n[StartBattle] Peroleh 100 Perisai\n- Peroleh 4 lebih banyak Perisai untuk setiap 1% HP yang hilang (maks 400)\n- Sebelum Serang, jika Perisai tidak rusak, Gunakan Ulang Coin terakhir sekali untuk setiap 100 Perisai tersisa (maks 3 kali)\n[WhenUse] Peroleh efek berikut:\n- Final Power +1 and Coin Power +1 untuk setiap 6 ([Vibration] + [Sinking]) pada target utama (masing-masing maks 4)\n- Clash Power +1 untuk setiap 2 [Wariness] pada target utama (maks 5)\n- Beri +([Wariness] pada target x 10)% damage (maks 100%; calculated separately for each target)\n[DefeatDuel] Peroleh efek berikut:\n- Beri -75% damage\n- Damage yang diberikan Skill ini tidak dapat Stagger target; Saat Serang, tidak aktifkan efek [Sinking] pada target",
           "coinlist": [
             {
               "coindescs": [
@@ -1785,7 +1785,7 @@
             {
               "coindescs": [
                 {
-                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Beri 2 [NiddlePinned] against targets that have 5+ [NiddlePin]</u></b></mark></color>"
+                  "desc": "[OnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Beri 2 [NiddlePinned] terhadap target yang memiliki 5+ [NiddlePin]</u></b></mark></color>"
                 }
               ]
             }
@@ -1824,7 +1824,7 @@
         {
           "level": 1,
           "name": "Hrgh...",
-          "desc": "[WhenUse] Final Power +1 untuk setiap 4 [Laceration] pada target (maks 2)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] Jika target tidak memiliki [Laceration], beri -80% damage and ubah semua Coin pada Skill ini menjadi [SuperCoin]</u></b></mark></color>\n[WinDuel] Hilangkan 1 efek positif acak pada target (kecuali Charge dan Poise); then, peroleh 1 [Nutrition]",
+          "desc": "[WhenUse] Final Power +1 untuk setiap 4 [Laceration] pada target (maks 2)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] Jika target tidak memiliki [Laceration], beri -80% damage and ubah semua Coin pada Skill ini menjadi [SuperCoin]</u></b></mark></color>\n[WinDuel] Hilangkan 1 efek positif acak pada target (kecuali Charge dan Poise); lalu, peroleh 1 [Nutrition]",
           "coinlist": [
             {
               "coindescs": [
@@ -2142,7 +2142,7 @@
           "level": 1,
           "name": "Aku mendengar... Suara itu...",
           "desc": "[WhenUse] Coin Power +1 untuk setiap 6 [Laceration] pada target utama (maks 2)\n[WhenUse] Pada kurang dari 15 Count [ChargeRouge], peroleh up to 15 Count [ChargeRouge] dan peroleh 1 [BuffetFailed] giliran berikutnya untuk setiap 5 Count [ChargeRouge] memperoleh from efek ini\n[DefeatDuel] Beri -80% damage dan damage yang diberikan Skill ini tidak dapat Stagger target",
-          "flavor": "Many Voices inhabit this department store. Whose could this be?",
+          "flavor": "Banyak Suara menghuni toko departemen ini. Siapakah ini?",
           "coinlist": [
             {
               "coindescs": [

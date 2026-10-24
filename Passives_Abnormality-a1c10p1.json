@@ -75,7 +75,7 @@
       "id": 147403,
       "name": "Ambisi Kuliner",
       "desc": "Gunakan Skill Gluttony kuat setiap 4 giliran\n(Jika efek ini tidak aktif karena Stagger, aktifkan di giliran berikutnya)\n- Akhir Giliran: Pada 5+ [SapsareeYammi], gunakan Skill Gluttony kuat giliran berikutnya\n\nAkhir Giliran: Pada 3+ [SapsareeHungry], gunakan Skill Wrath kuat giliran berikutnya",
-      "flavor": "Ada perbedaan teramat besar antara seni kuliner dan sekadar membuat sesuatu yang bisa dimakan. Dan kau... yah, kau masuk ke dalam kategori yang kedua."
+      "flavor": "Ada perbedaan teramat besar antara seni kuliner dan sekedar membuat sesuatu yang bisa dimakan. Dan kau... yah, kau masuk ke dalam kategori yang kedua."
     },
     {
       "id": 147404,
@@ -170,7 +170,7 @@
     {
       "id": 148203,
       "name": "Lepaskan Pemadatan",
-      "desc": "Awal Giliran: Pada 3+ Potency [ChargeNoir] and 10+ Count [ChargeNoir], gunakan Skill kuat",
+      "desc": "Awal Giliran: Pada 3+ Potency [ChargeNoir] dan 10+ Count [ChargeNoir], gunakan Skill kuat",
       "flavor": "Kekuatan yang dipadatkan menjadi satu titik demi memaksakan kekakuan, suatu hari nanti pasti akan meledak bebas."
     },
     {
@@ -222,14 +222,14 @@
     },
     {
       "id": 148401,
-      "name": "Dewa Lembayung Prematur",
+      "name": "Dewa Crimson Prematur",
       "desc": "Akhir Giliran: Tidak kehilangan Count [ChargeRouge]\n<color=#ff6000><mark=#ff000040><b><u>Dalam Clash, peroleh +1 Count [ChargeRouge] tiap kali [Laceration] musuh diaktifkan</u></b></mark></color>\nSaat Bunuh, peroleh Count [ChargeRouge] setara dengan (Potency [Laceration] + Count [Laceration]) pada target\nAwal Giliran: Pulihkan 3 SP untuk setiap Count [ChargeRouge] pada diri sendiri",
       "flavor": "Dewa yang dikandung oleh kerinduan, terlahir ke dunia sebelum waktunya. Bahkan kelahirannya pun tak sempurna."
     },
     {
       "id": 148402,
       "name": "Denyut Lembut pada Otot",
-      "desc": "Awal Giliran: <color=#ff6000><mark=#ff000040><b><u>Pada 15+ Count [ChargeRouge], jika unit ini tidak memiliki [Gourmandise], konsumsi semua Count [ChargeRouge] pada diri sendiri dan peroleh [Gourmandise]</u></b></mark></color>\n\nPeroleh efek berikut selama unit ini memiliki [Gourmandise]:\n- Pada Penggunaan Skill, peroleh +3 Count [Laceration]\n- Saat Serang, peroleh 1 [Laceration]\n- Ketika diserang pada salah satu Bagian-nya, peroleh 1 [BuffetSick]\n- Saat Kalah Clash, peroleh 3 [BuffetSick]\n- Saat Bunuh, jika target memiliki 3+ [BloodyMucus], hasilkan \"Robekan Daging dari Dewa Lembayung\" giliran berikutnya\n- Akhir Pertarungan: Pulihkan 3 SP untuk setiap musuh yang memiliki [BloodyMucus]\n\nAkhir Giliran: <color=#ff6000><mark=#ff000040><b><u>Jika unit ini memiliki 30+ [BuffetSick]</u></b></mark></color> ketika [Gourmandise] kadaluarsa, giliran berikutnya, lemahkan pola unit ini dan Stagger unit \"Robekan Daging dari Dewa Lembayung\" di medan tempur\n\n※ Stack [BloodyMucus] dapat berkurang dengan cara berikut: <color=#ff6000><mark=#ff000040><b>Penggunaan Skill E.G.O dan Skill Defense</u></b></mark></color>\n※ \"Robekan Daging dari Dewa Lembayung\" peroleh [DeterioratingBody] setara dengan [BloodyMucus] pada target yang dikalahkan\n※ \"Robekan Daging dari Dewa Lembayung\" yang memiliki [DeterioratingBody] tidak dapat dikalahkan\n※ Hingga 3 \"Robekan Daging dari Dewa Lembayung\" dapat dihasilkan di medan tempur",
+      "desc": "Awal Giliran: <color=#ff6000><mark=#ff000040><b><u>Pada 15+ Count [ChargeRouge], jika unit ini tidak memiliki [Gourmandise], konsumsi semua Count [ChargeRouge] pada diri sendiri dan peroleh [Gourmandise]</u></b></mark></color>\n\nPeroleh efek berikut selama unit ini memiliki [Gourmandise]:\n- Pada Penggunaan Skill, peroleh +3 Count [Laceration]\n- Saat Serang, peroleh 1 [Laceration]\n- Ketika diserang pada salah satu Bagian-nya, peroleh 1 [BuffetSick]\n- Saat Kalah Clash, peroleh 3 [BuffetSick]\n- Saat Bunuh, jika target memiliki 3+ [BloodyMucus], hasilkan \"Robekan Daging dari Dewa Crimson\" giliran berikutnya\n- Akhir Pertarungan: Pulihkan 3 SP untuk setiap musuh yang memiliki [BloodyMucus]\n\nAkhir Giliran: <color=#ff6000><mark=#ff000040><b><u>Jika unit ini memiliki 30+ [BuffetSick]</u></b></mark></color> ketika [Gourmandise] kadaluarsa, giliran berikutnya, lemahkan pola unit ini dan Stagger unit \"Robekan Daging dari Dewa Crimson\" di medan tempur\n\n※ Stack [BloodyMucus] dapat berkurang dengan cara berikut: <color=#ff6000><mark=#ff000040><b>Penggunaan Skill E.G.O dan Skill Defense</u></b></mark></color>\n※ \"Robekan Daging dari Dewa Crimson\" peroleh [DeterioratingBody] setara dengan [BloodyMucus] pada target yang dikalahkan\n※ \"Robekan Daging dari Dewa Crimson\" yang memiliki [DeterioratingBody] tidak dapat dikalahkan\n※ Hingga 3 \"Robekan Daging dari Dewa Crimson\" dapat dihasilkan di medan tempur",
       "flavor": "Anggota tubuhnya menghempas dan mejang secara liar seolah-olah semua itu tak pernah menjadi miliknya sendiri."
     },
     {

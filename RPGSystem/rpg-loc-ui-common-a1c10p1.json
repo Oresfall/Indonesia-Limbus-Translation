@@ -2,7 +2,7 @@
   "dataList": [
     {
       "key": "ReturnToMainUiScene",
-      "text": "Simpan progress anda dan\nkembali ke Menu Utama?"
+      "text": "Kembali ke Tampilan Utama?\n<color=#ff0000>Kemajuan terbaru mungkin akan hilang.</color>\n\n※ Game menyimpan data pada titik berikut: Misi selesai / Perpindahan Lantai atau Area.\nHarap periksa titik penyimpanan terakhirmu sebelum keluar ke Tampilan Utama."
     },
     {
       "key": "AskToMoveFloor",
@@ -10,7 +10,15 @@
     },
     {
       "key": "MoveFloorUiDesc",
-      "text": "Lantai mana yang harus kita tuju?"
+      "text": "Lantai mana yang ingin kita tuju?"
+    },
+    {
+      "key": "FloorMoveUnboughtConfirmDesc",
+      "text": "Kamu belum membeli semua item yang tersedia di lantai ini.\nTetap pindah ke lantai lain?"
+    },
+    {
+      "key": "FloorMoveUnboughtDontShowAgain",
+      "text": "Jangan tampilkan pesan ini lagi"
     },
     {
       "key": "DialogueSkipConfirmDesc",
@@ -22,11 +30,11 @@
     },
     {
       "key": "AccumulatedExp",
-      "text": "Penghitungan Pengeluaran Bola Mata"
+      "text": "Hitungan Pengeluaran Bola Mata"
     },
     {
       "key": "RemainExpToNextLevel",
-      "text": "Ke Tingkat Berikutnya"
+      "text": "Menuju Tingkat Berikutnya"
     },
     {
       "key": "ItemFilterAll",
@@ -38,7 +46,7 @@
     },
     {
       "key": "ItemFilterSurvival",
-      "text": "Bertahan Hidup"
+      "text": "Ketahanan Hidup"
     },
     {
       "key": "ItemFilterBasicAttack",
@@ -62,7 +70,7 @@
     },
     {
       "key": "Item_Suffix_Disabled",
-      "text": "{0} (nonaktif)"
+      "text": "{0} (tidak aktif)"
     },
     {
       "key": "rpg_quest_tag_dialogue",
@@ -74,7 +82,7 @@
     },
     {
       "key": "rpg_quest_tag_hunt",
-      "text": "Eliminasi"
+      "text": "Basmi"
     },
     {
       "key": "rpg_quest_tag_gather",
@@ -110,7 +118,7 @@
     },
     {
       "key": "Shop_Category_Artifact",
-      "text": "Artifak"
+      "text": "Artefak"
     },
     {
       "key": "Shop_Category_Etc",
@@ -142,23 +150,23 @@
     },
     {
       "key": "Log_ItemAcquired",
-      "text": "Mendapatkan Item: {0} x{1}"
+      "text": "Item Diperoleh: {0} x{1}"
     },
     {
       "key": "Log_ItemAcquiredKeyItem",
-      "text": "Mendapatkan Item: <color=#{2}>{0} x{1}</color>"
+      "text": "Item Diperoleh: <color=#{2}>{0} x{1}</color>"
     },
     {
       "key": "Log_CurrencyEarned",
-      "text": "Mendapatkan: {0} bola mata"
+      "text": "Diperoleh: {0} bola mata"
     },
     {
       "key": "Log_Purchased",
-      "text": "Membeli: {0} x{1} (Terpakai {2})"
+      "text": "Dibeli: {0} x{1} (Terpakai {2})"
     },
     {
       "key": "Log_PurchasedKeyItem",
-      "text": "Membeli: <color=#{3}>{0} x{1}</color> (Terpakai {2})"
+      "text": "Dibeli: <color=#{3}>{0} x{1}</color> (Terpakai {2})"
     },
     {
       "key": "Log_NpcInteracted",
@@ -166,11 +174,11 @@
     },
     {
       "key": "Log_ProjectileRemoved",
-      "text": "Proyektil Dihapus: {0}"
+      "text": "Projektil Dihapus: {0}"
     },
     {
       "key": "Log_ChoiceSelected",
-      "text": "Pilihan Diambil: {0}"
+      "text": "Pilihan Dibuat: {0}"
     },
     {
       "key": "Log_QuestAcquired",
@@ -185,16 +193,12 @@
       "text": "Kemajuan Misi: {0}"
     },
     {
-      "key": "Log_PlayerHit",
-      "text": "Menerima Serangan: {0}"
-    },
-    {
       "key": "Log_BattleResultSync",
       "text": "Hasil Pertempuran Diterapkan: ({0}): HP {1}/{2}, MP {3}/{4}"
     },
     {
       "key": "Log_BattleDefeatHp",
-      "text": "Kekalahan dalam Pertempuran: HP {0}"
+      "text": "Pertempuran Kalah: HP {0}"
     },
     {
       "key": "Log_CheatVitals",
@@ -202,11 +206,11 @@
     },
     {
       "key": "Log_EventEffectVitals",
-      "text": "Efek Acara: {0}"
+      "text": "Efek Event: {0}"
     },
     {
       "key": "Log_RecruitFullRecover",
-      "text": "Mendapatkan Sekutu ({0}): Pemulihan Penuh HP/SP"
+      "text": "Rekan peroleh ({0}): Memulihkan Penuh HP/SP"
     },
     {
       "key": "Log_VitalsNoChange",
@@ -214,19 +218,19 @@
     },
     {
       "key": "Log_NpcDefeated",
-      "text": "{0} Dikalahkan"
+      "text": "Mengalahkan {0}"
     },
     {
       "key": "Log_PlayerDead",
-      "text": "Pemain Gugur"
+      "text": "Pemain Mati"
     },
     {
       "key": "Log_BattleEntered",
-      "text": "Pertempuran Dimulai"
+      "text": "Memulai Pertempuran"
     },
     {
       "key": "Log_BattleWin",
-      "text": "Pertempuran Dimenangkan"
+      "text": "Pertempuran Menang"
     },
     {
       "key": "Log_BattleLose",
@@ -238,11 +242,11 @@
     },
     {
       "key": "Log_EscapeBlocked",
-      "text": "Tidak dapat meninggalkan ruangan ini saat ini."
+      "text": "Tidak bisa meninggalkan ruangan ini saat ini."
     },
     {
       "key": "Log_WardenAppeared",
-      "text": "Firasat buruk yang meresahkan mulai terasa."
+      "text": "Perasaan pertanda buruk mulai menjalar."
     },
     {
       "key": "Log_SuicideBlocked",
@@ -254,7 +258,7 @@
     },
     {
       "key": "ProgressPopup_Suicide",
-      "text": "Akhiri\nHidup"
+      "text": "Kembali\nke Air Mancur"
     },
     {
       "key": "ProgressPopup_EnemyAttackIndication",
@@ -262,15 +266,15 @@
     },
     {
       "key": "ProgressPopup_MyAttackIndication",
-      "text": "Tampilkan jangkauan serangan kawan secara tepat"
+      "text": "Tampilkan jangkauan serangan sekutu secara tepat"
     },
     {
       "key": "ProgressPopup_Restore",
-      "text": "Pulihkan Savepoint"
+      "text": "Pulihkan Titik Penyimpanan"
     },
     {
       "key": "RestorePopup_Title",
-      "text": "Pulihkan Savepoint"
+      "text": "Pulihkan Titik Penyimpanan"
     },
     {
       "key": "RestorePopup_Checking",
@@ -278,7 +282,7 @@
     },
     {
       "key": "RestorePopup_FoundNoQuest",
-      "text": "Penyimpanan otomatis yang dapat dipulihkan ditemukan."
+      "text": "Simpanan otomatis yang dapat dipulihkan ditemukan."
     },
     {
       "key": "RestoreCompare_ColCurrent",
@@ -302,15 +306,15 @@
     },
     {
       "key": "RestorePopup_None",
-      "text": "Tidak ada penyimpanan otomatis yang dapat dipulihkan."
+      "text": "Tidak ada simpanan otomatis yang dapat dipulihkan."
     },
     {
       "key": "RestorePopup_LoadFailed",
-      "text": "Tidak dapat memverifikasi informasi penyimpanan otomatis."
+      "text": "Tidak dapat memverifikasi informasi simpanan otomatis."
     },
     {
       "key": "RestorePopup_Confirm",
-      "text": "Setiap kemajuan yang anda buat sejak titik penyimpanan tersebut akan dihapus. Proses ini tidak dapat dibatalkan. Tetap pulihkan penyimpanan?"
+      "text": "Setiap kemajuan yang kamu buat sejak titik penyimpanan tersebut akan dihapus. Proses ini tidak dapat dibatalkan. Tetap pulihkan simpanan?"
     },
     {
       "key": "RestorePopup_Running",
@@ -318,7 +322,7 @@
     },
     {
       "key": "RestorePopup_NeedRestart",
-      "text": "Berhasil dipulihkan. Setiap kemajuan yang dibuat setelah titik ini tidak akan disimpan. Harap muat ulang permainan."
+      "text": "Dipulihkan. Setiap kemajuan yang dibuat setelah titik ini tidak akan disimpan. Harap mulai ulang game."
     },
     {
       "key": "RestorePopup_Close",
@@ -326,7 +330,7 @@
     },
     {
       "key": "Inventory_Empty",
-      "text": "Tidak ada item di dalam inventory."
+      "text": "Tidak ada item dalam inventaris."
     },
     {
       "key": "Inventory_NotSelected",
@@ -335,6 +339,14 @@
     {
       "key": "LogPopup_Title",
       "text": "Riwayat Log"
+    },
+    {
+      "key": "LogPopup_Tab_Story",
+      "text": "Log Cerita"
+    },
+    {
+      "key": "LogPopup_Tab_System",
+      "text": "Log Sistem"
     },
     {
       "key": "Setting_Tab_Sisyphus",
@@ -346,11 +358,63 @@
     },
     {
       "key": "Setting_Sisyphus_KeyManual",
-      "text": "Panduan pintasan keyboard"
+      "text": "Panduan pintasan papan ketik"
     },
     {
       "key": "Setting_Sisyphus_CensorDeadscene",
       "text": "Sensor adegan kematian"
+    },
+    {
+      "key": "Setting_Sisyphus_LightMode",
+      "text": "Mode Pencahayaan"
+    },
+    {
+      "key": "Setting_Sisyphus_Brightness",
+      "text": "Sesuaikan Kecerahan"
+    },
+    {
+      "key": "Setting_Sisyphus_BrightnessCeiling",
+      "text": "Batasi Kecerahan Puncak"
+    },
+    {
+      "key": "Setting_Sisyphus_MoveAssist",
+      "text": "Koreksi Pergerakan Arah"
+    },
+    {
+      "key": "Setting_Sisyphus_RunStartDelay",
+      "text": "Pengatur Waktu Lari Otomatis"
+    },
+    {
+      "key": "Setting_Sisyphus_VirtualPadWalkStart",
+      "text": "Batas Jalan Joystick Virtual"
+    },
+    {
+      "key": "Setting_Sisyphus_VirtualPadRunKeep",
+      "text": "Radius Pertahankan Lari Joystick Virtual"
+    },
+    {
+      "key": "Setting_Sisyphus_VirtualPadRunStart",
+      "text": "Batas Lari Cepat Joystick Virtual"
+    },
+    {
+      "key": "Setting_Sisyphus_TurnAssist",
+      "text": "Penyesuaian Batas Perubahan Arah"
+    },
+    {
+      "key": "Setting_Sisyphus_VirtualPadMode",
+      "text": "Pad Virtual"
+    },
+    {
+      "key": "Setting_Sisyphus_VirtualPadModeFixed",
+      "text": "Tetap"
+    },
+    {
+      "key": "Setting_Sisyphus_VirtualPadModeFloating",
+      "text": "Mengambang"
+    },
+    {
+      "key": "Setting_Sisyphus_RunStartDelayValue",
+      "text": "{0} Detik"
     },
     {
       "key": "Setting_Sisyphus_Move",
@@ -366,7 +430,7 @@
     },
     {
       "key": "Setting_Sisyphus_GauntletSuicide",
-      "text": "Gunakan sarung tangan besi untuk mengakhiri hidup"
+      "text": "Kembali ke Air Mancur"
     },
     {
       "key": "Setting_Sisyphus_Attack",
@@ -374,11 +438,11 @@
     },
     {
       "key": "Setting_Sisyphus_Guard",
-      "text": "Bertahan"
+      "text": "Tahan"
     },
     {
       "key": "Setting_Sisyphus_Dodge",
-      "text": "Menghindar"
+      "text": "Hindar"
     },
     {
       "key": "Setting_Sisyphus_Run",
@@ -398,15 +462,15 @@
     },
     {
       "key": "Setting_Sisyphus_Inventory",
-      "text": "Lihat inventory"
+      "text": "Lihat Inventaris"
     },
     {
       "key": "Setting_Sisyphus_DialogueNext",
-      "text": "Lanjutkan / Konfirmasi pilihan dialog"
+      "text": "Lanjutkan / Finalisasi pilihan dialog"
     },
     {
       "key": "Setting_Sisyphus_DialogueChoice",
-      "text": "Telusuri pilihan dialog"
+      "text": "Jelajahi pilihan dialog"
     },
     {
       "key": "Setting_Sisyphus_DialogueSkip",
@@ -418,7 +482,7 @@
     },
     {
       "key": "Setting_Sisyphus_CreditFastForward",
-      "text": "Percepat guliran kredit"
+      "text": "Percepat gulir kredit"
     },
     {
       "key": "Setting_Sisyphus_CreditSkip",
@@ -426,7 +490,7 @@
     },
     {
       "key": "Setting_Sisyphus_QuestNavigation",
-      "text": "Beralih panah navigasi misi"
+      "text": "Beralih Panah Navigasi Misi"
     },
     {
       "key": "Setting_Sisyphus_TabDefault",
@@ -434,11 +498,11 @@
     },
     {
       "key": "Setting_Sisyphus_TabMobile",
-      "text": "Kontrol (Ponsel)"
+      "text": "Kontrol (Seluler)"
     },
     {
       "key": "WardenBigNail",
-      "text": "Paku Besar Sang Penjaga"
+      "text": "Paku Agung Sang Sipir"
     },
     {
       "key": "FormationUI_AskToBack",
@@ -450,7 +514,7 @@
     },
     {
       "key": "Setting_Sisyphus_BattleStatus",
-      "text": "Status di dalam Kegelapan"
+      "text": "Status dalam Bawah Bayang-Bayang"
     },
     {
       "key": "TheaterTitle",
@@ -466,7 +530,7 @@
     },
     {
       "key": "Setting_Sisyphus_MobileAutoAttack",
-      "text": "Serangan Otomatis"
+      "text": "Serangan otomatis"
     },
     {
       "key": "Setting_Sisyphus_MobileInteraction",

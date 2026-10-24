@@ -2,66 +2,66 @@
   "dataList": [
     {
       "id": 40004101,
-      "name": "The Nascent Dewa Lembayung",
-      "desc": "When unit ini gains [Charge], gains [ChargeRouge] instead\n\nEncounter Start: Peroleh 1 [ChargeRouge] Potency\n\nAwal Giliran: At 2+ [ChargeRouge] Potency, peroleh +([ChargeRouge] Potency x 2) [ChargeRouge] Count",
+      "name": "Dewa Crimson yang Baru Lahir",
+      "desc": "Ketika unit ini peroleh [Charge], peroleh [ChargeRouge] saja\n\nAwal Pertemuan: Peroleh 1 Potency [ChargeRouge]\n\nAwal Giliran: Pada 2+ Potency [ChargeRouge], peroleh +(Potency [ChargeRouge] x 2) Count [ChargeRouge]",
       "summary": "Peroleh [ChargeRouge]",
-      "flavor": "A young god, but a god nonetheless."
+      "flavor": "Dewa  yangmuda, namun tetaplah dewa."
     },
     {
       "id": 40004102,
-      "name": "Pulsating Nature",
-      "desc": "Peroleh +1 [ChargeRouge] Count every time [Laceration] effect is activated in an Encounter",
-      "summary": "Peroleh [ChargeRouge] Count",
-      "flavor": "Why... does blood make my heart rush so excitedly?"
+      "name": "Sifat Denyutan",
+      "desc": "Peroleh +1 Count [ChargeRouge] setiap kali efek [Laceration] di aktifkan di sebuah Pertemuan",
+      "summary": "Peroleh Count [ChargeRouge]",
+      "flavor": "Kenapa... darah membuat jantungku berdebar kencang?"
     },
     {
       "id": 40004103,
-      "name": "The Adventure",
-      "desc": "Peroleh the following effects based on [ChargeRouge] Potency pada diri sendiri\n- 1+: For every [ChargeRouge] Count, beri +2% damage and pulihkan +10% HP pada target (maks 20%, 100% respectively; dibulatkan ke bawah)\n- 2+: Base Power +1 untuk setiap 2 [ChargeRouge] Potency pada diri sendiri\n- 3+: Awal Giliran: Jika unit ini tidak memiliki [GourmandiseAlly], and jika unit ini memiliki 15+ [ChargeRouge] Count, consume all [ChargeRouge] Count and gain 3 [GourmandiseAlly]\n- 4+: Skill Slot +1\n- 5+: Encounter Start: Peroleh 3 [GourmandiseAlly] and inflict 3 [BloodyMucusAlly] on all enemies",
-      "summary": "Effect enhanced based on [ChargeRouge] Potency pada diri sendiri",
-      "flavor": "With every step they take, toddling from behind their first guardians, the child learns about the world, about the department store... and themself."
+      "name": "Petualangan ",
+      "desc": "Peroleh efek berikut berdasarkan Potency [ChargeRouge] pada diri sendiri\n- 1+: Untuk setiap Count [ChargeRouge], beri +2% damage dan pulihkan +10% HP pada target (maks 20%, 100% masing-masing; dibulatkan ke bawah)\n- 2+: Base Power +1 untuk setiap 2 Potency [ChargeRouge] pada diri sendiri\n- 3+: Awal Giliran: Jika unit ini tidak memiliki [GourmandiseAlly], dan jika unit ini memiliki 15+ Count [ChargeRouge], konsumsi semua Count [ChargeRouge] dan peroleh 3 [GourmandiseAlly]\n- 4+: Skill Slot +1\n- 5+: Awal Pertemuan: Peroleh 3 [GourmandiseAlly] dan beri 3 [BloodyMucusAlly] pada seluruh musuh",
+      "summary": "Efek diperkuat berdasarkan Potency [ChargeRouge] pada diri sendiri",
+      "flavor": "Dengan setiap langkah yang mereka ambil, berjalan dari belakang wali pertama mereka, anak tersebut belajar tentang dunia, tentang toko departemen... dan dirinya sendiri.."
     },
     {
       "id": 40004104,
-      "name": "A Helping Hand",
-      "desc": "Ketika kawan is Staggered during an Encounter, use \"Grab My Hand\" on the said ally (2 kali per giliran)"
+      "name": "Tangan yang Membantu",
+      "desc": "Ketika kawan terkena Stagger dalam Pertemuan, gunakan \"Pegang Tanganku\" pada kawan tersebut (2 kali per giliran)"
     },
     {
       "id": 40004105,
-      "name": "Body Out of Control",
-      "desc": "Jika unit ini memiliki [GourmandiseAlly], gain the following effects:\n- Heal HP setara dengan 20% of damage dealt\n- Pada Penggunaan Skill, peroleh +3 [Laceration] Count\n- On Hit using a Skill, peroleh 1 [Laceration]",
+      "name": "Tubuh Tak Terkendali",
+      "desc": "Jika unit ini memiliki [GourmandiseAlly], peroleh efek berikut:\n- Pulihkan HP setara dengan 20% dari damage yang diberikan\n- Pada Penggunaan Skill, peroleh +3 Count [Laceration]\n- Saat Serang menggunakan Skill, peroleh 1 [Laceration]",
       "summary": "Peroleh 1 [Laceration]",
-      "flavor": "Though the arms, legs, and everything else about their body feels alien to the child, the faint beating from their core will soon begin its mad pulsation."
+      "flavor": "Meskipun lengan, kaki, dan segala sesuatu di tubuh mereka terasa asing bagi anak tersebut, detak samar dari inti mereka akan segera memulai denyutnya yang gila."
     },
     {
       "id": 40004107,
-      "name": "Leather-sewing Nail",
-      "desc": "When unit ini fails to defeat an enemy using its Attack Skills, use \"I'll End It for You...\" on the said enemy (sekali per giliran)",
-      "flavor": "They said I needed a thick, sturdy nail to punch through leather for sewing. If that didn't work, I just need to try again...!"
+      "name": "Paku penjahit kulit",
+      "desc": "Ketika unit ini gagal untuk mengalahkan musuh dengan Skill Serangan-nya, gunakan \"Akan Kuakhiri Untukmu...\" pada musuh tersebut (sekali per giliran)",
+      "flavor": "Mereka bilang aku cuma butuh paku yang tebal dan kokoh untuk menembus kulit untuk menjahit. Kalau ga berhasil, aku hanya perlu mengulangnya lagi...!"
     },
     {
       "id": 40004108,
-      "name": "Fate Lost",
-      "desc": "Lose this Encounter jika unit ini is killed",
-      "flavor": "One may get lost and wander onto the wrong path, but willful defiance or deviation from the flow are forbidden by \"it.\""
+      "name": "Nasib Kalah",
+      "desc": "Kalah Pertemuan ini jika unit ini terbunuh",
+      "flavor": "Seseorang mungkin tersesat dan tersesat di jalan yang salah, namun pembangkangan atau penyimpangan yang disengaja dari arus dilarang oleh \"dia\"."
     },
     {
       "id": 40004202,
-      "name": "Fate Lost",
-      "desc": "Lose this Encounter jika unit ini is killed",
-      "flavor": "One may get lost and wander onto the wrong path, but willful defiance or deviation from the flow are forbidden by \"it.\""
+      "name": "Nasib Kalah",
+      "desc": "Kalah Pertemuan ini jika unit ini terbunuh",
+      "flavor": "Seseorang mungkin tersesat dan tersesat di jalan yang salah, namun pembangkangan atau penyimpangan yang disengaja dari arus dilarang oleh \"dia\"."
     },
     {
       "id": 40004203,
       "name": "Le Visqueux-Abject",
-      "desc": "This unit takes damage only from Skills mainly targeting unit ini, and it takes no other damage\n\nUpon entering the Encounter for the first time, generate [BuffetField] on the field\n\nAwal Giliran: Targets within the [BuffetField] gain the following effects:\n- Allies (including unit ini)\n  · Pulihkan 5% HP\n  · Peroleh +4 Count [Charge]\n  · Peroleh 1 [Protection]\n  · If the affected ally is a \"Le Rouge\" unit, peroleh 2 [Enhancement]\n  · E.G.O Skills beri +50% damage\n\n- Enemies\n  · Peroleh 3 [AttackDown]\n  · Peroleh 3 [DefenseDown]\n  · Peroleh 2 [BloodyMucusAlly]",
-      "flavor": "In an endless feast, the Dewa Lembayung mengonsumsi and mengonsumsi; what is devoured is then digested and excreted as a field of mucus around them.\nThis is the outcome of consumption, where the distinction between self and other blurs. Is this phlegmatic discharge a part of me, or is it of another? Within this boundary, all that is mine pulsates, while all that is not disintegrates.\n\nFor I am afraid of what lies outside the periphery."
+      "desc": "Unit ini hanya menerima damage dari Skill yang menyerang unit ini sebagai target utama-nya, dan tidak akan menerima damage lain\n\nSetelah memasuki Pertemuan untuk pertama kalinya, hasilkan [BuffetField] di medan tempur\n\nAwal Giliran: Target di dalam [BuffetField] peroleh efek berikut:\n- Kawan (termasuk unit ini)\n  · Pulihkan 5% HP\n  · Peroleh +4 Count [Charge]\n  · Peroleh 1 [Protection]\n  · Jika kawan yang terpengaruh adalah unit \"Le Rouge\", peroleh 2 [Enhancement]\n  · Skill E.G.O beri +50% damage\n\n- Musuh\n  · Peroleh 3 [AttackDown]\n  · Peroleh 3 [DefenseDown]\n  · Peroleh 2 [BloodyMucusAlly]",
+      "flavor": "Dalam pesta tiada akhir, Dewa Crimson mengonsumsi dan mengonsumsi; apa yang dimakan kemudian dicerna dan dikeluarkan sebagai ladang lendir di sekelilingnya.\nInilah hasil konsumsi, dimana perbedaan antara diri sendiri dan orang lain menjadi kabur. Apakah keluarnya cairan apatis ini merupakan bagian dari diri saya, atau bagian lain? Dalam batas ini, semua milikku berdenyut, sementara semua yang tidak hancur.\n\nKarena aku takut dengan apa yang ada di luar pinggiran."
     },
     {
       "id": 40004204,
       "name": "La Fin de l'Enfance",
-      "desc": "Encounter Start: Peroleh 5 [ChargeRouge] Potency\n\nTurn End: At 15+ [ChargeRouge] Count, equip \"La Nausée\" Skill\nEvery Awal Giliran: Peroleh +20 [Aggro]",
-      "flavor": "Who determines the childhood's end?\n\nThe crimson child matured throughout the adventure, shaped by their experiences and sketching their own future at the end of the journey—or so they thought. Their childhood came to a sudden halt, and so too did the adventure; it was never something they could've ended on their own terms.\n\nChildhood's end is a sudden, violent intrusion of reality from the world outside, more a forceful notice than a promised ritual: \"You're not a child anymore.\""
+      "desc": "Awal Pertemuan: Peroleh 5 Potency [ChargeRouge]\n\nAkhir Giliran: Pada 15+ Count [ChargeRouge], gunakan Skill \"La Nausée\"\nSetiap Awal Giliran: Peroleh +20 [Aggro]",
+      "flavor": "Siapa yang menentukan akhir masa kecil?\n\nAnak crimson itu menjadi dewasa sepanjang petualangan, dibentuk oleh pengalaman mereka dan membuat sketsa masa depan mereka sendiri di akhir perjalanan—atau begitulah yang mereka pikirkan. Masa kecil mereka tiba-tiba terhenti, begitu pula petualangannya; hal ini bukanlah sesuatu yang bisa mereka akhiri dengan cara mereka sendiri.\n\nAkhir masa kanak-kanak adalah gangguan realitas yang tiba-tiba dan penuh kekerasan dari dunia luar, lebih merupakan pemberitahuan yang kuat daripada ritual yang dijanjikan: \"Kamu bukan anak kecil lagi.\""
     }
   ]
 }

@@ -13,7 +13,7 @@
     {
       "key": "I1201",
       "displayName": "Kaset Audio",
-      "description": "Suara lama Dewa Lembayung terdengar lagi, mengulang apa yang dulu pernah diucapkannya. Ini suara yang pernah didengar para Rouge. Mereka yang punya keyakinan lebih kuat bisa mendengar cerita yang lebih mendalam."
+      "description": "Suara lama Dewa Crimson terdengar lagi, mengulang apa yang dulu pernah diucapkannya. Ini suara yang pernah didengar para Rouge. Mereka yang punya keyakinan lebih kuat bisa mendengar cerita yang lebih mendalam."
     },
     {
       "key": "I1206",
@@ -64,7 +64,7 @@
       "key": "I990104",
       "displayName": "Hoodie Ziper Kasual Le Rouge",
       "statText": "<color=#fe4b48>Damage</color> Diberikan +1 di Symbolic",
-      "description": "Ke mana Dewa kita pergi?"
+      "description": "Kemana Dewa kita pergi?"
     },
     {
       "key": "I990105",
@@ -176,13 +176,13 @@
       "key": "I990405",
       "displayName": "Sepatu Boots Chelsea Le Rouge",
       "statText": "Membuka <color=#F8C200>Avant</color> di Symbolic\n- Avant: Tekan tombol Serangan sekali lagi setelah Serangan terakhir untuk mengaktifkan <color=#F8C200>Avant</color>\n- Saat mengaktifkan Avant, melakukan tebasan depan yang luas untuk memberikan efek <color=#F8C200>Knockback</color> ke musuh yang terkena\n- Saat diaktifkan selama <color=#F8C200>Garde</color>, <color=#F8C200>Jangkauan Serangan</color> dan <color=#F8C200>Jarak Knockback</color> meningkat berdasarkan level Garde",
-      "description": "Sepatu itu butuh bernapas. Orang-orang Noir itu salah—alas kaki nggak seharusnya ditutup rapat. Sepatu harus tetap lentur dan membiarkan kaki bernapas. Cuma dengan begitu kamu bisa benar-benar berdiri di atas bumi. Kalau nggak, kamu cuma sekadar ditaruh di atasnya, terputus dari tanah di bawahmu."
+      "description": "Sepatu itu butuh bernapas. Orang-orang Noir itu salah—alas kaki nggak seharusnya ditutup rapat. Sepatu harus tetap lentur dan membiarkan kaki bernapas. Cuma dengan begitu kamu bisa benar-benar berdiri di atas bumi. Kalau nggak, kamu cuma sekedar ditaruh di atasnya, terputus dari tanah di bawahmu."
     },
     {
       "key": "I990406",
       "displayName": "Kursi Recliner",
       "statText": "<color=#00ff9c>Memulihkan</color> 1 <color=#00ff9c>HP</color> Symbolic setiap 15 detik sejak terakhir kali menerima <color=#fe4b48>Damage</color> (maks 4)\n- Istirahat di Fount untuk mengisinya kembali",
-      "description": "Pangan, sandang, papan. Mebel itu masuk ke mana? Apa mebel itu tempat yang kita tinggali, atau sesuatu yang kita pakai seperti pakaian?\nOh, bukan dua-duanya. Mebel adalah jembatan antara pakaian dan tempat tinggal."
+      "description": "Pangan, sandang, papan. Mebel itu masuk kemana? Apa mebel itu tempat yang kita tinggali, atau sesuatu yang kita pakai seperti pakaian?\nOh, bukan dua-duanya. Mebel adalah jembatan antara pakaian dan tempat tinggal."
     },
     {
       "key": "I990407",
@@ -411,7 +411,7 @@
     {
       "key": "I990815",
       "displayName": "Sisa Makanan",
-      "statText": "Selama pertempuran di Shadowed:\nAwal Giliran: Rekan yang memiliki <color=#00ff9c>HP</color> di bawah 50% mendapatkan 1 Boost <color=#00ff9c>Pemulihan HP</color> (4 kali per Encounter)",
+      "statText": "Selama pertempuran di Shadowed:\nAwal Giliran: Rekan yang memiliki <color=#00ff9c>HP</color> di bawah 50% mendapatkan 1 Boost <color=#00ff9c>Pemulihan HP</color> (4 kali per Pertemuan)",
       "description": "Kamu tahu nggak di mana batas makanan berakhir dan sisa makanan dimulai?\n\nAmbil satu gigitan lalu buang sisanya, maka itu bakal jadi sampah. Tapi buat beberapa orang, sampah itu berubah jadi bahan langka yang luar biasa, yang dilahap dengan gembira. Maksudku, apa yang dianggap sebagai sisa makanan itu masalah yang sangat penting di Pujasera... dan sekarang, apa pun yang bukan Noir bakal dianggap sisa makanan."
     },
     {
@@ -525,7 +525,7 @@
       "key": "I102023",
       "displayName": "Barang Peninggalan Direktur Merek",
       "statText": "Saat terkena serangan di Symbolic, peluang 10% untuk membalas 3 <color=#fe4b48>Damage</color> terhadap penyerang",
-      "description": "Direktur Merek Le Rouge.\n\nSetiap arti dan arah dari merek ini diputuskan di bawah perintahnya. Nggak ada orang yang mendengar Suara Dewa Crimson lebih jelas daripada dia. Hebatnya, bahkan setelah Suara itu menghilang, sang Direktur Merek berusaha menciptakan sosok baru yang bisa menyampaikan Suara itu lagi. Ketidakhadiran Dewa Lembayung sebenarnya bisa saja disembunyikan kalau dia mau, tapi dia memilih untuk nggak menyembunyikannya."
+      "description": "Direktur Merek Le Rouge.\n\nSetiap arti dan arah dari merek ini diputuskan di bawah perintahnya. Nggak ada orang yang mendengar Suara Dewa Crimson lebih jelas daripada dia. Hebatnya, bahkan setelah Suara itu menghilang, sang Direktur Merek berusaha menciptakan sosok baru yang bisa menyampaikan Suara itu lagi. Ketidakhadiran Dewa Crimson sebenarnya bisa saja disembunyikan kalau dia mau, tapi dia memilih untuk nggak menyembunyikannya."
     },
     {
       "key": "I990919",
